@@ -1,52 +1,52 @@
 import React from 'react';
 import { Tabs } from 'expo-router';
-import { Home, MessageSquareText, Trophy, User } from 'lucide-react-native'; // Example Icons
-import { useColorScheme } from '~/lib/useColorScheme';
-import { NAV_THEME } from '~/lib/constants'; // Assuming constants are still here for now
+import { HomeIcon, BoltIcon, UserCircleIcon, PuzzlePieceIcon } from '~/components/icons';
+import { useColorScheme } from 'react-native';
+import { NAV_THEME } from '~/lib/constants'; 
 
 export default function TabLayout() {
-  const { isDarkColorScheme } = useColorScheme();
-  const colors = isDarkColorScheme ? NAV_THEME.dark : NAV_THEME.light;
+  const colorScheme = useColorScheme();
+  const theme = NAV_THEME[colorScheme ?? 'light'];
 
   return (
     <Tabs
       screenOptions={{
-        tabBarActiveTintColor: colors.primary,
-        tabBarInactiveTintColor: colors.inactive,
+        tabBarActiveTintColor: theme.purple, 
+        tabBarInactiveTintColor: theme.inactive,
         tabBarStyle: {
-          backgroundColor: colors.card, // Use card color for tab bar background
-          borderTopColor: colors.border, // Use border color for the top border
+          backgroundColor: theme.background,
+          borderTopWidth: 1,
+          borderTopColor: theme.inactive, 
         },
-        headerShown: false, // We'll handle headers in nested stacks or screens
+        headerShown: false,
       }}
     >
       <Tabs.Screen
         name="home"
         options={{
           title: 'Home',
-          tabBarIcon: ({ color, size }) => <Home color={color} size={size} />,
+          tabBarIcon: ({ color, size, focused }) => <HomeIcon color={color} selected={focused} />,
         }}
       />
       <Tabs.Screen
-        name="speak"
+        name="practice"
         options={{
-          title: 'Speak',
-          // Consider renaming this later to 'Practice' if needed
-          tabBarIcon: ({ color, size }) => <MessageSquareText color={color} size={size} />,
+          title: 'Practice',
+          tabBarIcon: ({ color, size, focused }) => <PuzzlePieceIcon color={color} selected={focused} />,
         }}
       />
       <Tabs.Screen
         name="challenge"
         options={{
           title: 'Challenge',
-          tabBarIcon: ({ color, size }) => <Trophy color={color} size={size} />,
+          tabBarIcon: ({ color, size, focused }) => <BoltIcon color={color} selected={focused} />,
         }}
       />
       <Tabs.Screen
         name="profile"
         options={{
           title: 'Profile',
-          tabBarIcon: ({ color, size }) => <User color={color} size={size} />,
+          tabBarIcon: ({ color, size, focused }) => <UserCircleIcon color={color} selected={focused} />,
         }}
       />
     </Tabs>
