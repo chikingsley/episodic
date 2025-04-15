@@ -353,9 +353,11 @@ const HQScreen = () => {
               </ClassifiedOverlay>
             </div>
             
-            <button className="w-full bg-red-800 hover:bg-red-700 transition-colors py-3 rounded-md font-mono text-white mb-6">
-              RESUME TRAINING MODULE 2
-            </button>
+            <a href="/lesson/lesson-basic-greetings">
+              <button className="w-full bg-red-800 hover:bg-red-700 transition-colors py-3 rounded-md font-mono text-white mb-6">
+                START BASIC GREETINGS LESSON
+              </button>
+            </a>
           </div>
         </div>
       )}
