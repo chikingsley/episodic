@@ -21,22 +21,24 @@ This checklist outlines the UI development tasks based on the project's planning
 
 ## Phase 2: Global Component Library (`react-native-reusables` + Custom)
 
--   [ ] **Base Component Styling:** Style core `react-native-reusables` components using NativeWind according to guidelines:
-    -   [ ] `Button`: 8px radius, optional 2px border (`#991B1B`), 12px vertical padding, base dark style, crimson accent variants.
-    -   [ ] `Card`: 12px radius, 1px border (`#4B5563` or accent), 16px padding, `#1F2937` background, subtle gradient overlay (optional).
-    -   [ ] `Input`: `#111827` background, light text, `#991B1B` accent on focus, 12px padding.
-    -   [ ] `Progress`: 4px height, rounded ends, `#991B1B` or `#A2851D` fill color, implement animated fill (Reanimated, 300ms). *Compare with `language-progress-ui.tsx`*.
-    -   [ ] `Switch`: Custom style resembling security switches (red/green indicators).
-    -   [ ] `Text`: Ensure default text styles align with typography guidelines.
-    -   [ ] `Modal/Dialog`: Style with dark background, potentially using standard card styling for content area. Apply 70% opacity overlay.
-    -   [ ] `Tooltip`: Style with dark background (`#111827` or `#1F2937`), apply 40% opacity overlay if applicable.
+-   [x] **Setup Icons:**
+    -   [x] Create `dm/lib/icons/iconWithClassName.ts`.
+    -   [x] Create files in `dm/lib/icons/` for needed Lucide icons (e.g., `Home`, `Target`, `Map`, `User`), wrap with `iconWithClassName`, and create barrel export.
+-   [ ] **Base Component Styling:** Style core `react-native-reusables` components in `dm/components/ui/` using NativeWind classes according to guidelines:
+    -   [ ] `Button`: 8px radius, optional 2px border (`dm-crimson`), 12px vertical padding, base dark style, crimson accent variant(s).
+    -   [ ] `Card`: 12px radius, 1px border (`colors.border` or `dm-crimson`), 16px padding, `colors.card` background, optional subtle gradient.
+    -   [ ] `Input`: `dm-neutral-dark` background, `colors.foreground` text, `dm-crimson` accent on focus, 12px padding.
+    -   [ ] `Progress`: 4px height, rounded ends, `dm-crimson` or `dm-gold` fill, implement animated fill (Reanimated, 300ms).
+    -   [ ] `Switch`: Custom style resembling security switches (red/green indicators using `dm-danger`/`dm-success`).
+    -   [ ] `Text`: Ensure default uses `font-mono` and correct base sizes (`text-base`, `text-sm`).
+    -   [ ] `Dialog`: Style content area (likely uses `Card` styling), ensure overlay uses standard opacity (`bg-background/70` or similar).
+    -   [ ] `Tooltip`: Style with dark background (`dm-neutral-dark` or `dm-neutral-light`), ensure overlay uses standard opacity (`bg-background/40` or similar).
 -   [ ] **Custom Global Components:**
-    -   [ ] `Icon`: Component to consistently render icons from chosen library (`lucide-react-native` or custom set) with standard sizing/styling.
-    -   [ ] `Header`: Reusable screen header component adhering to typography rules.
-    -   [ ] `StatusIndicator`: Component for various states (dot style, ribbon style - pending, active, completed, locked, compromised).
-    -   [ ] `LoadingAnimation`: Reusable loading component (scanning/decryption theme) using Reanimated.
+    -   [ ] Create `dm/components/Header.tsx`: Basic structure, apply header typography rules.
+    -   [ ] Create `dm/components/StatusIndicator.tsx`: Basic structure, define variants (dot, ribbon), apply functional colors.
+    -   [ ] Create `dm/components/LoadingAnimation.tsx`: Basic structure, placeholder, plan Reanimated integration (scanning/decryption theme).
 -   [ ] **Interaction States:**
-    -   [ ] Define and apply standard hover/press states for interactive elements (subtle glow/shadow with accent color, inset shadow + scale for buttons). Use Reanimated for press animations.
+    -   [ ] Define and apply standard hover/press states for interactive elements (`Button`, `Switch`, etc.): subtle glow (`shadow-dm-crimson`?), inset shadow + scale. Use Reanimated for press animations.
 
 ## Phase 3: HQ & Mission Flow Screens
 

@@ -1,6 +1,6 @@
 import { Tabs } from 'expo-router';
 import { useTheme } from '@react-navigation/native';
-import { Home, Target, Map, User, Cog } from 'lucide-react-native'; // Placeholder icons
+import { Home, Target, Map, User } from '~/lib/icons'; // Import from barrel file
 
 export default function TabsLayout() {
   const { colors } = useTheme(); // Use theme colors defined in root layout
