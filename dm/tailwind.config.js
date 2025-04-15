@@ -1,4 +1,5 @@
 const { hairlineWidth } = require('nativewind/theme');
+const { fontFamily } = require('tailwindcss/defaultTheme');
 
 /** @type {import('tailwindcss').Config} */
 module.exports = {
@@ -7,6 +8,12 @@ module.exports = {
   presets: [require('nativewind/preset')],
   theme: {
     extend: {
+      fontFamily: {
+        'jetbrains-mono-regular': ['JetBrains Mono_400Regular', ...fontFamily.mono],
+        'jetbrains-mono-medium': ['JetBrains Mono_500Medium', ...fontFamily.mono],
+        'jetbrains-mono-semibold': ['JetBrains Mono_600SemiBold', ...fontFamily.mono],
+        'jetbrains-mono-bold': ['JetBrains Mono_700Bold', ...fontFamily.mono],
+      },
       colors: {
         border: 'hsl(var(--border))',
         input: 'hsl(var(--input))',

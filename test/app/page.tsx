@@ -1,164 +1,115 @@
-"use client"
+'use client';
 
-import Image from "next/image";
-import { useState } from "react";
-import MissionBriefingModal from "../components/mission-briefing-modal";
-import IntelBriefingCards from "../components/intel-briefing-cards";
-import TacticalMapVisualization from "../components/tactical-map-visualization";
+import { useState } from 'react';
+import HQScreen from '../components/hq-screen';
+import IntelScreen from '../components/intel-screen';
+import ProfileScreen from '../components/settings-screen';
+// import LessonFlowDemo from '../components/lesson-flow';
 
-export default function Home() {
-  const [modalOpen, setModalOpen] = useState(false);
-  const [showIntelBriefing, setShowIntelBriefing] = useState(false);
-  const [showTacticalMap, setShowTacticalMap] = useState(false);
+// Mission Control might need to be imported from a different path
+// Approximate path based on the outline
+import MissionControlScreen from '../components/mission-control-screen';
+
+export default function AppPage() {
+  const [activeTab, setActiveTab] = useState('hq');
+  // Uncomment when lesson flow is implemented
+  // const [showLessonFlow, setShowLessonFlow] = useState(false);
+
+  // Render the active screen based on tab selection
+  const renderActiveScreen = () => {
+    switch (activeTab) {
+      case 'hq':
+        return <HQScreen />;
+      case 'intel':
+        return <IntelScreen />;
+      case 'mission':
+        return <MissionControlScreen />;
+      case 'profile':
+        return <ProfileScreen />;
+      default:
+        return <HQScreen />;
+    }
+  };
+
   return (
-    <div className="grid grid-rows-[20px_1fr_20px] items-center justify-items-center min-h-screen p-8 pb-20 gap-16 sm:p-20 font-[family-name:var(--font-geist-sans)]">
-      <MissionBriefingModal isOpen={modalOpen} onClose={() => setModalOpen(false)} />
-      
-      {showIntelBriefing && (
-        <div className="fixed inset-0 z-50 overflow-auto bg-black bg-opacity-75 flex items-center justify-center p-4">
-          <div className="relative w-full max-w-4xl max-h-[90vh] overflow-auto">
-            <button 
-              onClick={() => setShowIntelBriefing(false)}
-              className="absolute top-2 right-2 z-10 bg-red-600 text-white rounded-full w-8 h-8 flex items-center justify-center hover:bg-red-700 transition-colors"
-            >
-              ✕
-            </button>
-            <IntelBriefingCards darkMode={true} />
-          </div>
-        </div>
-      )}
-      
-      {showTacticalMap && (
-        <div className="fixed inset-0 z-50 overflow-auto bg-black bg-opacity-75 flex items-center justify-center p-4">
-          <div className="relative w-full max-w-4xl max-h-[90vh] overflow-auto">
-            <button 
-              onClick={() => setShowTacticalMap(false)}
-              className="absolute top-2 right-2 z-10 bg-red-600 text-white rounded-full w-8 h-8 flex items-center justify-center hover:bg-red-700 transition-colors"
-            >
-              ✕
-            </button>
-            <TacticalMapVisualization darkMode={true} />
-          </div>
-        </div>
-      )}
-      <main className="flex flex-col gap-[32px] row-start-2 items-center sm:items-start">
-        <Image
-          className="dark:invert"
-          src="/next.svg"
-          alt="Next.js logo"
-          width={180}
-          height={38}
-          priority
-        />
-        <ol className="list-inside list-decimal text-sm/6 text-center sm:text-left font-[family-name:var(--font-geist-mono)]">
-          <li className="mb-2 tracking-[-.01em]">
-            Get started by editing{" "}
-            <code className="bg-black/[.05] dark:bg-white/[.06] px-1 py-0.5 rounded font-[family-name:var(--font-geist-mono)] font-semibold">
-              app/page.tsx
-            </code>
-            .
-          </li>
-          <li className="tracking-[-.01em]">
-            Save and see your changes instantly.
-          </li>
-        </ol>
+    <main className="bg-black min-h-screen text-white relative">
+      {/* Main Content Area */}
+      <div className="pb-16"> {/* Extra padding to account for the bottom tab bar */}
+        {renderActiveScreen()}
+      </div>
 
-        <div className="flex gap-4 items-center flex-col sm:flex-row">
-          <button
-            type="button"
-            className="rounded-full border border-solid border-transparent transition-colors flex items-center justify-center bg-foreground text-background gap-2 hover:bg-[#383838] dark:hover:bg-[#ccc] font-medium text-sm sm:text-base h-10 sm:h-12 px-4 sm:px-5 sm:w-auto"
-            onClick={() => setModalOpen(true)}
+      {/* Bottom Tab Navigation - Fixed at bottom */}
+      <div className="fixed bottom-0 left-0 right-0 bg-black border-t border-red-900 p-2">
+        <div className="flex justify-around">
+          {/* HQ Tab */}
+          <div 
+            className="flex flex-col items-center cursor-pointer" 
+            onClick={() => setActiveTab('hq')}
           >
-            <Image
-              className="dark:invert"
-              src="/vercel.svg"
-              alt="Vercel logomark"
-              width={20}
-              height={20}
-            />
-            Deploy now
-          </button>
-          <a
-            className="rounded-full border border-solid border-black/[.08] dark:border-white/[.145] transition-colors flex items-center justify-center hover:bg-[#f2f2f2] dark:hover:bg-[#1a1a1a] hover:border-transparent font-medium text-sm sm:text-base h-10 sm:h-12 px-4 sm:px-5 w-full sm:w-auto md:w-[158px]"
-            href="https://nextjs.org/docs?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            Read our docs
-          </a>
-        </div>
-        
-        <div className="flex gap-4 items-center flex-col sm:flex-row mt-4">
-          <button
-            type="button"
-            className="rounded-full border border-solid border-red-600 transition-colors flex items-center justify-center bg-red-900/30 text-red-500 gap-2 hover:bg-red-900/50 font-medium text-sm sm:text-base h-10 sm:h-12 px-4 sm:px-5 sm:w-auto"
-            onClick={() => setShowIntelBriefing(true)}
-          >
-            <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2">
-              <path d="M22 12h-4l-3 9L9 3l-3 9H2"></path>
+            <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" 
+              className={activeTab === 'hq' ? "text-red-500" : "text-gray-600"}>
+              <path d="M3 9l9-7 9 7v11a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z"></path>
+              <polyline points="9 22 9 12 15 12 15 22"></polyline>
             </svg>
-            Intel Briefing
-          </button>
-          <button
-            type="button"
-            className="rounded-full border border-solid border-blue-600 transition-colors flex items-center justify-center bg-blue-900/30 text-blue-500 gap-2 hover:bg-blue-900/50 font-medium text-sm sm:text-base h-10 sm:h-12 px-4 sm:px-5 sm:w-auto"
-            onClick={() => setShowTacticalMap(true)}
+            <span className={`text-xs font-mono ${activeTab === 'hq' ? "text-red-500" : "text-gray-600"}`}>HQ</span>
+          </div>
+
+          {/* Intel Tab */}
+          <div 
+            className="flex flex-col items-center cursor-pointer" 
+            onClick={() => setActiveTab('intel')}
           >
-            <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2">
-              <path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"></path>
-              <circle cx="12" cy="10" r="3"></circle>
+            <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" 
+              className={activeTab === 'intel' ? "text-red-500" : "text-gray-600"}>
+              <path d="M14.5 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V7.5L14.5 2z"></path>
+              <polyline points="14 2 14 8 20 8"></polyline>
+              <line x1="16" y1="13" x2="8" y2="13"></line>
+              <line x1="16" y1="17" x2="8" y2="17"></line>
+              <line x1="10" y1="9" x2="8" y2="9"></line>
             </svg>
-            Tactical Map
-          </button>
+            <span className={`text-xs font-mono ${activeTab === 'intel' ? "text-red-500" : "text-gray-600"}`}>INTEL</span>
+          </div>
+
+          {/* Mission Control Tab */}
+          <div 
+            className="flex flex-col items-center cursor-pointer" 
+            onClick={() => setActiveTab('mission')}
+          >
+            <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" 
+              className={activeTab === 'mission' ? "text-red-500" : "text-gray-600"}>
+              <polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"></polygon>
+            </svg>
+            <span className={`text-xs font-mono ${activeTab === 'mission' ? "text-red-500" : "text-gray-600"}`}>MISSIONS</span>
+          </div>
+
+          {/* Profile/Settings Tab */}
+          <div 
+            className="flex flex-col items-center cursor-pointer" 
+            onClick={() => setActiveTab('profile')}
+          >
+            <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" 
+              className={activeTab === 'profile' ? "text-red-500" : "text-gray-600"}>
+              <path d="M20 21v-2a4 4 0 0 0-4-4H8a4 4 0 0 0-4 4v2"></path>
+              <circle cx="12" cy="7" r="4"></circle>
+            </svg>
+            <span className={`text-xs font-mono ${activeTab === 'profile' ? "text-red-500" : "text-gray-600"}`}>AGENT</span>
+          </div>
         </div>
-      </main>
-      <footer className="row-start-3 flex gap-[24px] flex-wrap items-center justify-center">
-        <a
-          className="flex items-center gap-2 hover:underline hover:underline-offset-4"
-          href="https://nextjs.org/learn?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          <Image
-            aria-hidden
-            src="/file.svg"
-            alt="File icon"
-            width={16}
-            height={16}
-          />
-          Learn
-        </a>
-        <a
-          className="flex items-center gap-2 hover:underline hover:underline-offset-4"
-          href="https://vercel.com/templates?framework=next.js&utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          <Image
-            aria-hidden
-            src="/window.svg"
-            alt="Window icon"
-            width={16}
-            height={16}
-          />
-          Examples
-        </a>
-        <a
-          className="flex items-center gap-2 hover:underline hover:underline-offset-4"
-          href="https://nextjs.org?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          <Image
-            aria-hidden
-            src="/globe.svg"
-            alt="Globe icon"
-            width={16}
-            height={16}
-          />
-          Go to nextjs.org →
-        </a>
-      </footer>
-    </div>
+      </div>
+
+      {/* Lesson Flow Modal would go here */}
+      {/*
+      When implementing lesson flow:
+      1. Uncomment the state at the top
+      2. Add onStartMission prop to HQScreen
+      3. Uncomment this section:
+
+      {showLessonFlow && (
+        <div className="fixed inset-0 z-50">
+          <LessonFlowDemo onClose={() => setShowLessonFlow(false)} />
+        </div>
+      )}
+      */}
+    </main>
   );
 }

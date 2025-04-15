@@ -31,8 +31,9 @@ const buttonVariants = cva(
   }
 );
 
+{/* updated to uppercase and font-jetbrains-mono-bold */}
 const buttonTextVariants = cva(
-  'web:whitespace-nowrap text-sm native:text-base font-medium text-foreground web:transition-colors',
+  'font-jetbrains-mono-bold web:whitespace-nowrap text-sm native:text-base text-foreground web:transition-colors uppercase',
   {
     variants: {
       variant: {

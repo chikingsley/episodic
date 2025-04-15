@@ -1,4 +1,5 @@
-import { Text, View } from 'react-native';
+import { View } from 'react-native';
+import { Text } from '~/components/ui/text'; // Import your custom Text
 import { Button } from '~/components/ui/button';
 import { ScrollView } from 'react-native'; // Correct import for ScrollView
 import {
@@ -37,15 +38,6 @@ export default function HQScreen() {
         <Text>Link Button</Text>
       </Button>
 
-      {/* Crimson Variants */}
-      <Text className="text-xl font-heading mt-6 mb-4 text-foreground">Crimson Variants</Text>
-      <Button variant="crimson" onPress={() => alert('Crimson pressed')} className="mb-4 w-full">
-        <Text>Crimson Button</Text>
-      </Button>
-      <Button variant="crimson-outline" onPress={() => alert('Crimson Outline pressed')} className="mb-4 w-full">
-        <Text>Crimson Outline Button</Text>
-      </Button>
-
       {/* Sizes */}
       <Text className="text-xl font-heading mt-6 mb-4 text-foreground">Button Sizes</Text>
       <Button size="sm" onPress={() => alert('Small pressed')} className="mb-4 w-full">
@@ -57,18 +49,10 @@ export default function HQScreen() {
       <Button size="lg" onPress={() => alert('Large pressed')} className="mb-4 w-full">
         <Text>Large Button</Text>
       </Button>
-      {/* Icon button example - requires an icon */}
-      {/* <Button size="icon" onPress={() => alert('Icon pressed')} className="mb-4">
-        <Home size={18} className="text-primary-foreground" />
-      </Button> */}
-
       {/* Disabled State */}
       <Text className="text-xl font-heading mt-6 mb-4 text-foreground">Disabled State</Text>
       <Button disabled onPress={() => alert('Disabled pressed')} className="mb-4 w-full">
         <Text>Disabled Button</Text>
-      </Button>
-      <Button variant="crimson" disabled onPress={() => alert('Disabled pressed')} className="mb-4 w-full">
-        <Text>Disabled Crimson</Text>
       </Button>
 
       {/* Card Example */}
