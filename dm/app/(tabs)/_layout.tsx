@@ -1,6 +1,7 @@
 import { Tabs } from 'expo-router';
 import { useTheme } from '@react-navigation/native';
 import { Home, Target, Map, User } from '~/lib/icons'; // Import from barrel file
+import { ThemeToggle } from '~/components/ThemeToggle'; // Import ThemeToggle
 
 export default function TabsLayout() {
   const { colors } = useTheme(); // Use theme colors defined in root layout
@@ -29,6 +30,7 @@ export default function TabsLayout() {
         options={{
           title: 'HQ',
           tabBarIcon: ({ color, size }) => <Home color={color} size={size} />,
+          headerRight: () => <ThemeToggle />, // Add ThemeToggle to headerRight
         }}
       />
       <Tabs.Screen

@@ -9,6 +9,7 @@ import {
   CardHeader,
   CardTitle,
 } from '~/components/ui/card'; // Import Card components
+import { Input } from '~/components/ui/input'; // Import Input component
 
 export default function HQScreen() {
   return (
@@ -84,6 +85,18 @@ export default function HQScreen() {
           <Text className="text-sm text-muted-foreground">Classification: Top Secret</Text>
         </CardFooter>
       </Card>
+
+      {/* Input Example */}
+      <Text className="text-xl font-heading mt-6 mb-4 text-foreground">Input Example</Text>
+      <Input
+        placeholder="Enter agent codename..."
+        className="w-full mb-4"
+      />
+      <Input
+        placeholder="Disabled Input"
+        editable={false}
+        className="w-full mb-4"
+      />
 
     </ScrollView>
   );
