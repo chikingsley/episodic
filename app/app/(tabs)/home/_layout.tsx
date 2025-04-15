@@ -67,8 +67,7 @@ function CustomTabBar({ state, descriptors, navigation, position, streakCount }:
   const indicatorOffset = (tabWidth - indicatorWidth) / 2; // Centering offset
 
   return (
-    <View> {/* Container for bar + indicator */}
-      {/* Main Row: Uses gap for spacing */}
+    <View> 
       <View 
         className="flex-row items-center bg-background" 
         style={{ height: sizes.tabBarH, paddingHorizontal: outerPadding, gap: gap }}
@@ -76,8 +75,7 @@ function CustomTabBar({ state, descriptors, navigation, position, streakCount }:
         {/* Left: Flag Button */}
         <Pressable
           onPress={() => alert('Flag pressed!')}
-          className="p-2 items-center justify-center" // p-2 = 8pt
-          // No fixed width needed with gap layout
+          className="p-2 items-center justify-center" 
         >
           {/* Use inline style for size */}
           <FrFlag style={{ height: sizes.iconH, width: sizes.flagW }} /> 
