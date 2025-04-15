@@ -39,13 +39,17 @@ const DialogOverlayNative = React.forwardRef<
   return (
     <DialogPrimitive.Overlay
       style={StyleSheet.absoluteFill}
-      className={cn('flex bg-black/80 justify-center items-center p-2', className)}
+      className={cn('flex justify-center items-center p-2', className)}
       {...props}
       ref={ref}
     >
-      <Animated.View entering={FadeIn.duration(150)} exiting={FadeOut.duration(150)}>
-        <>{children}</>
-      </Animated.View>
+      <Animated.View
+        style={StyleSheet.absoluteFill}
+        className="bg-black/80"
+        entering={FadeIn.duration(150)}
+        exiting={FadeOut.duration(150)}
+      />
+      {children as React.ReactNode}
     </DialogPrimitive.Overlay>
   );
 });
@@ -68,7 +72,7 @@ const DialogContent = React.forwardRef<
         <DialogPrimitive.Content
           ref={ref}
           className={cn(
-            'max-w-lg gap-4 border border-border web:cursor-default bg-background p-6 shadow-lg web:duration-200 rounded-lg',
+            'max-w-lg gap-4 border border-border web:cursor-default bg-background p-4 shadow-lg web:duration-200 rounded-lg',
             open
               ? 'web:animate-in web:fade-in-0 web:zoom-in-95'
               : 'web:animate-out web:fade-out-0 web:zoom-out-95',
@@ -112,7 +116,7 @@ const DialogTitle = React.forwardRef<DialogPrimitive.TitleRef, DialogPrimitive.T
     <DialogPrimitive.Title
       ref={ref}
       className={cn(
-        'text-lg native:text-xl text-foreground font-semibold leading-none tracking-tight',
+        'font-jetbrains-mono-bold text-lg uppercase text-foreground',
         className
       )}
       {...props}
@@ -127,7 +131,10 @@ const DialogDescription = React.forwardRef<
 >(({ className, ...props }, ref) => (
   <DialogPrimitive.Description
     ref={ref}
-    className={cn('text-sm native:text-base text-muted-foreground', className)}
+    className={cn(
+      'font-jetbrains-mono-regular text-sm text-gray-600 dark:text-gray-400 uppercase',
+      className
+    )}
     {...props}
   />
 ));

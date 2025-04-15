@@ -16,6 +16,11 @@ const buttonVariants = cva(
         secondary: 'bg-secondary web:hover:opacity-80 active:opacity-80',
         ghost: 'web:hover:bg-accent web:hover:text-accent-foreground active:bg-accent',
         link: 'web:underline-offset-4 web:hover:underline web:focus:underline',
+        inProgress: 'bg-yellow-500/20 border border-yellow-700',
+        completed: 'bg-green-500/20 border border-green-700',
+        locked: 'border border-gray-400 bg-gray-800',
+        clearance: 'bg-red-500/20 border border-red-700',
+        electric: 'bg-blue-500/20 border border-blue-700',
       },
       size: {
         default: 'h-10 px-4 py-2 native:h-12 native:px-5 native:py-3',
@@ -43,6 +48,11 @@ const buttonTextVariants = cva(
         secondary: 'text-secondary-foreground group-active:text-secondary-foreground',
         ghost: 'group-active:text-accent-foreground',
         link: 'text-primary group-active:underline',
+        inProgress: 'text-yellow-500',
+        completed: 'text-green-500',
+        locked: 'text-gray-400',
+        clearance: 'text-red-500',
+        electric: 'text-blue-500',
       },
       size: {
         default: '',

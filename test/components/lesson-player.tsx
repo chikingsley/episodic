@@ -1,11 +1,12 @@
 'use client';
 
 import { useState, useEffect, useCallback } from 'react';
-import { Lesson, UserProgress, calculateNextReviewDate } from '../../data/lesson-data';
-import VocabCard from './vocab-card';
-import DialogueCard from './dialogue-card';
-import VideoCard from './video-card';
-import QuizCard from './quiz-card';
+import { motion, AnimatePresence } from 'framer-motion';
+import { Lesson, UserProgress } from '../data/lesson-data';
+import VocabCard from './lesson/vocab-card';
+import DialogueCard from './lesson/dialogue-card';
+import VideoCard from './lesson/video-card';
+import QuizCard from './lesson/quiz-card';
 
 type LessonPlayerProps = {
   lesson: Lesson;
@@ -88,14 +89,8 @@ const LessonPlayer = ({ lesson, userProgress, onComplete, onExit }: LessonPlayer
             box: 1,
             lastReviewed: new Date().toISOString(),
             timesReviewed: 0,
-            timesCorrect: 0,
-            dueDate: calculateNextReviewDate(1)
+            timesCorrect: 0
           };
-          
-          // Calculate new box level based on correctness
-          const newBox = correct 
-            ? Math.min(currentMastery.box + 1, 5) // Move up to box 5 max 
-            : Math.max(currentMastery.box - 1, 1); // Move down to box 1 min
           
           // Update the mastery level
           setVocabMastery(prev => ({
@@ -104,9 +99,9 @@ const LessonPlayer = ({ lesson, userProgress, onComplete, onExit }: LessonPlayer
               ...currentMastery,
               timesReviewed: currentMastery.timesReviewed + 1,
               timesCorrect: currentMastery.timesCorrect + (correct ? 1 : 0),
-              box: newBox,
-              lastReviewed: new Date().toISOString(),
-              dueDate: calculateNextReviewDate(newBox)
+              // Move to next box if correct, or back to box 1 if incorrect
+              box: correct ? Math.min(currentMastery.box + 1, 5) : 1,
+              lastReviewed: new Date().toISOString()
             }
           }));
         }
@@ -142,12 +137,22 @@ const LessonPlayer = ({ lesson, userProgress, onComplete, onExit }: LessonPlayer
   // Render lesson completion summary
   const renderSummary = () => {
     return (
-      <div className="bg-gray-900 border border-red-900 rounded-lg p-6 max-w-xl mx-auto">
+      <motion.div 
+        className="bg-gray-900 border border-red-900 rounded-lg p-6 max-w-xl mx-auto"
+        initial={{ opacity: 0, scale: 0.9 }}
+        animate={{ opacity: 1, scale: 1 }}
+        transition={{ duration: 0.5 }}
+      >
         <div className="text-xs font-mono text-red-500 mb-4">MISSION DEBRIEF</div>
         
         <h3 className="text-2xl font-bold text-white mb-6 text-center">{lesson.title} COMPLETE</h3>
         
-        <div className="bg-red-900/20 rounded-lg p-6 mb-6">
+        <motion.div 
+          className="bg-red-900/20 rounded-lg p-6 mb-6"
+          initial={{ opacity: 0, y: 20 }}
+          animate={{ opacity: 1, y: 0 }}
+          transition={{ delay: 0.2, duration: 0.5 }}
+        >
           <div className="flex justify-between items-center mb-4">
             <span className="text-gray-300 font-mono">XP EARNED</span>
             <span className="text-2xl font-bold text-red-500">+{summary.xpEarned + lesson.xpReward}</span>
@@ -171,17 +176,19 @@ const LessonPlayer = ({ lesson, userProgress, onComplete, onExit }: LessonPlayer
               <span className="text-gray-300">{Math.floor(summary.time / 60)}m {summary.time % 60}s</span>
             </div>
           </div>
-        </div>
+        </motion.div>
         
         <div className="flex justify-center">
-          <button 
+          <motion.button 
             className="px-6 py-3 bg-red-800 text-white rounded-lg hover:bg-red-700 font-mono"
             onClick={onExit}
+            whileHover={{ scale: 1.05 }}
+            whileTap={{ scale: 0.95 }}
           >
             CONTINUE TO MISSION HUB
-          </button>
+          </motion.button>
         </div>
-      </div>
+      </motion.div>
     );
   };
 
@@ -191,36 +198,46 @@ const LessonPlayer = ({ lesson, userProgress, onComplete, onExit }: LessonPlayer
     
     return (
       <div className="fixed top-0 left-0 right-0 h-1 bg-gray-800">
-        <div 
+        <motion.div 
           className="h-1 bg-red-700" 
-          style={{ width: `${progress}%` }}
-        ></div>
+          initial={{ width: 0 }}
+          animate={{ width: `${progress}%` }}
+          transition={{ duration: 0.3 }}
+        ></motion.div>
       </div>
     );
   };
 
   return (
     <div className="bg-black min-h-screen text-white p-4 pb-20">
-      {!isComplete && (
-        <div className="flex items-center justify-between mb-6">
-          <button 
-            className="text-gray-400 hover:text-white"
-            onClick={onExit}
+      <AnimatePresence>
+        {!isComplete && (
+          <motion.div 
+            className="flex items-center justify-between mb-6"
+            initial={{ opacity: 0, y: -20 }}
+            animate={{ opacity: 1, y: 0 }}
+            exit={{ opacity: 0 }}
+            transition={{ duration: 0.3 }}
           >
-            <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2">
-              <line x1="19" y1="12" x2="5" y2="12"></line>
-              <polyline points="12 19 5 12 12 5"></polyline>
-            </svg>
-          </button>
-          
-          <div className="text-center">
-            <h2 className="text-lg font-mono text-gray-200">{lesson.title}</h2>
-            <p className="text-xs text-gray-500">{currentCardIndex + 1} of {lesson.cards.length}</p>
-          </div>
-          
-          <div className="w-6"></div> {/* Spacer for balance */}
-        </div>
-      )}
+            <button 
+              className="text-gray-400 hover:text-white"
+              onClick={onExit}
+            >
+              <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2">
+                <line x1="19" y1="12" x2="5" y2="12"></line>
+                <polyline points="12 19 5 12 12 5"></polyline>
+              </svg>
+            </button>
+            
+            <div className="text-center">
+              <h2 className="text-lg font-mono text-gray-200">{lesson.title}</h2>
+              <p className="text-xs text-gray-500">{currentCardIndex + 1} of {lesson.cards.length}</p>
+            </div>
+            
+            <div className="w-6"></div> {/* Spacer for balance */}
+          </motion.div>
+        )}
+      </AnimatePresence>
       
       {renderProgressBar()}
       

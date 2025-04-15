@@ -8,7 +8,7 @@ const Card = React.forwardRef<ViewRef, ViewProps>(({ className, ...props }, ref)
   <View
     ref={ref}
     className={cn(
-      'rounded-lg border border-border bg-card shadow-sm shadow-foreground/10',
+      'rounded-lg border border-destructive dark:border-border bg-card shadow-sm shadow-foreground/10',
       className
     )}
     {...props}
@@ -17,7 +17,7 @@ const Card = React.forwardRef<ViewRef, ViewProps>(({ className, ...props }, ref)
 Card.displayName = 'Card';
 
 const CardHeader = React.forwardRef<ViewRef, ViewProps>(({ className, ...props }, ref) => (
-  <View ref={ref} className={cn('flex flex-col space-y-1.5 p-6', className)} {...props} />
+  <View ref={ref} className={cn('flex flex-col space-y-1.5 p-4 pb-2', className)} {...props} />
 ));
 CardHeader.displayName = 'CardHeader';
 
@@ -27,7 +27,7 @@ const CardTitle = React.forwardRef<TextRef, TextProps>(({ className, ...props },
     aria-level={3}
     ref={ref}
     className={cn(
-      'text-2xl text-card-foreground font-semibold leading-none tracking-tight',
+      'font-jetbrains-mono-bold text-lg uppercase leading-none tracking-tight text-foreground',
       className
     )}
     {...props}
@@ -36,19 +36,28 @@ const CardTitle = React.forwardRef<TextRef, TextProps>(({ className, ...props },
 CardTitle.displayName = 'CardTitle';
 
 const CardDescription = React.forwardRef<TextRef, TextProps>(({ className, ...props }, ref) => (
-  <Text ref={ref} className={cn('text-sm text-muted-foreground', className)} {...props} />
+  <Text
+    ref={ref}
+    className={cn(
+      'font-jetbrains-mono-regular text-sm uppercase text-gray-800 dark:text-gray-300',
+      className
+    )}
+    {...props}
+  />
 ));
 CardDescription.displayName = 'CardDescription';
 
 const CardContent = React.forwardRef<ViewRef, ViewProps>(({ className, ...props }, ref) => (
-  <TextClassContext.Provider value='text-card-foreground'>
-    <View ref={ref} className={cn('p-6 pt-0', className)} {...props} />
+  <TextClassContext.Provider value='font-jetbrains-mono-regular text-sm text-gray-800 dark:text-gray-300'>
+    <View ref={ref} className={cn('p-4 pt-2', className)} {...props} />
   </TextClassContext.Provider>
 ));
 CardContent.displayName = 'CardContent';
 
 const CardFooter = React.forwardRef<ViewRef, ViewProps>(({ className, ...props }, ref) => (
-  <View ref={ref} className={cn('flex flex-row items-center p-6 pt-0', className)} {...props} />
+  <TextClassContext.Provider value='font-jetbrains-mono text-xs uppercase text-gray-800 dark:text-gray-300'>
+    <View ref={ref} className={cn('flex flex-row items-center p-4 pt-2', className)} {...props} />
+  </TextClassContext.Provider>
 ));
 CardFooter.displayName = 'CardFooter';
 

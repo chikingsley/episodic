@@ -10,7 +10,7 @@
     --card-foreground: 240 10% 3.9%; /* black */
     --popover: 0 0% 100%; /* white */
     --popover-foreground: 240 10% 3.9%; /* black */
-    --primary: 0 72.2% 50.6%; /* black */
+    --primary: 0 72.2% 50.6%; /* red-500 */
     --primary-foreground: 0 0% 98%; /* white */
     --secondary: 240 4.8% 95.9%; /* gray-200 */
     --secondary-foreground: 240 5.9% 10%; /* black */
@@ -32,8 +32,8 @@
     --card-foreground: 0 0% 98%; /* white */
     --popover: 240 10% 3.9%; /* black */
     --popover-foreground: 0 0% 98%; /* white */
-    --primary: 0 0% 98%; /* white */
-    --primary-foreground: 240 5.9% 10%; /* black */
+    --primary: 0 70% 35.3%; /* red-400 */
+    --primary-foreground: 0 0% 98%; /* white */
     --secondary: 240 3.7% 15.9%; /* gray-800 */
     --secondary-foreground: 0 0% 98%; /* white */
     --muted: 240 3.7% 15.9%; /* gray-800 */

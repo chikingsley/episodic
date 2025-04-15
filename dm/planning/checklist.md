@@ -25,17 +25,17 @@ This checklist outlines the UI development tasks based on the project's planning
     -   [x] Create `dm/lib/icons/iconWithClassName.ts`.
     -   [x] Create files in `dm/lib/icons/` for needed Lucide icons (e.g., `Home`, `Target`, `Map`, `User`), wrap with `iconWithClassName`, and create barrel export.
 -   [ ] **Base Component Styling:** Style core `react-native-reusables` components in `dm/components/ui/` using NativeWind classes according to guidelines:
-    -   [ ] `Button`: 8px radius, optional 2px border (`dm-crimson`), 12px vertical padding, base dark style, crimson accent variant(s).
-    -   [ ] `Card`: 12px radius, 1px border (`colors.border` or `dm-crimson`), 16px padding, `colors.card` background, optional subtle gradient.
-    -   [ ] `Input`: `dm-neutral-dark` background, `colors.foreground` text, `dm-crimson` accent on focus, 12px padding.
-    -   [ ] `Progress`: 4px height, rounded ends, `dm-crimson` or `dm-gold` fill, implement animated fill (Reanimated, 300ms).
-    -   [ ] `Switch`: Custom style resembling security switches (red/green indicators using `dm-danger`/`dm-success`).
-    -   [ ] `Text`: Ensure default uses `font-mono` and correct base sizes (`text-base`, `text-sm`).
-    -   [ ] `Dialog`: Style content area (likely uses `Card` styling), ensure overlay uses standard opacity (`bg-background/70` or similar).
-    -   [ ] `Tooltip`: Style with dark background (`dm-neutral-dark` or `dm-neutral-light`), ensure overlay uses standard opacity (`bg-background/40` or similar).
+    -   [x] `Button`: 8px radius, optional 2px border (`dm-crimson`), 12px vertical padding, base dark style, crimson accent variant(s). *(Added status variants as well)*
+    -   [x] `Card`: 12px radius, 1px border (`colors.border` or `dm-crimson`), 16px padding, `colors.card` background, optional subtle gradient. *(Styled with JetBrains/Mono fonts, specific colors, border handling)*
+    -   [x] `Input`: `dm-neutral-dark` background, `colors.foreground` text, `dm-crimson` accent on focus, 12px padding. *(Styled with JetBrains Mono, thicker border, focus state)*
+    -   [x] `Progress`: 4px height, rounded ends, `dm-crimson` or `dm-gold` fill, implement animated fill (Reanimated, 300ms).
+    -   [x] `Switch`: Custom style resembling security switches (red/green indicators using `dm-danger`/`dm-success`).
+    -   [x] `Text`: Ensure default uses `font-mono` and correct base sizes (`text-base`, `text-sm`).
+    -   [x] `Dialog`: Style content area (likely uses `Card` styling), ensure overlay uses standard opacity (`bg-background/70` or similar).
+    -   [x] `Tooltip`: Style with dark background (`dm-neutral-dark` or `dm-neutral-light`), ensure overlay uses standard opacity (`bg-background/40` or similar).
 -   [ ] **Custom Global Components:**
-    -   [ ] Create `dm/components/Header.tsx`: Basic structure, apply header typography rules.
-    -   [ ] Create `dm/components/StatusIndicator.tsx`: Basic structure, define variants (dot, ribbon), apply functional colors.
+    -   [x] Create `dm/components/Header.tsx`: Basic structure, apply header typography rules.
+    -   [x] Create `dm/components/StatusIndicator.tsx`: Basic structure, define variants (dot, ribbon), apply functional colors.
     -   [ ] Create `dm/components/LoadingAnimation.tsx`: Basic structure, placeholder, plan Reanimated integration (scanning/decryption theme).
 -   [ ] **Interaction States:**
     -   [ ] Define and apply standard hover/press states for interactive elements (`Button`, `Switch`, etc.): subtle glow (`shadow-dm-crimson`?), inset shadow + scale. Use Reanimated for press animations.

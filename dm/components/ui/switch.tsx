@@ -10,12 +10,15 @@ import Animated, {
 import { useColorScheme } from '~/lib/useColorScheme';
 import { cn } from '~/lib/utils';
 
+// Style resembling security switches: Red (destructive) for ON, Gray (secondary) for OFF
+
 const SwitchWeb = React.forwardRef<SwitchPrimitives.RootRef, SwitchPrimitives.RootProps>(
   ({ className, ...props }, ref) => (
     <SwitchPrimitives.Root
       className={cn(
-        'peer flex-row h-6 w-11 shrink-0 cursor-pointer items-center rounded-full border-2 border-transparent transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 focus-visible:ring-offset-background disabled:cursor-not-allowed',
-        props.checked ? 'bg-primary' : 'bg-input',
+        'peer flex-row h-6 w-11 shrink-0 cursor-pointer items-center rounded-full border-2 border-gray-100 dark:border-transparent transition-colors focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 focus-visible:ring-offset-background disabled:cursor-not-allowed',
+        // Use destructive (red) when checked, secondary (gray) when unchecked
+        props.checked ? 'bg-destructive' : 'bg-secondary',
         props.disabled && 'opacity-50',
         className
       )}
@@ -34,14 +37,16 @@ const SwitchWeb = React.forwardRef<SwitchPrimitives.RootRef, SwitchPrimitives.Ro
 
 SwitchWeb.displayName = 'SwitchWeb';
 
+// Approximate RGB values for destructive and secondary colors from theme
+// These should ideally match your global.css variables accurately
 const RGB_COLORS = {
   light: {
-    primary: 'rgb(24, 24, 27)',
-    input: 'rgb(228, 228, 231)',
+    destructive: 'rgb(239, 68, 68)',     // approx red-500
+    secondary: 'rgb(241, 242, 245)',   // approx gray-100/200
   },
   dark: {
-    primary: 'rgb(250, 250, 250)',
-    input: 'rgb(39, 39, 42)',
+    destructive: 'rgb(220, 60, 60)',     // approx red-600/700
+    secondary: 'rgb(38, 38, 41)',       // approx gray-800
   },
 } as const;
 
@@ -50,11 +55,12 @@ const SwitchNative = React.forwardRef<SwitchPrimitives.RootRef, SwitchPrimitives
     const { colorScheme } = useColorScheme();
     const translateX = useDerivedValue(() => (props.checked ? 18 : 0));
     const animatedRootStyle = useAnimatedStyle(() => {
+      // Interpolate between secondary (off) and destructive (on)
       return {
         backgroundColor: interpolateColor(
           translateX.value,
           [0, 18],
-          [RGB_COLORS[colorScheme].input, RGB_COLORS[colorScheme].primary]
+          [RGB_COLORS[colorScheme].secondary, RGB_COLORS[colorScheme].destructive]
         ),
       };
     });
@@ -68,8 +74,9 @@ const SwitchNative = React.forwardRef<SwitchPrimitives.RootRef, SwitchPrimitives
       >
         <SwitchPrimitives.Root
           className={cn(
-            'flex-row h-8 w-[46px] shrink-0 items-center rounded-full border-2 border-transparent',
-            props.checked ? 'bg-primary' : 'bg-input',
+            'flex-row h-8 w-[46px] shrink-0 items-center rounded-full border-2 border-gray-300 dark:border-transparent',
+             // These classes might not be strictly necessary due to Animated.View styling, but kept for potential fallback/web consistency
+            props.checked ? 'bg-destructive' : 'bg-secondary',
             className
           )}
           {...props}

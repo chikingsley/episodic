@@ -2,16 +2,19 @@ import { Tabs } from 'expo-router';
 import { useTheme } from '@react-navigation/native';
 import { Home, Target, Map, User } from '~/lib/icons'; // Import from barrel file
 import { ThemeToggle } from '~/components/ThemeToggle'; // Import ThemeToggle
+import { NAV_THEME } from '~/lib/constants'; // Import NAV_THEME
+import { useColorScheme } from '~/lib/useColorScheme'; // Import useColorScheme
 
 export default function TabsLayout() {
-  const { colors } = useTheme(); // Use theme colors defined in root layout
+  const { colorScheme } = useColorScheme(); // Get current color scheme
+  const colors = NAV_THEME[colorScheme]; // Select the correct theme object
 
   return (
     <Tabs
       initialRouteName="hq"
       screenOptions={{
         tabBarActiveTintColor: colors.primary, // Use primary accent (Crimson Red)
-        tabBarInactiveTintColor: colors.border, // Use border color for inactive (maps to muted)
+        tabBarInactiveTintColor: colors.gray, // Changed back to border, as ring might not be ideal visually
         tabBarStyle: {
           backgroundColor: colors.card, // Use card background for tab bar
           borderTopColor: colors.border,

@@ -11,12 +11,28 @@ import {
   CardTitle,
 } from '~/components/ui/card'; // Import Card components
 import { Input } from '~/components/ui/input'; // Import Input component
+import { Progress } from '~/components/ui/progress'; // Import ProgressBar component
+import { Switch } from '~/components/ui/switch'; // Import Switch component
+import { useState } from 'react';
+import { Dialog, DialogContent, DialogHeader, DialogTitle, DialogTrigger, DialogDescription, DialogFooter, DialogClose } from '~/components/ui/dialog';
+import { Alert, AlertDescription, AlertTitle } from '~/components/ui/alert';
+import AlertCircle from '~/lib/icons/AlertCircle';
+import { TooltipTrigger, TooltipContent } from '~/components/ui/tooltip';
+import { Tooltip } from '~/components/ui/tooltip';
+import { Header } from '~/components/Header';
+import { StatusIndicator } from '~/components/ui/status-indicator';
+
 
 export default function HQScreen() {
+  const [isSwitchOn, setIsSwitchOn] = useState(false); // Or true if you want it initially on
+
   return (
     // Use ScrollView in case content overflows
     <ScrollView contentContainerStyle={{ flexGrow: 1, justifyContent: 'center', alignItems: 'center', padding: 20 }}>
-      <Text className="text-xl font-heading mb-4 text-foreground">Button Variants</Text>
+      {/* Header */}
+      <Header>Button Variants</Header>
+      
+      <Header>Button Variants</Header>
 
       {/* Default Variants */}
       <Button onPress={() => alert('Default pressed')} className="mb-4 w-full">
@@ -37,9 +53,24 @@ export default function HQScreen() {
       <Button variant="link" onPress={() => alert('Link pressed')} className="mb-4 w-full">
         <Text>Link Button</Text>
       </Button>
+      <Button variant="inProgress" onPress={() => alert('In Progress pressed')} className="mb-4 w-full">
+        <Text>In Progress Button</Text>
+      </Button>
+      <Button variant="completed" onPress={() => alert('Completed pressed')} className="mb-4 w-full">
+        <Text>Completed Button</Text>
+      </Button>
+      <Button variant="locked" onPress={() => alert('Locked pressed')} className="mb-4 w-full">
+        <Text>Locked Button</Text>
+      </Button>
+      <Button variant="clearance" onPress={() => alert('Clearance pressed')} className="mb-4 w-full">
+        <Text>Clearance Button</Text>
+      </Button>
+      <Button variant="electric" onPress={() => alert('Electric pressed')} className="mb-4 w-full">
+        <Text>Electric Button</Text>
+      </Button>
 
       {/* Sizes */}
-      <Text className="text-xl font-heading mt-6 mb-4 text-foreground">Button Sizes</Text>
+      <Header>Button Sizes</Header>
       <Button size="sm" onPress={() => alert('Small pressed')} className="mb-4 w-full">
         <Text>Small Button</Text>
       </Button>
@@ -50,13 +81,13 @@ export default function HQScreen() {
         <Text>Large Button</Text>
       </Button>
       {/* Disabled State */}
-      <Text className="text-xl font-heading mt-6 mb-4 text-foreground">Disabled State</Text>
+      <Header>Disabled State</Header>
       <Button disabled onPress={() => alert('Disabled pressed')} className="mb-4 w-full">
         <Text>Disabled Button</Text>
       </Button>
 
       {/* Card Example */}
-      <Text className="text-xl font-heading mt-6 mb-4 text-foreground">Card Example</Text>
+      <Header>Card Example</Header>
       <Card className="w-full mb-4">
         <CardHeader>
           <CardTitle>Mission Dossier</CardTitle>
@@ -71,7 +102,7 @@ export default function HQScreen() {
       </Card>
 
       {/* Input Example */}
-      <Text className="text-xl font-heading mt-6 mb-4 text-foreground">Input Example</Text>
+      <Header>Input Example</Header>
       <Input
         placeholder="Enter agent codename..."
         className="w-full mb-4"
@@ -82,6 +113,76 @@ export default function HQScreen() {
         className="w-full mb-4"
       />
 
+      {/* Input Example */}
+      <Header>Progress Bar Example</Header>
+      <Progress value={50} />
+
+      {/* Switch Example */}
+      <Header>Switch Example</Header>
+      <Switch checked={isSwitchOn} onCheckedChange={() => setIsSwitchOn(!isSwitchOn)} />
+
+      {/* Text Example */}
+      <Header>Text Example</Header>
+      <Text>Hello World</Text>
+
+      {/* Dialog Example */}
+      <Header>Dialog Example</Header>
+      <Dialog>
+        <DialogTrigger asChild>
+          <Button><Text>Open Dialog</Text></Button>
+        </DialogTrigger>
+        <DialogContent>
+          <DialogHeader>
+            <DialogTitle>CONFIRMATION REQUIRED</DialogTitle>
+            <DialogDescription>
+              Agent, confirm authorization for Operation Chimera. Proceeding without confirmation may compromise mission integrity.
+            </DialogDescription>
+          </DialogHeader>
+          <DialogFooter>
+            <DialogClose asChild>
+              <Button variant="secondary">
+                <Text className="text-secondary-foreground">CANCEL</Text>
+              </Button>
+            </DialogClose>
+            <DialogClose asChild>
+              <Button>
+                <Text className="text-primary-foreground">CONFIRM</Text>
+              </Button>
+            </DialogClose>
+          </DialogFooter>
+        </DialogContent>
+      </Dialog>
+
+      {/* Alert Example */}
+      <Header>Alert Example</Header>
+      <Alert className="w-full" icon={AlertCircle}>
+        <AlertTitle>Alert Title</AlertTitle>
+        <AlertDescription>Alert Description</AlertDescription>
+      </Alert>
+
+      {/* Tooltip Example */}
+      <Header>Tooltip Example</Header>
+      <Tooltip>
+        <TooltipTrigger asChild>
+          <Button><Text>Open Tooltip</Text></Button>
+        </TooltipTrigger>
+        <TooltipContent>
+          <Text>Secure Channel: Encrypted</Text>
+        </TooltipContent>
+      </Tooltip>
+
+      {/* Added Status Indicator Examples */}
+      <Header>Status Indicator Examples</Header>
+      <View className="flex-row flex-wrap justify-center gap-2 mb-4">
+        <StatusIndicator status="active">ACTIVE</StatusIndicator>
+        <StatusIndicator status="completed">COMPLETED</StatusIndicator>
+        <StatusIndicator status="inProgress">IN PROGRESS</StatusIndicator>
+        <StatusIndicator status="locked">LOCKED</StatusIndicator>
+        <StatusIndicator status="level">LVL.07</StatusIndicator>
+        <StatusIndicator status="priority">PRIORITY</StatusIndicator>
+        <StatusIndicator status="destructive">ERROR</StatusIndicator>
+      </View>
+      
     </ScrollView>
   );
 }
