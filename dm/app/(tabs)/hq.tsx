@@ -1,4 +1,5 @@
 import { View } from 'react-native';
+import React, { useState } from 'react';
 import { Text } from '~/components/ui/text'; // Import your custom Text
 import { Button } from '~/components/ui/button';
 import { ScrollView } from 'react-native'; // Correct import for ScrollView
@@ -13,7 +14,6 @@ import {
 import { Input } from '~/components/ui/input'; // Import Input component
 import { Progress } from '~/components/ui/progress'; // Import ProgressBar component
 import { Switch } from '~/components/ui/switch'; // Import Switch component
-import { useState } from 'react';
 import { Dialog, DialogContent, DialogHeader, DialogTitle, DialogTrigger, DialogDescription, DialogFooter, DialogClose } from '~/components/ui/dialog';
 import { Alert, AlertDescription, AlertTitle } from '~/components/ui/alert';
 import AlertCircle from '~/lib/icons/AlertCircle';
@@ -21,16 +21,51 @@ import { TooltipTrigger, TooltipContent } from '~/components/ui/tooltip';
 import { Tooltip } from '~/components/ui/tooltip';
 import { Header } from '~/components/Header';
 import { StatusIndicator } from '~/components/ui/status-indicator';
+import { ThemedLoadingScreen } from '~/components/ThemedLoadingScreen';
+import { DarkMallardLoadingScreen } from '~/components/DarkMallardLoadingScreen';
 
 
 export default function HQScreen() {
   const [isSwitchOn, setIsSwitchOn] = useState(false); // Or true if you want it initially on
+  // State for loading screens visibility
+  const [showThemedLoading, setShowThemedLoading] = useState(false);
+  const [showDarkMallardLoading, setShowDarkMallardLoading] = useState(false); // New state
+
+  // Handler for the themed loading button
+  const handleShowThemedLoading = () => {
+    setShowThemedLoading(true);
+  };
+
+  // Handler for the Dark Mallard loading button
+  const handleShowDarkMallardLoading = () => {
+    setShowDarkMallardLoading(true);
+  };
+
+  // Handler for when the themed loading animation completes
+  const handleThemedLoadingComplete = () => {
+    setShowThemedLoading(false);
+    alert('Themed loading finished!');
+  };
+
+  // Handler for when the Dark Mallard loading animation completes
+  const handleDarkMallardLoadingComplete = () => {
+    setShowDarkMallardLoading(false);
+    alert('Dark Mallard loading finished!');
+  };
 
   return (
-    // Use ScrollView in case content overflows
+    <>
     <ScrollView contentContainerStyle={{ flexGrow: 1, justifyContent: 'center', alignItems: 'center', padding: 20 }}>
-      {/* Header */}
-      <Header>Button Variants</Header>
+      <Header>Loading Screen Tests</Header>
+
+      {/* Loading Screen Test Buttons */}
+      <Button onPress={handleShowThemedLoading} className="mb-4 w-full">
+        <Text>Show Simple Loading</Text>
+      </Button>
+      
+      <Button onPress={handleShowDarkMallardLoading} className="mb-4 w-full" variant="destructive">
+        <Text className="text-destructive-foreground">Show Dark Mallard Loading</Text>
+      </Button>
       
       <Header>Button Variants</Header>
 
@@ -184,5 +219,19 @@ export default function HQScreen() {
       </View>
       
     </ScrollView>
+    
+    {/* Render ThemedLoadingScreen conditionally */}
+    <ThemedLoadingScreen 
+        isLoading={showThemedLoading} 
+        onLoadingComplete={handleThemedLoadingComplete} 
+    />
+    
+    {/* Render DarkMallardLoadingScreen conditionally */}
+    <DarkMallardLoadingScreen 
+        isLoading={showDarkMallardLoading} 
+        onLoadingComplete={handleDarkMallardLoadingComplete}
+        duration={6000} // Make it a bit longer to see all animations
+    />
+    </>
   );
 }

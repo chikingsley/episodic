@@ -6,10 +6,16 @@ import Animated, {
   useAnimatedStyle,
   withTiming,
   runOnJS,
+  useAnimatedProps,
+  useDerivedValue,
 } from 'react-native-reanimated';
 import { cn } from '~/lib/utils';
 import { Progress } from './ui/progress'; // Import your styled Progress component
 import { Text } from './ui/text'; // Import your styled Text component
+
+// Create animated versions of components
+const AnimatedText = Animated.createAnimatedComponent(Text);
+const AnimatedProgress = Animated.createAnimatedComponent(Progress); // Added
 
 interface ThemedLoadingScreenProps {
   isLoading: boolean; // Controls visibility and animation start
@@ -60,6 +66,25 @@ const ThemedLoadingScreen: React.FC<ThemedLoadingScreenProps> = ({
     };
   });
 
+  // Derived value for the formatted progress text
+  const animatedText = useDerivedValue(() => {
+    return `LOADING... ${Math.round(progress.value)}%`;
+  });
+
+  // Animated props for the Text component
+  const animatedTextProps = useAnimatedProps(() => {
+    return {
+      text: animatedText.value,
+    } as any; // Cast to any for simplicity with text prop
+  });
+
+  // Animated props for the Progress component (NEW)
+  const animatedProgressProps = useAnimatedProps(() => {
+    return {
+      value: progress.value, // Read value inside the hook
+    } as any; // Cast necessary for non-style props
+  });
+
   // Render null if not loading and opacity is 0 (avoids flicker)
   if (!isLoading && opacity.value === 0) {
     return null;
@@ -74,12 +99,18 @@ const ThemedLoadingScreen: React.FC<ThemedLoadingScreenProps> = ({
       <View className="w-64 items-center">
         {/* Progress Bar */}
         <View className="w-full h-4 bg-gray-900 border border-gray-700 relative overflow-hidden rounded-full mb-4">
-           <Progress value={progress.value} className="h-full rounded-full" />
+           {/* Replaced Progress with AnimatedProgress */}
+           <AnimatedProgress 
+              animatedProps={animatedProgressProps} 
+              className="h-full rounded-full" 
+            />
         </View>
         
-        {/* Temporary Progress Text */}
-        {/* We'll replace this with the decrypting text later */}
-        <Text className="text-gray-300 font-mono">LOADING... {Math.round(progress.value)}%</Text>
+        {/* Replaced Text with AnimatedText */}
+        <AnimatedText 
+          animatedProps={animatedTextProps} 
+          className="text-gray-300 font-mono"
+        />
       </View>
     </Animated.View>
   );
