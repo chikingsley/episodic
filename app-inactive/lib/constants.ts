@@ -20,3 +20,20 @@ export const NAV_THEME = {
     text: 'hsl(0 0% 98%)', // foreground
   },
 };
+
+// Color palette from visual-design.md
+export const APP_COLORS = {
+  primary: '#0F1A2C', // Deep midnight blue (Base background)
+  secondary: '#991B1B', // Crimson red (Accents, highlights)
+  tertiary: '#A2851D', // Muted gold (Achievement elements)
+  functional: {
+    success: '#065F46', // Success green
+    warning: '#92400E', // Warning yellow
+    danger: '#9B1C1C', // Danger red
+  },
+  neutral: {
+    light: '#1F2937', // Lighter gray (Secondary containers)
+    dark: '#111827', // Darker gray (Input backgrounds)
+    inactive: '#4B5563', // Inactive states gray
+  },
+};

@@ -28,6 +28,11 @@ const spacing = {
   xl: 20,
 };
 
+// Height to match home tab
+const sizes = {
+  tabBarH: 48,
+};
+
 // Trophy icon for Leagues tab
 const TrophyIcon = ({ size = 24, color = "#808080" }: { size?: number, color: string }) => {
   return (
@@ -148,8 +153,10 @@ const TabText = ({
       onPress={() => onPress(index)}
       onLayout={handleViewLayout}
       style={{ 
-        paddingVertical: spacing.md,
-        paddingHorizontal: spacing.lg,
+        height: sizes.tabBarH,
+        flex: 1,
+        alignItems: 'center',
+        justifyContent: 'center',
       }}
     >
       <View className="flex-row items-center justify-center">
@@ -221,8 +228,7 @@ const TabsBar = ({ scrollXValue, scrollRef, activeIndex, setActiveIndex }: TabsP
     <View 
       style={{ 
         width: '100%', 
-        paddingHorizontal: spacing.md,
-        paddingBottom: spacing.sm,
+        height: sizes.tabBarH,
         position: 'relative',
         zIndex: 20,
       }}
@@ -230,9 +236,10 @@ const TabsBar = ({ scrollXValue, scrollRef, activeIndex, setActiveIndex }: TabsP
       <View 
         style={{ 
           flexDirection: 'row', 
-          justifyContent: 'space-between', 
+          justifyContent: 'space-evenly', 
           alignItems: 'center',
-          marginBottom: spacing.md,
+          flex: 1,
+          width: '100%',
         }}
       >
         {tabs.map((tab, index) => (
