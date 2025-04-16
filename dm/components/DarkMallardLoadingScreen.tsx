@@ -232,7 +232,7 @@ export const DarkMallardLoadingScreen: React.FC<DarkMallardLoadingScreenProps> =
                 <View className="w-1/2 mb-3">
                   {renderStatusIndicator(25, 'ENCRYPTION', encryptionStyle)}
                 </View>
-                <View className="w-1/2 mb-3">
+                <View className="w-1/2 mb-3"> 
                   {renderStatusIndicator(50, 'ASSETS', assetsStyle)}
                 </View>
                 <View className="w-1/2 mb-3">
