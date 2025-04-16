@@ -36,6 +36,7 @@ This checklist outlines the UI development tasks based on the project's planning
 -   [ ] **Custom Global Components:**
     -   [x] Create `dm/components/Header.tsx`: Basic structure, apply header typography rules.
     -   [x] Create `dm/components/StatusIndicator.tsx`: Basic structure, define variants (dot, ribbon), apply functional colors.
+    -   [x] Implement basic loading screen animation (`DarkMallardLoadingScreen.tsx`).
     -   [ ] Create `dm/components/LoadingAnimation.tsx`: Basic structure, placeholder, plan Reanimated integration (scanning/decryption theme).
 -   [ ] **Interaction States:**
     -   [ ] Define and apply standard hover/press states for interactive elements (`Button`, `Switch`, etc.): subtle glow (`shadow-dm-crimson`?), inset shadow + scale. Use Reanimated for press animations.

@@ -13,6 +13,8 @@
     "postinstall": "npx tailwindcss -i ./global.css -o ./node_modules/.cache/nativewind/global.css"
   },
   "dependencies": {
+    "@auth/core": "0.37.0",
+    "@convex-dev/auth": "^0.0.81",
     "@expo-google-fonts/jetbrains-mono": "^0.3.0",
     "@expo-google-fonts/redacted": "^0.3.0",
     "@react-navigation/native": "^7.0.0",
@@ -26,6 +28,7 @@
     "@rn-primitives/types": "^1.1.0",
     "class-variance-authority": "^0.7.0",
     "clsx": "^2.1.0",
+    "convex": "^1.23.0",
     "expo": "^52.0.25",
     "expo-font": "~13.0.4",
     "expo-haptics": "^14.0.1",
