@@ -4,9 +4,13 @@ import { SafeAreaView } from 'react-native-safe-area-context';
 
 export default function HQScreen() {
   return (
-    <View style={{ flex: 1, padding: 16 }}>
-      <Text className="text-white">HQ Screen Content Area</Text>
-      {/* Your HQ screen specific content goes here */}
-    </View>
+    <SafeAreaView className="flex-1 bg-background">
+      <View className="flex-1 p-4">
+        <Text className="text-foreground text-2xl font-bold mb-4">Headquarters</Text>
+      
+        
+        <Text className="text-foreground mt-4">HQ Screen Content Area</Text>
+      </View>
+    </SafeAreaView>
   );
 }

@@ -5,7 +5,13 @@ import { Sun } from '~/lib/icons/Sun';
 import { useColorScheme } from '~/lib/useColorScheme';
 import { cn } from '~/lib/utils';
 
-export function ThemeToggle() {
+// Define props for ThemeToggle
+interface ThemeToggleProps {
+  size?: number; // Add optional size prop
+}
+
+// Add size prop, default to 24 if not provided
+export function ThemeToggle({ size = 24 }: ThemeToggleProps) {
   const { isDarkColorScheme, setColorScheme } = useColorScheme();
 
   function toggleColorScheme() {
@@ -22,14 +28,16 @@ export function ThemeToggle() {
       {({ pressed }) => (
         <View
           className={cn(
-            'flex-1 aspect-square pt-0.5 justify-center items-start web:px-5',
+            'pt-0.5 justify-center items-center',
             pressed && 'opacity-70'
           )}
         >
           {isDarkColorScheme ? (
-            <MoonStar className='text-foreground' size={23} strokeWidth={1.25} />
+            // Use the size prop
+            <MoonStar className='text-foreground' size={size} strokeWidth={1.25} />
           ) : (
-            <Sun className='text-foreground' size={24} strokeWidth={1.25} />
+            // Use the size prop
+            <Sun className='text-foreground' size={size} strokeWidth={1.25} />
           )}
         </View>
       )}

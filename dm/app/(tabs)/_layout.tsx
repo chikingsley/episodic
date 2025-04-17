@@ -5,7 +5,10 @@ import { NAV_THEME } from '~/lib/constants';
 import { useColorScheme } from '~/lib/useColorScheme'; 
 import { ScreenHeader } from '~/components/common/ScreenHeader'; 
 import { Cog6ToothIcon } from '~/components/icons'; 
+import { PencilSquareIcon } from '~/components/icons/PencilSquareIcon'; 
+import { MagnifyingGlassCircleIcon } from '~/components/icons/MagnifyingGlassCircleIcon'; 
 import React from 'react'; 
+import { View } from 'react-native'; 
 import { BottomTabBarProps, BottomTabHeaderProps, BottomTabNavigationOptions } from '@react-navigation/bottom-tabs'; 
 
 export default function TabsLayout() {
@@ -24,10 +27,17 @@ export default function TabsLayout() {
           borderTopColor: colors.border,
         },
         header: (props: BottomTabHeaderProps) => { 
-          const { options } = props;
-          const title = options.title ?? route.name;
+          const { options, route } = props;
+          let title: string | undefined;
+          if (typeof options.headerTitle === 'string') {
+            title = options.headerTitle;
+          } else {
+            title = typeof options.title === 'string' ? options.title : route.name;
+          }
           const RightIconComponent = (options as any).rightIconComponent as React.ComponentType<any> | undefined;
-          const rightIconProps = (options as any).rightIconProps as any | undefined;
+          const rightIconSize = (options as any).rightIconSize as number | undefined;
+          const rightIconColor = (options as any).rightIconColor as string | undefined;
+
           const headerRightContent = options.headerRight ? options.headerRight({ 
             tintColor: colors.text, 
             canGoBack: props.navigation.canGoBack() 
@@ -37,7 +47,8 @@ export default function TabsLayout() {
             <ScreenHeader 
               title={title}
               RightIconComponent={RightIconComponent}
-              rightIconProps={rightIconProps} 
+              rightIconSize={rightIconSize} 
+              rightIconColor={rightIconColor}
               headerRightContent={headerRightContent}
             />
           );
@@ -47,33 +58,41 @@ export default function TabsLayout() {
       <Tabs.Screen
         name='hq'
         options={{
-          title: 'HEADQUARTERS',
+          headerTitle: 'HEADQUARTERS', 
+          tabBarLabel: 'HQ', 
           tabBarIcon: ({ color, size }) => <Home color={color} size={size} />,
-          rightIconComponent: Cog6ToothIcon,
-          rightIconProps: { color: colors.text, width: 24, height: 24 }, 
-          headerRight: () => <ThemeToggle />, 
-        } as BottomTabNavigationOptions & { rightIconComponent?: any; rightIconProps?: any } }
+          headerRight: () => (
+            <View className="flex-row items-center gap-2"> 
+              <ThemeToggle size={28} />
+              <Cog6ToothIcon color={colors.text} width={28} height={28} />
+            </View>
+          ), 
+        } as BottomTabNavigationOptions }
       />
       <Tabs.Screen
         name='intel'
         options={{
-          title: 'Intel',
+          headerTitle: 'Intel',
           tabBarIcon: ({ color, size }) => <Target color={color} size={size} />,
-        }}
+          rightIconComponent: MagnifyingGlassCircleIcon, 
+          rightIconColor: colors.text, 
+        } as BottomTabNavigationOptions & { rightIconComponent?: any; rightIconSize?: number; rightIconColor?: string } }
       />
       <Tabs.Screen
         name='mission-control'
         options={{
-          title: 'Mission Control',
+          headerTitle: 'Mission Control',
           tabBarIcon: ({ color, size }) => <Map color={color} size={size} />,
         }}
       />
       <Tabs.Screen
         name='agent-profile'
         options={{
-          title: 'Profile',
+          headerTitle: 'Profile',
           tabBarIcon: ({ color, size }) => <User color={color} size={size} />,
-        }}
+          rightIconComponent: PencilSquareIcon, 
+          rightIconColor: colors.text, 
+        } as BottomTabNavigationOptions & { rightIconComponent?: any; rightIconSize?: number; rightIconColor?: string } }
       />
     </Tabs>
   );
