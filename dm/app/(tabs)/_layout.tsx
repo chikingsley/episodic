@@ -1,5 +1,4 @@
 import { Tabs } from 'expo-router';
-import { useTheme } from '@react-navigation/native';
 import { Home, Target, Map, User } from '~/lib/icons'; // Import from barrel file
 import { ThemeToggle } from '~/components/ThemeToggle'; // Import ThemeToggle
 import { NAV_THEME } from '~/lib/constants'; // Import NAV_THEME
@@ -13,6 +12,7 @@ export default function TabsLayout() {
     <Tabs
       initialRouteName="hq"
       screenOptions={{
+        headerShown: false, // Add this line to hide headers globally
         tabBarActiveTintColor: colors.primary, // Use primary accent (Crimson Red)
         tabBarInactiveTintColor: colors.gray, // Changed back to border, as ring might not be ideal visually
         tabBarStyle: {

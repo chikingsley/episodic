@@ -246,4 +246,9 @@ Once the first mission is complete and functional, establish a template-based ap
    - Dialog tree editor for field operations
    - Narrative component templates
 
+use sentry for error tracking
+Use a top-tier word ASR (Scribe v1) → Montreal Forced Aligner.
+https://montreal-forced-aligner.readthedocs.io/en/stable/index.html
+setup python microservice for ASR processing and conversation 
+
 This phased approach allows for iterative development, with early feedback on core mechanics before significant content investment. 

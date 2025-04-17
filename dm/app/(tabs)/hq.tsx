@@ -1,237 +1,182 @@
 import { View } from 'react-native';
-import React, { useState } from 'react';
-import { Text } from '~/components/ui/text'; // Import your custom Text
+import React, { useState, useEffect } from 'react';
+import { Text } from '~/components/ui/text'; 
 import { Button } from '~/components/ui/button';
-import { ScrollView } from 'react-native'; // Correct import for ScrollView
-import {
-  Card,
-  CardContent,
-  CardDescription,
-  CardFooter,
-  CardHeader,
-  CardTitle,
-} from '~/components/ui/card'; // Import Card components
-import { Input } from '~/components/ui/input'; // Import Input component
-import { Progress } from '~/components/ui/progress'; // Import ProgressBar component
-import { Switch } from '~/components/ui/switch'; // Import Switch component
-import { Dialog, DialogContent, DialogHeader, DialogTitle, DialogTrigger, DialogDescription, DialogFooter, DialogClose } from '~/components/ui/dialog';
-import { Alert, AlertDescription, AlertTitle } from '~/components/ui/alert';
-import AlertCircle from '~/lib/icons/AlertCircle';
-import { TooltipTrigger, TooltipContent } from '~/components/ui/tooltip';
-import { Tooltip } from '~/components/ui/tooltip';
-import { Header } from '~/components/Header';
-import { StatusIndicator } from '~/components/ui/status-indicator';
-import { ThemedLoadingScreen } from '~/components/ThemedLoadingScreen';
-import { DarkMallardLoadingScreen } from '~/components/DarkMallardLoadingScreen';
+import { ScrollView } from 'react-native'; 
+import { Card, CardContent, CardHeader, CardTitle } from '~/components/ui/card'; 
+import { SafeAreaView } from 'react-native-safe-area-context';
 
+// Import custom HQ components
+import HQHeader from '~/components/hq/HQHeader';
+import AgentStatusPanel from '~/components/hq/AgentStatusPanel';
+import MissionCard, { MissionStatus } from '~/components/hq/MissionCard';
+
+// Mock data for missions
+const MOCK_MISSIONS = [
+  {
+    id: 'm1',
+    title: 'Hotel Check-in',
+    description: 'Establish your cover identity at the Grand Palais Hotel in Cannes. You must convince the front desk staff of your identity as a Canadian film industry professional.',
+    status: 'inProgress' as MissionStatus,
+    difficulty: 2 as const,
+    xpReward: 120,
+    estimatedTime: '15 min',
+    progress: 60
+  },
+  {
+    id: 'm2',
+    title: 'Room Service Request',
+    description: 'Establish presence in hotel and build initial staff rapport. Practice food vocabulary and courtesy phrases.',
+    status: 'available' as MissionStatus,
+    difficulty: 1 as const,
+    xpReward: 100,
+    estimatedTime: '10 min',
+    progress: 0
+  },
+  {
+    id: 'm3',
+    title: 'Café Reconnaissance',
+    description: 'Identify potential asset at local café. Practice ordering and conversation skills in a casual setting.',
+    status: 'locked' as MissionStatus,
+    difficulty: 3 as const,
+    xpReward: 150,
+    estimatedTime: '20 min',
+    progress: 0
+  }
+];
+
+// Mock data for agent stats
+const MOCK_AGENT_STATS = {
+  codename: "DARK MALLARD",
+  level: 7,
+  xp: 1250,
+  xpTarget: 2000,
+  coverIntegrity: 87,
+  streak: 3,
+  streakTarget: 7,
+  status: 'active' as const
+};
 
 export default function HQScreen() {
-  const [isSwitchOn, setIsSwitchOn] = useState(false); // Or true if you want it initially on
-  // State for loading screens visibility
-  const [showThemedLoading, setShowThemedLoading] = useState(false);
-  const [showDarkMallardLoading, setShowDarkMallardLoading] = useState(false); // New state
-
-  // Handler for the themed loading button
-  const handleShowThemedLoading = () => {
-    setShowThemedLoading(true);
+  const [expandedMission, setExpandedMission] = useState<string | null>(null);
+  const [missions, setMissions] = useState(MOCK_MISSIONS);
+  const [agentStats, setAgentStats] = useState(MOCK_AGENT_STATS);
+  
+  // Handle mission card press
+  const handleMissionPress = (missionId: string) => {
+    setExpandedMission(prev => prev === missionId ? null : missionId);
   };
-
-  // Handler for the Dark Mallard loading button
-  const handleShowDarkMallardLoading = () => {
-    setShowDarkMallardLoading(true);
-  };
-
-  // Handler for when the themed loading animation completes
-  const handleThemedLoadingComplete = () => {
-    setShowThemedLoading(false);
-    alert('Themed loading finished!');
-  };
-
-  // Handler for when the Dark Mallard loading animation completes
-  const handleDarkMallardLoadingComplete = () => {
-    setShowDarkMallardLoading(false);
-    alert('Dark Mallard loading finished!');
+  
+  // Handle mission action button press
+  const handleMissionAction = (missionId: string) => {
+    // In a real app, this would navigate to the mission screen or start the mission
+    console.log(`Starting mission: ${missionId}`);
   };
 
   return (
-    <>
-    <ScrollView contentContainerStyle={{ flexGrow: 1, justifyContent: 'center', alignItems: 'center', padding: 20 }}>
-      <Header>Loading Screen Tests</Header>
-
-      {/* Loading Screen Test Buttons */}
-      <Button onPress={handleShowThemedLoading} className="mb-4 w-full">
-        <Text>Show Simple Loading</Text>
-      </Button>
-      
-      <Button onPress={handleShowDarkMallardLoading} className="mb-4 w-full" variant="destructive">
-        <Text className="text-destructive-foreground">Show Dark Mallard Loading</Text>
-      </Button>
-      
-      <Header>Button Variants</Header>
-
-      {/* Default Variants */}
-      <Button onPress={() => alert('Default pressed')} className="mb-4 w-full">
-        <Text>Default Button</Text>
-      </Button>
-      <Button variant="secondary" onPress={() => alert('Secondary pressed')} className="mb-4 w-full">
-        <Text>Secondary Button</Text>
-      </Button>
-      <Button variant="destructive" onPress={() => alert('Destructive pressed')} className="mb-4 w-full">
-        <Text>Destructive Button</Text>
-      </Button>
-      <Button variant="outline" onPress={() => alert('Outline pressed')} className="mb-4 w-full">
-        <Text>Outline Button</Text>
-      </Button>
-      <Button variant="ghost" onPress={() => alert('Ghost pressed')} className="mb-4 w-full">
-        <Text>Ghost Button</Text>
-      </Button>
-      <Button variant="link" onPress={() => alert('Link pressed')} className="mb-4 w-full">
-        <Text>Link Button</Text>
-      </Button>
-      <Button variant="inProgress" onPress={() => alert('In Progress pressed')} className="mb-4 w-full">
-        <Text>In Progress Button</Text>
-      </Button>
-      <Button variant="completed" onPress={() => alert('Completed pressed')} className="mb-4 w-full">
-        <Text>Completed Button</Text>
-      </Button>
-      <Button variant="locked" onPress={() => alert('Locked pressed')} className="mb-4 w-full">
-        <Text>Locked Button</Text>
-      </Button>
-      <Button variant="clearance" onPress={() => alert('Clearance pressed')} className="mb-4 w-full">
-        <Text>Clearance Button</Text>
-      </Button>
-      <Button variant="electric" onPress={() => alert('Electric pressed')} className="mb-4 w-full">
-        <Text>Electric Button</Text>
-      </Button>
-
-      {/* Sizes */}
-      <Header>Button Sizes</Header>
-      <Button size="sm" onPress={() => alert('Small pressed')} className="mb-4 w-full">
-        <Text>Small Button</Text>
-      </Button>
-      <Button size="default" onPress={() => alert('Default Size pressed')} className="mb-4 w-full">
-        <Text>Default Size Button</Text>
-      </Button>
-      <Button size="lg" onPress={() => alert('Large pressed')} className="mb-4 w-full">
-        <Text>Large Button</Text>
-      </Button>
-      {/* Disabled State */}
-      <Header>Disabled State</Header>
-      <Button disabled onPress={() => alert('Disabled pressed')} className="mb-4 w-full">
-        <Text>Disabled Button</Text>
-      </Button>
-
-      {/* Card Example */}
-      <Header>Card Example</Header>
-      <Card className="w-full mb-4">
-        <CardHeader>
-          <CardTitle>Mission Dossier</CardTitle>
-          <CardDescription>Operation: Silent Echo</CardDescription>
-        </CardHeader>
-        <CardContent>
-          <Text>Agent, your next objective involves infiltrating the Crimson Citadel. Proceed with caution.</Text>
-        </CardContent>
-        <CardFooter>
-          <Text className="text-sm text-muted-foreground">Classification: Top Secret</Text>
-        </CardFooter>
-      </Card>
-
-      {/* Input Example */}
-      <Header>Input Example</Header>
-      <Input
-        placeholder="Enter agent codename..."
-        className="w-full mb-4"
-      />
-      <Input
-        placeholder="Disabled Input"
-        editable={false}
-        className="w-full mb-4"
-      />
-
-      {/* Input Example */}
-      <Header>Progress Bar Example</Header>
-      <Progress value={50} />
-
-      {/* Switch Example */}
-      <Header>Switch Example</Header>
-      <Switch checked={isSwitchOn} onCheckedChange={() => setIsSwitchOn(!isSwitchOn)} />
-
-      {/* Text Example */}
-      <Header>Text Example</Header>
-      <Text>Hello World</Text>
-
-      {/* Dialog Example */}
-      <Header>Dialog Example</Header>
-      <Dialog>
-        <DialogTrigger asChild>
-          <Button><Text>Open Dialog</Text></Button>
-        </DialogTrigger>
-        <DialogContent>
-          <DialogHeader>
-            <DialogTitle>CONFIRMATION REQUIRED</DialogTitle>
-            <DialogDescription>
-              Agent, confirm authorization for Operation Chimera. Proceeding without confirmation may compromise mission integrity.
-            </DialogDescription>
-          </DialogHeader>
-          <DialogFooter>
-            <DialogClose asChild>
-              <Button variant="secondary">
-                <Text className="text-secondary-foreground">CANCEL</Text>
-              </Button>
-            </DialogClose>
-            <DialogClose asChild>
-              <Button>
-                <Text className="text-primary-foreground">CONFIRM</Text>
-              </Button>
-            </DialogClose>
-          </DialogFooter>
-        </DialogContent>
-      </Dialog>
-
-      {/* Alert Example */}
-      <Header>Alert Example</Header>
-      <Alert className="w-full" icon={AlertCircle}>
-        <AlertTitle>Alert Title</AlertTitle>
-        <AlertDescription>Alert Description</AlertDescription>
-      </Alert>
-
-      {/* Tooltip Example */}
-      <Header>Tooltip Example</Header>
-      <Tooltip>
-        <TooltipTrigger asChild>
-          <Button><Text>Open Tooltip</Text></Button>
-        </TooltipTrigger>
-        <TooltipContent>
-          <Text>Secure Channel: Encrypted</Text>
-        </TooltipContent>
-      </Tooltip>
-
-      {/* Added Status Indicator Examples */}
-      <Header>Status Indicator Examples</Header>
-      <View className="flex-row flex-wrap justify-center gap-2 mb-4">
-        <StatusIndicator status="active">ACTIVE</StatusIndicator>
-        <StatusIndicator status="completed">COMPLETED</StatusIndicator>
-        <StatusIndicator status="inProgress">IN PROGRESS</StatusIndicator>
-        <StatusIndicator status="locked">LOCKED</StatusIndicator>
-        <StatusIndicator status="level">LVL.07</StatusIndicator>
-        <StatusIndicator status="priority">PRIORITY</StatusIndicator>
-        <StatusIndicator status="destructive">ERROR</StatusIndicator>
-      </View>
-      
-    </ScrollView>
-    
-    {/* Render ThemedLoadingScreen conditionally */}
-    <ThemedLoadingScreen 
-        isLoading={showThemedLoading} 
-        onLoadingComplete={handleThemedLoadingComplete} 
-    />
-    
-    {/* Render DarkMallardLoadingScreen conditionally */}
-    <DarkMallardLoadingScreen 
-        isLoading={showDarkMallardLoading} 
-        onLoadingComplete={handleDarkMallardLoadingComplete}
-        duration={6000} // Make it a bit longer to see all animations
-    />
-    </>
+    <SafeAreaView edges={['right', 'left']} className="flex-1 bg-background">
+      <ScrollView contentContainerStyle={{ padding: 20, paddingBottom: 100 }}>
+        {/* HQ Header with agent codename and status */}
+        <HQHeader agentCodename={agentStats.codename} isConnected={true} />
+        
+        {/* Agent Status Panel */}
+        <AgentStatusPanel stats={agentStats} />
+        
+        {/* Missions Section */}
+        <View className="mb-6">
+          <Text className="text-xs font-jetbrains-mono text-muted-foreground mb-3">ACTIVE MISSIONS</Text>
+          
+          {/* Mission Cards */}
+          {missions.map((mission) => (
+            <MissionCard
+              key={mission.id}
+              title={mission.title}
+              description={mission.description}
+              status={mission.status}
+              difficulty={mission.difficulty}
+              xpReward={mission.xpReward}
+              estimatedTime={mission.estimatedTime}
+              progress={mission.progress}
+              expanded={expandedMission === mission.id}
+              onPress={() => handleMissionPress(mission.id)}
+            />
+          ))}
+        </View>
+        
+        {/* Quick Actions Section */}
+        <View className="mb-6">
+          <Text className="text-xs font-jetbrains-mono text-muted-foreground mb-3">TACTICAL OPERATIONS</Text>
+          
+          <View className="flex-row space-x-2 mb-4">
+            <Button 
+              className="flex-1 border border-destructive/30 bg-background"
+              onPress={() => console.log('Tactical Drills')}
+            >
+              <View className="items-center">
+                <Text className="text-lg mb-1">🎯</Text>
+                <Text className="font-jetbrains-mono-bold text-xs">TACTICAL DRILLS</Text>
+              </View>
+            </Button>
+            
+            <Button 
+              className="flex-1 border border-destructive/30 bg-background"
+              onPress={() => console.log('Field Communications')}
+            >
+              <View className="items-center">
+                <Text className="text-lg mb-1">🗣️</Text>
+                <Text className="font-jetbrains-mono-bold text-xs">FIELD COMMS</Text>
+              </View>
+            </Button>
+          </View>
+          
+          <Button 
+            variant="destructive"
+            className="w-full"
+            onPress={() => console.log('Resume Mission')}
+          >
+            <Text className="text-destructive-foreground">RESUME ACTIVE MISSION</Text>
+          </Button>
+        </View>
+        
+        {/* Intelligence Briefing Section */}
+        <View className="mb-6">
+          <Text className="text-xs font-jetbrains-mono text-muted-foreground mb-3">INTELLIGENCE UPDATES</Text>
+          
+          <Card className="w-full mb-4 border-destructive/30 bg-background/80">
+            <CardHeader className="pb-2">
+              <View className="flex-row justify-between items-center">
+                <CardTitle className="font-jetbrains-mono-bold text-sm">New Asset Available</CardTitle>
+                <View className="px-2 py-0.5 bg-destructive/10 rounded">
+                  <Text className="text-xs text-destructive font-jetbrains-mono">HIGH PRIORITY</Text>
+                </View>
+              </View>
+            </CardHeader>
+            <CardContent>
+              <Text className="text-xs text-muted-foreground mb-2">
+                Hotel concierge appears receptive to recruitment. Build rapport to unlock specialized vocabulary.
+              </Text>
+              <Text className="text-xs text-muted-foreground/60">07:42</Text>
+            </CardContent>
+          </Card>
+          
+          <Card className="w-full mb-4 border-yellow-600/30 bg-background/80">
+            <CardHeader className="pb-2">
+              <View className="flex-row justify-between items-center">
+                <CardTitle className="font-jetbrains-mono-bold text-sm">Cover Warning</CardTitle>
+                <View className="px-2 py-0.5 bg-yellow-900/30 rounded">
+                  <Text className="text-xs text-yellow-500 font-jetbrains-mono">MEDIUM PRIORITY</Text>
+                </View>
+              </View>
+            </CardHeader>
+            <CardContent>
+              <Text className="text-xs text-muted-foreground mb-2">
+                Security presence increased at hotel. Maintain professional demeanor and avoid drawing attention.
+              </Text>
+              <Text className="text-xs text-muted-foreground/60">06:15</Text>
+            </CardContent>
+          </Card>
+        </View>
+      </ScrollView>
+    </SafeAreaView>
   );
 }

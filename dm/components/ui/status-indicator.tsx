@@ -1,3 +1,4 @@
+// dm/components/ui/status-indicator.tsx
 import React from 'react';
 import { View, type ViewProps } from 'react-native';
 import { Text } from '~/components/ui/text'; // Import base Text
