@@ -1,40 +1,58 @@
 import { Tabs } from 'expo-router';
-import { Home, Target, Map, User } from '~/lib/icons'; // Import from barrel file
-import { ThemeToggle } from '~/components/ThemeToggle'; // Import ThemeToggle
-import { NAV_THEME } from '~/lib/constants'; // Import NAV_THEME
-import { useColorScheme } from '~/lib/useColorScheme'; // Import useColorScheme
+import { Home, Target, Map, User } from '~/lib/icons'; 
+import { ThemeToggle } from '~/components/ThemeToggle'; 
+import { NAV_THEME } from '~/lib/constants'; 
+import { useColorScheme } from '~/lib/useColorScheme'; 
+import { ScreenHeader } from '~/components/common/ScreenHeader'; 
+import { Cog6ToothIcon } from '~/components/icons'; 
+import React from 'react'; 
+import { BottomTabBarProps, BottomTabHeaderProps, BottomTabNavigationOptions } from '@react-navigation/bottom-tabs'; 
 
 export default function TabsLayout() {
-  const { colorScheme } = useColorScheme(); // Get current color scheme
-  const colors = NAV_THEME[colorScheme]; // Select the correct theme object
+  const { colorScheme } = useColorScheme(); 
+  const colors = NAV_THEME[colorScheme]; 
 
   return (
     <Tabs
       initialRouteName="hq"
-      screenOptions={{
-        headerShown: false, // Add this line to hide headers globally
-        tabBarActiveTintColor: colors.primary, // Use primary accent (Crimson Red)
-        tabBarInactiveTintColor: colors.gray, // Changed back to border, as ring might not be ideal visually
+      screenOptions={({ route }) => ({ 
+        headerShown: true, 
+        tabBarActiveTintColor: colors.primary, 
+        tabBarInactiveTintColor: colors.gray, 
         tabBarStyle: {
-          backgroundColor: colors.card, // Use card background for tab bar
+          backgroundColor: colors.card, 
           borderTopColor: colors.border,
         },
-        headerStyle: {
-          backgroundColor: colors.card, // Use card background for header
+        header: (props: BottomTabHeaderProps) => { 
+          const { options } = props;
+          const title = options.title ?? route.name;
+          const RightIconComponent = (options as any).rightIconComponent as React.ComponentType<any> | undefined;
+          const rightIconProps = (options as any).rightIconProps as any | undefined;
+          const headerRightContent = options.headerRight ? options.headerRight({ 
+            tintColor: colors.text, 
+            canGoBack: props.navigation.canGoBack() 
+          }) : undefined;
+
+          return (
+            <ScreenHeader 
+              title={title}
+              RightIconComponent={RightIconComponent}
+              rightIconProps={rightIconProps} 
+              headerRightContent={headerRightContent}
+            />
+          );
         },
-        headerTintColor: colors.text, // Use default text color for header title
-        headerTitleStyle: {
-          fontFamily: 'JetBrains Mono', // Apply mono font
-        },
-      }}
+      })}
     >
       <Tabs.Screen
         name='hq'
         options={{
-          title: 'HQ',
+          title: 'HEADQUARTERS',
           tabBarIcon: ({ color, size }) => <Home color={color} size={size} />,
-          headerRight: () => <ThemeToggle />, // Add ThemeToggle to headerRight
-        }}
+          rightIconComponent: Cog6ToothIcon,
+          rightIconProps: { color: colors.text, width: 24, height: 24 }, 
+          headerRight: () => <ThemeToggle />, 
+        } as BottomTabNavigationOptions & { rightIconComponent?: any; rightIconProps?: any } }
       />
       <Tabs.Screen
         name='intel'
@@ -55,10 +73,8 @@ export default function TabsLayout() {
         options={{
           title: 'Profile',
           tabBarIcon: ({ color, size }) => <User color={color} size={size} />,
-          // Potential location for Settings later
         }}
       />
-      {/* Example: Settings could be a nested screen or a separate modal */}
     </Tabs>
   );
 }
