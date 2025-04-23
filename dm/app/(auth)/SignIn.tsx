@@ -297,7 +297,7 @@ export default function AgentAuthScreen() {
 
             {/* Terms and Privacy Policy for both sign in and sign up */}
             <Text className="text-gray-500 text-xs text-center mb-4">
-              By signing in to DarkMallard, you agree to our <Text className="text-blue-500" onPress={() => { router.push('/terms'); }}>Terms</Text> and <Text className="text-blue-500" onPress={() => { router.push('/privacy'); }}>Privacy Policy</Text>.
+              By signing in to DarkMallard, you agree to our <Text className="text-blue-500" onPress={() => { router.push('/legal/terms'); }}>Terms</Text> and <Text className="text-blue-500" onPress={() => { router.push('/legal/privacy'); }}>Privacy Policy</Text>.
               This site is protected by reCAPTCHA Enterprise and the Google Privacy Policy and <Text className="text-blue-500" onPress={() => { Linking.openURL('https://policies.google.com/terms'); }}>Terms of Service</Text> apply.
             </Text>
           </CardContent>
