@@ -4,6 +4,8 @@ import { Text } from '~/components/ui/text';
 import { Button } from '~/components/ui/button';
 import { router } from 'expo-router';
 
+// TODO: Complete terms of service content with actual legal text and additional sections
+
 export default function TermsScreen() {
   return (
     <SafeAreaView className="flex-1 bg-black">

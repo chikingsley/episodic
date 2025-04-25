@@ -4,6 +4,8 @@ import { Text } from '~/components/ui/text';
 import { Button } from '~/components/ui/button';
 import { router } from 'expo-router';
 
+// TODO: Complete privacy policy content with actual legal text and additional sections
+
 export default function PrivacyScreen() {
   return (
     <SafeAreaView className="flex-1 bg-black">

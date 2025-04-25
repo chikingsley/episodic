@@ -2,10 +2,19 @@
 import * as React from 'react';
 import { TextInput, type TextInputProps } from 'react-native';
 import { cn } from '~/lib/utils';
+import { tailwindColorToHex } from '~/lib/colorUtils';
 
-const Input = React.forwardRef<React.ElementRef<typeof TextInput>, TextInputProps>(
+const Input = React.forwardRef<React.ElementRef<typeof TextInput>, TextInputProps & { placeholderClassName?: string }>(
   ({ className, placeholderClassName, ...props }, ref) => {
+    // Combine default with provided placeholder class name
+    const combinedPlaceholderClass = cn('text-gray-600', placeholderClassName);
+    
+    // Extract the color from the combined classes
+    const placeholderColor = tailwindColorToHex(combinedPlaceholderClass) || '#9ca3af';
+
     return (
+      // IMPORTANT: React Native requires direct color values for placeholderTextColor
+      // We must manually convert Tailwind classes to hex colors using tailwindColorToHex
       <TextInput
         ref={ref}
         className={cn(
@@ -15,7 +24,7 @@ const Input = React.forwardRef<React.ElementRef<typeof TextInput>, TextInputProp
           props.editable === false && 'opacity-50 web:cursor-not-allowed',
           className
         )}
-        placeholderClassName={cn('text-muted-foreground', placeholderClassName)}
+        placeholderTextColor={placeholderColor}
         {...props}
       />
     );

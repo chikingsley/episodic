@@ -167,7 +167,9 @@ export default function AgentAuthScreen() {
                 onPress={() => signIn("google", {})}
                 className="mb-2 border-gray-700 bg-black"
               >
-                <Text className="text-gray-300">LOGIN WITH GOOGLE</Text>
+                <Text className="text-gray-300">
+                  {step === "signIn" ? "LOGIN WITH GOOGLE" : "SIGN UP WITH GOOGLE"}
+                </Text>
               </Button>
 
               <Button
@@ -175,7 +177,9 @@ export default function AgentAuthScreen() {
                 onPress={() => signIn("apple", {})}
                 className="border-gray-700 bg-black"
               >
-                <Text className="text-gray-300">LOGIN WITH APPLE</Text>
+                <Text className="text-gray-300">
+                  {step === "signIn" ? "LOGIN WITH APPLE" : "SIGN UP WITH APPLE"}
+                </Text>
               </Button>
             </View>
             <View className="relative items-center my-4">
@@ -279,10 +283,12 @@ export default function AgentAuthScreen() {
                 <Text className="text-gray-400">
                   {step === "signIn" ? (
                     <>
-                      New Agent? <Text className="underline">Sign up</Text> Here
+                      New Agent? <Text className="underline text-red-500">Sign up</Text> Here
                     </>
                   ) : (
-                    "EXISTING OPERATIVE? ACCESS YOUR ACCOUNT"
+                    <>
+                      EXISTING OPERATIVE? <Text className="underline text-red-500">Sign in</Text> Here
+                    </>
                   )}
                 </Text>
               </Button>
@@ -352,8 +358,8 @@ export default function AgentAuthScreen() {
         </View>
       </View> */}
 
-      {/* Footer */}
-      <View className="absolute bottom-5 w-full items-center">
+      {/* Footer - Removed absolute positioning to make it part of the normal document flow */}
+      <View className="w-full items-center mt-6 mb-6">
         <Text className="font-mono text-gray-600 text-xs">
           {step === "signIn" ? "NETWORK: SECURED" : "ENCRYPTION: AES-256-GCM"}
         </Text>
