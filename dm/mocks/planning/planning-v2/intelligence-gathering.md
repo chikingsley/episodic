@@ -40,12 +40,12 @@ Users interact with vocabulary through a series of escalating challenges:
    - Match foreign terms to translations
    - Identify terms from audio recordings
    - Associate words with relevant images
-   
+
 2. **Recall Phase**
    - Produce translations when shown terms
    - Complete partial sentences with appropriate terms
    - Reconstruct phrases from component words
-   
+
 3. **Application Phase**
    - Use terms in simple constructed dialogues
    - Respond to simulated scenario prompts
@@ -83,12 +83,14 @@ The system uses an advanced SRS algorithm that:
 ### Visual Presentation
 
 **Intelligence Dossier Metaphor:**
+
 - Folders containing "classified" vocabulary sets
 - "Declassification" animations when terms are mastered
 - Security clearance levels indicating mastery progress
 - "Redacted" sections that reveal translations on interaction
 
 **Progress Visualization:**
+
 - "Intelligence Analysis" progress bars
 - Coverage maps showing vocabulary territory secured
 - "Reliability ratings" for different vocabulary categories
@@ -97,12 +99,14 @@ The system uses an advanced SRS algorithm that:
 ### Gamification Elements
 
 **Achievement System:**
+
 - "Intelligence Commendations" for mastery milestones
 - "Rapid Acquisition" badges for quick learning
 - "Perfect Recall" awards for error-free reviews
 - "Deep Cover" recognition for maintained streaks
 
 **Progression Mechanics:**
+
 - "Clearance Level" increases with vocabulary mastery
 - "Field Readiness" ratings based on overall preparation
 - "Critical Asset" status for fully mastered vocabulary sets
@@ -170,22 +174,26 @@ The system uses an advanced SRS algorithm that:
 
 ### Mastery Progression
 
-**Level 1: Initial Recognition**
+Level 1: Initial Recognition
+
 - Matching terms to translations
 - Multiple choice identification
 - Basic pronunciation practice
 
-**Level 2: Basic Recall**
+Level 2: Basic Recall
+
 - Producing translations from foreign terms
 - Completing simple phrases
 - Identifying appropriate usage scenarios
 
-**Level 3: Contextual Application**
+Level 3: Contextual Application
+
 - Role-play ordering exercises
 - Audio comprehension of café dialogues
 - Situational response selection
 
-**Level 4: Mastery Verification**
+Level 4: Mastery Verification
+
 - Rapid recall under time constraints
 - Distinguishing formal/informal usage
 - Cultural etiquette application
@@ -194,6 +202,7 @@ The system uses an advanced SRS algorithm that:
 ### Success Criteria
 
 **Mission Readiness Assessment:**
+
 - 90%+ mastery of mission-critical terms
 - Demonstrated ability to use terms in context
 - Pronunciation accuracy sufficient for native comprehension
@@ -204,6 +213,7 @@ The system uses an advanced SRS algorithm that:
 ### Data Structure
 
 **Vocabulary Entry Schema:**
+
 ```json
 {
   "id": "word-cafe",
@@ -296,4 +306,4 @@ The Intelligence Gathering system embodies these key principles:
 4. **Adaptive Personalization** - Learning path tailored to individual needs
 5. **Narrative Integration** - Vocabulary acquisition as mission-critical activity
 
-This approach transforms what is traditionally the most tedious aspect of language learning (vocabulary memorization) into an engaging, purposeful activity that directly supports the spy narrative. 
+This approach transforms what is traditionally the most tedious aspect of language learning (vocabulary memorization) into an engaging, purposeful activity that directly supports the spy narrative.

@@ -22,13 +22,11 @@ The Field Operation transforms passive language learning into active language us
    - Establishes location, objectives, and context
    - Reviews "mission critical" vocabulary
    - Provides any necessary cultural context
-   
 2. **Interactive Dialogue Tree**
    - Multiple-choice conversation paths
    - Time-limited responses (optional difficulty setting)
    - Branching outcomes based on choices
    - Recovery paths from suboptimal choices
-   
 3. **Success Metrics**
    - Cover Effectiveness (how natural the conversation feels)
    - Objective Completion (did you get the required information?)
@@ -47,7 +45,7 @@ Each interaction follows this flow:
 
 ### Example Dialogue Tree
 
-```
+```markdown
 Waiter: "Bonjour monsieur, vous désirez?"
 
 OPTIONS:
@@ -185,6 +183,7 @@ As the scenario progresses, challenges increase:
 **Briefing:** "Your mission is to make contact with asset 'Blue Jay' at Café Lumière. You'll confirm identity using the phrase 'The weather in Marseille is lovely this time of year.' After confirmation, extract information about an upcoming meeting without arousing suspicion. Cover identity: Canadian tourist interested in French culture."
 
 **Objectives:**
+
 - Successfully order a coffee in natural French
 - Identify and confirm contact using code phrase
 - Extract meeting location and time
@@ -220,6 +219,7 @@ As the scenario progresses, challenges increase:
 **Partial Success:** Contact confirmed, basic information extracted, cover maintained above 60%
 
 **Failure Conditions:**
+
 - Cover effectiveness drops below 50%
 - Incorrect person identified as contact
 - Extraction too obvious, making contact suspicious
@@ -228,18 +228,21 @@ As the scenario progresses, challenges increase:
 ## Development Roadmap
 
 ### MVP Version
+
 - Multiple-choice dialogue system
 - Basic cover effectiveness tracking
 - Linear scenario with limited branching
 - Text-based feedback and assessment
 
 ### Enhanced Version
+
 - Expanded dialogue options and consequences
 - Voice acting for all NPCs
 - Environmental visuals and animations
 - Detailed performance metrics
 
 ### Full Version
+
 - Speech recognition capabilities
 - Fully branching scenarios with multiple outcomes
 - Dynamic NPC reactions based on user history
@@ -256,4 +259,4 @@ Field Operations tie directly back to the learning content by:
 4. Identifying weak areas for future spaced repetition
 5. Contextualizing abstract language concepts in practical scenarios
 
-This creates a virtuous learning cycle where training has immediate application, and performance in the field informs future training priorities. 
+This creates a virtuous learning cycle where training has immediate application, and performance in the field informs future training priorities.

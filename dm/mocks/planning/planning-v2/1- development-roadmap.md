@@ -185,7 +185,7 @@ Progress through these components is linear - Intelligence Gathering must be com
 
 **Convex DB Structure:**
 
-```
+```markdown
 - users/
   - profiles
   - progress
