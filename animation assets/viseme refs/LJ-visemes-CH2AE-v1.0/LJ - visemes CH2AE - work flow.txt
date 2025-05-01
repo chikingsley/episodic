@@ -1,0 +1,38 @@
+LJ - visemes CH2AE
+
+video tutorial:
+https://vimeo.com/larsjandel/visemes-ch2ae
+
+
+basic steps:
+
+Character Animator:
+- open Adobe Character Animator
+- import the PSD-template "LJ visemes system v1.0.psd"
+- add the file (now puppet) to a new scene
+- make sure, it is set to 1920 x 1080 px and set your desired frame rate
+- create visemes via live recording, keyboard triggers and/or imported audio
+- when using an audio file: add it to the timeline, check if the duration of the scene and the "puppet" fits. Select the "puppet" and go to the menu bar: timeline/compute lip sync from scene audio
+
+After Effects:
+- import the Character Animator scene (works via dynamic link, or you could export an png-sequence with a wave file from CH and import it via the script), duration and fps should be fine
+- import the AE-preset "LJ visemes CH2AE v1.0.aep"
+- open the comp "LJ visemes v1.0" and copy it's three layers to the CH-comp
+- make sure, the layer "visemes - CH2AE" is above the CH layer
+- it should already work when you hit play
+- expand or crop the layer "visemes - CH2AE" to the desired / comp length (the next step will ignore comp length as it seems...)
+- expand the effect of the layer, select the expression driven component "viseme nr." and go to the menu bar animation/keyframe assistant/convert expression to keyframes
+- select all generated keys and run the provided script "pt_RemoveDuplicateKeys.jsx"
+- copy keys to "mouth shapes w/ CTRL"'s effect's "viseme nr." or your own layer, which is set up the same way
+- done
+
+Nope, it is not complicated at all, when you know the few steps!  ;)
+
+
+Have fun!
+
+
+Cheers, Lars.
+____________
+web: LarsJandel.de
+twitter: @LarsJandel

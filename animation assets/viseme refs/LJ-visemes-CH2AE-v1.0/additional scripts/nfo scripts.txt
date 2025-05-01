@@ -1,0 +1,6 @@
+nfo scripts:
+
+"pt_RemoveDuplicateKeys" by Paul Tuerslay http://aenhancers.com/viewtopic.php?f=11&t=2166
+
+"New Comp from Character Animator Recording" should come native with AE or the first installation of CH.
+By selecting one image of a png sequence, it will look for the included audio and json file to properly set up the scene.
