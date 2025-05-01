@@ -134,11 +134,4 @@ Each upgrade could add features:
 3. ADVANCED: Idiom recognition
 4. PROTOTYPE: Cultural context assistance
 
-## QUESTIONS TO FINALIZE
-
-1. Do you want linear mission progression or open-world exploration?
-2. Should we include mini-games for specific language skills?
-3. How much actual educational content vs. narrative?
-4. Will you have voice recognition for speaking practice?
-
 For full impact with reasonable scope, I'd recommend focusing on creating 4-5 fully realized missions with the core mechanics polished, rather than trying to implement all 20 arrondissements at once. This gives you a complete experience that can be expanded later

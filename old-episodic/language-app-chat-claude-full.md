@@ -1,6 +1,7 @@
 # Claude Conversation
 
-## Prompt:
+## Prompt
+
 make a settings screen from this component tree. i made this with a friend based on these images. mock something up for me in react (even through we are making for mobile, easier to do mock in react to start)
 
 -----

@@ -6,10 +6,10 @@
 
 The "Comms Center" becomes your central mission dispatch system:
 
-- **DAILY BRIEFINGS**: 5-10 minute Pimsleur-style audio lessons framed as intelligence reports
-- **MISSION ALERTS**: New story missions appear with "PRIORITY" tags
-- **OPTIONAL OPERATIONS**: Side missions categorized by learning focus (Business, Dating, Travel, etc.)
-- **INTEL FRAGMENTS**: Vocabulary review presented as intercepted communications
+**DAILY BRIEFINGS**: 5-10 minute Pimsleur-style audio lessons framed as intelligence reports
+**MISSION ALERTS**: New story missions appear with "PRIORITY" tags
+**OPTIONAL OPERATIONS**: Side missions categorized by learning focus (Business, Dating, Travel, etc.)
+**INTEL FRAGMENTS**: Vocabulary review presented as intercepted communications
 
 This system allows players to prioritize areas of interest while maintaining the core narrative.
 
