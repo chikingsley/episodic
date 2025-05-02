@@ -402,11 +402,13 @@ EPIC 4 — Tech Foundation – Supabase+Prisma, Bun+tRPC Edge API, Expo RN scaff
 - [x] **Chat LLM:** Voice pipeline chosen — PipeCat TTS/TTR; occasional WebRTC fallback when real-time required.
 - [x] **Chat LLM:** Duolingo-style structured prompt pattern drafted and to be refined in PRD.
 
+[COMPLETED MAIN CHECKLIST 7:16 AM MAY 2, 2025]
+
 ## K. Script & Narrative Decisions (TBD)
 
 > Central parking lot for story-centric mechanics we still need to lock down.  These influence both narrative design and gameplay code but don't fit cleanly in the other sections yet.
 
-- [ ] Structure within a Mission (sub-missions, end-test) — **moved to Section K**
+- [ ] Structure within a Mission (sub-missions, end-test)
 - [ ] Optional-Op **life-span / despawn timer**
   - Options: 48 h, 72 h, 7 d; should timer pause while another mission is active?
 - [ ] **Clue Integration Model** – how intel from Optional Ops affects the main spine
@@ -414,22 +416,16 @@ EPIC 4 — Tech Foundation – Supabase+Prisma, Bun+tRPC Edge API, Expo RN scaff
 - [ ] **Failure-Loop (Forced Retreat) content & rewards**
   - Short remedial mission, safe-house hub, or purely narrative cut-scene?
   - Does clearing it restore Integrity / grant XP?
+  - Detail language learning integration (Ideas: Learn unique slang/jargon, gain intel from inmates/guards, different story beats unlock, potentially fun mini-loop. Avoid pure punishment.)
 - [ ] **Error-Severity Rubric** for exercise authors (Minor / Moderate / Major)
   - Quick guidance so story designers tag penalties consistently.
 - [ ] **Pimsleur "Intercept" adaptive overlay** specifics
-  - Trigger rule (HLR `P(recall)` threshold?)
-  - Micro-review format (re-play audio vs. injected recall items).
+  - Define adherence level (recall intervals, backward buildup use).
+  - Define logic for Adaptive Overlay trigger (`P(recall)` threshold?)
+  - Define Micro-review format (re-listen vs. injected recall items).
 - [ ] **Respawn policy for despawned Optional Ops**
   - Gone forever, or can re-appear in later arrondissements?
-
-## L. Remaining Open Checklist Items
-
-- [ ] Detail language learning integration within Failure Loops (Detention/Safehouse). (**[Note: How can this feel distinct & meaningful? Ideas: Learn unique slang/jargon, gain intel from inmates/guards, different story beats unlock, potentially fun mini-loop. Avoid pure punishment.]**)
-- [ ] Define adherence level to Pimsleur methodology for "Intercept" lessons. (**[Decision V1 Pattern: 'Scripted-Spine (Pimsleur-like) + Adaptive Overlay (HLR/Elo reviews)'. Define recall intervals, backward buildup use.]**)
-  - [ ] Define logic for Adaptive Overlay trigger (`P(recall)` threshold?) and actions (re-listen vs. micro-reviews?).
-- [ ] Create detailed UI mockups/wireframes for key screen flows (**[Note: Wireframes exist, need review/integration. Define specific data needed for each UI surface: Map, Audio Player, Review Modal, Feedback Toasts, Status Bars.]**).
-- [ ] What specific UI elements/animations will provide positive feedback? (**[Note: Explore thematic ideas like 'Days Undercover' flip sign, score streaks/momentum mechanics (like CoD killstreaks), celebratory animations for milestones/completions.]**)
-- [ ] Explore "Clout/Credibility/Goodwill" mechanic for relationship/unlock progression? (**[Note: Likely V2+, but capture idea.]**)
+- [ ] Explore "Clout/Credibility/Goodwill" mechanic for relationship/unlock progression? (**Note: TBD, Likely V2+**)
 
 ## M. Build-Phase Spikes & Deferred Items
 
@@ -447,3 +443,5 @@ Items intentionally deferred until implementation/testing phase.  They are *not*
 - Chat LLM memory storage strategy (key-value vs vector) — prototype after baseline chat shipped.
 - Experiment infrastructure — review Expo EAS offerings vs LaunchDarkly once traffic justifies.
 - EAS A/B testing infra — evaluate post-launch.
+- Create detailed UI mockups/wireframes for key screen flows (**Note: Wireframes exist, need review/integration. Define specific data needed for each UI surface: Map, Audio Player, Review Modal, Feedback Toasts, Status Bars.**)
+- Define specific positive feedback UI elements/animations (**Note: Explore thematic ideas like 'Days Undercover' flip sign, score streaks/momentum mechanics (like CoD killstreaks), celebratory animations for milestones/completions.]**)
