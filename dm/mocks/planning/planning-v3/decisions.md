@@ -332,8 +332,98 @@
 
 ## D. Gameplay & UX
 
-- [ ] Plan for balancing/playtesting Cover Integrity percentages (+/- effects).
-- [ ] Define exact consequence of Cover Integrity hitting 0% (beyond "forced retreat").
+- [x] Cover Integrity baseline established (**[Decision V1: Start 100; minor error −5, moderate −15, major −25; correct +2; warning ≤30; forced retreat at 0.]**)
+- [x] Extraction token system defined (**[Decision V1: Player starts with 1 token; auto-consumed to reset Integrity to 25; token refills to 1 at next UTC-midnight if daily Neural-Calibration completed.]**)
+- [x] Daily Neural-Calibration lesson rewards finalized (**[Decision V1: Safe training; +5 Integrity (cap 100); XP slightly > standard; required to enable token regen.]**)
+- [x] Consequence of Integrity hitting 0% clarified (**[Decision V1: If no token available, mission ends in Forced Retreat; XP = 0; triggers Failure-Loop detour narrative (exact content TBD).]**)
+
+## E. Planning & Scope
+
+- [x] Break down V1 scope into buildable user stories/tasks (**see E.1 User Stories below**)
+- [x] Assess solo-dev skills against chosen V1 tech stack (**see E.2 Skills & Risk**)
+- [x] Background/cron jobs for V1 — **None required** (edge models run in-request)
+
+### E.1 User Stories – "Hello-World" V1
+
+EPIC 1 — Boot & Home
+1.1 Auto-Bootstrap Home – silent Clerk restore → Map screen  
+1.2 Start Mission 001 Segment A – tap node → intro plays  
+1.3 Answer Exercise – MCQ translate, feedback, integrity delta  
+1.4 Segment Complete – next segment icon lights up  
+1.5 Mission Complete – after final segment `endMission(success)`; Mission 002 appears
+
+EPIC 2 — Cover Integrity & Token (penalties, extraction token, daily calibration)
+
+EPIC 3 — Content Pipeline – Twine schema validator, Payload CMS starter, signed-URL audio
+
+EPIC 4 — Tech Foundation – Supabase+Prisma, Bun+tRPC Edge API, Expo RN scaffold
+
+### E.2 Solo-Dev Skills & Risk Matrix
+
+| Stack Component | Experience | Risk | Mitigation |
+|-----------------|------------|------|------------|
+| Expo / React Native | Strong | Low | — |
+| Supabase / Postgres | Good | Low | Prisma docs |
+| Clerk (silent auth) | Decent | Low | Starter kit |
+| Rive Animations | Light | Medium | Contractor + course |
+| Bun + tRPC backend | New | HIGH | Early spike, keep API thin |
+| Content pipeline (Twine + CMS) | Low | Medium | Prototype early |
+
+> Highest-risk area: Bun backend unfamiliarity; secondary: producing Rive at scale.
+
+## F. Tech Stack Decisions (from research)
+
+- [x] Feedback scoring mechanism agreed (**simple Elo + CEFR heuristics via Pipecat bolt-on**)
+- [x] Define Phoneme → Viseme mapping approach (**static JSON; Rhubarb optional later**)  
+- [x] Confirm Animation runtime (**Rive primary; Moho/Lottie pre-render optional**)  
+- [x] Select Real-time chat LLM & integration (**Pipcast Cloud + Vercel AI SDK**)
+
+## G. Research Questions (from research)
+
+- [x] Investigate best open-source service for auto-generating viseme keyframes (**[Decision V1: Tentatively Rhubarb-Lip-Sync (maintained) if dynamic needed beyond static map.]**)
+- [x] Evaluate Apple MLX speech models for on-device alignment feasibility.
+- [x] How to automatically grade *interactional competence*? (**Decision: Use existing Elo + CEFR heuristics; revisit advanced metrics post-V1.**)
+
+## H. Terminology Mapping & Deviation Tracking
+
+- [x] V1 terminology mapping decided (Language→Campaign, Section→Clearance Level, Unit→Operation, Lesson→Mission)
+- [x] Deviation Log process adopted — any spec change recorded as `[Deviation yyyy-mm-dd]: reason, impact, link`.
+  - Example: `[Deviation 2024-06-28]: Swapped Bun Edge API to tRPC v11 beta to fix deploy latency; impact = backend bundle size +8 KB; link = PR #42`
+
+## I. Questions from Dev Blueprint
+
+- [x] Do we want linear mission progression or open-world exploration for V1? (**[Note: Vision implies linear progression through arrondissements for V1.]**)
+- [x] Should we include mini-games for specific language skills in V1? (**Decision: No mini-games in V1. Re-evaluate post-launch.**)
+- [x] What is the target balance between educational content vs. narrative focus in V1 missions? (**Decision: Prioritise narrative; ensure each mission teaches ≤8 new vocab items—see content KPIs.**)
+- [x] Will V1 include voice recognition for speaking practice? (**Yes – decided via Section C.**)
+
+## J. Action Items (To-Do)
+
+- [x] **Chat LLM:** Voice pipeline chosen — PipeCat TTS/TTR; occasional WebRTC fallback when real-time required.
+- [x] **Chat LLM:** Duolingo-style structured prompt pattern drafted and to be refined in PRD.
+
+## K. Script & Narrative Decisions (TBD)
+
+> Central parking lot for story-centric mechanics we still need to lock down.  These influence both narrative design and gameplay code but don't fit cleanly in the other sections yet.
+
+- [ ] Structure within a Mission (sub-missions, end-test) — **moved to Section K**
+- [ ] Optional-Op **life-span / despawn timer**
+  - Options: 48 h, 72 h, 7 d; should timer pause while another mission is active?
+- [ ] **Clue Integration Model** – how intel from Optional Ops affects the main spine
+  - Simple boolean flags per clue vs. point-based "intel score" unlocking variant dialogue/endings.
+- [ ] **Failure-Loop (Forced Retreat) content & rewards**
+  - Short remedial mission, safe-house hub, or purely narrative cut-scene?
+  - Does clearing it restore Integrity / grant XP?
+- [ ] **Error-Severity Rubric** for exercise authors (Minor / Moderate / Major)
+  - Quick guidance so story designers tag penalties consistently.
+- [ ] **Pimsleur "Intercept" adaptive overlay** specifics
+  - Trigger rule (HLR `P(recall)` threshold?)
+  - Micro-review format (re-play audio vs. injected recall items).
+- [ ] **Respawn policy for despawned Optional Ops**
+  - Gone forever, or can re-appear in later arrondissements?
+
+## L. Remaining Open Checklist Items
+
 - [ ] Detail language learning integration within Failure Loops (Detention/Safehouse). (**[Note: How can this feel distinct & meaningful? Ideas: Learn unique slang/jargon, gain intel from inmates/guards, different story beats unlock, potentially fun mini-loop. Avoid pure punishment.]**)
 - [ ] Define adherence level to Pimsleur methodology for "Intercept" lessons. (**[Decision V1 Pattern: 'Scripted-Spine (Pimsleur-like) + Adaptive Overlay (HLR/Elo reviews)'. Define recall intervals, backward buildup use.]**)
   - [ ] Define logic for Adaptive Overlay trigger (`P(recall)` threshold?) and actions (re-listen vs. micro-reviews?).
@@ -341,46 +431,19 @@
 - [ ] What specific UI elements/animations will provide positive feedback? (**[Note: Explore thematic ideas like 'Days Undercover' flip sign, score streaks/momentum mechanics (like CoD killstreaks), celebratory animations for milestones/completions.]**)
 - [ ] Explore "Clout/Credibility/Goodwill" mechanic for relationship/unlock progression? (**[Note: Likely V2+, but capture idea.]**)
 
-## E. Planning & Scope
+## M. Build-Phase Spikes & Deferred Items
 
-- [ ] Break down V1 Scope into buildable user stories/tasks. (**[Note: Aim for a polished 'V1', not just MVP, per Duolingo philosophy. Define the minimal "Hello World" path - Seed DB, load 1 dialogue, disable overlay, build player, wire submitAnswer, show XP.]**)
-- [ ] Assess team skills against chosen V1 tech stack. (**[Note: List V1 components: Expo/RN, Supabase/Postgres, Clerk, Bun/Rust, Rive, etc. Evaluate team proficiency/experience with each to identify risks/learning needs.]**)
-- [ ] Define structure, content, and timing for creating the final V1 Technical Specification document (TSD/PRD). (**[Note: Create after decisions checklist locked & user stories drafted? What sections are needed?]**)
-- [ ] Identify backend jobs that can be postponed post-V1 (**[Note: e.g., Nightly Elo replay, tier decay, gem refill cron, leaderboard snapshots.]**)
-- [ ] Define minimal V1 content authoring tools (**[Note: Need Payload CMS setup, Twine export process, Audio Chunk Marker tool (for B.5). Need CSV Uploader, Script Previewer?]**)
-- [ ] Schedule Vision Document (`0-vision-v3.md`) update/sync task (**[Note: Defer full rewrite until after V1 decisions locked. Use Blueprint/Opening Sequence docs for now.]**)
+Items intentionally deferred until implementation/testing phase.  They are *not* blockers for V1 code-freeze.
 
-## F. Tech Stack Decisions (from research)
-
-- [ ] Choose Forced alignment & phoneme timing method (**[Note: Need to test Whisper/Seamless + MFA vs other. Phoneme-level timing likely post-V1.]**).
-- [x] Define Phoneme → Viseme mapping approach (**[Decision V1: Static JSON mapping. Rhubarb is OSS option for dynamic later if needed.]**)
-- [x] Confirm Animation runtime (**[Decision V1: Rive primary, evaluate Moho/Lottie pre-renders case-by-case. Consider basic Rive mouth-sync triggered by recording state for V1 nicety?]**).
-- [x] Select Real-time chat LLM & integration method (**[Decision V1: Pipcast Cloud likely for real-time, Vercel AI SDK for TTS-TTS. Model agnostic. Apply Duolingo's structured prompt pattern (System/Assistant/User roles).]**)
-- [ ] How will the Chat LLM's "List of Facts" (memory) be stored & retrieved efficiently per user/session? (**[Note: V1 Leaning: Key-value facts in user DB record/system prompt (see Cognitive Memory paper Working/Episodic). Consider chunking strategy (Chroma study) if using RAG on history later (V2?). Other options: Vector DB, Rolling context.]**)
-- [ ] Determine Feedback scoring mechanism (**[Note: Open - Focus on simpler V1 metrics? Prompting + Vosk/CEFR heuristics? Keyword usage? Response latency? Complexity? Full 'interactional competence' likely post-V1. Consider Pipecat bolt-on for corrective hints?]**)
-- [ ] Decide on Experiment infrastructure (**[Note: Open - LaunchDarkly viable for V1, or homemade?]**).
-
-## G. Research Questions (from research)
-
-- [x] Investigate best open-source service for auto-generating viseme keyframes (**[Decision V1: Tentatively Rhubarb-Lip-Sync (maintained) if dynamic needed beyond static map.]**)
-- [ ] Can Seamless M4T export phone-level timestamps directly, or is MFA still needed? (**[Note: Needs verification.]**)
-- [ ] Evaluate Apple MLX speech models for on-device alignment feasibility.
-- [ ] How to automatically grade *interactional competence*? (**[Note: V1 focus likely simpler: Explore ELO-style conversation score? Other metrics like keyword usage, response latency, complexity heuristics? Use Vosk + CEFR heuristics?]**)
-
-## H. Terminology Mapping & Deviation Tracking
-
-- [ ] Define final V1 terminology mapping (**[Note: Initial mapping: Language->Campaign, Section->Clearance Level, Unit->Operation, Lesson->Mission. Formalize & confirm.]**)
-- [ ] Clarify structure within a Mission (e.g., Submissions? End-of-mission "Test"/"Cover Operation"?) (**[Note: Needs discussion based on deviation from original plan.]**)
-- [ ] Establish process for tracking deviations from Vision/Blueprint documents during development.
-
-## I. Questions from Dev Blueprint
-
-- [ ] Do we want linear mission progression or open-world exploration for V1? (**[Note: Vision implies linear progression through arrondissements for V1.]**)
-- [ ] Should we include mini-games for specific language skills in V1?
-- [ ] What is the target balance between educational content vs. narrative focus in V1 missions?
-- [ ] Will V1 include voice recognition for speaking practice? (**[Note: Yes, Decision V1 confirmed via C. Technical Implementation Details.]**)
-
-## J. Action Items (To-Do)
-
-- [ ] **Chat LLM:** Evaluate Voice Pipeline vs WebRTC integration options.
-- [ ] **Chat LLM:** Define and apply Duolingo-inspired structured prompt pattern (System/Assistant/User roles).
+- Finalise full V1 Technical Spec (rich TSD / PRD document).
+- Minimal authoring-tool suite: Payload CMS starter, Twine export CLI + validator, lightweight Audio-Marker web UI (evaluate Audacity vs Wavesurfer prototype).
+- Vision & Blueprint document refresh once Section E fully locked.
+- Forced alignment / phoneme-timing method evaluation (Whisper/Seamless + MFA vs alternatives).
+- Chat-LLM memory storage (key-value vs vector) — prototype after baseline chat shipped.
+- Experiment / A-B infra — review Expo EAS offerings vs LaunchDarkly once traffic justifies.
+- Audio-Marker workflow final choice — implement prototype during first asset-import sprint.
+- Define minimal V1 content-authoring tooling (Payload CMS starter, Twine export CLI + Zod validator, lightweight Audio-Marker web UI) - finalize during build prep.
+- Schedule Vision/Blueprint refresh after Section E fully locked.
+- Chat LLM memory storage strategy (key-value vs vector) — prototype after baseline chat shipped.
+- Experiment infrastructure — review Expo EAS offerings vs LaunchDarkly once traffic justifies.
+- EAS A/B testing infra — evaluate post-launch.
