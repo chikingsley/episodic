@@ -21,6 +21,7 @@
 | tu parles     | you speak                | New        | 2nd person of parler                      |
 
 ## Previously Introduced (Reinforced)
+
 | Phrase / Word | Translation              | First Appearance | New Context                          |
 |---------------|--------------------------|------------------|--------------------------------------|
 | Bonjour       | Hello                    | Episode 1        | Greeting new people                  |
@@ -37,12 +38,14 @@
 | je ne comprends pas | I don't understand  | Episode 1        | Communication difficulty             |
 
 ## Grammar Focus
+
 - Informal vs. formal address (tu vs. vous)
 - Question structures with "Comment" and inversion
 - Reflexive verbs introduction with "s'appeler"
 - Origin expression with "venir de"
 
 ## Communication Goals
+
 - Making proper introductions
 - Asking for and giving personal information
 - Exchanging contact information
@@ -50,6 +53,7 @@
 - Expressing basic politeness
 
 ## Spaced Repetition Plan (Pattern: 3, 4, 6, 8)
+
 Vocabulary from this episode will be reinforced in the following episodes:
 
 | Word/Phrase           | Ep 3 | Ep 4 | Ep 6 | Ep 8 |

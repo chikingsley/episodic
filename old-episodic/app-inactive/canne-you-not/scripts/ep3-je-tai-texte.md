@@ -1,4 +1,4 @@
-# Episode 3 – Je t'ai texté!
+# Episode 3 – Je t'ai texté
 
 ## Cold Open
 
@@ -36,7 +36,7 @@ Bonjour, Mike! Comment ça va?
 Ça va bien, merci. Je t'ai texté hier soir.
 
 **MARIANNE**: (apologetic)  
-Ah, oui! Excuse-moi, j'étais avec des amis. 
+Ah, oui! Excuse-moi, j'étais avec des amis.
 
 **MC**: (trying to be casual)  
 Pas de problème. Alors... tu as des amis ici?

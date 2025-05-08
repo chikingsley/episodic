@@ -43,7 +43,7 @@ const DarkMallardLoadingScreen = ({ progress = 0, onLoadComplete }) => {
       duration: 300,
       easing: Easing.bezier(0.25, 0.1, 0.25, 1),
     });
-    
+
     // Update security level based on progress
     if (progress >= 80 && securityLevel.value < 5) {
       securityLevel.value = 5;
@@ -78,14 +78,14 @@ const DarkMallardLoadingScreen = ({ progress = 0, onLoadComplete }) => {
   useEffect(() => {
     // Scan line animation
     scanLinePosition.value = withRepeat(
-      withTiming(100, { 
-        duration: 2000, 
-        easing: Easing.linear 
+      withTiming(100, {
+        duration: 2000,
+        easing: Easing.linear
       }),
       -1, // Infinite repetitions
       false // Don't reverse the animation
     );
-    
+
     // Text decryption animation
     textProgress.value = withTiming(100, {
       duration: 3000,
@@ -145,7 +145,7 @@ const DarkMallardLoadingScreen = ({ progress = 0, onLoadComplete }) => {
         [0, 100],
         [0, fullText.length]
       ));
-      
+
       return {
         opacity: interpolate(textProgress.value, [0, 15], [0, 1]),
       };
@@ -211,7 +211,7 @@ const DarkMallardLoadingScreen = ({ progress = 0, onLoadComplete }) => {
         opacity: progress >= threshold ? 1 : 0.5
       };
     });
-    
+
     return (
       <View style={styles.statusItem}>
         <Animated.View style={[styles.statusDot, indicatorStyle]} />
@@ -224,9 +224,9 @@ const DarkMallardLoadingScreen = ({ progress = 0, onLoadComplete }) => {
 
   return (
     <View style={styles.container}>
-      {/* Background grid pattern */}
+      {/*Background grid pattern*/}
       <View style={styles.gridBackground} />
-      
+
       {/* Classified overlay */}
       <View style={styles.classifiedOverlay}>
         <View style={styles.classifiedBadge}>
@@ -389,7 +389,7 @@ const styles = StyleSheet.create({
     marginLeft: 2,
   },
   progressBarContainer: {
-    width: width * 0.8,
+    width: width *0.8,
     maxWidth: 300,
     height: 16,
     marginBottom: 30,
@@ -424,7 +424,7 @@ const styles = StyleSheet.create({
     flexDirection: 'row',
     flexWrap: 'wrap',
     justifyContent: 'space-between',
-    width: width * 0.8,
+    width: width* 0.8,
     maxWidth: 300,
   },
   statusItem: {

@@ -27,11 +27,13 @@
 | je ne comprends pas | I don't understand | New        | Communication difficulty                  |
 
 ## Grammar Focus
+
 - Basic introduction using "Je suis" (I am)
 - Simple present tense with "Je parle" (I speak)
 - Basic question structure "C'est où, ça?" (Where is that?)
 
 ## Communication Goals
+
 - Introducing oneself
 - Stating nationality and profession
 - Asking for basic information
@@ -39,6 +41,7 @@
 - Asking for help
 
 ## Spaced Repetition Plan (2,3,5,7,10 method)
+
 Vocabulary from this episode will be reinforced in the following episodes:
 
 | Word/Phrase    | Ep 2 | Ep 3 | Ep 5 | Ep 7 | Ep 10 |

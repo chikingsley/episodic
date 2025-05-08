@@ -22,6 +22,7 @@
 | expliquer     | to explain               | New        | Communication                             |
 
 ## Previously Introduced (Reinforced)
+
 | Phrase / Word | Translation              | First Appearance | New Context                          |
 |---------------|--------------------------|------------------|--------------------------------------|
 | je te trouve  | I find you               | Episode 7        | Expressing feelings                  |
@@ -36,6 +37,7 @@
 | avec moi      | with me                  | Episode 5        | Relationship context                 |
 
 ## Grammar Focus
+
 - Question formation about relationships
 - Expression of emotions
 - Using "pourquoi" and "parce que"
@@ -43,6 +45,7 @@
 - Commands with "calme-toi"
 
 ## Communication Goals
+
 - Discussing relationship status
 - Expressing jealousy and insecurity
 - Asking for clarification
@@ -52,6 +55,7 @@
 - Managing negative emotions
 
 ## Spaced Repetition Plan (Pattern: 9, 10)
+
 Vocabulary from this episode will be reinforced in the following episodes:
 
 | Word/Phrase           | Ep 9 | Ep 10 |

@@ -23,6 +23,7 @@
 | rentrer       | to go home               | New        | Movement verb                             |
 
 ## Previously Introduced (Reinforced)
+
 | Phrase / Word | Translation              | First Appearance | New Context                          |
 |---------------|--------------------------|------------------|--------------------------------------|
 | la police     | the police               | Episode 5        | Direct interaction                   |
@@ -37,6 +38,7 @@
 | parler        | to speak                 | Episode 1        | Communication                        |
 
 ## Grammar Focus
+
 - Formal address with police
 - Passé composé for narrating events
 - Using negative expressions in formal settings
@@ -44,6 +46,7 @@
 - Formal requests using "s'il vous plaît"
 
 ## Communication Goals
+
 - Explaining a situation to authorities
 - Understanding official questions
 - Providing identification
@@ -53,6 +56,7 @@
 - Understanding consequences
 
 ## Spaced Repetition Plan (Pattern: 7, 8, 10)
+
 Vocabulary from this episode will be reinforced in the following episodes:
 
 | Word/Phrase       | Ep 7 | Ep 8 | Ep 10 |

@@ -22,6 +22,7 @@
 | à partir de maintenant | from now on     | New        | Time marker                               |
 
 ## Accumulated Vocabulary (Episodes 1-3-5-7 Spaced Repetition)
+
 | Phrase / Word | First Appearance | Translation            | Context                                |
 |---------------|-----------------|------------------------|----------------------------------------|
 | Bonjour       | Episode 1        | Hello                  | Final greeting in new context          |
@@ -81,6 +82,7 @@
 | passer un bon moment | Episode 7  | to have a good time   | Enjoying life together                 |
 
 ## Grammar Focus
+
 - Future expressions and tenses
 - Conditional mood (j'aimerais)
 - Modal verbs (pouvoir)
@@ -89,6 +91,7 @@
 - Expressing hope and possibility
 
 ## Communication Goals
+
 - Discussing new beginnings
 - Making promises and commitments
 - Expressing hopes for the future
@@ -98,6 +101,7 @@
 - Reflecting on growth and learning
 
 ## Series Vocabulary Completion
+
 This episode represents the culmination of language learning throughout the series, with:
 
 - **Comprehensive Reinforcement**: The 2,3,5,7,10 spaced repetition method ensures that vocabulary from Episodes 1, 3, 5, and 7 is systematically reviewed and reinforced.

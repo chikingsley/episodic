@@ -24,6 +24,7 @@
 | Oh non!       | Oh no!                   | New        | Exclamation                               |
 
 ## Previously Introduced (Reinforced)
+
 | Phrase / Word | Translation              | First Appearance | New Context                          |
 |---------------|--------------------------|------------------|--------------------------------------|
 | je voudrais   | I would like             | Episode 3        | Ordering drinks                      |
@@ -56,12 +57,14 @@
 | je ne comprends pas | I don't understand  | Episode 1        | Confusion in loud environment        |
 
 ## Grammar Focus
+
 - Imperative mood ("entre")
 - Reflexive verbs in context (se plaindre)
 - Quantity expressions with "trop"
 - Compound phrases with prepositions
 
 ## Communication Goals
+
 - Making social introductions to groups
 - Party etiquette and vocabulary
 - Expressing states and conditions
@@ -70,6 +73,7 @@
 - Apologizing for inappropriate behavior
 
 ## Spaced Repetition Plan (Pattern: 6, 7, 9)
+
 Vocabulary from this episode will be reinforced in the following episodes:
 
 | Word/Phrase        | Ep 6 | Ep 7 | Ep 9 |

@@ -46,7 +46,8 @@ _(TO BE FILLED AFTER SCRIPTING)_
 
 ---
 
-## Legend:
+## Legend
+
 - ✅ **Reinforced**
 - 🆕 **New**
 - 🔁 **Reused in New Context**

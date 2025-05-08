@@ -22,6 +22,7 @@
 | il s'appelle  | his name is              | New        | 3rd person introduction                   |
 
 ## Previously Introduced (Reinforced)
+
 | Phrase / Word | Translation              | First Appearance | New Context                          |
 |---------------|--------------------------|------------------|--------------------------------------|
 | Enchanté      | Nice to meet you         | Episode 2        | Meeting a new person (Luc)           |
@@ -45,12 +46,14 @@
 | pas de problème | no problem              | Episode 1        | Reassurance                           |
 
 ## Grammar Focus
+
 - Passé composé introduction (Je t'ai texté)
 - Possessive adjectives (mon, ton)
 - Future expressions with "demain"
 - Conditional mood introduction with "je voudrais"
 
 ## Communication Goals
+
 - Clarifying misunderstandings
 - Making arrangements to meet
 - Discussing plans for an outing
@@ -58,6 +61,7 @@
 - Expressing intentions and desires
 
 ## Spaced Repetition Plan (Pattern: 4, 5, 7, 9)
+
 Vocabulary from this episode will be reinforced in the following episodes:
 
 | Word/Phrase       | Ep 4 | Ep 5 | Ep 7 | Ep 9 |

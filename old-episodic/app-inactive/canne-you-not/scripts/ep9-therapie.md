@@ -235,6 +235,7 @@ Exactement. Vous comprenez bien.
 MC sits at his desk, writing in a notebook. We see what he's writing:
 
 "Cinq choses que j'aime chez moi-même:
+
 1. Je suis courageux - j'ai déménagé en France.
 2. Je suis patient avec mes étudiants.
 3. Je suis déterminé à apprendre le français.

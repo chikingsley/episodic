@@ -22,6 +22,7 @@
 | bizarre       | strange/weird            | New        | Emotional state                           |
 
 ## Previously Introduced (Reinforced)
+
 | Phrase / Word | Translation              | First Appearance | New Context                          |
 |---------------|--------------------------|------------------|--------------------------------------|
 | Je t'ai texté | I texted you             | Episode 3        | Recounting recent communication      |
@@ -35,6 +36,7 @@
 | merci beaucoup| thank you very much      | Episode 1        | Expressing gratitude for invitation  |
 
 ## Grammar Focus
+
 - Third person singular (il est, il s'appelle)
 - Reflexive verbs (se connaître, se sentir)
 - Negation with "pas du tout"
@@ -42,6 +44,7 @@
 - Possession with "mon/ma/mes"
 
 ## Communication Goals
+
 - Discussing relationships
 - Making invitations
 - Asking for specific details
@@ -50,6 +53,7 @@
 - Managing jealousy or uncomfortable situations
 
 ## Spaced Repetition Plan (Pattern: 5, 6, 8, 10)
+
 Vocabulary from this episode will be reinforced in the following episodes:
 
 | Word/Phrase       | Ep 5 | Ep 6 | Ep 8 | Ep 10 |

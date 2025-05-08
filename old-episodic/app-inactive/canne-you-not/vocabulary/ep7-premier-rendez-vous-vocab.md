@@ -22,6 +22,7 @@
 | passer un bon moment | to have a good time | New      | Enjoying an experience                    |
 
 ## Previously Introduced (Reinforced from Ep. 1-3-5)
+
 | Phrase / Word | Translation              | First Appearance | New Context                          |
 |---------------|--------------------------|------------------|--------------------------------------|
 | Bonjour       | Hello                    | Episode 1        | Restaurant greeting                  |
@@ -66,6 +67,7 @@
 | je voudrais   | I would like             | Episode 3        | Ordering food/drinks                  |
 
 ## Grammar Focus
+
 - Giving and receiving compliments
 - Restaurant vocabulary and etiquette
 - Asking for recommendations
@@ -73,6 +75,7 @@
 - Using je + [verb] + [adjective] structure
 
 ## Communication Goals
+
 - Managing a restaurant interaction
 - Giving and receiving compliments
 - Expressing enjoyment
@@ -82,6 +85,7 @@
 - Describing food and experiences
 
 ## Spaced Repetition Plan (Pattern: 8, 9, 10)
+
 Vocabulary from this episode will be reinforced in the following episodes:
 
 | Word/Phrase          | Ep 8 | Ep 9 | Ep 10 |

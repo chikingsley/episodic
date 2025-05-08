@@ -7,4 +7,3 @@ i understand french a little
 you are american
 are you american
 excuse me
-

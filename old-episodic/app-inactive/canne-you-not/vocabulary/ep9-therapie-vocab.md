@@ -23,6 +23,7 @@
 | mieux comprendre | to better understand  | New        | Learning outcome                          |
 
 ## Previously Introduced (Reinforced)
+
 | Phrase / Word | Translation              | First Appearance | New Context                          |
 |---------------|--------------------------|------------------|--------------------------------------|
 | s'inquiéter   | to worry                 | Episode 8        | Discussing anxiety                   |
@@ -37,6 +38,7 @@
 | délicieux     | delicious                | Episode 7        | Metaphor for positive experiences    |
 
 ## Grammar Focus
+
 - Talking about abstract concepts
 - Using reflexive verbs for self-care (se détendre)
 - Comparative structures (mieux comprendre)
@@ -44,6 +46,7 @@
 - Using "parler de" to introduce topics
 
 ## Communication Goals
+
 - Discussing feelings and emotions
 - Expressing personal challenges
 - Describing psychological processes
@@ -53,6 +56,7 @@
 - Reflecting on past actions
 
 ## Spaced Repetition Plan (Pattern: 10)
+
 Vocabulary from this episode will be reinforced in the following episode:
 
 | Word/Phrase       | Ep 10 |
