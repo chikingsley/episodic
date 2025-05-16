@@ -260,7 +260,7 @@ Beyond the core schema, consider implementing the following logic:
 
 ## 3. Equations Reference
 
-These are the core formulas for Elo and HLR calculations.
+These are the core formulas for Elo and Half-Life Regression (HLR) calculations.
 
 1. **Expected Correct Probability (E):**
     `E = 1/k + (1 - 1/k) * (1 / (1 + 10^((d_i - θ_u) / σ)))`

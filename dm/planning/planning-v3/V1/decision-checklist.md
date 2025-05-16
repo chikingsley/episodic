@@ -90,7 +90,7 @@
 
 ### 2.3 Narrative Scope
 
-- ✅ **Scope:** Focus only on one path (The Network / Duc)
+- ✅ **Scope:** Focus only on one path (The Network / Duck)
 - ✅ **Branching Complexity:** Moderate branching
   - Choices within missions impact outcomes within that mission
   - Success/failure state impacts subsequent mission options
