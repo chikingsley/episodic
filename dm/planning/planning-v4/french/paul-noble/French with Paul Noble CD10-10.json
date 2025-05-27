@@ -1,0 +1,1002 @@
+[
+  {
+    "text" : "And now the numbers in French.",
+    "timestamp" : "00:00.001-00:02.500"
+  },
+  {
+    "text" : "You'll also find these at the end of the accompanying booklet.",
+    "timestamp" : "00:02.500-00:06.240"
+  },
+  {
+    "timestamp" : "00:06.240-00:08.940",
+    "text" : "Zero."
+  },
+  {
+    "timestamp" : "00:08.940-00:10.360",
+    "text" : "Zero."
+  },
+  {
+    "timestamp" : "00:10.360-00:14.620",
+    "text" : "One."
+  },
+  {
+    "text" : "Un.",
+    "timestamp" : "00:14.620-00:15.820"
+  },
+  {
+    "text" : "Two.",
+    "timestamp" : "00:15.820-00:21.060"
+  },
+  {
+    "timestamp" : "00:21.060-00:22.420",
+    "text" : "Deux."
+  },
+  {
+    "text" : "Three.",
+    "timestamp" : "00:22.420-00:27.260"
+  },
+  {
+    "text" : "Trois.",
+    "timestamp" : "00:27.260-00:28.620"
+  },
+  {
+    "timestamp" : "00:28.620-00:33.340",
+    "text" : "Four."
+  },
+  {
+    "text" : "Quatre.",
+    "timestamp" : "00:33.340-00:34.720"
+  },
+  {
+    "timestamp" : "00:34.720-00:39.480",
+    "text" : "Five."
+  },
+  {
+    "timestamp" : "00:39.480-00:41.040",
+    "text" : "Cinq."
+  },
+  {
+    "timestamp" : "00:41.040-00:45.920",
+    "text" : "Six."
+  },
+  {
+    "text" : "Six.",
+    "timestamp" : "00:45.920-00:47.360"
+  },
+  {
+    "timestamp" : "00:47.360-00:52.440",
+    "text" : "Seven."
+  },
+  {
+    "text" : "Sept.",
+    "timestamp" : "00:52.440-00:53.960"
+  },
+  {
+    "timestamp" : "00:53.960-00:53.960",
+    "text" : "Sept."
+  },
+  {
+    "text" : "Eight.",
+    "timestamp" : "00:53.960-00:58.440"
+  },
+  {
+    "text" : "Huit.",
+    "timestamp" : "00:59.340-00:59.860"
+  },
+  {
+    "timestamp" : "00:59.860-01:04.120",
+    "text" : "Nine."
+  },
+  {
+    "text" : "Neuf.",
+    "timestamp" : "01:04.120-01:05.500"
+  },
+  {
+    "text" : "Ten.",
+    "timestamp" : "01:05.500-01:09.100"
+  },
+  {
+    "text" : "Dix.",
+    "timestamp" : "01:09.100-01:10.660"
+  },
+  {
+    "text" : "Eleven.",
+    "timestamp" : "01:10.660-01:14.700"
+  },
+  {
+    "timestamp" : "01:14.700-01:16.220",
+    "text" : "Onze."
+  },
+  {
+    "text" : "Twelve.",
+    "timestamp" : "01:16.220-01:20.360"
+  },
+  {
+    "timestamp" : "01:20.360-01:21.900",
+    "text" : "Douze."
+  },
+  {
+    "timestamp" : "01:21.900-01:21.900",
+    "text" : "Thirteen."
+  },
+  {
+    "text" : "Thirteen.",
+    "timestamp" : "01:21.900-01:21.900"
+  },
+  {
+    "timestamp" : "01:21.900-01:25.900",
+    "text" : "Thirteen."
+  },
+  {
+    "text" : "Thirteen.",
+    "timestamp" : "01:25.900-01:26.460"
+  },
+  {
+    "text" : "Treize.",
+    "timestamp" : "01:26.460-01:28.080"
+  },
+  {
+    "timestamp" : "01:28.080-01:32.380",
+    "text" : "Fourteen."
+  },
+  {
+    "timestamp" : "01:32.380-01:33.820",
+    "text" : "Quatorze."
+  },
+  {
+    "timestamp" : "01:33.820-01:37.960",
+    "text" : "Fifteen."
+  },
+  {
+    "text" : "Quinze.",
+    "timestamp" : "01:37.960-01:39.400"
+  },
+  {
+    "timestamp" : "01:39.400-01:43.900",
+    "text" : "Sixteen."
+  },
+  {
+    "text" : "Seize.",
+    "timestamp" : "01:43.900-01:45.420"
+  },
+  {
+    "text" : "Seventeen.",
+    "timestamp" : "01:45.420-01:49.400"
+  },
+  {
+    "text" : "Dissette.",
+    "timestamp" : "01:49.400-01:50.960"
+  },
+  {
+    "text" : "Eighteen.",
+    "timestamp" : "01:50.960-01:51.420"
+  },
+  {
+    "timestamp" : "01:51.420-01:55.260",
+    "text" : "Eighteen."
+  },
+  {
+    "text" : "Dix-huit.",
+    "timestamp" : "01:55.260-01:56.800"
+  },
+  {
+    "timestamp" : "01:56.800-02:01.700",
+    "text" : "Nineteen."
+  },
+  {
+    "timestamp" : "02:01.700-02:03.180",
+    "text" : "Dix-neuf."
+  },
+  {
+    "text" : "Twenty.",
+    "timestamp" : "02:03.180-02:07.300"
+  },
+  {
+    "timestamp" : "02:07.300-02:08.700",
+    "text" : "Vingt."
+  },
+  {
+    "timestamp" : "02:08.700-02:13.100",
+    "text" : "Twenty-one."
+  },
+  {
+    "text" : "Vingt-et-un.",
+    "timestamp" : "02:13.100-02:14.620"
+  },
+  {
+    "text" : "Twenty-two.",
+    "timestamp" : "02:14.620-02:19.180"
+  },
+  {
+    "timestamp" : "02:20.020-02:20.820",
+    "text" : "Vingt-deux."
+  },
+  {
+    "timestamp" : "02:20.820-02:21.180",
+    "text" : "Twenty-three."
+  },
+  {
+    "timestamp" : "02:21.180-02:25.140",
+    "text" : "Twenty-three."
+  },
+  {
+    "text" : "Vingt-trois.",
+    "timestamp" : "02:25.140-02:26.980"
+  },
+  {
+    "text" : "Twenty-four.",
+    "timestamp" : "02:26.980-02:31.360"
+  },
+  {
+    "text" : "Vingt-quatre.",
+    "timestamp" : "02:31.360-02:33.120"
+  },
+  {
+    "text" : "Twenty-five.",
+    "timestamp" : "02:33.120-02:37.980"
+  },
+  {
+    "text" : "Vingt-cinq.",
+    "timestamp" : "02:37.980-02:39.860"
+  },
+  {
+    "timestamp" : "02:41.860-02:44.180",
+    "text" : "Twenty-sept."
+  },
+  {
+    "text" : "Twenty-six.",
+    "timestamp" : "02:44.180-02:46.180"
+  },
+  {
+    "timestamp" : "02:46.180-02:50.180",
+    "text" : "Twenty-seven."
+  },
+  {
+    "timestamp" : "02:50.180-02:52.020",
+    "text" : "Vingt-sept."
+  },
+  {
+    "text" : "Twenty-eight.",
+    "timestamp" : "02:52.020-02:55.980"
+  },
+  {
+    "timestamp" : "02:55.980-02:57.860",
+    "text" : "Vingt-huit."
+  },
+  {
+    "text" : "Twenty-nine.",
+    "timestamp" : "02:57.860-03:02.520"
+  },
+  {
+    "timestamp" : "03:02.520-03:04.480",
+    "text" : "Vingt-neuf."
+  },
+  {
+    "text" : "Thirty-four.",
+    "timestamp" : "03:06.480-03:07.860"
+  },
+  {
+    "text" : "Thirty-four.",
+    "timestamp" : "03:07.860-03:08.860"
+  },
+  {
+    "text" : "Thirty-four.",
+    "timestamp" : "03:08.860-03:09.860"
+  },
+  {
+    "timestamp" : "03:09.860-03:10.860",
+    "text" : "Thirty-four."
+  },
+  {
+    "timestamp" : "03:10.860-03:11.660",
+    "text" : "Trente-quatre."
+  },
+  {
+    "text" : "Thirty-five.",
+    "timestamp" : "03:11.660-03:11.860"
+  },
+  {
+    "text" : "Thirty-four.",
+    "timestamp" : "03:11.860-03:12.860"
+  },
+  {
+    "text" : "Trente-quatre.",
+    "timestamp" : "03:12.860-03:15.860"
+  },
+  {
+    "timestamp" : "03:15.860-03:19.860",
+    "text" : "Trente-quatre."
+  },
+  {
+    "text" : "Thirty-five.",
+    "timestamp" : "03:19.860-03:24.240"
+  },
+  {
+    "text" : "Thirty-five.",
+    "timestamp" : "03:24.240-03:24.240"
+  },
+  {
+    "text" : "Thirty-six.",
+    "timestamp" : "03:24.240-03:25.240"
+  },
+  {
+    "timestamp" : "03:25.240-03:26.240",
+    "text" : "Thirty-six."
+  },
+  {
+    "text" : "Thirty-six.",
+    "timestamp" : "03:26.240-03:28.240"
+  },
+  {
+    "text" : "Thirty-six.",
+    "timestamp" : "03:28.240-03:30.240"
+  },
+  {
+    "text" : "Thirty-seven.",
+    "timestamp" : "03:30.240-03:32.240"
+  },
+  {
+    "timestamp" : "03:32.240-03:32.240",
+    "text" : "Trente-six."
+  },
+  {
+    "text" : "Thirty-seven.",
+    "timestamp" : "03:32.240-03:34.380"
+  },
+  {
+    "timestamp" : "03:34.380-03:38.480",
+    "text" : "Trente-cinq."
+  },
+  {
+    "text" : "Thirty-six.",
+    "timestamp" : "03:38.480-03:42.520"
+  },
+  {
+    "text" : "Thirty-six.",
+    "timestamp" : "03:42.520-03:44.340"
+  },
+  {
+    "timestamp" : "03:44.340-03:48.300",
+    "text" : "Thirty-seven."
+  },
+  {
+    "text" : "Thirty-seven.",
+    "timestamp" : "03:48.300-03:48.300"
+  },
+  {
+    "text" : "Thirty-eight.",
+    "timestamp" : "03:48.300-03:50.300"
+  },
+  {
+    "text" : "Thirty-eight.",
+    "timestamp" : "03:50.300-03:54.300"
+  },
+  {
+    "text" : "Thirty-eight.",
+    "timestamp" : "03:54.300-03:56.100"
+  },
+  {
+    "timestamp" : "03:56.100-04:01.580",
+    "text" : "Thirty-nine."
+  },
+  {
+    "timestamp" : "04:01.580-04:03.460",
+    "text" : "Thirty-nine."
+  },
+  {
+    "timestamp" : "04:03.460-04:07.580",
+    "text" : "Forty."
+  },
+  {
+    "timestamp" : "04:07.580-04:09.060",
+    "text" : "Quarante."
+  },
+  {
+    "timestamp" : "04:09.060-04:13.600",
+    "text" : "Forty-one."
+  },
+  {
+    "timestamp" : "04:13.600-04:15.260",
+    "text" : "Quarante-et-un."
+  },
+  {
+    "text" : "Forty-two.",
+    "timestamp" : "04:15.260-04:19.520"
+  },
+  {
+    "text" : "Quarante-deux.",
+    "timestamp" : "04:19.520-04:21.440"
+  },
+  {
+    "timestamp" : "04:21.440-04:25.940",
+    "text" : "Forty-three."
+  },
+  {
+    "text" : "Quarante-trois.",
+    "timestamp" : "04:25.940-04:27.840"
+  },
+  {
+    "text" : "Forty-four.",
+    "timestamp" : "04:27.840-04:31.580"
+  },
+  {
+    "text" : "Quarante-quatre.",
+    "timestamp" : "04:31.580-04:33.380"
+  },
+  {
+    "text" : "Forty-five.",
+    "timestamp" : "04:33.380-04:37.880"
+  },
+  {
+    "text" : "Quarante-cinq.",
+    "timestamp" : "04:37.880-04:39.760"
+  },
+  {
+    "timestamp" : "04:39.760-04:43.360",
+    "text" : "Forty-six."
+  },
+  {
+    "timestamp" : "04:43.360-04:45.160",
+    "text" : "Quarante-six."
+  },
+  {
+    "timestamp" : "04:45.160-04:47.240",
+    "text" : "Quarante-six."
+  },
+  {
+    "text" : "Forty-seven.",
+    "timestamp" : "04:47.240-04:49.200"
+  },
+  {
+    "timestamp" : "04:49.200-04:51.200",
+    "text" : "Quarante-sept."
+  },
+  {
+    "text" : "Quarante-sept.",
+    "timestamp" : "04:51.200-04:53.200"
+  },
+  {
+    "timestamp" : "04:53.200-04:54.920",
+    "text" : "Forty-eight."
+  },
+  {
+    "timestamp" : "04:54.920-04:56.700",
+    "text" : "Quarante-huit."
+  },
+  {
+    "text" : "Quarante-huit.",
+    "timestamp" : "04:56.700-04:56.700"
+  },
+  {
+    "timestamp" : "04:56.700-05:00.280",
+    "text" : "Quarante-nine."
+  },
+  {
+    "text" : "Quarante-neuf.",
+    "timestamp" : "05:00.280-05:02.140"
+  },
+  {
+    "timestamp" : "05:02.140-05:02.140",
+    "text" : "Quarante-neuf."
+  },
+  {
+    "text" : "Quarante-neuf.",
+    "timestamp" : "05:02.140-05:04.140"
+  },
+  {
+    "timestamp" : "05:04.140-05:06.980",
+    "text" : "Quarante-cinquante."
+  },
+  {
+    "timestamp" : "05:06.980-05:08.620",
+    "text" : "Quarante-huit."
+  },
+  {
+    "text" : "Quarante-huit.",
+    "timestamp" : "05:08.620-05:10.620"
+  },
+  {
+    "text" : "Quarante-huit.",
+    "timestamp" : "05:10.620-05:12.520"
+  },
+  {
+    "text" : "Quarante-neuf.",
+    "timestamp" : "05:12.520-05:13.560"
+  },
+  {
+    "timestamp" : "05:13.560-05:14.360",
+    "text" : "Quarante-t-un."
+  },
+  {
+    "text" : "Quarante-neuf.",
+    "timestamp" : "05:14.360-05:15.400"
+  },
+  {
+    "timestamp" : "05:15.400-05:16.200",
+    "text" : "Quarante-neuf."
+  },
+  {
+    "timestamp" : "05:16.200-05:18.220",
+    "text" : "Quarante-deux."
+  },
+  {
+    "timestamp" : "05:18.220-05:20.020",
+    "text" : "Quarante-neuf."
+  },
+  {
+    "text" : "Quarante-t-trois.",
+    "timestamp" : "05:20.020-05:23.600"
+  },
+  {
+    "timestamp" : "05:23.600-05:24.440",
+    "text" : "Quarante-trois."
+  },
+  {
+    "text" : "Quarante-t-trois.",
+    "timestamp" : "05:24.440-05:25.700"
+  },
+  {
+    "text" : "Quarante-quatre.",
+    "timestamp" : "05:25.700-05:29.700"
+  },
+  {
+    "timestamp" : "05:29.700-05:33.700",
+    "text" : "Quarante-quatre."
+  },
+  {
+    "text" : "Quarante-cinq.",
+    "timestamp" : "05:33.700-05:35.740"
+  },
+  {
+    "text" : "Quarante-cinq.",
+    "timestamp" : "05:35.740-05:37.700"
+  },
+  {
+    "timestamp" : "05:37.700-05:39.540",
+    "text" : "Quarante-six."
+  },
+  {
+    "timestamp" : "05:39.540-05:41.500",
+    "text" : "Cinquante-six."
+  },
+  {
+    "timestamp" : "05:41.500-05:41.500",
+    "text" : "Cinquante-six."
+  },
+  {
+    "text" : "Cinquante-six.",
+    "timestamp" : "05:41.500-05:43.500"
+  },
+  {
+    "timestamp" : "05:43.500-05:47.160",
+    "text" : "Cinquante-sept."
+  },
+  {
+    "text" : "Cinquante-sept.",
+    "timestamp" : "05:47.160-05:51.260"
+  },
+  {
+    "text" : "Cinquante-huit.",
+    "timestamp" : "05:51.260-05:52.660"
+  },
+  {
+    "timestamp" : "05:52.660-05:52.660",
+    "text" : "Cinquante-huit."
+  },
+  {
+    "text" : "Cinquante-neuf.",
+    "timestamp" : "05:52.660-05:54.660"
+  },
+  {
+    "text" : "Cinquante-neuf.",
+    "timestamp" : "05:54.660-05:58.260"
+  },
+  {
+    "timestamp" : "05:58.260-06:01.860",
+    "text" : "Sixty."
+  },
+  {
+    "text" : "Soixante.",
+    "timestamp" : "06:01.860-06:03.320"
+  },
+  {
+    "text" : "Sixty-one.",
+    "timestamp" : "06:03.320-06:07.200"
+  },
+  {
+    "text" : "Soixante-et-un.",
+    "timestamp" : "06:07.200-06:08.940"
+  },
+  {
+    "text" : "Sixty-two.",
+    "timestamp" : "06:08.940-06:12.940"
+  },
+  {
+    "text" : "Soixante-deux.",
+    "timestamp" : "06:12.940-06:14.820"
+  },
+  {
+    "timestamp" : "06:14.820-06:18.820",
+    "text" : "Sixty-three."
+  },
+  {
+    "text" : "Soixante-trois.",
+    "timestamp" : "06:18.820-06:20.580"
+  },
+  {
+    "text" : "Sixty-four.",
+    "timestamp" : "06:20.580-06:24.320"
+  },
+  {
+    "timestamp" : "06:24.320-06:26.120",
+    "text" : "Soixante-quatre."
+  },
+  {
+    "timestamp" : "06:26.120-06:29.820",
+    "text" : "Sixty-five."
+  },
+  {
+    "text" : "Soixante-cinq.",
+    "timestamp" : "06:29.820-06:31.740"
+  },
+  {
+    "text" : "Sixty-six.",
+    "timestamp" : "06:31.740-06:35.520"
+  },
+  {
+    "timestamp" : "06:35.520-06:37.260",
+    "text" : "Soixante-six."
+  },
+  {
+    "text" : "Sixty-seven.",
+    "timestamp" : "06:37.260-06:41.260"
+  },
+  {
+    "timestamp" : "06:41.260-06:43.140",
+    "text" : "Soixante-sept."
+  },
+  {
+    "timestamp" : "06:43.140-06:46.860",
+    "text" : "Sixty-eight."
+  },
+  {
+    "text" : "Soixante-huit.",
+    "timestamp" : "06:46.860-06:48.640"
+  },
+  {
+    "text" : "Sixty-nine.",
+    "timestamp" : "06:48.640-06:52.400"
+  },
+  {
+    "text" : "Soixante-neuf.",
+    "timestamp" : "06:52.400-06:54.440"
+  },
+  {
+    "text" : "Seventy.",
+    "timestamp" : "06:54.440-06:58.140"
+  },
+  {
+    "text" : "Soixante-dix.",
+    "timestamp" : "06:58.140-06:59.940"
+  },
+  {
+    "text" : "Soixante-sept.",
+    "timestamp" : "06:59.940-07:01.680"
+  },
+  {
+    "text" : "Soixante-sept.",
+    "timestamp" : "07:01.680-07:03.680"
+  },
+  {
+    "timestamp" : "07:03.680-07:05.680",
+    "text" : "Soixante-sept."
+  },
+  {
+    "text" : "Soixante-sept.",
+    "timestamp" : "07:05.680-07:07.680"
+  },
+  {
+    "timestamp" : "07:07.680-07:08.680",
+    "text" : "Soixante-sept."
+  },
+  {
+    "text" : "Soixante-sept.",
+    "timestamp" : "07:08.680-07:09.680"
+  },
+  {
+    "timestamp" : "07:09.680-07:10.680",
+    "text" : "Soixante-douze."
+  },
+  {
+    "timestamp" : "07:10.680-07:10.680",
+    "text" : "Soixante-douze."
+  },
+  {
+    "timestamp" : "07:10.680-07:11.680",
+    "text" : "Soixante-douze."
+  },
+  {
+    "text" : "Soixante-douze.",
+    "timestamp" : "07:11.680-07:12.680"
+  },
+  {
+    "text" : "Soixante-douze.",
+    "timestamp" : "07:12.680-07:13.680"
+  },
+  {
+    "timestamp" : "07:13.680-07:14.680",
+    "text" : "Soixante-treize."
+  },
+  {
+    "timestamp" : "07:14.680-07:16.680",
+    "text" : "Soixante-treize."
+  },
+  {
+    "timestamp" : "07:16.680-07:18.680",
+    "text" : "Soixante-four."
+  },
+  {
+    "text" : "Soixante-quatorze.",
+    "timestamp" : "07:18.680-07:22.680"
+  },
+  {
+    "timestamp" : "07:22.680-07:23.180",
+    "text" : "Soixante-quatorze."
+  },
+  {
+    "text" : "Soixante-quince.",
+    "timestamp" : "07:23.180-07:24.680"
+  },
+  {
+    "timestamp" : "07:24.680-07:26.680",
+    "text" : "Soixante-quince."
+  },
+  {
+    "text" : "Soixante-quince.",
+    "timestamp" : "07:26.680-07:31.680"
+  },
+  {
+    "text" : "Soixante-seize.",
+    "timestamp" : "07:31.680-07:33.680"
+  },
+  {
+    "timestamp" : "07:33.680-07:36.680",
+    "text" : "Soixante-seize."
+  },
+  {
+    "text" : "Soixante-sept.",
+    "timestamp" : "07:36.680-07:37.680"
+  },
+  {
+    "timestamp" : "07:37.680-07:39.680",
+    "text" : "Soixante-dix-sept."
+  },
+  {
+    "timestamp" : "07:39.680-07:41.680",
+    "text" : "Soixante-dix-sept."
+  },
+  {
+    "text" : "Soixante-dix-sept.",
+    "timestamp" : "07:41.680-07:43.680"
+  },
+  {
+    "timestamp" : "07:43.680-07:47.680",
+    "text" : "Soixante-dix-huit."
+  },
+  {
+    "timestamp" : "07:47.680-07:49.680",
+    "text" : "Soixante-dix-huit."
+  },
+  {
+    "text" : "Soixante-dix-neuf.",
+    "timestamp" : "07:49.680-07:54.680"
+  },
+  {
+    "text" : "80, 81, 82, 83, 84, 85, 85, 85, 85.",
+    "timestamp" : "07:54.680-08:24.660"
+  },
+  {
+    "text" : "86, 87, 88, 89, 90, 90.",
+    "timestamp" : "08:24.660-08:52.660"
+  },
+  {
+    "text" : "91, 92, 93, 94, 95.",
+    "timestamp" : "08:52.660-09:19.660"
+  },
+  {
+    "text" : "96, 96, 97, 98, 98, 99, 99.",
+    "timestamp" : "09:19.660-09:43.660"
+  },
+  {
+    "text" : "100, 101, 101.",
+    "timestamp" : "09:43.660-09:54.660"
+  },
+  {
+    "text" : "102, 103.",
+    "timestamp" : "09:54.660-10:05.660"
+  },
+  {
+    "timestamp" : "10:05.660-10:11.660",
+    "text" : "104, 104."
+  },
+  {
+    "timestamp" : "10:11.660-10:15.660",
+    "text" : "105."
+  },
+  {
+    "text" : "105.",
+    "timestamp" : "10:15.660-10:16.660"
+  },
+  {
+    "timestamp" : "10:16.660-10:20.660",
+    "text" : "106."
+  },
+  {
+    "text" : "106.",
+    "timestamp" : "10:20.660-10:21.660"
+  },
+  {
+    "timestamp" : "10:21.660-10:22.660",
+    "text" : "107."
+  },
+  {
+    "text" : "107.",
+    "timestamp" : "10:22.660-10:23.660"
+  },
+  {
+    "text" : "108.",
+    "timestamp" : "10:23.660-10:24.660"
+  },
+  {
+    "timestamp" : "10:24.660-10:25.660",
+    "text" : "108."
+  },
+  {
+    "text" : "109.",
+    "timestamp" : "10:25.660-10:26.660"
+  },
+  {
+    "timestamp" : "10:26.660-10:31.660",
+    "text" : "109."
+  },
+  {
+    "text" : "109.",
+    "timestamp" : "10:31.660-10:32.660"
+  },
+  {
+    "timestamp" : "10:32.660-10:33.660",
+    "text" : "109."
+  },
+  {
+    "timestamp" : "10:33.660-10:34.660",
+    "text" : "110."
+  },
+  {
+    "text" : "110.",
+    "timestamp" : "10:34.660-10:35.660"
+  },
+  {
+    "text" : "111.",
+    "timestamp" : "10:35.660-10:37.660"
+  },
+  {
+    "text" : "110.",
+    "timestamp" : "10:37.660-10:44.660"
+  },
+  {
+    "text" : "110.",
+    "timestamp" : "10:44.660-10:45.660"
+  },
+  {
+    "text" : "110.",
+    "timestamp" : "10:45.660-10:46.660"
+  },
+  {
+    "text" : "110.",
+    "timestamp" : "10:46.660-10:47.660"
+  },
+  {
+    "text" : "111.",
+    "timestamp" : "10:47.660-10:48.660"
+  },
+  {
+    "timestamp" : "10:48.660-10:50.660",
+    "text" : "111."
+  },
+  {
+    "text" : "112.",
+    "timestamp" : "10:50.660-10:50.660"
+  },
+  {
+    "timestamp" : "10:50.660-11:20.200",
+    "text" : "111, 112, 113, 114, 115, 115, 116."
+  },
+  {
+    "timestamp" : "11:20.200-11:50.180",
+    "text" : "117, 118, 119, 120, 121, 121,"
+  },
+  {
+    "timestamp" : "11:50.180-11:53.180",
+    "text" : "123"
+  },
+  {
+    "timestamp" : "11:53.180-11:55.460",
+    "text" : "120"
+  },
+  {
+    "text" : "130",
+    "timestamp" : "11:55.460-11:59.180"
+  },
+  {
+    "timestamp" : "11:59.180-12:05.640",
+    "text" : "140"
+  },
+  {
+    "timestamp" : "12:05.640-12:11.180",
+    "text" : "200"
+  },
+  {
+    "timestamp" : "12:11.180-12:17.100",
+    "text" : "201"
+  },
+  {
+    "timestamp" : "12:17.100-12:20.980",
+    "text" : "202"
+  },
+  {
+    "text" : "250",
+    "timestamp" : "12:20.980-12:26.240"
+  },
+  {
+    "timestamp" : "12:26.240-12:31.980",
+    "text" : "1,000"
+  },
+  {
+    "timestamp" : "12:31.980-12:36.980",
+    "text" : "1,001"
+  },
+  {
+    "text" : "2,000",
+    "timestamp" : "12:36.980-12:41.980"
+  },
+  {
+    "text" : "50,000",
+    "timestamp" : "12:41.980-12:47.080"
+  },
+  {
+    "text" : "500,000",
+    "timestamp" : "12:47.080-12:53.080"
+  },
+  {
+    "timestamp" : "12:53.080-12:55.080",
+    "text" : "500,000"
+  },
+  {
+    "timestamp" : "12:55.080-12:59.080",
+    "text" : "1,000,000"
+  },
+  {
+    "text" : "1,000,000",
+    "timestamp" : "12:59.080-13:00.080"
+  },
+  {
+    "text" : "500,000",
+    "timestamp" : "13:00.080-13:02.080"
+  },
+  {
+    "text" : "500,000",
+    "timestamp" : "13:02.080-13:02.080"
+  },
+  {
+    "text" : "500,000",
+    "timestamp" : "13:02.080-13:04.080"
+  },
+  {
+    "timestamp" : "13:04.080-13:04.080",
+    "text" : "500,000"
+  },
+  {
+    "text" : "500,000",
+    "timestamp" : "13:04.080-13:06.080"
+  }
+]

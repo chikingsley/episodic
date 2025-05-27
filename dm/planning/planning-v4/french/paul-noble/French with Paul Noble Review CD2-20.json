@@ -1,0 +1,266 @@
+[
+  {
+    "timestamp" : "00:00.001-00:00.760",
+    "text" : "To eat."
+  },
+  {
+    "text" : "Manger.",
+    "timestamp" : "00:00.760-00:02.800"
+  },
+  {
+    "timestamp" : "00:02.800-00:05.320",
+    "text" : "I will eat."
+  },
+  {
+    "text" : "Je mangerai.",
+    "timestamp" : "00:05.320-00:07.820"
+  },
+  {
+    "timestamp" : "00:07.820-00:09.980",
+    "text" : "He will eat."
+  },
+  {
+    "text" : "Il mangera.",
+    "timestamp" : "00:09.980-00:12.700"
+  },
+  {
+    "text" : "She will eat.",
+    "timestamp" : "00:12.700-00:14.300"
+  },
+  {
+    "text" : "Elle mangera.",
+    "timestamp" : "00:14.300-00:16.620"
+  },
+  {
+    "timestamp" : "00:16.620-00:17.980",
+    "text" : "One will eat."
+  },
+  {
+    "text" : "On mangera.",
+    "timestamp" : "00:17.980-00:21.020"
+  },
+  {
+    "timestamp" : "00:21.020-00:23.540",
+    "text" : "You informal will eat."
+  },
+  {
+    "text" : "Tu mangeras.",
+    "timestamp" : "00:23.540-00:27.440"
+  },
+  {
+    "timestamp" : "00:28.740-00:30.400",
+    "text" : "You formal will eat."
+  },
+  {
+    "text" : "Vous mangerez.",
+    "timestamp" : "00:30.400-00:33.880"
+  },
+  {
+    "timestamp" : "00:33.880-00:35.360",
+    "text" : "We will eat."
+  },
+  {
+    "text" : "Nous mangerons.",
+    "timestamp" : "00:35.360-00:37.900"
+  },
+  {
+    "text" : "They will eat.",
+    "timestamp" : "00:37.900-00:38.980"
+  },
+  {
+    "text" : "Ils mangeront.",
+    "timestamp" : "00:38.980-00:41.740"
+  },
+  {
+    "timestamp" : "00:41.740-00:45.020",
+    "text" : "They, an entirely female group, will eat."
+  },
+  {
+    "timestamp" : "00:45.020-00:48.680",
+    "text" : "Elles mangeront."
+  },
+  {
+    "text" : "To wait.",
+    "timestamp" : "00:48.680-00:51.580"
+  },
+  {
+    "text" : "Attendre.",
+    "timestamp" : "00:51.580-00:54.560"
+  },
+  {
+    "text" : "I will wait.",
+    "timestamp" : "00:54.560-00:56.660"
+  },
+  {
+    "text" : "J'attendrai.",
+    "timestamp" : "00:57.480-00:59.240"
+  },
+  {
+    "timestamp" : "00:59.240-01:00.760",
+    "text" : "He will wait."
+  },
+  {
+    "timestamp" : "01:00.760-01:03.500",
+    "text" : "Il attendra."
+  },
+  {
+    "text" : "She will wait.",
+    "timestamp" : "01:03.500-01:05.020"
+  },
+  {
+    "timestamp" : "01:05.020-01:07.820",
+    "text" : "Elle attendra."
+  },
+  {
+    "timestamp" : "01:07.820-01:09.500",
+    "text" : "One will wait."
+  },
+  {
+    "text" : "On attendra.",
+    "timestamp" : "01:09.500-01:11.840"
+  },
+  {
+    "text" : "You informal will wait.",
+    "timestamp" : "01:11.840-01:14.340"
+  },
+  {
+    "timestamp" : "01:17.860-01:18.580",
+    "text" : "Tu attendra."
+  },
+  {
+    "timestamp" : "01:18.580-01:21.100",
+    "text" : "You formal will wait."
+  },
+  {
+    "text" : "Vous attendrez.",
+    "timestamp" : "01:21.100-01:24.320"
+  },
+  {
+    "text" : "We will wait.",
+    "timestamp" : "01:24.320-01:27.000"
+  },
+  {
+    "timestamp" : "01:27.000-01:29.420",
+    "text" : "Nous attendrons."
+  },
+  {
+    "text" : "They will wait.",
+    "timestamp" : "01:29.420-01:31.340"
+  },
+  {
+    "timestamp" : "01:31.340-01:34.280",
+    "text" : "Ils attendront."
+  },
+  {
+    "text" : "They, an entirely female group, will wait.",
+    "timestamp" : "01:34.280-01:37.160"
+  },
+  {
+    "timestamp" : "01:40.160-01:41.160",
+    "text" : "They will wait."
+  },
+  {
+    "timestamp" : "01:41.160-01:41.160",
+    "text" : "They will wait."
+  },
+  {
+    "timestamp" : "01:41.160-01:41.160",
+    "text" : "They will wait."
+  },
+  {
+    "text" : "They will wait.",
+    "timestamp" : "01:41.160-01:42.160"
+  },
+  {
+    "text" : "To leave.",
+    "timestamp" : "01:42.160-01:43.200"
+  },
+  {
+    "text" : "To leave.",
+    "timestamp" : "01:43.200-01:43.200"
+  },
+  {
+    "text" : "Partir.",
+    "timestamp" : "01:43.200-01:45.680"
+  },
+  {
+    "text" : "I will leave.",
+    "timestamp" : "01:45.680-01:47.420"
+  },
+  {
+    "text" : "Je partirai.",
+    "timestamp" : "01:49.420-01:50.520"
+  },
+  {
+    "timestamp" : "01:50.520-01:50.580",
+    "text" : "Je partirai."
+  },
+  {
+    "text" : "He will leave.",
+    "timestamp" : "01:50.580-01:52.040"
+  },
+  {
+    "text" : "Il partira.",
+    "timestamp" : "01:52.040-01:54.600"
+  },
+  {
+    "timestamp" : "01:54.600-01:56.020",
+    "text" : "She will leave."
+  },
+  {
+    "timestamp" : "01:56.020-01:58.300",
+    "text" : "Elle partira."
+  },
+  {
+    "timestamp" : "01:58.300-01:59.720",
+    "text" : "One will leave."
+  },
+  {
+    "text" : "On partira.",
+    "timestamp" : "01:59.720-02:02.220"
+  },
+  {
+    "text" : "You informal will leave.",
+    "timestamp" : "02:02.220-02:04.180"
+  },
+  {
+    "timestamp" : "02:04.180-02:07.360",
+    "text" : "Tu partiras."
+  },
+  {
+    "text" : "You formal will leave.",
+    "timestamp" : "02:07.360-02:09.340"
+  },
+  {
+    "timestamp" : "02:11.100-02:12.480",
+    "text" : "Vous partirez."
+  },
+  {
+    "text" : "We will leave.",
+    "timestamp" : "02:12.480-02:13.920"
+  },
+  {
+    "text" : "Nous partirons.",
+    "timestamp" : "02:13.920-02:16.700"
+  },
+  {
+    "text" : "They will leave.",
+    "timestamp" : "02:16.700-02:18.480"
+  },
+  {
+    "text" : "Ils partiront.",
+    "timestamp" : "02:18.480-02:20.940"
+  },
+  {
+    "timestamp" : "02:20.940-02:24.480",
+    "text" : "They, an entirely female group, will leave."
+  },
+  {
+    "text" : "Elles partiront.",
+    "timestamp" : "02:24.480-02:27.980"
+  },
+  {
+    "text" : "Thank you.",
+    "timestamp" : "02:27.980-02:57.960"
+  }
+]

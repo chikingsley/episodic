@@ -1,0 +1,194 @@
+[
+  {
+    "timestamp" : "00:00.001-00:02.520",
+    "text" : "And now the French alphabet."
+  },
+  {
+    "timestamp" : "00:02.520-00:09.860",
+    "text" : "You'll find the alphabet also is written down in the accompanying booklet along with useful explanations."
+  },
+  {
+    "text" : "A.",
+    "timestamp" : "00:09.860-00:14.420"
+  },
+  {
+    "text" : "A.",
+    "timestamp" : "00:14.420-00:15.500"
+  },
+  {
+    "text" : "A.",
+    "timestamp" : "00:15.500-00:17.020"
+  },
+  {
+    "text" : "B.",
+    "timestamp" : "00:17.020-00:20.160"
+  },
+  {
+    "timestamp" : "00:20.160-00:21.480",
+    "text" : "B."
+  },
+  {
+    "text" : "B.",
+    "timestamp" : "00:21.480-00:22.920"
+  },
+  {
+    "timestamp" : "00:22.920-00:26.080",
+    "text" : "C."
+  },
+  {
+    "text" : "C.",
+    "timestamp" : "00:26.080-00:27.440"
+  },
+  {
+    "text" : "C.",
+    "timestamp" : "00:27.440-00:29.100"
+  },
+  {
+    "text" : "D.",
+    "timestamp" : "00:29.100-00:32.220"
+  },
+  {
+    "text" : "D.",
+    "timestamp" : "00:32.220-00:33.460"
+  },
+  {
+    "timestamp" : "00:33.460-00:35.000",
+    "text" : "D."
+  },
+  {
+    "timestamp" : "00:35.000-00:36.000",
+    "text" : "E."
+  },
+  {
+    "timestamp" : "00:36.000-00:39.500",
+    "text" : "E."
+  },
+  {
+    "text" : "E.",
+    "timestamp" : "00:39.500-00:41.260"
+  },
+  {
+    "text" : "F.",
+    "timestamp" : "00:41.260-00:44.220"
+  },
+  {
+    "timestamp" : "00:44.220-00:45.640",
+    "text" : "F."
+  },
+  {
+    "text" : "F.",
+    "timestamp" : "00:45.640-00:47.300"
+  },
+  {
+    "timestamp" : "00:47.300-00:50.380",
+    "text" : "G."
+  },
+  {
+    "timestamp" : "00:50.380-00:52.100",
+    "text" : "G."
+  },
+  {
+    "timestamp" : "00:52.100-00:53.980",
+    "text" : "G."
+  },
+  {
+    "timestamp" : "00:53.980-00:57.440",
+    "text" : "H."
+  },
+  {
+    "timestamp" : "00:58.540-01:26.540",
+    "text" : "h- i- j- j- k- k- l- l- l- l"
+  },
+  {
+    "timestamp" : "01:26.540-01:33.740",
+    "text" : "m, m, m"
+  },
+  {
+    "timestamp" : "01:33.740-01:40.400",
+    "text" : "n, n, n"
+  },
+  {
+    "timestamp" : "01:40.400-01:46.380",
+    "text" : "o, u, u"
+  },
+  {
+    "text" : "p, p, p",
+    "timestamp" : "01:46.380-01:52.840"
+  },
+  {
+    "text" : "Q",
+    "timestamp" : "01:52.840-01:56.920"
+  },
+  {
+    "text" : "R",
+    "timestamp" : "01:56.920-02:02.600"
+  },
+  {
+    "text" : "R",
+    "timestamp" : "02:02.600-02:04.200"
+  },
+  {
+    "text" : "S",
+    "timestamp" : "02:04.200-02:08.840"
+  },
+  {
+    "text" : "S",
+    "timestamp" : "02:08.840-02:10.840"
+  },
+  {
+    "timestamp" : "02:10.840-02:16.840",
+    "text" : "T"
+  },
+  {
+    "text" : "U",
+    "timestamp" : "02:16.840-02:18.840"
+  },
+  {
+    "timestamp" : "02:18.840-02:24.840",
+    "text" : "V"
+  },
+  {
+    "timestamp" : "02:24.840-02:28.840",
+    "text" : "W"
+  },
+  {
+    "timestamp" : "02:28.840-02:32.840",
+    "text" : "W"
+  },
+  {
+    "text" : "X",
+    "timestamp" : "02:32.840-02:38.840"
+  },
+  {
+    "text" : "Y",
+    "timestamp" : "02:38.840-02:44.840"
+  },
+  {
+    "text" : "Y",
+    "timestamp" : "02:44.840-02:46.840"
+  },
+  {
+    "text" : "Y",
+    "timestamp" : "02:46.840-02:48.840"
+  },
+  {
+    "timestamp" : "02:48.840-02:50.840",
+    "text" : "Y"
+  },
+  {
+    "text" : "Z",
+    "timestamp" : "02:50.840-02:52.840"
+  },
+  {
+    "timestamp" : "02:52.840-02:54.840",
+    "text" : "Z"
+  },
+  {
+    "timestamp" : "02:54.840-02:56.840",
+    "text" : "Z"
+  },
+  {
+    "text" : "Thank you.",
+    "timestamp" : "02:56.840-03:26.820"
+  }
+]

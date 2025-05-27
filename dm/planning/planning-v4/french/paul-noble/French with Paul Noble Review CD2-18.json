@@ -1,0 +1,274 @@
+[
+  {
+    "text" : "I'm ill.",
+    "timestamp" : "00:00.001-00:00.920"
+  },
+  {
+    "timestamp" : "00:00.920-00:03.740",
+    "text" : "Je suis malade."
+  },
+  {
+    "timestamp" : "00:03.740-00:06.040",
+    "text" : "What are your symptoms?"
+  },
+  {
+    "text" : "Quels sont vos symptômes?",
+    "timestamp" : "00:06.040-00:12.520"
+  },
+  {
+    "timestamp" : "00:12.520-00:16.040",
+    "text" : "I have been sick."
+  },
+  {
+    "timestamp" : "00:16.040-00:18.620",
+    "text" : "J'ai vomi."
+  },
+  {
+    "text" : "Do you have a fever?",
+    "timestamp" : "00:18.620-00:21.060"
+  },
+  {
+    "text" : "Avez-vous de la fièvre?",
+    "timestamp" : "00:21.060-00:25.000"
+  },
+  {
+    "timestamp" : "00:25.000-00:26.620",
+    "text" : "Yes."
+  },
+  {
+    "timestamp" : "00:29.680-00:29.880",
+    "text" : "Oui."
+  },
+  {
+    "text" : "No.",
+    "timestamp" : "00:29.880-00:31.140"
+  },
+  {
+    "text" : "Non.",
+    "timestamp" : "00:31.140-00:33.320"
+  },
+  {
+    "timestamp" : "00:33.320-00:35.980",
+    "text" : "You have sunstroke."
+  },
+  {
+    "text" : "Vous avez une insolation.",
+    "timestamp" : "00:35.980-00:39.620"
+  },
+  {
+    "text" : "I think you have to see a doctor.",
+    "timestamp" : "00:39.620-00:43.840"
+  },
+  {
+    "timestamp" : "00:43.840-00:50.160",
+    "text" : "Je pense que vous devez voir un docteur."
+  },
+  {
+    "text" : "Can you recommend me a doctor?",
+    "timestamp" : "00:50.160-00:56.680"
+  },
+  {
+    "text" : "Pouvez-vous me recommander un docteur?",
+    "timestamp" : "00:59.360-01:02.220"
+  },
+  {
+    "timestamp" : "01:02.220-01:05.360",
+    "text" : "Can you recommend a doctor to me?"
+  },
+  {
+    "text" : "Pouvez-vous me recommander un docteur?",
+    "timestamp" : "01:05.360-01:12.100"
+  },
+  {
+    "timestamp" : "01:12.100-01:14.640",
+    "text" : "It's urgent."
+  },
+  {
+    "text" : "C'est urgent.",
+    "timestamp" : "01:16.680-01:17.220"
+  },
+  {
+    "timestamp" : "01:17.220-01:17.240",
+    "text" : "C'est urgent."
+  },
+  {
+    "timestamp" : "01:17.240-01:19.460",
+    "text" : "Is it urgent?"
+  },
+  {
+    "text" : "C'est urgent?",
+    "timestamp" : "01:19.460-01:22.920"
+  },
+  {
+    "text" : "Yes, it's urgent.",
+    "timestamp" : "01:22.920-01:25.840"
+  },
+  {
+    "timestamp" : "01:25.840-01:28.200",
+    "text" : "Oui, c'est urgent."
+  },
+  {
+    "timestamp" : "01:28.200-01:30.280",
+    "text" : "No, it's not urgent."
+  },
+  {
+    "text" : "Non, ce n'est pas urgent.",
+    "timestamp" : "01:30.280-01:33.960"
+  },
+  {
+    "timestamp" : "01:33.960-01:37.000",
+    "text" : "Yes, it's very urgent."
+  },
+  {
+    "text" : "Oui, c'est urgent.",
+    "timestamp" : "01:39.780-01:41.040"
+  },
+  {
+    "text" : "No, it's not very urgent.",
+    "timestamp" : "01:41.040-01:43.920"
+  },
+  {
+    "timestamp" : "01:43.920-01:48.460",
+    "text" : "Non, ce n'est pas très urgent."
+  },
+  {
+    "timestamp" : "01:48.460-01:51.140",
+    "text" : "One moment, please."
+  },
+  {
+    "text" : "Un moment, s'il vous plaît.",
+    "timestamp" : "01:54.200-01:55.420"
+  },
+  {
+    "text" : "The doctor is going to come immediately.",
+    "timestamp" : "01:55.420-01:59.400"
+  },
+  {
+    "timestamp" : "02:04.840-02:06.900",
+    "text" : "Le docteur va venir immédiatement."
+  },
+  {
+    "timestamp" : "02:06.900-02:10.960",
+    "text" : "The doctor is going to come immediately."
+  },
+  {
+    "text" : "Le docteur va venir tout de suite.",
+    "timestamp" : "02:10.960-02:16.720"
+  },
+  {
+    "timestamp" : "02:16.720-02:24.680",
+    "text" : "Do you have a fever?"
+  },
+  {
+    "timestamp" : "02:27.320-02:28.540",
+    "text" : "Avez-vous de la fièvre?"
+  },
+  {
+    "text" : "Yes, I have a fever.",
+    "timestamp" : "02:28.540-02:30.900"
+  },
+  {
+    "text" : "Oui, j'ai de la fièvre.",
+    "timestamp" : "02:30.900-02:35.860"
+  },
+  {
+    "text" : "Since when?",
+    "timestamp" : "02:35.860-02:38.600"
+  },
+  {
+    "text" : "Depuis quand?",
+    "timestamp" : "02:38.600-02:41.700"
+  },
+  {
+    "text" : "For how long?",
+    "timestamp" : "02:41.700-02:43.400"
+  },
+  {
+    "text" : "Depuis quand?",
+    "timestamp" : "02:43.400-02:46.180"
+  },
+  {
+    "text" : "For two hours.",
+    "timestamp" : "02:46.180-02:48.320"
+  },
+  {
+    "timestamp" : "02:48.320-02:51.860",
+    "text" : "Depuis deux heures."
+  },
+  {
+    "text" : "Can you tell me, are you diabetic?",
+    "timestamp" : "02:51.860-02:55.420"
+  },
+  {
+    "text" : "Can you tell me, do you have a heart condition?",
+    "timestamp" : "02:55.420-03:05.560"
+  },
+  {
+    "text" : "Pouvez-vous me dire, êtes-vous cardiaque?",
+    "timestamp" : "03:05.560-03:11.920"
+  },
+  {
+    "text" : "Can you tell me, are you asthmatic?",
+    "timestamp" : "03:11.920-03:15.240"
+  },
+  {
+    "timestamp" : "03:15.240-03:21.200",
+    "text" : "Pouvez-vous me dire, êtes-vous asthmatic?"
+  },
+  {
+    "text" : "It's serious.",
+    "timestamp" : "03:21.200-03:24.740"
+  },
+  {
+    "text" : "C'est grave.",
+    "timestamp" : "03:24.740-03:28.060"
+  },
+  {
+    "timestamp" : "03:28.060-03:30.880",
+    "text" : "Is it serious?"
+  },
+  {
+    "timestamp" : "03:30.880-03:34.200",
+    "text" : "C'est grave?"
+  },
+  {
+    "timestamp" : "03:34.200-03:38.100",
+    "text" : "No, it's not very serious."
+  },
+  {
+    "text" : "Non, ce n'est pas très grave.",
+    "timestamp" : "03:38.100-03:43.260"
+  },
+  {
+    "text" : "You mustn't go out today.",
+    "timestamp" : "03:43.260-03:46.460"
+  },
+  {
+    "timestamp" : "03:46.460-03:51.840",
+    "text" : "Vous ne devez pas sortir aujourd'hui."
+  },
+  {
+    "text" : "Thank you.",
+    "timestamp" : "03:51.840-03:54.320"
+  },
+  {
+    "text" : "Merci.",
+    "timestamp" : "03:54.320-03:56.380"
+  },
+  {
+    "text" : "Merci.",
+    "timestamp" : "03:56.380-03:56.460"
+  },
+  {
+    "text" : "Bye.",
+    "timestamp" : "03:56.460-03:56.580"
+  },
+  {
+    "text" : "Bye.",
+    "timestamp" : "03:56.580-03:56.640"
+  },
+  {
+    "text" : "Thank you.",
+    "timestamp" : "03:56.640-04:26.620"
+  }
+]

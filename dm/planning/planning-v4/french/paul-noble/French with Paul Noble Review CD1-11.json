@@ -1,0 +1,346 @@
+[
+  {
+    "timestamp" : "00:00.001-00:01.320",
+    "text" : "He has."
+  },
+  {
+    "text" : "Il a.",
+    "timestamp" : "00:01.320-00:03.740"
+  },
+  {
+    "timestamp" : "00:03.740-00:06.720",
+    "text" : "He has prepared the coffee for me."
+  },
+  {
+    "text" : "Il a préparé le café pour moi.",
+    "timestamp" : "00:06.720-00:11.900"
+  },
+  {
+    "text" : "She has.",
+    "timestamp" : "00:11.900-00:13.320"
+  },
+  {
+    "timestamp" : "00:13.320-00:15.640",
+    "text" : "Elle a."
+  },
+  {
+    "timestamp" : "00:15.640-00:17.920",
+    "text" : "She has prepared the coffee for me."
+  },
+  {
+    "timestamp" : "00:17.920-00:23.240",
+    "text" : "Elle a préparé le café pour moi."
+  },
+  {
+    "timestamp" : "00:23.240-00:24.600",
+    "text" : "Your mother."
+  },
+  {
+    "text" : "Votre mère.",
+    "timestamp" : "00:24.600-00:27.600"
+  },
+  {
+    "timestamp" : "00:27.600-00:29.820",
+    "text" : "Your mother has prepared the coffee."
+  },
+  {
+    "timestamp" : "00:29.820-00:35.580",
+    "text" : "Votre mère a préparé le café."
+  },
+  {
+    "timestamp" : "00:35.580-00:38.220",
+    "text" : "Your mother has visited the park."
+  },
+  {
+    "text" : "Votre mère a visité le parc.",
+    "timestamp" : "00:38.220-00:43.760"
+  },
+  {
+    "text" : "Your father.",
+    "timestamp" : "00:43.760-00:46.100"
+  },
+  {
+    "text" : "Votre père.",
+    "timestamp" : "00:46.100-00:49.100"
+  },
+  {
+    "text" : "Your mother has visited the park.",
+    "timestamp" : "00:49.100-00:51.700"
+  },
+  {
+    "timestamp" : "00:51.700-00:54.100",
+    "text" : "Your father has visited the Louvre."
+  },
+  {
+    "text" : "Votre mère a visité le parc.",
+    "timestamp" : "00:54.100-01:02.020"
+  },
+  {
+    "timestamp" : "01:02.020-01:03.760",
+    "text" : "Votre père a visité le Louvre."
+  },
+  {
+    "timestamp" : "01:03.760-01:05.940",
+    "text" : "Preparation."
+  },
+  {
+    "text" : "Préparation.",
+    "timestamp" : "01:05.940-01:09.500"
+  },
+  {
+    "text" : "Reservation.",
+    "timestamp" : "01:09.500-01:11.440"
+  },
+  {
+    "timestamp" : "01:11.440-01:14.380",
+    "text" : "Réservation."
+  },
+  {
+    "timestamp" : "01:14.380-01:15.840",
+    "text" : "Décoration."
+  },
+  {
+    "text" : "Invitation.",
+    "timestamp" : "01:18.100-01:18.660"
+  },
+  {
+    "text" : "Invitation.",
+    "timestamp" : "01:18.660-01:19.100"
+  },
+  {
+    "text" : "Invitation.",
+    "timestamp" : "01:19.100-01:20.300"
+  },
+  {
+    "text" : "Invitation.",
+    "timestamp" : "01:20.300-01:23.300"
+  },
+  {
+    "timestamp" : "01:23.300-01:25.860",
+    "text" : "I have decorated."
+  },
+  {
+    "timestamp" : "01:25.860-01:29.200",
+    "text" : "J'ai décoré."
+  },
+  {
+    "timestamp" : "01:29.200-01:30.660",
+    "text" : "The house."
+  },
+  {
+    "text" : "La maison.",
+    "timestamp" : "01:30.660-01:33.000"
+  },
+  {
+    "text" : "I have decorated the house.",
+    "timestamp" : "01:33.000-01:36.100"
+  },
+  {
+    "text" : "J'ai décoré.",
+    "timestamp" : "01:38.820-01:39.820"
+  },
+  {
+    "text" : "J'ai décoré la maison.",
+    "timestamp" : "01:39.820-01:40.740"
+  },
+  {
+    "timestamp" : "01:40.740-01:46.900",
+    "text" : "I decorated the house."
+  },
+  {
+    "timestamp" : "01:46.900-01:50.740",
+    "text" : "J'ai décoré la maison."
+  },
+  {
+    "timestamp" : "01:51.620-01:53.880",
+    "text" : "I did decorate the house."
+  },
+  {
+    "timestamp" : "01:53.880-01:58.580",
+    "text" : "J'ai décoré la maison."
+  },
+  {
+    "timestamp" : "01:58.580-02:01.440",
+    "text" : "You have decorated the house."
+  },
+  {
+    "text" : "Vous avez décoré la maison.",
+    "timestamp" : "02:01.440-02:06.440"
+  },
+  {
+    "text" : "Have you decorated the house?",
+    "timestamp" : "02:06.440-02:09.300"
+  },
+  {
+    "timestamp" : "02:12.900-02:14.560",
+    "text" : "Avez-vous décoré la maison?"
+  },
+  {
+    "text" : "Reserved.",
+    "timestamp" : "02:14.560-02:17.160"
+  },
+  {
+    "text" : "Réservé.",
+    "timestamp" : "02:17.160-02:20.400"
+  },
+  {
+    "text" : "He has reserved a table.",
+    "timestamp" : "02:20.400-02:23.140"
+  },
+  {
+    "text" : "Il a réservé une table.",
+    "timestamp" : "02:23.140-02:28.380"
+  },
+  {
+    "text" : "He reserved a table.",
+    "timestamp" : "02:28.380-02:30.860"
+  },
+  {
+    "text" : "Il a réservé une table.",
+    "timestamp" : "02:30.860-02:35.820"
+  },
+  {
+    "text" : "He did reserve a table.",
+    "timestamp" : "02:35.820-02:38.080"
+  },
+  {
+    "timestamp" : "02:40.980-02:42.740",
+    "text" : "Il a réservé une table."
+  },
+  {
+    "timestamp" : "02:42.740-02:51.640",
+    "text" : "Votre père a réservé une table."
+  },
+  {
+    "text" : "I have reserved a table for you.",
+    "timestamp" : "02:51.640-02:55.360"
+  },
+  {
+    "timestamp" : "02:55.360-03:01.320",
+    "text" : "J'ai réservé une table pour vous."
+  },
+  {
+    "timestamp" : "03:01.320-03:04.120",
+    "text" : "I have reserved a table for dinner."
+  },
+  {
+    "timestamp" : "03:04.120-03:10.200",
+    "text" : "J'ai réservé une table pour le dîner."
+  },
+  {
+    "text" : "Have you reserved a table for dinner?",
+    "timestamp" : "03:10.200-03:13.020"
+  },
+  {
+    "text" : "Avez-vous réservé une table pour le dîner?",
+    "timestamp" : "03:13.020-03:19.560"
+  },
+  {
+    "timestamp" : "03:19.560-03:21.760",
+    "text" : "Invitation."
+  },
+  {
+    "timestamp" : "03:21.760-03:24.940",
+    "text" : "Invitation."
+  },
+  {
+    "text" : "I have invited Paul.",
+    "timestamp" : "03:24.940-03:28.220"
+  },
+  {
+    "text" : "J'ai invité Paul.",
+    "timestamp" : "03:31.080-03:32.600"
+  },
+  {
+    "text" : "To the park.",
+    "timestamp" : "03:32.600-03:34.980"
+  },
+  {
+    "timestamp" : "03:34.980-03:37.940",
+    "text" : "Au parc."
+  },
+  {
+    "timestamp" : "03:37.940-03:40.880",
+    "text" : "I have invited Paul to the park."
+  },
+  {
+    "text" : "J'ai invité Paul au parc.",
+    "timestamp" : "03:40.880-03:46.660"
+  },
+  {
+    "timestamp" : "03:46.660-03:48.640",
+    "text" : "To the cinema."
+  },
+  {
+    "timestamp" : "03:48.640-03:51.640",
+    "text" : "Au cinéma."
+  },
+  {
+    "text" : "Have you invited Paul to the cinema?",
+    "timestamp" : "03:51.640-03:55.140"
+  },
+  {
+    "timestamp" : "03:58.980-04:00.960",
+    "text" : "Avez-vous invité Paul au cinéma?"
+  },
+  {
+    "timestamp" : "04:00.960-04:01.960",
+    "text" : "Avez-vous invité Paul au cinéma?"
+  },
+  {
+    "text" : "Avez-vous invité Paul au cinéma?",
+    "timestamp" : "04:01.960-04:01.960"
+  },
+  {
+    "text" : "Avez-vous invité Paul au cinéma?",
+    "timestamp" : "04:01.960-04:01.960"
+  },
+  {
+    "timestamp" : "04:01.960-04:01.960",
+    "text" : "Avez-vous invité Paul au cinéma?"
+  },
+  {
+    "timestamp" : "04:01.960-04:01.960",
+    "text" : "Avez-vous invité Paul au cinéma?"
+  },
+  {
+    "text" : "Avez-vous invité Paul au cinéma?",
+    "timestamp" : "04:01.960-04:02.460"
+  },
+  {
+    "timestamp" : "04:02.460-04:02.960",
+    "text" : "Avez-vous invité Paul au cinéma?"
+  },
+  {
+    "timestamp" : "04:02.960-04:02.960",
+    "text" : "Avez-vous invité Paul au cinéma?"
+  },
+  {
+    "timestamp" : "04:02.960-04:03.960",
+    "text" : "Avez-vous invité Paul au cinéma?"
+  },
+  {
+    "text" : "Avez-vous invité Paul au cinéma?",
+    "timestamp" : "04:03.960-04:03.960"
+  },
+  {
+    "text" : "Avez-vous invité Paul au cinéma?",
+    "timestamp" : "04:03.960-04:03.960"
+  },
+  {
+    "timestamp" : "04:03.960-04:04.960",
+    "text" : "Avez-vous invité Paul au cinéma?"
+  },
+  {
+    "text" : "Avez-vous invité Paul au cinéma?",
+    "timestamp" : "04:04.960-04:05.960"
+  },
+  {
+    "text" : "Avez-vous invité Paul au cinéma?",
+    "timestamp" : "04:05.960-04:05.960"
+  },
+  {
+    "text" : "Avez-vous invité Paul au cinéma?",
+    "timestamp" : "04:05.960-04:06.960"
+  }
+]

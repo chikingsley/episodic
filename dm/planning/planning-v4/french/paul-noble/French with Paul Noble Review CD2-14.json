@@ -1,0 +1,334 @@
+[
+  {
+    "timestamp" : "00:00.001-00:00.820",
+    "text" : "To take."
+  },
+  {
+    "timestamp" : "00:00.820-00:03.340",
+    "text" : "Prendre."
+  },
+  {
+    "text" : "Where can I take a taxi?",
+    "timestamp" : "00:03.340-00:05.900"
+  },
+  {
+    "timestamp" : "00:05.900-00:13.340",
+    "text" : "Où est-ce que je peux prendre un taxi?"
+  },
+  {
+    "text" : "A ticket.",
+    "timestamp" : "00:13.340-00:15.940"
+  },
+  {
+    "timestamp" : "00:15.940-00:18.520",
+    "text" : "Un billet."
+  },
+  {
+    "timestamp" : "00:18.520-00:20.640",
+    "text" : "Where can I buy a ticket?"
+  },
+  {
+    "text" : "Où puis-je acheter un billet?",
+    "timestamp" : "00:20.640-00:24.960"
+  },
+  {
+    "timestamp" : "00:24.960-00:29.120",
+    "text" : "A single ticket."
+  },
+  {
+    "text" : "Un aller simple.",
+    "timestamp" : "00:29.120-00:33.500"
+  },
+  {
+    "text" : "A return ticket.",
+    "timestamp" : "00:33.500-00:36.220"
+  },
+  {
+    "text" : "Un aller-retour.",
+    "timestamp" : "00:36.220-00:39.080"
+  },
+  {
+    "timestamp" : "00:39.080-00:42.320",
+    "text" : "To stay."
+  },
+  {
+    "timestamp" : "00:42.320-00:44.740",
+    "text" : "Rester."
+  },
+  {
+    "text" : "To desire.",
+    "timestamp" : "00:44.740-00:46.260"
+  },
+  {
+    "text" : "Désirer.",
+    "timestamp" : "00:46.260-00:49.080"
+  },
+  {
+    "text" : "Continue.",
+    "timestamp" : "00:49.080-00:50.300"
+  },
+  {
+    "text" : "Continuer.",
+    "timestamp" : "00:50.300-00:53.340"
+  },
+  {
+    "timestamp" : "00:53.340-00:54.640",
+    "text" : "To change."
+  },
+  {
+    "timestamp" : "00:54.640-00:56.840",
+    "text" : "Changer."
+  },
+  {
+    "text" : "Do I have to change?",
+    "timestamp" : "00:56.840-00:59.020"
+  },
+  {
+    "text" : "Dois-je changer?",
+    "timestamp" : "00:59.020-01:02.240"
+  },
+  {
+    "timestamp" : "01:02.240-01:04.440",
+    "text" : "No, it's not necessary."
+  },
+  {
+    "timestamp" : "01:04.440-01:08.700",
+    "text" : "Non, ce n'est pas nécessaire."
+  },
+  {
+    "timestamp" : "01:08.700-01:10.180",
+    "text" : "Ordinary."
+  },
+  {
+    "text" : "Ordinaire.",
+    "timestamp" : "01:10.180-01:12.580"
+  },
+  {
+    "text" : "Solitary.",
+    "timestamp" : "01:12.580-01:13.980"
+  },
+  {
+    "timestamp" : "01:13.980-01:16.240",
+    "text" : "Solitaire."
+  },
+  {
+    "text" : "Salary.",
+    "timestamp" : "01:16.240-01:17.760"
+  },
+  {
+    "text" : "Salaire.",
+    "timestamp" : "01:17.760-01:20.320"
+  },
+  {
+    "text" : "To go down.",
+    "timestamp" : "01:20.320-01:22.640"
+  },
+  {
+    "text" : "Descendre.",
+    "timestamp" : "01:22.640-01:25.160"
+  },
+  {
+    "timestamp" : "01:25.160-01:27.080",
+    "text" : "Do I have to go down?"
+  },
+  {
+    "timestamp" : "01:27.080-01:30.680",
+    "text" : "Dois-je descendre?"
+  },
+  {
+    "text" : "Do I have to go down here?",
+    "timestamp" : "01:30.680-01:32.840"
+  },
+  {
+    "timestamp" : "01:32.840-01:36.500",
+    "text" : "Dois-je descendre ici?"
+  },
+  {
+    "timestamp" : "01:36.500-01:38.520",
+    "text" : "You must go down here."
+  },
+  {
+    "text" : "Vous devez descendre ici.",
+    "timestamp" : "01:38.520-01:41.820"
+  },
+  {
+    "timestamp" : "01:41.820-01:47.800",
+    "text" : "You must pay a supplement."
+  },
+  {
+    "text" : "Vous devez payer un supplément.",
+    "timestamp" : "01:50.040-01:51.780"
+  },
+  {
+    "text" : "Your father is going to Paris.",
+    "timestamp" : "01:51.780-01:54.360"
+  },
+  {
+    "timestamp" : "01:54.360-01:58.380",
+    "text" : "Votre père va à Paris."
+  },
+  {
+    "text" : "Your mother is going to Chartres.",
+    "timestamp" : "01:58.380-02:02.160"
+  },
+  {
+    "timestamp" : "02:02.160-02:06.820",
+    "text" : "Votre mère va à Chartres."
+  },
+  {
+    "timestamp" : "02:06.820-02:08.860",
+    "text" : "Your parents."
+  },
+  {
+    "timestamp" : "02:11.160-02:11.980",
+    "text" : "Vos parents."
+  },
+  {
+    "timestamp" : "02:11.980-02:11.980",
+    "text" : "Vos parents."
+  },
+  {
+    "timestamp" : "02:11.980-02:14.560",
+    "text" : "Your parents are going to Paris."
+  },
+  {
+    "timestamp" : "02:14.560-02:19.020",
+    "text" : "Vos parents vont à Paris."
+  },
+  {
+    "text" : "Your ticket is going to expire.",
+    "timestamp" : "02:19.020-02:22.080"
+  },
+  {
+    "timestamp" : "02:22.080-02:26.780",
+    "text" : "Votre billet va expirer."
+  },
+  {
+    "timestamp" : "02:26.780-02:30.560",
+    "text" : "Your tickets are going to expire today."
+  },
+  {
+    "timestamp" : "02:34.260-02:36.580",
+    "text" : "Vos billets vont expirer aujourd'hui."
+  },
+  {
+    "text" : "Your tickets are going to expire tomorrow.",
+    "timestamp" : "02:36.580-02:39.940"
+  },
+  {
+    "timestamp" : "02:39.940-02:45.360",
+    "text" : "Vos billets vont expirer demain."
+  },
+  {
+    "timestamp" : "02:45.360-02:47.740",
+    "text" : "Continue straight on."
+  },
+  {
+    "timestamp" : "02:47.740-02:51.480",
+    "text" : "Continuez tout droit."
+  },
+  {
+    "text" : "Single or return.",
+    "timestamp" : "02:51.480-02:56.180"
+  },
+  {
+    "text" : "Aller simple or aller retour.",
+    "timestamp" : "02:56.180-03:00.520"
+  },
+  {
+    "timestamp" : "03:00.520-03:03.660",
+    "text" : "Two tickets for Paris, please."
+  },
+  {
+    "text" : "Deux billets pour Paris, s'il vous plaît.",
+    "timestamp" : "03:03.660-03:08.540"
+  },
+  {
+    "text" : "Prepare your tickets, please.",
+    "timestamp" : "03:08.540-03:11.940"
+  },
+  {
+    "timestamp" : "03:11.940-03:16.640",
+    "text" : "Préparez vos billets, s'il vous plaît."
+  },
+  {
+    "text" : "It's the train for Paris.",
+    "timestamp" : "03:16.640-03:19.940"
+  },
+  {
+    "text" : "C'est le train pour Paris.",
+    "timestamp" : "03:19.940-03:24.540"
+  },
+  {
+    "text" : "Tickets, please.",
+    "timestamp" : "03:24.540-03:27.920"
+  },
+  {
+    "text" : "Billets, s'il vous plaît.",
+    "timestamp" : "03:27.920-03:30.980"
+  },
+  {
+    "timestamp" : "03:30.980-03:31.980",
+    "text" : "C'est le train pour Paris."
+  },
+  {
+    "text" : "C'est le train pour Paris.",
+    "timestamp" : "03:31.980-03:32.220"
+  },
+  {
+    "text" : "C'est le train pour Paris.",
+    "timestamp" : "03:32.220-03:32.280"
+  },
+  {
+    "text" : "C'est le train pour Paris.",
+    "timestamp" : "03:32.280-03:32.680"
+  },
+  {
+    "text" : "C'est le train pour Paris.",
+    "timestamp" : "03:32.680-03:32.860"
+  },
+  {
+    "text" : "C'est le train pour Paris.",
+    "timestamp" : "03:32.860-03:33.220"
+  },
+  {
+    "timestamp" : "03:33.220-03:33.900",
+    "text" : "C'est le train pour Paris."
+  },
+  {
+    "text" : "C'est le train pour Paris.",
+    "timestamp" : "03:33.900-03:33.960"
+  },
+  {
+    "timestamp" : "03:33.960-03:34.120",
+    "text" : "C'est le train pour Paris."
+  },
+  {
+    "text" : "C'est le train pour Paris.",
+    "timestamp" : "03:34.120-03:34.300"
+  },
+  {
+    "timestamp" : "03:34.300-03:34.900",
+    "text" : "C'est le train pour Paris."
+  },
+  {
+    "text" : "C'est le train pour Paris.",
+    "timestamp" : "03:34.900-03:35.180"
+  },
+  {
+    "text" : "C'est le train pour Paris.",
+    "timestamp" : "03:35.180-03:35.780"
+  },
+  {
+    "timestamp" : "03:35.780-03:36.060",
+    "text" : "C'est le train pour Paris."
+  },
+  {
+    "timestamp" : "03:36.060-03:36.680",
+    "text" : "C'est le train pour Paris."
+  },
+  {
+    "text" : "C'est le train pour Paris.",
+    "timestamp" : "03:36.680-03:37.840"
+  }
+]

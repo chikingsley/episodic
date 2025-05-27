@@ -1,0 +1,118 @@
+[
+  {
+    "text" : "I would like to prepare the coffee for you.",
+    "timestamp" : "00:00.001-00:03.180"
+  },
+  {
+    "timestamp" : "00:03.180-00:09.020",
+    "text" : "Je voudrais préparer le café pour vous."
+  },
+  {
+    "text" : "I would like to prepare roast beef for dinner.",
+    "timestamp" : "00:09.020-00:12.140"
+  },
+  {
+    "text" : "Je voudrais préparer le roast beef pour le dîner.",
+    "timestamp" : "00:12.140-00:18.540"
+  },
+  {
+    "text" : "I would like to reserve a table.",
+    "timestamp" : "00:18.540-00:21.060"
+  },
+  {
+    "text" : "Je voudrais réserver une table.",
+    "timestamp" : "00:21.060-00:26.120"
+  },
+  {
+    "text" : "I would like to reserve a table for dinner.",
+    "timestamp" : "00:26.120-00:29.240"
+  },
+  {
+    "timestamp" : "00:29.240-00:35.900",
+    "text" : "Je voudrais réserver une table pour le dîner."
+  },
+  {
+    "timestamp" : "00:35.900-00:37.780",
+    "text" : "A room."
+  },
+  {
+    "text" : "Une chambre.",
+    "timestamp" : "00:37.780-00:41.040"
+  },
+  {
+    "timestamp" : "00:41.040-00:43.860",
+    "text" : "I would like to reserve a room."
+  },
+  {
+    "text" : "Je voudrais réserver une chambre.",
+    "timestamp" : "00:43.860-00:49.180"
+  },
+  {
+    "timestamp" : "00:49.180-00:51.620",
+    "text" : "I would like a room."
+  },
+  {
+    "timestamp" : "00:51.620-00:55.720",
+    "text" : "Je voudrais une chambre."
+  },
+  {
+    "timestamp" : "00:55.720-00:57.700",
+    "text" : "A person."
+  },
+  {
+    "text" : "Une personne.",
+    "timestamp" : "00:57.700-01:00.520"
+  },
+  {
+    "text" : "Two people.",
+    "timestamp" : "01:00.520-01:02.220"
+  },
+  {
+    "text" : "Deux personnes.",
+    "timestamp" : "01:02.220-01:06.460"
+  },
+  {
+    "timestamp" : "01:06.460-01:11.840",
+    "text" : "I would like a room for two people."
+  },
+  {
+    "text" : "Je voudrais une chambre pour deux personnes.",
+    "timestamp" : "01:11.840-01:17.800"
+  },
+  {
+    "timestamp" : "01:19.080-01:20.220",
+    "text" : "A night."
+  },
+  {
+    "timestamp" : "01:20.220-01:23.620",
+    "text" : "Une nuit."
+  },
+  {
+    "text" : "Two nights.",
+    "timestamp" : "01:23.620-01:27.840"
+  },
+  {
+    "text" : "Deux nuits.",
+    "timestamp" : "01:27.840-01:30.380"
+  },
+  {
+    "text" : "I would like a room for two people for two nights.",
+    "timestamp" : "01:30.380-01:34.520"
+  },
+  {
+    "text" : "Je voudrais une chambre pour deux personnes.",
+    "timestamp" : "01:39.040-01:41.260"
+  },
+  {
+    "timestamp" : "01:41.260-01:42.000",
+    "text" : "Je voudrais une chambre pour deux personnes pour deux nuits."
+  },
+  {
+    "timestamp" : "01:42.000-01:49.500",
+    "text" : "This is the end of CD11."
+  },
+  {
+    "text" : "Je voudrais une chambre pour deux personnes.",
+    "timestamp" : "01:49.500-01:54.360"
+  }
+]

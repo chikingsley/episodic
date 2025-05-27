@@ -1,0 +1,182 @@
+[
+  {
+    "text" : "To give.",
+    "timestamp" : "00:00.001-00:00.780"
+  },
+  {
+    "text" : "Donner.",
+    "timestamp" : "00:00.780-00:02.880"
+  },
+  {
+    "timestamp" : "00:02.880-00:06.180",
+    "text" : "I will give."
+  },
+  {
+    "text" : "Je donnerai.",
+    "timestamp" : "00:06.180-00:09.380"
+  },
+  {
+    "timestamp" : "00:09.380-00:12.560",
+    "text" : "I will give it to him."
+  },
+  {
+    "text" : "Je le lui donnerai.",
+    "timestamp" : "00:12.560-00:16.540"
+  },
+  {
+    "text" : "I will give it to them.",
+    "timestamp" : "00:16.540-00:19.440"
+  },
+  {
+    "text" : "Je le leur donnerai.",
+    "timestamp" : "00:19.440-00:23.040"
+  },
+  {
+    "timestamp" : "00:23.040-00:25.480",
+    "text" : "I will give them to them."
+  },
+  {
+    "text" : "Je les leur donnerai.",
+    "timestamp" : "00:25.480-00:29.200"
+  },
+  {
+    "text" : "I will give them to him.",
+    "timestamp" : "00:29.200-00:31.660"
+  },
+  {
+    "timestamp" : "00:31.660-00:37.820",
+    "text" : "Je les lui donnerai."
+  },
+  {
+    "text" : "I will give them to her.",
+    "timestamp" : "00:37.820-00:40.380"
+  },
+  {
+    "text" : "Je les lui donnerai.",
+    "timestamp" : "00:40.380-00:43.760"
+  },
+  {
+    "text" : "He will give.",
+    "timestamp" : "00:43.760-00:45.420"
+  },
+  {
+    "text" : "Il donnera.",
+    "timestamp" : "00:45.420-00:48.980"
+  },
+  {
+    "timestamp" : "00:48.980-00:50.440",
+    "text" : "She will give."
+  },
+  {
+    "timestamp" : "00:50.440-00:52.680",
+    "text" : "Elle donnera."
+  },
+  {
+    "timestamp" : "00:52.680-00:54.080",
+    "text" : "One will give."
+  },
+  {
+    "text" : "On donnera.",
+    "timestamp" : "00:54.080-00:56.760"
+  },
+  {
+    "text" : "You, informal, will give.",
+    "timestamp" : "00:57.260-00:59.520"
+  },
+  {
+    "timestamp" : "00:59.520-01:03.100",
+    "text" : "Tu donneras."
+  },
+  {
+    "timestamp" : "01:03.100-01:05.560",
+    "text" : "You, formal, will give."
+  },
+  {
+    "text" : "Vous donnerai.",
+    "timestamp" : "01:05.560-01:08.700"
+  },
+  {
+    "text" : "We will give.",
+    "timestamp" : "01:08.700-01:11.040"
+  },
+  {
+    "timestamp" : "01:11.040-01:14.180",
+    "text" : "Nous donnerons."
+  },
+  {
+    "timestamp" : "01:14.180-01:16.700",
+    "text" : "They will give."
+  },
+  {
+    "timestamp" : "01:16.700-01:18.900",
+    "text" : "Ils donneront."
+  },
+  {
+    "timestamp" : "01:20.160-01:21.480",
+    "text" : "They will give it to me."
+  },
+  {
+    "text" : "Ils me le donneront.",
+    "timestamp" : "01:21.480-01:24.720"
+  },
+  {
+    "text" : "They will give them to me.",
+    "timestamp" : "01:24.720-01:26.980"
+  },
+  {
+    "text" : "Ils me les donneront.",
+    "timestamp" : "01:26.980-01:30.320"
+  },
+  {
+    "text" : "They won't give them to me.",
+    "timestamp" : "01:30.320-01:32.320"
+  },
+  {
+    "timestamp" : "01:32.320-01:36.180",
+    "text" : "Ils ne me les donneront pas."
+  },
+  {
+    "text" : "Won't they give them to me?",
+    "timestamp" : "01:36.180-01:38.060"
+  },
+  {
+    "text" : "Est-ce qu'ils ne me les donneront pas?",
+    "timestamp" : "01:43.060-01:44.460"
+  },
+  {
+    "timestamp" : "01:44.460-01:48.060",
+    "text" : "Why won't they give them to me?"
+  },
+  {
+    "text" : "Pourquoi est-ce qu'ils ne me les donneront pas?",
+    "timestamp" : "01:48.060-01:54.580"
+  },
+  {
+    "timestamp" : "01:54.580-02:02.520",
+    "text" : "This is the end of CD12."
+  },
+  {
+    "text" : "you",
+    "timestamp" : "02:02.520-02:03.020"
+  },
+  {
+    "timestamp" : "02:03.020-02:05.080",
+    "text" : "you"
+  },
+  {
+    "text" : "you",
+    "timestamp" : "02:05.080-02:05.580"
+  },
+  {
+    "text" : "you",
+    "timestamp" : "02:05.580-02:06.080"
+  },
+  {
+    "text" : "you",
+    "timestamp" : "02:06.080-02:06.580"
+  },
+  {
+    "text" : "Thank you.",
+    "timestamp" : "02:06.580-02:07.060"
+  }
+]

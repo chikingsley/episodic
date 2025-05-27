@@ -1,0 +1,22 @@
+[
+  {
+    "timestamp" : "00:00.001-00:16.000",
+    "text" : "Frère Jacques, frère Jacques, dormez-vous, dormez-vous, sonnez les matines, sonnez les matines, dindon, dindon."
+  },
+  {
+    "timestamp" : "00:16.000-00:31.000",
+    "text" : "Frère Jacques, frère Jacques, dormez-vous, dormez-vous, sonnez les matines, dindon, dindon."
+  },
+  {
+    "timestamp" : "00:31.000-00:45.000",
+    "text" : "Frère Jacques, frère Jacques, dormez-vous, dormez-vous, sonnez les matines, dindon, dindon, dindon."
+  },
+  {
+    "timestamp" : "00:45.000-00:59.000",
+    "text" : "Frère Jacques, frère Jacques, dormez-vous, dormez-vous, sonnez les matines, sonnez les matines, dindon, dindon."
+  },
+  {
+    "timestamp" : "00:59.000-01:12.380",
+    "text" : "Sous-titrage ST' 501"
+  }
+]

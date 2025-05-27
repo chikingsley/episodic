@@ -1,0 +1,410 @@
+[
+  {
+    "timestamp" : "00:00.001-00:15.780",
+    "text" : "How would you say it's over there?"
+  },
+  {
+    "timestamp" : "00:15.780-00:18.640",
+    "text" : "C'est là-bas."
+  },
+  {
+    "text" : "It's for me.",
+    "timestamp" : "00:18.640-00:20.880"
+  },
+  {
+    "timestamp" : "00:20.880-00:23.840",
+    "text" : "C'est pour moi."
+  },
+  {
+    "timestamp" : "00:23.840-00:26.600",
+    "text" : "It's for this evening."
+  },
+  {
+    "text" : "C'est pour ce soir.",
+    "timestamp" : "00:29.440-00:30.960"
+  },
+  {
+    "text" : "To say, is it for this evening, you can simply say, it's for this evening.",
+    "timestamp" : "00:30.960-00:36.980"
+  },
+  {
+    "text" : "How would you say that?",
+    "timestamp" : "00:36.980-00:38.120"
+  },
+  {
+    "text" : "C'est pour ce soir.",
+    "timestamp" : "00:38.120-00:41.580"
+  },
+  {
+    "text" : "Answer, yes, for seven o'clock.",
+    "timestamp" : "00:41.580-00:48.500"
+  },
+  {
+    "text" : "C'est pour sept heures.",
+    "timestamp" : "00:48.500-00:53.620"
+  },
+  {
+    "timestamp" : "00:56.160-00:59.440",
+    "text" : "Now, a quick note about how to tell the time in French."
+  },
+  {
+    "text" : "Telling the time in hours is not difficult at all in French.",
+    "timestamp" : "00:59.440-01:02.940"
+  },
+  {
+    "text" : "Instead of saying, for instance, seven o'clock, you'll just say seven hours.",
+    "timestamp" : "01:02.940-01:08.260"
+  },
+  {
+    "timestamp" : "01:08.260-01:10.680",
+    "text" : "The word for hours is..."
+  },
+  {
+    "text" : "Heure.",
+    "timestamp" : "01:11.440-01:11.680"
+  },
+  {
+    "timestamp" : "01:11.680-01:13.700",
+    "text" : "Heure."
+  },
+  {
+    "text" : "And the word for seven in French is...",
+    "timestamp" : "01:13.700-01:18.720"
+  },
+  {
+    "text" : "C'est.",
+    "timestamp" : "01:18.720-01:19.080"
+  },
+  {
+    "text" : "C'est.",
+    "timestamp" : "01:19.080-01:20.800"
+  },
+  {
+    "text" : "So, in order to say seven o'clock, you will simply say seven hours.",
+    "timestamp" : "01:20.800-01:26.080"
+  },
+  {
+    "timestamp" : "01:26.080-01:27.260",
+    "text" : "What do you think that would be?"
+  },
+  {
+    "timestamp" : "01:27.260-01:31.380",
+    "text" : "C'est heure."
+  },
+  {
+    "timestamp" : "01:31.380-01:33.460",
+    "text" : "C'est heure."
+  },
+  {
+    "text" : "So, again, let's ask the question.",
+    "timestamp" : "01:35.160-01:37.000"
+  },
+  {
+    "timestamp" : "01:37.000-01:38.980",
+    "text" : "Say, it's for this evening."
+  },
+  {
+    "timestamp" : "01:38.980-01:43.340",
+    "text" : "C'est pour ce soir."
+  },
+  {
+    "timestamp" : "01:43.340-01:47.560",
+    "text" : "And answer, yes, for seven o'clock."
+  },
+  {
+    "timestamp" : "01:47.560-01:49.900",
+    "text" : "Literally, yes, for seven hours."
+  },
+  {
+    "text" : "Oui, pour cette heure.",
+    "timestamp" : "01:53.480-01:54.920"
+  },
+  {
+    "timestamp" : "01:54.920-02:00.320",
+    "text" : "This is, of course, particularly useful if you want to reserve a table in a restaurant."
+  },
+  {
+    "timestamp" : "02:00.320-02:04.060",
+    "text" : "How would you say, I have reserved?"
+  },
+  {
+    "timestamp" : "02:07.000-02:08.060",
+    "text" : "J'ai réservé."
+  },
+  {
+    "timestamp" : "02:08.060-02:10.700",
+    "text" : "J'ai réservé."
+  },
+  {
+    "timestamp" : "02:10.700-02:13.320",
+    "text" : "I have is, of course,"
+  },
+  {
+    "timestamp" : "02:13.320-02:13.900",
+    "text" : "J'ai."
+  },
+  {
+    "text" : "Which is pronounced, again, similar to the English letter J, but it sounds very French, like a very French letter J.",
+    "timestamp" : "02:13.900-02:21.560"
+  },
+  {
+    "text" : "So, again, I have is...",
+    "timestamp" : "02:21.560-02:23.320"
+  },
+  {
+    "text" : "J'ai.",
+    "timestamp" : "02:23.320-02:23.600"
+  },
+  {
+    "timestamp" : "02:23.600-02:27.760",
+    "text" : "How would you say, I have reserved a table?"
+  },
+  {
+    "text" : "J'ai réservé une table.",
+    "timestamp" : "02:27.760-02:33.660"
+  },
+  {
+    "text" : "Perhaps the person speaking to you wants to check if it is for this evening.",
+    "timestamp" : "02:35.800-02:39.580"
+  },
+  {
+    "timestamp" : "02:39.580-02:41.400",
+    "text" : "How would they say, it's for this evening?"
+  },
+  {
+    "timestamp" : "02:41.400-02:45.940",
+    "text" : "C'est pour ce soir?"
+  },
+  {
+    "text" : "Reply, yes, for seven o'clock.",
+    "timestamp" : "02:45.940-02:49.400"
+  },
+  {
+    "text" : "Oui, pour cette heure.",
+    "timestamp" : "02:49.400-02:53.520"
+  },
+  {
+    "text" : "Do you remember what you have is, you have?",
+    "timestamp" : "02:53.520-02:58.600"
+  },
+  {
+    "timestamp" : "03:04.600-03:05.600",
+    "text" : "Vous avez..."
+  },
+  {
+    "timestamp" : "03:05.600-03:05.600",
+    "text" : "Vous avez..."
+  },
+  {
+    "timestamp" : "03:05.600-03:06.600",
+    "text" : "Vous avez..."
+  },
+  {
+    "text" : "Vous avez...",
+    "timestamp" : "03:06.600-03:07.600"
+  },
+  {
+    "text" : "Vous avez...",
+    "timestamp" : "03:07.600-03:07.600"
+  },
+  {
+    "timestamp" : "03:07.600-03:07.600",
+    "text" : "Vous avez..."
+  },
+  {
+    "timestamp" : "03:07.600-03:07.600",
+    "text" : "Vous avez..."
+  },
+  {
+    "text" : "Vous avez...",
+    "timestamp" : "03:07.600-03:07.600"
+  },
+  {
+    "text" : "Vous avez...",
+    "timestamp" : "03:07.600-03:08.600"
+  },
+  {
+    "text" : "Vous avez...",
+    "timestamp" : "03:08.600-03:08.600"
+  },
+  {
+    "text" : "Vous avez...",
+    "timestamp" : "03:08.600-03:09.600"
+  },
+  {
+    "text" : "How would you say, you have reserved a table?",
+    "timestamp" : "03:09.600-03:11.800"
+  },
+  {
+    "text" : "Vous avez réservé une table.",
+    "timestamp" : "03:11.800-03:19.320"
+  },
+  {
+    "text" : "How would you say, have you reserved a table?",
+    "timestamp" : "03:19.320-03:23.280"
+  },
+  {
+    "timestamp" : "03:26.620-03:27.620",
+    "text" : "Avez-vous..."
+  },
+  {
+    "text" : "Avez-vous réservé une table?",
+    "timestamp" : "03:27.620-03:28.240"
+  },
+  {
+    "text" : "Try asking the same question again, but this time saying, is it that you have reserved a table?",
+    "timestamp" : "03:28.240-03:35.240"
+  },
+  {
+    "text" : "Est-ce que vous avez...",
+    "timestamp" : "03:41.120-03:42.120"
+  },
+  {
+    "timestamp" : "03:42.120-03:43.120",
+    "text" : "Est-ce que vous avez réservé une table?"
+  },
+  {
+    "timestamp" : "03:43.120-03:49.860",
+    "text" : "Remember again, when you want to use, is it that, you simply place it before a statement."
+  },
+  {
+    "text" : "So let's try that one more time.",
+    "timestamp" : "03:49.860-03:51.860"
+  },
+  {
+    "text" : "How would you say, you have reserved a table?",
+    "timestamp" : "03:51.860-03:54.940"
+  },
+  {
+    "text" : "Vous avez réservé une table?",
+    "timestamp" : "03:58.940-04:00.660"
+  },
+  {
+    "timestamp" : "04:00.660-04:04.440",
+    "text" : "Now, is it that you have reserved a table?"
+  },
+  {
+    "timestamp" : "04:04.440-04:11.620",
+    "text" : "Est-ce que vous avez réservé une table?"
+  },
+  {
+    "text" : "If you have is...",
+    "timestamp" : "04:13.940-04:17.260"
+  },
+  {
+    "text" : "Vous avez...",
+    "timestamp" : "04:17.260-04:17.940"
+  },
+  {
+    "timestamp" : "04:17.940-04:21.380",
+    "text" : "How do you think you'd say, we have?"
+  },
+  {
+    "text" : "Nous avons...",
+    "timestamp" : "04:21.380-04:24.940"
+  },
+  {
+    "text" : "Again, the you and the we forms, the vous and the nous, tend to be very similar in French,",
+    "timestamp" : "04:24.940-04:32.880"
+  },
+  {
+    "timestamp" : "04:32.880-04:38.740",
+    "text" : "except the one with vous will end with an a sound, and the one with the nous will end with an en sound."
+  },
+  {
+    "text" : "So how would you say, we have reserved a table?",
+    "timestamp" : "04:38.740-04:42.280"
+  },
+  {
+    "text" : "Nous avons réservé une table.",
+    "timestamp" : "04:42.280-04:48.440"
+  },
+  {
+    "text" : "How would you say, have we reserved a table?",
+    "timestamp" : "04:48.440-04:52.780"
+  },
+  {
+    "text" : "Avons-nous réservé une table?",
+    "timestamp" : "04:52.780-04:59.280"
+  },
+  {
+    "text" : "Try the same question using ESCA at the beginning.",
+    "timestamp" : "04:59.280-05:04.880"
+  },
+  {
+    "text" : "Is it that we have reserved a table?",
+    "timestamp" : "05:04.880-05:07.240"
+  },
+  {
+    "text" : "Est-ce que nous avons réservé une table?",
+    "timestamp" : "05:11.400-05:13.360"
+  },
+  {
+    "text" : "Finally, let's try it with the rising intonation at the end, and say, we've reserved a table.",
+    "timestamp" : "05:13.360-05:19.760"
+  },
+  {
+    "text" : "Nous avons réservé une table.",
+    "timestamp" : "05:19.760-05:24.260"
+  },
+  {
+    "timestamp" : "05:24.260-05:24.520",
+    "text" : "Nous avons réservé une table."
+  },
+  {
+    "timestamp" : "05:24.520-05:25.280",
+    "text" : "Nous avons réservé une table."
+  },
+  {
+    "text" : "Nous avons réservé une table.",
+    "timestamp" : "05:25.280-05:25.280"
+  },
+  {
+    "text" : "Nous avons réservé une table.",
+    "timestamp" : "05:25.280-05:25.860"
+  },
+  {
+    "text" : "Nous avons réservé une table.",
+    "timestamp" : "05:25.860-05:25.860"
+  },
+  {
+    "text" : "Nous avons réservé une table.",
+    "timestamp" : "05:25.860-05:25.860"
+  },
+  {
+    "timestamp" : "05:25.860-05:26.680",
+    "text" : "Nous avons réservé une table."
+  },
+  {
+    "timestamp" : "05:26.680-05:27.300",
+    "text" : "Nous avons réservé une table."
+  },
+  {
+    "text" : "Nous avons réservé une table.",
+    "timestamp" : "05:27.300-05:27.860"
+  },
+  {
+    "timestamp" : "05:27.860-05:28.180",
+    "text" : "Nous avons réservé une table."
+  },
+  {
+    "text" : "Nous avons réservé une table.",
+    "timestamp" : "05:28.180-05:28.980"
+  },
+  {
+    "text" : "Nous avons réservé une table.",
+    "timestamp" : "05:28.980-05:29.460"
+  },
+  {
+    "timestamp" : "05:29.460-05:29.800",
+    "text" : "Nous avons réservé une table."
+  },
+  {
+    "timestamp" : "05:29.800-05:30.300",
+    "text" : "Nous avons réservé une table."
+  },
+  {
+    "timestamp" : "05:30.300-05:30.800",
+    "text" : "Nous avons réservé une table."
+  }
+]

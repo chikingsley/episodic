@@ -1,0 +1,646 @@
+[
+  {
+    "text" : "I must in French, I must is...",
+    "timestamp" : "00:00.001-00:03.500"
+  },
+  {
+    "text" : "Je dois. Je dois.",
+    "timestamp" : "00:03.500-00:05.560"
+  },
+  {
+    "timestamp" : "00:05.560-00:09.820",
+    "text" : "So how would you say I must go?"
+  },
+  {
+    "timestamp" : "00:09.820-00:13.380",
+    "text" : "Je dois aller."
+  },
+  {
+    "timestamp" : "00:13.380-00:15.340",
+    "text" : "I must go there."
+  },
+  {
+    "timestamp" : "00:15.340-00:19.320",
+    "text" : "Je dois y aller."
+  },
+  {
+    "timestamp" : "00:19.320-00:21.520",
+    "text" : "I must go there now."
+  },
+  {
+    "timestamp" : "00:21.520-00:25.540",
+    "text" : "Je dois y aller maintenant."
+  },
+  {
+    "timestamp" : "00:27.500-00:30.720",
+    "text" : "Because, as we mentioned earlier, is..."
+  },
+  {
+    "timestamp" : "00:30.720-00:31.260",
+    "text" : "Parce que."
+  },
+  {
+    "timestamp" : "00:31.260-00:37.960",
+    "text" : "I must go there now because I want to eat."
+  },
+  {
+    "timestamp" : "00:37.960-00:47.760",
+    "text" : "Je dois y aller maintenant parce que je veux manger."
+  },
+  {
+    "text" : "How would you say he must go there or he has to go there, which is the same in French.",
+    "timestamp" : "00:55.000-01:00.740"
+  },
+  {
+    "text" : "He must or he has to, it's essentially the same meaning.",
+    "timestamp" : "01:00.740-01:03.200"
+  },
+  {
+    "timestamp" : "01:03.200-01:05.940",
+    "text" : "So how would you say he must go there, he has to go there?"
+  },
+  {
+    "text" : "Il doit y aller.",
+    "timestamp" : "01:05.940-01:09.920"
+  },
+  {
+    "text" : "He has to go there this evening.",
+    "timestamp" : "01:09.920-01:12.720"
+  },
+  {
+    "text" : "Il doit y aller ce soir.",
+    "timestamp" : "01:12.720-01:18.060"
+  },
+  {
+    "text" : "She has to go there this evening.",
+    "timestamp" : "01:18.460-01:19.880"
+  },
+  {
+    "timestamp" : "01:19.880-01:24.880",
+    "text" : "Elle doit y aller ce soir."
+  },
+  {
+    "text" : "How would you say you, informal, must go there this evening?",
+    "timestamp" : "01:24.880-01:31.420"
+  },
+  {
+    "timestamp" : "01:31.420-01:37.000",
+    "text" : "Tu dois y aller ce soir."
+  },
+  {
+    "text" : "Again, pay attention to how it is you're pronouncing.",
+    "timestamp" : "01:37.840-01:41.100"
+  },
+  {
+    "timestamp" : "01:41.100-01:41.700",
+    "text" : "Tu."
+  },
+  {
+    "text" : "It should be that unusual French sound that you may even find it makes your lips vibrate slightly.",
+    "timestamp" : "01:41.700-01:47.660"
+  },
+  {
+    "timestamp" : "01:47.660-01:53.940",
+    "text" : "So again, it's lips rounded and saying the letter T, but with the lips still rounded."
+  },
+  {
+    "text" : "So T, with the lips still rounded, comes out as tu.",
+    "timestamp" : "01:53.940-01:57.720"
+  },
+  {
+    "timestamp" : "01:57.720-01:57.780",
+    "text" : "Tu."
+  },
+  {
+    "timestamp" : "02:00.460-02:02.220",
+    "text" : "So again, one more time."
+  },
+  {
+    "timestamp" : "02:02.220-02:05.480",
+    "text" : "You must go there this evening."
+  },
+  {
+    "timestamp" : "02:05.480-02:11.580",
+    "text" : "Tu dois y aller ce soir."
+  },
+  {
+    "text" : "How would you say you must understand me?",
+    "timestamp" : "02:11.580-02:16.260"
+  },
+  {
+    "text" : "Tu dois me comprendre.",
+    "timestamp" : "02:20.260-02:22.100"
+  },
+  {
+    "text" : "To wait in French, to wait, is...",
+    "timestamp" : "02:22.100-02:27.720"
+  },
+  {
+    "timestamp" : "02:27.720-02:28.400",
+    "text" : "Attendre."
+  },
+  {
+    "timestamp" : "02:28.400-02:29.740",
+    "text" : "Attendre."
+  },
+  {
+    "text" : "How would you say you must wait?",
+    "timestamp" : "02:29.740-02:33.020"
+  },
+  {
+    "text" : "Tu dois attendre.",
+    "timestamp" : "02:33.020-02:39.100"
+  },
+  {
+    "text" : "How would you say you must wait for me?",
+    "timestamp" : "02:39.100-02:43.660"
+  },
+  {
+    "text" : "Tu dois m'attendre.",
+    "timestamp" : "02:48.060-02:49.580"
+  },
+  {
+    "timestamp" : "02:49.580-02:54.740",
+    "text" : "Now, most probably what you've said is..."
+  },
+  {
+    "text" : "Tu dois attendre pour moi.",
+    "timestamp" : "02:54.740-02:56.740"
+  },
+  {
+    "timestamp" : "02:56.740-03:04.720",
+    "text" : "This is a very, very typical and very usual reaction to this question for English speakers."
+  },
+  {
+    "timestamp" : "03:04.720-03:08.800",
+    "text" : "This is because in English it's quite possible to wait for someone."
+  },
+  {
+    "text" : "However, you may remember what it is we were talking about a moment ago",
+    "timestamp" : "03:08.800-03:15.040"
+  },
+  {
+    "timestamp" : "03:15.040-03:17.300",
+    "text" : "in terms of the pronouns and where they go."
+  },
+  {
+    "timestamp" : "03:17.980-03:21.000",
+    "text" : "Let's review that for a second and see what we can do with them."
+  },
+  {
+    "timestamp" : "03:21.000-03:23.400",
+    "text" : "What was to understand?"
+  },
+  {
+    "text" : "Comprendre.",
+    "timestamp" : "03:23.400-03:27.540"
+  },
+  {
+    "text" : "To understand it?",
+    "timestamp" : "03:27.540-03:29.400"
+  },
+  {
+    "timestamp" : "03:29.400-03:32.080",
+    "text" : "Le comprendre."
+  },
+  {
+    "timestamp" : "03:32.080-03:34.140",
+    "text" : "To understand me?"
+  },
+  {
+    "timestamp" : "03:34.140-03:36.660",
+    "text" : "Me comprendre."
+  },
+  {
+    "timestamp" : "03:36.660-03:40.980",
+    "text" : "Now, to wait in French, what was that, to wait?"
+  },
+  {
+    "timestamp" : "03:40.980-03:43.220",
+    "text" : "Attendre."
+  },
+  {
+    "timestamp" : "03:44.840-03:53.420",
+    "text" : "So, to wait in French, it works rather like the slightly antiquated now, await in English,"
+  },
+  {
+    "text" : "to await.",
+    "timestamp" : "03:53.420-03:54.520"
+  },
+  {
+    "text" : "If you think of it in those terms, how would you say to await me?",
+    "timestamp" : "03:54.520-03:59.940"
+  },
+  {
+    "timestamp" : "04:01.860-04:11.280",
+    "text" : "As you can see, to understand me?"
+  },
+  {
+    "text" : "To understand me?",
+    "timestamp" : "04:11.280-04:11.540"
+  },
+  {
+    "text" : "To understand.",
+    "timestamp" : "04:11.540-04:12.220"
+  },
+  {
+    "timestamp" : "04:12.220-04:12.220",
+    "text" : "To understand me?"
+  },
+  {
+    "timestamp" : "04:12.220-04:14.220",
+    "text" : "To understand me?"
+  },
+  {
+    "text" : "To understand me?",
+    "timestamp" : "04:14.220-04:16.080"
+  },
+  {
+    "timestamp" : "04:16.080-04:16.080",
+    "text" : "To understand me?"
+  },
+  {
+    "text" : "To understand me?",
+    "timestamp" : "04:16.080-04:16.080"
+  },
+  {
+    "timestamp" : "04:16.080-04:16.080",
+    "text" : "To understand me?"
+  },
+  {
+    "text" : "To understand me?",
+    "timestamp" : "04:16.080-04:16.080"
+  },
+  {
+    "timestamp" : "04:16.080-04:16.080",
+    "text" : "To understand me?"
+  },
+  {
+    "timestamp" : "04:16.080-04:16.080",
+    "text" : "To understand me?"
+  },
+  {
+    "timestamp" : "04:16.080-04:16.080",
+    "text" : "To understand me?"
+  },
+  {
+    "text" : "To understand me?",
+    "timestamp" : "04:16.080-04:16.080"
+  },
+  {
+    "timestamp" : "04:16.080-04:16.080",
+    "text" : "To understand me?"
+  },
+  {
+    "timestamp" : "04:16.080-04:16.080",
+    "text" : "To understand me?"
+  },
+  {
+    "timestamp" : "04:16.080-04:17.080",
+    "text" : "To understand me?"
+  },
+  {
+    "timestamp" : "04:17.080-04:18.080",
+    "text" : "To understand me?"
+  },
+  {
+    "text" : "To understand me?",
+    "timestamp" : "04:18.080-04:18.080"
+  },
+  {
+    "text" : "To understand me?",
+    "timestamp" : "04:18.080-04:19.020"
+  },
+  {
+    "text" : "To understand me?",
+    "timestamp" : "04:19.020-04:20.080"
+  },
+  {
+    "timestamp" : "04:20.080-04:22.860",
+    "text" : "To wait for me?"
+  },
+  {
+    "text" : "To await me?",
+    "timestamp" : "04:22.860-04:22.880"
+  },
+  {
+    "timestamp" : "04:22.880-04:23.820",
+    "text" : "To await me?"
+  },
+  {
+    "text" : "To await me?",
+    "timestamp" : "04:23.820-04:23.820"
+  },
+  {
+    "text" : "To m'attendre?",
+    "timestamp" : "04:23.820-04:26.600"
+  },
+  {
+    "timestamp" : "04:26.600-04:33.920",
+    "text" : "Now, there's also an abbreviation there, because you have the me and the attendre."
+  },
+  {
+    "text" : "However, of course, you've got two vowels touching there.",
+    "timestamp" : "04:33.920-04:37.680"
+  },
+  {
+    "text" : "And as you'll find increasingly with French, when you have two vowels touching, there's normally",
+    "timestamp" : "04:37.680-04:41.480"
+  },
+  {
+    "timestamp" : "04:41.480-04:42.460",
+    "text" : "an abbreviation."
+  },
+  {
+    "text" : "You'll cut off the vowel from the me, and you'll have an apostrophe, and me attendre becomes",
+    "timestamp" : "04:42.460-04:49.360"
+  },
+  {
+    "timestamp" : "04:49.360-04:50.500",
+    "text" : "m'attendre."
+  },
+  {
+    "text" : "Again, you need to get used to this when French people are speaking to you.",
+    "timestamp" : "04:51.360-04:54.120"
+  },
+  {
+    "text" : "It sometimes comes out a bit confusing at the beginning, but once you're aware of the",
+    "timestamp" : "04:54.120-04:58.360"
+  },
+  {
+    "text" : "fact they're abbreviating, it becomes a lot easier to understand.",
+    "timestamp" : "04:58.360-05:01.860"
+  },
+  {
+    "text" : "So, to wait for me in French one more time is...",
+    "timestamp" : "05:01.860-05:07.900"
+  },
+  {
+    "timestamp" : "05:07.900-05:09.200",
+    "text" : "M'attendre?"
+  },
+  {
+    "text" : "And you must wait for me?",
+    "timestamp" : "05:09.200-05:11.420"
+  },
+  {
+    "text" : "Tu dois m'attendre?",
+    "timestamp" : "05:11.420-05:15.820"
+  },
+  {
+    "text" : "Again, English speakers will want to say attendre pour moi, but this simply doesn't exist",
+    "timestamp" : "05:18.500-05:24.380"
+  },
+  {
+    "timestamp" : "05:24.380-05:25.080",
+    "text" : "in French."
+  },
+  {
+    "timestamp" : "05:25.080-05:29.560",
+    "text" : "It actually means something more like to await, or simply to wait me."
+  },
+  {
+    "text" : "If you say attendre pour moi, the meaning for a French speaker is very, very strange and hard",
+    "timestamp" : "05:29.560-05:38.820"
+  },
+  {
+    "timestamp" : "05:38.820-05:40.340",
+    "text" : "to understand what it is you mean."
+  },
+  {
+    "timestamp" : "05:40.340-05:43.880",
+    "text" : "I mean, if they're very familiar with English, they might be able to grasp what it is."
+  },
+  {
+    "text" : "But this is a very typical mistake.",
+    "timestamp" : "05:43.880-05:46.020"
+  },
+  {
+    "timestamp" : "05:47.640-05:49.400",
+    "text" : "Okay, let's move on."
+  },
+  {
+    "text" : "You, formal must, is...",
+    "timestamp" : "05:49.400-05:53.520"
+  },
+  {
+    "timestamp" : "05:53.520-05:54.200",
+    "text" : "Vous devez."
+  },
+  {
+    "timestamp" : "05:54.200-05:55.640",
+    "text" : "Vous devez."
+  },
+  {
+    "timestamp" : "05:55.640-05:59.220",
+    "text" : "It almost sounds a bit like you duvet."
+  },
+  {
+    "text" : "A little bit.",
+    "timestamp" : "05:59.220-06:00.240"
+  },
+  {
+    "text" : "Not exactly the same.",
+    "timestamp" : "06:00.240-06:01.500"
+  },
+  {
+    "text" : "But let's hear that one more time.",
+    "timestamp" : "06:01.500-06:02.840"
+  },
+  {
+    "timestamp" : "06:02.840-06:03.920",
+    "text" : "Vous devez."
+  },
+  {
+    "text" : "Vous devez.",
+    "timestamp" : "06:03.920-06:05.480"
+  },
+  {
+    "text" : "How would you say, you must wait for me?",
+    "timestamp" : "06:05.480-06:09.100"
+  },
+  {
+    "text" : "You must wait for me this evening.",
+    "timestamp" : "06:12.300-06:16.980"
+  },
+  {
+    "text" : "You must wait for me this evening.",
+    "timestamp" : "06:16.980-06:16.980"
+  },
+  {
+    "text" : "You must wait for me this evening.",
+    "timestamp" : "06:16.980-06:23.080"
+  },
+  {
+    "timestamp" : "06:23.080-06:25.000",
+    "text" : "You must wait for me this evening."
+  },
+  {
+    "timestamp" : "06:25.000-06:25.920",
+    "text" : "You must wait for me this evening."
+  },
+  {
+    "timestamp" : "06:25.920-06:27.800",
+    "text" : "If you must is..."
+  },
+  {
+    "timestamp" : "06:27.800-06:28.540",
+    "text" : "Vous devez."
+  },
+  {
+    "timestamp" : "06:28.540-06:31.860",
+    "text" : "What do you think we must would be?"
+  },
+  {
+    "timestamp" : "06:31.860-06:35.140",
+    "text" : "Nous devons."
+  },
+  {
+    "timestamp" : "06:35.140-06:39.480",
+    "text" : "Again, the you and we forms are very similar."
+  },
+  {
+    "text" : "Very, very similar.",
+    "timestamp" : "06:39.480-06:40.700"
+  },
+  {
+    "text" : "Except the you form ends with an a sound.",
+    "timestamp" : "06:40.700-06:43.540"
+  },
+  {
+    "text" : "And the we form, the nous form, ends with an on sound.",
+    "timestamp" : "06:43.540-06:47.900"
+  },
+  {
+    "text" : "So, how would you say, we must wait?",
+    "timestamp" : "06:48.720-06:51.940"
+  },
+  {
+    "text" : "Nous devons attendre.",
+    "timestamp" : "06:51.940-06:57.860"
+  },
+  {
+    "timestamp" : "06:57.860-07:01.820",
+    "text" : "How would you say, must we wait?"
+  },
+  {
+    "text" : "Devons-nous attendre?",
+    "timestamp" : "07:01.820-07:08.860"
+  },
+  {
+    "text" : "Must we wait for you?",
+    "timestamp" : "07:08.860-07:11.160"
+  },
+  {
+    "text" : "Devons-nous vous attendre?",
+    "timestamp" : "07:16.600-07:18.320"
+  },
+  {
+    "timestamp" : "07:18.320-07:24.660",
+    "text" : "Again, it's important to make sure that the vous goes in front of attendre."
+  },
+  {
+    "text" : "Because you can't say attendre pour vous in French.",
+    "timestamp" : "07:24.660-07:28.140"
+  },
+  {
+    "text" : "It simply doesn't exist.",
+    "timestamp" : "07:28.140-07:29.360"
+  },
+  {
+    "timestamp" : "07:29.360-07:31.100",
+    "text" : "It's to await you."
+  },
+  {
+    "text" : "Not to wait for you literally in the English sense, but to await you.",
+    "timestamp" : "07:31.100-07:34.400"
+  },
+  {
+    "timestamp" : "07:34.400-07:37.360",
+    "text" : "So, to wait is..."
+  },
+  {
+    "text" : "Attendre.",
+    "timestamp" : "07:37.360-07:38.780"
+  },
+  {
+    "text" : "And to wait for you is...",
+    "timestamp" : "07:38.780-07:41.360"
+  },
+  {
+    "timestamp" : "07:41.360-07:44.380",
+    "text" : "Vous attendre."
+  },
+  {
+    "text" : "So, one more time.",
+    "timestamp" : "07:44.740-07:45.680"
+  },
+  {
+    "text" : "Must we wait for you?",
+    "timestamp" : "07:45.680-07:47.120"
+  },
+  {
+    "text" : "Devons-nous vous attendre?",
+    "timestamp" : "07:47.120-07:52.580"
+  },
+  {
+    "text" : "Now, we probably wouldn't phrase it exactly in that way in English.",
+    "timestamp" : "07:52.580-07:57.200"
+  },
+  {
+    "text" : "We might say something more like, do we have to wait for you?",
+    "timestamp" : "07:57.200-08:00.020"
+  },
+  {
+    "timestamp" : "08:00.020-08:06.240",
+    "text" : "And, and, devons-nous carries the same meaning, both must we and do we have to."
+  },
+  {
+    "timestamp" : "08:06.240-08:06.540",
+    "text" : "Okay."
+  },
+  {
+    "text" : "So, let's try to get started.",
+    "timestamp" : "08:06.540-08:07.440"
+  },
+  {
+    "text" : "So, let's try to get started.",
+    "timestamp" : "08:07.440-08:08.320"
+  },
+  {
+    "timestamp" : "08:08.320-08:08.920",
+    "text" : "So, let's try to get started."
+  },
+  {
+    "text" : "Okay.",
+    "timestamp" : "08:08.920-08:09.420"
+  },
+  {
+    "timestamp" : "08:09.420-08:09.480",
+    "text" : "So, let's try to get started."
+  },
+  {
+    "text" : "So, let's try to get started.",
+    "timestamp" : "08:09.480-08:09.980"
+  },
+  {
+    "timestamp" : "08:09.980-08:10.360",
+    "text" : "So, let's try to get started."
+  },
+  {
+    "text" : "So, let's try to get started.",
+    "timestamp" : "08:10.360-08:11.320"
+  },
+  {
+    "text" : "So, let's try to get started.",
+    "timestamp" : "08:11.320-08:11.820"
+  },
+  {
+    "text" : "So, let's try to get started.",
+    "timestamp" : "08:11.820-08:12.360"
+  },
+  {
+    "timestamp" : "08:12.360-08:12.760",
+    "text" : "So, let's try to get started."
+  }
+]

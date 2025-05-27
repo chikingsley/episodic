@@ -1,0 +1,442 @@
+[
+  {
+    "timestamp" : "00:00.001-00:02.940",
+    "text" : "How would you say, I didn't go out?"
+  },
+  {
+    "text" : "Je ne suis pas sorti.",
+    "timestamp" : "00:02.940-00:10.280"
+  },
+  {
+    "text" : "The ne and the pas work exactly as they would with have,",
+    "timestamp" : "00:10.280-00:16.160"
+  },
+  {
+    "timestamp" : "00:16.160-00:18.040",
+    "text" : "because if you think of it,"
+  },
+  {
+    "text" : "the suis here is actually playing the role of have anyway.",
+    "timestamp" : "00:18.040-00:21.920"
+  },
+  {
+    "text" : "So one more time, I have gone out.",
+    "timestamp" : "00:21.920-00:24.680"
+  },
+  {
+    "text" : "Je suis sorti.",
+    "timestamp" : "00:24.680-00:27.420"
+  },
+  {
+    "timestamp" : "00:28.200-00:31.760",
+    "text" : "So as you can see, suis has taken on the role of have,"
+  },
+  {
+    "timestamp" : "00:31.760-00:33.480",
+    "text" : "even though it's not have in French,"
+  },
+  {
+    "text" : "it still is have in English,",
+    "timestamp" : "00:33.480-00:35.400"
+  },
+  {
+    "text" : "and so it plays the role in exactly the same way.",
+    "timestamp" : "00:35.400-00:38.580"
+  },
+  {
+    "text" : "One more time, how would you say,",
+    "timestamp" : "00:38.580-00:40.880"
+  },
+  {
+    "timestamp" : "00:40.880-00:43.840",
+    "text" : "I didn't go out, I haven't gone out?"
+  },
+  {
+    "timestamp" : "00:43.840-00:47.100",
+    "text" : "Je ne suis pas sorti."
+  },
+  {
+    "timestamp" : "00:47.100-00:50.440",
+    "text" : "He went out."
+  },
+  {
+    "timestamp" : "00:50.440-00:53.520",
+    "text" : "Il est sorti."
+  },
+  {
+    "timestamp" : "00:53.520-00:55.320",
+    "text" : "He didn't go out."
+  },
+  {
+    "timestamp" : "00:56.400-01:00.080",
+    "text" : "Il n'est pas sorti."
+  },
+  {
+    "text" : "He didn't come.",
+    "timestamp" : "01:00.080-01:01.480"
+  },
+  {
+    "timestamp" : "01:01.480-01:05.160",
+    "text" : "Il n'est pas venu."
+  },
+  {
+    "text" : "He didn't arrive.",
+    "timestamp" : "01:05.160-01:06.840"
+  },
+  {
+    "text" : "Il n'est pas arrivé.",
+    "timestamp" : "01:06.840-01:09.700"
+  },
+  {
+    "text" : "He didn't stay.",
+    "timestamp" : "01:09.700-01:11.860"
+  },
+  {
+    "text" : "Il n'est pas resté.",
+    "timestamp" : "01:11.860-01:15.180"
+  },
+  {
+    "timestamp" : "01:15.180-01:17.960",
+    "text" : "He didn't go down."
+  },
+  {
+    "timestamp" : "01:20.440-01:22.120",
+    "text" : "Il n'est pas descendu."
+  },
+  {
+    "text" : "She didn't come.",
+    "timestamp" : "01:22.120-01:24.960"
+  },
+  {
+    "text" : "Il n'est pas venu.",
+    "timestamp" : "01:28.000-01:29.160"
+  },
+  {
+    "timestamp" : "01:29.160-01:29.160",
+    "text" : "Il n'est pas venu."
+  },
+  {
+    "timestamp" : "01:29.160-01:31.400",
+    "text" : "She didn't arrive."
+  },
+  {
+    "timestamp" : "01:31.400-01:34.400",
+    "text" : "Il n'est pas arrivé."
+  },
+  {
+    "timestamp" : "01:34.400-01:37.740",
+    "text" : "Again, what is to go out?"
+  },
+  {
+    "text" : "Sortir.",
+    "timestamp" : "01:37.740-01:40.400"
+  },
+  {
+    "text" : "And the past tense, meaning went out, gone out?",
+    "timestamp" : "01:40.400-01:44.920"
+  },
+  {
+    "text" : "Sorti.",
+    "timestamp" : "01:44.920-01:46.620"
+  },
+  {
+    "timestamp" : "01:46.960-01:50.340",
+    "text" : "So all we've done is we've lost the R and ended up with sorti."
+  },
+  {
+    "text" : "What is to leave in French?",
+    "timestamp" : "01:50.340-01:53.320"
+  },
+  {
+    "timestamp" : "01:53.320-01:55.520",
+    "text" : "Partir."
+  },
+  {
+    "timestamp" : "01:55.520-01:59.660",
+    "text" : "Following the same logic, what will be the past tense?"
+  },
+  {
+    "text" : "What will be left?",
+    "timestamp" : "01:59.660-02:00.560"
+  },
+  {
+    "text" : "Parti.",
+    "timestamp" : "02:00.560-02:02.720"
+  },
+  {
+    "text" : "Sounds a bit like a party, really.",
+    "timestamp" : "02:03.260-02:04.960"
+  },
+  {
+    "timestamp" : "02:04.960-02:06.900",
+    "text" : "But it's spelt P-A-R-T-I."
+  },
+  {
+    "text" : "How would you say I left?",
+    "timestamp" : "02:06.900-02:10.880"
+  },
+  {
+    "text" : "Je suis parti.",
+    "timestamp" : "02:10.880-02:14.500"
+  },
+  {
+    "text" : "The word for yesterday in French, yesterday in French is",
+    "timestamp" : "02:16.500-02:21.280"
+  },
+  {
+    "text" : "hier.",
+    "timestamp" : "02:21.280-02:21.980"
+  },
+  {
+    "timestamp" : "02:21.980-02:23.340",
+    "text" : "Hier."
+  },
+  {
+    "timestamp" : "02:23.340-02:27.720",
+    "text" : "It's spelt H-I-E-R."
+  },
+  {
+    "timestamp" : "02:27.720-02:33.880",
+    "text" : "As a result, many English-speaking students of French mispronounce this word,"
+  },
+  {
+    "text" : "often coming out and pronouncing it as hier.",
+    "timestamp" : "02:33.880-02:36.200"
+  },
+  {
+    "text" : "But again, pronounced correctly, yesterday in French is",
+    "timestamp" : "02:36.200-02:41.360"
+  },
+  {
+    "timestamp" : "02:41.360-02:42.000",
+    "text" : "hier."
+  },
+  {
+    "text" : "Hier.",
+    "timestamp" : "02:42.000-02:43.440"
+  },
+  {
+    "text" : "How would you say she left yesterday?",
+    "timestamp" : "02:45.440-02:48.980"
+  },
+  {
+    "timestamp" : "02:48.980-02:54.780",
+    "text" : "Elle est partie hier."
+  },
+  {
+    "text" : "She went out yesterday.",
+    "timestamp" : "02:54.780-02:57.840"
+  },
+  {
+    "text" : "Elle est sortie hier.",
+    "timestamp" : "02:57.840-03:04.140"
+  },
+  {
+    "timestamp" : "03:04.140-03:06.180",
+    "text" : "She arrived yesterday."
+  },
+  {
+    "timestamp" : "03:06.180-03:10.980",
+    "text" : "Elle est arrivée hier."
+  },
+  {
+    "text" : "You arrived yesterday.",
+    "timestamp" : "03:10.980-03:14.060"
+  },
+  {
+    "text" : "You arrived yesterday.",
+    "timestamp" : "03:14.060-03:19.200"
+  },
+  {
+    "text" : "Using ESCA, how would you say,",
+    "timestamp" : "03:19.200-03:24.580"
+  },
+  {
+    "timestamp" : "03:24.580-03:27.040",
+    "text" : "did you arrive yesterday?"
+  },
+  {
+    "text" : "Is it that you arrived yesterday?",
+    "timestamp" : "03:27.040-03:29.560"
+  },
+  {
+    "text" : "Is it that you are arrived yesterday?",
+    "timestamp" : "03:29.560-03:32.500"
+  },
+  {
+    "timestamp" : "03:35.780-03:37.340",
+    "text" : "Est-ce que vous êtes arrivée hier?"
+  },
+  {
+    "text" : "Est-ce que vous êtes arrivée hier?",
+    "timestamp" : "03:37.340-03:40.560"
+  },
+  {
+    "timestamp" : "03:40.560-03:45.240",
+    "text" : "Finally, let's add why onto the front of this and ask,"
+  },
+  {
+    "text" : "why did you arrive yesterday?",
+    "timestamp" : "03:45.240-03:47.360"
+  },
+  {
+    "timestamp" : "03:47.360-03:47.360",
+    "text" : "Why did you arrive yesterday?"
+  },
+  {
+    "timestamp" : "03:47.560-03:53.160",
+    "text" : "Why did you arrive today?"
+  },
+  {
+    "text" : "Why did you arrive yesterday?",
+    "timestamp" : "03:53.160-03:54.340"
+  },
+  {
+    "timestamp" : "03:54.340-03:54.840",
+    "text" : "Why did you arrive yesterday?"
+  },
+  {
+    "timestamp" : "03:54.840-03:56.340",
+    "text" : "Why did you arrive yesterday?"
+  },
+  {
+    "timestamp" : "03:56.340-03:56.940",
+    "text" : "Why did you arrive yesterday?"
+  },
+  {
+    "text" : "Again, one more time.",
+    "timestamp" : "03:56.940-03:58.360"
+  },
+  {
+    "text" : "Give me you are in French formal.",
+    "timestamp" : "03:58.360-04:00.860"
+  },
+  {
+    "text" : "you are not.",
+    "timestamp" : "04:02.240-04:03.080"
+  },
+  {
+    "text" : "You are not.",
+    "timestamp" : "04:03.080-04:03.500"
+  },
+  {
+    "timestamp" : "04:03.500-04:04.540",
+    "text" : "You are not."
+  },
+  {
+    "text" : "How would you say, you are not?",
+    "timestamp" : "04:04.540-04:06.220"
+  },
+  {
+    "timestamp" : "04:12.420-04:13.300",
+    "text" : "Vous n'êtes pas."
+  },
+  {
+    "timestamp" : "04:13.300-04:15.580",
+    "text" : "Vous n'êtes pas."
+  },
+  {
+    "timestamp" : "04:15.580-04:20.580",
+    "text" : "Of course, again, you have two vowels touching here with the ne and the et,"
+  },
+  {
+    "text" : "so they abbreviate and you end up with net.",
+    "timestamp" : "04:20.580-04:23.480"
+  },
+  {
+    "text" : "So again, you are not.",
+    "timestamp" : "04:23.480-04:25.840"
+  },
+  {
+    "text" : "Vous n'êtes pas.",
+    "timestamp" : "04:25.840-04:26.840"
+  },
+  {
+    "text" : "So how would you say you have not arrived, you are not arrived?",
+    "timestamp" : "04:26.840-04:32.080"
+  },
+  {
+    "timestamp" : "04:32.080-04:35.620",
+    "text" : "Vous n'êtes pas arrivé."
+  },
+  {
+    "timestamp" : "04:35.620-04:38.180",
+    "text" : "You didn't arrive yesterday."
+  },
+  {
+    "text" : "Vous n'êtes pas arrivé hier.",
+    "timestamp" : "04:40.580-04:42.500"
+  },
+  {
+    "text" : "Using is it that, how would you say didn't you arrive yesterday?",
+    "timestamp" : "04:42.500-04:48.200"
+  },
+  {
+    "timestamp" : "04:48.200-04:50.860",
+    "text" : "Is it that you haven't arrived yesterday?"
+  },
+  {
+    "timestamp" : "04:50.860-04:54.540",
+    "text" : "Literally, is it that you are not arrived yesterday?"
+  },
+  {
+    "text" : "Est-ce que vous n'êtes pas arrivé hier?",
+    "timestamp" : "04:54.540-04:59.340"
+  },
+  {
+    "timestamp" : "04:59.340-05:04.020",
+    "text" : "Finally, how would you say why didn't you arrive yesterday?"
+  },
+  {
+    "timestamp" : "05:04.020-05:10.380",
+    "text" : "Pourquoi est-ce que vous n'êtes pas arrivé hier?"
+  },
+  {
+    "text" : "Pourquoi est-ce que vous n'êtes pas arrivé?",
+    "timestamp" : "05:10.380-05:10.680"
+  },
+  {
+    "timestamp" : "05:10.680-05:11.380",
+    "text" : "Pourquoi est-ce que vous n'êtes pas arrivé?"
+  },
+  {
+    "text" : "Pourquoi est-ce que vous n'êtes pas arrivé?",
+    "timestamp" : "05:11.380-05:11.380"
+  },
+  {
+    "timestamp" : "05:11.380-05:11.380",
+    "text" : "Pourquoi est-ce que vous n'êtes pas arrivé?"
+  },
+  {
+    "timestamp" : "05:11.380-05:11.380",
+    "text" : "Pourquoi est-ce que vous n'êtes pas arrivé?"
+  },
+  {
+    "timestamp" : "05:11.380-05:12.380",
+    "text" : "Pourquoi est-ce que vous n'êtes pas arrivé?"
+  },
+  {
+    "timestamp" : "05:12.380-05:13.380",
+    "text" : "Pourquoi est-ce que vous n'êtes pas arrivé?"
+  },
+  {
+    "timestamp" : "05:13.380-05:13.380",
+    "text" : "Pourquoi est-ce que vous n'êtes pas arrivé?"
+  },
+  {
+    "text" : "Pourquoi est-ce que vous n'êtes pas arrivé?",
+    "timestamp" : "05:13.380-05:14.380"
+  },
+  {
+    "timestamp" : "05:14.380-05:15.380",
+    "text" : "Pourquoi est-ce que vous n'êtes pas arrivé?"
+  },
+  {
+    "text" : "Pourquoi est-ce que vous n'êtes pas arrivé?",
+    "timestamp" : "05:15.380-05:16.380"
+  },
+  {
+    "text" : "Pourquoi est-ce que vous n'êtes pas arrivé?",
+    "timestamp" : "05:16.380-05:17.380"
+  }
+]

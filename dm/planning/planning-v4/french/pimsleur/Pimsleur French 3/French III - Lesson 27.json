@@ -1,0 +1,1822 @@
+[
+  {
+    "text" : "Écoutez cette conversation.",
+    "timestamp" : "00:00.001-00:06.320"
+  },
+  {
+    "text" : "Excusez-moi de vous déranger, Mme Pommier. Je ne retrouve pas mes notes. Vous savez les notes de notre réunion de vendredi ?",
+    "timestamp" : "00:06.320-00:15.200"
+  },
+  {
+    "text" : "Vos notes, M. Jones ? Je suis désolée, je ne les ai pas vues.",
+    "timestamp" : "00:15.200-00:18.400"
+  },
+  {
+    "timestamp" : "00:18.400-00:24.420",
+    "text" : "J'ai une conférence demain, une conférence téléphonique, et j'ai vraiment besoin de ces notes pour cette conférence."
+  },
+  {
+    "text" : "Malheureusement, je ne peux rien faire pour vous.",
+    "timestamp" : "00:24.420-00:26.680"
+  },
+  {
+    "text" : "Qui est-ce qui peut m'aider ?",
+    "timestamp" : "00:26.680-00:28.620"
+  },
+  {
+    "timestamp" : "00:28.620-00:32.060",
+    "text" : "Mme Petit peut certainement vous aider. Elle sait toujours où tout se trouve."
+  },
+  {
+    "timestamp" : "00:32.060-00:47.080",
+    "text" : "Écoutez encore une fois cette conversation."
+  },
+  {
+    "text" : "C'est une conférence demain, une conférence téléphonique, et j'ai vraiment besoin de ces notes pour cette conférence.",
+    "timestamp" : "00:59.800-01:05.380"
+  },
+  {
+    "timestamp" : "01:05.380-01:07.580",
+    "text" : "Malheureusement, je ne peux rien faire pour vous."
+  },
+  {
+    "text" : "Qui est-ce qui peut m'aider ?",
+    "timestamp" : "01:07.580-01:09.720"
+  },
+  {
+    "text" : "Mme Petit peut certainement vous aider. Elle sait toujours où tout se trouve.",
+    "timestamp" : "01:09.720-01:13.100"
+  },
+  {
+    "text" : "Do you remember the word for key ?",
+    "timestamp" : "01:13.100-01:18.580"
+  },
+  {
+    "timestamp" : "01:18.580-01:18.860",
+    "text" : "Clé."
+  },
+  {
+    "text" : "La clé.",
+    "timestamp" : "01:18.860-01:21.240"
+  },
+  {
+    "text" : "Essayez de dire the house keys.",
+    "timestamp" : "01:21.240-01:25.820"
+  },
+  {
+    "text" : "Les clés de la maison.",
+    "timestamp" : "01:25.820-01:31.480"
+  },
+  {
+    "text" : "Eat the car keys.",
+    "timestamp" : "01:31.480-01:42.920"
+  },
+  {
+    "text" : "Les clés de la voiture.",
+    "timestamp" : "01:42.920-01:47.500"
+  },
+  {
+    "timestamp" : "01:51.500-01:52.920",
+    "text" : "Suppose you've lost your car keys."
+  },
+  {
+    "timestamp" : "01:52.920-01:55.140",
+    "text" : "You're with Monique, a good friend."
+  },
+  {
+    "text" : "Ask, where are the keys of my car ?",
+    "timestamp" : "01:55.140-01:57.960"
+  },
+  {
+    "timestamp" : "01:57.960-02:02.960",
+    "text" : "Où sont les clés de ma voiture ?"
+  },
+  {
+    "timestamp" : "02:02.960-02:07.960",
+    "text" : "I don't find them."
+  },
+  {
+    "text" : "Je ne les trouve pas.",
+    "timestamp" : "02:07.960-02:12.220"
+  },
+  {
+    "timestamp" : "02:12.220-02:16.460",
+    "text" : "Je ne les trouve pas."
+  },
+  {
+    "text" : "Vous demandez",
+    "timestamp" : "02:18.900-02:19.860"
+  },
+  {
+    "timestamp" : "02:19.860-02:21.360",
+    "text" : "Who has seen them ?"
+  },
+  {
+    "text" : "Qui les a vus ?",
+    "timestamp" : "02:21.360-02:25.360"
+  },
+  {
+    "text" : "Dites, did you see them, Monique ?",
+    "timestamp" : "02:25.360-02:30.280"
+  },
+  {
+    "text" : "Yes, tu.",
+    "timestamp" : "02:30.280-02:31.080"
+  },
+  {
+    "text" : "Est-ce que tu les as vus, Monique ?",
+    "timestamp" : "02:31.080-02:37.360"
+  },
+  {
+    "text" : "Tu les as vus, Monique ?",
+    "timestamp" : "02:37.360-02:42.360"
+  },
+  {
+    "text" : "Monique demande, who me ?",
+    "timestamp" : "02:42.360-02:46.820"
+  },
+  {
+    "text" : "Who me ?",
+    "timestamp" : "02:46.820-02:48.820"
+  },
+  {
+    "text" : "Qui, moi ?",
+    "timestamp" : "02:48.820-02:51.820"
+  },
+  {
+    "text" : "Qui, moi ?",
+    "timestamp" : "02:51.820-02:55.820"
+  },
+  {
+    "text" : "Elle dit, no, I didn't see the keys of your car.",
+    "timestamp" : "02:55.820-03:02.000"
+  },
+  {
+    "text" : "Continue to use, tu.",
+    "timestamp" : "03:02.000-03:04.180"
+  },
+  {
+    "text" : "Non, je n'ai pas vu les clés de ta voiture.",
+    "timestamp" : "03:10.180-03:12.800"
+  },
+  {
+    "timestamp" : "03:12.800-03:20.960",
+    "text" : "Je n'ai pas vu les clés de ta voiture."
+  },
+  {
+    "text" : "You're about to leave for an appointment.",
+    "timestamp" : "03:20.960-03:27.720"
+  },
+  {
+    "text" : "Say, I have an appointment at nine o'clock precisely.",
+    "timestamp" : "03:27.720-03:31.180"
+  },
+  {
+    "text" : "J'ai un rendez-vous à neuf heures précises.",
+    "timestamp" : "03:35.600-03:37.540"
+  },
+  {
+    "text" : "À neuf heures précises.",
+    "timestamp" : "03:37.540-03:43.120"
+  },
+  {
+    "timestamp" : "03:43.120-03:48.180",
+    "text" : "I don't find the keys of my car."
+  },
+  {
+    "text" : "Je ne trouve pas les clés de ma voiture.",
+    "timestamp" : "03:48.180-03:54.980"
+  },
+  {
+    "timestamp" : "04:00.220-04:01.600",
+    "text" : "Comment dit-on ?"
+  },
+  {
+    "text" : "To look or to look for.",
+    "timestamp" : "04:01.600-04:03.320"
+  },
+  {
+    "text" : "Chercher.",
+    "timestamp" : "04:03.320-04:06.260"
+  },
+  {
+    "text" : "Using the familiar, try to say, you looked.",
+    "timestamp" : "04:06.260-04:11.560"
+  },
+  {
+    "text" : "Tu as cherché.",
+    "timestamp" : "04:11.560-04:15.620"
+  },
+  {
+    "timestamp" : "04:15.620-04:19.500",
+    "text" : "Tu as cherché."
+  },
+  {
+    "text" : "Monique demande, where did you look ?",
+    "timestamp" : "04:19.500-04:25.220"
+  },
+  {
+    "text" : "Où est-ce que tu as cherché ?",
+    "timestamp" : "04:27.220-04:29.840"
+  },
+  {
+    "timestamp" : "04:29.840-04:33.840",
+    "text" : "Où as-tu cherché ?"
+  },
+  {
+    "text" : "Dites.",
+    "timestamp" : "04:33.840-04:37.360"
+  },
+  {
+    "text" : "I looked for them upstairs and downstairs.",
+    "timestamp" : "04:37.360-04:40.060"
+  },
+  {
+    "timestamp" : "04:40.060-04:41.880",
+    "text" : "Be careful about the word order."
+  },
+  {
+    "text" : "Je les ai cherchés en haut et en bas.",
+    "timestamp" : "04:47.220-04:49.600"
+  },
+  {
+    "text" : "Je les ai cherchés en haut et en bas.",
+    "timestamp" : "04:49.600-04:57.500"
+  },
+  {
+    "timestamp" : "04:57.500-05:05.920",
+    "text" : "Votre ami dit, you no longer have much time."
+  },
+  {
+    "timestamp" : "05:09.220-05:10.580",
+    "text" : "Tu n'as plus beaucoup de temps."
+  },
+  {
+    "text" : "Tu n'as plus beaucoup de temps.",
+    "timestamp" : "05:10.580-05:15.240"
+  },
+  {
+    "text" : "Dites.",
+    "timestamp" : "05:15.240-05:19.160"
+  },
+  {
+    "timestamp" : "05:19.160-05:20.260",
+    "text" : "That's right."
+  },
+  {
+    "text" : "C'est vrai.",
+    "timestamp" : "05:20.260-05:22.840"
+  },
+  {
+    "timestamp" : "05:22.840-05:25.980",
+    "text" : "Comment dit-on ?"
+  },
+  {
+    "text" : "By taxi.",
+    "timestamp" : "05:25.980-05:26.680"
+  },
+  {
+    "timestamp" : "05:26.680-05:28.320",
+    "text" : "En taxi."
+  },
+  {
+    "text" : "Dites.",
+    "timestamp" : "05:28.320-05:31.040"
+  },
+  {
+    "timestamp" : "05:31.040-05:32.380",
+    "text" : "I'm going to go there."
+  },
+  {
+    "text" : "Je vais y aller.",
+    "timestamp" : "05:32.380-05:36.400"
+  },
+  {
+    "text" : "Je vais y aller.",
+    "timestamp" : "05:36.400-05:40.740"
+  },
+  {
+    "text" : "I believe that I'm going to go there by taxi.",
+    "timestamp" : "05:40.740-05:46.040"
+  },
+  {
+    "timestamp" : "05:46.040-05:52.680",
+    "text" : "Je crois que je vais y aller en taxi."
+  },
+  {
+    "text" : "Je vais y aller.",
+    "timestamp" : "05:52.680-05:58.300"
+  },
+  {
+    "text" : "Je crois que je vais y aller en taxi.",
+    "timestamp" : "05:58.300-06:03.480"
+  },
+  {
+    "timestamp" : "06:03.480-06:03.600",
+    "text" : "Je vais y aller."
+  },
+  {
+    "timestamp" : "06:03.600-06:08.800",
+    "text" : "Dites."
+  },
+  {
+    "timestamp" : "06:08.800-06:10.140",
+    "text" : "It's really too late."
+  },
+  {
+    "text" : "Il est.",
+    "timestamp" : "06:10.140-06:11.080"
+  },
+  {
+    "timestamp" : "06:11.080-06:15.760",
+    "text" : "Il est vraiment trop tard."
+  },
+  {
+    "text" : "It's really too late for going there by subway.",
+    "timestamp" : "06:15.760-06:21.420"
+  },
+  {
+    "text" : "Pour y aller.",
+    "timestamp" : "06:21.420-06:23.000"
+  },
+  {
+    "text" : "Il est vraiment trop tard pour y aller en métro.",
+    "timestamp" : "06:23.000-06:30.200"
+  },
+  {
+    "text" : "Pour y aller.",
+    "timestamp" : "06:30.200-06:31.200"
+  },
+  {
+    "text" : "Pour y aller.",
+    "timestamp" : "06:31.200-06:32.080"
+  },
+  {
+    "timestamp" : "06:32.080-06:32.200",
+    "text" : "Pour y aller."
+  },
+  {
+    "timestamp" : "06:32.200-06:33.080",
+    "text" : "Pour y aller."
+  },
+  {
+    "text" : "Pour y aller.",
+    "timestamp" : "06:33.080-06:34.080"
+  },
+  {
+    "timestamp" : "06:34.080-06:36.140",
+    "text" : "Pour y aller."
+  },
+  {
+    "text" : "Il est vraiment trop tard pour y aller en métro.",
+    "timestamp" : "06:36.140-06:41.360"
+  },
+  {
+    "text" : "Dites.",
+    "timestamp" : "06:41.360-06:47.660"
+  },
+  {
+    "timestamp" : "06:47.660-06:49.000",
+    "text" : "I cannot take the subway."
+  },
+  {
+    "text" : "Je ne peux pas prendre le métro.",
+    "timestamp" : "06:53.020-06:54.740"
+  },
+  {
+    "timestamp" : "06:54.740-06:59.920",
+    "text" : "Monique demande."
+  },
+  {
+    "timestamp" : "06:59.920-07:02.360",
+    "text" : "Are your keys perhaps still in the car?"
+  },
+  {
+    "timestamp" : "07:02.360-07:10.260",
+    "text" : "Est-ce que tes clés sont peut-être encore dans la voiture?"
+  },
+  {
+    "text" : "Tes clés sont peut-être encore dans la voiture?",
+    "timestamp" : "07:10.260-07:18.080"
+  },
+  {
+    "text" : "Dites.",
+    "timestamp" : "07:18.080-07:23.820"
+  },
+  {
+    "text" : "Ah yes, perhaps.",
+    "timestamp" : "07:23.820-07:25.140"
+  },
+  {
+    "timestamp" : "07:25.140-07:29.980",
+    "text" : "Ah oui, peut-être."
+  },
+  {
+    "timestamp" : "07:29.980-07:34.080",
+    "text" : "See you in a while."
+  },
+  {
+    "text" : "À tout à l'heure.",
+    "timestamp" : "07:34.080-07:37.200"
+  },
+  {
+    "text" : "À tout à l'heure.",
+    "timestamp" : "07:37.200-07:40.320"
+  },
+  {
+    "text" : "Comment dit-on conference?",
+    "timestamp" : "07:40.320-07:42.020"
+  },
+  {
+    "text" : "Une conférence.",
+    "timestamp" : "07:45.540-07:45.960"
+  },
+  {
+    "text" : "Une conférence.",
+    "timestamp" : "07:45.960-07:49.680"
+  },
+  {
+    "text" : "Suppose you and a colleague are making final arrangements for a conference.",
+    "timestamp" : "07:49.680-07:56.520"
+  },
+  {
+    "text" : "Demandez à votre collègue.",
+    "timestamp" : "07:56.520-07:58.420"
+  },
+  {
+    "timestamp" : "07:58.420-08:00.080",
+    "text" : "Is everything ready for Tuesday?"
+  },
+  {
+    "timestamp" : "08:04.160-08:05.580",
+    "text" : "Est-ce que tout est prêt pour mardi?"
+  },
+  {
+    "text" : "Tout est prêt pour mardi?",
+    "timestamp" : "08:05.580-08:10.800"
+  },
+  {
+    "text" : "Is everything ready for the conference?",
+    "timestamp" : "08:10.800-08:16.680"
+  },
+  {
+    "timestamp" : "08:16.680-08:22.860",
+    "text" : "Est-ce que tout est prêt pour la conférence?"
+  },
+  {
+    "timestamp" : "08:22.860-08:28.840",
+    "text" : "Tout est prêt pour la conférence?"
+  },
+  {
+    "timestamp" : "08:32.740-08:33.320",
+    "text" : "Elle dit?"
+  },
+  {
+    "text" : "Oui, je crois que tout est prêt.",
+    "timestamp" : "08:33.320-08:37.280"
+  },
+  {
+    "text" : "Oui, je crois que tout est prêt.",
+    "timestamp" : "08:37.280-08:41.300"
+  },
+  {
+    "timestamp" : "08:41.300-08:46.220",
+    "text" : "Here are the notes."
+  },
+  {
+    "text" : "Voilà les notes.",
+    "timestamp" : "08:46.220-08:49.960"
+  },
+  {
+    "timestamp" : "08:49.960-08:53.960",
+    "text" : "And here are the pens."
+  },
+  {
+    "timestamp" : "08:57.040-09:07.620",
+    "text" : "Elle demande, do you have your book?"
+  },
+  {
+    "text" : "Est-ce que vous avez votre livre?",
+    "timestamp" : "09:07.620-09:13.120"
+  },
+  {
+    "text" : "Vous avez votre livre?",
+    "timestamp" : "09:17.200-09:18.440"
+  },
+  {
+    "text" : "Dites, yes, thank you.",
+    "timestamp" : "09:18.440-09:23.260"
+  },
+  {
+    "text" : "Oui, merci.",
+    "timestamp" : "09:23.260-09:27.060"
+  },
+  {
+    "timestamp" : "09:27.060-09:33.040",
+    "text" : "Vous demandez ensuite who is going to attend the conference."
+  },
+  {
+    "text" : "Qui va assister à la conférence?",
+    "timestamp" : "09:33.040-09:39.520"
+  },
+  {
+    "text" : "Qui va assister à?",
+    "timestamp" : "09:44.520-09:45.420"
+  },
+  {
+    "text" : "Qui va assister à la conférence?",
+    "timestamp" : "09:45.420-09:50.420"
+  },
+  {
+    "text" : "Is the whole department going to attend it?",
+    "timestamp" : "09:50.420-09:56.520"
+  },
+  {
+    "timestamp" : "09:56.520-09:58.220",
+    "text" : "Y assister?"
+  },
+  {
+    "timestamp" : "10:03.640-10:05.560",
+    "text" : "Est-ce que tout le service va y assister?"
+  },
+  {
+    "text" : "Y assister?",
+    "timestamp" : "10:05.560-10:12.020"
+  },
+  {
+    "text" : "Tout le service va y assister?",
+    "timestamp" : "10:12.020-10:16.300"
+  },
+  {
+    "text" : "Elle dit,",
+    "timestamp" : "10:16.300-10:21.360"
+  },
+  {
+    "text" : "I know that Mr. Durand will not be here.",
+    "timestamp" : "10:21.360-10:23.680"
+  },
+  {
+    "text" : "Je sais que Mr. Durand ne sera pas là.",
+    "timestamp" : "10:28.680-10:30.640"
+  },
+  {
+    "timestamp" : "10:30.640-10:37.680",
+    "text" : "Je sais que Mr. Durand ne sera pas là."
+  },
+  {
+    "timestamp" : "10:37.680-10:44.240",
+    "text" : "He will be abroad on Tuesday."
+  },
+  {
+    "timestamp" : "10:48.880-10:50.520",
+    "text" : "Il sera à l'étranger mardi."
+  },
+  {
+    "text" : "Je sais qu'il sera à l'étranger mardi.",
+    "timestamp" : "10:50.520-11:04.640"
+  },
+  {
+    "text" : "Je sais qu'il sera à l'étranger mardi.",
+    "timestamp" : "11:04.640-11:12.120"
+  },
+  {
+    "timestamp" : "11:16.940-11:19.540",
+    "text" : "Dites, we can't change the date of the conference."
+  },
+  {
+    "timestamp" : "11:19.540-11:28.260",
+    "text" : "Nous ne pouvons pas changer la date de la conférence."
+  },
+  {
+    "text" : "Malheureusement,",
+    "timestamp" : "11:34.740-11:35.300"
+  },
+  {
+    "text" : "nous ne pouvons pas changer la date de la conférence.",
+    "timestamp" : "11:35.300-11:37.360"
+  },
+  {
+    "text" : "Malheureusement,",
+    "timestamp" : "11:37.360-11:45.820"
+  },
+  {
+    "text" : "nous ne pouvons pas changer la date de la conférence.",
+    "timestamp" : "11:45.820-11:48.280"
+  },
+  {
+    "text" : "Malheureusement,",
+    "timestamp" : "11:48.280-11:56.520"
+  },
+  {
+    "timestamp" : "11:56.520-11:59.200",
+    "text" : "nous ne pouvons pas changer la date de la conférence."
+  },
+  {
+    "text" : "C'est vrai.",
+    "timestamp" : "11:59.200-12:07.320"
+  },
+  {
+    "timestamp" : "12:07.320-12:15.620",
+    "text" : "It's necessary that Mr. Durand attends the next conference."
+  },
+  {
+    "text" : "Il faut.",
+    "timestamp" : "12:15.620-12:16.600"
+  },
+  {
+    "text" : "Il faut que Mr. Durand insiste à la prochaine conférence.",
+    "timestamp" : "12:23.000-12:25.960"
+  },
+  {
+    "text" : "Il faut que Mr. Durand insiste à la prochaine conférence.",
+    "timestamp" : "12:25.960-12:35.340"
+  },
+  {
+    "text" : "Do you remember how to say, listen?",
+    "timestamp" : "12:35.340-12:43.680"
+  },
+  {
+    "timestamp" : "12:46.160-12:47.160",
+    "text" : "Listen well."
+  },
+  {
+    "text" : "Écoutez.",
+    "timestamp" : "12:47.160-12:47.160"
+  },
+  {
+    "text" : "Écoutez.",
+    "timestamp" : "12:47.160-12:48.160"
+  },
+  {
+    "text" : "Et comment dit-on, listen well?",
+    "timestamp" : "12:48.160-12:51.120"
+  },
+  {
+    "timestamp" : "12:51.120-12:54.540",
+    "text" : "Écoutez bien."
+  },
+  {
+    "timestamp" : "12:54.540-12:59.440",
+    "text" : "Voici comment on dit, to hear."
+  },
+  {
+    "text" : "Répétez.",
+    "timestamp" : "12:59.440-13:00.460"
+  },
+  {
+    "timestamp" : "13:00.460-13:01.520",
+    "text" : "Entendre."
+  },
+  {
+    "text" : "Entendre.",
+    "timestamp" : "13:01.520-13:05.080"
+  },
+  {
+    "text" : "Essayez de dire.",
+    "timestamp" : "13:07.620-13:08.840"
+  },
+  {
+    "text" : "Essayez de dire.",
+    "timestamp" : "13:08.840-13:08.860"
+  },
+  {
+    "timestamp" : "13:08.860-13:09.720",
+    "text" : "I hear."
+  },
+  {
+    "timestamp" : "13:09.720-13:12.960",
+    "text" : "J'entends."
+  },
+  {
+    "text" : "I hear what you're saying.",
+    "timestamp" : "13:12.960-13:16.840"
+  },
+  {
+    "text" : "Répétez.",
+    "timestamp" : "13:16.840-13:17.940"
+  },
+  {
+    "timestamp" : "13:17.940-13:19.840",
+    "text" : "J'entends ce que vous dites."
+  },
+  {
+    "text" : "Ce que.",
+    "timestamp" : "13:19.840-13:23.860"
+  },
+  {
+    "text" : "Ce que vous dites.",
+    "timestamp" : "13:23.860-13:27.080"
+  },
+  {
+    "text" : "J'entends ce que vous dites.",
+    "timestamp" : "13:27.080-13:31.040"
+  },
+  {
+    "text" : "I heard.",
+    "timestamp" : "13:31.040-13:35.160"
+  },
+  {
+    "timestamp" : "13:35.160-13:36.340",
+    "text" : "Répétez."
+  },
+  {
+    "text" : "J'ai entendu.",
+    "timestamp" : "13:36.800-13:37.620"
+  },
+  {
+    "text" : "Entendu.",
+    "timestamp" : "13:37.620-13:41.440"
+  },
+  {
+    "timestamp" : "13:41.440-13:44.200",
+    "text" : "Entendu."
+  },
+  {
+    "text" : "J'ai entendu.",
+    "timestamp" : "13:44.200-13:47.240"
+  },
+  {
+    "timestamp" : "13:47.240-13:51.340",
+    "text" : "Say, I heard well."
+  },
+  {
+    "text" : "J'ai bien entendu.",
+    "timestamp" : "13:51.340-13:55.300"
+  },
+  {
+    "text" : "Comment dit-on?",
+    "timestamp" : "13:55.300-13:59.180"
+  },
+  {
+    "text" : "They told me.",
+    "timestamp" : "13:59.180-14:00.300"
+  },
+  {
+    "text" : "Or, they said to me.",
+    "timestamp" : "14:00.300-14:01.960"
+  },
+  {
+    "timestamp" : "14:01.960-14:03.100",
+    "text" : "Use on."
+  },
+  {
+    "text" : "On m'a dit.",
+    "timestamp" : "14:03.100-14:06.440"
+  },
+  {
+    "timestamp" : "14:06.440-14:12.340",
+    "text" : "On m'a dit."
+  },
+  {
+    "text" : "On m'a dit.",
+    "timestamp" : "14:12.340-14:12.340"
+  },
+  {
+    "text" : "Je n'ai pas entendu.",
+    "timestamp" : "14:12.340-14:23.500"
+  },
+  {
+    "text" : "Essayez de dire.",
+    "timestamp" : "14:23.500-14:27.840"
+  },
+  {
+    "text" : "What you said.",
+    "timestamp" : "14:27.840-14:28.880"
+  },
+  {
+    "timestamp" : "14:32.260-14:33.760",
+    "text" : "Ce que vous avez dit."
+  },
+  {
+    "text" : "Ce que vous avez dit.",
+    "timestamp" : "14:33.760-14:33.760"
+  },
+  {
+    "timestamp" : "14:33.760-14:38.300",
+    "text" : "Vous avez dit."
+  },
+  {
+    "text" : "Ce que vous avez dit.",
+    "timestamp" : "14:38.300-14:42.000"
+  },
+  {
+    "text" : "I didn't hear what you said.",
+    "timestamp" : "14:42.000-14:46.840"
+  },
+  {
+    "text" : "I didn't hear what you said.",
+    "timestamp" : "14:46.840-14:47.160"
+  },
+  {
+    "text" : "I didn't hear what you said.",
+    "timestamp" : "14:47.160-14:47.160"
+  },
+  {
+    "text" : "I didn't hear what you said.",
+    "timestamp" : "14:47.160-14:47.160"
+  },
+  {
+    "timestamp" : "14:47.160-14:47.160",
+    "text" : "I didn't hear what you said."
+  },
+  {
+    "timestamp" : "14:47.160-14:47.160",
+    "text" : "I didn't hear what you said."
+  },
+  {
+    "text" : "I didn't hear what you said.",
+    "timestamp" : "14:47.160-14:48.160"
+  },
+  {
+    "timestamp" : "14:48.160-14:48.160",
+    "text" : "I didn't hear what you said."
+  },
+  {
+    "timestamp" : "14:48.160-14:49.160",
+    "text" : "I didn't hear what you said."
+  },
+  {
+    "text" : "I didn't hear what you said.",
+    "timestamp" : "14:49.160-14:50.160"
+  },
+  {
+    "text" : "I didn't hear what you said.",
+    "timestamp" : "14:50.160-14:51.160"
+  },
+  {
+    "timestamp" : "14:51.160-14:53.060",
+    "text" : "Je n'ai pas entendu."
+  },
+  {
+    "text" : "Je n'ai pas entendu.",
+    "timestamp" : "14:53.060-14:53.060"
+  },
+  {
+    "text" : "Ce que vous avez dit.",
+    "timestamp" : "14:53.060-14:54.360"
+  },
+  {
+    "text" : "Je n'ai pas entendu.",
+    "timestamp" : "14:54.360-14:57.060"
+  },
+  {
+    "text" : "Ce que vous avez dit.",
+    "timestamp" : "14:57.060-14:58.060"
+  },
+  {
+    "text" : "Je n'ai pas entendu.",
+    "timestamp" : "14:58.060-14:59.060"
+  },
+  {
+    "text" : "Ce que vous avez dit.",
+    "timestamp" : "14:59.060-15:00.060"
+  },
+  {
+    "text" : "Je n'ai pas entendu.",
+    "timestamp" : "15:00.060-15:01.060"
+  },
+  {
+    "text" : "Ce que vous avez dit.",
+    "timestamp" : "15:01.060-15:02.060"
+  },
+  {
+    "text" : "Je n'ai pas entendu.",
+    "timestamp" : "15:02.060-15:03.060"
+  },
+  {
+    "text" : "Je n'ai pas entendu.",
+    "timestamp" : "15:03.060-15:04.060"
+  },
+  {
+    "text" : "Ce que vous avez dit.",
+    "timestamp" : "15:04.060-15:05.060"
+  },
+  {
+    "text" : "Je n'ai pas entendu.",
+    "timestamp" : "15:05.060-15:06.060"
+  },
+  {
+    "text" : "Je n'ai pas entendu.",
+    "timestamp" : "15:06.060-15:07.060"
+  },
+  {
+    "text" : "Je n'ai pas entendu.",
+    "timestamp" : "15:07.060-15:08.060"
+  },
+  {
+    "timestamp" : "15:08.060-15:09.060",
+    "text" : "Ce que vous avez dit."
+  },
+  {
+    "text" : "Je n'ai pas entendu.",
+    "timestamp" : "15:09.060-15:10.060"
+  },
+  {
+    "text" : "Je n'ai pas entendu.",
+    "timestamp" : "15:10.060-15:12.060"
+  },
+  {
+    "timestamp" : "15:12.060-15:13.060",
+    "text" : "Je n'ai pas entendu."
+  },
+  {
+    "timestamp" : "15:13.060-15:23.060",
+    "text" : "je peux répéter ce que j'ai dit."
+  },
+  {
+    "timestamp" : "15:23.060-15:34.260",
+    "text" : "J'ai demandé."
+  },
+  {
+    "text" : "J'ai demandé.",
+    "timestamp" : "15:34.260-15:41.260"
+  },
+  {
+    "text" : "J'ai demandé.",
+    "timestamp" : "15:41.260-15:46.260"
+  },
+  {
+    "timestamp" : "15:46.260-15:56.260",
+    "text" : "If studies were expensive in the United States, say the studies."
+  },
+  {
+    "timestamp" : "15:56.260-16:00.260",
+    "text" : "Si les études étaient chères aux États-Unis."
+  },
+  {
+    "timestamp" : "16:00.260-16:15.260",
+    "text" : "Are studies really very expensive there?"
+  },
+  {
+    "text" : "Est-ce que les études y sont vraiment très chères?",
+    "timestamp" : "16:15.260-16:22.260"
+  },
+  {
+    "text" : "Ils sont chères?",
+    "timestamp" : "16:22.260-16:28.260"
+  },
+  {
+    "text" : "Est-ce que les études y sont vraiment très chères?",
+    "timestamp" : "16:28.260-16:35.260"
+  },
+  {
+    "timestamp" : "16:35.260-16:38.260",
+    "text" : "They told me."
+  },
+  {
+    "text" : "On m'a dit.",
+    "timestamp" : "16:38.260-16:41.260"
+  },
+  {
+    "text" : "On m'a dit.",
+    "timestamp" : "16:41.260-16:43.260"
+  },
+  {
+    "text" : "That it was very expensive.",
+    "timestamp" : "16:43.260-16:48.260"
+  },
+  {
+    "text" : "C'était.",
+    "timestamp" : "16:48.260-16:50.260"
+  },
+  {
+    "text" : "Que c'était très cher.",
+    "timestamp" : "16:50.260-16:57.260"
+  },
+  {
+    "text" : "Que c'était très cher.",
+    "timestamp" : "16:57.260-17:02.260"
+  },
+  {
+    "text" : "Is that right?",
+    "timestamp" : "17:02.260-17:04.260"
+  },
+  {
+    "timestamp" : "17:04.260-17:06.260",
+    "text" : "C'est vrai?"
+  },
+  {
+    "timestamp" : "17:06.260-17:11.260",
+    "text" : "Yes, it's more expensive than in France."
+  },
+  {
+    "text" : "Oui, c'est plus cher qu'en France.",
+    "timestamp" : "17:11.260-17:17.260"
+  },
+  {
+    "text" : "Oui, c'est plus cher qu'en France.",
+    "timestamp" : "17:17.260-17:30.260"
+  },
+  {
+    "text" : "Much more expensive.",
+    "timestamp" : "17:30.260-17:34.260"
+  },
+  {
+    "text" : "Beaucoup plus cher.",
+    "timestamp" : "17:34.260-17:38.260"
+  },
+  {
+    "text" : "Comment dit-on \"to ask a question\"?",
+    "timestamp" : "17:38.260-17:43.260"
+  },
+  {
+    "text" : "Poser une question.",
+    "timestamp" : "17:43.260-17:48.260"
+  },
+  {
+    "text" : "Why do you ask me this question?",
+    "timestamp" : "17:48.260-17:55.260"
+  },
+  {
+    "text" : "Pourquoi est-ce que vous me posez cette question?",
+    "timestamp" : "17:55.260-18:02.260"
+  },
+  {
+    "timestamp" : "18:02.260-18:08.260",
+    "text" : "Pourquoi me posez-vous cette question?"
+  },
+  {
+    "text" : "Votre ami dit:",
+    "timestamp" : "18:08.260-18:10.260"
+  },
+  {
+    "text" : "\"My niece would like to go do some studies in the United States.\"",
+    "timestamp" : "18:10.260-18:15.260"
+  },
+  {
+    "text" : "\"My niece would like to go do some studies in the United States.\"",
+    "timestamp" : "18:15.260-18:17.260"
+  },
+  {
+    "text" : "\"My niece would like to go do some studies in the United States.\"",
+    "timestamp" : "18:17.260-18:22.260"
+  },
+  {
+    "text" : "\"My niece would like to go do some studies in the United States.\"",
+    "timestamp" : "18:22.260-18:26.260"
+  },
+  {
+    "text" : "\"My niece would like to go do some studies in the United States.\"",
+    "timestamp" : "18:26.260-18:28.260"
+  },
+  {
+    "text" : "\"My niece would like to go do some studies in the United States.\"",
+    "timestamp" : "18:28.260-18:29.260"
+  },
+  {
+    "timestamp" : "18:29.260-18:30.260",
+    "text" : "\"My niece would like to go do some studies in the United States.\""
+  },
+  {
+    "timestamp" : "18:30.260-18:31.260",
+    "text" : "\"My niece would like to go do some studies in the United States.\""
+  },
+  {
+    "timestamp" : "18:31.260-18:32.260",
+    "text" : "\"My niece would like to go do some studies in the United States.\""
+  },
+  {
+    "timestamp" : "18:32.260-18:33.260",
+    "text" : "\"My niece would like to go do some studies in the United States.\""
+  },
+  {
+    "text" : "\"My niece would like to go do some studies in the United States.\"",
+    "timestamp" : "18:33.260-18:34.260"
+  },
+  {
+    "text" : "\"My niece would like to go do some studies in the United States.\"",
+    "timestamp" : "18:34.260-18:38.260"
+  },
+  {
+    "timestamp" : "18:38.260-18:43.260",
+    "text" : "\"My niece would like to go do some studies in the United States.\""
+  },
+  {
+    "text" : "\"She would like to spend a year there.\"",
+    "timestamp" : "18:43.260-18:44.260"
+  },
+  {
+    "text" : "\"Une année.\"",
+    "timestamp" : "18:44.260-18:45.260"
+  },
+  {
+    "text" : "\"She would like to spend a year there.\"",
+    "timestamp" : "18:45.260-18:46.260"
+  },
+  {
+    "text" : "\"Une année.\"",
+    "timestamp" : "18:46.260-18:49.260"
+  },
+  {
+    "text" : "\"Elle aimerait y passer une année.\"",
+    "timestamp" : "18:49.260-18:55.260"
+  },
+  {
+    "timestamp" : "18:55.260-18:57.260",
+    "text" : "\"She's my sister's daughter.\""
+  },
+  {
+    "timestamp" : "18:57.260-18:58.260",
+    "text" : "\"C'est.\""
+  },
+  {
+    "timestamp" : "18:58.260-18:59.260",
+    "text" : "\"C'est.\""
+  },
+  {
+    "timestamp" : "18:59.260-19:04.260",
+    "text" : "\"C'est la fille de ma soeur.\""
+  },
+  {
+    "timestamp" : "19:04.260-19:05.260",
+    "text" : "\"C'est.\""
+  },
+  {
+    "text" : "\"C'est la fille de ma soeur.\"",
+    "timestamp" : "19:05.260-19:06.260"
+  },
+  {
+    "text" : "\"Comment dit-on, that's why.\"",
+    "timestamp" : "19:06.260-19:08.260"
+  },
+  {
+    "text" : "\"C'est pour ça.\"",
+    "timestamp" : "19:08.260-19:12.260"
+  },
+  {
+    "timestamp" : "19:12.260-19:17.260",
+    "text" : "\"Dite, that's why you're asking this question.\""
+  },
+  {
+    "text" : "\"C'est pour ça que vous posez cette question.\"",
+    "timestamp" : "19:17.260-19:19.260"
+  },
+  {
+    "timestamp" : "19:19.260-19:26.260",
+    "text" : "\"C'est pour ça que vous posez cette question.\""
+  },
+  {
+    "text" : "\"C'est pour ça?\"",
+    "timestamp" : "19:26.260-19:27.260"
+  },
+  {
+    "text" : "\"C'est pour ça que vous posez cette question.\"",
+    "timestamp" : "19:27.260-19:29.260"
+  },
+  {
+    "text" : "\"Dite, I'm sorry.\"",
+    "timestamp" : "19:29.260-19:30.260"
+  },
+  {
+    "timestamp" : "19:30.260-19:30.260",
+    "text" : "\"Dite, I'm sorry.\""
+  },
+  {
+    "text" : "\"Je suis désolé.\"",
+    "timestamp" : "19:30.260-19:31.260"
+  },
+  {
+    "timestamp" : "19:31.260-19:32.260",
+    "text" : "\"Comment dit-on, to say or to tell?\""
+  },
+  {
+    "timestamp" : "19:32.260-19:33.260",
+    "text" : "\"Dire.\""
+  },
+  {
+    "timestamp" : "19:33.260-19:34.260",
+    "text" : "\"Dire.\""
+  },
+  {
+    "text" : "\"Dire.\"",
+    "timestamp" : "19:34.260-19:35.260"
+  },
+  {
+    "text" : "\"Dire.\"",
+    "timestamp" : "19:35.260-19:36.260"
+  },
+  {
+    "timestamp" : "19:36.260-19:36.260",
+    "text" : "\"Dire.\""
+  },
+  {
+    "timestamp" : "19:36.260-19:37.260",
+    "text" : "\"Dire.\""
+  },
+  {
+    "text" : "\"Dire.\"",
+    "timestamp" : "19:37.260-19:38.260"
+  },
+  {
+    "text" : "\"Dire.\"",
+    "timestamp" : "19:38.260-19:39.260"
+  },
+  {
+    "timestamp" : "19:39.260-19:41.260",
+    "text" : "\"Essayez de dire, but I cannot tell you.\""
+  },
+  {
+    "text" : "\"Dire.\"",
+    "timestamp" : "19:41.260-19:42.260"
+  },
+  {
+    "text" : "\"Dire.\"",
+    "timestamp" : "19:42.260-19:43.260"
+  },
+  {
+    "timestamp" : "19:43.260-19:44.260",
+    "text" : "\"Dire.\""
+  },
+  {
+    "text" : "je suis désolé comment dit-on to say or to tell dire",
+    "timestamp" : "19:44.260-19:56.880"
+  },
+  {
+    "text" : "dire essayez de dire but I cannot tell you mais je ne peux pas vous dire",
+    "timestamp" : "19:56.880-20:12.300"
+  },
+  {
+    "text" : "combien coûtent les études aux Etats-Unis ?",
+    "timestamp" : "20:12.300-20:40.340"
+  },
+  {
+    "text" : "est-ce que vous vous souvenez comment dit high school ?",
+    "timestamp" : "20:40.340-20:47.340"
+  },
+  {
+    "text" : "lycée",
+    "timestamp" : "20:47.340-20:50.340"
+  },
+  {
+    "timestamp" : "20:50.340-20:53.340",
+    "text" : "le lycée"
+  },
+  {
+    "text" : "dites",
+    "timestamp" : "20:53.340-20:56.340"
+  },
+  {
+    "text" : "now me I have a question to ask you",
+    "timestamp" : "20:56.340-20:59.340"
+  },
+  {
+    "timestamp" : "20:59.340-21:06.340",
+    "text" : "à vous poser"
+  },
+  {
+    "text" : "maintenant moi j'ai une question à vous poser",
+    "timestamp" : "21:06.340-21:13.340"
+  },
+  {
+    "timestamp" : "21:13.340-21:16.340",
+    "text" : "à vous poser"
+  },
+  {
+    "text" : "how does one say junior high school in French ?",
+    "timestamp" : "21:16.340-21:26.340"
+  },
+  {
+    "text" : "comment dit-on",
+    "timestamp" : "21:26.340-21:36.340"
+  },
+  {
+    "timestamp" : "21:36.340-21:43.340",
+    "text" : "junior high school en français ?"
+  },
+  {
+    "timestamp" : "21:43.340-21:45.340",
+    "text" : "votre ami dit"
+  },
+  {
+    "text" : "that I can tell you",
+    "timestamp" : "21:45.340-21:46.340"
+  },
+  {
+    "timestamp" : "21:46.340-21:47.340",
+    "text" : "say that I can tell you"
+  },
+  {
+    "text" : "say that I can to you it tell",
+    "timestamp" : "21:47.340-21:53.340"
+  },
+  {
+    "text" : "ça je peux vous le dire",
+    "timestamp" : "21:53.340-21:56.340"
+  },
+  {
+    "timestamp" : "21:56.340-22:01.340",
+    "text" : "ça je peux vous le dire"
+  },
+  {
+    "text" : "ça je peux vous le dire",
+    "timestamp" : "22:01.340-22:04.340"
+  },
+  {
+    "text" : "ça je peux vous le dire",
+    "timestamp" : "22:04.340-22:08.340"
+  },
+  {
+    "text" : "junior high school",
+    "timestamp" : "22:08.340-22:09.340"
+  },
+  {
+    "text" : "it is",
+    "timestamp" : "22:09.340-22:10.340"
+  },
+  {
+    "text" : "collège",
+    "timestamp" : "22:10.340-22:11.340"
+  },
+  {
+    "timestamp" : "22:11.340-22:12.340",
+    "text" : "in French"
+  },
+  {
+    "text" : "c'est collège",
+    "timestamp" : "22:12.340-22:13.340"
+  },
+  {
+    "timestamp" : "22:13.340-22:14.340",
+    "text" : "c'est collège"
+  },
+  {
+    "timestamp" : "22:14.340-22:15.340",
+    "text" : "c'est collège"
+  },
+  {
+    "text" : "en français",
+    "timestamp" : "22:15.340-22:22.340"
+  },
+  {
+    "text" : "junior high school",
+    "timestamp" : "22:22.340-22:23.340"
+  },
+  {
+    "timestamp" : "22:23.340-22:32.340",
+    "text" : "c'est collège en français"
+  },
+  {
+    "text" : "junior high school",
+    "timestamp" : "22:32.340-22:33.340"
+  },
+  {
+    "timestamp" : "22:33.340-22:37.340",
+    "text" : "c'est collège en français"
+  },
+  {
+    "timestamp" : "22:37.340-22:43.020",
+    "text" : "Votre ami dit,"
+  },
+  {
+    "text" : "Yes, junior high school, it is",
+    "timestamp" : "22:43.020-22:45.820"
+  },
+  {
+    "text" : "collège.",
+    "timestamp" : "22:45.820-22:46.600"
+  },
+  {
+    "timestamp" : "22:46.600-22:54.980",
+    "text" : "Oui, junior high school,"
+  },
+  {
+    "text" : "c'est collège.",
+    "timestamp" : "22:54.980-22:56.400"
+  },
+  {
+    "text" : "And high school, it is",
+    "timestamp" : "22:56.400-23:04.380"
+  },
+  {
+    "timestamp" : "23:04.380-23:05.320",
+    "text" : "lycée."
+  },
+  {
+    "timestamp" : "23:05.320-23:13.040",
+    "text" : "Et high school, c'est lycée."
+  },
+  {
+    "text" : "Why do you ask this question?",
+    "timestamp" : "23:13.040-23:19.780"
+  },
+  {
+    "timestamp" : "23:19.780-23:25.300",
+    "text" : "Pourquoi est-ce que vous posez"
+  },
+  {
+    "timestamp" : "23:25.300-23:25.940",
+    "text" : "cette question?"
+  },
+  {
+    "text" : "Pourquoi posez-vous cette question?",
+    "timestamp" : "23:25.940-23:31.820"
+  },
+  {
+    "timestamp" : "23:31.820-23:37.760",
+    "text" : "Dites, my son is a teacher."
+  },
+  {
+    "text" : "Mon fils est professeur.",
+    "timestamp" : "23:37.760-23:43.320"
+  },
+  {
+    "text" : "He's a teacher in a high school.",
+    "timestamp" : "23:43.320-23:48.740"
+  },
+  {
+    "timestamp" : "23:53.000-23:55.040",
+    "text" : "Il est professeur dans un lycée."
+  },
+  {
+    "text" : "Il est professeur dans un lycée.",
+    "timestamp" : "23:55.040-24:01.220"
+  },
+  {
+    "text" : "He teaches.",
+    "timestamp" : "24:01.220-24:06.380"
+  },
+  {
+    "timestamp" : "24:06.380-24:10.400",
+    "text" : "Il enseigne."
+  },
+  {
+    "text" : "He teaches French and history.",
+    "timestamp" : "24:10.400-24:15.260"
+  },
+  {
+    "timestamp" : "24:15.260-24:18.400",
+    "text" : "Say, the French and the history."
+  },
+  {
+    "text" : "Il enseigne le français et l'histoire.",
+    "timestamp" : "24:18.400-24:26.940"
+  },
+  {
+    "timestamp" : "24:26.940-24:35.520",
+    "text" : "Il enseigne le français et l'histoire."
+  },
+  {
+    "text" : "Comment dit-on, I know, or I know how to?",
+    "timestamp" : "24:35.520-24:44.160"
+  },
+  {
+    "timestamp" : "24:46.160-24:46.720",
+    "text" : "Je sais."
+  },
+  {
+    "timestamp" : "24:46.720-24:51.700",
+    "text" : "Dites."
+  },
+  {
+    "text" : "Now I know how to say in French.",
+    "timestamp" : "24:51.700-24:53.760"
+  },
+  {
+    "timestamp" : "24:53.760-25:01.160",
+    "text" : "Maintenant, je sais dire en français."
+  },
+  {
+    "timestamp" : "25:01.160-25:08.600",
+    "text" : "Maintenant, je sais dire en français."
+  },
+  {
+    "timestamp" : "25:14.040-25:15.040",
+    "text" : "ce qu'il fait."
+  },
+  {
+    "timestamp" : "25:15.040-25:15.040",
+    "text" : "What he does."
+  },
+  {
+    "timestamp" : "25:15.040-25:16.040",
+    "text" : "Start with."
+  },
+  {
+    "text" : "Ce.",
+    "timestamp" : "25:16.040-25:16.760"
+  },
+  {
+    "text" : "Ce qu'il fait.",
+    "timestamp" : "25:16.760-25:19.940"
+  },
+  {
+    "timestamp" : "25:19.940-25:23.220",
+    "text" : "Ce qu'il fait."
+  },
+  {
+    "text" : "I know how to say in French what he does.",
+    "timestamp" : "25:23.220-25:27.820"
+  },
+  {
+    "text" : "Je sais dire en français.",
+    "timestamp" : "25:33.160-25:34.400"
+  },
+  {
+    "text" : "Ce qu'il fait.",
+    "timestamp" : "25:34.400-25:35.040"
+  },
+  {
+    "text" : "Je sais dire en français.",
+    "timestamp" : "25:35.040-25:41.560"
+  },
+  {
+    "text" : "Ce qu'il fait.",
+    "timestamp" : "25:41.560-25:42.240"
+  },
+  {
+    "timestamp" : "25:42.240-25:48.640",
+    "text" : "Votre ami dit."
+  },
+  {
+    "text" : "Now I understand.",
+    "timestamp" : "25:48.640-25:50.060"
+  },
+  {
+    "text" : "Maintenant, je comprends.",
+    "timestamp" : "25:50.060-25:54.720"
+  },
+  {
+    "timestamp" : "25:57.920-25:58.880",
+    "text" : "Essayez de dire."
+  },
+  {
+    "timestamp" : "25:58.880-26:00.640",
+    "text" : "Why you asked me this question."
+  },
+  {
+    "timestamp" : "26:00.640-26:01.480",
+    "text" : "Use."
+  },
+  {
+    "timestamp" : "26:01.480-26:02.040",
+    "text" : "Posez."
+  },
+  {
+    "text" : "Pourquoi vous m'avez posé cette question?",
+    "timestamp" : "26:02.040-26:08.660"
+  },
+  {
+    "timestamp" : "26:08.660-26:15.480",
+    "text" : "Pourquoi vous m'avez posé cette question?"
+  },
+  {
+    "text" : "Elle vous demande ensuite.",
+    "timestamp" : "26:15.480-26:21.780"
+  },
+  {
+    "timestamp" : "26:21.780-26:23.560",
+    "text" : "Where did your son learn French?"
+  },
+  {
+    "timestamp" : "26:23.560-26:31.380",
+    "text" : "où est-ce que votre fils a appris le français?"
+  },
+  {
+    "text" : "Où votre fils a-t-il appris le français?",
+    "timestamp" : "26:31.380-26:39.120"
+  },
+  {
+    "timestamp" : "26:39.120-26:45.200",
+    "text" : "In France?"
+  },
+  {
+    "text" : "En France?",
+    "timestamp" : "26:45.200-26:48.020"
+  },
+  {
+    "text" : "Dites.",
+    "timestamp" : "26:50.020-26:50.620"
+  },
+  {
+    "timestamp" : "26:50.620-26:52.680",
+    "text" : "Yes, he went often to France."
+  },
+  {
+    "timestamp" : "26:52.680-26:58.180",
+    "text" : "Oui."
+  },
+  {
+    "text" : "Il est allé souvent en France.",
+    "timestamp" : "26:58.180-27:00.040"
+  },
+  {
+    "text" : "Referring to a woman, say,",
+    "timestamp" : "27:00.040-27:06.820"
+  },
+  {
+    "text" : "and he had a French friend.",
+    "timestamp" : "27:06.820-27:08.600"
+  },
+  {
+    "text" : "Use.",
+    "timestamp" : "27:08.600-27:09.500"
+  },
+  {
+    "timestamp" : "27:09.500-27:10.100",
+    "text" : "Avait."
+  },
+  {
+    "text" : "Et il avait une amie française.",
+    "timestamp" : "27:15.020-27:16.640"
+  },
+  {
+    "timestamp" : "27:16.640-27:22.000",
+    "text" : "Dites."
+  },
+  {
+    "timestamp" : "27:22.000-27:24.680",
+    "text" : "Your niece is going to learn English very fast."
+  },
+  {
+    "timestamp" : "27:24.680-27:32.700",
+    "text" : "Votre nièce va apprendre l'anglais très vite."
+  },
+  {
+    "text" : "When she's going to go to the United States.",
+    "timestamp" : "27:32.700-27:39.460"
+  },
+  {
+    "timestamp" : "27:43.460-27:45.080",
+    "text" : "Quand elle va aller aux Etats-Unis."
+  },
+  {
+    "timestamp" : "27:45.080-27:49.920",
+    "text" : "Quand elle va aller aux Etats-Unis."
+  },
+  {
+    "text" : "Certainly.",
+    "timestamp" : "27:49.920-27:54.040"
+  },
+  {
+    "timestamp" : "27:54.040-27:57.380",
+    "text" : "Certainement."
+  },
+  {
+    "text" : "Now suppose a French acquaintance tells you about her children.",
+    "timestamp" : "27:57.380-28:02.720"
+  },
+  {
+    "timestamp" : "28:02.720-28:04.140",
+    "text" : "Elle dit."
+  },
+  {
+    "timestamp" : "28:04.140-28:05.660",
+    "text" : "I have two children."
+  },
+  {
+    "text" : "J'ai deux enfants.",
+    "timestamp" : "28:08.240-28:09.300"
+  },
+  {
+    "text" : "My daughter is 14 years old.",
+    "timestamp" : "28:09.300-28:13.880"
+  },
+  {
+    "text" : "Ma fille a 14 ans.",
+    "timestamp" : "28:13.880-28:18.120"
+  },
+  {
+    "text" : "Ma fille a 14 ans.",
+    "timestamp" : "28:18.120-28:22.620"
+  },
+  {
+    "text" : "She still goes to the junior high school.",
+    "timestamp" : "28:22.620-28:27.720"
+  },
+  {
+    "text" : "Elle va encore au collège.",
+    "timestamp" : "28:31.320-28:32.800"
+  },
+  {
+    "text" : "Au collège.",
+    "timestamp" : "28:32.800-28:37.480"
+  },
+  {
+    "timestamp" : "28:37.480-28:42.740",
+    "text" : "And she'd like to do some studies of English later."
+  },
+  {
+    "timestamp" : "28:48.340-28:50.080",
+    "text" : "And she'd like to do some studies of English."
+  },
+  {
+    "text" : "She'd like to do some studies of English.",
+    "timestamp" : "28:50.080-28:50.680"
+  },
+  {
+    "text" : "My son is 17.",
+    "timestamp" : "28:50.680-28:56.780"
+  },
+  {
+    "timestamp" : "28:56.780-29:01.100",
+    "text" : "Mon fils a 17 ans."
+  },
+  {
+    "timestamp" : "29:01.100-29:05.560",
+    "text" : "And he goes to the high school."
+  },
+  {
+    "timestamp" : "29:08.560-29:09.760",
+    "text" : "And he goes to the high school."
+  },
+  {
+    "timestamp" : "29:09.760-29:09.760",
+    "text" : "And he goes to the high school."
+  },
+  {
+    "text" : "And he goes to the high school.",
+    "timestamp" : "29:09.760-29:09.760"
+  },
+  {
+    "timestamp" : "29:09.760-29:09.760",
+    "text" : "And he goes to the high school."
+  },
+  {
+    "text" : "And he goes to the high school.",
+    "timestamp" : "29:09.760-29:09.760"
+  },
+  {
+    "timestamp" : "29:09.760-29:09.760",
+    "text" : "And he goes to the high school."
+  },
+  {
+    "timestamp" : "29:09.760-29:09.760",
+    "text" : "And he goes to the high school."
+  },
+  {
+    "timestamp" : "29:09.760-29:10.200",
+    "text" : "And he goes to the high school."
+  },
+  {
+    "timestamp" : "29:10.200-29:11.800",
+    "text" : "And he goes to the high school."
+  },
+  {
+    "text" : "And he goes to the high school.",
+    "timestamp" : "29:11.800-29:14.040"
+  },
+  {
+    "timestamp" : "29:14.040-29:15.040",
+    "text" : "Ask."
+  },
+  {
+    "text" : "What does he want to become later?",
+    "timestamp" : "29:15.040-29:18.920"
+  },
+  {
+    "text" : "What does he want to become later?",
+    "timestamp" : "29:18.920-29:18.920"
+  },
+  {
+    "text" : "What does he want to become later?",
+    "timestamp" : "29:18.920-29:18.920"
+  },
+  {
+    "timestamp" : "29:18.920-29:18.920",
+    "text" : "What does he want to become later?"
+  },
+  {
+    "text" : "What does he want to become later?",
+    "timestamp" : "29:18.920-29:20.920"
+  },
+  {
+    "timestamp" : "29:20.920-29:24.880",
+    "text" : "What does he want to become later?"
+  },
+  {
+    "timestamp" : "29:24.880-29:24.880",
+    "text" : "What does he want to become later?"
+  },
+  {
+    "timestamp" : "29:24.880-29:24.880",
+    "text" : "What does he want to become later?"
+  },
+  {
+    "text" : "What does he want to become later?",
+    "timestamp" : "29:24.880-29:26.880"
+  },
+  {
+    "text" : "What does he want to become later?",
+    "timestamp" : "29:26.880-29:28.840"
+  },
+  {
+    "text" : "What does he want to become later?",
+    "timestamp" : "29:28.840-29:30.060"
+  },
+  {
+    "text" : "Il ne le sait pas encore.",
+    "timestamp" : "29:30.060-29:44.360"
+  },
+  {
+    "text" : "Bien, il a le temps. Au revoir.",
+    "timestamp" : "29:44.360-29:49.580"
+  },
+  {
+    "timestamp" : "29:49.580-29:50.580",
+    "text" : "Au revoir."
+  },
+  {
+    "text" : "Sous-titrage ST' 501",
+    "timestamp" : "29:50.580-30:20.560"
+  }
+]

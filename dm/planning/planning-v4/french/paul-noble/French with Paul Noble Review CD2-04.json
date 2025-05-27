@@ -1,0 +1,326 @@
+[
+  {
+    "text" : "I must.",
+    "timestamp" : "00:00.001-00:02.200"
+  },
+  {
+    "timestamp" : "00:02.200-00:04.900",
+    "text" : "Je dois."
+  },
+  {
+    "text" : "He must.",
+    "timestamp" : "00:04.900-00:06.780"
+  },
+  {
+    "text" : "Il doit.",
+    "timestamp" : "00:06.780-00:08.960"
+  },
+  {
+    "timestamp" : "00:08.960-00:10.720",
+    "text" : "She must."
+  },
+  {
+    "timestamp" : "00:10.720-00:13.200",
+    "text" : "Elle doit."
+  },
+  {
+    "timestamp" : "00:13.200-00:14.920",
+    "text" : "One must."
+  },
+  {
+    "text" : "On doit.",
+    "timestamp" : "00:14.920-00:17.320"
+  },
+  {
+    "text" : "You informal must.",
+    "timestamp" : "00:17.320-00:20.600"
+  },
+  {
+    "text" : "Tu dois.",
+    "timestamp" : "00:20.600-00:24.360"
+  },
+  {
+    "text" : "You formal must.",
+    "timestamp" : "00:24.360-00:27.360"
+  },
+  {
+    "text" : "Vous devez.",
+    "timestamp" : "00:28.900-00:30.100"
+  },
+  {
+    "text" : "We must.",
+    "timestamp" : "00:30.100-00:31.800"
+  },
+  {
+    "text" : "Nous devons.",
+    "timestamp" : "00:31.800-00:35.060"
+  },
+  {
+    "timestamp" : "00:35.060-00:36.920",
+    "text" : "They must."
+  },
+  {
+    "timestamp" : "00:36.920-00:39.720",
+    "text" : "Ils doivent."
+  },
+  {
+    "timestamp" : "00:39.720-00:44.080",
+    "text" : "They, an entirely female group, must."
+  },
+  {
+    "timestamp" : "00:44.080-00:48.220",
+    "text" : "Elles doivent."
+  },
+  {
+    "timestamp" : "00:48.220-00:51.400",
+    "text" : "I can."
+  },
+  {
+    "timestamp" : "00:51.400-00:54.160",
+    "text" : "Je peux."
+  },
+  {
+    "text" : "He can.",
+    "timestamp" : "00:54.160-00:55.820"
+  },
+  {
+    "text" : "Il peut.",
+    "timestamp" : "00:57.800-00:58.340"
+  },
+  {
+    "timestamp" : "00:58.340-00:59.960",
+    "text" : "She can."
+  },
+  {
+    "timestamp" : "00:59.960-01:02.600",
+    "text" : "Elle peut."
+  },
+  {
+    "timestamp" : "01:02.600-01:04.460",
+    "text" : "One can."
+  },
+  {
+    "text" : "On peut.",
+    "timestamp" : "01:04.460-01:06.980"
+  },
+  {
+    "text" : "You informal can.",
+    "timestamp" : "01:06.980-01:09.280"
+  },
+  {
+    "text" : "Tu peux.",
+    "timestamp" : "01:09.280-01:12.620"
+  },
+  {
+    "text" : "You formal can.",
+    "timestamp" : "01:12.620-01:14.900"
+  },
+  {
+    "text" : "Vous pouvez.",
+    "timestamp" : "01:16.900-01:18.040"
+  },
+  {
+    "timestamp" : "01:18.040-01:18.040",
+    "text" : "Vous pouvez."
+  },
+  {
+    "text" : "We can.",
+    "timestamp" : "01:18.040-01:19.640"
+  },
+  {
+    "timestamp" : "01:19.640-01:21.980",
+    "text" : "Nous pouvons."
+  },
+  {
+    "timestamp" : "01:21.980-01:23.480",
+    "text" : "They can."
+  },
+  {
+    "timestamp" : "01:23.480-01:26.220",
+    "text" : "Ils peuvent."
+  },
+  {
+    "timestamp" : "01:26.220-01:29.360",
+    "text" : "They can, an entirely female group."
+  },
+  {
+    "text" : "Elles peuvent.",
+    "timestamp" : "01:29.360-01:33.120"
+  },
+  {
+    "timestamp" : "01:33.120-01:35.200",
+    "text" : "I want."
+  },
+  {
+    "text" : "Je veux.",
+    "timestamp" : "01:35.200-01:37.920"
+  },
+  {
+    "text" : "He wants.",
+    "timestamp" : "01:38.920-01:39.740"
+  },
+  {
+    "timestamp" : "01:39.740-01:39.740",
+    "text" : "He wants."
+  },
+  {
+    "timestamp" : "01:39.740-01:39.740",
+    "text" : "He wants."
+  },
+  {
+    "text" : "He wants.",
+    "timestamp" : "01:39.740-01:39.740"
+  },
+  {
+    "timestamp" : "01:39.740-01:39.740",
+    "text" : "He wants."
+  },
+  {
+    "timestamp" : "01:39.740-01:39.740",
+    "text" : "He wants."
+  },
+  {
+    "text" : "He wants.",
+    "timestamp" : "01:39.740-01:39.740"
+  },
+  {
+    "timestamp" : "01:39.740-01:39.740",
+    "text" : "He wants."
+  },
+  {
+    "text" : "He wants.",
+    "timestamp" : "01:39.740-01:39.740"
+  },
+  {
+    "text" : "He wants.",
+    "timestamp" : "01:39.740-01:39.740"
+  },
+  {
+    "timestamp" : "01:39.740-01:39.740",
+    "text" : "He wants."
+  },
+  {
+    "text" : "He wants.",
+    "timestamp" : "01:39.740-01:39.740"
+  },
+  {
+    "text" : "He wants.",
+    "timestamp" : "01:39.740-01:39.740"
+  },
+  {
+    "timestamp" : "01:39.740-01:39.740",
+    "text" : "He wants."
+  },
+  {
+    "timestamp" : "01:39.740-01:39.740",
+    "text" : "He wants."
+  },
+  {
+    "text" : "He wants.",
+    "timestamp" : "01:39.740-01:39.920"
+  },
+  {
+    "text" : "He wants.",
+    "timestamp" : "01:39.920-01:40.240"
+  },
+  {
+    "text" : "He wants.",
+    "timestamp" : "01:40.240-01:40.740"
+  },
+  {
+    "timestamp" : "01:40.740-01:41.880",
+    "text" : "He wants."
+  },
+  {
+    "text" : "He wants.",
+    "timestamp" : "01:41.880-01:42.020"
+  },
+  {
+    "text" : "She wants.",
+    "timestamp" : "01:42.020-01:43.940"
+  },
+  {
+    "timestamp" : "01:43.940-01:43.940",
+    "text" : "He wants."
+  },
+  {
+    "text" : "She wants.",
+    "timestamp" : "01:43.940-01:43.960"
+  },
+  {
+    "timestamp" : "01:43.960-01:46.420",
+    "text" : "Elle veut."
+  },
+  {
+    "text" : "One wants.",
+    "timestamp" : "01:46.420-01:46.480"
+  },
+  {
+    "text" : "One wants.",
+    "timestamp" : "01:46.480-01:48.200"
+  },
+  {
+    "text" : "On veut.",
+    "timestamp" : "01:48.200-01:48.460"
+  },
+  {
+    "timestamp" : "01:48.460-01:50.580",
+    "text" : "On veut."
+  },
+  {
+    "text" : "You informal want.",
+    "timestamp" : "01:50.580-01:50.600"
+  },
+  {
+    "text" : "You informal want.",
+    "timestamp" : "01:50.600-01:53.660"
+  },
+  {
+    "text" : "Tu veux.",
+    "timestamp" : "01:53.660-01:56.960"
+  },
+  {
+    "timestamp" : "01:56.960-01:59.340",
+    "text" : "You formal want."
+  },
+  {
+    "timestamp" : "01:59.340-01:59.360",
+    "text" : "You formal want."
+  },
+  {
+    "timestamp" : "01:59.360-02:02.260",
+    "text" : "Vous voulez."
+  },
+  {
+    "timestamp" : "02:02.260-02:03.980",
+    "text" : "We want."
+  },
+  {
+    "text" : "Nous voulons.",
+    "timestamp" : "02:03.980-02:06.700"
+  },
+  {
+    "text" : "They want.",
+    "timestamp" : "02:06.700-02:08.400"
+  },
+  {
+    "text" : "Ils veulent.",
+    "timestamp" : "02:08.400-02:10.880"
+  },
+  {
+    "text" : "They, an entirely female group, want.",
+    "timestamp" : "02:10.880-02:14.440"
+  },
+  {
+    "timestamp" : "02:14.440-02:17.900",
+    "text" : "Elles veulent."
+  },
+  {
+    "timestamp" : "02:17.900-02:18.200",
+    "text" : "They want."
+  },
+  {
+    "timestamp" : "02:18.200-02:48.180",
+    "text" : "Thank you."
+  }
+]

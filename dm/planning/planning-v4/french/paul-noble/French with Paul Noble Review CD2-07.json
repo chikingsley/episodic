@@ -1,0 +1,270 @@
+[
+  {
+    "text" : "I can do it.",
+    "timestamp" : "00:00.001-00:01.640"
+  },
+  {
+    "text" : "Je peux le faire.",
+    "timestamp" : "00:01.640-00:05.040"
+  },
+  {
+    "text" : "I can buy it.",
+    "timestamp" : "00:05.040-00:07.400"
+  },
+  {
+    "text" : "Je peux l'acheter.",
+    "timestamp" : "00:07.400-00:10.620"
+  },
+  {
+    "text" : "He can find it.",
+    "timestamp" : "00:10.620-00:13.920"
+  },
+  {
+    "text" : "Il peut le trouver.",
+    "timestamp" : "00:13.920-00:17.340"
+  },
+  {
+    "text" : "He can eat it.",
+    "timestamp" : "00:17.340-00:19.960"
+  },
+  {
+    "text" : "Il peut le manger.",
+    "timestamp" : "00:19.960-00:23.160"
+  },
+  {
+    "timestamp" : "00:23.160-00:27.800",
+    "text" : "You, informal, can speak."
+  },
+  {
+    "timestamp" : "00:27.800-00:32.100",
+    "text" : "Tu peux parler."
+  },
+  {
+    "text" : "You can sell it.",
+    "timestamp" : "00:32.100-00:35.040"
+  },
+  {
+    "text" : "Tu peux le vendre.",
+    "timestamp" : "00:35.040-00:38.260"
+  },
+  {
+    "text" : "You, formal, can see it.",
+    "timestamp" : "00:38.260-00:42.740"
+  },
+  {
+    "timestamp" : "00:42.740-00:47.360",
+    "text" : "Vous pouvez le voir."
+  },
+  {
+    "text" : "You, formal, can see me.",
+    "timestamp" : "00:47.360-00:50.500"
+  },
+  {
+    "text" : "Vous pouvez me voir.",
+    "timestamp" : "00:50.500-00:54.760"
+  },
+  {
+    "timestamp" : "00:55.760-00:58.300",
+    "text" : "You, formal, can see him."
+  },
+  {
+    "text" : "Vous pouvez le voir.",
+    "timestamp" : "00:58.300-01:02.460"
+  },
+  {
+    "text" : "You, formal, can see her.",
+    "timestamp" : "01:02.460-01:04.980"
+  },
+  {
+    "timestamp" : "01:04.980-01:09.080",
+    "text" : "Vous pouvez la voir."
+  },
+  {
+    "text" : "You, formal, can see them.",
+    "timestamp" : "01:09.080-01:12.240"
+  },
+  {
+    "timestamp" : "01:14.940-01:16.480",
+    "text" : "Vous pouvez les voir."
+  },
+  {
+    "text" : "I want.",
+    "timestamp" : "01:16.480-01:20.300"
+  },
+  {
+    "timestamp" : "01:20.300-01:22.580",
+    "text" : "Je veux."
+  },
+  {
+    "text" : "I want to wait.",
+    "timestamp" : "01:22.580-01:24.640"
+  },
+  {
+    "timestamp" : "01:24.640-01:27.620",
+    "text" : "Je veux attendre."
+  },
+  {
+    "timestamp" : "01:27.620-01:29.660",
+    "text" : "I want to wait for it."
+  },
+  {
+    "timestamp" : "01:29.660-01:33.200",
+    "text" : "Je veux l'attendre."
+  },
+  {
+    "text" : "I want to wait for you, formal.",
+    "timestamp" : "01:33.720-01:36.520"
+  },
+  {
+    "text" : "Je veux vous attendre.",
+    "timestamp" : "01:36.520-01:41.240"
+  },
+  {
+    "text" : "I want to wait for you, informal.",
+    "timestamp" : "01:41.240-01:44.320"
+  },
+  {
+    "text" : "Je veux t'attendre.",
+    "timestamp" : "01:44.320-01:49.040"
+  },
+  {
+    "text" : "I want to understand you, formal.",
+    "timestamp" : "01:49.900-01:52.640"
+  },
+  {
+    "text" : "Je veux vous comprendre.",
+    "timestamp" : "01:52.640-01:58.660"
+  },
+  {
+    "timestamp" : "01:58.660-02:07.380",
+    "text" : "Je veux te comprendre."
+  },
+  {
+    "text" : "Je veux te comprendre.",
+    "timestamp" : "02:07.380-02:07.440"
+  },
+  {
+    "text" : "He wants.",
+    "timestamp" : "02:07.440-02:12.900"
+  },
+  {
+    "timestamp" : "02:12.900-02:15.460",
+    "text" : "Il veut."
+  },
+  {
+    "text" : "He wants to give.",
+    "timestamp" : "02:17.140-02:19.480"
+  },
+  {
+    "timestamp" : "02:19.480-02:23.080",
+    "text" : "Il veut donner."
+  },
+  {
+    "timestamp" : "02:23.080-02:26.620",
+    "text" : "You, formal, want to give."
+  },
+  {
+    "text" : "You, formal, want to give it.",
+    "timestamp" : "02:29.860-02:34.700"
+  },
+  {
+    "text" : "Vous voulez le donner.",
+    "timestamp" : "02:34.700-02:39.420"
+  },
+  {
+    "timestamp" : "02:39.420-02:42.380",
+    "text" : "You want to give it to me."
+  },
+  {
+    "timestamp" : "02:45.840-02:47.100",
+    "text" : "Vous voulez me le donner."
+  },
+  {
+    "text" : "You don't want to give it to me.",
+    "timestamp" : "02:47.100-02:50.500"
+  },
+  {
+    "timestamp" : "02:50.500-02:54.900",
+    "text" : "Vous ne voulez pas me le donner."
+  },
+  {
+    "text" : "You must give it to me.",
+    "timestamp" : "02:54.900-02:59.220"
+  },
+  {
+    "text" : "Vous devez me le donner.",
+    "timestamp" : "02:59.220-03:03.300"
+  },
+  {
+    "text" : "Him.",
+    "timestamp" : "03:03.300-03:06.220"
+  },
+  {
+    "timestamp" : "03:06.220-03:09.380",
+    "text" : "Le."
+  },
+  {
+    "text" : "To him.",
+    "timestamp" : "03:09.380-03:11.740"
+  },
+  {
+    "text" : "Lui.",
+    "timestamp" : "03:11.740-03:15.140"
+  },
+  {
+    "text" : "You must give it to him.",
+    "timestamp" : "03:15.140-03:18.560"
+  },
+  {
+    "text" : "Vous devez le lui donner.",
+    "timestamp" : "03:18.560-03:22.060"
+  },
+  {
+    "text" : "You must give it to her.",
+    "timestamp" : "03:22.060-03:24.920"
+  },
+  {
+    "timestamp" : "03:24.920-03:29.160",
+    "text" : "Vous devez le lui donner."
+  },
+  {
+    "text" : "You must give them to her.",
+    "timestamp" : "03:29.160-03:32.540"
+  },
+  {
+    "text" : "Vous devez les lui donner.",
+    "timestamp" : "03:32.540-03:36.900"
+  },
+  {
+    "timestamp" : "03:36.900-03:39.900",
+    "text" : "You must give them to them."
+  },
+  {
+    "text" : "Vous devez les leur donner.",
+    "timestamp" : "03:39.900-03:44.240"
+  },
+  {
+    "text" : "You must give it to them.",
+    "timestamp" : "03:44.240-03:46.920"
+  },
+  {
+    "text" : "Vous devez le leur donner.",
+    "timestamp" : "03:46.920-03:51.440"
+  },
+  {
+    "text" : "You mustn't give it to them.",
+    "timestamp" : "03:51.440-03:53.780"
+  },
+  {
+    "text" : "Vous ne devez pas le leur donner.",
+    "timestamp" : "03:53.780-03:58.180"
+  },
+  {
+    "text" : "Vous devez pas le leur donner.",
+    "timestamp" : "03:58.180-03:58.260"
+  },
+  {
+    "timestamp" : "03:58.260-04:28.240",
+    "text" : "Thank you."
+  }
+]

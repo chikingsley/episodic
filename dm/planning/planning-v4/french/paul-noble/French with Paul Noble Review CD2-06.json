@@ -1,0 +1,82 @@
+[
+  {
+    "text" : "I have.",
+    "timestamp" : "00:00.001-00:01.180"
+  },
+  {
+    "timestamp" : "00:01.180-00:03.740",
+    "text" : "J'ai."
+  },
+  {
+    "text" : "He has.",
+    "timestamp" : "00:03.740-00:05.260"
+  },
+  {
+    "text" : "Il a.",
+    "timestamp" : "00:05.260-00:07.660"
+  },
+  {
+    "text" : "She has.",
+    "timestamp" : "00:07.660-00:08.980"
+  },
+  {
+    "timestamp" : "00:08.980-00:11.100",
+    "text" : "Elle a."
+  },
+  {
+    "text" : "One has.",
+    "timestamp" : "00:11.100-00:12.460"
+  },
+  {
+    "text" : "On a.",
+    "timestamp" : "00:12.460-00:14.620"
+  },
+  {
+    "text" : "You informal have.",
+    "timestamp" : "00:14.620-00:17.000"
+  },
+  {
+    "timestamp" : "00:17.000-00:19.920",
+    "text" : "Tu as."
+  },
+  {
+    "text" : "You formal have.",
+    "timestamp" : "00:19.920-00:22.240"
+  },
+  {
+    "timestamp" : "00:22.240-00:25.200",
+    "text" : "Vous avez."
+  },
+  {
+    "timestamp" : "00:25.200-00:26.680",
+    "text" : "We have."
+  },
+  {
+    "timestamp" : "00:26.680-00:29.040",
+    "text" : "Nous avons."
+  },
+  {
+    "text" : "They have.",
+    "timestamp" : "00:29.040-00:34.040"
+  },
+  {
+    "text" : "Ils ont.",
+    "timestamp" : "00:34.040-00:36.440"
+  },
+  {
+    "timestamp" : "00:36.440-00:39.380",
+    "text" : "They, an entirely female group have."
+  },
+  {
+    "timestamp" : "00:39.380-00:42.780",
+    "text" : "Elles ont."
+  },
+  {
+    "text" : "Thank you.",
+    "timestamp" : "00:42.780-00:43.780"
+  },
+  {
+    "timestamp" : "00:43.780-01:13.760",
+    "text" : "Thank you."
+  }
+]

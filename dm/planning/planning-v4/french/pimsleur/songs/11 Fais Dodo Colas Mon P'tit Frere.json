@@ -1,0 +1,66 @@
+[
+  {
+    "text" : "Musique",
+    "timestamp" : "00:00.001-00:01.000"
+  },
+  {
+    "text" : "Fais dodo, cola mon petit frère",
+    "timestamp" : "00:01.000-00:15.300"
+  },
+  {
+    "text" : "Fais dodo, t'auras du lolo",
+    "timestamp" : "00:15.300-00:19.800"
+  },
+  {
+    "timestamp" : "00:19.800-00:25.320",
+    "text" : "Maman est en haut, qui fait des gâteaux"
+  },
+  {
+    "text" : "Papa est en bas, qui fait du chocolat",
+    "timestamp" : "00:25.320-00:30.780"
+  },
+  {
+    "text" : "Fais dodo, cola mon petit frère",
+    "timestamp" : "00:30.780-00:35.320"
+  },
+  {
+    "text" : "Fais dodo, t'auras du lolo",
+    "timestamp" : "00:35.320-00:40.400"
+  },
+  {
+    "timestamp" : "00:40.400-00:45.500",
+    "text" : "Si tu fais dodo, maman viens bientôt"
+  },
+  {
+    "timestamp" : "00:45.500-00:51.220",
+    "text" : "Si tu ne dors pas, papa mon t'auras"
+  },
+  {
+    "text" : "Fais dodo, cola mon petit frère",
+    "timestamp" : "00:51.220-00:56.440"
+  },
+  {
+    "timestamp" : "00:56.440-01:00.920",
+    "text" : "Fais dodo, t'auras du lolo"
+  },
+  {
+    "text" : "Musique",
+    "timestamp" : "01:00.920-01:03.220"
+  },
+  {
+    "text" : "Musique",
+    "timestamp" : "01:03.220-01:15.220"
+  },
+  {
+    "timestamp" : "01:15.220-01:15.220",
+    "text" : "Musique"
+  },
+  {
+    "timestamp" : "01:15.220-01:17.220",
+    "text" : "Musique"
+  },
+  {
+    "timestamp" : "01:17.220-01:47.200",
+    "text" : "Sous-titrage Société Radio-Canada"
+  }
+]

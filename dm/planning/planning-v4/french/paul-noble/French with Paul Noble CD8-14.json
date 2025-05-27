@@ -1,0 +1,514 @@
+[
+  {
+    "text" : "So, what is to reserve in French?",
+    "timestamp" : "00:00.001-00:02.560"
+  },
+  {
+    "timestamp" : "00:02.560-00:03.420",
+    "text" : "To reserve."
+  },
+  {
+    "timestamp" : "00:03.420-00:05.520",
+    "text" : "Réserver."
+  },
+  {
+    "text" : "To camp.",
+    "timestamp" : "00:05.520-00:06.860"
+  },
+  {
+    "text" : "Camper.",
+    "timestamp" : "00:06.860-00:08.840"
+  },
+  {
+    "text" : "To stay.",
+    "timestamp" : "00:08.840-00:11.340"
+  },
+  {
+    "timestamp" : "00:11.340-00:12.900",
+    "text" : "Rester."
+  },
+  {
+    "text" : "To desire.",
+    "timestamp" : "00:12.900-00:14.340"
+  },
+  {
+    "timestamp" : "00:14.340-00:16.300",
+    "text" : "Désirer."
+  },
+  {
+    "timestamp" : "00:16.300-00:17.160",
+    "text" : "To pay."
+  },
+  {
+    "text" : "Payer.",
+    "timestamp" : "00:17.160-00:18.820"
+  },
+  {
+    "timestamp" : "00:18.820-00:19.780",
+    "text" : "To keep."
+  },
+  {
+    "text" : "Garder.",
+    "timestamp" : "00:19.780-00:21.480"
+  },
+  {
+    "text" : "To continue.",
+    "timestamp" : "00:21.480-00:22.560"
+  },
+  {
+    "timestamp" : "00:22.560-00:24.400",
+    "text" : "Continuer."
+  },
+  {
+    "text" : "To change.",
+    "timestamp" : "00:24.400-00:25.640"
+  },
+  {
+    "text" : "Changer.",
+    "timestamp" : "00:25.640-00:27.040"
+  },
+  {
+    "text" : "To repeat.",
+    "timestamp" : "00:27.040-00:28.180"
+  },
+  {
+    "timestamp" : "00:29.500-00:29.980",
+    "text" : "Répéter."
+  },
+  {
+    "text" : "To help.",
+    "timestamp" : "00:29.980-00:31.140"
+  },
+  {
+    "text" : "Aider.",
+    "timestamp" : "00:31.140-00:32.680"
+  },
+  {
+    "text" : "How would you say in French, can you help me?",
+    "timestamp" : "00:32.680-00:36.300"
+  },
+  {
+    "timestamp" : "00:36.300-00:39.300",
+    "text" : "Pouvez-vous m'aider?"
+  },
+  {
+    "timestamp" : "00:39.300-00:44.520",
+    "text" : "How do you think you'd say, to recommend in French?"
+  },
+  {
+    "text" : "Recommander.",
+    "timestamp" : "00:44.520-00:47.260"
+  },
+  {
+    "timestamp" : "00:47.260-00:50.340",
+    "text" : "Recommander."
+  },
+  {
+    "text" : "How would you say, can you recommend me?",
+    "timestamp" : "00:50.340-00:54.740"
+  },
+  {
+    "timestamp" : "00:54.740-00:59.160",
+    "text" : "Pouvez-vous me recommander?"
+  },
+  {
+    "timestamp" : "00:59.160-01:02.340",
+    "text" : "Can you recommend me a restaurant?"
+  },
+  {
+    "text" : "Pouvez-vous me recommander un restaurant?",
+    "timestamp" : "01:02.340-01:08.420"
+  },
+  {
+    "text" : "Can you recommend me a doctor?",
+    "timestamp" : "01:08.420-01:11.500"
+  },
+  {
+    "text" : "Pouvez-vous me recommander un docteur?",
+    "timestamp" : "01:11.500-01:17.820"
+  },
+  {
+    "text" : "To tell in French, to tell is, to tell is, dire, dire.",
+    "timestamp" : "01:20.220-01:25.520"
+  },
+  {
+    "text" : "How would you say, can you tell me?",
+    "timestamp" : "01:25.520-01:29.680"
+  },
+  {
+    "text" : "Pouvez-vous me dire?",
+    "timestamp" : "01:32.040-01:33.300"
+  },
+  {
+    "text" : "Pouvez-vous me dire?",
+    "timestamp" : "01:33.300-01:33.300"
+  },
+  {
+    "timestamp" : "01:33.300-01:36.820",
+    "text" : "Can you tell me why it's terrible?"
+  },
+  {
+    "text" : "Pouvez-vous me dire pourquoi c'est terrible?",
+    "timestamp" : "01:36.820-01:45.380"
+  },
+  {
+    "timestamp" : "01:45.380-01:50.120",
+    "text" : "Can you tell me why you think that it's terrible?"
+  },
+  {
+    "timestamp" : "01:57.340-02:00.340",
+    "text" : "Pouvez-vous me dire pourquoi vous pensez que c'est terrible?"
+  },
+  {
+    "text" : "Pouvez-vous me dire pourquoi vous pensez que c'est terrible?",
+    "timestamp" : "02:00.340-02:04.480"
+  },
+  {
+    "timestamp" : "02:04.480-02:09.480",
+    "text" : "Do you remember what the word for if is?"
+  },
+  {
+    "text" : "What is if?",
+    "timestamp" : "02:09.480-02:10.400"
+  },
+  {
+    "text" : "Si.",
+    "timestamp" : "02:10.400-02:11.720"
+  },
+  {
+    "text" : "Si.",
+    "timestamp" : "02:11.720-02:13.500"
+  },
+  {
+    "timestamp" : "02:13.500-02:22.180",
+    "text" : "How would you say, can you tell me if the doctor can come here?"
+  },
+  {
+    "timestamp" : "02:22.180-02:33.640",
+    "text" : "Pouvez-vous me dire si le docteur peut venir ici?"
+  },
+  {
+    "timestamp" : "02:33.640-02:38.580",
+    "text" : "Again, how would you say, he can?"
+  },
+  {
+    "text" : "Il peut.",
+    "timestamp" : "02:38.580-02:41.460"
+  },
+  {
+    "timestamp" : "02:41.460-02:45.060",
+    "text" : "How would you say, he can come here?"
+  },
+  {
+    "text" : "Il peut venir ici.",
+    "timestamp" : "02:48.300-02:49.760"
+  },
+  {
+    "text" : "How would you say, the doctor can come here?",
+    "timestamp" : "02:49.760-02:53.480"
+  },
+  {
+    "text" : "Le docteur peut venir ici.",
+    "timestamp" : "02:53.480-02:59.660"
+  },
+  {
+    "timestamp" : "02:59.660-03:04.380",
+    "text" : "Now, how would you say, can you tell me if the doctor can come here?"
+  },
+  {
+    "text" : "Pouvez-vous me dire si le docteur peut venir ici?",
+    "timestamp" : "03:04.380-03:12.980"
+  },
+  {
+    "text" : "What is to go in French?",
+    "timestamp" : "03:12.980-03:16.580"
+  },
+  {
+    "text" : "Aller.",
+    "timestamp" : "03:17.760-03:18.040"
+  },
+  {
+    "timestamp" : "03:18.040-03:21.940",
+    "text" : "How would you say, you go or you are going?"
+  },
+  {
+    "text" : "Vous allez.",
+    "timestamp" : "03:21.940-03:24.820"
+  },
+  {
+    "timestamp" : "03:24.820-03:27.720",
+    "text" : "We go or we are going."
+  },
+  {
+    "text" : "Nous allons.",
+    "timestamp" : "03:27.720-03:30.020"
+  },
+  {
+    "text" : "That's the A group of to go.",
+    "timestamp" : "03:30.020-03:33.420"
+  },
+  {
+    "timestamp" : "03:33.420-03:35.540",
+    "text" : "Let's go over to the V group."
+  },
+  {
+    "timestamp" : "03:35.540-03:38.640",
+    "text" : "How would you say, I go or I am going?"
+  },
+  {
+    "text" : "Je vais.",
+    "timestamp" : "03:38.640-03:40.320"
+  },
+  {
+    "text" : "He goes.",
+    "timestamp" : "03:40.320-03:41.600"
+  },
+  {
+    "text" : "Il va.",
+    "timestamp" : "03:41.600-03:43.480"
+  },
+  {
+    "timestamp" : "03:43.480-03:45.140",
+    "text" : "She goes."
+  },
+  {
+    "text" : "Elle va.",
+    "timestamp" : "03:46.940-03:47.400"
+  },
+  {
+    "text" : "You, informal, are going.",
+    "timestamp" : "03:47.400-03:49.900"
+  },
+  {
+    "text" : "Tu vas.",
+    "timestamp" : "03:49.900-03:51.920"
+  },
+  {
+    "text" : "They go or they are going.",
+    "timestamp" : "03:51.920-03:54.420"
+  },
+  {
+    "timestamp" : "03:54.420-03:56.520",
+    "text" : "Ils vont."
+  },
+  {
+    "timestamp" : "03:56.520-03:59.700",
+    "text" : "Finally, they, an entirely female group, are going."
+  },
+  {
+    "text" : "Elles vont.",
+    "timestamp" : "03:59.700-04:01.680"
+  },
+  {
+    "text" : "Let's go back to, he goes or he is going for a moment.",
+    "timestamp" : "04:01.680-04:06.860"
+  },
+  {
+    "timestamp" : "04:06.860-04:07.660",
+    "text" : "What was that?"
+  },
+  {
+    "text" : "Il va.",
+    "timestamp" : "04:07.660-04:10.740"
+  },
+  {
+    "text" : "How would you say, he's going to come?",
+    "timestamp" : "04:12.100-04:14.400"
+  },
+  {
+    "text" : "Il va venir.",
+    "timestamp" : "04:14.400-04:18.440"
+  },
+  {
+    "text" : "He's going to come later.",
+    "timestamp" : "04:18.440-04:20.580"
+  },
+  {
+    "text" : "Il va venir plus tard.",
+    "timestamp" : "04:20.580-04:25.200"
+  },
+  {
+    "text" : "One way to say, immediately in French, is simply to say as we do, to say tout suite, which in French is...",
+    "timestamp" : "04:26.560-04:34.040"
+  },
+  {
+    "timestamp" : "04:34.040-04:35.660",
+    "text" : "Tout suite."
+  },
+  {
+    "text" : "Tout suite.",
+    "timestamp" : "04:35.660-04:37.020"
+  },
+  {
+    "text" : "So how would you say, he's going to come immediately.",
+    "timestamp" : "04:37.020-04:42.500"
+  },
+  {
+    "timestamp" : "04:42.500-04:43.140",
+    "text" : "Tout suite."
+  },
+  {
+    "text" : "Il va venir tout suite.",
+    "timestamp" : "04:43.140-04:48.440"
+  },
+  {
+    "text" : "So let's ask a question and give an answer.",
+    "timestamp" : "04:49.440-04:51.480"
+  },
+  {
+    "text" : "How would you say, can you tell me if the doctor can come here?",
+    "timestamp" : "04:51.480-04:55.200"
+  },
+  {
+    "text" : "Pouvez-vous me dire si le docteur peut venir ici?",
+    "timestamp" : "04:55.200-05:04.840"
+  },
+  {
+    "text" : "The person tells you, he's going to come straight away.",
+    "timestamp" : "05:04.840-05:08.980"
+  },
+  {
+    "text" : "Il va venir tout de suite.",
+    "timestamp" : "05:11.680-05:13.280"
+  },
+  {
+    "timestamp" : "05:13.280-05:22.060",
+    "text" : "The shared linguistic heritage between English and French can come in very handy when describing medical conditions."
+  },
+  {
+    "timestamp" : "05:22.060-05:30.020",
+    "text" : "For instance, those words that end in ick and ickle in English are also present in French."
+  },
+  {
+    "text" : "However, rather than ending in ic or ical, in French they end in ick.",
+    "timestamp" : "05:30.020-05:37.100"
+  },
+  {
+    "timestamp" : "05:38.280-05:42.120",
+    "text" : "So for instance, typical in French would be..."
+  },
+  {
+    "timestamp" : "05:42.120-05:43.780",
+    "text" : "Typique."
+  },
+  {
+    "text" : "Exotic in French would be...",
+    "timestamp" : "05:43.780-05:46.120"
+  },
+  {
+    "text" : "Exotique.",
+    "timestamp" : "05:46.120-05:47.880"
+  },
+  {
+    "text" : "How would you say, are you exotic?",
+    "timestamp" : "05:47.880-05:51.240"
+  },
+  {
+    "timestamp" : "05:51.240-05:55.660",
+    "text" : "Êtes-vous exotique?"
+  },
+  {
+    "timestamp" : "05:55.660-05:58.400",
+    "text" : "How about, are you diabetic?"
+  },
+  {
+    "text" : "Êtes-vous diabétique?",
+    "timestamp" : "05:58.400-06:02.300"
+  },
+  {
+    "timestamp" : "06:03.020-06:07.700",
+    "text" : "Again, notice how the French pronounce the I more as an E sound."
+  },
+  {
+    "text" : "So again, how would you say, are you diabetic?",
+    "timestamp" : "06:07.700-06:10.640"
+  },
+  {
+    "text" : "Êtes-vous diabétique?",
+    "timestamp" : "06:10.640-06:14.540"
+  },
+  {
+    "timestamp" : "06:14.540-06:17.420",
+    "text" : "Are you asthmatic?"
+  },
+  {
+    "timestamp" : "06:17.420-06:21.260",
+    "text" : "Êtes-vous asthmatique?"
+  },
+  {
+    "text" : "To say you have a heart condition in French, or to ask, do you have a heart condition,",
+    "timestamp" : "06:21.260-06:27.900"
+  },
+  {
+    "text" : "you'll actually ask more or less, are you cardiac?",
+    "timestamp" : "06:28.360-06:31.940"
+  },
+  {
+    "text" : "I mean, we have the word cardiac in English, as in cardiac arrest,",
+    "timestamp" : "06:31.940-06:36.240"
+  },
+  {
+    "text" : "so to ask them if they have a problem with their heart, or are they having any problem with their heart,",
+    "timestamp" : "06:36.240-06:39.900"
+  },
+  {
+    "text" : "you can simply say, are you cardiac?",
+    "timestamp" : "06:39.900-06:41.360"
+  },
+  {
+    "timestamp" : "06:41.360-06:42.340",
+    "text" : "How would you say that?"
+  },
+  {
+    "text" : "Êtes-vous cardiac?",
+    "timestamp" : "06:42.340-06:46.780"
+  },
+  {
+    "text" : "And these are just some examples of the many ways we can use the shared linguistic heritage",
+    "timestamp" : "06:47.880-06:52.200"
+  },
+  {
+    "text" : "to our advantage, particularly in a medical situation.",
+    "timestamp" : "06:52.200-06:55.120"
+  },
+  {
+    "text" : "If someone says to you that yes, they are, you can say,",
+    "timestamp" : "06:55.120-07:00.080"
+  },
+  {
+    "timestamp" : "07:00.080-07:01.560",
+    "text" : "oh, that's serious."
+  },
+  {
+    "text" : "To say serious in French, in that sense, one of the best ways is to say,",
+    "timestamp" : "07:01.560-07:07.120"
+  },
+  {
+    "text" : "oh, that's grave.",
+    "timestamp" : "07:07.120-07:08.800"
+  },
+  {
+    "text" : "How do you think you'd pronounce it's or that's grave in French?",
+    "timestamp" : "07:08.800-07:12.800"
+  },
+  {
+    "text" : "C'est grave.",
+    "timestamp" : "07:14.880-07:15.640"
+  },
+  {
+    "timestamp" : "07:15.640-07:17.620",
+    "text" : "C'est grave."
+  },
+  {
+    "timestamp" : "07:17.620-07:17.800",
+    "text" : "C'est grave."
+  },
+  {
+    "timestamp" : "07:17.800-07:18.800",
+    "text" : "C'est grave."
+  },
+  {
+    "text" : "Thank you.",
+    "timestamp" : "07:18.800-07:48.780"
+  }
+]

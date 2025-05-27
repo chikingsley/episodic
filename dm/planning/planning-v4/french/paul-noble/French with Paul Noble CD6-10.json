@@ -1,0 +1,266 @@
+[
+  {
+    "text" : "So, what is to reserve in French?",
+    "timestamp" : "00:00.001-00:02.740"
+  },
+  {
+    "text" : "Réserver",
+    "timestamp" : "00:02.740-00:04.420"
+  },
+  {
+    "timestamp" : "00:04.420-00:05.900",
+    "text" : "To camp"
+  },
+  {
+    "text" : "Camper",
+    "timestamp" : "00:05.900-00:08.100"
+  },
+  {
+    "text" : "To stay",
+    "timestamp" : "00:08.100-00:09.820"
+  },
+  {
+    "text" : "Rester",
+    "timestamp" : "00:09.820-00:12.880"
+  },
+  {
+    "text" : "To desire",
+    "timestamp" : "00:12.880-00:15.900"
+  },
+  {
+    "timestamp" : "00:15.900-00:18.020",
+    "text" : "Désirer"
+  },
+  {
+    "timestamp" : "00:18.020-00:19.500",
+    "text" : "To pay"
+  },
+  {
+    "timestamp" : "00:19.500-00:21.420",
+    "text" : "Payer"
+  },
+  {
+    "timestamp" : "00:21.420-00:22.960",
+    "text" : "To keep"
+  },
+  {
+    "text" : "Garder",
+    "timestamp" : "00:22.960-00:26.060"
+  },
+  {
+    "timestamp" : "00:26.060-00:28.560",
+    "text" : "To continue"
+  },
+  {
+    "timestamp" : "00:28.560-00:30.800",
+    "text" : "Continuer"
+  },
+  {
+    "timestamp" : "00:30.800-00:32.460",
+    "text" : "To change"
+  },
+  {
+    "text" : "Changer",
+    "timestamp" : "00:32.460-00:34.620"
+  },
+  {
+    "text" : "And following this logic, what would be to repeat?",
+    "timestamp" : "00:34.620-00:38.240"
+  },
+  {
+    "timestamp" : "00:38.240-00:40.400",
+    "text" : "Répéter"
+  },
+  {
+    "timestamp" : "00:40.400-00:47.340",
+    "text" : "Again, you may have said répéter, which is an understandable thing to have said,"
+  },
+  {
+    "text" : "but as I mentioned earlier, sometimes these words alter slightly from the English,",
+    "timestamp" : "00:47.340-00:52.160"
+  },
+  {
+    "timestamp" : "00:52.160-00:55.100",
+    "text" : "so instead of répéter, we will have répéter."
+  },
+  {
+    "timestamp" : "00:55.100-00:58.460",
+    "text" : "But it still helps with remembering."
+  },
+  {
+    "text" : "How would you say,",
+    "timestamp" : "00:58.460-01:03.060"
+  },
+  {
+    "text" : "You can repeat?",
+    "timestamp" : "01:03.060-01:06.600"
+  },
+  {
+    "timestamp" : "01:06.600-01:10.340",
+    "text" : "Vous pouvez répéter?"
+  },
+  {
+    "text" : "How would you turn that round and say,",
+    "timestamp" : "01:10.340-01:13.280"
+  },
+  {
+    "timestamp" : "01:13.280-01:14.300",
+    "text" : "Can you repeat?"
+  },
+  {
+    "timestamp" : "01:14.300-01:17.540",
+    "text" : "Pouvez-vous répéter?"
+  },
+  {
+    "text" : "Or you can also say,",
+    "timestamp" : "01:17.540-01:19.580"
+  },
+  {
+    "text" : "It's using a rising intonation.",
+    "timestamp" : "01:19.580-01:21.300"
+  },
+  {
+    "timestamp" : "01:21.300-01:24.120",
+    "text" : "Vous pouvez répéter?"
+  },
+  {
+    "text" : "Or using,",
+    "timestamp" : "01:24.520-01:25.240"
+  },
+  {
+    "text" : "Is it that on the front?",
+    "timestamp" : "01:25.240-01:26.260"
+  },
+  {
+    "timestamp" : "01:26.260-01:30.020",
+    "text" : "Est-ce que vous pouvez répéter?"
+  },
+  {
+    "timestamp" : "01:30.020-01:34.700",
+    "text" : "You can say this if you haven't understood what it is someone else has said."
+  },
+  {
+    "text" : "So, again,",
+    "timestamp" : "01:36.360-01:37.720"
+  },
+  {
+    "timestamp" : "01:37.720-01:37.740",
+    "text" : "So, again,"
+  },
+  {
+    "timestamp" : "01:37.740-01:37.800",
+    "text" : "Again,"
+  },
+  {
+    "timestamp" : "01:37.800-01:40.880",
+    "text" : "I'd like you to say,"
+  },
+  {
+    "timestamp" : "01:40.880-01:42.900",
+    "text" : "I don't understand."
+  },
+  {
+    "text" : "Can you repeat?",
+    "timestamp" : "01:42.900-01:44.280"
+  },
+  {
+    "text" : "Je ne comprends pas.",
+    "timestamp" : "01:44.280-01:49.480"
+  },
+  {
+    "timestamp" : "01:49.480-01:50.520",
+    "text" : "Pouvez-vous répéter?"
+  },
+  {
+    "timestamp" : "01:50.520-01:54.220",
+    "text" : "Reply and say,"
+  },
+  {
+    "text" : "I'm sorry,",
+    "timestamp" : "01:54.960-01:56.100"
+  },
+  {
+    "timestamp" : "01:56.100-01:57.560",
+    "text" : "But I can't repeat."
+  },
+  {
+    "timestamp" : "01:57.560-02:04.800",
+    "text" : "Je regrette,"
+  },
+  {
+    "text" : "Mais je ne peux pas répéter.",
+    "timestamp" : "02:04.800-02:06.200"
+  },
+  {
+    "text" : "How would you say,",
+    "timestamp" : "02:06.200-02:10.300"
+  },
+  {
+    "text" : "You can repeat,",
+    "timestamp" : "02:10.300-02:12.100"
+  },
+  {
+    "text" : "Using the informal form of address?",
+    "timestamp" : "02:12.100-02:15.180"
+  },
+  {
+    "text" : "Tu peux répéter.",
+    "timestamp" : "02:17.960-02:19.400"
+  },
+  {
+    "timestamp" : "02:19.400-02:20.740",
+    "text" : "He can repeat."
+  },
+  {
+    "timestamp" : "02:20.740-02:23.740",
+    "text" : "Il peut répéter."
+  },
+  {
+    "timestamp" : "02:23.740-02:24.760",
+    "text" : "She can repeat."
+  },
+  {
+    "timestamp" : "02:24.760-02:27.960",
+    "text" : "Elle peut répéter."
+  },
+  {
+    "timestamp" : "02:27.960-02:29.180",
+    "text" : "We can repeat."
+  },
+  {
+    "text" : "Nous pouvons répéter.",
+    "timestamp" : "02:29.180-02:31.920"
+  },
+  {
+    "timestamp" : "02:31.920-02:33.160",
+    "text" : "They can repeat."
+  },
+  {
+    "timestamp" : "02:33.160-02:37.540",
+    "text" : "Ils peuvent répéter."
+  },
+  {
+    "timestamp" : "02:37.540-02:38.980",
+    "text" : "Finally,"
+  },
+  {
+    "text" : "They can repeat",
+    "timestamp" : "02:38.980-02:40.200"
+  },
+  {
+    "text" : "A group of all women.",
+    "timestamp" : "02:40.200-02:41.300"
+  },
+  {
+    "text" : "Elles peuvent répéter.",
+    "timestamp" : "02:41.300-02:44.660"
+  },
+  {
+    "text" : "Thank you.",
+    "timestamp" : "02:44.660-02:45.360"
+  },
+  {
+    "timestamp" : "02:45.360-03:15.340",
+    "text" : "Thank you."
+  }
+]

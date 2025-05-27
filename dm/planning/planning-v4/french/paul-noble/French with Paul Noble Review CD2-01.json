@@ -1,0 +1,234 @@
+[
+  {
+    "text" : "Typical",
+    "timestamp" : "00:00.001-00:15.000"
+  },
+  {
+    "text" : "Typique",
+    "timestamp" : "00:15.000-00:17.440"
+  },
+  {
+    "text" : "Exotic",
+    "timestamp" : "00:17.440-00:19.080"
+  },
+  {
+    "text" : "Exotic",
+    "timestamp" : "00:19.080-00:21.580"
+  },
+  {
+    "text" : "Political",
+    "timestamp" : "00:21.580-00:23.000"
+  },
+  {
+    "text" : "Politique",
+    "timestamp" : "00:23.000-00:25.840"
+  },
+  {
+    "text" : "It is typical",
+    "timestamp" : "00:25.840-00:27.940"
+  },
+  {
+    "text" : "C'est typique",
+    "timestamp" : "00:27.940-00:31.240"
+  },
+  {
+    "text" : "It's exotic",
+    "timestamp" : "00:31.240-00:33.040"
+  },
+  {
+    "text" : "C'est exotique",
+    "timestamp" : "00:33.040-00:36.100"
+  },
+  {
+    "timestamp" : "00:36.100-00:37.660",
+    "text" : "It's political"
+  },
+  {
+    "text" : "C'est politique",
+    "timestamp" : "00:37.660-00:40.620"
+  },
+  {
+    "timestamp" : "00:40.620-00:42.400",
+    "text" : "It's romantic"
+  },
+  {
+    "timestamp" : "00:42.400-00:45.860",
+    "text" : "C'est romantique"
+  },
+  {
+    "text" : "It's democratic",
+    "timestamp" : "00:45.860-00:47.480"
+  },
+  {
+    "timestamp" : "00:47.480-00:51.160",
+    "text" : "C'est démocratique"
+  },
+  {
+    "text" : "It's problematic",
+    "timestamp" : "00:51.160-00:53.240"
+  },
+  {
+    "timestamp" : "00:53.240-00:57.580",
+    "text" : "C'est problématique"
+  },
+  {
+    "text" : "Because",
+    "timestamp" : "00:57.580-01:01.040"
+  },
+  {
+    "timestamp" : "01:01.040-01:03.820",
+    "text" : "Parce que"
+  },
+  {
+    "timestamp" : "01:03.820-01:08.880",
+    "text" : "I would like to reserve a table for dinner because it's romantic"
+  },
+  {
+    "text" : "C'est romantic",
+    "timestamp" : "01:08.880-01:13.020"
+  },
+  {
+    "timestamp" : "01:13.020-01:20.060",
+    "text" : "Je voudrais réserver une table pour le dîner parce que c'est romantique"
+  },
+  {
+    "timestamp" : "01:20.060-01:23.240",
+    "text" : "Do you want"
+  },
+  {
+    "timestamp" : "01:23.240-01:26.780",
+    "text" : "Voulez-vous"
+  },
+  {
+    "text" : "Do you want to reserve a table",
+    "timestamp" : "01:26.780-01:29.780"
+  },
+  {
+    "text" : "Voulez-vous réserver une table",
+    "timestamp" : "01:29.780-01:35.060"
+  },
+  {
+    "text" : "To visit",
+    "timestamp" : "01:35.060-01:36.860"
+  },
+  {
+    "text" : "Visiter",
+    "timestamp" : "01:36.860-01:40.100"
+  },
+  {
+    "text" : "I would like to visit the park",
+    "timestamp" : "01:40.100-01:42.780"
+  },
+  {
+    "timestamp" : "01:42.780-01:48.420",
+    "text" : "Je voudrais visiter le parc"
+  },
+  {
+    "timestamp" : "01:48.420-01:50.720",
+    "text" : "I would like to visit the Louvre"
+  },
+  {
+    "text" : "Je voudrais visiter le Louvre",
+    "timestamp" : "01:50.720-01:55.640"
+  },
+  {
+    "text" : "Do you want to visit the Louvre",
+    "timestamp" : "01:55.640-01:57.620"
+  },
+  {
+    "text" : "To know",
+    "timestamp" : "01:57.620-02:04.160"
+  },
+  {
+    "timestamp" : "02:04.160-02:07.040",
+    "text" : "Savoir"
+  },
+  {
+    "text" : "I would like to know",
+    "timestamp" : "02:07.040-02:08.840"
+  },
+  {
+    "timestamp" : "02:08.840-02:12.180",
+    "text" : "Je voudrais savoir"
+  },
+  {
+    "timestamp" : "02:12.180-02:13.240",
+    "text" : "If"
+  },
+  {
+    "text" : "Si",
+    "timestamp" : "02:13.240-02:15.300"
+  },
+  {
+    "text" : "I would like to know",
+    "timestamp" : "02:15.300-02:17.340"
+  },
+  {
+    "timestamp" : "02:17.340-02:18.480",
+    "text" : "If it's romantic"
+  },
+  {
+    "timestamp" : "02:18.480-02:23.760",
+    "text" : "Je voudrais savoir"
+  },
+  {
+    "timestamp" : "02:23.760-02:24.840",
+    "text" : "Si c'est romantique"
+  },
+  {
+    "text" : "But",
+    "timestamp" : "02:24.840-02:26.200"
+  },
+  {
+    "text" : "Mais",
+    "timestamp" : "02:26.200-02:28.280"
+  },
+  {
+    "text" : "Je voudrais une chambre",
+    "timestamp" : "02:28.280-02:45.780"
+  },
+  {
+    "timestamp" : "02:45.780-02:46.740",
+    "text" : "Pour deux personnes"
+  },
+  {
+    "text" : "Pour deux nuits",
+    "timestamp" : "02:46.740-02:47.440"
+  },
+  {
+    "text" : "Mais je voudrais savoir",
+    "timestamp" : "02:47.440-02:48.440"
+  },
+  {
+    "text" : "Si c'est romantique",
+    "timestamp" : "02:48.440-02:50.260"
+  },
+  {
+    "text" : "Je voudrais voir un peu de la chambre",
+    "timestamp" : "02:50.260-02:51.800"
+  },
+  {
+    "text" : "Je voudrais voir un peu de la chambre",
+    "timestamp" : "02:51.800-02:52.800"
+  },
+  {
+    "text" : "Je voudrais voir un peu de la chambre",
+    "timestamp" : "02:52.800-02:53.800"
+  },
+  {
+    "text" : "Je voudrais voir un peu de la chambre",
+    "timestamp" : "02:53.800-02:54.800"
+  },
+  {
+    "timestamp" : "02:54.800-02:55.800",
+    "text" : "Je voudrais voir un peu de la chambre"
+  },
+  {
+    "timestamp" : "02:55.800-02:56.800",
+    "text" : "Je voudrais voir un peu de la chambre"
+  },
+  {
+    "timestamp" : "02:56.800-02:57.800",
+    "text" : "Je voudrais voir un peu de la chambre"
+  }
+]

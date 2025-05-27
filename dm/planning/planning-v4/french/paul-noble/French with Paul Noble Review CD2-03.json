@@ -1,0 +1,110 @@
+[
+  {
+    "text" : "Je voudrais savoir pourquoi vous n'avez pas réservé une chambre.",
+    "timestamp" : "00:00.001-00:14.080"
+  },
+  {
+    "timestamp" : "00:14.080-00:29.980",
+    "text" : "Je voudrais savoir pourquoi vous n'avez pas préparé le dîner. J'ai faim."
+  },
+  {
+    "text" : "J'ai préparé le dîner et je voudrais savoir pourquoi vous n'avez pas préparé le café.",
+    "timestamp" : "00:29.980-00:52.280"
+  },
+  {
+    "text" : "Je n'ai pas.",
+    "timestamp" : "00:52.280-00:58.280"
+  },
+  {
+    "text" : "Je n'ai pas visité le Louvre.",
+    "timestamp" : "00:58.880-01:05.920"
+  },
+  {
+    "timestamp" : "01:05.920-01:15.920",
+    "text" : "Je n'ai pas invité Paul au cinéma."
+  },
+  {
+    "text" : "Je n'ai pas réservé une table pour le dîner.",
+    "timestamp" : "01:15.920-01:25.240"
+  },
+  {
+    "text" : "Je n'ai pas décoré la maison.",
+    "timestamp" : "01:25.880-01:33.080"
+  },
+  {
+    "text" : "Je regrette mais...",
+    "timestamp" : "01:34.040-01:41.080"
+  },
+  {
+    "timestamp" : "01:41.080-01:43.080",
+    "text" : "Je regrette mais..."
+  },
+  {
+    "timestamp" : "01:43.080-01:52.120",
+    "text" : "Je n'ai pas réservé une table pour le dîner."
+  },
+  {
+    "timestamp" : "01:52.120-01:54.120",
+    "text" : "Je regrette mais..."
+  },
+  {
+    "timestamp" : "01:54.120-01:55.160",
+    "text" : "une table pour le dîner."
+  },
+  {
+    "text" : "Je n'ai pas invité Paul au musée.",
+    "timestamp" : "01:55.160-02:07.160"
+  },
+  {
+    "text" : "Je n'ai pas invité Paul au musée.",
+    "timestamp" : "02:07.160-02:08.200"
+  },
+  {
+    "timestamp" : "02:08.200-02:20.200",
+    "text" : "Je regrette mais je n'ai pas préparé le café."
+  },
+  {
+    "timestamp" : "02:20.200-02:20.200",
+    "text" : "Je n'ai pas préparé le café."
+  },
+  {
+    "text" : "Je n'ai pas préparé le café pour vous.",
+    "timestamp" : "02:20.200-02:33.240"
+  },
+  {
+    "text" : "pour moi.",
+    "timestamp" : "02:33.240-02:34.280"
+  },
+  {
+    "timestamp" : "02:34.280-02:46.280",
+    "text" : "Je n'ai pas préparé le café pour vous."
+  },
+  {
+    "text" : "Je n'ai pas préparé le café pour vous.",
+    "timestamp" : "02:46.280-02:47.920"
+  },
+  {
+    "text" : "pour moi.",
+    "timestamp" : "02:47.920-02:48.960"
+  },
+  {
+    "timestamp" : "02:48.960-02:50.960",
+    "text" : "Je n'ai pas préparé le café pour vous."
+  },
+  {
+    "text" : "Je n'ai pas préparé le café pour vous.",
+    "timestamp" : "02:50.960-02:52.960"
+  },
+  {
+    "timestamp" : "02:52.960-02:54.960",
+    "text" : "Je n'ai pas préparé le café pour vous."
+  },
+  {
+    "text" : "Je n'ai pas préparé le café pour vous.",
+    "timestamp" : "02:54.960-02:56.960"
+  },
+  {
+    "text" : "Je n'ai pas préparé le café pour vous.",
+    "timestamp" : "02:56.960-02:58.960"
+  }
+]

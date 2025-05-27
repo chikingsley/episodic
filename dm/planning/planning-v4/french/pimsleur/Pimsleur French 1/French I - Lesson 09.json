@@ -1,0 +1,1590 @@
+[
+  {
+    "text" : "This is Unit 9 of Pimsleur's Speak and Read Essential French 1.",
+    "timestamp" : "00:00.380-00:04.080"
+  },
+  {
+    "timestamp" : "00:04.080-00:08.980",
+    "text" : "Listen to this conversation between a young woman, Marie, and a young man, Michel."
+  },
+  {
+    "text" : "In it, you'll hear him use the expression,",
+    "timestamp" : "00:08.980-00:12.000"
+  },
+  {
+    "timestamp" : "00:12.000-00:14.740",
+    "text" : "Dites-moi, which means, tell me."
+  },
+  {
+    "text" : "Dites-moi.",
+    "timestamp" : "00:14.740-00:16.200"
+  },
+  {
+    "timestamp" : "00:16.200-00:20.000",
+    "text" : "Bonjour Marie, comment allez-vous?"
+  },
+  {
+    "timestamp" : "00:20.000-00:21.620",
+    "text" : "Bien, Michel, merci."
+  },
+  {
+    "timestamp" : "00:21.620-00:26.060",
+    "text" : "Dites-moi Marie, qu'est-ce que vous voulez faire maintenant?"
+  },
+  {
+    "text" : "Moi? Oh, je ne sais pas. Et vous?",
+    "timestamp" : "00:26.060-00:29.380"
+  },
+  {
+    "timestamp" : "00:30.300-00:34.940",
+    "text" : "Moi, je voudrais déjeuner maintenant. Est-ce que vous voudriez déjeuner avec moi?"
+  },
+  {
+    "text" : "Oui, mais je voudrais déjeuner au restaurant Chez Jacques, d'accord?",
+    "timestamp" : "00:34.940-00:39.400"
+  },
+  {
+    "text" : "Où est le restaurant Chez Jacques?",
+    "timestamp" : "00:39.400-00:42.560"
+  },
+  {
+    "timestamp" : "00:42.560-00:45.380",
+    "text" : "C'est là-bas, boulevard Saint-Michel."
+  },
+  {
+    "timestamp" : "00:45.380-00:47.120",
+    "text" : "Ah oui, je sais."
+  },
+  {
+    "timestamp" : "00:47.120-00:50.560",
+    "text" : "Et je voudrais aussi boire du vin, d'accord?"
+  },
+  {
+    "timestamp" : "00:50.560-00:53.020",
+    "text" : "Oui, d'accord. Listen again."
+  },
+  {
+    "timestamp" : "00:53.020-00:56.480",
+    "text" : "Bonjour Marie, comment allez-vous?"
+  },
+  {
+    "text" : "Bien, Michel, merci.",
+    "timestamp" : "00:56.480-00:58.380"
+  },
+  {
+    "timestamp" : "00:58.380-01:02.920",
+    "text" : "Dites-moi Marie, qu'est-ce que vous voulez faire maintenant?"
+  },
+  {
+    "text" : "Moi? Oh, je ne sais pas. Et vous?",
+    "timestamp" : "01:02.920-01:06.580"
+  },
+  {
+    "text" : "Moi, je voudrais déjeuner maintenant.",
+    "timestamp" : "01:06.580-01:09.160"
+  },
+  {
+    "text" : "Est-ce que vous voudriez déjeuner avec moi?",
+    "timestamp" : "01:09.160-01:12.160"
+  },
+  {
+    "text" : "Oui, mais je voudrais déjeuner au restaurant Chez Jacques, d'accord?",
+    "timestamp" : "01:12.160-01:16.400"
+  },
+  {
+    "timestamp" : "01:16.400-01:19.100",
+    "text" : "Où est le restaurant Chez Jacques?"
+  },
+  {
+    "timestamp" : "01:19.100-01:21.520",
+    "text" : "C'est là-bas, boulevard Saint-Michel."
+  },
+  {
+    "text" : "Ah oui, je sais.",
+    "timestamp" : "01:21.520-01:23.100"
+  },
+  {
+    "timestamp" : "01:23.300-01:25.900",
+    "text" : "Et je voudrais aussi boire du vin, d'accord?"
+  },
+  {
+    "text" : "Oui, d'accord.",
+    "timestamp" : "01:25.900-01:27.440"
+  },
+  {
+    "text" : "Now, ask me how I am.",
+    "timestamp" : "01:27.440-01:30.300"
+  },
+  {
+    "text" : "Comment allez-vous?",
+    "timestamp" : "01:30.300-01:33.800"
+  },
+  {
+    "text" : "Ask me if I understand French.",
+    "timestamp" : "01:33.800-01:38.040"
+  },
+  {
+    "timestamp" : "01:42.860-01:44.520",
+    "text" : "Est-ce que vous comprenez le français?"
+  },
+  {
+    "timestamp" : "01:44.520-01:52.260",
+    "text" : "Ask me where Saint-Jacques Street is."
+  },
+  {
+    "text" : "Où est la rue Saint-Jacques?",
+    "timestamp" : "01:52.260-01:57.040"
+  },
+  {
+    "text" : "Do you know where Saint-Jacques Street is?",
+    "timestamp" : "02:00.040-02:02.780"
+  },
+  {
+    "text" : "Est-ce que vous savez où est la rue Saint-Jacques?",
+    "timestamp" : "02:02.780-02:09.640"
+  },
+  {
+    "text" : "Savez-vous où est la rue Saint-Jacques?",
+    "timestamp" : "02:09.640-02:15.960"
+  },
+  {
+    "text" : "Excuse me.",
+    "timestamp" : "02:20.300-02:21.100"
+  },
+  {
+    "text" : "Pardon?",
+    "timestamp" : "02:21.100-02:23.640"
+  },
+  {
+    "text" : "Say, tell me.",
+    "timestamp" : "02:23.640-02:27.140"
+  },
+  {
+    "text" : "Dites-moi.",
+    "timestamp" : "02:27.140-02:30.880"
+  },
+  {
+    "text" : "Where is the restaurant Chez Jacques?",
+    "timestamp" : "02:30.880-02:35.660"
+  },
+  {
+    "text" : "Où est le restaurant Chez Jacques?",
+    "timestamp" : "02:35.660-02:41.420"
+  },
+  {
+    "text" : "Tell me that you'd like to eat lunch now.",
+    "timestamp" : "02:41.420-02:47.080"
+  },
+  {
+    "text" : "Ask me if I would like to eat lunch too.",
+    "timestamp" : "02:47.080-03:04.880"
+  },
+  {
+    "text" : "Est-ce que vous voudriez aussi déjeuner?",
+    "timestamp" : "03:09.360-03:11.100"
+  },
+  {
+    "text" : "Est-ce que vous voudriez aussi déjeuner?",
+    "timestamp" : "03:11.100-03:17.180"
+  },
+  {
+    "text" : "Say, no, not me.",
+    "timestamp" : "03:17.180-03:22.700"
+  },
+  {
+    "text" : "Non, pas moi.",
+    "timestamp" : "03:22.700-03:26.540"
+  },
+  {
+    "text" : "Non, pas moi.",
+    "timestamp" : "03:26.540-03:30.180"
+  },
+  {
+    "timestamp" : "03:30.180-03:34.680",
+    "text" : "Say, I'd like to buy something."
+  },
+  {
+    "text" : "Je voudrais acheter quelque chose.",
+    "timestamp" : "03:34.680-03:41.080"
+  },
+  {
+    "timestamp" : "03:41.080-03:52.480",
+    "text" : "Ask her when."
+  },
+  {
+    "text" : "Quand.",
+    "timestamp" : "03:52.480-03:55.520"
+  },
+  {
+    "timestamp" : "03:55.520-03:59.500",
+    "text" : "Ask her what she would like to buy."
+  },
+  {
+    "timestamp" : "04:03.800-04:05.480",
+    "text" : "Qu'est-ce que vous voudriez acheter?"
+  },
+  {
+    "text" : "Qu'est-ce que vous voudriez acheter?",
+    "timestamp" : "04:05.480-04:05.480"
+  },
+  {
+    "text" : "Ask her with whom.",
+    "timestamp" : "04:05.480-04:16.660"
+  },
+  {
+    "timestamp" : "04:16.660-04:20.420",
+    "text" : "Avec qui?"
+  },
+  {
+    "text" : "Avec qui?",
+    "timestamp" : "04:20.420-04:24.020"
+  },
+  {
+    "timestamp" : "04:24.020-04:29.520",
+    "text" : "How does she say, I would like to buy some wine?"
+  },
+  {
+    "text" : "Je voudrais acheter du vin.",
+    "timestamp" : "04:32.920-04:34.640"
+  },
+  {
+    "timestamp" : "04:34.640-04:39.580",
+    "text" : "Je voudrais acheter du vin."
+  },
+  {
+    "text" : "Say, or some beer.",
+    "timestamp" : "04:39.580-04:43.980"
+  },
+  {
+    "timestamp" : "04:43.980-04:47.940",
+    "text" : "Ou de la bière."
+  },
+  {
+    "text" : "Ou de la bière.",
+    "timestamp" : "04:47.940-04:51.700"
+  },
+  {
+    "text" : "Say, I'd like to drink something with you.",
+    "timestamp" : "04:51.700-04:56.460"
+  },
+  {
+    "text" : "Je voudrais boire quelque chose avec vous.",
+    "timestamp" : "05:01.080-05:03.000"
+  },
+  {
+    "text" : "Je voudrais boire quelque chose avec vous.",
+    "timestamp" : "05:03.000-05:09.620"
+  },
+  {
+    "text" : "Say, but not here.",
+    "timestamp" : "05:09.620-05:15.620"
+  },
+  {
+    "text" : "Mais pas ici.",
+    "timestamp" : "05:15.620-05:19.880"
+  },
+  {
+    "timestamp" : "05:19.880-05:23.900",
+    "text" : "Mais pas ici."
+  },
+  {
+    "text" : "Say, and not down there.",
+    "timestamp" : "05:26.760-05:28.440"
+  },
+  {
+    "text" : "At the hotel.",
+    "timestamp" : "05:28.440-05:29.380"
+  },
+  {
+    "text" : "Et pas là-bas.",
+    "timestamp" : "05:29.380-05:34.280"
+  },
+  {
+    "text" : "À l'hôtel.",
+    "timestamp" : "05:34.280-05:35.240"
+  },
+  {
+    "timestamp" : "05:35.240-05:43.960",
+    "text" : "Et pas là-bas."
+  },
+  {
+    "text" : "Et pas là-bas.",
+    "timestamp" : "05:43.960-05:43.960"
+  },
+  {
+    "timestamp" : "05:43.960-05:44.960",
+    "text" : "À l'hôtel."
+  },
+  {
+    "timestamp" : "05:44.960-05:47.040",
+    "text" : "Say, no, not at the hotel."
+  },
+  {
+    "timestamp" : "05:51.040-05:52.660",
+    "text" : "Non, pas à l'hôtel."
+  },
+  {
+    "text" : "Ask her what she wants to do.",
+    "timestamp" : "05:52.660-06:03.160"
+  },
+  {
+    "text" : "Qu'est-ce que vous voulez faire?",
+    "timestamp" : "06:03.160-06:08.160"
+  },
+  {
+    "text" : "Qu'est-ce que vous voulez faire?",
+    "timestamp" : "06:11.760-06:13.080"
+  },
+  {
+    "timestamp" : "06:13.080-06:19.480",
+    "text" : "How does she say, I'd like to drink something at your place?"
+  },
+  {
+    "timestamp" : "06:24.240-06:26.160",
+    "text" : "Je voudrais boire quelque chose chez vous."
+  },
+  {
+    "text" : "Ask, okay?",
+    "timestamp" : "06:26.160-06:37.800"
+  },
+  {
+    "text" : "D'accord?",
+    "timestamp" : "06:37.800-06:41.320"
+  },
+  {
+    "text" : "D'accord?",
+    "timestamp" : "06:41.320-06:44.520"
+  },
+  {
+    "timestamp" : "06:46.920-06:49.660",
+    "text" : "Say, okay, but I'd like to have lunch too."
+  },
+  {
+    "timestamp" : "06:49.660-06:58.200",
+    "text" : "D'accord, mais je voudrais aussi déjeuner."
+  },
+  {
+    "timestamp" : "06:58.200-07:06.460",
+    "text" : "D'accord, mais je voudrais aussi déjeuner."
+  },
+  {
+    "timestamp" : "07:11.860-07:14.000",
+    "text" : "Here's how to ask, at what time?"
+  },
+  {
+    "timestamp" : "07:14.000-07:15.380",
+    "text" : "Listen and repeat."
+  },
+  {
+    "timestamp" : "07:15.380-07:16.960",
+    "text" : "À quelle heure?"
+  },
+  {
+    "timestamp" : "07:16.960-07:20.380",
+    "text" : "Heure."
+  },
+  {
+    "timestamp" : "07:20.380-07:23.220",
+    "text" : "Heure."
+  },
+  {
+    "text" : "Quel.",
+    "timestamp" : "07:23.220-07:25.680"
+  },
+  {
+    "timestamp" : "07:25.680-07:28.220",
+    "text" : "Quel."
+  },
+  {
+    "timestamp" : "07:28.220-07:30.760",
+    "text" : "Quelle heure?"
+  },
+  {
+    "timestamp" : "07:30.760-07:33.760",
+    "text" : "Quelle heure?"
+  },
+  {
+    "text" : "À quelle heure?",
+    "timestamp" : "07:33.760-07:36.700"
+  },
+  {
+    "text" : "À quelle heure?",
+    "timestamp" : "07:36.700-07:40.260"
+  },
+  {
+    "text" : "Ask me, at what time?",
+    "timestamp" : "07:41.460-07:44.580"
+  },
+  {
+    "timestamp" : "07:44.580-07:49.340",
+    "text" : "À quelle heure, monsieur?"
+  },
+  {
+    "text" : "The answer is one o'clock.",
+    "timestamp" : "07:49.340-07:54.620"
+  },
+  {
+    "text" : "Listen and repeat.",
+    "timestamp" : "07:54.620-07:55.840"
+  },
+  {
+    "timestamp" : "08:11.060-08:13.300",
+    "text" : "Ask, at what time?"
+  },
+  {
+    "text" : "À quelle heure?",
+    "timestamp" : "08:13.300-08:16.940"
+  },
+  {
+    "text" : "Answer, one o'clock.",
+    "timestamp" : "08:16.940-08:21.100"
+  },
+  {
+    "timestamp" : "08:21.100-08:24.480",
+    "text" : "Une heure."
+  },
+  {
+    "text" : "Une heure.",
+    "timestamp" : "08:24.480-08:27.640"
+  },
+  {
+    "text" : "And now try to say, at one o'clock.",
+    "timestamp" : "08:27.640-08:32.540"
+  },
+  {
+    "text" : "À une heure.",
+    "timestamp" : "08:35.260-08:36.260"
+  },
+  {
+    "timestamp" : "08:36.260-08:36.260",
+    "text" : "À une heure."
+  },
+  {
+    "timestamp" : "08:36.260-08:36.260",
+    "text" : "À une heure."
+  },
+  {
+    "timestamp" : "08:36.260-08:36.260",
+    "text" : "À une heure."
+  },
+  {
+    "text" : "À une heure.",
+    "timestamp" : "08:36.260-08:36.260"
+  },
+  {
+    "timestamp" : "08:36.260-08:36.720",
+    "text" : "À une heure."
+  },
+  {
+    "timestamp" : "08:36.720-08:48.240",
+    "text" : "The word, une, is a feminine form, showing that the word, heure, is a feminine word."
+  },
+  {
+    "timestamp" : "08:48.240-08:52.420",
+    "text" : "Only the number one has a masculine and feminine form."
+  },
+  {
+    "text" : "All the other numbers have only one form.",
+    "timestamp" : "08:52.420-08:55.060"
+  },
+  {
+    "timestamp" : "08:55.820-08:56.820",
+    "text" : "Now say, at one o'clock."
+  },
+  {
+    "timestamp" : "08:56.820-08:57.940",
+    "text" : "Now say, at one o'clock."
+  },
+  {
+    "timestamp" : "08:57.940-09:01.320",
+    "text" : "À une heure."
+  },
+  {
+    "timestamp" : "09:01.320-09:07.240",
+    "text" : "Notice that the word, heure, begins with a vowel sound."
+  },
+  {
+    "text" : "Therefore, any word that comes before it is likely to be changed in some way.",
+    "timestamp" : "09:07.240-09:11.880"
+  },
+  {
+    "text" : "Listen for this change as you learn to say, nine o'clock.",
+    "timestamp" : "09:13.020-09:16.120"
+  },
+  {
+    "text" : "Listen and repeat.",
+    "timestamp" : "09:16.120-09:17.560"
+  },
+  {
+    "timestamp" : "09:17.560-09:19.780",
+    "text" : "Neuver."
+  },
+  {
+    "timestamp" : "09:19.780-09:19.780",
+    "text" : "Neuver."
+  },
+  {
+    "text" : "Neuver.",
+    "timestamp" : "09:19.780-09:20.280"
+  },
+  {
+    "text" : "Neuver.",
+    "timestamp" : "09:20.280-09:21.780"
+  },
+  {
+    "text" : "Neuver.",
+    "timestamp" : "09:21.780-09:24.120"
+  },
+  {
+    "text" : "Neuver.",
+    "timestamp" : "09:24.120-09:24.140"
+  },
+  {
+    "text" : "Neuver.",
+    "timestamp" : "09:24.140-09:27.620"
+  },
+  {
+    "timestamp" : "09:27.620-09:28.820",
+    "text" : "Neuver."
+  },
+  {
+    "timestamp" : "09:28.820-09:30.680",
+    "text" : "Neuver."
+  },
+  {
+    "timestamp" : "09:30.680-09:33.840",
+    "text" : "Neuver."
+  },
+  {
+    "text" : "Neuver.",
+    "timestamp" : "09:33.840-09:34.040"
+  },
+  {
+    "text" : "Neuver.",
+    "timestamp" : "09:34.040-09:37.400"
+  },
+  {
+    "timestamp" : "09:37.400-09:41.520",
+    "text" : "Say, at nine o'clock."
+  },
+  {
+    "timestamp" : "09:41.520-09:45.000",
+    "text" : "Neuver."
+  },
+  {
+    "text" : "Neuver.",
+    "timestamp" : "09:45.000-09:45.060"
+  },
+  {
+    "text" : "Ask, at what time?",
+    "timestamp" : "09:45.060-09:49.000"
+  },
+  {
+    "text" : "À quelle heure?",
+    "timestamp" : "09:49.000-09:52.980"
+  },
+  {
+    "text" : "À quelle heure?",
+    "timestamp" : "09:52.980-09:56.720"
+  },
+  {
+    "timestamp" : "09:56.720-10:01.240",
+    "text" : "Answer, at one o'clock."
+  },
+  {
+    "timestamp" : "10:01.240-10:04.740",
+    "text" : "À une heure."
+  },
+  {
+    "text" : "À une heure.",
+    "timestamp" : "10:04.740-10:08.120"
+  },
+  {
+    "text" : "Say, at nine o'clock.",
+    "timestamp" : "10:10.500-10:12.300"
+  },
+  {
+    "text" : "À neuver.",
+    "timestamp" : "10:12.300-10:15.720"
+  },
+  {
+    "text" : "À neuver.",
+    "timestamp" : "10:15.720-10:19.000"
+  },
+  {
+    "text" : "Now listen and repeat the number, eight.",
+    "timestamp" : "10:19.000-10:23.260"
+  },
+  {
+    "text" : "Huit.",
+    "timestamp" : "10:23.260-10:24.820"
+  },
+  {
+    "text" : "Continue repeating.",
+    "timestamp" : "10:24.820-10:28.020"
+  },
+  {
+    "text" : "Huit.",
+    "timestamp" : "10:28.020-10:29.740"
+  },
+  {
+    "timestamp" : "10:29.740-10:32.400",
+    "text" : "Huit."
+  },
+  {
+    "timestamp" : "10:32.400-10:34.740",
+    "text" : "Huit."
+  },
+  {
+    "text" : "Say, eight o'clock.",
+    "timestamp" : "10:34.740-10:37.820"
+  },
+  {
+    "text" : "Huit heures.",
+    "timestamp" : "10:39.480-10:40.740"
+  },
+  {
+    "timestamp" : "10:40.740-10:43.420",
+    "text" : "Huit heures."
+  },
+  {
+    "text" : "Ask, at eight o'clock.",
+    "timestamp" : "10:43.420-10:47.180"
+  },
+  {
+    "text" : "À huit heures?",
+    "timestamp" : "10:47.180-10:50.780"
+  },
+  {
+    "timestamp" : "10:50.780-10:54.100",
+    "text" : "À huit heures?"
+  },
+  {
+    "timestamp" : "10:54.100-10:58.240",
+    "text" : "Say, no, at nine o'clock."
+  },
+  {
+    "timestamp" : "11:02.340-11:02.920",
+    "text" : "Non."
+  },
+  {
+    "text" : "À neuver.",
+    "timestamp" : "11:02.920-11:04.040"
+  },
+  {
+    "text" : "Non.",
+    "timestamp" : "11:04.040-11:08.360"
+  },
+  {
+    "timestamp" : "11:08.360-11:08.980",
+    "text" : "À neuver."
+  },
+  {
+    "timestamp" : "11:08.980-11:14.700",
+    "text" : "Do you remember how to say the number, two?"
+  },
+  {
+    "text" : "Deux.",
+    "timestamp" : "11:14.700-11:17.880"
+  },
+  {
+    "timestamp" : "11:17.880-11:20.760",
+    "text" : "Deux."
+  },
+  {
+    "timestamp" : "11:20.760-11:22.800",
+    "text" : "This rhymes with, I want."
+  },
+  {
+    "text" : "Je veux.",
+    "timestamp" : "11:22.800-11:24.020"
+  },
+  {
+    "timestamp" : "11:24.020-11:25.720",
+    "text" : "Continue repeating."
+  },
+  {
+    "text" : "Deux.",
+    "timestamp" : "11:25.720-11:27.260"
+  },
+  {
+    "text" : "Deux.",
+    "timestamp" : "11:27.260-11:30.080"
+  },
+  {
+    "timestamp" : "11:30.080-11:30.660",
+    "text" : "Deux."
+  },
+  {
+    "timestamp" : "11:30.660-11:30.660",
+    "text" : "Deux."
+  },
+  {
+    "text" : "Deux.",
+    "timestamp" : "11:30.660-11:32.700"
+  },
+  {
+    "timestamp" : "11:32.700-11:39.720",
+    "text" : "This word happens to be spelled with an X on the end, which acts just like a disappearing S."
+  },
+  {
+    "timestamp" : "11:39.720-11:42.580",
+    "text" : "So, try to say, two o'clock."
+  },
+  {
+    "timestamp" : "11:42.580-11:45.780",
+    "text" : "Deux heures."
+  },
+  {
+    "timestamp" : "11:45.780-11:48.720",
+    "text" : "Deux heures."
+  },
+  {
+    "timestamp" : "11:50.820-11:51.880",
+    "text" : "Say eight o'clock."
+  },
+  {
+    "text" : "Huit heures.",
+    "timestamp" : "11:51.880-11:55.200"
+  },
+  {
+    "text" : "Huit heures.",
+    "timestamp" : "11:55.200-11:58.380"
+  },
+  {
+    "text" : "Say one o'clock.",
+    "timestamp" : "11:58.380-12:01.980"
+  },
+  {
+    "text" : "Une heure.",
+    "timestamp" : "12:01.980-12:05.060"
+  },
+  {
+    "text" : "Une heure.",
+    "timestamp" : "12:05.060-12:08.220"
+  },
+  {
+    "text" : "Say nine o'clock.",
+    "timestamp" : "12:08.220-12:11.680"
+  },
+  {
+    "timestamp" : "12:11.680-12:15.120",
+    "text" : "Neuf heures."
+  },
+  {
+    "text" : "Neuf heures.",
+    "timestamp" : "12:15.120-12:18.300"
+  },
+  {
+    "text" : "Say at two o'clock.",
+    "timestamp" : "12:20.200-12:22.300"
+  },
+  {
+    "timestamp" : "12:22.300-12:26.160",
+    "text" : "À deux heures."
+  },
+  {
+    "text" : "À deux heures.",
+    "timestamp" : "12:26.160-12:29.720"
+  },
+  {
+    "timestamp" : "12:29.720-12:33.920",
+    "text" : "Ask at what time?"
+  },
+  {
+    "text" : "À quelle heure?",
+    "timestamp" : "12:33.920-12:37.560"
+  },
+  {
+    "timestamp" : "12:37.560-12:41.000",
+    "text" : "À quelle heure?"
+  },
+  {
+    "timestamp" : "12:41.000-12:46.580",
+    "text" : "Ask at one o'clock or at two o'clock."
+  },
+  {
+    "timestamp" : "12:49.580-12:52.360",
+    "text" : "À une heure ou à deux heures?"
+  },
+  {
+    "text" : "À une heure ou à deux heures?",
+    "timestamp" : "12:52.360-12:57.440"
+  },
+  {
+    "text" : "Say, OK, but I'd like to have lunch at your place.",
+    "timestamp" : "12:57.440-13:03.940"
+  },
+  {
+    "timestamp" : "13:10.100-13:13.140",
+    "text" : "D'accord, mais je voudrais déjeuner chez vous."
+  },
+  {
+    "text" : "D'accord, mais je voudrais déjeuner chez vous.",
+    "timestamp" : "13:13.140-13:21.700"
+  },
+  {
+    "text" : "Say at eight o'clock.",
+    "timestamp" : "13:21.700-13:29.020"
+  },
+  {
+    "text" : "À huit heures.",
+    "timestamp" : "13:29.020-13:32.760"
+  },
+  {
+    "text" : "Huit.",
+    "timestamp" : "13:35.480-13:35.960"
+  },
+  {
+    "text" : "Huit.",
+    "timestamp" : "13:35.960-13:35.960"
+  },
+  {
+    "text" : "Huit.",
+    "timestamp" : "13:35.960-13:35.960"
+  },
+  {
+    "text" : "Huit.",
+    "timestamp" : "13:35.960-13:38.960"
+  },
+  {
+    "timestamp" : "13:38.960-13:41.940",
+    "text" : "À huit heures."
+  },
+  {
+    "text" : "Say no at nine o'clock.",
+    "timestamp" : "13:41.940-13:46.600"
+  },
+  {
+    "text" : "Non.",
+    "timestamp" : "13:46.600-13:50.940"
+  },
+  {
+    "text" : "À neuf heures.",
+    "timestamp" : "13:50.940-13:52.040"
+  },
+  {
+    "timestamp" : "13:52.040-13:56.080",
+    "text" : "Non."
+  },
+  {
+    "text" : "À neuf heures.",
+    "timestamp" : "13:56.080-13:57.060"
+  },
+  {
+    "text" : "Ask.",
+    "timestamp" : "14:00.340-14:01.020"
+  },
+  {
+    "text" : "À quelle heure?",
+    "timestamp" : "14:01.020-14:02.060"
+  },
+  {
+    "text" : "À quelle heure?",
+    "timestamp" : "14:02.060-14:06.140"
+  },
+  {
+    "text" : "À quelle heure?",
+    "timestamp" : "14:06.140-14:09.800"
+  },
+  {
+    "timestamp" : "14:09.800-14:14.920",
+    "text" : "Say, I don't know at what time."
+  },
+  {
+    "timestamp" : "14:18.660-14:20.020",
+    "text" : "Je ne sais pas à quelle heure."
+  },
+  {
+    "text" : "Say, at two o'clock, OK?",
+    "timestamp" : "14:20.020-14:25.800"
+  },
+  {
+    "text" : "À deux heures, d'accord?",
+    "timestamp" : "14:25.800-14:31.120"
+  },
+  {
+    "timestamp" : "14:31.120-14:36.380",
+    "text" : "À deux heures, d'accord?"
+  },
+  {
+    "timestamp" : "14:40.000-14:42.000",
+    "text" : "Say, OK, at my place."
+  },
+  {
+    "text" : "D'accord, chez moi.",
+    "timestamp" : "14:42.000-14:47.400"
+  },
+  {
+    "text" : "D'accord, chez moi.",
+    "timestamp" : "14:47.400-14:52.620"
+  },
+  {
+    "timestamp" : "14:52.620-14:57.500",
+    "text" : "Do you remember how to ask,"
+  },
+  {
+    "text" : "where's the hotel Saint-Jacques?",
+    "timestamp" : "14:57.500-14:59.660"
+  },
+  {
+    "text" : "Où est l'hôtel Saint-Jacques, s'il vous plaît?",
+    "timestamp" : "15:04.280-15:06.080"
+  },
+  {
+    "timestamp" : "15:06.080-15:12.200",
+    "text" : "Où est l'hôtel Saint-Jacques, s'il vous plaît?"
+  },
+  {
+    "text" : "Answer.",
+    "timestamp" : "15:12.200-15:17.080"
+  },
+  {
+    "timestamp" : "15:17.080-15:19.280",
+    "text" : "It's down there, on the..."
+  },
+  {
+    "text" : "Rue Saint-Jacques.",
+    "timestamp" : "15:19.280-15:20.140"
+  },
+  {
+    "timestamp" : "15:24.720-15:26.860",
+    "text" : "C'est là-bas, rue Saint-Jacques."
+  },
+  {
+    "text" : "C'est là-bas, rue Saint-Jacques.",
+    "timestamp" : "15:26.860-15:33.220"
+  },
+  {
+    "timestamp" : "15:33.220-15:40.040",
+    "text" : "How would you ask her if she would like to drink something with you?"
+  },
+  {
+    "timestamp" : "15:46.680-15:49.160",
+    "text" : "Est-ce que vous voudriez boire quelque chose avec moi?"
+  },
+  {
+    "text" : "Est-ce que vous voudriez boire quelque chose avec moi, mademoiselle?",
+    "timestamp" : "15:49.160-15:58.180"
+  },
+  {
+    "timestamp" : "15:58.180-16:06.660",
+    "text" : "How does she correct you, saying not..."
+  },
+  {
+    "timestamp" : "16:06.660-16:07.320",
+    "text" : "Mademoiselle."
+  },
+  {
+    "text" : "Madame.",
+    "timestamp" : "16:07.320-16:08.560"
+  },
+  {
+    "text" : "Pas mademoiselle.",
+    "timestamp" : "16:08.560-16:14.780"
+  },
+  {
+    "timestamp" : "16:14.780-16:15.820",
+    "text" : "Madame."
+  },
+  {
+    "timestamp" : "16:15.820-16:22.040",
+    "text" : "Say, sorry ma'am."
+  },
+  {
+    "timestamp" : "16:22.040-16:27.280",
+    "text" : "Pardon, madame."
+  },
+  {
+    "timestamp" : "16:27.280-16:31.480",
+    "text" : "Pardon, madame."
+  },
+  {
+    "text" : "Say, but would you like to drink something with me?",
+    "timestamp" : "16:31.480-16:37.180"
+  },
+  {
+    "text" : "Mais est-ce que vous voudriez boire quelque chose avec moi?",
+    "timestamp" : "16:43.260-16:45.920"
+  },
+  {
+    "timestamp" : "16:45.920-16:53.960",
+    "text" : "How does she say, no thank you, sir?"
+  },
+  {
+    "timestamp" : "16:57.860-16:59.120",
+    "text" : "Non merci, monsieur."
+  },
+  {
+    "timestamp" : "16:59.120-17:03.360",
+    "text" : "Merci."
+  },
+  {
+    "timestamp" : "17:03.360-17:06.520",
+    "text" : "Merci."
+  },
+  {
+    "text" : "Non merci, monsieur.",
+    "timestamp" : "17:06.520-17:09.920"
+  },
+  {
+    "text" : "Non merci, monsieur.",
+    "timestamp" : "17:09.920-17:14.600"
+  },
+  {
+    "text" : "Say, not now.",
+    "timestamp" : "17:14.600-17:19.560"
+  },
+  {
+    "timestamp" : "17:22.520-17:23.520",
+    "text" : "Pas maintenant."
+  },
+  {
+    "text" : "Pas maintenant.",
+    "timestamp" : "17:23.520-17:23.640"
+  },
+  {
+    "text" : "Pas maintenant.",
+    "timestamp" : "17:23.640-17:23.640"
+  },
+  {
+    "timestamp" : "17:23.640-17:23.640",
+    "text" : "Pas maintenant."
+  },
+  {
+    "text" : "How does she say, and not later?",
+    "timestamp" : "17:23.640-17:28.960"
+  },
+  {
+    "text" : "Et pas plus tard.",
+    "timestamp" : "17:28.960-17:33.320"
+  },
+  {
+    "text" : "Et pas plus tard.",
+    "timestamp" : "17:33.320-17:37.420"
+  },
+  {
+    "text" : "Ask.",
+    "timestamp" : "17:40.180-17:40.680"
+  },
+  {
+    "timestamp" : "17:40.680-17:42.640",
+    "text" : "But at one o'clock, okay?"
+  },
+  {
+    "text" : "Mais à une heure, d'accord?",
+    "timestamp" : "17:42.640-17:47.840"
+  },
+  {
+    "text" : "À une heure.",
+    "timestamp" : "17:47.840-17:52.540"
+  },
+  {
+    "timestamp" : "17:52.540-17:56.060",
+    "text" : "À une heure."
+  },
+  {
+    "text" : "Mais à une heure, d'accord?",
+    "timestamp" : "17:56.060-17:59.780"
+  },
+  {
+    "timestamp" : "18:03.480-18:04.940",
+    "text" : "Pas d'accord."
+  },
+  {
+    "timestamp" : "18:04.940-18:08.980",
+    "text" : "Pas d'accord."
+  },
+  {
+    "timestamp" : "18:08.980-18:12.200",
+    "text" : "Ask."
+  },
+  {
+    "text" : "At two o'clock?",
+    "timestamp" : "18:12.200-18:13.220"
+  },
+  {
+    "text" : "À deux heures?",
+    "timestamp" : "18:13.220-18:16.920"
+  },
+  {
+    "text" : "Deux.",
+    "timestamp" : "18:16.920-18:20.120"
+  },
+  {
+    "text" : "Deux.",
+    "timestamp" : "18:20.120-18:23.140"
+  },
+  {
+    "text" : "À deux heures?",
+    "timestamp" : "18:23.140-18:26.040"
+  },
+  {
+    "timestamp" : "18:28.640-18:31.880",
+    "text" : "She says, no thank you, I do not want to."
+  },
+  {
+    "text" : "Non merci, je ne veux pas.",
+    "timestamp" : "18:31.880-18:38.760"
+  },
+  {
+    "timestamp" : "18:38.760-18:45.520",
+    "text" : "Say, later, at eight o'clock."
+  },
+  {
+    "timestamp" : "18:50.300-18:51.100",
+    "text" : "Plus tard."
+  },
+  {
+    "timestamp" : "18:51.100-18:51.100",
+    "text" : "Plus tard."
+  },
+  {
+    "timestamp" : "18:51.100-18:52.220",
+    "text" : "À huit heures."
+  },
+  {
+    "timestamp" : "18:52.220-18:57.300",
+    "text" : "Huit."
+  },
+  {
+    "timestamp" : "18:57.300-19:00.220",
+    "text" : "Huit."
+  },
+  {
+    "timestamp" : "19:00.220-19:03.140",
+    "text" : "Plus tard."
+  },
+  {
+    "text" : "À huit heures.",
+    "timestamp" : "19:03.140-19:04.160"
+  },
+  {
+    "text" : "She says, no sir.",
+    "timestamp" : "19:04.160-19:09.600"
+  },
+  {
+    "timestamp" : "19:09.600-19:13.420",
+    "text" : "Non monsieur."
+  },
+  {
+    "text" : "Non monsieur.",
+    "timestamp" : "19:13.420-19:17.000"
+  },
+  {
+    "timestamp" : "19:19.460-19:21.640",
+    "text" : "Say, or at nine o'clock."
+  },
+  {
+    "timestamp" : "19:21.640-19:25.800",
+    "text" : "Ou à neuf heures."
+  },
+  {
+    "timestamp" : "19:25.800-19:29.780",
+    "text" : "Ou à neuf heures."
+  },
+  {
+    "text" : "She answers, certainly not.",
+    "timestamp" : "19:29.780-19:34.340"
+  },
+  {
+    "text" : "Listen and repeat.",
+    "timestamp" : "19:34.340-19:35.660"
+  },
+  {
+    "text" : "Absolument pas.",
+    "timestamp" : "19:35.660-19:37.700"
+  },
+  {
+    "text" : "Absolument.",
+    "timestamp" : "19:37.700-19:42.380"
+  },
+  {
+    "timestamp" : "19:42.380-19:46.740",
+    "text" : "Absolument pas."
+  },
+  {
+    "text" : "Ask.",
+    "timestamp" : "19:48.620-19:50.820"
+  },
+  {
+    "text" : "At what time?",
+    "timestamp" : "19:50.820-19:52.100"
+  },
+  {
+    "timestamp" : "19:52.100-19:55.780",
+    "text" : "À quelle heure?"
+  },
+  {
+    "text" : "À quelle heure?",
+    "timestamp" : "19:55.780-19:59.260"
+  },
+  {
+    "text" : "How does she answer, no sir, I do not want to drink something with you?",
+    "timestamp" : "19:59.260-20:05.380"
+  },
+  {
+    "timestamp" : "20:12.300-20:15.320",
+    "text" : "Non monsieur, je ne veux pas boire quelque chose avec vous."
+  },
+  {
+    "text" : "Non monsieur, je ne veux pas boire quelque chose avec vous.",
+    "timestamp" : "20:15.320-20:25.380"
+  },
+  {
+    "timestamp" : "20:25.380-20:34.260",
+    "text" : "Say, ah, I understand now."
+  },
+  {
+    "text" : "Ah, je comprends maintenant.",
+    "timestamp" : "20:38.920-20:40.480"
+  },
+  {
+    "text" : "Ah, je comprends maintenant.",
+    "timestamp" : "20:40.480-20:46.200"
+  },
+  {
+    "timestamp" : "20:46.200-20:50.640",
+    "text" : "Très bien."
+  },
+  {
+    "text" : "Vous comprenez maintenant.",
+    "timestamp" : "20:50.640-20:52.240"
+  },
+  {
+    "text" : "Say, yes, you don't want to drink something with me.",
+    "timestamp" : "20:52.240-20:56.700"
+  },
+  {
+    "text" : "Oui, vous ne voulez pas boire quelque chose avec moi.",
+    "timestamp" : "21:02.880-21:06.000"
+  },
+  {
+    "text" : "Oui, vous ne voulez pas boire quelque chose avec moi.",
+    "timestamp" : "21:06.000-21:14.900"
+  },
+  {
+    "timestamp" : "21:20.040-21:31.000",
+    "text" : "Mais vous voudriez manger quelque chose avec moi."
+  },
+  {
+    "timestamp" : "21:31.000-21:46.740",
+    "text" : "Add in a restaurant."
+  },
+  {
+    "text" : "Au restaurant.",
+    "timestamp" : "21:49.680-21:51.100"
+  },
+  {
+    "text" : "Au restaurant.",
+    "timestamp" : "21:51.100-21:51.140"
+  },
+  {
+    "timestamp" : "21:51.140-21:51.280",
+    "text" : "Au restaurant."
+  },
+  {
+    "text" : "Ask, at 8 o'clock or at 9 o'clock?",
+    "timestamp" : "21:51.280-22:00.940"
+  },
+  {
+    "text" : "À 8 o'clock?",
+    "timestamp" : "22:05.560-22:07.520"
+  },
+  {
+    "timestamp" : "22:07.520-22:07.560",
+    "text" : "À 8 o'clock?"
+  },
+  {
+    "timestamp" : "22:07.560-22:13.600",
+    "text" : "À 8 o'clock ou à 9 o'clock?"
+  },
+  {
+    "text" : "She says, not at 1 o'clock and not at 2 o'clock.",
+    "timestamp" : "22:13.600-22:21.040"
+  },
+  {
+    "text" : "Pas à 1 heure et pas à 2 heures.",
+    "timestamp" : "22:26.320-22:35.340"
+  },
+  {
+    "text" : "Pas à 1 heure et pas à 2 heures.",
+    "timestamp" : "22:35.340-22:39.280"
+  },
+  {
+    "timestamp" : "22:39.280-22:41.260",
+    "text" : "She adds for good measure."
+  },
+  {
+    "text" : "Not at 8 o'clock and not at 9 o'clock.",
+    "timestamp" : "22:41.260-22:43.800"
+  },
+  {
+    "text" : "Pas à 8 o'clock and not at 9 o'clock.",
+    "timestamp" : "22:48.360-22:50.520"
+  },
+  {
+    "text" : "Ask, at what time?",
+    "timestamp" : "22:50.520-23:02.360"
+  },
+  {
+    "text" : "À quelle heure?",
+    "timestamp" : "23:02.360-23:06.980"
+  },
+  {
+    "text" : "À quelle heure?",
+    "timestamp" : "23:06.980-23:11.460"
+  },
+  {
+    "timestamp" : "23:11.460-23:17.300",
+    "text" : "She says, you don't understand, sir."
+  },
+  {
+    "text" : "You don't understand, sir.",
+    "timestamp" : "23:17.300-23:23.680"
+  },
+  {
+    "timestamp" : "23:23.680-23:35.840",
+    "text" : "Ask her, what don't I understand?"
+  },
+  {
+    "text" : "Qu'est-ce que je ne comprends pas?",
+    "timestamp" : "23:35.840-23:41.380"
+  },
+  {
+    "text" : "Qu'est-ce que je ne comprends pas?",
+    "timestamp" : "23:41.380-23:46.580"
+  },
+  {
+    "text" : "Qu'est-ce que je ne comprends pas?",
+    "timestamp" : "23:46.580-23:47.580"
+  },
+  {
+    "text" : "She answers, you don't understand French, sir.",
+    "timestamp" : "23:47.580-23:53.180"
+  },
+  {
+    "text" : "Vous ne comprenez pas le français, monsieur.",
+    "timestamp" : "23:53.180-24:00.340"
+  },
+  {
+    "timestamp" : "24:05.040-24:32.140",
+    "text" : "Comment allez-vous?"
+  },
+  {
+    "text" : "Read number 2.",
+    "timestamp" : "24:32.140-24:38.160"
+  },
+  {
+    "text" : "Bonjour, monsieur.",
+    "timestamp" : "24:38.160-24:44.020"
+  },
+  {
+    "text" : "Three.",
+    "timestamp" : "24:44.020-24:48.980"
+  },
+  {
+    "text" : "Vous savez.",
+    "timestamp" : "24:48.980-24:54.700"
+  },
+  {
+    "text" : "Four.",
+    "timestamp" : "24:54.700-24:59.660"
+  },
+  {
+    "text" : "Vous savez.",
+    "timestamp" : "24:59.660-25:05.060"
+  },
+  {
+    "timestamp" : "25:05.060-25:05.060",
+    "text" : "Vous savez."
+  },
+  {
+    "text" : "Read 3 and 4 together.",
+    "timestamp" : "25:05.060-25:10.940"
+  },
+  {
+    "timestamp" : "25:10.940-25:19.980",
+    "text" : "Vous savez."
+  },
+  {
+    "timestamp" : "25:19.980-25:20.020",
+    "text" : "Vous savez."
+  },
+  {
+    "timestamp" : "25:20.020-25:21.260",
+    "text" : "Vous savez."
+  },
+  {
+    "text" : "Vous savez.",
+    "timestamp" : "25:28.260-25:29.660"
+  },
+  {
+    "timestamp" : "25:29.660-25:30.700",
+    "text" : "Vous avez."
+  },
+  {
+    "text" : "Five.",
+    "timestamp" : "25:30.700-25:31.020"
+  },
+  {
+    "timestamp" : "25:31.020-25:34.980",
+    "text" : "Five."
+  },
+  {
+    "text" : "Five.",
+    "timestamp" : "25:34.980-25:38.980"
+  },
+  {
+    "text" : "Vous n'avez pas de vin.",
+    "timestamp" : "25:38.980-25:46.700"
+  },
+  {
+    "timestamp" : "25:46.700-25:52.980",
+    "text" : "Six."
+  },
+  {
+    "timestamp" : "25:52.980-25:52.980",
+    "text" : "Six."
+  },
+  {
+    "text" : "Six.",
+    "timestamp" : "25:52.980-25:52.980"
+  },
+  {
+    "text" : "Vous ne comprenez pas.",
+    "timestamp" : "25:52.980-26:22.960"
+  },
+  {
+    "text" : "Vous ne comprenez pas.",
+    "timestamp" : "26:22.960-26:24.700"
+  },
+  {
+    "timestamp" : "26:24.700-26:25.680",
+    "text" : "Seven."
+  },
+  {
+    "timestamp" : "26:25.680-26:29.680",
+    "text" : "Seven."
+  },
+  {
+    "text" : "Seven.",
+    "timestamp" : "26:29.680-26:30.240"
+  },
+  {
+    "text" : "Seven.",
+    "timestamp" : "26:30.240-26:30.240"
+  },
+  {
+    "text" : "Est-ce que vous comprenez?",
+    "timestamp" : "26:30.240-26:37.680"
+  },
+  {
+    "timestamp" : "26:37.680-26:39.680",
+    "text" : "Seven."
+  },
+  {
+    "text" : "Seven.",
+    "timestamp" : "26:39.680-26:39.680"
+  },
+  {
+    "text" : "Est-ce que vous comprenez?",
+    "timestamp" : "26:39.680-26:44.540"
+  },
+  {
+    "timestamp" : "26:44.540-26:50.100",
+    "text" : "Eight."
+  },
+  {
+    "text" : "9. Saint Michel.",
+    "timestamp" : "26:50.100-27:12.160"
+  },
+  {
+    "timestamp" : "27:12.160-27:17.560",
+    "text" : "10."
+  },
+  {
+    "text" : "10.",
+    "timestamp" : "27:17.560-27:18.560"
+  },
+  {
+    "text" : "Où est le boulevard?",
+    "timestamp" : "27:18.560-27:24.320"
+  },
+  {
+    "text" : "Look at the second word in number 10. It's the word E. Is. Read 10 again.",
+    "timestamp" : "27:24.320-27:35.660"
+  },
+  {
+    "text" : "Où est le boulevard?",
+    "timestamp" : "27:35.660-27:41.500"
+  },
+  {
+    "text" : "11.",
+    "timestamp" : "27:41.500-27:46.260"
+  },
+  {
+    "text" : "Est-ce que le boulevard est ici?",
+    "timestamp" : "27:46.260-27:55.480"
+  },
+  {
+    "text" : "Est-ce que le boulevard est ici?",
+    "timestamp" : "27:55.480-28:04.080"
+  },
+  {
+    "timestamp" : "28:04.080-28:11.720",
+    "text" : "12."
+  },
+  {
+    "text" : "Où est Jacques?",
+    "timestamp" : "28:11.720-28:18.420"
+  },
+  {
+    "text" : "13.",
+    "timestamp" : "28:18.420-28:24.660"
+  },
+  {
+    "timestamp" : "28:31.040-28:32.540",
+    "text" : "Jacques n'est pas ici."
+  },
+  {
+    "text" : "Pas ici.",
+    "timestamp" : "28:32.540-28:39.280"
+  },
+  {
+    "timestamp" : "28:39.280-28:43.160",
+    "text" : "14."
+  },
+  {
+    "timestamp" : "28:43.160-28:48.840",
+    "text" : "Il est là-bas."
+  },
+  {
+    "text" : "15.",
+    "timestamp" : "28:48.840-28:53.920"
+  },
+  {
+    "text" : "Non.",
+    "timestamp" : "28:53.920-29:01.560"
+  },
+  {
+    "timestamp" : "29:01.560-29:02.940",
+    "text" : "Il n'est pas là-bas."
+  },
+  {
+    "timestamp" : "29:02.940-29:11.080",
+    "text" : "This is the end of today's lesson."
+  },
+  {
+    "timestamp" : "29:11.080-29:15.580",
+    "text" : "When you continue with the next unit tomorrow, please begin with track number two."
+  },
+  {
+    "timestamp" : "29:15.580-29:15.680",
+    "text" : "15."
+  },
+  {
+    "timestamp" : "29:15.680-29:31.560",
+    "text" : "15."
+  }
+]

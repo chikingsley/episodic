@@ -1,0 +1,206 @@
+[
+  {
+    "text" : "So again, how would you say I have eaten?",
+    "timestamp" : "00:00.001-00:02.520"
+  },
+  {
+    "text" : "J'ai mangé.",
+    "timestamp" : "00:02.520-00:04.740"
+  },
+  {
+    "timestamp" : "00:04.740-00:08.320",
+    "text" : "How do you think you'd say I have eaten it?"
+  },
+  {
+    "text" : "Je l'ai mangé.",
+    "timestamp" : "00:08.320-00:11.940"
+  },
+  {
+    "text" : "So, I have is...",
+    "timestamp" : "00:11.940-00:16.380"
+  },
+  {
+    "timestamp" : "00:16.380-00:16.720",
+    "text" : "J'ai."
+  },
+  {
+    "text" : "But I have is actually made out up of two components, the I and the have.",
+    "timestamp" : "00:16.720-00:22.420"
+  },
+  {
+    "text" : "If you said them separately, they would be pronounced as...",
+    "timestamp" : "00:22.420-00:26.460"
+  },
+  {
+    "timestamp" : "00:26.460-00:27.160",
+    "text" : "Je ai."
+  },
+  {
+    "timestamp" : "00:28.440-00:33.380",
+    "text" : "So when you say I have eaten it, of course the have steals the pronoun"
+  },
+  {
+    "text" : "and puts it directly in front of itself,",
+    "timestamp" : "00:33.380-00:36.180"
+  },
+  {
+    "timestamp" : "00:36.180-00:44.360",
+    "text" : "which again splits these abbreviated I have back into its component parts,"
+  },
+  {
+    "text" : "into I have.",
+    "timestamp" : "00:44.360-00:45.660"
+  },
+  {
+    "timestamp" : "00:45.660-00:48.500",
+    "text" : "And again, I have when split is..."
+  },
+  {
+    "text" : "Je ai.",
+    "timestamp" : "00:48.500-00:49.060"
+  },
+  {
+    "timestamp" : "00:49.060-00:53.340",
+    "text" : "So, again, how would you say I have eaten it?"
+  },
+  {
+    "timestamp" : "00:53.340-00:57.320",
+    "text" : "Je l'ai mangé."
+  },
+  {
+    "timestamp" : "00:57.320-01:03.320",
+    "text" : "How would you say I did eat it?"
+  },
+  {
+    "text" : "Je l'ai mangé.",
+    "timestamp" : "01:03.320-01:08.560"
+  },
+  {
+    "timestamp" : "01:09.760-01:15.840",
+    "text" : "Again, you may remember from earlier in the course where I pointed out that in French in the past,"
+  },
+  {
+    "text" : "they use fewer tenses than we do.",
+    "timestamp" : "01:15.840-01:18.140"
+  },
+  {
+    "timestamp" : "01:18.140-01:23.700",
+    "text" : "Where we might say I ate it, I did eat it, I have eaten it."
+  },
+  {
+    "timestamp" : "01:23.700-01:26.400",
+    "text" : "You typically only say I have eaten it."
+  },
+  {
+    "timestamp" : "01:26.400-01:28.620",
+    "text" : "This makes it far easier for us."
+  },
+  {
+    "text" : "Let's try another example.",
+    "timestamp" : "01:28.620-01:30.500"
+  },
+  {
+    "text" : "How would you say I have prepared it?",
+    "timestamp" : "01:30.500-01:33.140"
+  },
+  {
+    "text" : "Je l'ai préparé.",
+    "timestamp" : "01:35.140-01:36.780"
+  },
+  {
+    "text" : "Je l'ai préparé.",
+    "timestamp" : "01:36.780-01:36.820"
+  },
+  {
+    "timestamp" : "01:36.820-01:40.120",
+    "text" : "How would you say I prepared it?"
+  },
+  {
+    "text" : "Je l'ai préparé.",
+    "timestamp" : "01:40.120-01:44.840"
+  },
+  {
+    "text" : "And I did prepare it.",
+    "timestamp" : "01:44.840-01:47.520"
+  },
+  {
+    "text" : "Je l'ai préparé.",
+    "timestamp" : "01:47.520-01:50.600"
+  },
+  {
+    "timestamp" : "01:51.360-01:55.040",
+    "text" : "Again, all of these sentences in French are the same."
+  },
+  {
+    "text" : "How about you have sold it?",
+    "timestamp" : "01:55.040-01:59.800"
+  },
+  {
+    "timestamp" : "02:03.800-02:06.040",
+    "text" : "You l'avez vendu."
+  },
+  {
+    "text" : "Using a rising intonation, how would you turn it into a question and say you've sold it?",
+    "timestamp" : "02:06.040-02:13.140"
+  },
+  {
+    "text" : "You l'avez vendu?",
+    "timestamp" : "02:15.140-02:16.320"
+  },
+  {
+    "timestamp" : "02:16.320-02:23.540",
+    "text" : "Again, using a rising intonation, how would you ask the question, did you sell it?"
+  },
+  {
+    "timestamp" : "02:23.540-02:29.880",
+    "text" : "You l'avez vendu?"
+  },
+  {
+    "text" : "As I said earlier, these tenses such as you have sold it, you did sell it, you sold it, are the same in French.",
+    "timestamp" : "02:29.880-02:40.320"
+  },
+  {
+    "timestamp" : "02:40.320-02:42.680",
+    "text" : "They'll simply be expressed as you have sold it."
+  },
+  {
+    "text" : "And as you've just seen, the same applies for a question.",
+    "timestamp" : "02:43.160-02:46.120"
+  },
+  {
+    "timestamp" : "02:46.120-02:48.860",
+    "text" : "Have you sold it in French?"
+  },
+  {
+    "text" : "And did you sell it?",
+    "timestamp" : "02:48.860-02:50.460"
+  },
+  {
+    "text" : "Will both be translated in the same way.",
+    "timestamp" : "02:50.460-02:52.740"
+  },
+  {
+    "timestamp" : "02:52.740-02:54.400",
+    "text" : "Which makes your job easier."
+  },
+  {
+    "text" : "As you don't need to worry about switching tenses.",
+    "timestamp" : "02:54.400-02:57.120"
+  },
+  {
+    "text" : "In the same way we would in English.",
+    "timestamp" : "02:57.120-02:58.940"
+  },
+  {
+    "text" : "For the past tense, it's simply not quite as hard in French.",
+    "timestamp" : "02:58.940-03:03.120"
+  },
+  {
+    "timestamp" : "03:03.120-03:03.400",
+    "text" : "In English."
+  },
+  {
+    "text" : "Thank you.",
+    "timestamp" : "03:03.400-03:33.380"
+  }
+]

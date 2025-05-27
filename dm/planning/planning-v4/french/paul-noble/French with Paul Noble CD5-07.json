@@ -1,0 +1,70 @@
+[
+  {
+    "timestamp" : "00:00.001-00:01.720",
+    "text" : "Let's have a go at another scenario."
+  },
+  {
+    "text" : "You're going to take a bus and the first thing I want you to do is you can see someone near",
+    "timestamp" : "00:01.720-00:10.100"
+  },
+  {
+    "text" : "the station but you're not sure exactly where you should get your ticket.",
+    "timestamp" : "00:10.100-00:12.760"
+  },
+  {
+    "timestamp" : "00:12.760-00:16.360",
+    "text" : "So ask, where is it that I can buy a ticket?"
+  },
+  {
+    "timestamp" : "00:16.360-00:25.060",
+    "text" : "Où est-ce que je peux acheter un billet?"
+  },
+  {
+    "text" : "The person points, gestures and says, over there.",
+    "timestamp" : "00:25.060-00:29.020"
+  },
+  {
+    "timestamp" : "00:29.020-00:31.060",
+    "text" : "Là-bas."
+  },
+  {
+    "timestamp" : "00:31.060-00:37.740",
+    "text" : "When you get to the ticket desk, you say, a ticket for Bordeaux, please."
+  },
+  {
+    "timestamp" : "00:37.740-00:44.800",
+    "text" : "Un billet pour Bordeaux, s'il vous plaît."
+  },
+  {
+    "text" : "They ask you, single or return?",
+    "timestamp" : "00:44.800-00:49.700"
+  },
+  {
+    "timestamp" : "00:49.700-00:50.940",
+    "text" : "How would you say that?"
+  },
+  {
+    "text" : "Aller simple ou aller retour?",
+    "timestamp" : "00:50.940-00:55.940"
+  },
+  {
+    "text" : "Reply, return, please.",
+    "timestamp" : "00:57.200-00:59.200"
+  },
+  {
+    "text" : "Aller retour, s'il vous plaît.",
+    "timestamp" : "00:59.200-01:04.480"
+  },
+  {
+    "timestamp" : "01:04.480-01:08.720",
+    "text" : "The person at the ticket office says, 12 euros, please."
+  },
+  {
+    "timestamp" : "01:08.720-01:16.020",
+    "text" : "Douze euros, s'il vous plaît."
+  },
+  {
+    "timestamp" : "01:16.020-01:46.000",
+    "text" : "Thank you."
+  }
+]

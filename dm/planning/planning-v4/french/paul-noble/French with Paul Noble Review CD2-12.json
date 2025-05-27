@@ -1,0 +1,194 @@
+[
+  {
+    "text" : "To visit.",
+    "timestamp" : "00:00.001-00:00.820"
+  },
+  {
+    "text" : "Visiter.",
+    "timestamp" : "00:00.820-00:03.600"
+  },
+  {
+    "text" : "To reserve.",
+    "timestamp" : "00:03.600-00:04.800"
+  },
+  {
+    "text" : "Réserver.",
+    "timestamp" : "00:04.800-00:07.140"
+  },
+  {
+    "text" : "To camp.",
+    "timestamp" : "00:07.140-00:08.240"
+  },
+  {
+    "text" : "Camper.",
+    "timestamp" : "00:08.240-00:10.680"
+  },
+  {
+    "text" : "To stay.",
+    "timestamp" : "00:10.680-00:11.800"
+  },
+  {
+    "timestamp" : "00:11.800-00:14.240",
+    "text" : "Rester."
+  },
+  {
+    "timestamp" : "00:14.240-00:15.500",
+    "text" : "To pay."
+  },
+  {
+    "text" : "Payer.",
+    "timestamp" : "00:15.500-00:18.120"
+  },
+  {
+    "text" : "To desire.",
+    "timestamp" : "00:18.120-00:19.520"
+  },
+  {
+    "timestamp" : "00:19.520-00:22.620",
+    "text" : "Désirer."
+  },
+  {
+    "timestamp" : "00:22.620-00:24.020",
+    "text" : "You desire."
+  },
+  {
+    "text" : "Vous désirez.",
+    "timestamp" : "00:24.020-00:27.620"
+  },
+  {
+    "timestamp" : "00:27.620-00:33.240",
+    "text" : "Would you like to have a coffee?"
+  },
+  {
+    "timestamp" : "00:33.240-00:38.440",
+    "text" : "Désirez-vous prendre un café?"
+  },
+  {
+    "text" : "Yes.",
+    "timestamp" : "00:38.440-00:39.980"
+  },
+  {
+    "timestamp" : "00:39.980-00:42.140",
+    "text" : "Two coffees and the bill, please."
+  },
+  {
+    "timestamp" : "00:42.140-00:49.020",
+    "text" : "Oui, deux cafés et l'addition, s'il vous plaît."
+  },
+  {
+    "text" : "Keep the change.",
+    "timestamp" : "00:49.020-00:50.840"
+  },
+  {
+    "timestamp" : "00:50.840-00:54.420",
+    "text" : "Gardez la monnaie."
+  },
+  {
+    "text" : "It's how much.",
+    "timestamp" : "00:57.120-00:58.280"
+  },
+  {
+    "timestamp" : "00:58.280-01:01.260",
+    "text" : "C'est combien?"
+  },
+  {
+    "text" : "For me, a white wine and a sandwich, please.",
+    "timestamp" : "01:01.260-01:06.500"
+  },
+  {
+    "text" : "Pour moi, un vin blanc et un sandwich, s'il vous plaît.",
+    "timestamp" : "01:06.500-01:14.000"
+  },
+  {
+    "text" : "For me, a red wine and a sandwich, please.",
+    "timestamp" : "01:14.000-01:19.020"
+  },
+  {
+    "text" : "Pour moi, un vin rouge et un sandwich, s'il vous plaît.",
+    "timestamp" : "01:23.400-01:25.920"
+  },
+  {
+    "timestamp" : "01:25.920-01:29.720",
+    "text" : "I would like to reserve a table for two people."
+  },
+  {
+    "timestamp" : "01:29.720-01:36.400",
+    "text" : "Je voudrais réserver une table pour deux personnes."
+  },
+  {
+    "text" : "For this evening?",
+    "timestamp" : "01:36.400-01:38.120"
+  },
+  {
+    "timestamp" : "01:38.120-01:41.140",
+    "text" : "Pour ce soir?"
+  },
+  {
+    "text" : "Yes.",
+    "timestamp" : "01:42.280-01:42.760"
+  },
+  {
+    "text" : "Yes.",
+    "timestamp" : "01:42.760-01:42.780"
+  },
+  {
+    "timestamp" : "01:42.780-01:44.120",
+    "text" : "For eight o'clock."
+  },
+  {
+    "timestamp" : "01:44.120-01:48.500",
+    "text" : "Oui, pour huit heures."
+  },
+  {
+    "timestamp" : "01:48.500-01:50.320",
+    "text" : "Your name, please."
+  },
+  {
+    "timestamp" : "01:50.320-01:54.420",
+    "text" : "Votre nom, s'il vous plaît."
+  },
+  {
+    "text" : "Où est-ce que je peux prendre un taxi?",
+    "timestamp" : "01:59.300-02:07.260"
+  },
+  {
+    "text" : "Où est-ce que je peux prendre un taxi?",
+    "timestamp" : "02:07.260-02:07.280"
+  },
+  {
+    "text" : "A bottle of white wine and two daily specials, please.",
+    "timestamp" : "02:07.280-02:13.060"
+  },
+  {
+    "text" : "Une bouteille de vin blanc et deux plats du jour, s'il vous plaît.",
+    "timestamp" : "02:18.180-02:20.880"
+  },
+  {
+    "text" : "Where are the toilets?",
+    "timestamp" : "02:20.880-02:23.720"
+  },
+  {
+    "timestamp" : "02:23.720-02:27.400",
+    "text" : "Où sont les toilettes?"
+  },
+  {
+    "text" : "Would you like a coffee?",
+    "timestamp" : "02:27.400-02:30.960"
+  },
+  {
+    "text" : "Désirez-vous prendre un café?",
+    "timestamp" : "02:30.960-02:36.180"
+  },
+  {
+    "text" : "Oui.",
+    "timestamp" : "02:36.180-02:36.320"
+  },
+  {
+    "timestamp" : "02:36.320-02:36.780",
+    "text" : "Oui."
+  },
+  {
+    "timestamp" : "02:36.780-03:06.760",
+    "text" : "Thank you."
+  }
+]

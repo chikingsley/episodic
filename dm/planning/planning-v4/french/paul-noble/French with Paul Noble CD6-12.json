@@ -1,0 +1,230 @@
+[
+  {
+    "text" : "Let's have a go at another scenario now.",
+    "timestamp" : "00:00.001-00:02.160"
+  },
+  {
+    "timestamp" : "00:02.160-00:05.860",
+    "text" : "You've arrived in a town, perhaps in Tuchat,"
+  },
+  {
+    "text" : "and you want to go to the local market.",
+    "timestamp" : "00:05.860-00:09.740"
+  },
+  {
+    "timestamp" : "00:09.740-00:15.520",
+    "text" : "So, you're going to ask first of all, you're going to say, pardon."
+  },
+  {
+    "text" : "Is there a market here? Literally, pardon.",
+    "timestamp" : "00:15.520-00:19.920"
+  },
+  {
+    "timestamp" : "00:19.920-00:22.820",
+    "text" : "Is it that there is a market here?"
+  },
+  {
+    "timestamp" : "00:22.820-00:29.280",
+    "text" : "Pardon, est-ce qu'il y a un marché ici?"
+  },
+  {
+    "text" : "The person you ask replies, but you don't understand.",
+    "timestamp" : "00:29.280-00:34.100"
+  },
+  {
+    "timestamp" : "00:34.100-00:39.560",
+    "text" : "Say, I don't understand. Can you repeat, please?"
+  },
+  {
+    "text" : "Je ne comprends pas. Pouvez-vous répéter, s'il vous plaît?",
+    "timestamp" : "00:39.560-00:50.640"
+  },
+  {
+    "timestamp" : "00:50.640-00:54.980",
+    "text" : "Again, you don't understand because he speaks so quickly."
+  },
+  {
+    "timestamp" : "00:55.580-00:59.960",
+    "text" : "Say, can you speak more slowly, please?"
+  },
+  {
+    "timestamp" : "00:59.960-01:07.980",
+    "text" : "Pouvez-vous parler plus lentement, s'il vous plaît?"
+  },
+  {
+    "timestamp" : "01:07.980-01:11.760",
+    "text" : "He tries again, this time more slowly,"
+  },
+  {
+    "text" : "and you actually catch what he's saying.",
+    "timestamp" : "01:11.760-01:13.940"
+  },
+  {
+    "timestamp" : "01:13.940-01:20.160",
+    "text" : "He says, continue straight on, after the cathedral, turn left."
+  },
+  {
+    "timestamp" : "01:20.160-01:31.920",
+    "text" : "Continuez tout droit."
+  },
+  {
+    "text" : "Après la cathédrale, tournez à gauche.",
+    "timestamp" : "01:31.920-01:35.220"
+  },
+  {
+    "timestamp" : "01:35.220-01:39.200",
+    "text" : "Continuez tout droit."
+  },
+  {
+    "text" : "Après la cathédrale, tournez à gauche.",
+    "timestamp" : "01:39.200-01:42.140"
+  },
+  {
+    "text" : "You reply, ah, I understand, thank you.",
+    "timestamp" : "01:43.280-01:47.780"
+  },
+  {
+    "timestamp" : "01:47.780-01:52.700",
+    "text" : "Ah, je comprends, merci."
+  },
+  {
+    "text" : "You're about to leave, but he continues talking to you.",
+    "timestamp" : "01:52.700-01:57.500"
+  },
+  {
+    "timestamp" : "01:57.500-02:00.900",
+    "text" : "He says, where are you from?"
+  },
+  {
+    "text" : "Literally, he says, you are from where?",
+    "timestamp" : "02:00.900-02:04.040"
+  },
+  {
+    "text" : "Tell him, you're from London.",
+    "timestamp" : "02:09.080-02:16.840"
+  },
+  {
+    "timestamp" : "02:16.840-02:20.000",
+    "text" : "Say, I'm from London, and you?"
+  },
+  {
+    "timestamp" : "02:20.000-02:25.980",
+    "text" : "Je suis de Londres, et vous?"
+  },
+  {
+    "timestamp" : "02:25.980-02:30.500",
+    "text" : "He tells you that he's from Toulouse."
+  },
+  {
+    "text" : "He says, I'm from Toulouse, I'm Jack.",
+    "timestamp" : "02:30.500-02:33.780"
+  },
+  {
+    "timestamp" : "02:33.780-02:42.200",
+    "text" : "Je suis de Toulouse, je suis Jacques."
+  },
+  {
+    "text" : "So you give him your own name.",
+    "timestamp" : "02:42.200-02:46.280"
+  },
+  {
+    "text" : "If it was me, I'd say, I am Paul.",
+    "timestamp" : "02:46.280-02:49.080"
+  },
+  {
+    "timestamp" : "02:49.080-02:51.860",
+    "text" : "Je suis Paul."
+  },
+  {
+    "timestamp" : "02:51.860-02:56.220",
+    "text" : "You note how smartly dressed he is,"
+  },
+  {
+    "timestamp" : "02:56.220-02:58.560",
+    "text" : "and ask him what it is he does."
+  },
+  {
+    "text" : "Say, what is your profession?",
+    "timestamp" : "02:58.560-03:01.140"
+  },
+  {
+    "timestamp" : "03:01.140-03:04.940",
+    "text" : "Quelle est votre profession?"
+  },
+  {
+    "timestamp" : "03:04.940-03:09.600",
+    "text" : "He says, I am a civil servant,"
+  },
+  {
+    "text" : "I am a functionary, and you?",
+    "timestamp" : "03:09.600-03:11.760"
+  },
+  {
+    "text" : "Je suis fonctionnaire, et vous?",
+    "timestamp" : "03:11.760-03:20.420"
+  },
+  {
+    "text" : "You tell him your profession.",
+    "timestamp" : "03:20.420-03:23.060"
+  },
+  {
+    "timestamp" : "03:23.060-03:25.160",
+    "text" : "As it's me, we're modelling this on."
+  },
+  {
+    "text" : "Say, I'm a teacher, I'm a professor.",
+    "timestamp" : "03:25.160-03:27.700"
+  },
+  {
+    "text" : "Je suis professeur.",
+    "timestamp" : "03:30.100-03:31.400"
+  },
+  {
+    "timestamp" : "03:31.400-03:34.620",
+    "text" : "He looks at his watch, and says,"
+  },
+  {
+    "timestamp" : "03:34.620-03:37.520",
+    "text" : "I'm sorry, but I must leave."
+  },
+  {
+    "timestamp" : "03:37.520-03:38.320",
+    "text" : "Goodbye."
+  },
+  {
+    "text" : "Je regrette, je dois partir.",
+    "timestamp" : "03:38.320-03:48.160"
+  },
+  {
+    "timestamp" : "03:48.160-03:48.800",
+    "text" : "Au revoir."
+  },
+  {
+    "text" : "Say goodbye.",
+    "timestamp" : "03:48.800-03:50.300"
+  },
+  {
+    "text" : "Au revoir.",
+    "timestamp" : "03:50.300-03:52.820"
+  },
+  {
+    "timestamp" : "03:52.820-03:53.020",
+    "text" : "Au revoir."
+  },
+  {
+    "timestamp" : "03:53.020-03:54.020",
+    "text" : "Au revoir."
+  },
+  {
+    "text" : "Au revoir.",
+    "timestamp" : "03:54.020-03:55.020"
+  },
+  {
+    "text" : "Au revoir.",
+    "timestamp" : "03:55.020-03:56.020"
+  },
+  {
+    "text" : "Thank you.",
+    "timestamp" : "03:56.020-04:26.000"
+  }
+]

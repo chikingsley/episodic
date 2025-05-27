@@ -1,0 +1,422 @@
+[
+  {
+    "text" : "Again, what is to take in French, to take?",
+    "timestamp" : "00:00.001-00:03.280"
+  },
+  {
+    "text" : "Prendre.",
+    "timestamp" : "00:03.280-00:06.440"
+  },
+  {
+    "timestamp" : "00:06.440-00:10.380",
+    "text" : "How would you say, I can take a taxi?"
+  },
+  {
+    "text" : "Je peux prendre un taxi.",
+    "timestamp" : "00:10.380-00:15.660"
+  },
+  {
+    "text" : "How would you say, where is it that I can take a taxi?",
+    "timestamp" : "00:15.660-00:19.920"
+  },
+  {
+    "timestamp" : "00:19.920-00:24.780",
+    "text" : "Où est-ce que je peux prendre un taxi?"
+  },
+  {
+    "timestamp" : "00:24.780-00:27.840",
+    "text" : "What is to buy in French?"
+  },
+  {
+    "timestamp" : "00:29.620-00:30.060",
+    "text" : "Acheter."
+  },
+  {
+    "timestamp" : "00:30.060-00:34.560",
+    "text" : "How would you say, where is it that I can buy?"
+  },
+  {
+    "text" : "Où est-ce que je peux acheter?",
+    "timestamp" : "00:34.560-00:38.740"
+  },
+  {
+    "timestamp" : "00:38.740-00:42.660",
+    "text" : "Do you remember what the word for a ticket in French was?"
+  },
+  {
+    "text" : "Un billet.",
+    "timestamp" : "00:42.660-00:44.080"
+  },
+  {
+    "timestamp" : "00:44.080-00:47.240",
+    "text" : "Where is it that I can buy a ticket?"
+  },
+  {
+    "text" : "Où est-ce que je peux acheter un billet?",
+    "timestamp" : "00:47.240-00:56.040"
+  },
+  {
+    "text" : "Of course, once you've found the place to buy your ticket, you'll need to be able to decide which one it is you want.",
+    "timestamp" : "00:57.340-01:02.680"
+  },
+  {
+    "text" : "Do you remember, what was a single, a single in terms of a ticket?",
+    "timestamp" : "01:02.680-01:09.160"
+  },
+  {
+    "text" : "It was a to-go simple, literally.",
+    "timestamp" : "01:09.160-01:11.360"
+  },
+  {
+    "text" : "Un aller simple.",
+    "timestamp" : "01:11.360-01:14.440"
+  },
+  {
+    "text" : "And a return, what was that?",
+    "timestamp" : "01:14.440-01:16.980"
+  },
+  {
+    "timestamp" : "01:16.980-01:19.340",
+    "text" : "Un aller-retour."
+  },
+  {
+    "text" : "How would you say, single or return?",
+    "timestamp" : "01:20.560-01:24.760"
+  },
+  {
+    "text" : "Aller simple ou aller-retour?",
+    "timestamp" : "01:24.760-01:31.940"
+  },
+  {
+    "text" : "Do you remember that the word for or was...",
+    "timestamp" : "01:31.940-01:34.940"
+  },
+  {
+    "text" : "Où?",
+    "timestamp" : "01:34.940-01:36.280"
+  },
+  {
+    "text" : "Try one more time.",
+    "timestamp" : "01:36.280-01:38.040"
+  },
+  {
+    "text" : "Single or return?",
+    "timestamp" : "01:38.040-01:40.720"
+  },
+  {
+    "text" : "Aller simple ou aller-retour?",
+    "timestamp" : "01:45.720-01:48.240"
+  },
+  {
+    "text" : "What is to continue in French?",
+    "timestamp" : "01:48.240-01:52.680"
+  },
+  {
+    "text" : "Continuer.",
+    "timestamp" : "01:52.680-01:54.680"
+  },
+  {
+    "timestamp" : "01:54.680-01:58.420",
+    "text" : "How would you say, must I continue?"
+  },
+  {
+    "timestamp" : "01:58.420-02:02.740",
+    "text" : "Dois-je continuer?"
+  },
+  {
+    "text" : "How about, must I change?",
+    "timestamp" : "02:02.740-02:07.400"
+  },
+  {
+    "text" : "Dois-je changer?",
+    "timestamp" : "02:12.440-02:13.640"
+  },
+  {
+    "text" : "Must I go down?",
+    "timestamp" : "02:13.640-02:17.900"
+  },
+  {
+    "text" : "Must I descend?",
+    "timestamp" : "02:17.900-02:19.140"
+  },
+  {
+    "timestamp" : "02:19.140-02:20.640",
+    "text" : "Must I get off?"
+  },
+  {
+    "timestamp" : "02:20.640-02:24.540",
+    "text" : "Dois-je descendre?"
+  },
+  {
+    "text" : "Must I get off here?",
+    "timestamp" : "02:24.540-02:26.600"
+  },
+  {
+    "timestamp" : "02:26.600-02:31.740",
+    "text" : "Dois-je descendre ici?"
+  },
+  {
+    "text" : "Say yes, you must get off here.",
+    "timestamp" : "02:31.740-02:35.380"
+  },
+  {
+    "timestamp" : "02:41.120-02:43.480",
+    "text" : "Oui, vous devez descendre ici."
+  },
+  {
+    "text" : "And you must pay a supplement.",
+    "timestamp" : "02:43.480-02:46.580"
+  },
+  {
+    "text" : "Et vous devez payer un supplément.",
+    "timestamp" : "02:46.580-02:52.920"
+  },
+  {
+    "text" : "What is your mother in French, your mother?",
+    "timestamp" : "02:52.920-02:57.320"
+  },
+  {
+    "text" : "Votre mère.",
+    "timestamp" : "02:57.320-03:00.340"
+  },
+  {
+    "text" : "And your father?",
+    "timestamp" : "03:00.340-03:01.700"
+  },
+  {
+    "text" : "Votre père.",
+    "timestamp" : "03:01.700-03:04.100"
+  },
+  {
+    "text" : "What is to go in French?",
+    "timestamp" : "03:04.100-03:07.520"
+  },
+  {
+    "text" : "Aller.",
+    "timestamp" : "03:07.520-03:09.320"
+  },
+  {
+    "text" : "You go.",
+    "timestamp" : "03:09.320-03:10.660"
+  },
+  {
+    "timestamp" : "03:10.660-03:13.360",
+    "text" : "Vous allez."
+  },
+  {
+    "text" : "We go.",
+    "timestamp" : "03:13.360-03:14.560"
+  },
+  {
+    "timestamp" : "03:14.560-03:16.540",
+    "text" : "Nous allons."
+  },
+  {
+    "timestamp" : "03:16.540-03:18.780",
+    "text" : "Let's go over to the V group now."
+  },
+  {
+    "timestamp" : "03:18.780-03:20.640",
+    "text" : "What is I go or I am going?"
+  },
+  {
+    "text" : "Je vais.",
+    "timestamp" : "03:20.640-03:22.260"
+  },
+  {
+    "text" : "He goes or he is going.",
+    "timestamp" : "03:22.260-03:24.040"
+  },
+  {
+    "timestamp" : "03:24.040-03:25.620",
+    "text" : "Il va."
+  },
+  {
+    "text" : "She goes.",
+    "timestamp" : "03:25.620-03:26.820"
+  },
+  {
+    "timestamp" : "03:26.820-03:28.340",
+    "text" : "Elle va."
+  },
+  {
+    "text" : "You, informal go.",
+    "timestamp" : "03:28.340-03:30.680"
+  },
+  {
+    "text" : "Tu vas.",
+    "timestamp" : "03:30.680-03:32.660"
+  },
+  {
+    "text" : "One goes or one is going.",
+    "timestamp" : "03:32.660-03:34.980"
+  },
+  {
+    "timestamp" : "03:36.020-03:36.380",
+    "text" : "On va."
+  },
+  {
+    "text" : "On va.",
+    "timestamp" : "03:36.380-03:36.420"
+  },
+  {
+    "timestamp" : "03:36.420-03:38.940",
+    "text" : "They go or they are going."
+  },
+  {
+    "timestamp" : "03:38.940-03:40.640",
+    "text" : "Ils vont."
+  },
+  {
+    "timestamp" : "03:40.640-03:43.060",
+    "text" : "A female group are going."
+  },
+  {
+    "text" : "Elles vont.",
+    "timestamp" : "03:43.060-03:44.880"
+  },
+  {
+    "text" : "Again, let's go back to he is going.",
+    "timestamp" : "03:44.880-03:47.480"
+  },
+  {
+    "timestamp" : "03:47.480-03:50.060",
+    "text" : "Il va."
+  },
+  {
+    "text" : "To Paris in French, to say to Paris, you will say...",
+    "timestamp" : "03:50.060-03:56.500"
+  },
+  {
+    "text" : "A Paris.",
+    "timestamp" : "03:56.500-03:57.120"
+  },
+  {
+    "timestamp" : "03:57.120-04:00.000",
+    "text" : "How would you say he's going to Paris?"
+  },
+  {
+    "text" : "Il va à Paris.",
+    "timestamp" : "04:00.000-04:02.820"
+  },
+  {
+    "timestamp" : "04:02.820-04:05.180",
+    "text" : "Your father is going to Paris."
+  },
+  {
+    "text" : "Votre père va à Paris.",
+    "timestamp" : "04:08.620-04:10.120"
+  },
+  {
+    "timestamp" : "04:10.120-04:13.400",
+    "text" : "How would you say they are going to Paris?"
+  },
+  {
+    "text" : "Ils vont à Paris.",
+    "timestamp" : "04:13.400-04:16.340"
+  },
+  {
+    "text" : "Your parents are going to Paris.",
+    "timestamp" : "04:16.340-04:19.140"
+  },
+  {
+    "timestamp" : "04:22.040-04:23.620",
+    "text" : "Vos parents vont à Paris."
+  },
+  {
+    "timestamp" : "04:23.620-04:26.700",
+    "text" : "Your ticket is going to expire."
+  },
+  {
+    "text" : "Votre billet va expirer.",
+    "timestamp" : "04:26.700-04:36.280"
+  },
+  {
+    "timestamp" : "04:36.280-04:39.840",
+    "text" : "Your tickets are going to expire."
+  },
+  {
+    "timestamp" : "04:39.840-04:46.060",
+    "text" : "Vos billets vont expirer."
+  },
+  {
+    "text" : "What was the word meaning tomorrow?",
+    "timestamp" : "04:46.060-04:49.320"
+  },
+  {
+    "text" : "Demain.",
+    "timestamp" : "04:49.320-04:54.280"
+  },
+  {
+    "timestamp" : "04:54.280-04:56.560",
+    "text" : "Demain."
+  },
+  {
+    "text" : "Your tickets are going to expire tomorrow.",
+    "timestamp" : "04:56.560-04:59.680"
+  },
+  {
+    "timestamp" : "04:59.680-05:05.280",
+    "text" : "Vos billets vont expirer demain."
+  },
+  {
+    "text" : "Vos billets vont expirer demain.",
+    "timestamp" : "05:05.280-05:06.280"
+  },
+  {
+    "text" : "Vos billets vont expirer demain.",
+    "timestamp" : "05:06.280-05:06.280"
+  },
+  {
+    "timestamp" : "05:06.280-05:06.280",
+    "text" : "Vos billets vont expirer demain."
+  },
+  {
+    "timestamp" : "05:06.280-05:06.280",
+    "text" : "Vos billets vont expir demain."
+  },
+  {
+    "timestamp" : "05:06.280-05:06.280",
+    "text" : "Vos billets vont expir demain."
+  },
+  {
+    "text" : "Vos billets vont expir demain.",
+    "timestamp" : "05:06.280-05:06.280"
+  },
+  {
+    "timestamp" : "05:06.280-05:07.280",
+    "text" : "Vos billets vont expir demain."
+  },
+  {
+    "text" : "Vos billets vont expir demain.",
+    "timestamp" : "05:07.280-05:07.280"
+  },
+  {
+    "text" : "Vos billets vont expir demain.",
+    "timestamp" : "05:07.280-05:08.280"
+  },
+  {
+    "text" : "Vos billets vont expir demain.",
+    "timestamp" : "05:08.280-05:08.280"
+  },
+  {
+    "text" : "Vos billets vont expir demain.",
+    "timestamp" : "05:08.280-05:08.280"
+  },
+  {
+    "timestamp" : "05:08.280-05:09.280",
+    "text" : "Vos billets vont expir demain."
+  },
+  {
+    "timestamp" : "05:09.280-05:10.280",
+    "text" : "Vos billets vont expir demain."
+  },
+  {
+    "timestamp" : "05:10.280-05:11.280",
+    "text" : "Vos billets vont expir demain."
+  },
+  {
+    "timestamp" : "05:11.280-05:12.280",
+    "text" : "Vos billets vont expir demain."
+  }
+]

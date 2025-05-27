@@ -1,0 +1,174 @@
+[
+  {
+    "timestamp" : "00:00.001-00:01.220",
+    "text" : "I have bought."
+  },
+  {
+    "text" : "J'ai acheté.",
+    "timestamp" : "00:01.220-00:04.140"
+  },
+  {
+    "text" : "I have bought it.",
+    "timestamp" : "00:04.140-00:06.300"
+  },
+  {
+    "timestamp" : "00:06.300-00:09.660",
+    "text" : "Je l'ai acheté."
+  },
+  {
+    "text" : "He has bought it.",
+    "timestamp" : "00:09.660-00:11.920"
+  },
+  {
+    "text" : "Il l'a acheté.",
+    "timestamp" : "00:11.920-00:14.320"
+  },
+  {
+    "timestamp" : "00:14.320-00:16.080",
+    "text" : "He has found it."
+  },
+  {
+    "timestamp" : "00:16.080-00:19.060",
+    "text" : "Il l'a trouvée."
+  },
+  {
+    "text" : "She has found it.",
+    "timestamp" : "00:19.060-00:21.240"
+  },
+  {
+    "timestamp" : "00:21.240-00:24.280",
+    "text" : "Elle l'a trouvée."
+  },
+  {
+    "text" : "You, informal, have eaten it.",
+    "timestamp" : "00:24.280-00:27.160"
+  },
+  {
+    "timestamp" : "00:27.160-00:32.020",
+    "text" : "Tu l'as mangé."
+  },
+  {
+    "text" : "You, informal, have eaten some of it.",
+    "timestamp" : "00:32.020-00:35.780"
+  },
+  {
+    "timestamp" : "00:35.780-00:40.160",
+    "text" : "T'en as mangé."
+  },
+  {
+    "timestamp" : "00:40.160-00:43.280",
+    "text" : "You have sold some of it."
+  },
+  {
+    "text" : "T'en as vendu.",
+    "timestamp" : "00:43.280-00:47.720"
+  },
+  {
+    "timestamp" : "00:47.720-00:51.000",
+    "text" : "You, formal, have sold some of it."
+  },
+  {
+    "text" : "Vous en avez vendu.",
+    "timestamp" : "00:51.000-00:55.200"
+  },
+  {
+    "text" : "We have sold some of it.",
+    "timestamp" : "00:55.860-00:57.620"
+  },
+  {
+    "timestamp" : "00:57.620-01:01.460",
+    "text" : "Nous en avons vendu."
+  },
+  {
+    "text" : "We have seen it.",
+    "timestamp" : "01:01.460-01:03.880"
+  },
+  {
+    "timestamp" : "01:03.880-01:07.320",
+    "text" : "Nous l'avons vu."
+  },
+  {
+    "timestamp" : "01:07.320-01:09.740",
+    "text" : "They have seen it."
+  },
+  {
+    "timestamp" : "01:09.740-01:12.780",
+    "text" : "Ils l'ont vu."
+  },
+  {
+    "timestamp" : "01:12.780-01:16.020",
+    "text" : "They, an entirely female group, have seen it."
+  },
+  {
+    "text" : "Elles l'ont vu.",
+    "timestamp" : "01:16.020-01:19.500"
+  },
+  {
+    "timestamp" : "01:19.500-01:23.600",
+    "text" : "They, an entirely female group, have understood it."
+  },
+  {
+    "text" : "They, a mixed group, haven't understood it.",
+    "timestamp" : "01:23.600-01:32.240"
+  },
+  {
+    "text" : "Ils ne l'ont pas compris.",
+    "timestamp" : "01:32.240-01:36.400"
+  },
+  {
+    "text" : "They haven't understood me.",
+    "timestamp" : "01:36.400-01:38.720"
+  },
+  {
+    "text" : "Ils ne m'ont pas compris.",
+    "timestamp" : "01:38.720-01:43.040"
+  },
+  {
+    "text" : "Using is it that, is it that they haven't understood me?",
+    "timestamp" : "01:43.040-01:48.060"
+  },
+  {
+    "text" : "Est-ce qu'ils ne m'ont pas compris?",
+    "timestamp" : "01:52.220-01:53.560"
+  },
+  {
+    "text" : "Est-ce qu'ils ne m'ont pas compris?",
+    "timestamp" : "01:53.560-01:53.580"
+  },
+  {
+    "timestamp" : "01:53.580-01:58.520",
+    "text" : "They have waited."
+  },
+  {
+    "timestamp" : "01:58.520-02:02.160",
+    "text" : "Ils ont attendu."
+  },
+  {
+    "timestamp" : "02:02.160-02:04.480",
+    "text" : "They have waited for me."
+  },
+  {
+    "text" : "Ils m'ont attendu.",
+    "timestamp" : "02:04.480-02:08.400"
+  },
+  {
+    "timestamp" : "02:08.400-02:10.100",
+    "text" : "They haven't waited for me."
+  },
+  {
+    "text" : "They haven't waited for me.",
+    "timestamp" : "02:13.040-02:14.040"
+  },
+  {
+    "text" : "They haven't waited for me.",
+    "timestamp" : "02:14.040-02:18.040"
+  },
+  {
+    "timestamp" : "02:18.040-02:22.060",
+    "text" : "They haven't waited for me."
+  },
+  {
+    "timestamp" : "02:22.060-02:52.040",
+    "text" : "Thank you."
+  }
+]

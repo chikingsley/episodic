@@ -1,0 +1,118 @@
+[
+  {
+    "timestamp" : "00:00.001-00:00.880",
+    "text" : "I am"
+  },
+  {
+    "timestamp" : "00:00.880-00:03.180",
+    "text" : "Je suis"
+  },
+  {
+    "text" : "We are",
+    "timestamp" : "00:03.180-00:04.860"
+  },
+  {
+    "text" : "Nous sommes",
+    "timestamp" : "00:04.860-00:06.840"
+  },
+  {
+    "timestamp" : "00:06.840-00:08.280",
+    "text" : "They are"
+  },
+  {
+    "timestamp" : "00:08.280-00:10.580",
+    "text" : "Ils sont"
+  },
+  {
+    "text" : "They are an entirely female group",
+    "timestamp" : "00:10.580-00:13.320"
+  },
+  {
+    "text" : "Elles sont",
+    "timestamp" : "00:13.320-00:16.520"
+  },
+  {
+    "timestamp" : "00:16.520-00:19.740",
+    "text" : "He is"
+  },
+  {
+    "text" : "Il est",
+    "timestamp" : "00:19.740-00:22.000"
+  },
+  {
+    "text" : "She is",
+    "timestamp" : "00:22.000-00:23.680"
+  },
+  {
+    "timestamp" : "00:23.680-00:25.320",
+    "text" : "Elle est"
+  },
+  {
+    "text" : "You are formal",
+    "timestamp" : "00:25.320-00:27.380"
+  },
+  {
+    "text" : "Vous êtes",
+    "timestamp" : "00:27.380-00:30.880"
+  },
+  {
+    "text" : "You are informal",
+    "timestamp" : "00:30.880-00:32.760"
+  },
+  {
+    "text" : "Tu es",
+    "timestamp" : "00:32.760-00:35.680"
+  },
+  {
+    "timestamp" : "00:35.680-00:39.800",
+    "text" : "You formal have gone"
+  },
+  {
+    "text" : "Vous êtes allé",
+    "timestamp" : "00:39.800-00:44.300"
+  },
+  {
+    "text" : "You have arrived",
+    "timestamp" : "00:44.300-00:47.420"
+  },
+  {
+    "text" : "Vous êtes arrivé",
+    "timestamp" : "00:47.420-00:50.420"
+  },
+  {
+    "text" : "We have left",
+    "timestamp" : "00:50.420-00:52.900"
+  },
+  {
+    "text" : "Nous sommes partis",
+    "timestamp" : "00:52.900-00:56.060"
+  },
+  {
+    "timestamp" : "00:56.060-00:58.200",
+    "text" : "We have come"
+  },
+  {
+    "text" : "Nous sommes venus",
+    "timestamp" : "00:58.200-01:01.380"
+  },
+  {
+    "text" : "They have stayed",
+    "timestamp" : "01:01.380-01:04.360"
+  },
+  {
+    "timestamp" : "01:04.360-01:07.940",
+    "text" : "Ils sont restés"
+  },
+  {
+    "timestamp" : "01:07.940-01:10.320",
+    "text" : "They have gone out"
+  },
+  {
+    "text" : "Ils sont sortis",
+    "timestamp" : "01:10.320-01:14.320"
+  },
+  {
+    "timestamp" : "01:14.320-01:44.300",
+    "text" : "Thank you."
+  }
+]

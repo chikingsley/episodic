@@ -1,0 +1,2066 @@
+[
+  {
+    "text" : "Écoutez cette conversation.",
+    "timestamp" : "00:00.001-00:10.140"
+  },
+  {
+    "text" : "Bonsoir. Permettez-moi de me présenter. Je m'appelle Jim Gordon.",
+    "timestamp" : "00:10.140-00:15.560"
+  },
+  {
+    "timestamp" : "00:15.560-00:18.220",
+    "text" : "Enchanté, M. Gordon. Je m'appelle Isabelle Petit."
+  },
+  {
+    "text" : "D'où êtes-vous, Mme Petit ?",
+    "timestamp" : "00:18.220-00:19.580"
+  },
+  {
+    "text" : "De Paris. Et vous ?",
+    "timestamp" : "00:19.580-00:21.080"
+  },
+  {
+    "text" : "Je suis Américain. J'habite à Washington avec ma famille.",
+    "timestamp" : "00:21.080-00:24.080"
+  },
+  {
+    "text" : "Vous avez été élevé à Washington ?",
+    "timestamp" : "00:24.080-00:26.200"
+  },
+  {
+    "timestamp" : "00:26.200-00:30.180",
+    "text" : "Non, mais j'y habite depuis cinq ans. Ma femme est professeure."
+  },
+  {
+    "text" : "Et vous ? Quelle est votre profession ?",
+    "timestamp" : "00:30.180-00:33.120"
+  },
+  {
+    "timestamp" : "00:33.120-00:37.180",
+    "text" : "Je suis directeur de banque. Et vous ? Où est-ce que vous travaillez ?"
+  },
+  {
+    "timestamp" : "00:37.180-00:38.820",
+    "text" : "Je travaille chez IBM, à Paris."
+  },
+  {
+    "text" : "Écoutez encore une fois cette conversation.",
+    "timestamp" : "00:39.820-00:41.720"
+  },
+  {
+    "text" : "Bonsoir. Permettez-moi de me présenter. Je m'appelle Jim Gordon.",
+    "timestamp" : "00:41.720-00:47.000"
+  },
+  {
+    "text" : "Enchanté, M. Gordon. Je m'appelle Isabelle Petit.",
+    "timestamp" : "00:47.000-00:49.660"
+  },
+  {
+    "text" : "D'où êtes-vous, Mme Petit ?",
+    "timestamp" : "00:49.660-00:51.160"
+  },
+  {
+    "timestamp" : "00:51.160-00:52.680",
+    "text" : "De Paris. Et vous ?"
+  },
+  {
+    "text" : "Je suis Américain. J'habite à Washington avec ma famille.",
+    "timestamp" : "00:52.680-00:55.880"
+  },
+  {
+    "text" : "Vous avez été élevé à Washington ?",
+    "timestamp" : "00:55.880-00:58.100"
+  },
+  {
+    "timestamp" : "00:58.100-01:01.980",
+    "text" : "Non, mais j'y habite depuis cinq ans. Ma femme est professeure."
+  },
+  {
+    "text" : "Et vous ? Quelle est votre profession ?",
+    "timestamp" : "01:01.980-01:04.280"
+  },
+  {
+    "text" : "Je suis directeur de banque. Et vous ? Où est-ce que vous travaillez ?",
+    "timestamp" : "01:04.280-01:08.300"
+  },
+  {
+    "text" : "Je travaille chez IBM, à Paris.",
+    "timestamp" : "01:08.300-01:09.960"
+  },
+  {
+    "timestamp" : "01:09.960-01:12.940",
+    "text" : "Do you remember ? Vous souvenez-vous ?"
+  },
+  {
+    "timestamp" : "01:12.940-01:17.140",
+    "text" : "Do you remember how to say, allow me to introduce myself ?"
+  },
+  {
+    "text" : "Permettez-moi de me présenter.",
+    "timestamp" : "01:17.140-01:22.260"
+  },
+  {
+    "timestamp" : "01:22.680-01:28.220",
+    "text" : "Permettez-moi de me présenter."
+  },
+  {
+    "timestamp" : "01:28.220-01:34.640",
+    "text" : "Say, my name is..."
+  },
+  {
+    "text" : "Je m'appelle.",
+    "timestamp" : "01:34.640-01:37.800"
+  },
+  {
+    "text" : "Ask, your name is...",
+    "timestamp" : "01:37.800-01:42.640"
+  },
+  {
+    "timestamp" : "01:45.640-01:49.480",
+    "text" : "Vous vous appelez ?"
+  },
+  {
+    "timestamp" : "01:49.480-01:51.480",
+    "text" : "Vous vous appelez ?"
+  },
+  {
+    "timestamp" : "01:51.480-01:55.200",
+    "text" : "Demandez-lui comment il s'appelle."
+  },
+  {
+    "timestamp" : "01:55.200-02:00.480",
+    "text" : "Comment vous appelez-vous ?"
+  },
+  {
+    "text" : "Comment...",
+    "timestamp" : "02:00.480-02:03.480"
+  },
+  {
+    "timestamp" : "02:03.480-02:07.480",
+    "text" : "Comment vous appelez-vous ?"
+  },
+  {
+    "timestamp" : "02:07.480-02:12.040",
+    "text" : "Dites que vous vous appelez Jim Gordon."
+  },
+  {
+    "text" : "Je m'appelle Jim Gordon.",
+    "timestamp" : "02:12.040-02:17.720"
+  },
+  {
+    "timestamp" : "02:17.720-02:23.600",
+    "text" : "Say, please to meet you."
+  },
+  {
+    "text" : "Enchanté.",
+    "timestamp" : "02:23.600-02:26.620"
+  },
+  {
+    "text" : "Enchanté de faire votre connaissance.",
+    "timestamp" : "02:26.620-02:30.880"
+  },
+  {
+    "text" : "Demandez-lui comment elle s'appelle.",
+    "timestamp" : "02:35.500-02:36.980"
+  },
+  {
+    "text" : "Demandez-lui comment elle s'appelle.",
+    "timestamp" : "02:36.980-02:36.980"
+  },
+  {
+    "timestamp" : "02:36.980-02:41.980",
+    "text" : "Comment vous appelez-vous ?"
+  },
+  {
+    "timestamp" : "02:41.980-02:47.380",
+    "text" : "She tells you that her name is Isabelle Petit."
+  },
+  {
+    "text" : "Je m'appelle Isabelle Petit.",
+    "timestamp" : "02:52.020-02:53.140"
+  },
+  {
+    "timestamp" : "02:53.140-02:58.780",
+    "text" : "Je m'appelle Isabelle Petit."
+  },
+  {
+    "timestamp" : "02:58.780-03:04.420",
+    "text" : "Comment dit-elle ?"
+  },
+  {
+    "text" : "Pleased to meet you.",
+    "timestamp" : "03:04.420-03:05.260"
+  },
+  {
+    "text" : "Enchanté.",
+    "timestamp" : "03:05.260-03:08.360"
+  },
+  {
+    "text" : "Enchanté de faire votre connaissance.",
+    "timestamp" : "03:08.360-03:12.620"
+  },
+  {
+    "text" : "Comment demande-t-elle ?",
+    "timestamp" : "03:17.560-03:19.380"
+  },
+  {
+    "text" : "Where are you from ?",
+    "timestamp" : "03:19.380-03:20.680"
+  },
+  {
+    "text" : "D'où êtes-vous ?",
+    "timestamp" : "03:20.680-03:23.680"
+  },
+  {
+    "text" : "D'où êtes-vous ?",
+    "timestamp" : "03:23.680-03:26.680"
+  },
+  {
+    "text" : "Where do you live ?",
+    "timestamp" : "03:26.680-03:30.680"
+  },
+  {
+    "text" : "Où est-ce que vous habitez ?",
+    "timestamp" : "03:30.680-03:35.680"
+  },
+  {
+    "timestamp" : "03:35.680-03:39.680",
+    "text" : "Où habitez-vous ?"
+  },
+  {
+    "timestamp" : "03:39.680-03:43.100",
+    "text" : "Répondez."
+  },
+  {
+    "text" : "I live in Washington.",
+    "timestamp" : "03:43.100-03:44.360"
+  },
+  {
+    "timestamp" : "03:44.360-03:49.180",
+    "text" : "J'habite à Washington."
+  },
+  {
+    "timestamp" : "03:49.180-03:55.360",
+    "text" : "How long are you staying in France ?"
+  },
+  {
+    "text" : "Combien de temps est-ce que vous restez en France ?",
+    "timestamp" : "03:55.360-04:02.360"
+  },
+  {
+    "text" : "Vous restez en France combien de temps ?",
+    "timestamp" : "04:02.360-04:09.360"
+  },
+  {
+    "timestamp" : "04:13.360-04:14.680",
+    "text" : "Dites."
+  },
+  {
+    "timestamp" : "04:14.680-04:15.920",
+    "text" : "Three weeks."
+  },
+  {
+    "timestamp" : "04:15.920-04:19.380",
+    "text" : "Trois semaines."
+  },
+  {
+    "text" : "I'm still staying three weeks.",
+    "timestamp" : "04:19.380-04:24.020"
+  },
+  {
+    "text" : "Je reste encore trois semaines.",
+    "timestamp" : "04:24.020-04:29.500"
+  },
+  {
+    "text" : "Je reste encore trois semaines.",
+    "timestamp" : "04:29.500-04:35.220"
+  },
+  {
+    "timestamp" : "04:39.280-04:40.280",
+    "text" : "Et ensuite ?"
+  },
+  {
+    "timestamp" : "04:40.280-04:43.280",
+    "text" : "Et ensuite ?"
+  },
+  {
+    "text" : "Répondez.",
+    "timestamp" : "04:43.280-04:44.280"
+  },
+  {
+    "timestamp" : "04:44.280-04:45.280",
+    "text" : "Et ensuite ?"
+  },
+  {
+    "text" : "Répondez.",
+    "timestamp" : "04:45.280-04:48.280"
+  },
+  {
+    "timestamp" : "04:48.280-04:51.360",
+    "text" : "Then I'm going to return to Washington."
+  },
+  {
+    "timestamp" : "04:51.360-04:57.720",
+    "text" : "Puis je vais retourner à Washington."
+  },
+  {
+    "text" : "Je vais retourner à Washington.",
+    "timestamp" : "04:57.720-05:04.240"
+  },
+  {
+    "text" : "Demandez à la femme d'où elle est.",
+    "timestamp" : "05:08.280-05:10.160"
+  },
+  {
+    "text" : "D'où êtes-vous ?",
+    "timestamp" : "05:10.160-05:13.800"
+  },
+  {
+    "text" : "Comment répond-elle ?",
+    "timestamp" : "05:13.800-05:16.800"
+  },
+  {
+    "text" : "I am from Bordeaux.",
+    "timestamp" : "05:16.800-05:18.500"
+  },
+  {
+    "text" : "Bordeaux.",
+    "timestamp" : "05:18.500-05:20.340"
+  },
+  {
+    "timestamp" : "05:20.340-05:25.060",
+    "text" : "Je suis de Bordeaux."
+  },
+  {
+    "text" : "Je suis de Bordeaux.",
+    "timestamp" : "05:25.060-05:29.740"
+  },
+  {
+    "text" : "Mais je suis de Bordeaux.",
+    "timestamp" : "05:33.000-05:34.640"
+  },
+  {
+    "timestamp" : "05:34.640-05:41.900",
+    "text" : "Mais j'ai été élevé à Marseille."
+  },
+  {
+    "text" : "Demandez.",
+    "timestamp" : "05:41.900-05:52.660"
+  },
+  {
+    "text" : "Do you like Bordeaux ?",
+    "timestamp" : "05:53.320-05:54.320"
+  },
+  {
+    "timestamp" : "05:54.320-05:54.320",
+    "text" : "Do you like Bordeaux ?"
+  },
+  {
+    "timestamp" : "05:54.320-05:55.320",
+    "text" : "Do you like Bordeaux ?"
+  },
+  {
+    "timestamp" : "05:55.320-05:57.320",
+    "text" : "Do you like Bordeaux ?"
+  },
+  {
+    "timestamp" : "05:57.320-05:59.320",
+    "text" : "Est-ce que vous aimez Bordeaux ?"
+  },
+  {
+    "timestamp" : "05:59.320-06:04.280",
+    "text" : "Comment répond-elle ?"
+  },
+  {
+    "text" : "Yes, I like Bordeaux very much.",
+    "timestamp" : "06:04.280-06:06.320"
+  },
+  {
+    "timestamp" : "06:10.640-06:11.640",
+    "text" : "Écoutez et répétez."
+  },
+  {
+    "timestamp" : "06:11.640-06:11.640",
+    "text" : "J'aime bien Bordeaux."
+  },
+  {
+    "timestamp" : "06:11.640-06:12.640",
+    "text" : "Yes, j'aime beaucoup Bordeaux."
+  },
+  {
+    "text" : "Yes, j'aime beaucoup Bordeaux.",
+    "timestamp" : "06:12.640-06:13.640"
+  },
+  {
+    "timestamp" : "06:13.640-06:15.640",
+    "text" : "Yes, j'aime beaucoup Bordeaux."
+  },
+  {
+    "text" : "Yes, j'aime beaucoup Bordeaux.",
+    "timestamp" : "06:15.640-06:16.640"
+  },
+  {
+    "timestamp" : "06:16.640-06:17.640",
+    "text" : "Yes, j'aime beaucoup Bordeaux."
+  },
+  {
+    "text" : "Yes, j'aime beaucoup Bordeaux.",
+    "timestamp" : "06:17.640-06:18.640"
+  },
+  {
+    "text" : "Yes, j'aime beaucoup Bordeaux.",
+    "timestamp" : "06:18.640-06:19.640"
+  },
+  {
+    "text" : "Here's another way to say, I like Bordeaux very much.",
+    "timestamp" : "06:19.640-06:23.640"
+  },
+  {
+    "text" : "Écoutez et répétez.",
+    "timestamp" : "06:23.640-06:24.640"
+  },
+  {
+    "text" : "J'aime bien Bordeaux.",
+    "timestamp" : "06:24.640-06:25.640"
+  },
+  {
+    "timestamp" : "06:25.640-06:38.640",
+    "text" : "J'aime bien Bordeaux."
+  },
+  {
+    "text" : "Dites, I like Bordeaux very much.",
+    "timestamp" : "06:38.640-06:52.640"
+  },
+  {
+    "timestamp" : "06:52.640-06:59.640",
+    "text" : "Dites maintenant, I like this town very much."
+  },
+  {
+    "text" : "J'aime bien cette ville.",
+    "timestamp" : "06:59.640-07:04.640"
+  },
+  {
+    "timestamp" : "07:04.640-07:08.640",
+    "text" : "Cette ville."
+  },
+  {
+    "text" : "J'aime bien cette ville.",
+    "timestamp" : "07:08.640-07:13.640"
+  },
+  {
+    "timestamp" : "07:13.640-07:17.640",
+    "text" : "Comment dit-il, I'm a teacher."
+  },
+  {
+    "timestamp" : "07:17.640-07:21.640",
+    "text" : "Je suis professeur."
+  },
+  {
+    "timestamp" : "07:21.640-07:22.640",
+    "text" : "Professeur."
+  },
+  {
+    "timestamp" : "07:22.640-07:22.640",
+    "text" : "Je suis professeur."
+  },
+  {
+    "timestamp" : "07:22.640-07:22.640",
+    "text" : "Je suis professeur."
+  },
+  {
+    "text" : "Je suis professeur.",
+    "timestamp" : "07:22.640-07:23.640"
+  },
+  {
+    "text" : "Demandez au monsieur quelle est sa profession.",
+    "timestamp" : "07:23.640-07:24.640"
+  },
+  {
+    "timestamp" : "07:24.640-07:26.640",
+    "text" : "Quelle est votre profession ?"
+  },
+  {
+    "timestamp" : "07:26.640-07:29.080",
+    "text" : "Je suis professeur."
+  },
+  {
+    "text" : "Demandez au monsieur quelle est sa profession.",
+    "timestamp" : "07:29.080-07:42.820"
+  },
+  {
+    "timestamp" : "07:42.820-07:52.640",
+    "text" : "Quelle est votre profession ?"
+  },
+  {
+    "text" : "Quelle est votre profession ?",
+    "timestamp" : "07:52.640-07:55.640"
+  },
+  {
+    "timestamp" : "07:55.640-08:05.640",
+    "text" : "Est-ce que vous êtes professeur ?"
+  },
+  {
+    "text" : "Vous êtes professeur ?",
+    "timestamp" : "08:05.640-08:09.640"
+  },
+  {
+    "text" : "Non, non.",
+    "timestamp" : "08:09.640-08:11.240"
+  },
+  {
+    "text" : "Non, non.",
+    "timestamp" : "08:11.240-08:14.440"
+  },
+  {
+    "timestamp" : "08:14.440-08:23.100",
+    "text" : "Je travaille dans une banque."
+  },
+  {
+    "timestamp" : "08:23.100-08:27.100",
+    "text" : "Dans une banque."
+  },
+  {
+    "timestamp" : "08:27.100-08:31.100",
+    "text" : "Je travaille dans une banque."
+  },
+  {
+    "text" : "Demandez.",
+    "timestamp" : "08:31.100-08:35.780"
+  },
+  {
+    "timestamp" : "08:35.780-08:39.100",
+    "text" : "You grew up in Marseille ?"
+  },
+  {
+    "timestamp" : "08:39.100-08:45.100",
+    "text" : "Est-ce que vous avez été élevé à Marseille ?"
+  },
+  {
+    "text" : "Vous avez été élevé à Marseille ?",
+    "timestamp" : "08:45.100-08:49.100"
+  },
+  {
+    "text" : "Vous avez été élevé à Marseille ?",
+    "timestamp" : "08:49.100-08:55.100"
+  },
+  {
+    "text" : "Je vous invite à Marseille ?",
+    "timestamp" : "08:55.100-08:57.100"
+  },
+  {
+    "text" : "Je vous invite à Marseille ?",
+    "timestamp" : "08:57.100-08:59.100"
+  },
+  {
+    "text" : "Je vous invite à Marseille ?",
+    "timestamp" : "08:59.100-09:01.100"
+  },
+  {
+    "text" : "Je vous invite à Marseille ?",
+    "timestamp" : "09:01.100-09:03.100"
+  },
+  {
+    "text" : "Je vous invite à Marseille ?",
+    "timestamp" : "09:03.100-09:05.100"
+  },
+  {
+    "text" : "Je vous invite à Marseille ?",
+    "timestamp" : "09:05.100-09:07.100"
+  },
+  {
+    "timestamp" : "09:07.100-09:09.100",
+    "text" : "Je vous invite à Marseille ?"
+  },
+  {
+    "text" : "Je vous invite à Marseille ?",
+    "timestamp" : "09:09.100-09:11.100"
+  },
+  {
+    "text" : "Je vous invite à Marseille ?",
+    "timestamp" : "09:11.100-09:13.100"
+  },
+  {
+    "timestamp" : "09:13.100-09:15.100",
+    "text" : "Je vous invite à Marseille ?"
+  },
+  {
+    "text" : "Je vous invite à Marseille ?",
+    "timestamp" : "09:15.100-09:17.100"
+  },
+  {
+    "text" : "Je vous invite à Marseille ?",
+    "timestamp" : "09:17.100-09:19.100"
+  },
+  {
+    "text" : "Je vous invite à Marseille ?",
+    "timestamp" : "09:19.100-09:21.100"
+  },
+  {
+    "text" : "Et où est-ce que vous allez ?",
+    "timestamp" : "09:21.100-09:27.100"
+  },
+  {
+    "text" : "Et où allez-vous ?",
+    "timestamp" : "09:27.100-09:31.100"
+  },
+  {
+    "text" : "?",
+    "timestamp" : "09:31.100-09:33.100"
+  },
+  {
+    "timestamp" : "09:33.100-09:37.100",
+    "text" : "Où est-ce que vous aimeriez aller ?"
+  },
+  {
+    "text" : "Où aimeriez-vous aller ?",
+    "timestamp" : "09:37.100-09:39.100"
+  },
+  {
+    "text" : "Où aimeriez-vous aller ?",
+    "timestamp" : "09:39.100-09:41.100"
+  },
+  {
+    "text" : "Où aimeriez-vous aller ?",
+    "timestamp" : "09:41.100-09:43.100"
+  },
+  {
+    "timestamp" : "09:43.100-09:47.100",
+    "text" : "We would like to visit Marseille."
+  },
+  {
+    "text" : "Nous aimerions visiter Marseille.",
+    "timestamp" : "09:47.100-09:51.100"
+  },
+  {
+    "text" : "Nous aimerions visiter Marseille.",
+    "timestamp" : "09:51.100-09:53.100"
+  },
+  {
+    "timestamp" : "09:53.100-09:55.100",
+    "text" : "Nous aimerions visiter Marseille."
+  },
+  {
+    "timestamp" : "09:55.100-09:57.100",
+    "text" : "Nous aimerions visiter Marseille."
+  },
+  {
+    "timestamp" : "09:57.100-09:59.100",
+    "text" : "Nous aimerions visiter Marseille."
+  },
+  {
+    "timestamp" : "09:59.100-10:01.100",
+    "text" : "Nous aimerions visiter Marseille."
+  },
+  {
+    "timestamp" : "10:01.100-10:03.100",
+    "text" : "Nous aimerions visiter Marseille."
+  },
+  {
+    "text" : "Nous aimerions visiter Marseille.",
+    "timestamp" : "10:03.100-10:05.100"
+  },
+  {
+    "text" : "Nous aimerions visiter Marseille.",
+    "timestamp" : "10:05.100-10:07.100"
+  },
+  {
+    "text" : "How is the weather down there ?",
+    "timestamp" : "10:07.100-10:09.100"
+  },
+  {
+    "timestamp" : "10:09.100-10:11.100",
+    "text" : "How is the weather down there ?"
+  },
+  {
+    "text" : "Quel temps est-ce qu'il fait là-bas ?",
+    "timestamp" : "10:11.100-10:13.100"
+  },
+  {
+    "timestamp" : "10:13.100-10:15.100",
+    "text" : "Quel temps est-ce qu'il fait là-bas ?"
+  },
+  {
+    "timestamp" : "10:15.100-10:17.100",
+    "text" : "Quel temps fait-il là-bas ?"
+  },
+  {
+    "timestamp" : "10:17.100-10:19.100",
+    "text" : "Quel temps fait-il là-bas ?"
+  },
+  {
+    "text" : "Does it rain a lot there in the summer ?",
+    "timestamp" : "10:19.100-10:21.100"
+  },
+  {
+    "timestamp" : "10:21.100-10:23.100",
+    "text" : "Does it rain a lot there in the summer ?"
+  },
+  {
+    "text" : "Does it rain a lot there in the summer ?",
+    "timestamp" : "10:23.100-10:29.100"
+  },
+  {
+    "text" : "Est-ce qu'il y pleut beaucoup en été ?",
+    "timestamp" : "10:29.100-10:33.100"
+  },
+  {
+    "timestamp" : "10:33.100-10:35.100",
+    "text" : "Il y pleut beaucoup en été ?"
+  },
+  {
+    "text" : "Il y pleut beaucoup en été ?",
+    "timestamp" : "10:35.100-10:41.100"
+  },
+  {
+    "text" : "Non, il y pleut pas beaucoup.",
+    "timestamp" : "10:41.100-10:51.100"
+  },
+  {
+    "timestamp" : "10:51.100-11:01.100",
+    "text" : "Il y pleut beaucoup en été ?"
+  },
+  {
+    "timestamp" : "11:01.100-11:03.100",
+    "text" : "Comment dit-on ?"
+  },
+  {
+    "text" : "Il y pleut beaucoup en été ?",
+    "timestamp" : "11:03.100-11:04.100"
+  },
+  {
+    "text" : "Il y pleut beaucoup en été ?",
+    "timestamp" : "11:04.100-11:05.100"
+  },
+  {
+    "text" : "Il y pleut beaucoup en été ?",
+    "timestamp" : "11:05.100-11:05.100"
+  },
+  {
+    "timestamp" : "11:05.100-11:06.100",
+    "text" : "Il y pleut beaucoup en été ?"
+  },
+  {
+    "text" : "Il y pleut beaucoup en été ?",
+    "timestamp" : "11:06.100-11:07.100"
+  },
+  {
+    "timestamp" : "11:07.100-11:08.100",
+    "text" : "Il y pleut beaucoup en été ?"
+  },
+  {
+    "text" : "Il y pleut beaucoup en été ?",
+    "timestamp" : "11:08.100-11:09.100"
+  },
+  {
+    "text" : "Il y pleut beaucoup en été ?",
+    "timestamp" : "11:09.100-11:10.100"
+  },
+  {
+    "text" : "Il y pleut beaucoup en été ?",
+    "timestamp" : "11:10.100-11:11.100"
+  },
+  {
+    "text" : "Il y pleut beaucoup en été ?",
+    "timestamp" : "11:11.100-11:12.100"
+  },
+  {
+    "text" : "Il y pleut beaucoup en été ?",
+    "timestamp" : "11:12.100-11:13.100"
+  },
+  {
+    "text" : "Il y pleut beaucoup en été ?",
+    "timestamp" : "11:13.100-11:14.100"
+  },
+  {
+    "text" : "Il y pleut beaucoup en été ?",
+    "timestamp" : "11:14.100-11:15.100"
+  },
+  {
+    "text" : "Il y pleut beaucoup en été ?",
+    "timestamp" : "11:15.100-11:16.100"
+  },
+  {
+    "text" : "Il y pleut beaucoup en été ?",
+    "timestamp" : "11:16.100-11:16.100"
+  },
+  {
+    "timestamp" : "11:16.100-11:17.100",
+    "text" : "Il y pleut beaucoup en été ?"
+  },
+  {
+    "timestamp" : "11:17.100-11:18.100",
+    "text" : "Il y pleut beaucoup en été ?"
+  },
+  {
+    "text" : "Il y pleut beaucoup en été ?",
+    "timestamp" : "11:18.100-11:19.100"
+  },
+  {
+    "timestamp" : "11:19.100-11:20.100",
+    "text" : "Il y pleut beaucoup en été ?"
+  },
+  {
+    "timestamp" : "11:20.100-11:21.100",
+    "text" : "Il y pleut beaucoup en été ?"
+  },
+  {
+    "timestamp" : "11:21.100-11:22.100",
+    "text" : "Il y pleut beaucoup en été ?"
+  },
+  {
+    "text" : "Il y pleut beaucoup en été ?",
+    "timestamp" : "11:22.100-11:24.100"
+  },
+  {
+    "text" : "Il fait mauvais ?",
+    "timestamp" : "11:24.100-11:29.100"
+  },
+  {
+    "timestamp" : "11:29.100-11:30.100",
+    "text" : "Dites maintenant :"
+  },
+  {
+    "text" : "The weather in Marseille is not bad in the summer.",
+    "timestamp" : "11:30.100-11:39.100"
+  },
+  {
+    "timestamp" : "11:39.100-11:47.100",
+    "text" : "Il ne fait pas mauvais à Marseille en été ?"
+  },
+  {
+    "text" : "Il ne fait pas mauvais à Marseille en été ?",
+    "timestamp" : "11:47.100-11:53.100"
+  },
+  {
+    "text" : "Eh bien, bon voyage !",
+    "timestamp" : "11:53.100-12:02.100"
+  },
+  {
+    "timestamp" : "12:02.100-12:05.100",
+    "text" : "Suppose you've been speaking with a French woman at a dinner party."
+  },
+  {
+    "timestamp" : "12:05.100-12:06.100",
+    "text" : "Comment dit-elle ?"
+  },
+  {
+    "timestamp" : "12:06.100-12:12.100",
+    "text" : "You speak French very well."
+  },
+  {
+    "timestamp" : "12:12.100-12:17.100",
+    "text" : "Vous parlez très bien français."
+  },
+  {
+    "text" : "Elle demande :",
+    "timestamp" : "12:17.100-12:18.100"
+  },
+  {
+    "timestamp" : "12:18.100-12:22.100",
+    "text" : "Do you come to France often ?"
+  },
+  {
+    "text" : "Est-ce que vous venez souvent en France ?",
+    "timestamp" : "12:22.100-12:23.100"
+  },
+  {
+    "text" : "Souvent en France ?",
+    "timestamp" : "12:23.100-12:23.100"
+  },
+  {
+    "timestamp" : "12:23.100-12:24.100",
+    "text" : "Souvent en France ?"
+  },
+  {
+    "timestamp" : "12:24.100-12:25.100",
+    "text" : "Vous venez souvent en France ?"
+  },
+  {
+    "timestamp" : "12:25.100-12:27.100",
+    "text" : "Répondez :"
+  },
+  {
+    "timestamp" : "12:27.100-12:29.100",
+    "text" : "Yes, very often."
+  },
+  {
+    "timestamp" : "12:29.100-12:30.100",
+    "text" : "Oui, très souvent."
+  },
+  {
+    "text" : "Oui, très souvent.",
+    "timestamp" : "12:30.100-12:30.100"
+  },
+  {
+    "text" : "Vous voulez dire :",
+    "timestamp" : "12:30.100-12:30.100"
+  },
+  {
+    "timestamp" : "12:30.100-12:31.100",
+    "text" : "My brother is married to a French woman."
+  },
+  {
+    "text" : "D'abord le mot :",
+    "timestamp" : "12:31.100-12:32.100"
+  },
+  {
+    "text" : "Brother.",
+    "timestamp" : "12:32.100-12:32.100"
+  },
+  {
+    "text" : "Vous venez souvent en France?",
+    "timestamp" : "12:32.100-12:38.080"
+  },
+  {
+    "text" : "Répondez, yes, very often.",
+    "timestamp" : "12:38.080-12:45.860"
+  },
+  {
+    "timestamp" : "12:45.860-12:51.340",
+    "text" : "Oui, très souvent."
+  },
+  {
+    "timestamp" : "12:51.340-12:58.760",
+    "text" : "Vous voulez dire, my brother is married to a French woman."
+  },
+  {
+    "text" : "D'abord le mot, brother.",
+    "timestamp" : "12:58.760-13:00.800"
+  },
+  {
+    "timestamp" : "13:01.660-13:02.700",
+    "text" : "Écoutez et répétez."
+  },
+  {
+    "text" : "Frère.",
+    "timestamp" : "13:02.700-13:04.060"
+  },
+  {
+    "timestamp" : "13:04.060-13:08.380",
+    "text" : "Frère."
+  },
+  {
+    "text" : "Le frère.",
+    "timestamp" : "13:08.380-13:12.260"
+  },
+  {
+    "timestamp" : "13:12.260-13:16.420",
+    "text" : "Mon frère."
+  },
+  {
+    "text" : "Is married.",
+    "timestamp" : "13:16.420-13:20.380"
+  },
+  {
+    "text" : "Répétez.",
+    "timestamp" : "13:20.380-13:21.480"
+  },
+  {
+    "timestamp" : "13:21.480-13:23.060",
+    "text" : "Est marié."
+  },
+  {
+    "timestamp" : "13:23.060-13:26.200",
+    "text" : "Marié."
+  },
+  {
+    "text" : "Est marié.",
+    "timestamp" : "13:26.200-13:29.640"
+  },
+  {
+    "text" : "My brother is married.",
+    "timestamp" : "13:31.220-13:33.540"
+  },
+  {
+    "text" : "Mon frère est marié.",
+    "timestamp" : "13:33.540-13:38.400"
+  },
+  {
+    "timestamp" : "13:38.400-13:43.240",
+    "text" : "Marié."
+  },
+  {
+    "timestamp" : "13:43.240-13:47.320",
+    "text" : "Mon frère est marié."
+  },
+  {
+    "timestamp" : "13:47.320-13:53.460",
+    "text" : "Essayez de dire, I'm married."
+  },
+  {
+    "timestamp" : "13:56.760-13:58.080",
+    "text" : "Je suis marié."
+  },
+  {
+    "timestamp" : "13:58.080-13:58.100",
+    "text" : "Je suis marié."
+  },
+  {
+    "timestamp" : "13:58.100-13:58.160",
+    "text" : "Je suis marié."
+  },
+  {
+    "text" : "Et comment dit-on, I'm not married?",
+    "timestamp" : "13:58.160-14:04.060"
+  },
+  {
+    "timestamp" : "14:04.060-14:09.020",
+    "text" : "Je ne suis pas marié."
+  },
+  {
+    "timestamp" : "14:09.020-14:15.300",
+    "text" : "Dites, but my brother is married."
+  },
+  {
+    "timestamp" : "14:19.360-14:20.900",
+    "text" : "Mais mon frère est marié."
+  },
+  {
+    "text" : "Mais mon frère est marié.",
+    "timestamp" : "14:20.900-14:20.980"
+  },
+  {
+    "timestamp" : "14:20.980-14:20.980",
+    "text" : "Mais mon frère est marié."
+  },
+  {
+    "text" : "Mais mon frère est marié.",
+    "timestamp" : "14:20.980-14:22.740"
+  },
+  {
+    "text" : "Mais mon frère est marié.",
+    "timestamp" : "14:22.740-14:24.900"
+  },
+  {
+    "timestamp" : "14:24.900-14:26.500",
+    "text" : "Mais mon frère est marié."
+  },
+  {
+    "text" : "To a French woman.",
+    "timestamp" : "14:26.500-14:31.320"
+  },
+  {
+    "timestamp" : "14:31.320-14:34.320",
+    "text" : "Say literally, with a French woman."
+  },
+  {
+    "timestamp" : "14:37.460-14:38.920",
+    "text" : "avec une Française."
+  },
+  {
+    "text" : "Avec une Française.",
+    "timestamp" : "14:38.920-14:38.920"
+  },
+  {
+    "text" : "Avec une Française.",
+    "timestamp" : "14:38.920-14:38.920"
+  },
+  {
+    "timestamp" : "14:38.920-14:39.920",
+    "text" : "Avec une Française."
+  },
+  {
+    "text" : "Avec une Française.",
+    "timestamp" : "14:39.920-14:40.920"
+  },
+  {
+    "text" : "Mon frère est marié.",
+    "timestamp" : "14:40.920-14:44.300"
+  },
+  {
+    "text" : "Avec une Française.",
+    "timestamp" : "14:44.300-14:44.920"
+  },
+  {
+    "text" : "Mon frère est marié.",
+    "timestamp" : "14:44.920-14:48.320"
+  },
+  {
+    "text" : "Avec une Française.",
+    "timestamp" : "14:48.320-14:49.640"
+  },
+  {
+    "timestamp" : "14:49.640-14:56.680",
+    "text" : "Say, he is married to a French woman."
+  },
+  {
+    "text" : "Il est marié.",
+    "timestamp" : "14:56.680-15:02.020"
+  },
+  {
+    "text" : "Il est marié avec une Française.",
+    "timestamp" : "15:02.020-15:03.280"
+  },
+  {
+    "text" : "Dites, he speaks French very well.",
+    "timestamp" : "15:03.280-15:10.800"
+  },
+  {
+    "text" : "Il parle très bien français.",
+    "timestamp" : "15:10.800-15:16.740"
+  },
+  {
+    "timestamp" : "15:16.740-15:22.780",
+    "text" : "Il parle très bien français."
+  },
+  {
+    "text" : "Et maintenant, répétez le mot sister.",
+    "timestamp" : "15:22.780-15:29.420"
+  },
+  {
+    "text" : "Sœur.",
+    "timestamp" : "15:29.420-15:31.340"
+  },
+  {
+    "text" : "Sœur.",
+    "timestamp" : "15:31.340-15:34.820"
+  },
+  {
+    "text" : "La sœur.",
+    "timestamp" : "15:34.820-15:38.560"
+  },
+  {
+    "text" : "Une sœur.",
+    "timestamp" : "15:38.560-15:43.080"
+  },
+  {
+    "timestamp" : "15:43.080-15:48.380",
+    "text" : "Comment dit-on my sister?"
+  },
+  {
+    "text" : "Ma sœur.",
+    "timestamp" : "15:51.580-15:52.820"
+  },
+  {
+    "text" : "Ma sœur.",
+    "timestamp" : "15:52.820-15:57.220"
+  },
+  {
+    "text" : "Essayez de dire",
+    "timestamp" : "15:57.220-16:01.220"
+  },
+  {
+    "text" : "My sister is married to an American.",
+    "timestamp" : "16:01.220-16:03.320"
+  },
+  {
+    "timestamp" : "16:03.320-16:10.660",
+    "text" : "Ma sœur est mariée avec un Américain."
+  },
+  {
+    "text" : "Avec un Américain.",
+    "timestamp" : "16:10.660-16:17.080"
+  },
+  {
+    "text" : "Avec un Américain.",
+    "timestamp" : "16:17.080-16:17.100"
+  },
+  {
+    "timestamp" : "16:20.380-16:23.440",
+    "text" : "Ma sœur est mariée avec un Américain."
+  },
+  {
+    "timestamp" : "16:23.440-16:29.420",
+    "text" : "Demandez."
+  },
+  {
+    "text" : "Really?",
+    "timestamp" : "16:29.420-16:30.140"
+  },
+  {
+    "text" : "Vraiment?",
+    "timestamp" : "16:30.140-16:33.220"
+  },
+  {
+    "text" : "Yes, to an American.",
+    "timestamp" : "16:33.220-16:36.960"
+  },
+  {
+    "timestamp" : "16:41.660-16:43.280",
+    "text" : "Oui, avec un Américain."
+  },
+  {
+    "timestamp" : "16:43.280-16:49.900",
+    "text" : "Ma sœur est mariée avec un Américain."
+  },
+  {
+    "timestamp" : "16:49.900-16:57.140",
+    "text" : "She's been married since three years."
+  },
+  {
+    "text" : "Remember you say she is married.",
+    "timestamp" : "16:57.140-16:59.960"
+  },
+  {
+    "timestamp" : "17:04.300-17:06.020",
+    "text" : "Elle est mariée depuis trois ans."
+  },
+  {
+    "text" : "Elle est mariée depuis trois ans.",
+    "timestamp" : "17:06.020-17:16.180"
+  },
+  {
+    "text" : "Her husband is from Reno, Nevada.",
+    "timestamp" : "17:16.180-17:18.600"
+  },
+  {
+    "timestamp" : "17:18.600-17:21.160",
+    "text" : "Reno, dans le Nevada."
+  },
+  {
+    "timestamp" : "17:26.800-17:28.840",
+    "text" : "Son mari est de Reno, Nevada."
+  },
+  {
+    "text" : "Dans le Nevada.",
+    "timestamp" : "17:28.840-17:28.840"
+  },
+  {
+    "text" : "Dans le Nevada.",
+    "timestamp" : "17:28.840-17:28.840"
+  },
+  {
+    "timestamp" : "17:28.840-17:29.400",
+    "text" : "Dans le Nevada."
+  },
+  {
+    "timestamp" : "17:29.400-17:31.340",
+    "text" : "Dans le Nevada."
+  },
+  {
+    "text" : "Dans le Nevada.",
+    "timestamp" : "17:31.340-17:31.340"
+  },
+  {
+    "text" : "Dans le Nevada.",
+    "timestamp" : "17:31.340-17:35.400"
+  },
+  {
+    "timestamp" : "17:35.400-17:40.480",
+    "text" : "Dites encore une fois."
+  },
+  {
+    "timestamp" : "17:40.480-17:42.700",
+    "text" : "Her husband is from Reno, Nevada."
+  },
+  {
+    "timestamp" : "17:47.700-17:49.020",
+    "text" : "Son mari est de Reno, Nevada."
+  },
+  {
+    "text" : "Dans le Nevada.",
+    "timestamp" : "17:49.020-17:49.660"
+  },
+  {
+    "timestamp" : "17:49.660-17:56.220",
+    "text" : "Your brother and his wife."
+  },
+  {
+    "timestamp" : "18:00.540-18:01.940",
+    "text" : "Votre frère et sa femme."
+  },
+  {
+    "timestamp" : "18:01.940-18:12.720",
+    "text" : "Where do they live?"
+  },
+  {
+    "text" : "Où est-ce qu'ils habitent?",
+    "timestamp" : "18:12.720-18:17.620"
+  },
+  {
+    "text" : "Où habitent-ils?",
+    "timestamp" : "18:17.620-18:22.380"
+  },
+  {
+    "timestamp" : "18:22.380-18:26.140",
+    "text" : "Répondez."
+  },
+  {
+    "text" : "In Orleans.",
+    "timestamp" : "18:26.140-18:27.320"
+  },
+  {
+    "text" : "Orléans.",
+    "timestamp" : "18:28.280-18:28.800"
+  },
+  {
+    "timestamp" : "18:28.800-18:32.460",
+    "text" : "À Orléans."
+  },
+  {
+    "text" : "Where does your brother work?",
+    "timestamp" : "18:32.460-18:36.460"
+  },
+  {
+    "timestamp" : "18:36.460-18:42.500",
+    "text" : "Où est-ce que votre frère travaille?"
+  },
+  {
+    "timestamp" : "18:42.500-18:48.420",
+    "text" : "Où travaille votre frère?"
+  },
+  {
+    "timestamp" : "18:48.420-18:53.960",
+    "text" : "At IBM."
+  },
+  {
+    "timestamp" : "18:57.400-18:58.360",
+    "text" : "Chez IBM."
+  },
+  {
+    "timestamp" : "18:58.360-19:02.820",
+    "text" : "Chez IBM."
+  },
+  {
+    "text" : "But I know.",
+    "timestamp" : "19:02.820-19:07.180"
+  },
+  {
+    "text" : "Mais je sais.",
+    "timestamp" : "19:07.180-19:11.320"
+  },
+  {
+    "text" : "That they are not going to stay.",
+    "timestamp" : "19:11.320-19:16.080"
+  },
+  {
+    "timestamp" : "19:16.080-19:17.400",
+    "text" : "Répétez."
+  },
+  {
+    "timestamp" : "19:17.400-19:19.400",
+    "text" : "Qu'ils ne vont pas rester."
+  },
+  {
+    "text" : "Vont.",
+    "timestamp" : "19:19.400-19:23.600"
+  },
+  {
+    "text" : "Ils vont.",
+    "timestamp" : "19:23.600-19:26.600"
+  },
+  {
+    "text" : "Qu'ils ne vont pas rester.",
+    "timestamp" : "19:26.600-19:30.700"
+  },
+  {
+    "timestamp" : "19:30.700-19:36.100",
+    "text" : "That they are not going to stay in Orleans."
+  },
+  {
+    "timestamp" : "19:36.100-19:43.100",
+    "text" : "Qu'ils ne vont pas rester à Orléans."
+  },
+  {
+    "timestamp" : "19:43.100-19:49.540",
+    "text" : "Say very long."
+  },
+  {
+    "text" : "Or a very long time.",
+    "timestamp" : "19:49.540-19:51.820"
+  },
+  {
+    "text" : "très long time.",
+    "timestamp" : "19:54.420-19:55.660"
+  },
+  {
+    "text" : "Très long time.",
+    "timestamp" : "19:55.660-19:55.760"
+  },
+  {
+    "timestamp" : "19:55.760-19:55.760",
+    "text" : "Très long time."
+  },
+  {
+    "timestamp" : "19:55.760-19:55.760",
+    "text" : "Très long time."
+  },
+  {
+    "text" : "Très long time.",
+    "timestamp" : "19:55.760-19:55.760"
+  },
+  {
+    "text" : "Très long time.",
+    "timestamp" : "19:55.760-19:55.760"
+  },
+  {
+    "text" : "Très long time.",
+    "timestamp" : "19:55.760-19:55.760"
+  },
+  {
+    "timestamp" : "19:55.760-19:55.760",
+    "text" : "Très long time."
+  },
+  {
+    "text" : "Très long time.",
+    "timestamp" : "19:55.760-19:56.760"
+  },
+  {
+    "text" : "Très long time.",
+    "timestamp" : "19:56.760-19:57.760"
+  },
+  {
+    "timestamp" : "19:57.760-19:59.760",
+    "text" : "Très long time."
+  },
+  {
+    "text" : "Say he is married to a French woman.",
+    "timestamp" : "19:59.760-20:05.480"
+  },
+  {
+    "text" : "He is married to a French woman.",
+    "timestamp" : "20:05.480-20:09.820"
+  },
+  {
+    "text" : "He is married to a French woman.",
+    "timestamp" : "20:09.820-20:12.100"
+  },
+  {
+    "text" : "He is married to a French woman.",
+    "timestamp" : "20:12.100-20:12.320"
+  },
+  {
+    "text" : "He is married to a French woman.",
+    "timestamp" : "20:12.320-20:16.140"
+  },
+  {
+    "timestamp" : "20:16.140-20:18.040",
+    "text" : "He is married to a French woman."
+  },
+  {
+    "timestamp" : "20:18.040-20:18.720",
+    "text" : "He is married to a French woman."
+  },
+  {
+    "timestamp" : "20:18.720-20:19.360",
+    "text" : "He is married to a French woman."
+  },
+  {
+    "text" : "He is married to a French woman.",
+    "timestamp" : "20:19.360-20:20.560"
+  },
+  {
+    "text" : "He is married to a French woman.",
+    "timestamp" : "20:20.560-20:21.400"
+  },
+  {
+    "text" : "I know.",
+    "timestamp" : "20:21.400-20:23.100"
+  },
+  {
+    "text" : "I know.",
+    "timestamp" : "20:23.100-20:24.220"
+  },
+  {
+    "text" : "I know.",
+    "timestamp" : "20:24.220-20:25.220"
+  },
+  {
+    "text" : "I know.",
+    "timestamp" : "20:25.220-20:26.220"
+  },
+  {
+    "timestamp" : "20:26.220-20:27.220",
+    "text" : "I know."
+  },
+  {
+    "timestamp" : "20:27.220-20:28.220",
+    "text" : "I know."
+  },
+  {
+    "text" : "I know.",
+    "timestamp" : "20:28.220-20:31.220"
+  },
+  {
+    "text" : "That they are not staying for a very long time.",
+    "timestamp" : "20:31.220-20:33.220"
+  },
+  {
+    "timestamp" : "20:33.220-20:37.020",
+    "text" : "Qu'ils ne vont pas rester très longtemps."
+  },
+  {
+    "timestamp" : "20:37.020-20:46.080",
+    "text" : "Qu'ils ne vont pas rester très longtemps."
+  },
+  {
+    "timestamp" : "20:46.080-20:59.660",
+    "text" : "Posez la question : And you, what is your profession ?"
+  },
+  {
+    "timestamp" : "20:59.660-21:09.660",
+    "text" : "Et vous, quelle est votre profession ?"
+  },
+  {
+    "text" : "Répondez : I work in a bank.",
+    "timestamp" : "21:09.660-21:15.660"
+  },
+  {
+    "timestamp" : "21:15.660-21:24.660",
+    "text" : "Je travaille dans une banque."
+  },
+  {
+    "text" : "Répétez : I am a bank manager.",
+    "timestamp" : "21:24.660-21:26.660"
+  },
+  {
+    "text" : "Je suis directeur de banque.",
+    "timestamp" : "21:26.660-21:36.660"
+  },
+  {
+    "timestamp" : "21:36.660-21:42.660",
+    "text" : "Je suis directeur de banque."
+  },
+  {
+    "text" : "Je suis directeur de banque.",
+    "timestamp" : "21:42.660-21:52.660"
+  },
+  {
+    "timestamp" : "21:52.660-22:02.660",
+    "text" : "Je suis directeur de banque."
+  },
+  {
+    "timestamp" : "22:02.660-22:04.660",
+    "text" : "Je suis directeur de banque."
+  },
+  {
+    "text" : "Je suis directeur de banque.",
+    "timestamp" : "22:04.660-22:06.660"
+  },
+  {
+    "timestamp" : "22:06.660-22:16.660",
+    "text" : "Je suis directeur de banque."
+  },
+  {
+    "timestamp" : "22:16.660-22:26.660",
+    "text" : "Je suis directeur de banque."
+  },
+  {
+    "text" : "Je suis directeur de banque.",
+    "timestamp" : "22:26.660-22:28.660"
+  },
+  {
+    "timestamp" : "22:28.660-22:30.660",
+    "text" : "Je suis directeur de banque."
+  },
+  {
+    "text" : "Je suis directeur de banque.",
+    "timestamp" : "22:30.660-22:31.660"
+  },
+  {
+    "timestamp" : "22:31.660-22:32.660",
+    "text" : "Je suis directeur de banque."
+  },
+  {
+    "text" : "Je suis directeur de banque.",
+    "timestamp" : "22:32.660-22:33.660"
+  },
+  {
+    "timestamp" : "22:33.660-22:34.660",
+    "text" : "Je suis directeur de banque."
+  },
+  {
+    "text" : "Je suis directeur de banque.",
+    "timestamp" : "22:34.660-22:35.660"
+  },
+  {
+    "text" : "Je suis directeur de banque.",
+    "timestamp" : "22:35.660-22:36.660"
+  },
+  {
+    "timestamp" : "22:36.660-22:37.660",
+    "text" : "Je suis directeur de banque."
+  },
+  {
+    "timestamp" : "22:37.660-22:38.660",
+    "text" : "Je suis directeur de banque."
+  },
+  {
+    "timestamp" : "22:38.660-22:39.660",
+    "text" : "Je suis directeur de banque."
+  },
+  {
+    "text" : "Je suis directeur de banque.",
+    "timestamp" : "22:39.660-22:40.660"
+  },
+  {
+    "timestamp" : "22:40.660-22:41.660",
+    "text" : "Je suis directeur de banque."
+  },
+  {
+    "text" : "Je suis directeur de banque.",
+    "timestamp" : "22:41.660-22:42.660"
+  },
+  {
+    "timestamp" : "22:42.660-22:43.660",
+    "text" : "Je suis directeur de banque."
+  },
+  {
+    "timestamp" : "22:43.660-22:44.660",
+    "text" : "Je suis directeur de banque."
+  },
+  {
+    "text" : "Je suis directeur de banque.",
+    "timestamp" : "22:44.660-22:45.660"
+  },
+  {
+    "timestamp" : "22:45.660-22:46.660",
+    "text" : "Je suis directeur de banque."
+  },
+  {
+    "timestamp" : "22:46.660-22:47.660",
+    "text" : "Je suis directeur de banque."
+  },
+  {
+    "timestamp" : "22:47.660-22:48.660",
+    "text" : "Je suis directeur de banque."
+  },
+  {
+    "timestamp" : "22:48.660-22:49.660",
+    "text" : "Je suis directeur de banque."
+  },
+  {
+    "text" : "Je suis directeur de banque.",
+    "timestamp" : "22:49.660-22:50.660"
+  },
+  {
+    "text" : "Je suis directeur de banque.",
+    "timestamp" : "22:50.660-22:51.660"
+  },
+  {
+    "text" : "Je suis directeur de banque.",
+    "timestamp" : "22:51.660-22:51.660"
+  },
+  {
+    "timestamp" : "22:51.660-22:52.660",
+    "text" : "Je suis directeur de banque."
+  },
+  {
+    "timestamp" : "22:52.660-22:53.660",
+    "text" : "Je suis directeur de banque."
+  },
+  {
+    "timestamp" : "22:53.660-22:54.660",
+    "text" : "Je suis directeur de banque."
+  },
+  {
+    "timestamp" : "22:54.660-22:55.660",
+    "text" : "Je suis directeur de banque."
+  },
+  {
+    "timestamp" : "22:55.660-22:55.660",
+    "text" : "Je suis directeur de banque."
+  },
+  {
+    "timestamp" : "22:55.660-22:56.660",
+    "text" : "Je suis directeur de banque."
+  },
+  {
+    "timestamp" : "22:56.660-22:57.660",
+    "text" : "Je suis directeur de banque."
+  },
+  {
+    "text" : "Je suis directeur de banque.",
+    "timestamp" : "22:57.660-22:58.660"
+  },
+  {
+    "timestamp" : "22:58.660-22:59.660",
+    "text" : "Je suis directeur de banque."
+  },
+  {
+    "text" : "Je suis directeur de banque.",
+    "timestamp" : "22:59.660-23:00.660"
+  },
+  {
+    "text" : "Je suis directeur de banque.",
+    "timestamp" : "23:00.660-23:01.660"
+  },
+  {
+    "timestamp" : "23:01.660-23:02.660",
+    "text" : "Je suis directeur de banque."
+  },
+  {
+    "text" : "Je suis directeur de banque.",
+    "timestamp" : "23:02.660-23:03.660"
+  },
+  {
+    "text" : "Je suis directeur de banque.",
+    "timestamp" : "23:03.660-23:04.660"
+  },
+  {
+    "text" : "Je suis directeur de banque.",
+    "timestamp" : "23:04.660-23:05.660"
+  },
+  {
+    "timestamp" : "23:05.660-23:06.660",
+    "text" : "Je suis directeur de banque."
+  },
+  {
+    "text" : "Je suis directeur de banque.",
+    "timestamp" : "23:06.660-23:07.660"
+  },
+  {
+    "text" : "Je suis directeur de banque.",
+    "timestamp" : "23:07.660-23:08.660"
+  },
+  {
+    "timestamp" : "23:08.660-23:09.660",
+    "text" : "Je suis directeur de banque."
+  },
+  {
+    "timestamp" : "23:09.660-23:10.660",
+    "text" : "Je suis directeur de banque."
+  },
+  {
+    "text" : "Je suis directeur de banque.",
+    "timestamp" : "23:10.660-23:11.660"
+  },
+  {
+    "timestamp" : "23:11.660-23:12.660",
+    "text" : "Je suis directeur de banque."
+  },
+  {
+    "text" : "Je suis directeur de banque.",
+    "timestamp" : "23:12.660-23:13.660"
+  },
+  {
+    "text" : "Je suis directeur de banque.",
+    "timestamp" : "23:13.660-23:14.660"
+  },
+  {
+    "text" : "Je suis directeur de banque.",
+    "timestamp" : "23:14.660-23:15.660"
+  },
+  {
+    "timestamp" : "23:15.660-23:16.660",
+    "text" : "Je suis directeur de banque."
+  },
+  {
+    "timestamp" : "23:16.660-23:17.660",
+    "text" : "Je suis directeur de banque."
+  },
+  {
+    "timestamp" : "23:17.660-23:18.660",
+    "text" : "Je suis directeur de banque."
+  },
+  {
+    "timestamp" : "23:18.660-23:19.660",
+    "text" : "Je suis directeur de banque."
+  },
+  {
+    "text" : "Je suis directeur de banque.",
+    "timestamp" : "23:19.660-23:20.660"
+  },
+  {
+    "text" : "Je suis directeur de banque.",
+    "timestamp" : "23:20.660-23:21.660"
+  },
+  {
+    "text" : "Je suis directeur de banque.",
+    "timestamp" : "23:21.660-23:22.660"
+  },
+  {
+    "timestamp" : "23:22.660-23:23.660",
+    "text" : "Je suis directeur de banque."
+  },
+  {
+    "text" : "Je suis directeur de banque.",
+    "timestamp" : "23:23.660-23:24.660"
+  },
+  {
+    "timestamp" : "23:24.660-23:45.660",
+    "text" : "Ma soeur est mariée avec un Américain."
+  },
+  {
+    "timestamp" : "23:45.660-23:53.660",
+    "text" : "She lives in Washington with her husband."
+  },
+  {
+    "timestamp" : "23:53.660-24:08.660",
+    "text" : "Elle habite à Washington avec son mari."
+  },
+  {
+    "text" : "How do you say teacher?",
+    "timestamp" : "24:08.660-24:12.660"
+  },
+  {
+    "timestamp" : "24:12.660-24:17.660",
+    "text" : "Professeur."
+  },
+  {
+    "timestamp" : "24:17.660-24:22.660",
+    "text" : "Comment dit-on she's a teacher?"
+  },
+  {
+    "timestamp" : "24:22.660-24:23.660",
+    "text" : "Elle est professeur."
+  },
+  {
+    "timestamp" : "24:23.660-24:23.660",
+    "text" : "Professeur."
+  },
+  {
+    "text" : "Professeur.",
+    "timestamp" : "24:23.660-24:24.660"
+  },
+  {
+    "timestamp" : "24:24.660-24:25.660",
+    "text" : "Vous vous souvenez comment on demande…"
+  },
+  {
+    "text" : "Do you remember how to ask, do you like France?",
+    "timestamp" : "24:25.660-24:37.660"
+  },
+  {
+    "text" : "Est-ce que vous aimez la France?",
+    "timestamp" : "24:37.660-24:38.660"
+  },
+  {
+    "timestamp" : "24:38.660-24:39.660",
+    "text" : "Vous aimez la France?"
+  },
+  {
+    "timestamp" : "24:39.660-24:40.660",
+    "text" : "Voici comment on dit…"
+  },
+  {
+    "timestamp" : "24:40.660-24:41.660",
+    "text" : "Does she like Washington?"
+  },
+  {
+    "text" : "Répétez.",
+    "timestamp" : "24:41.660-24:42.660"
+  },
+  {
+    "text" : "Est-ce qu'elle aime Washington?",
+    "timestamp" : "24:42.660-24:42.660"
+  },
+  {
+    "text" : "Elle aime Washington?",
+    "timestamp" : "24:42.660-24:43.660"
+  },
+  {
+    "timestamp" : "24:43.660-24:44.660",
+    "text" : "Oui, elle aime Washington."
+  },
+  {
+    "text" : "Elle aime Washington?",
+    "timestamp" : "24:44.660-24:44.660"
+  },
+  {
+    "text" : "Oui.",
+    "timestamp" : "24:44.660-24:45.660"
+  },
+  {
+    "timestamp" : "24:45.660-24:46.660",
+    "text" : "Elle aime Washington."
+  },
+  {
+    "text" : "Elle aime Washington.",
+    "timestamp" : "24:46.660-24:47.660"
+  },
+  {
+    "timestamp" : "24:47.660-24:48.660",
+    "text" : "Oui, elle aime Washington."
+  },
+  {
+    "text" : "Oui, elle aime Washington.",
+    "timestamp" : "24:48.660-24:48.660"
+  },
+  {
+    "timestamp" : "24:48.660-24:49.660",
+    "text" : "Oui."
+  },
+  {
+    "text" : "Elle aime Washington.",
+    "timestamp" : "24:49.660-24:50.660"
+  },
+  {
+    "text" : "Oui.",
+    "timestamp" : "24:50.660-24:50.660"
+  },
+  {
+    "timestamp" : "24:50.660-24:51.660",
+    "text" : "Elle aime Washington."
+  },
+  {
+    "timestamp" : "24:51.660-24:52.660",
+    "text" : "Oui."
+  },
+  {
+    "timestamp" : "24:52.660-24:53.660",
+    "text" : "Elle aime Washington."
+  },
+  {
+    "text" : "Oui.",
+    "timestamp" : "24:53.660-24:54.660"
+  },
+  {
+    "timestamp" : "24:54.660-24:55.660",
+    "text" : "Elle aime Washington."
+  },
+  {
+    "text" : "Oui.",
+    "timestamp" : "24:55.660-24:56.660"
+  },
+  {
+    "timestamp" : "24:56.660-24:57.660",
+    "text" : "Elle aime Washington."
+  },
+  {
+    "timestamp" : "24:57.660-24:58.660",
+    "text" : "Oui."
+  },
+  {
+    "text" : "Elle aime bien Washington.",
+    "timestamp" : "24:58.660-24:58.660"
+  },
+  {
+    "timestamp" : "24:58.660-24:59.660",
+    "text" : "Oui."
+  },
+  {
+    "text" : "Oui.",
+    "timestamp" : "24:59.660-25:00.660"
+  },
+  {
+    "timestamp" : "25:00.660-25:00.660",
+    "text" : "Elle aime bien Washington."
+  },
+  {
+    "timestamp" : "25:00.660-25:01.660",
+    "text" : "Oui."
+  },
+  {
+    "timestamp" : "25:01.660-25:02.660",
+    "text" : "Elle aime bien Washington."
+  },
+  {
+    "timestamp" : "25:02.660-25:04.660",
+    "text" : "Elle aime Washington?"
+  },
+  {
+    "text" : "Yes, she likes Washington very much. Say, aime bien.",
+    "timestamp" : "25:04.660-25:13.620"
+  },
+  {
+    "text" : "Oui, elle aime bien Washington.",
+    "timestamp" : "25:13.620-25:20.680"
+  },
+  {
+    "timestamp" : "25:31.740-25:41.840",
+    "text" : "Washington est une ville très intéressante."
+  },
+  {
+    "timestamp" : "26:00.820-26:02.920",
+    "text" : "Introduce yourself to someone standing next to you."
+  },
+  {
+    "timestamp" : "26:02.920-26:09.380",
+    "text" : "Permettez-moi de me présenter."
+  },
+  {
+    "text" : "Tell her your name.",
+    "timestamp" : "26:09.380-26:15.560"
+  },
+  {
+    "text" : "Je m'appelle Jim Gordon.",
+    "timestamp" : "26:19.980-26:21.080"
+  },
+  {
+    "text" : "Enchanté, Monsieur Gordon. Je m'appelle Monique Martin.",
+    "timestamp" : "26:21.080-26:27.380"
+  },
+  {
+    "text" : "Comment dites-vous, pleased to meet you, Mrs. Martin?",
+    "timestamp" : "26:27.380-26:31.660"
+  },
+  {
+    "text" : "Enchanté, Madame Martin.",
+    "timestamp" : "26:36.160-26:37.260"
+  },
+  {
+    "text" : "Enchanté de faire votre connaissance.",
+    "timestamp" : "26:37.260-26:41.500"
+  },
+  {
+    "timestamp" : "26:41.500-26:47.560",
+    "text" : "Vous êtes Américain, n'est-ce pas?"
+  },
+  {
+    "timestamp" : "26:47.560-26:50.000",
+    "text" : "Say, yes, I am American."
+  },
+  {
+    "timestamp" : "26:54.640-26:56.360",
+    "text" : "Oui, je suis Américain."
+  },
+  {
+    "timestamp" : "26:56.360-26:59.860",
+    "text" : "D'où êtes-vous?"
+  },
+  {
+    "timestamp" : "26:59.860-27:04.240",
+    "text" : "De Paris. Je suis Parisienne."
+  },
+  {
+    "text" : "Ask her if she grew up in Paris.",
+    "timestamp" : "27:04.240-27:06.880"
+  },
+  {
+    "text" : "Est-ce que vous avez été élevé à Paris?",
+    "timestamp" : "27:11.980-27:13.820"
+  },
+  {
+    "timestamp" : "27:13.820-27:19.080",
+    "text" : "Vous avez été élevé à Paris?"
+  },
+  {
+    "timestamp" : "27:19.080-27:24.440",
+    "text" : "Oui, j'ai été élevé à Paris."
+  },
+  {
+    "text" : "Et vous, d'où êtes-vous?",
+    "timestamp" : "27:24.440-27:26.140"
+  },
+  {
+    "text" : "Tell her from Washington.",
+    "timestamp" : "27:26.140-27:28.780"
+  },
+  {
+    "text" : "De Washington.",
+    "timestamp" : "27:31.820-27:32.780"
+  },
+  {
+    "timestamp" : "27:32.780-27:37.000",
+    "text" : "Je suis de Washington."
+  },
+  {
+    "text" : "Vous venez souvent en France?",
+    "timestamp" : "27:37.000-27:42.360"
+  },
+  {
+    "text" : "Say, yes, rather often.",
+    "timestamp" : "27:42.360-27:44.820"
+  },
+  {
+    "text" : "Oui, assez souvent.",
+    "timestamp" : "27:44.820-27:50.240"
+  },
+  {
+    "timestamp" : "27:50.240-27:55.880",
+    "text" : "And I really like France."
+  },
+  {
+    "timestamp" : "28:00.360-28:02.040",
+    "text" : "Et j'aime vraiment la France."
+  },
+  {
+    "text" : "J'aime vraiment la France.",
+    "timestamp" : "28:02.040-28:08.240"
+  },
+  {
+    "text" : "This is the end of Unit 2.",
+    "timestamp" : "28:08.240-28:14.460"
+  }
+]

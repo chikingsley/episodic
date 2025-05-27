@@ -1,0 +1,70 @@
+[
+  {
+    "text" : "Musique",
+    "timestamp" : "00:00.001-00:02.000"
+  },
+  {
+    "text" : "Un petit pouce qui danse, un petit pouce qui danse, un petit pouce qui danse et ça suffit pour m'amuser",
+    "timestamp" : "00:02.000-00:13.600"
+  },
+  {
+    "text" : "Deux petits pouces qui danse, deux petits pouces qui danse, deux petits pouces qui danse et ça suffit pour m'amuser",
+    "timestamp" : "00:13.600-00:23.120"
+  },
+  {
+    "timestamp" : "00:23.120-00:24.000",
+    "text" : "Musique"
+  },
+  {
+    "text" : "Une petite pouce qui danse, une petite pouce qui danse, une petite pouce qui danse et ça suffit pour m'amuser",
+    "timestamp" : "00:24.000-00:39.900"
+  },
+  {
+    "text" : "Deux petites pouces qui danse, deux petits pouces qui danse, deux petits pouces qui danse et ça suffit pour m'amuser",
+    "timestamp" : "00:39.900-00:49.400"
+  },
+  {
+    "text" : "Musique",
+    "timestamp" : "00:49.400-00:50.000"
+  },
+  {
+    "text" : "Un petit pouce qui danse, deux petits pouces qui danse, deux petits pouces qui danse et ça suffit pour m'amuser",
+    "timestamp" : "00:50.000-01:05.900"
+  },
+  {
+    "timestamp" : "01:05.900-01:15.800",
+    "text" : "Deux petits pouces qui danse, deux petits pouces qui danse, deux petits pouces qui danse et ça suffit pour m'amuser"
+  },
+  {
+    "timestamp" : "01:15.800-01:18.000",
+    "text" : "Musique"
+  },
+  {
+    "timestamp" : "01:18.000-01:20.000",
+    "text" : "Musique"
+  },
+  {
+    "text" : "Musique",
+    "timestamp" : "01:20.000-01:22.000"
+  },
+  {
+    "text" : "Musique",
+    "timestamp" : "01:22.000-01:24.000"
+  },
+  {
+    "timestamp" : "01:24.000-01:26.000",
+    "text" : "Musique"
+  },
+  {
+    "text" : "Musique",
+    "timestamp" : "01:26.000-01:28.000"
+  },
+  {
+    "timestamp" : "01:28.000-01:29.000",
+    "text" : "Merci."
+  },
+  {
+    "text" : "Sous-titrage Société Radio-Canada",
+    "timestamp" : "01:29.000-01:58.980"
+  }
+]

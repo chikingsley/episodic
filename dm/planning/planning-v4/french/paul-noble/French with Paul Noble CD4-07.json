@@ -1,0 +1,426 @@
+[
+  {
+    "timestamp" : "00:00.001-00:02.620",
+    "text" : "How would you say I can go?"
+  },
+  {
+    "timestamp" : "00:02.620-00:09.980",
+    "text" : "Je peux aller."
+  },
+  {
+    "text" : "How would you say I can go over there?",
+    "timestamp" : "00:09.980-00:14.480"
+  },
+  {
+    "text" : "Je peux aller là-bas.",
+    "timestamp" : "00:14.480-00:19.420"
+  },
+  {
+    "text" : "How about I can go there, just there, using la?",
+    "timestamp" : "00:19.420-00:24.620"
+  },
+  {
+    "timestamp" : "00:24.620-00:28.420",
+    "text" : "Je peux aller là."
+  },
+  {
+    "text" : "Now, although it is technically possible to say that in French,",
+    "timestamp" : "00:28.420-00:33.520"
+  },
+  {
+    "text" : "particularly if you were pointing somewhere and saying it's there, it's la,",
+    "timestamp" : "00:33.520-00:37.220"
+  },
+  {
+    "text" : "in French, it's quite different than in English",
+    "timestamp" : "00:37.220-00:42.280"
+  },
+  {
+    "text" : "because, as I was saying a moment ago,",
+    "timestamp" : "00:42.280-00:45.040"
+  },
+  {
+    "timestamp" : "00:45.040-00:48.720",
+    "text" : "we have nouns and proxy nouns in both English and French"
+  },
+  {
+    "timestamp" : "00:48.720-00:52.280",
+    "text" : "and we use these proxy nouns, these pronouns,"
+  },
+  {
+    "timestamp" : "00:52.280-00:58.060",
+    "text" : "to replace the nouns so that we don't need to keep saying them again and again and again."
+  },
+  {
+    "timestamp" : "00:58.060-01:00.340",
+    "text" : "We use the example of the dinner."
+  },
+  {
+    "timestamp" : "01:00.340-01:02.580",
+    "text" : "So let's just try that one more time."
+  },
+  {
+    "text" : "How would you say he can prepare the dinner?",
+    "timestamp" : "01:02.580-01:04.780"
+  },
+  {
+    "timestamp" : "01:04.780-01:10.380",
+    "text" : "Il peut préparer le dîner."
+  },
+  {
+    "timestamp" : "01:10.380-01:13.080",
+    "text" : "He can prepare it."
+  },
+  {
+    "text" : "Il peut le préparer.",
+    "timestamp" : "01:13.080-01:17.800"
+  },
+  {
+    "timestamp" : "01:19.960-01:25.240",
+    "text" : "How would you say he can go there using la?"
+  },
+  {
+    "timestamp" : "01:25.240-01:29.920",
+    "text" : "Il peut aller là."
+  },
+  {
+    "timestamp" : "01:29.920-01:34.020",
+    "text" : "Now, although it's technically possible to say that in French,"
+  },
+  {
+    "timestamp" : "01:34.020-01:35.760",
+    "text" : "it's not actually typical."
+  },
+  {
+    "timestamp" : "01:35.760-01:43.900",
+    "text" : "The reason for that is that French speakers actually have a pronoun to replace la."
+  },
+  {
+    "text" : "You would think it was short enough already that you wouldn't mind saying there again and again.",
+    "timestamp" : "01:43.900-01:49.420"
+  },
+  {
+    "timestamp" : "01:49.420-01:53.480",
+    "text" : "But in French, they've actually got a pronoun to replace it."
+  },
+  {
+    "text" : "You would think, as la is only spelt l-a, it's very short.",
+    "timestamp" : "01:53.480-01:58.900"
+  },
+  {
+    "text" : "How could you get shorter than that?",
+    "timestamp" : "01:58.900-02:00.340"
+  },
+  {
+    "timestamp" : "02:00.340-02:03.860",
+    "text" : "Well, the French have achieved it by using just one single letter,"
+  },
+  {
+    "timestamp" : "02:03.860-02:05.940",
+    "text" : "which is the letter y."
+  },
+  {
+    "text" : "This y, which means there and replaces la if you want to,",
+    "timestamp" : "02:06.900-02:11.800"
+  },
+  {
+    "timestamp" : "02:11.800-02:14.400",
+    "text" : "is simply pronounced as"
+  },
+  {
+    "text" : "i",
+    "timestamp" : "02:14.400-02:14.880"
+  },
+  {
+    "text" : "i",
+    "timestamp" : "02:14.880-02:16.340"
+  },
+  {
+    "text" : "So it's almost like the letter e in English, it sounds,",
+    "timestamp" : "02:16.340-02:20.420"
+  },
+  {
+    "text" : "but it's spelt with a y and it means there.",
+    "timestamp" : "02:20.420-02:23.100"
+  },
+  {
+    "timestamp" : "02:23.100-02:25.260",
+    "text" : "So let's try again."
+  },
+  {
+    "text" : "I can go there, but using la.",
+    "timestamp" : "02:25.260-02:27.840"
+  },
+  {
+    "timestamp" : "02:33.900-02:41.320",
+    "text" : "Now let's try the more typical way of speaking French."
+  },
+  {
+    "timestamp" : "02:41.320-02:45.660",
+    "text" : "And let's use y instead of la."
+  },
+  {
+    "text" : "How would you say I can go there?",
+    "timestamp" : "02:45.660-02:47.840"
+  },
+  {
+    "text" : "Now you'll notice that the y has gone before aller.",
+    "timestamp" : "02:47.840-02:57.760"
+  },
+  {
+    "text" : "The reason for this is, of course, that i is a pronoun.",
+    "timestamp" : "02:58.760-03:02.340"
+  },
+  {
+    "timestamp" : "03:02.340-03:05.980",
+    "text" : "It's a proxy noun standing in place of la."
+  },
+  {
+    "timestamp" : "03:05.980-03:08.560",
+    "text" : "Just as you saw with the dinner,"
+  },
+  {
+    "timestamp" : "03:08.560-03:10.620",
+    "text" : "when we replaced the dinner with it,"
+  },
+  {
+    "timestamp" : "03:10.620-03:11.520",
+    "text" : "the it moves."
+  },
+  {
+    "text" : "It doesn't sit in the same place as the dinner.",
+    "timestamp" : "03:11.520-03:13.040"
+  },
+  {
+    "timestamp" : "03:13.040-03:17.060",
+    "text" : "La, meaning there, is not a proxy noun."
+  },
+  {
+    "timestamp" : "03:17.060-03:17.780",
+    "text" : "It's not a pronoun."
+  },
+  {
+    "timestamp" : "03:17.780-03:19.780",
+    "text" : "But i is."
+  },
+  {
+    "text" : "So the moment it's replaced with it,",
+    "timestamp" : "03:19.780-03:22.220"
+  },
+  {
+    "text" : "it goes before.",
+    "timestamp" : "03:22.220-03:23.220"
+  },
+  {
+    "text" : "Let's try another sentence with that.",
+    "timestamp" : "03:23.220-03:27.300"
+  },
+  {
+    "text" : "How would you say you want to go there?",
+    "timestamp" : "03:28.440-03:34.240"
+  },
+  {
+    "timestamp" : "03:34.240-03:37.920",
+    "text" : "Using the vous form and using la to mean there."
+  },
+  {
+    "timestamp" : "03:37.920-03:39.720",
+    "text" : "So you want to go there."
+  },
+  {
+    "timestamp" : "03:43.720-03:49.120",
+    "text" : "Now, we're going to replace la."
+  },
+  {
+    "timestamp" : "03:49.120-03:50.020",
+    "text" : "Instead of using la,"
+  },
+  {
+    "text" : "because the French don't use this that often,",
+    "timestamp" : "03:50.020-03:52.380"
+  },
+  {
+    "text" : "they tend to prefer to use y.",
+    "timestamp" : "03:52.380-03:53.820"
+  },
+  {
+    "text" : "Let's replace la and put it wherever it is we should put a pronoun.",
+    "timestamp" : "03:53.820-03:58.760"
+  },
+  {
+    "text" : "So how would you say you want to go there using y?",
+    "timestamp" : "03:58.760-04:02.140"
+  },
+  {
+    "timestamp" : "04:05.080-04:06.140",
+    "text" : "Vous voulez y aller."
+  },
+  {
+    "text" : "So you can see, as this is a pronoun,",
+    "timestamp" : "04:06.140-04:09.380"
+  },
+  {
+    "text" : "it goes where all the other pronouns go.",
+    "timestamp" : "04:09.380-04:11.520"
+  },
+  {
+    "text" : "Let's take a look at them.",
+    "timestamp" : "04:11.520-04:12.980"
+  },
+  {
+    "text" : "How would you say to prepare?",
+    "timestamp" : "04:12.980-04:14.620"
+  },
+  {
+    "timestamp" : "04:18.620-04:20.320",
+    "text" : "To prepare it."
+  },
+  {
+    "timestamp" : "04:20.320-04:20.760",
+    "text" : "To understand."
+  },
+  {
+    "text" : "To understand.",
+    "timestamp" : "04:20.760-04:22.660"
+  },
+  {
+    "text" : "To understand.",
+    "timestamp" : "04:22.660-04:24.680"
+  },
+  {
+    "text" : "Comprendre.",
+    "timestamp" : "04:24.680-04:27.100"
+  },
+  {
+    "text" : "To understand it.",
+    "timestamp" : "04:27.100-04:29.100"
+  },
+  {
+    "timestamp" : "04:29.100-04:32.160",
+    "text" : "Le comprendre."
+  },
+  {
+    "text" : "To understand me.",
+    "timestamp" : "04:32.160-04:34.320"
+  },
+  {
+    "text" : "Me comprendre.",
+    "timestamp" : "04:34.320-04:37.320"
+  },
+  {
+    "timestamp" : "04:37.320-04:40.600",
+    "text" : "To see."
+  },
+  {
+    "text" : "Voir.",
+    "timestamp" : "04:42.040-04:43.040"
+  },
+  {
+    "timestamp" : "04:43.040-04:44.480",
+    "text" : "To see it."
+  },
+  {
+    "timestamp" : "04:44.480-04:46.660",
+    "text" : "Le voir."
+  },
+  {
+    "timestamp" : "04:46.660-04:47.880",
+    "text" : "To see her."
+  },
+  {
+    "text" : "L'avoir.",
+    "timestamp" : "04:47.880-04:51.260"
+  },
+  {
+    "timestamp" : "04:51.260-04:52.960",
+    "text" : "To see me."
+  },
+  {
+    "timestamp" : "04:52.960-04:55.300",
+    "text" : "Me voir."
+  },
+  {
+    "text" : "To see you.",
+    "timestamp" : "04:55.300-04:56.720"
+  },
+  {
+    "text" : "Vous voir.",
+    "timestamp" : "04:56.720-04:59.860"
+  },
+  {
+    "text" : "To see some of it.",
+    "timestamp" : "04:59.860-05:02.560"
+  },
+  {
+    "text" : "En voir.",
+    "timestamp" : "05:05.200-05:06.020"
+  },
+  {
+    "timestamp" : "05:06.020-05:07.780",
+    "text" : "To go."
+  },
+  {
+    "text" : "Aller.",
+    "timestamp" : "05:07.780-05:10.040"
+  },
+  {
+    "text" : "To go there using la.",
+    "timestamp" : "05:10.040-05:13.040"
+  },
+  {
+    "text" : "Aller la.",
+    "timestamp" : "05:13.040-05:16.280"
+  },
+  {
+    "timestamp" : "05:16.280-05:18.880",
+    "text" : "But now replacing it with a pronoun,"
+  },
+  {
+    "timestamp" : "05:18.880-05:21.100",
+    "text" : "to go there using y."
+  },
+  {
+    "timestamp" : "05:21.100-05:23.600",
+    "text" : "Y aller."
+  },
+  {
+    "text" : "So as you can see,",
+    "timestamp" : "05:23.600-05:25.660"
+  },
+  {
+    "text" : "y works exactly the same way as all the others.",
+    "timestamp" : "05:25.660-05:28.940"
+  },
+  {
+    "text" : "To understand it.",
+    "timestamp" : "05:28.940-05:31.140"
+  },
+  {
+    "timestamp" : "05:31.140-05:34.600",
+    "text" : "Le comprendre."
+  },
+  {
+    "text" : "To see me.",
+    "timestamp" : "05:34.600-05:36.560"
+  },
+  {
+    "text" : "Me voir.",
+    "timestamp" : "05:36.560-05:38.800"
+  },
+  {
+    "timestamp" : "05:38.800-05:41.660",
+    "text" : "And to go there using y."
+  },
+  {
+    "timestamp" : "05:41.660-05:43.780",
+    "text" : "Y aller."
+  },
+  {
+    "timestamp" : "05:43.780-05:44.020",
+    "text" : "Thank you for listening."
+  },
+  {
+    "text" : "Thank you.",
+    "timestamp" : "05:44.020-06:14.000"
+  }
+]

@@ -1,0 +1,218 @@
+[
+  {
+    "timestamp" : "00:00.001-00:01.800",
+    "text" : "What is to go in French?"
+  },
+  {
+    "text" : "Aller.",
+    "timestamp" : "00:01.800-00:03.440"
+  },
+  {
+    "timestamp" : "00:03.440-00:05.060",
+    "text" : "You go?"
+  },
+  {
+    "text" : "Vous allez.",
+    "timestamp" : "00:05.060-00:08.100"
+  },
+  {
+    "timestamp" : "00:08.100-00:09.820",
+    "text" : "We go or we are going?"
+  },
+  {
+    "timestamp" : "00:09.820-00:11.860",
+    "text" : "Nous allons."
+  },
+  {
+    "text" : "I go?",
+    "timestamp" : "00:11.860-00:12.960"
+  },
+  {
+    "text" : "Je vais.",
+    "timestamp" : "00:12.960-00:14.860"
+  },
+  {
+    "text" : "He goes.",
+    "timestamp" : "00:14.860-00:16.200"
+  },
+  {
+    "timestamp" : "00:16.200-00:18.060",
+    "text" : "Il va."
+  },
+  {
+    "text" : "She goes.",
+    "timestamp" : "00:18.060-00:20.260"
+  },
+  {
+    "text" : "Elle va.",
+    "timestamp" : "00:20.260-00:22.400"
+  },
+  {
+    "timestamp" : "00:22.400-00:25.060",
+    "text" : "One goes or one is going."
+  },
+  {
+    "text" : "On va.",
+    "timestamp" : "00:25.060-00:26.720"
+  },
+  {
+    "text" : "How would you say one is going there using y?",
+    "timestamp" : "00:27.680-00:31.800"
+  },
+  {
+    "timestamp" : "00:31.800-00:34.720",
+    "text" : "On y va."
+  },
+  {
+    "timestamp" : "00:34.720-00:38.640",
+    "text" : "This is an expression very often used in French,"
+  },
+  {
+    "text" : "which more or less means let's go.",
+    "timestamp" : "00:38.640-00:41.200"
+  },
+  {
+    "timestamp" : "00:41.200-00:45.040",
+    "text" : "So to say let's go, a French person might simply say"
+  },
+  {
+    "text" : "On y va.",
+    "timestamp" : "00:45.040-00:46.100"
+  },
+  {
+    "text" : "Sounds a little unusual in English because it literally means one is going there.",
+    "timestamp" : "00:46.100-00:51.020"
+  },
+  {
+    "text" : "But in French, it's used to mean let's go.",
+    "timestamp" : "00:51.020-00:53.820"
+  },
+  {
+    "timestamp" : "00:55.900-00:58.060",
+    "text" : "How would you say we are going?"
+  },
+  {
+    "timestamp" : "00:58.060-01:00.700",
+    "text" : "Nous allons."
+  },
+  {
+    "text" : "You are going?",
+    "timestamp" : "01:00.700-01:02.020"
+  },
+  {
+    "timestamp" : "01:02.020-01:05.580",
+    "text" : "Vous allez."
+  },
+  {
+    "text" : "They are going.",
+    "timestamp" : "01:05.580-01:06.640"
+  },
+  {
+    "text" : "Ils vont.",
+    "timestamp" : "01:06.640-01:09.240"
+  },
+  {
+    "text" : "Finally, they, an entirely female group, are going.",
+    "timestamp" : "01:09.240-01:12.580"
+  },
+  {
+    "timestamp" : "01:12.580-01:14.680",
+    "text" : "Elles vont."
+  },
+  {
+    "timestamp" : "01:16.600-01:19.800",
+    "text" : "How would you say they are going to arrive later?"
+  },
+  {
+    "text" : "Ils vont arriver plus tard.",
+    "timestamp" : "01:19.800-01:25.560"
+  },
+  {
+    "text" : "They are going to come later.",
+    "timestamp" : "01:25.560-01:27.560"
+  },
+  {
+    "text" : "Ils vont venir plus tard.",
+    "timestamp" : "01:27.560-01:33.260"
+  },
+  {
+    "timestamp" : "01:33.260-01:38.200",
+    "text" : "How about I think that they're going to come later?"
+  },
+  {
+    "timestamp" : "01:42.520-01:44.740",
+    "text" : "Je pense qu'ils vont venir plus tard."
+  },
+  {
+    "text" : "Je pense qu'ils vont venir plus tard.",
+    "timestamp" : "01:44.740-01:44.760"
+  },
+  {
+    "text" : "Again, notice how the that and the they, the que and the ils contract to.",
+    "timestamp" : "01:44.760-01:52.160"
+  },
+  {
+    "timestamp" : "01:52.160-01:53.320",
+    "text" : "Qu'ils."
+  },
+  {
+    "timestamp" : "01:53.320-01:57.740",
+    "text" : "So again, I think that they're going to come later."
+  },
+  {
+    "timestamp" : "02:03.000-02:05.280",
+    "text" : "Je pense qu'ils vont venir plus tard."
+  },
+  {
+    "timestamp" : "02:05.280-02:09.120",
+    "text" : "What was to go out, to go out in French?"
+  },
+  {
+    "timestamp" : "02:09.120-02:12.400",
+    "text" : "Sortir."
+  },
+  {
+    "text" : "Again, it's easy to remember because it's a bit like having a sortie.",
+    "timestamp" : "02:12.400-02:16.400"
+  },
+  {
+    "timestamp" : "02:16.400-02:19.700",
+    "text" : "How would you say they're going to go out later?"
+  },
+  {
+    "timestamp" : "02:19.700-02:25.900",
+    "text" : "Ils vont sortir plus tard."
+  },
+  {
+    "timestamp" : "02:25.900-02:27.920",
+    "text" : "But I'm going to stay here."
+  },
+  {
+    "timestamp" : "02:27.920-02:28.080",
+    "text" : "I'm going to stay here."
+  },
+  {
+    "text" : "How would you say I'm not going to stay here?",
+    "timestamp" : "02:28.080-02:39.120"
+  },
+  {
+    "text" : "Je ne vais pas rester ici.",
+    "timestamp" : "02:39.120-02:44.740"
+  },
+  {
+    "timestamp" : "02:44.740-02:47.480",
+    "text" : "I'm going to go over there."
+  },
+  {
+    "timestamp" : "02:47.480-02:51.400",
+    "text" : "Je vais aller là-bas."
+  },
+  {
+    "timestamp" : "02:51.400-02:52.600",
+    "text" : "Je vais aller là-bas."
+  },
+  {
+    "timestamp" : "02:52.600-03:22.580",
+    "text" : "Thank you."
+  }
+]

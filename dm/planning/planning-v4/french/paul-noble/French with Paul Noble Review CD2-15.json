@@ -1,0 +1,98 @@
+[
+  {
+    "text" : "I am busy.",
+    "timestamp" : "00:00.001-00:00.920"
+  },
+  {
+    "text" : "Je suis occupé.",
+    "timestamp" : "00:00.920-00:04.080"
+  },
+  {
+    "timestamp" : "00:04.080-00:05.940",
+    "text" : "I am determined."
+  },
+  {
+    "timestamp" : "00:05.940-00:09.340",
+    "text" : "Je suis déterminé."
+  },
+  {
+    "timestamp" : "00:09.340-00:11.180",
+    "text" : "I am Paul."
+  },
+  {
+    "text" : "Je suis Paul.",
+    "timestamp" : "00:11.180-00:13.860"
+  },
+  {
+    "text" : "I am from London.",
+    "timestamp" : "00:13.860-00:16.600"
+  },
+  {
+    "timestamp" : "00:16.600-00:19.700",
+    "text" : "Je suis de Londres."
+  },
+  {
+    "timestamp" : "00:19.700-00:21.940",
+    "text" : "I am from Normandy."
+  },
+  {
+    "timestamp" : "00:21.940-00:26.080",
+    "text" : "Je suis de Normandie."
+  },
+  {
+    "text" : "Where are you from?",
+    "timestamp" : "00:26.080-00:27.880"
+  },
+  {
+    "text" : "Vous êtes d'où?",
+    "timestamp" : "00:27.880-00:30.700"
+  },
+  {
+    "timestamp" : "00:30.700-00:36.900",
+    "text" : "I am a civil servant."
+  },
+  {
+    "text" : "Je suis fonctionnaire.",
+    "timestamp" : "00:36.900-00:40.380"
+  },
+  {
+    "text" : "I am a dentist.",
+    "timestamp" : "00:40.380-00:43.480"
+  },
+  {
+    "text" : "Je suis dentiste.",
+    "timestamp" : "00:43.480-00:46.900"
+  },
+  {
+    "timestamp" : "00:46.900-00:48.740",
+    "text" : "What is your profession?"
+  },
+  {
+    "text" : "Quelle est votre profession?",
+    "timestamp" : "00:48.740-00:52.260"
+  },
+  {
+    "text" : "I am an artist.",
+    "timestamp" : "00:52.260-00:53.900"
+  },
+  {
+    "timestamp" : "00:53.900-00:57.220",
+    "text" : "Je suis artiste."
+  },
+  {
+    "text" : "And you?",
+    "timestamp" : "00:57.220-00:59.960"
+  },
+  {
+    "timestamp" : "00:59.960-01:02.220",
+    "text" : "Et vous?"
+  },
+  {
+    "text" : "Je suis artiste.",
+    "timestamp" : "01:02.220-01:02.420"
+  },
+  {
+    "timestamp" : "01:02.420-01:32.400",
+    "text" : "Thank you."
+  }
+]

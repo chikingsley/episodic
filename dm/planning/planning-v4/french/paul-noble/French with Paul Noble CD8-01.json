@@ -1,0 +1,426 @@
+[
+  {
+    "timestamp" : "00:00.001-00:16.120",
+    "text" : "What is I am in French? I am."
+  },
+  {
+    "text" : "Je suis.",
+    "timestamp" : "00:16.120-00:17.780"
+  },
+  {
+    "timestamp" : "00:17.780-00:20.840",
+    "text" : "How do you say I am busy, I am occupied?"
+  },
+  {
+    "timestamp" : "00:20.840-00:25.280",
+    "text" : "Je suis occupée."
+  },
+  {
+    "text" : "How would you say you are in French? What was you are?",
+    "timestamp" : "00:27.660-00:31.320"
+  },
+  {
+    "timestamp" : "00:31.320-00:34.820",
+    "text" : "Vous êtes."
+  },
+  {
+    "text" : "So as you can see, we have already encountered these forms.",
+    "timestamp" : "00:34.820-00:40.640"
+  },
+  {
+    "text" : "I am, which is je suis.",
+    "timestamp" : "00:40.640-00:43.340"
+  },
+  {
+    "text" : "But you are is vous êtes.",
+    "timestamp" : "00:43.340-00:46.940"
+  },
+  {
+    "text" : "You'll notice how they actually even begin with different letters.",
+    "timestamp" : "00:46.940-00:51.920"
+  },
+  {
+    "timestamp" : "00:51.920-00:55.040",
+    "text" : "I am, the word for am begins with an S."
+  },
+  {
+    "text" : "But the word for are in you are begins with an E.",
+    "timestamp" : "00:55.040-00:58.680"
+  },
+  {
+    "timestamp" : "00:58.680-01:03.380",
+    "text" : "So let's continue with this E group."
+  },
+  {
+    "timestamp" : "01:03.380-01:05.440",
+    "text" : "Again, what was you are?"
+  },
+  {
+    "text" : "Vous êtes.",
+    "timestamp" : "01:05.440-01:07.820"
+  },
+  {
+    "text" : "He is and she is are also part of the E group.",
+    "timestamp" : "01:07.820-01:13.180"
+  },
+  {
+    "timestamp" : "01:13.180-01:14.560",
+    "text" : "He is is."
+  },
+  {
+    "timestamp" : "01:14.560-01:15.340",
+    "text" : "Il est."
+  },
+  {
+    "text" : "Il est.",
+    "timestamp" : "01:15.340-01:16.760"
+  },
+  {
+    "timestamp" : "01:17.220-01:19.100",
+    "text" : "So what will she is be?"
+  },
+  {
+    "text" : "Elle est.",
+    "timestamp" : "01:19.100-01:21.060"
+  },
+  {
+    "text" : "And you in formal are, which sounds quite like you in formal is almost, would be?",
+    "timestamp" : "01:21.060-01:28.600"
+  },
+  {
+    "text" : "Tu es.",
+    "timestamp" : "01:28.600-01:31.160"
+  },
+  {
+    "text" : "So again, let's go back to those.",
+    "timestamp" : "01:31.160-01:34.820"
+  },
+  {
+    "text" : "Let's start with the single S one we've found so far.",
+    "timestamp" : "01:34.820-01:38.760"
+  },
+  {
+    "text" : "What was I am?",
+    "timestamp" : "01:38.760-01:39.620"
+  },
+  {
+    "timestamp" : "01:39.620-01:41.460",
+    "text" : "Je suis."
+  },
+  {
+    "text" : "And let's go back to the E group.",
+    "timestamp" : "01:41.460-01:45.660"
+  },
+  {
+    "text" : "What was he is?",
+    "timestamp" : "01:45.660-01:47.160"
+  },
+  {
+    "timestamp" : "01:47.160-01:48.900",
+    "text" : "Il est."
+  },
+  {
+    "text" : "She is.",
+    "timestamp" : "01:48.900-01:50.180"
+  },
+  {
+    "timestamp" : "01:50.180-01:51.560",
+    "text" : "Elle est."
+  },
+  {
+    "timestamp" : "01:51.560-01:54.580",
+    "text" : "You are informal."
+  },
+  {
+    "timestamp" : "01:54.580-01:56.540",
+    "text" : "Tu es."
+  },
+  {
+    "timestamp" : "01:56.540-01:59.120",
+    "text" : "Finally, you are formal."
+  },
+  {
+    "timestamp" : "01:59.120-02:01.000",
+    "text" : "Vous êtes."
+  },
+  {
+    "text" : "That's the entire contents of the E group.",
+    "timestamp" : "02:02.700-02:05.600"
+  },
+  {
+    "text" : "And the only one from the S group we've found so far is I am, which is.",
+    "timestamp" : "02:05.600-02:09.760"
+  },
+  {
+    "timestamp" : "02:09.760-02:11.400",
+    "text" : "Je suis."
+  },
+  {
+    "timestamp" : "02:11.400-02:14.360",
+    "text" : "We are in French."
+  },
+  {
+    "text" : "We are is.",
+    "timestamp" : "02:14.360-02:15.340"
+  },
+  {
+    "timestamp" : "02:15.340-02:16.300",
+    "text" : "Nous sommes."
+  },
+  {
+    "timestamp" : "02:16.300-02:17.700",
+    "text" : "Nous sommes."
+  },
+  {
+    "text" : "Perhaps an easy way to remember it is to think we are in the Somme.",
+    "timestamp" : "02:17.700-02:21.640"
+  },
+  {
+    "timestamp" : "02:22.960-02:25.160",
+    "text" : "So how would you say we are busy?"
+  },
+  {
+    "text" : "Nous sommes occupés.",
+    "timestamp" : "02:25.160-02:28.560"
+  },
+  {
+    "text" : "And I am busy?",
+    "timestamp" : "02:28.560-02:30.200"
+  },
+  {
+    "text" : "Je suis occupé.",
+    "timestamp" : "02:30.200-02:32.960"
+  },
+  {
+    "text" : "Finally, we have they are, which is.",
+    "timestamp" : "02:32.960-02:37.880"
+  },
+  {
+    "timestamp" : "02:37.880-02:38.820",
+    "text" : "Ils sont."
+  },
+  {
+    "text" : "Ils sont.",
+    "timestamp" : "02:38.820-02:40.340"
+  },
+  {
+    "timestamp" : "02:40.340-02:42.080",
+    "text" : "They are busy."
+  },
+  {
+    "text" : "Ils sont occupés.",
+    "timestamp" : "02:42.080-02:45.160"
+  },
+  {
+    "text" : "They, an entirely female group, are busy.",
+    "timestamp" : "02:45.160-02:48.800"
+  },
+  {
+    "timestamp" : "02:48.800-02:51.680",
+    "text" : "Elles sont occupées."
+  },
+  {
+    "text" : "Now, when you're pronouncing they are, you have to be very careful.",
+    "timestamp" : "02:51.680-02:58.440"
+  },
+  {
+    "timestamp" : "02:58.440-03:02.880",
+    "text" : "Again, what was they are for a male or a mixed group?"
+  },
+  {
+    "text" : "Ils sont.",
+    "timestamp" : "03:02.880-03:05.060"
+  },
+  {
+    "timestamp" : "03:05.060-03:08.820",
+    "text" : "Now, that's very clear and clearly means they are."
+  },
+  {
+    "text" : "However, if you think back and remember what they have is, what was they have in French?",
+    "timestamp" : "03:08.820-03:16.600"
+  },
+  {
+    "text" : "Ils ont.",
+    "timestamp" : "03:16.600-03:18.840"
+  },
+  {
+    "text" : "Now, have is spelt O-N-T.",
+    "timestamp" : "03:20.420-03:23.260"
+  },
+  {
+    "text" : "However, the S from the they, from the ils, is pushed on.",
+    "timestamp" : "03:23.260-03:29.760"
+  },
+  {
+    "text" : "So they have actually sounds like...",
+    "timestamp" : "03:29.760-03:32.860"
+  },
+  {
+    "text" : "Ils ont.",
+    "timestamp" : "03:32.860-03:33.940"
+  },
+  {
+    "text" : "That's quite similar to they are, which is...",
+    "timestamp" : "03:33.940-03:38.240"
+  },
+  {
+    "timestamp" : "03:38.240-03:38.800",
+    "text" : "Ils sont."
+  },
+  {
+    "text" : "And this is why it's crucial when you are pushing an S onto the vowel of a following word,",
+    "timestamp" : "03:38.800-03:45.820"
+  },
+  {
+    "text" : "to make that S that has been pushed sound like a Z.",
+    "timestamp" : "03:45.820-03:50.360"
+  },
+  {
+    "text" : "Because if it sounds like a Z, then it's clearly a different word.",
+    "timestamp" : "03:50.360-03:54.500"
+  },
+  {
+    "timestamp" : "03:54.500-03:56.300",
+    "text" : "So listen carefully again."
+  },
+  {
+    "timestamp" : "03:56.300-03:58.680",
+    "text" : "They have is..."
+  },
+  {
+    "timestamp" : "03:58.680-03:59.280",
+    "text" : "Ils ont."
+  },
+  {
+    "text" : "Ils ont.",
+    "timestamp" : "03:59.280-04:01.160"
+  },
+  {
+    "text" : "With a sort of Z sound, making a sort of Zon almost.",
+    "timestamp" : "04:01.620-04:05.140"
+  },
+  {
+    "text" : "But they are is...",
+    "timestamp" : "04:05.140-04:07.460"
+  },
+  {
+    "text" : "Ils sont.",
+    "timestamp" : "04:07.460-04:08.040"
+  },
+  {
+    "text" : "Ils sont.",
+    "timestamp" : "04:08.040-04:09.540"
+  },
+  {
+    "text" : "With a much softer S sound.",
+    "timestamp" : "04:09.540-04:12.240"
+  },
+  {
+    "text" : "This is why it's important.",
+    "timestamp" : "04:12.240-04:14.220"
+  },
+  {
+    "text" : "If you're going to push a letter onto the vowel of the next word, and that letter is an S,",
+    "timestamp" : "04:14.220-04:20.100"
+  },
+  {
+    "timestamp" : "04:20.180-04:23.280",
+    "text" : "you must make it sound like a Z once it's been pushed."
+  },
+  {
+    "text" : "If you find it too difficult, simply leave it where it is and don't worry about pushing it onto the next word.",
+    "timestamp" : "04:23.280-04:29.080"
+  },
+  {
+    "timestamp" : "04:29.080-04:31.060",
+    "text" : "So again, one more time."
+  },
+  {
+    "timestamp" : "04:31.060-04:32.700",
+    "text" : "They have..."
+  },
+  {
+    "text" : "Ils ont.",
+    "timestamp" : "04:32.700-04:33.260"
+  },
+  {
+    "text" : "They are.",
+    "timestamp" : "04:33.260-04:34.940"
+  },
+  {
+    "text" : "Ils sont.",
+    "timestamp" : "04:34.940-04:35.860"
+  },
+  {
+    "text" : "So, again, how would you say they are busy?",
+    "timestamp" : "04:35.860-04:39.980"
+  },
+  {
+    "timestamp" : "04:39.980-04:43.420",
+    "text" : "Ils sont occupés."
+  },
+  {
+    "timestamp" : "04:43.420-04:49.480",
+    "text" : "How would you say they are terrible?"
+  },
+  {
+    "timestamp" : "04:49.480-05:19.460",
+    "text" : "They are terrible."
+  },
+  {
+    "timestamp" : "05:19.460-05:24.700",
+    "text" : "And of course, we have the rest of it, which is covered by the E group."
+  },
+  {
+    "text" : "So let's look at that one more time.",
+    "timestamp" : "05:24.700-05:26.180"
+  },
+  {
+    "text" : "He is terrible.",
+    "timestamp" : "05:26.180-05:27.720"
+  },
+  {
+    "timestamp" : "05:27.720-05:29.900",
+    "text" : "Il est terrible."
+  },
+  {
+    "text" : "She is terrible.",
+    "timestamp" : "05:29.900-05:31.520"
+  },
+  {
+    "text" : "Elle est terrible.",
+    "timestamp" : "05:31.520-05:33.900"
+  },
+  {
+    "text" : "You, informal, are terrible.",
+    "timestamp" : "05:33.900-05:37.060"
+  },
+  {
+    "timestamp" : "05:37.060-05:41.400",
+    "text" : "Tu es terrible."
+  },
+  {
+    "timestamp" : "05:43.780-05:46.060",
+    "text" : "You, formal, are terrible."
+  },
+  {
+    "text" : "Vous êtes terrible.",
+    "timestamp" : "05:46.060-05:49.160"
+  },
+  {
+    "timestamp" : "05:49.160-05:49.560",
+    "text" : "."
+  },
+  {
+    "text" : ".",
+    "timestamp" : "05:49.560-05:51.560"
+  },
+  {
+    "text" : ".",
+    "timestamp" : "05:51.560-05:53.560"
+  },
+  {
+    "text" : "Thank you.",
+    "timestamp" : "05:53.560-06:23.540"
+  }
+]

@@ -1,0 +1,278 @@
+[
+  {
+    "timestamp" : "00:00.001-00:03.140",
+    "text" : "Again, how would you say in French I am?"
+  },
+  {
+    "timestamp" : "00:03.140-00:05.060",
+    "text" : "Je suis."
+  },
+  {
+    "timestamp" : "00:05.060-00:07.740",
+    "text" : "How would you say I am busy?"
+  },
+  {
+    "timestamp" : "00:07.740-00:10.980",
+    "text" : "Je suis occupé."
+  },
+  {
+    "timestamp" : "00:10.980-00:13.460",
+    "text" : "How would you say I am determined?"
+  },
+  {
+    "timestamp" : "00:13.460-00:17.220",
+    "text" : "Je suis déterminé."
+  },
+  {
+    "timestamp" : "00:17.220-00:20.140",
+    "text" : "How would you say I am poor?"
+  },
+  {
+    "text" : "Je suis Paul.",
+    "timestamp" : "00:20.140-00:24.440"
+  },
+  {
+    "text" : "I am from London.",
+    "timestamp" : "00:24.440-00:27.720"
+  },
+  {
+    "timestamp" : "00:27.720-00:31.440",
+    "text" : "Je suis de Londres."
+  },
+  {
+    "text" : "I am a teacher, I am a professor.",
+    "timestamp" : "00:31.440-00:35.220"
+  },
+  {
+    "text" : "Je suis professeur.",
+    "timestamp" : "00:35.220-00:39.020"
+  },
+  {
+    "text" : "I am a civil servant, literally, I am a functionary.",
+    "timestamp" : "00:39.020-00:44.000"
+  },
+  {
+    "text" : "Je suis fonctionnaire.",
+    "timestamp" : "00:44.000-00:48.480"
+  },
+  {
+    "text" : "Again, words that end in A-R-Y in French, in English, become heir.",
+    "timestamp" : "00:48.480-00:55.040"
+  },
+  {
+    "text" : "The word for being unwell, for being ill, for being sick in French is...",
+    "timestamp" : "00:55.040-01:02.540"
+  },
+  {
+    "text" : "Malade.",
+    "timestamp" : "01:02.540-01:03.860"
+  },
+  {
+    "text" : "Malade.",
+    "timestamp" : "01:03.860-01:05.460"
+  },
+  {
+    "timestamp" : "01:05.460-01:08.480",
+    "text" : "It's like the English malady, to have a malady."
+  },
+  {
+    "text" : "So, again, to be ill in French is to be...",
+    "timestamp" : "01:08.480-01:11.980"
+  },
+  {
+    "text" : "Malade.",
+    "timestamp" : "01:11.980-01:12.580"
+  },
+  {
+    "timestamp" : "01:13.760-01:16.980",
+    "text" : "So, how would you say I am ill, I am unwell?"
+  },
+  {
+    "timestamp" : "01:16.980-01:20.180",
+    "text" : "Je suis malade."
+  },
+  {
+    "timestamp" : "01:20.180-01:25.900",
+    "text" : "You may, of course, need to describe your symptoms."
+  },
+  {
+    "text" : "For instance, if you've been physically sick, you'll need to know how to say that.",
+    "timestamp" : "01:25.900-01:31.900"
+  },
+  {
+    "timestamp" : "01:33.000-01:38.020",
+    "text" : "You can't say sicker in French, because obviously sick is not a French word."
+  },
+  {
+    "text" : "However, in English, we do have to vomit, disgusting as it might sound.",
+    "timestamp" : "01:38.020-01:42.740"
+  },
+  {
+    "timestamp" : "01:42.740-01:50.300",
+    "text" : "In French, to find the French, all you need to do is remove the T from the end and replace it with an R."
+  },
+  {
+    "timestamp" : "01:51.300-01:53.300",
+    "text" : "Therefore, to vomit in French is..."
+  },
+  {
+    "timestamp" : "01:53.300-01:55.280",
+    "text" : "Vomir."
+  },
+  {
+    "text" : "Vomir.",
+    "timestamp" : "01:55.280-01:57.360"
+  },
+  {
+    "timestamp" : "01:57.360-02:04.400",
+    "text" : "This works the same way as a verb like to leave, which is..."
+  },
+  {
+    "text" : "Partir.",
+    "timestamp" : "02:04.400-02:05.020"
+  },
+  {
+    "text" : "Or to go out, which is...",
+    "timestamp" : "02:05.020-02:07.800"
+  },
+  {
+    "timestamp" : "02:07.800-02:08.440",
+    "text" : "Sortir."
+  },
+  {
+    "timestamp" : "02:10.160-02:17.160",
+    "text" : "So, for instance, when you want to use to leave in the past tense, left is..."
+  },
+  {
+    "timestamp" : "02:17.160-02:18.900",
+    "text" : "Parti."
+  },
+  {
+    "text" : "Parti.",
+    "timestamp" : "02:18.900-02:20.860"
+  },
+  {
+    "timestamp" : "02:20.860-02:24.160",
+    "text" : "And gone out is..."
+  },
+  {
+    "text" : "Sorti.",
+    "timestamp" : "02:24.160-02:24.960"
+  },
+  {
+    "timestamp" : "02:24.960-02:26.660",
+    "text" : "Sorti."
+  },
+  {
+    "text" : "So, to say vomited in the past, vomited is...",
+    "timestamp" : "02:26.660-02:32.160"
+  },
+  {
+    "timestamp" : "02:32.160-02:34.040",
+    "text" : "Vomir."
+  },
+  {
+    "timestamp" : "02:34.040-02:37.980",
+    "text" : "So, how would you say I have vomited?"
+  },
+  {
+    "text" : "J'ai vomi.",
+    "timestamp" : "02:37.980-02:39.620"
+  },
+  {
+    "text" : "J'ai vomi.",
+    "timestamp" : "02:39.620-02:41.760"
+  },
+  {
+    "text" : "If you have been unwell and you go to a pharmacy, if it's something serious and perhaps if you've been sick,",
+    "timestamp" : "02:41.760-02:50.880"
+  },
+  {
+    "timestamp" : "02:50.880-02:53.480",
+    "text" : "you might be told that you need to see a doctor."
+  },
+  {
+    "text" : "How would a pharmacist say to you, I think that you need to see, or I think that you must see a doctor?",
+    "timestamp" : "02:53.480-03:01.520"
+  },
+  {
+    "text" : "How would you say that?",
+    "timestamp" : "03:01.520-03:02.540"
+  },
+  {
+    "text" : "Je pense que vous devez voir un docteur.",
+    "timestamp" : "03:08.380-03:10.480"
+  },
+  {
+    "text" : "Je pense que vous devez voir un docteur.",
+    "timestamp" : "03:10.480-03:15.000"
+  },
+  {
+    "text" : "Je pense que vous devez voir un docteur.",
+    "timestamp" : "03:15.000-03:15.660"
+  },
+  {
+    "text" : "Je pense que vous devez voir un docteur.",
+    "timestamp" : "03:15.660-03:16.000"
+  },
+  {
+    "text" : "Je pense que vous devez voir un docteur.",
+    "timestamp" : "03:16.000-03:16.000"
+  },
+  {
+    "timestamp" : "03:16.000-03:16.000",
+    "text" : "Je pense que vous devez voir un docteur."
+  },
+  {
+    "text" : "Je pense que vous devez voir un docteur.",
+    "timestamp" : "03:16.000-03:16.000"
+  },
+  {
+    "text" : "Je pense que vous devez voir un docteur.",
+    "timestamp" : "03:16.000-03:16.000"
+  },
+  {
+    "text" : "Je pense que vous devez voir un docteur.",
+    "timestamp" : "03:16.000-03:16.000"
+  },
+  {
+    "text" : "Je pense que vous devez voir un docteur.",
+    "timestamp" : "03:16.000-03:16.000"
+  },
+  {
+    "text" : "Je pense que vous devez voir un docteur.",
+    "timestamp" : "03:16.000-03:16.000"
+  },
+  {
+    "text" : "Je pense que vous devez voir un docteur.",
+    "timestamp" : "03:16.000-03:16.000"
+  },
+  {
+    "text" : "Je pense que vous devez voir un docteur.",
+    "timestamp" : "03:16.000-03:16.000"
+  },
+  {
+    "timestamp" : "03:16.000-03:16.000",
+    "text" : "Je pense que vous devez voir un docteur."
+  },
+  {
+    "text" : "Je pense que vous devez voir un docteur.",
+    "timestamp" : "03:16.000-03:17.000"
+  },
+  {
+    "timestamp" : "03:17.000-03:18.000",
+    "text" : "Je pense que vous devez voir un docteur."
+  },
+  {
+    "timestamp" : "03:18.000-03:19.000",
+    "text" : "Je pense que vous devez voir un docteur."
+  },
+  {
+    "text" : "Je pense que vous devez voir un docteur.",
+    "timestamp" : "03:19.000-03:20.000"
+  },
+  {
+    "text" : "Thank you.",
+    "timestamp" : "03:20.000-03:49.980"
+  }
+]

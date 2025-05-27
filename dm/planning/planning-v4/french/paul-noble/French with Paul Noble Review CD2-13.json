@@ -1,0 +1,82 @@
+[
+  {
+    "timestamp" : "00:00.001-00:05.000",
+    "text" : "Où est le camping ?"
+  },
+  {
+    "timestamp" : "00:05.000-00:12.000",
+    "text" : "Où est l'office du tourisme ?"
+  },
+  {
+    "text" : "Où est la cathédrale ?",
+    "timestamp" : "00:12.000-00:18.000"
+  },
+  {
+    "text" : "L'office du tourisme est là-bas.",
+    "timestamp" : "00:18.000-00:26.000"
+  },
+  {
+    "timestamp" : "00:27.000-00:36.000",
+    "text" : "L'office du tourisme est en face de la cathédrale."
+  },
+  {
+    "text" : "C'est indiqué.",
+    "timestamp" : "00:36.000-00:41.000"
+  },
+  {
+    "timestamp" : "00:41.000-00:54.000",
+    "text" : "Je voudrais visiter Chartres. Avez-vous un guide ?"
+  },
+  {
+    "text" : "Oui, nous avons un guide de la région.",
+    "timestamp" : "00:54.000-01:03.000"
+  },
+  {
+    "timestamp" : "01:03.000-01:10.000",
+    "text" : "C'est combien ?"
+  },
+  {
+    "text" : "Excuse me, how do you get to the train station ?",
+    "timestamp" : "01:10.000-01:14.000"
+  },
+  {
+    "text" : "Pardon, pour aller à la gare.",
+    "timestamp" : "01:14.000-01:21.000"
+  },
+  {
+    "text" : "Continue straight on.",
+    "timestamp" : "01:22.000-01:24.000"
+  },
+  {
+    "timestamp" : "01:24.000-01:28.000",
+    "text" : "Continue straight on."
+  },
+  {
+    "text" : "Continue straight on after the cathedral, turn right.",
+    "timestamp" : "01:28.000-01:33.000"
+  },
+  {
+    "timestamp" : "01:33.000-01:37.000",
+    "text" : "Continue straight on after the cathedral, turn right."
+  },
+  {
+    "text" : "Continue straight on after the tourist office, turn left.",
+    "timestamp" : "01:38.000-01:50.000"
+  },
+  {
+    "timestamp" : "01:50.000-01:56.000",
+    "text" : "Continue straight on after the tourist office, turn left."
+  },
+  {
+    "timestamp" : "01:57.000-01:59.000",
+    "text" : "Continue straight on after the cathedral."
+  },
+  {
+    "text" : "Continue straight on after the cathedral.",
+    "timestamp" : "01:59.000-02:01.000"
+  },
+  {
+    "text" : "Continue straight on after the cathedral.",
+    "timestamp" : "02:01.000-02:03.000"
+  }
+]
