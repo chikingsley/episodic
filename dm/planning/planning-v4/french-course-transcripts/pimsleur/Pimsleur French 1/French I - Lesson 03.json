@@ -1,2146 +1,1882 @@
 [
   {
-    "text" : "This is Unit 3 of Pimsleur's French 1. Listen to this conversation.",
-    "timestamp" : "00:00.001-00:04.260"
+    "timestamp": "00:00:00,140 --> 00:00:05,400",
+    "speaker": "Narrator",
+    "text": "This is unit three of Pimsleur's French one. Listen to this conversation."
   },
   {
-    "timestamp" : "00:04.260-00:06.900",
-    "text" : "Bonjour Monsieur, comment allez-vous?"
+    "timestamp": "00:00:05,400 --> 00:00:07,319",
+    "speaker": "Female Speaker",
+    "text": "Bonjour, monsieur. Comment allez-vous?"
   },
   {
-    "text" : "Bien Madame, merci.",
-    "timestamp" : "00:06.900-00:08.280"
+    "timestamp": "00:00:07,319 --> 00:00:08,819",
+    "speaker": "Male Speaker",
+    "text": "Bien, madame. Merci."
   },
   {
-    "text" : "Ah, vous comprenez le français?",
-    "timestamp" : "00:08.280-00:10.240"
+    "timestamp": "00:00:08,819 --> 00:00:10,899",
+    "speaker": "Female Speaker",
+    "text": "Ah! Vous comprenez le français?"
   },
   {
-    "timestamp" : "00:10.240-00:12.960",
-    "text" : "Oui Madame, un peu, pas très bien."
+    "timestamp": "00:00:10,899 --> 00:00:13,519",
+    "speaker": "Male Speaker",
+    "text": "Oui, madame, un peu. Pas très bien."
   },
   {
-    "text" : "Vous êtes Américain, Monsieur?",
-    "timestamp" : "00:12.960-00:14.860"
+    "timestamp": "00:00:13,519 --> 00:00:15,399",
+    "speaker": "Female Speaker",
+    "text": "Vous êtes américain, monsieur?"
   },
   {
-    "timestamp" : "00:14.860-00:15.700",
-    "text" : "Oui."
+    "timestamp": "00:00:15,399 --> 00:00:16,199",
+    "speaker": "Male Speaker",
+    "text": "Oui."
   },
   {
-    "text" : "Mais vous comprenez très bien le français.",
-    "timestamp" : "00:15.700-00:17.740"
+    "timestamp": "00:00:16,199 --> 00:00:18,500",
+    "speaker": "Female Speaker",
+    "text": "Mais vous comprenez très bien le français."
   },
   {
-    "timestamp" : "00:17.740-00:22.440",
-    "text" : "In the last sentence, you heard the word mais, which means but."
+    "timestamp": "00:00:18,500 --> 00:00:20,859",
+    "speaker": "Narrator",
+    "text": "In the last sentence you heard the word:"
   },
   {
-    "timestamp" : "00:22.440-00:24.560",
-    "text" : "Listen to the conversation again."
+    "timestamp": "00:00:20,859 --> 00:00:21,420",
+    "speaker": "Male Speaker",
+    "text": "Mais."
   },
   {
-    "text" : "Bonjour Monsieur, comment allez-vous?",
-    "timestamp" : "00:24.560-00:27.140"
+    "timestamp": "00:00:21,420 --> 00:00:25,199",
+    "speaker": "Narrator",
+    "text": "Which means: \"but\". Listen to the conversation again."
   },
   {
-    "text" : "Bien Madame, merci.",
-    "timestamp" : "00:27.140-00:28.520"
+    "timestamp": "00:00:25,199 --> 00:00:27,579",
+    "speaker": "Female Speaker",
+    "text": "Bonjour, monsieur. Comment allez-vous?"
   },
   {
-    "text" : "Ah, vous comprenez le français?",
-    "timestamp" : "00:28.520-00:30.560"
+    "timestamp": "00:00:27,579 --> 00:00:29,159",
+    "speaker": "Male Speaker",
+    "text": "Bien, madame. Merci."
   },
   {
-    "timestamp" : "00:30.560-00:32.460",
-    "text" : "Oui Madame, un peu, pas très bien."
+    "timestamp": "00:00:29,159 --> 00:00:30,899",
+    "speaker": "Female Speaker",
+    "text": "Ah! Vous comprenez le français?"
   },
   {
-    "text" : "Vous êtes Américain, Monsieur?",
-    "timestamp" : "00:32.460-00:34.380"
+    "timestamp": "00:00:30,899 --> 00:00:33,079",
+    "speaker": "Male Speaker",
+    "text": "Oui, madame, un peu. Pas très bien."
   },
   {
-    "text" : "Oui.",
-    "timestamp" : "00:34.380-00:34.860"
+    "timestamp": "00:00:33,079 --> 00:00:34,559",
+    "speaker": "Female Speaker",
+    "text": "Vous êtes américain, monsieur?"
   },
   {
-    "text" : "Mais vous comprenez très bien le français.",
-    "timestamp" : "00:34.860-00:37.100"
+    "timestamp": "00:00:34,559 --> 00:00:35,520",
+    "speaker": "Male Speaker",
+    "text": "Oui."
   },
   {
-    "timestamp" : "00:37.100-00:40.380",
-    "text" : "Tell me the name of the French language in French."
+    "timestamp": "00:00:35,520 --> 00:00:38,000",
+    "speaker": "Female Speaker",
+    "text": "Mais vous comprenez très bien le français."
   },
   {
-    "timestamp" : "00:40.380-00:43.680",
-    "text" : "Le français."
+    "timestamp": "00:00:38,000 --> 00:00:42,979",
+    "speaker": "Narrator",
+    "text": "Tell me the name of the French language in French."
   },
   {
-    "timestamp" : "00:43.680-00:46.680",
-    "text" : "Le français."
+    "timestamp": "00:00:42,979 --> 00:00:46,000",
+    "speaker": "Male Speaker",
+    "text": "Le français."
   },
   {
-    "timestamp" : "00:46.680-00:50.400",
-    "text" : "Say, I understand."
+    "timestamp": "00:00:46,000 --> 00:00:48,939",
+    "speaker": "Male Speaker",
+    "text": "Le français."
   },
   {
-    "text" : "Je comprends.",
-    "timestamp" : "00:50.400-00:54.040"
+    "timestamp": "00:00:48,939 --> 00:00:53,039",
+    "speaker": "Narrator",
+    "text": "Say: \"I understand\"."
   },
   {
-    "text" : "Say, I understand French.",
-    "timestamp" : "00:54.040-00:58.120"
+    "timestamp": "00:00:53,039 --> 00:00:56,199",
+    "speaker": "Male Speaker",
+    "text": "Je comprends."
   },
   {
-    "text" : "Je comprends le français.",
-    "timestamp" : "00:58.120-01:02.760"
+    "timestamp": "00:00:56,199 --> 00:01:01,619",
+    "speaker": "Narrator",
+    "text": "Say: \"I understand French\"."
   },
   {
-    "text" : "Did you notice what happened to the",
-    "timestamp" : "01:02.760-01:07.720"
+    "timestamp": "00:01:01,619 --> 00:01:06,180",
+    "speaker": "Male Speaker",
+    "text": "Je comprends le français."
   },
   {
-    "timestamp" : "01:07.720-01:09.700",
-    "text" : "Le of le français?"
+    "timestamp": "00:01:06,180 --> 00:01:15,419",
+    "speaker": "Narrator",
+    "text": "Did you notice what happened to the \"le\" of le français? It was tacked on to the word before it. Repeat again after the speaker."
   },
   {
-    "timestamp" : "01:09.700-01:12.240",
-    "text" : "It was tacked on to the word before it."
+    "timestamp": "00:01:15,419 --> 00:01:19,939",
+    "speaker": "Male Speaker",
+    "text": "Je comprends le français."
   },
   {
-    "timestamp" : "01:12.240-01:14.420",
-    "text" : "Repeat again after the speaker."
+    "timestamp": "00:01:19,939 --> 00:01:24,419",
+    "speaker": "Male Speaker",
+    "text": "Je comprends le français."
   },
   {
-    "timestamp" : "01:14.420-01:16.460",
-    "text" : "Je comprends le français."
+    "timestamp": "00:01:24,419 --> 00:01:27,859",
+    "speaker": "Narrator",
+    "text": "Now, say: \"a little\"."
   },
   {
-    "text" : "Je comprends.",
-    "timestamp" : "01:19.660-01:20.380"
+    "timestamp": "00:01:27,859 --> 00:01:30,560",
+    "speaker": "Male Speaker",
+    "text": "Un peu."
   },
   {
-    "text" : "Je comprends.",
-    "timestamp" : "01:20.380-01:20.460"
+    "timestamp": "00:01:30,560 --> 00:01:36,119",
+    "speaker": "Narrator",
+    "text": "Say: \"I understand a little\"."
   },
   {
-    "timestamp" : "01:20.460-01:20.460",
-    "text" : "Je comprends."
+    "timestamp": "00:01:36,119 --> 00:01:40,679",
+    "speaker": "Male Speaker",
+    "text": "Je comprends un peu."
   },
   {
-    "text" : "Je comprends.",
-    "timestamp" : "01:20.460-01:20.660"
+    "timestamp": "00:01:40,679 --> 00:01:46,679",
+    "speaker": "Narrator",
+    "text": "Say: \"I understand French a little\"."
   },
   {
-    "text" : "Je comprends.",
-    "timestamp" : "01:20.660-01:21.300"
+    "timestamp": "00:01:46,679 --> 00:01:51,899",
+    "speaker": "Male Speaker",
+    "text": "Je comprends un peu le français."
   },
   {
-    "text" : "Un peu.",
-    "timestamp" : "01:21.300-01:21.300"
+    "timestamp": "00:01:51,899 --> 00:01:57,019",
+    "speaker": "Male Speaker",
+    "text": "Je comprends un peu le français."
   },
   {
-    "text" : "Un peu.",
-    "timestamp" : "01:21.300-01:23.540"
+    "timestamp": "00:01:57,019 --> 00:01:58,179",
+    "speaker": "Narrator",
+    "text": "Once again the:"
   },
   {
-    "text" : "Un peu.",
-    "timestamp" : "01:23.540-01:23.980"
+    "timestamp": "00:01:58,179 --> 00:01:58,679",
+    "speaker": "Male Speaker",
+    "text": "Le."
   },
   {
-    "timestamp" : "01:23.980-01:25.640",
-    "text" : "Now say, a little."
+    "timestamp": "00:01:58,679 --> 00:02:04,759",
+    "speaker": "Narrator",
+    "text": "Was reduced and tacked on to the preceding word. Repeat again after the speaker."
   },
   {
-    "timestamp" : "01:25.640-01:28.300",
-    "text" : "Un peu."
+    "timestamp": "00:02:04,759 --> 00:02:09,839",
+    "speaker": "Male Speaker",
+    "text": "Je comprends un peu le français."
   },
   {
-    "timestamp" : "01:28.300-01:32.460",
-    "text" : "Say, I understand a little."
+    "timestamp": "00:02:09,839 --> 00:02:14,920",
+    "speaker": "Male Speaker",
+    "text": "Je comprends un peu le français."
   },
   {
-    "timestamp" : "01:32.460-01:36.940",
-    "text" : "Je comprends."
+    "timestamp": "00:02:14,920 --> 00:02:24,979",
+    "speaker": "Narrator",
+    "text": "Suppose someone said something to you in French and you didn't understand what was being said. How would you tell the person that you don't understand?"
   },
   {
-    "timestamp" : "01:36.940-01:37.320",
-    "text" : "Un peu."
+    "timestamp": "00:02:24,979 --> 00:02:28,859",
+    "speaker": "Male Speaker",
+    "text": "Je ne comprends pas."
   },
   {
-    "timestamp" : "01:41.380-01:43.040",
-    "text" : "I understand French a little."
+    "timestamp": "00:02:28,859 --> 00:02:32,659",
+    "speaker": "Male Speaker",
+    "text": "Je ne comprends pas."
   },
   {
-    "text" : "Je comprends un peu le français.",
-    "timestamp" : "01:43.040-01:48.060"
+    "timestamp": "00:02:32,659 --> 00:02:36,479",
+    "speaker": "Narrator",
+    "text": "You might add: \"Pardon me?\""
   },
   {
-    "text" : "Once again, the le was reduced and tacked onto the preceding word.",
-    "timestamp" : "01:48.060-02:01.360"
+    "timestamp": "00:02:36,479 --> 00:02:39,039",
+    "speaker": "Male Speaker",
+    "text": "Pardon."
   },
   {
-    "timestamp" : "02:01.360-02:03.740",
-    "text" : "Repeat again after the speaker."
+    "timestamp": "00:02:39,039 --> 00:02:43,659",
+    "speaker": "Narrator",
+    "text": "Ask me how I'm feeling."
   },
   {
-    "timestamp" : "02:03.740-02:06.120",
-    "text" : "Je comprends un peu le français."
+    "timestamp": "00:02:43,659 --> 00:02:48,279",
+    "speaker": "Female Speaker",
+    "text": "Comment allez-vous, monsieur?"
   },
   {
-    "timestamp" : "02:06.120-02:19.040",
-    "text" : "Suppose someone said something to you in French and you didn't understand what was being said."
+    "timestamp": "00:02:48,279 --> 00:02:51,799",
+    "speaker": "Female Speaker",
+    "text": "Comment allez-vous?"
   },
   {
-    "timestamp" : "02:19.040-02:21.900",
-    "text" : "How would you tell the person that you don't understand?"
+    "timestamp": "00:02:51,799 --> 00:02:55,759",
+    "speaker": "Narrator",
+    "text": "Do you remember what this means literally?"
   },
   {
-    "timestamp" : "02:21.900-02:25.920",
-    "text" : "Je ne comprends pas."
+    "timestamp": "00:02:55,759 --> 00:02:58,399",
+    "speaker": "Narrator",
+    "text": "It means: \"how do you go?\""
   },
   {
-    "text" : "Je ne comprends pas.",
-    "timestamp" : "02:25.920-02:29.800"
+    "timestamp": "00:02:58,399 --> 00:02:59,259",
+    "speaker": "Male Speaker",
+    "text": "Vous allez."
   },
   {
-    "text" : "You might add, pardon me.",
-    "timestamp" : "02:32.300-02:34.380"
+    "timestamp": "00:02:59,259 --> 00:03:05,179",
+    "speaker": "Narrator",
+    "text": "\"You go.\" Now answer: \"fine, thanks.\""
   },
   {
-    "timestamp" : "02:34.380-02:36.840",
-    "text" : "Pardon."
+    "timestamp": "00:03:05,179 --> 00:03:08,739",
+    "speaker": "Male Speaker",
+    "text": "Très bien, merci."
   },
   {
-    "text" : "Ask me how I'm feeling.",
-    "timestamp" : "02:36.840-02:40.280"
+    "timestamp": "00:03:08,739 --> 00:03:12,420",
+    "speaker": "Male Speaker",
+    "text": "Très bien, merci."
   },
   {
-    "text" : "Comment allez-vous, monsieur?",
-    "timestamp" : "02:40.280-02:44.740"
+    "timestamp": "00:03:12,420 --> 00:03:16,239",
+    "speaker": "Narrator",
+    "text": "Say: \"thank you, madam\"."
   },
   {
-    "timestamp" : "02:44.740-02:49.120",
-    "text" : "Comment allez-vous?"
+    "timestamp": "00:03:16,239 --> 00:03:19,500",
+    "speaker": "Male Speaker",
+    "text": "Merci, madame."
   },
   {
-    "text" : "Do you remember what this means literally?",
-    "timestamp" : "02:49.120-02:53.460"
+    "timestamp": "00:03:19,500 --> 00:03:22,839",
+    "speaker": "Male Speaker",
+    "text": "Merci, madame."
   },
   {
-    "text" : "It means, how do you go?",
-    "timestamp" : "02:53.460-02:57.500"
+    "timestamp": "00:03:22,839 --> 00:03:25,860",
+    "speaker": "Narrator",
+    "text": "\"I am well\"."
   },
   {
-    "text" : "Vous allez, you go.",
-    "timestamp" : "02:57.500-02:59.860"
+    "timestamp": "00:03:25,860 --> 00:03:28,799",
+    "speaker": "Male Speaker",
+    "text": "Je vais bien."
   },
   {
-    "timestamp" : "03:00.860-03:02.460",
-    "text" : "Now answer, fine thanks."
+    "timestamp": "00:03:28,799 --> 00:03:33,439",
+    "speaker": "Narrator",
+    "text": "How do you say \"hello\" in French?"
   },
   {
-    "timestamp" : "03:02.460-03:06.040",
-    "text" : "Très bien, merci."
+    "timestamp": "00:03:33,439 --> 00:03:36,619",
+    "speaker": "Male Speaker",
+    "text": "Bonjour."
   },
   {
-    "timestamp" : "03:06.040-03:09.660",
-    "text" : "Très bien, merci."
+    "timestamp": "00:03:36,619 --> 00:03:39,780",
+    "speaker": "Male Speaker",
+    "text": "Bonjour."
   },
   {
-    "timestamp" : "03:09.660-03:13.900",
-    "text" : "Say, thank you, madame."
+    "timestamp": "00:03:39,780 --> 00:03:44,259",
+    "speaker": "Narrator",
+    "text": "Say: \"good morning, ma'am\"."
   },
   {
-    "text" : "Merci, madame.",
-    "timestamp" : "03:13.900-03:16.980"
+    "timestamp": "00:03:44,259 --> 00:03:48,200",
+    "speaker": "Male Speaker",
+    "text": "Bonjour, madame."
   },
   {
-    "timestamp" : "03:16.980-03:20.240",
-    "text" : "Merci, madame."
+    "timestamp": "00:03:48,200 --> 00:03:52,159",
+    "speaker": "Male Speaker",
+    "text": "Bonjour, madame."
   },
   {
-    "text" : "I am well.",
-    "timestamp" : "03:22.340-03:23.520"
+    "timestamp": "00:03:52,159 --> 00:03:56,159",
+    "speaker": "Narrator",
+    "text": "And how do you say \"goodbye\"?"
   },
   {
-    "text" : "I am well.",
-    "timestamp" : "03:23.520-03:23.520"
+    "timestamp": "00:03:56,159 --> 00:03:59,500",
+    "speaker": "Male Speaker",
+    "text": "Au revoir."
   },
   {
-    "timestamp" : "03:23.520-03:26.460",
-    "text" : "Je vais bien."
+    "timestamp": "00:03:59,500 --> 00:04:02,979",
+    "speaker": "Male Speaker",
+    "text": "Au revoir."
   },
   {
-    "text" : "How do you say, hello, in French?",
-    "timestamp" : "03:26.460-03:30.800"
+    "timestamp": "00:04:02,979 --> 00:04:07,339",
+    "speaker": "Narrator",
+    "text": "Say: \"Goodbye, ma'am\"."
   },
   {
-    "text" : "Bonjour.",
-    "timestamp" : "03:30.800-03:33.800"
+    "timestamp": "00:04:07,339 --> 00:04:11,239",
+    "speaker": "Male Speaker",
+    "text": "Au revoir, madame."
   },
   {
-    "text" : "Bonjour.",
-    "timestamp" : "03:33.800-03:36.920"
+    "timestamp": "00:04:11,239 --> 00:04:15,179",
+    "speaker": "Male Speaker",
+    "text": "Au revoir, madame."
   },
   {
-    "text" : "Say, good morning, ma'am.",
-    "timestamp" : "03:36.920-03:41.380"
+    "timestamp": "00:04:15,179 --> 00:04:19,579",
+    "speaker": "Narrator",
+    "text": "Ask me again how I am."
   },
   {
-    "timestamp" : "03:44.240-03:45.060",
-    "text" : "Bonjour, madame."
+    "timestamp": "00:04:19,579 --> 00:04:23,299",
+    "speaker": "Female Speaker",
+    "text": "Comment allez-vous?"
   },
   {
-    "timestamp" : "03:45.060-03:45.100",
-    "text" : "Bonjour, madame."
+    "timestamp": "00:04:23,299 --> 00:04:27,499",
+    "speaker": "Narrator",
+    "text": "How would I answer: \"Not very well\"?"
   },
   {
-    "text" : "Bonjour, madame.",
-    "timestamp" : "03:45.100-03:49.020"
+    "timestamp": "00:04:27,499 --> 00:04:30,299",
+    "speaker": "Male Speaker",
+    "text": "Pas très bien."
   },
   {
-    "text" : "And how do you say, goodbye?",
-    "timestamp" : "03:49.020-03:53.360"
+    "timestamp": "00:04:30,299 --> 00:04:33,099",
+    "speaker": "Male Speaker",
+    "text": "Pas très bien."
   },
   {
-    "text" : "Au revoir.",
-    "timestamp" : "03:53.360-03:56.700"
+    "timestamp": "00:04:33,099 --> 00:04:39,459",
+    "speaker": "Narrator",
+    "text": "How would I tell you that I don't understand French?"
   },
   {
-    "timestamp" : "03:56.700-04:00.060",
-    "text" : "Au revoir."
+    "timestamp": "00:04:39,459 --> 00:04:45,079",
+    "speaker": "Male Speaker",
+    "text": "Je ne comprends pas le français."
   },
   {
-    "text" : "Say, goodbye, ma'am.",
-    "timestamp" : "04:00.060-04:04.380"
+    "timestamp": "00:04:45,079 --> 00:04:50,399",
+    "speaker": "Male Speaker",
+    "text": "Je ne comprends pas le français."
   },
   {
-    "text" : "Au revoir, madame.",
-    "timestamp" : "04:06.860-04:08.200"
+    "timestamp": "00:04:50,399 --> 00:04:56,299",
+    "speaker": "Narrator",
+    "text": "\"Do you understand French?\""
   },
   {
-    "timestamp" : "04:08.200-04:12.140",
-    "text" : "Au revoir, madame."
+    "timestamp": "00:04:56,299 --> 00:05:02,099",
+    "speaker": "Female Speaker",
+    "text": "Est-ce que vous comprenez le français?"
   },
   {
-    "timestamp" : "04:12.140-04:16.700",
-    "text" : "Ask me again how I am."
+    "timestamp": "00:05:02,099 --> 00:05:08,579",
+    "speaker": "Female Speaker",
+    "text": "Est-ce que vous comprenez le français?"
   },
   {
-    "text" : "Comment allez-vous?",
-    "timestamp" : "04:16.700-04:20.360"
+    "timestamp": "00:05:08,579 --> 00:05:13,979",
+    "speaker": "Narrator",
+    "text": "\"I understand French a little.\""
   },
   {
-    "text" : "How would I answer, not very well?",
-    "timestamp" : "04:20.360-04:25.380"
+    "timestamp": "00:05:13,979 --> 00:05:19,619",
+    "speaker": "Male Speaker",
+    "text": "Je comprends un peu le français."
   },
   {
-    "timestamp" : "04:27.320-04:28.180",
-    "text" : "Pas très bien."
+    "timestamp": "00:05:19,619 --> 00:05:25,200",
+    "speaker": "Male Speaker",
+    "text": "Je comprends un peu le français."
   },
   {
-    "text" : "Pas très bien.",
-    "timestamp" : "04:28.180-04:31.000"
+    "timestamp": "00:05:25,200 --> 00:05:30,360",
+    "speaker": "Narrator",
+    "text": "Now, ask me if I'm American."
   },
   {
-    "text" : "How would I tell you that I don't understand French?",
-    "timestamp" : "04:31.000-04:35.340"
+    "timestamp": "00:05:30,360 --> 00:05:35,219",
+    "speaker": "Female Speaker",
+    "text": "Est-ce que vous êtes américain?"
   },
   {
-    "text" : "Je ne comprends pas le français.",
-    "timestamp" : "04:35.340-04:40.880"
+    "timestamp": "00:05:35,219 --> 00:05:40,920",
+    "speaker": "Female Speaker",
+    "text": "Est-ce que vous êtes américain, monsieur?"
   },
   {
-    "timestamp" : "04:40.880-04:46.360",
-    "text" : "Je ne comprends pas le français."
+    "timestamp": "00:05:40,920 --> 00:05:48,319",
+    "speaker": "Narrator",
+    "text": "That is how you would ask a man if he's American. Now listen to how you would ask a young woman the same question."
   },
   {
-    "timestamp" : "04:50.200-04:51.680",
-    "text" : "Do you understand French?"
+    "timestamp": "00:05:48,319 --> 00:05:51,360",
+    "speaker": "Male Speaker",
+    "text": "Est-ce que vous êtes américaine, mademoiselle?"
   },
   {
-    "timestamp" : "04:51.680-04:57.720",
-    "text" : "Est-ce que vous comprenez le français?"
+    "timestamp": "00:05:51,360 --> 00:05:56,640",
+    "speaker": "Narrator",
+    "text": "Practice the feminine form of the word: \"American.\" Listen and repeat."
   },
   {
-    "text" : "Est-ce que vous comprenez le français?",
-    "timestamp" : "04:57.720-05:03.860"
+    "timestamp": "00:05:56,640 --> 00:05:59,739",
+    "speaker": "Male Speaker",
+    "text": "Américaine."
   },
   {
-    "timestamp" : "05:03.860-05:09.900",
-    "text" : "I understand French a little."
+    "timestamp": "00:05:59,739 --> 00:06:02,739",
+    "speaker": "Male Speaker",
+    "text": "Caine."
   },
   {
-    "timestamp" : "05:09.900-05:15.480",
-    "text" : "Je comprends un peu le français."
+    "timestamp": "00:06:02,739 --> 00:06:05,439",
+    "speaker": "Male Speaker",
+    "text": "Caine."
   },
   {
-    "timestamp" : "05:19.400-05:21.140",
-    "text" : "Je comprends un peu le français."
+    "timestamp": "00:06:05,439 --> 00:06:08,833",
+    "speaker": "Male Speaker",
+    "text": "Américaine."
   },
   {
-    "timestamp" : "05:21.140-05:26.680",
-    "text" : "Now ask me if I'm American."
+    "timestamp": "00:06:08,833 --> 00:06:12,093",
+    "speaker": "Male Speaker",
+    "text": "Américaine."
   },
   {
-    "timestamp" : "05:26.680-05:31.580",
-    "text" : "Est-ce que vous êtes américain?"
+    "timestamp": "00:06:12,093 --> 00:06:18,913",
+    "speaker": "Narrator",
+    "text": "Now practice distinguishing between the masculine and feminine forms. Listen and repeat the two endings."
   },
   {
-    "timestamp" : "05:31.580-05:36.720",
-    "text" : "Est-ce que vous êtes américain, monsieur?"
+    "timestamp": "00:06:18,913 --> 00:06:24,174",
+    "speaker": "Male Speaker",
+    "text": "Cain, caine."
   },
   {
-    "text" : "That is how you would ask a man if he's American.",
-    "timestamp" : "05:36.720-05:43.000"
+    "timestamp": "00:06:24,174 --> 00:06:29,253",
+    "speaker": "Male Speaker",
+    "text": "Cain, caine."
   },
   {
-    "text" : "Now listen to how you would ask a young woman the same question.",
-    "timestamp" : "05:43.000-05:46.480"
+    "timestamp": "00:06:29,253 --> 00:06:34,313",
+    "speaker": "Male Speaker",
+    "text": "Cain, caine."
   },
   {
-    "text" : "Est-ce que vous êtes américain, mademoiselle?",
-    "timestamp" : "05:48.600-05:50.060"
+    "timestamp": "00:06:34,313 --> 00:06:40,813",
+    "speaker": "Male Speaker",
+    "text": "Américain, Américaine."
   },
   {
-    "timestamp" : "05:50.060-05:54.000",
-    "text" : "Practice the feminine form of the word American."
+    "timestamp": "00:06:40,813 --> 00:06:47,234",
+    "speaker": "Male Speaker",
+    "text": "Américain, Américaine."
   },
   {
-    "text" : "Listen and repeat.",
-    "timestamp" : "05:54.000-05:55.280"
+    "timestamp": "00:06:47,234 --> 00:06:51,414",
+    "speaker": "Narrator",
+    "text": "Say, \"American,\" to a man."
   },
   {
-    "timestamp" : "05:56.900-06:15.700",
-    "text" : "Now practice distinguishing between the masculine and feminine forms."
+    "timestamp": "00:06:51,414 --> 00:06:54,593",
+    "speaker": "Male Speaker",
+    "text": "Américain."
   },
   {
-    "text" : "Listen and repeat the two endings.",
-    "timestamp" : "06:15.700-06:17.740"
+    "timestamp": "00:06:54,593 --> 00:06:57,894",
+    "speaker": "Narrator",
+    "text": "Now to a woman."
   },
   {
-    "text" : "Can, can.",
-    "timestamp" : "06:17.740-06:20.200"
+    "timestamp": "00:06:57,894 --> 00:07:01,193",
+    "speaker": "Male Speaker",
+    "text": "Américaine."
   },
   {
-    "timestamp" : "06:20.200-06:20.220",
-    "text" : "Can, can."
+    "timestamp": "00:07:01,193 --> 00:07:04,913",
+    "speaker": "Narrator",
+    "text": "Say, \"You are.\""
   },
   {
-    "text" : "Can, can.",
-    "timestamp" : "06:20.220-06:25.480"
+    "timestamp": "00:07:04,913 --> 00:07:08,153",
+    "speaker": "Male Speaker",
+    "text": "Vous êtes."
   },
   {
-    "text" : "Can, can.",
-    "timestamp" : "06:25.480-06:30.560"
+    "timestamp": "00:07:08,153 --> 00:07:13,913",
+    "speaker": "Narrator",
+    "text": "Ask the young woman if she is American."
   },
   {
-    "text" : "American, American.",
-    "timestamp" : "06:30.560-06:35.920"
+    "timestamp": "00:07:13,913 --> 00:07:19,093",
+    "speaker": "Male Speaker",
+    "text": "Est-ce que vous êtes américaine?"
   },
   {
-    "text" : "American, American.",
-    "timestamp" : "06:40.860-06:41.360"
+    "timestamp": "00:07:19,093 --> 00:07:25,093",
+    "speaker": "Male Speaker",
+    "text": "Est-ce que vous êtes américaine, mademoiselle?"
   },
   {
-    "timestamp" : "06:41.360-06:42.320",
-    "text" : "American, American."
+    "timestamp": "00:07:25,093 --> 00:07:30,693",
+    "speaker": "Narrator",
+    "text": "Now ask the man the same question."
   },
   {
-    "timestamp" : "06:42.320-06:42.500",
-    "text" : "American."
+    "timestamp": "00:07:30,693 --> 00:07:35,693",
+    "speaker": "Male Speaker",
+    "text": "Est-ce que vous êtes américain?"
   },
   {
-    "timestamp" : "06:42.500-06:48.940",
-    "text" : "Say American to a man."
+    "timestamp": "00:07:35,693 --> 00:07:41,394",
+    "speaker": "Male Speaker",
+    "text": "Est-ce que vous êtes américain, monsieur?"
   },
   {
-    "timestamp" : "06:48.940-06:51.880",
-    "text" : "American."
+    "timestamp": "00:07:41,394 --> 00:07:46,053",
+    "speaker": "Narrator",
+    "text": "Listen to the man's answer. \"Yes, I'm American.\" Just listen."
   },
   {
-    "text" : "Now to a woman.",
-    "timestamp" : "06:51.880-06:55.440"
+    "timestamp": "00:07:46,053 --> 00:07:48,513",
+    "speaker": "Male Speaker",
+    "text": "Oui, je suis américain."
   },
   {
-    "text" : "American.",
-    "timestamp" : "06:55.440-06:58.400"
+    "timestamp": "00:07:48,513 --> 00:07:53,093",
+    "speaker": "Narrator",
+    "text": "Now, here's how to say, \"I am.\" Listen and repeat."
   },
   {
-    "timestamp" : "06:58.400-07:02.460",
-    "text" : "Say, you are."
+    "timestamp": "00:07:53,093 --> 00:07:56,273",
+    "speaker": "Male Speaker",
+    "text": "Je suis."
   },
   {
-    "timestamp" : "07:04.640-07:05.640",
-    "text" : "You are."
+    "timestamp": "00:07:56,273 --> 00:07:58,714",
+    "speaker": "Male Speaker",
+    "text": "Suis."
   },
   {
-    "timestamp" : "07:05.640-07:09.980",
-    "text" : "Ask the young woman if she is American."
+    "timestamp": "00:07:58,714 --> 00:07:59,973",
+    "speaker": "Narrator",
+    "text": "Be sure you're saying-"
   },
   {
-    "timestamp" : "07:13.780-07:15.200",
-    "text" : "Est-ce que vous êtes américain?"
+    "timestamp": "00:07:59,973 --> 00:08:00,613",
+    "speaker": "Male Speaker",
+    "text": "Suis."
   },
   {
-    "text" : "Est-ce que vous êtes américain, mademoiselle?",
-    "timestamp" : "07:15.200-07:20.780"
+    "timestamp": "00:08:00,613 --> 00:08:05,313",
+    "speaker": "Narrator",
+    "text": "With an S and not shui. Continue repeating."
   },
   {
-    "text" : "Now ask the man the same question.",
-    "timestamp" : "07:20.780-07:27.040"
+    "timestamp": "00:08:05,313 --> 00:08:07,813",
+    "speaker": "Male Speaker",
+    "text": "Suis."
   },
   {
-    "text" : "Est-ce que vous êtes américain?",
-    "timestamp" : "07:27.040-07:32.000"
+    "timestamp": "00:08:07,813 --> 00:08:10,373",
+    "speaker": "Male Speaker",
+    "text": "Suis."
   },
   {
-    "text" : "Est-ce que vous êtes américain, monsieur?",
-    "timestamp" : "07:32.000-07:37.180"
+    "timestamp": "00:08:10,373 --> 00:08:12,833",
+    "speaker": "Male Speaker",
+    "text": "Suis."
   },
   {
-    "text" : "Listen to the man's answer.",
-    "timestamp" : "07:41.340-07:42.660"
+    "timestamp": "00:08:12,833 --> 00:08:14,913",
+    "speaker": "Narrator",
+    "text": "Now the word \"I.\""
   },
   {
-    "timestamp" : "07:42.660-07:44.220",
-    "text" : "Yes, I'm American."
+    "timestamp": "00:08:14,913 --> 00:08:17,273",
+    "speaker": "Male Speaker",
+    "text": "Je."
   },
   {
-    "text" : "Just listen.",
-    "timestamp" : "07:44.220-07:45.160"
+    "timestamp": "00:08:17,273 --> 00:08:19,593",
+    "speaker": "Male Speaker",
+    "text": "Je."
   },
   {
-    "timestamp" : "07:45.160-07:47.400",
-    "text" : "Oui, je suis américain."
+    "timestamp": "00:08:19,593 --> 00:08:23,654",
+    "speaker": "Male Speaker",
+    "text": "Je suis."
   },
   {
-    "timestamp" : "07:47.400-07:50.560",
-    "text" : "Now, here's how to say, I am."
+    "timestamp": "00:08:23,654 --> 00:08:26,574",
+    "speaker": "Male Speaker",
+    "text": "Je suis."
   },
   {
-    "timestamp" : "07:50.560-07:51.780",
-    "text" : "Listen and repeat."
+    "timestamp": "00:08:26,574 --> 00:08:29,434",
+    "speaker": "Male Speaker",
+    "text": "Je suis."
   },
   {
-    "timestamp" : "07:51.780-07:53.640",
-    "text" : "Je suis."
+    "timestamp": "00:08:29,434 --> 00:08:33,453",
+    "speaker": "Narrator",
+    "text": "Say, \"I am.\""
   },
   {
-    "timestamp" : "07:53.640-07:56.700",
-    "text" : "Suis."
+    "timestamp": "00:08:33,453 --> 00:08:36,553",
+    "speaker": "Male Speaker",
+    "text": "Je suis."
   },
   {
-    "text" : "Be sure you're saying,",
-    "timestamp" : "07:56.700-07:59.780"
+    "timestamp": "00:08:36,553 --> 00:08:39,973",
+    "speaker": "Narrator",
+    "text": "Now listen to the whole answer and repeat it."
   },
   {
-    "text" : "Suis,",
-    "timestamp" : "07:59.780-08:00.460"
+    "timestamp": "00:08:39,973 --> 00:08:44,714",
+    "speaker": "Male Speaker",
+    "text": "Je suis américain."
   },
   {
-    "timestamp" : "08:00.460-08:02.080",
-    "text" : "with an S and not,"
+    "timestamp": "00:08:44,714 --> 00:08:49,253",
+    "speaker": "Male Speaker",
+    "text": "Je suis américain."
   },
   {
-    "timestamp" : "08:02.080-08:02.800",
-    "text" : "Suis."
+    "timestamp": "00:08:49,253 --> 00:08:52,053",
+    "speaker": "Narrator",
+    "text": "Did you notice the Z sound? He said-"
   },
   {
-    "timestamp" : "08:03.800-08:04.640",
-    "text" : "Continue repeating."
+    "timestamp": "00:08:52,053 --> 00:08:53,993",
+    "speaker": "Male Speaker",
+    "text": "Je suis américain."
   },
   {
-    "timestamp" : "08:04.640-08:05.720",
-    "text" : "Suis."
+    "timestamp": "00:08:53,993 --> 00:08:55,893",
+    "speaker": "Narrator",
+    "text": "This is your clue that the word-"
   },
   {
-    "text" : "Suis.",
-    "timestamp" : "08:05.720-08:08.280"
+    "timestamp": "00:08:55,893 --> 00:08:56,473",
+    "speaker": "Male Speaker",
+    "text": "Suis."
   },
   {
-    "text" : "Suis.",
-    "timestamp" : "08:08.280-08:10.780"
+    "timestamp": "00:08:56,473 --> 00:09:04,253",
+    "speaker": "Narrator",
+    "text": "Is spelled with an S on the end, but it is a disappearing S, which is only heard when the next word begins with a vowel as-"
   },
   {
-    "timestamp" : "08:10.780-08:14.160",
-    "text" : "Now the word, I."
+    "timestamp": "00:09:04,253 --> 00:09:05,113",
+    "speaker": "Male Speaker",
+    "text": "Américain"
   },
   {
-    "timestamp" : "08:14.160-08:15.200",
-    "text" : "Je."
+    "timestamp": "00:09:05,113 --> 00:09:11,053",
+    "speaker": "Narrator",
+    "text": "Does. Once again, say, \"I am.\""
   },
   {
-    "text" : "Je.",
-    "timestamp" : "08:15.200-08:17.560"
+    "timestamp": "00:09:11,053 --> 00:09:13,953",
+    "speaker": "Male Speaker",
+    "text": "Je suis."
   },
   {
-    "text" : "Je suis.",
-    "timestamp" : "08:17.560-08:20.700"
+    "timestamp": "00:09:13,953 --> 00:09:17,673",
+    "speaker": "Narrator",
+    "text": "Say, \"You are.\""
   },
   {
-    "text" : "Je suis.",
-    "timestamp" : "08:20.700-08:24.180"
+    "timestamp": "00:09:17,673 --> 00:09:20,913",
+    "speaker": "Male Speaker",
+    "text": "Vous êtes."
   },
   {
-    "timestamp" : "08:24.180-08:27.080",
-    "text" : "Je suis."
+    "timestamp": "00:09:20,913 --> 00:09:25,893",
+    "speaker": "Narrator",
+    "text": "Now say, \"I am American.\""
   },
   {
-    "timestamp" : "08:27.080-08:30.800",
-    "text" : "Say, I am."
+    "timestamp": "00:09:25,893 --> 00:09:29,973",
+    "speaker": "Male Speaker",
+    "text": "Je suis américain."
   },
   {
-    "text" : "Je suis.",
-    "timestamp" : "08:32.800-08:33.960"
+    "timestamp": "00:09:29,973 --> 00:09:35,214",
+    "speaker": "Narrator",
+    "text": "How would you say that if you were a woman?"
   },
   {
-    "timestamp" : "08:33.960-08:38.800",
-    "text" : "Now listen to the whole answer and repeat it."
+    "timestamp": "00:09:35,214 --> 00:09:40,053",
+    "speaker": "Male Speaker",
+    "text": "Je suis américaine."
   },
   {
-    "text" : "Je suis américain.",
-    "timestamp" : "08:38.800-08:41.100"
+    "timestamp": "00:09:40,053 --> 00:09:44,934",
+    "speaker": "Male Speaker",
+    "text": "Je suis américaine."
   },
   {
-    "text" : "Je suis américain.",
-    "timestamp" : "08:41.100-08:45.740"
+    "timestamp": "00:09:44,934 --> 00:09:50,413",
+    "speaker": "Narrator",
+    "text": "Guess how the man would say, \"I am French.\""
   },
   {
-    "text" : "Did you notice the Z sound?",
-    "timestamp" : "08:45.740-08:50.800"
+    "timestamp": "00:09:50,413 --> 00:09:54,493",
+    "speaker": "Male Speaker",
+    "text": "Je suis français."
   },
   {
-    "text" : "He said,",
-    "timestamp" : "08:50.800-08:51.800"
+    "timestamp": "00:09:54,493 --> 00:09:56,714",
+    "speaker": "Male Speaker",
+    "text": "Suis."
   },
   {
-    "text" : "Je suis américain.",
-    "timestamp" : "08:51.800-08:53.360"
+    "timestamp": "00:09:56,714 --> 00:09:59,593",
+    "speaker": "Male Speaker",
+    "text": "Je suis."
   },
   {
-    "timestamp" : "08:53.840-08:55.700",
-    "text" : "This is your clue that the word,"
+    "timestamp": "00:09:59,593 --> 00:10:03,533",
+    "speaker": "Male Speaker",
+    "text": "Je suis français."
   },
   {
-    "text" : "Suis,",
-    "timestamp" : "08:55.700-08:56.300"
+    "timestamp": "00:10:03,533 --> 00:10:07,653",
+    "speaker": "Narrator",
+    "text": "And now listen and repeat how the woman would say this."
   },
   {
-    "text" : "is spelled with an S on the end.",
-    "timestamp" : "08:56.300-08:58.320"
+    "timestamp": "00:10:07,653 --> 00:10:12,313",
+    "speaker": "Male Speaker",
+    "text": "Je suis française."
   },
   {
-    "text" : "But it is a disappearing S,",
-    "timestamp" : "08:58.320-09:00.420"
+    "timestamp": "00:10:12,313 --> 00:10:15,993",
+    "speaker": "Male Speaker",
+    "text": "Française."
   },
   {
-    "text" : "which is only heard when the next word begins with a vowel,",
-    "timestamp" : "09:00.420-09:03.300"
+    "timestamp": "00:10:15,993 --> 00:10:19,613",
+    "speaker": "Male Speaker",
+    "text": "Française."
   },
   {
-    "timestamp" : "09:03.300-09:04.080",
-    "text" : "as,"
+    "timestamp": "00:10:19,613 --> 00:10:25,853",
+    "speaker": "Narrator",
+    "text": "Practice the contrast."
   },
   {
-    "text" : "American,",
-    "timestamp" : "09:04.080-09:04.840"
+    "timestamp": "00:10:25,853 --> 00:10:32,973",
+    "speaker": "Male Speaker",
+    "text": "Français, Française."
   },
   {
-    "timestamp" : "09:04.840-09:05.520",
-    "text" : "does."
+    "timestamp": "00:10:32,973 --> 00:10:39,993",
+    "speaker": "Male Speaker",
+    "text": "Français, Française."
   },
   {
-    "timestamp" : "09:05.520-09:07.040",
-    "text" : "Once again,"
+    "timestamp": "00:10:39,993 --> 00:10:45,094",
+    "speaker": "Narrator",
+    "text": "Now ask me if I am French."
   },
   {
-    "text" : "say,",
-    "timestamp" : "09:07.040-09:07.540"
+    "timestamp": "00:10:45,094 --> 00:10:49,773",
+    "speaker": "Male Speaker",
+    "text": "Est-ce que vous êtes Français?"
   },
   {
-    "text" : "I am.",
-    "timestamp" : "09:07.540-09:08.660"
+    "timestamp": "00:10:49,773 --> 00:10:55,714",
+    "speaker": "Narrator",
+    "text": "How would I answer, \"I am American\"?"
   },
   {
-    "timestamp" : "09:08.660-09:11.600",
-    "text" : "Je suis."
+    "timestamp": "00:10:55,714 --> 00:11:00,673",
+    "speaker": "Male Speaker",
+    "text": "Je suis américain."
   },
   {
-    "text" : "Say,",
-    "timestamp" : "09:11.600-09:14.320"
+    "timestamp": "00:11:00,673 --> 00:11:05,413",
+    "speaker": "Male Speaker",
+    "text": "Je suis américain."
   },
   {
-    "timestamp" : "09:14.320-09:15.220",
-    "text" : "You are."
+    "timestamp": "00:11:05,413 --> 00:11:11,053",
+    "speaker": "Narrator",
+    "text": "And now ask the woman if she is French."
   },
   {
-    "text" : "Vous êtes.",
-    "timestamp" : "09:15.220-09:18.400"
+    "timestamp": "00:11:11,053 --> 00:11:15,993",
+    "speaker": "Male Speaker",
+    "text": "Est-ce que vous êtes française?"
   },
   {
-    "text" : "Now say,",
-    "timestamp" : "09:20.720-09:21.560"
+    "timestamp": "00:11:15,993 --> 00:11:22,594",
+    "speaker": "Male Speaker",
+    "text": "Est-ce que vous êtes française, mademoiselle?"
   },
   {
-    "timestamp" : "09:21.560-09:22.740",
-    "text" : "I am American."
+    "timestamp": "00:11:22,594 --> 00:11:28,333",
+    "speaker": "Narrator",
+    "text": "Now, you answer for her, \"I am American.\""
   },
   {
-    "timestamp" : "09:22.740-09:27.000",
-    "text" : "Je suis américain."
+    "timestamp": "00:11:28,333 --> 00:11:32,733",
+    "speaker": "Male Speaker",
+    "text": "Je suis américaine."
   },
   {
-    "text" : "How would you say that if you were a woman?",
-    "timestamp" : "09:27.000-09:31.680"
+    "timestamp": "00:11:32,733 --> 00:11:38,993",
+    "speaker": "Narrator",
+    "text": "And now say for her, \"I am not French.\""
   },
   {
-    "text" : "Guess how the man would say,",
-    "timestamp" : "09:35.260-09:46.160"
+    "timestamp": "00:11:38,993 --> 00:11:44,314",
+    "speaker": "Male Speaker",
+    "text": "Je ne suis pas française."
   },
   {
-    "text" : "I am French.",
-    "timestamp" : "09:46.160-09:47.320"
+    "timestamp": "00:11:44,314 --> 00:11:49,513",
+    "speaker": "Male Speaker",
+    "text": "Je ne suis pas française."
   },
   {
-    "timestamp" : "09:47.800-09:51.340",
-    "text" : "I am French."
+    "timestamp": "00:11:49,513 --> 00:12:00,273",
+    "speaker": "Narrator",
+    "text": "Now, speaking for yourself, tell me that you're not French. If you're a man, you'll say it one way, and if you're a woman, you'll say it another."
   },
   {
-    "text" : "Suis.",
-    "timestamp" : "09:51.340-09:54.940"
+    "timestamp": "00:12:00,273 --> 00:12:05,033",
+    "speaker": "Male Speaker",
+    "text": "Je ne suis pas français."
   },
   {
-    "timestamp" : "09:54.940-09:57.260",
-    "text" : "Je suis."
+    "timestamp": "00:12:05,033 --> 00:12:09,973",
+    "speaker": "Male Speaker",
+    "text": "Je ne suis pas française."
   },
   {
-    "text" : "Je suis.",
-    "timestamp" : "09:57.260-10:00.040"
+    "timestamp": "00:12:09,973 --> 00:12:14,703",
+    "speaker": "Male Speaker",
+    "text": "Je ne suis pas français."
   },
   {
-    "text" : "Je suis français.",
-    "timestamp" : "10:00.040-10:00.520"
+    "timestamp": "00:12:14,703 --> 00:12:19,523",
+    "speaker": "Male Speaker",
+    "text": "Je ne suis pas française."
   },
   {
-    "timestamp" : "10:00.520-10:04.080",
-    "text" : "And now,"
+    "timestamp": "00:12:19,523 --> 00:12:23,824",
+    "speaker": "Narrator",
+    "text": "Suppose you wanted to ask: \"And you?\" Listen and repeat."
   },
   {
-    "text" : "listen and repeat how the woman would say this.",
-    "timestamp" : "10:04.080-10:06.320"
+    "timestamp": "00:12:23,824 --> 00:12:26,503",
+    "speaker": "Male Speaker",
+    "text": "Et vous?"
   },
   {
-    "text" : "Je suis française.",
-    "timestamp" : "10:07.680-10:08.720"
+    "timestamp": "00:12:26,503 --> 00:12:28,484",
+    "speaker": "Male Speaker",
+    "text": "Et."
   },
   {
-    "timestamp" : "10:08.720-10:08.720",
-    "text" : "Je suis française."
+    "timestamp": "00:12:28,484 --> 00:12:30,444",
+    "speaker": "Male Speaker",
+    "text": "Et."
   },
   {
-    "text" : "Française.",
-    "timestamp" : "10:08.720-10:13.140"
+    "timestamp": "00:12:30,444 --> 00:12:33,084",
+    "speaker": "Male Speaker",
+    "text": "Et vous?"
   },
   {
-    "text" : "Française.",
-    "timestamp" : "10:13.140-10:16.760"
+    "timestamp": "00:12:33,084 --> 00:12:37,404",
+    "speaker": "Narrator",
+    "text": "Now, what is the word for \"and\" in French?"
   },
   {
-    "text" : "Practice the contrast.",
-    "timestamp" : "10:16.760-10:20.920"
+    "timestamp": "00:12:37,404 --> 00:12:39,303",
+    "speaker": "Male Speaker",
+    "text": "Et."
   },
   {
-    "text" : "Français,",
-    "timestamp" : "10:20.920-10:26.480"
+    "timestamp": "00:12:39,303 --> 00:12:41,244",
+    "speaker": "Male Speaker",
+    "text": "Et."
   },
   {
-    "text" : "française.",
-    "timestamp" : "10:26.480-10:27.840"
+    "timestamp": "00:12:41,244 --> 00:12:48,083",
+    "speaker": "Narrator",
+    "text": "Now say: \"I'm American, and you?\""
   },
   {
-    "text" : "Français,",
-    "timestamp" : "10:27.840-10:33.560"
+    "timestamp": "00:12:48,083 --> 00:12:53,664",
+    "speaker": "Male Speaker",
+    "text": "Je suis américain, et vous?"
   },
   {
-    "text" : "française.",
-    "timestamp" : "10:33.560-10:34.920"
+    "timestamp": "00:12:53,664 --> 00:12:59,684",
+    "speaker": "Male Speaker",
+    "text": "Je suis américaine, et vous?"
   },
   {
-    "timestamp" : "10:34.920-10:41.560",
-    "text" : "Now ask me if I am French."
+    "timestamp": "00:12:59,684 --> 00:13:05,963",
+    "speaker": "Narrator",
+    "text": "Say to the woman. \"You are American.\""
   },
   {
-    "text" : "Est-ce que vous êtes français?",
-    "timestamp" : "10:41.560-10:46.160"
+    "timestamp": "00:13:05,963 --> 00:13:11,243",
+    "speaker": "Male Speaker",
+    "text": "Vous êtes américaine."
   },
   {
-    "timestamp" : "10:46.160-10:50.600",
-    "text" : "How would I answer?"
+    "timestamp": "00:13:11,243 --> 00:13:15,504",
+    "speaker": "Narrator",
+    "text": "And to the man."
   },
   {
-    "text" : "I am American.",
-    "timestamp" : "10:50.600-10:51.940"
+    "timestamp": "00:13:15,504 --> 00:13:20,024",
+    "speaker": "Male Speaker",
+    "text": "Vous êtes américain."
   },
   {
-    "timestamp" : "10:51.940-10:56.940",
-    "text" : "Je suis américain."
+    "timestamp": "00:13:20,024 --> 00:13:25,863",
+    "speaker": "Narrator",
+    "text": "And now say: \"You're not American.\""
   },
   {
-    "timestamp" : "10:56.940-11:01.760",
-    "text" : "Je suis américain."
+    "timestamp": "00:13:25,863 --> 00:13:31,143",
+    "speaker": "Male Speaker",
+    "text": "Vous n'êtes pas américaine."
   },
   {
-    "timestamp" : "11:01.760-11:07.360",
-    "text" : "And now ask the woman if she is French."
+    "timestamp": "00:13:31,143 --> 00:13:35,363",
+    "speaker": "Male Speaker",
+    "text": "Pas américaine."
   },
   {
-    "timestamp" : "11:07.360-11:12.240",
-    "text" : "Est-ce que vous êtes française?"
+    "timestamp": "00:13:35,363 --> 00:13:40,884",
+    "speaker": "Male Speaker",
+    "text": "Vous n'êtes pas américaine."
   },
   {
-    "text" : "Est-ce que vous êtes française,",
-    "timestamp" : "11:12.240-11:17.160"
+    "timestamp": "00:13:40,884 --> 00:13:46,164",
+    "speaker": "Male Speaker",
+    "text": "Vous n'êtes pas américain."
   },
   {
-    "timestamp" : "11:17.160-11:17.840",
-    "text" : "mademoiselle?"
+    "timestamp": "00:13:46,164 --> 00:13:51,423",
+    "speaker": "Male Speaker",
+    "text": "Vous n'êtes pas américain."
   },
   {
-    "text" : "Now you answer for her,",
-    "timestamp" : "11:17.840-11:23.940"
+    "timestamp": "00:13:51,423 --> 00:13:53,563",
+    "speaker": "Narrator",
+    "text": "Did you notice the Z sound in-"
   },
   {
-    "text" : "I am American.",
-    "timestamp" : "11:23.940-11:25.100"
+    "timestamp": "00:13:53,563 --> 00:13:55,204",
+    "speaker": "Male Speaker",
+    "text": "Pas américaine."
   },
   {
-    "text" : "Je suis américaine.",
-    "timestamp" : "11:28.180-11:29.520"
+    "timestamp": "00:13:55,204 --> 00:13:57,283",
+    "speaker": "Narrator",
+    "text": "What does this show you about the word?"
   },
   {
-    "text" : "And now say for her,",
-    "timestamp" : "11:29.520-11:33.740"
+    "timestamp": "00:13:57,283 --> 00:13:59,083",
+    "speaker": "Male Speaker",
+    "text": "Pas."
   },
   {
-    "text" : "I am not French.",
-    "timestamp" : "11:33.740-11:35.060"
+    "timestamp": "00:13:59,083 --> 00:14:00,123",
+    "speaker": "Narrator",
+    "text": "It shows that-"
   },
   {
-    "timestamp" : "11:35.060-11:40.280",
-    "text" : "Je ne suis pas française."
+    "timestamp": "00:14:00,123 --> 00:14:00,743",
+    "speaker": "Male Speaker",
+    "text": "Pas."
   },
   {
-    "text" : "Je ne suis pas française.",
-    "timestamp" : "11:40.280-11:45.580"
+    "timestamp": "00:14:00,743 --> 00:14:07,423",
+    "speaker": "Narrator",
+    "text": "Ends with an S, but it's a disappearing sound, which is only heard when the next word begins with a vowel as-"
   },
   {
-    "text" : "Now, speaking for yourself,",
-    "timestamp" : "11:45.580-11:50.880"
+    "timestamp": "00:14:07,423 --> 00:14:09,083",
+    "speaker": "Male Speaker",
+    "text": "Américain."
   },
   {
-    "text" : "tell me that you're not French.",
-    "timestamp" : "11:50.880-11:52.580"
+    "timestamp": "00:14:09,083 --> 00:14:15,443",
+    "speaker": "Narrator",
+    "text": "Again, say, \"You're not American.\""
   },
   {
-    "timestamp" : "11:53.040-11:53.760",
-    "text" : "If you're a man,"
+    "timestamp": "00:14:15,443 --> 00:14:21,583",
+    "speaker": "Male Speaker",
+    "text": "Vous n'êtes pas américaine, Madame."
   },
   {
-    "text" : "you'll say it one way.",
-    "timestamp" : "11:53.760-11:54.680"
+    "timestamp": "00:14:21,583 --> 00:14:27,463",
+    "speaker": "Male Speaker",
+    "text": "Vous n'êtes pas américain, Monsieur."
   },
   {
-    "text" : "And if you're a woman,",
-    "timestamp" : "11:54.680-11:55.880"
+    "timestamp": "00:14:27,463 --> 00:14:30,844",
+    "speaker": "Narrator",
+    "text": "Ask, \"And you?\""
   },
   {
-    "text" : "you'll say it another.",
-    "timestamp" : "11:55.880-11:56.760"
+    "timestamp": "00:14:30,844 --> 00:14:33,583",
+    "speaker": "Male Speaker",
+    "text": "Et vous?"
   },
   {
-    "timestamp" : "11:56.760-12:01.420",
-    "text" : "Je ne suis pas français."
+    "timestamp": "00:14:33,583 --> 00:14:39,363",
+    "speaker": "Narrator",
+    "text": "Say, \"I'm not French.\""
   },
   {
-    "text" : "Je ne suis pas française.",
-    "timestamp" : "12:01.420-12:06.280"
+    "timestamp": "00:14:39,363 --> 00:14:44,903",
+    "speaker": "Male Speaker",
+    "text": "Je ne suis pas français."
   },
   {
-    "timestamp" : "12:06.280-12:11.120",
-    "text" : "Je ne suis pas français."
+    "timestamp": "00:14:44,903 --> 00:14:50,383",
+    "speaker": "Male Speaker",
+    "text": "Je ne suis pas française."
   },
   {
-    "text" : "Je ne suis pas française.",
-    "timestamp" : "12:11.120-12:15.960"
+    "timestamp": "00:14:50,383 --> 00:14:56,323",
+    "speaker": "Narrator",
+    "text": "Now you want to say, \"But I understand French.\" Listen and repeat the word \"but.\""
   },
   {
-    "text" : "Suppose you wanted to ask,",
-    "timestamp" : "12:19.440-12:20.920"
+    "timestamp": "00:14:56,323 --> 00:14:58,883",
+    "speaker": "Male Speaker",
+    "text": "Mais."
   },
   {
-    "timestamp" : "12:20.920-12:21.720",
-    "text" : "and you,"
+    "timestamp": "00:14:58,883 --> 00:15:01,463",
+    "speaker": "Male Speaker",
+    "text": "Mais."
   },
   {
-    "timestamp" : "12:21.720-12:23.200",
-    "text" : "listen and repeat."
+    "timestamp": "00:15:01,463 --> 00:15:04,043",
+    "speaker": "Male Speaker",
+    "text": "Mais."
   },
   {
-    "text" : "Et vous?",
-    "timestamp" : "12:23.200-12:24.300"
+    "timestamp": "00:15:04,043 --> 00:15:07,723",
+    "speaker": "Narrator",
+    "text": "Now you say, \"But.\""
   },
   {
-    "timestamp" : "12:24.300-12:26.820",
-    "text" : "Et"
+    "timestamp": "00:15:07,723 --> 00:15:10,144",
+    "speaker": "Male Speaker",
+    "text": "Mais."
   },
   {
-    "text" : "Et",
-    "timestamp" : "12:26.820-12:28.820"
+    "timestamp": "00:15:10,144 --> 00:15:13,543",
+    "speaker": "Narrator",
+    "text": "And now say, \"And.\""
   },
   {
-    "text" : "Et vous?",
-    "timestamp" : "12:28.820-12:30.900"
+    "timestamp": "00:15:13,543 --> 00:15:15,523",
+    "speaker": "Male Speaker",
+    "text": "Et."
   },
   {
-    "timestamp" : "12:30.900-12:34.420",
-    "text" : "Now, what is the word for"
+    "timestamp": "00:15:15,523 --> 00:15:17,603",
+    "speaker": "Male Speaker",
+    "text": "Et."
   },
   {
-    "timestamp" : "12:34.420-12:35.720",
-    "text" : "and in French?"
+    "timestamp": "00:15:17,603 --> 00:15:22,984",
+    "speaker": "Narrator",
+    "text": "Say, \"But I understand.\""
   },
   {
-    "timestamp" : "12:35.720-12:37.700",
-    "text" : "Et"
+    "timestamp": "00:15:22,984 --> 00:15:27,403",
+    "speaker": "Male Speaker",
+    "text": "Mais je comprends."
   },
   {
-    "text" : "Et",
-    "timestamp" : "12:37.700-12:37.720"
+    "timestamp": "00:15:27,403 --> 00:15:31,603",
+    "speaker": "Male Speaker",
+    "text": "Mais je comprends."
   },
   {
-    "timestamp" : "12:37.720-12:39.640",
-    "text" : "Et"
+    "timestamp": "00:15:31,603 --> 00:15:37,924",
+    "speaker": "Narrator",
+    "text": "Say, \"But I understand French.\""
   },
   {
-    "timestamp" : "12:39.640-12:41.780",
-    "text" : "Now say,"
+    "timestamp": "00:15:37,924 --> 00:15:43,603",
+    "speaker": "Male Speaker",
+    "text": "Mais je comprends le français."
   },
   {
-    "text" : "I am American.",
-    "timestamp" : "12:41.780-12:43.060"
+    "timestamp": "00:15:43,603 --> 00:15:49,383",
+    "speaker": "Male Speaker",
+    "text": "Mais je comprends le français."
   },
   {
-    "timestamp" : "12:43.060-12:43.860",
-    "text" : "And you?"
+    "timestamp": "00:15:49,383 --> 00:15:54,984",
+    "speaker": "Narrator",
+    "text": "\"I understand French a little.\""
   },
   {
-    "text" : "Je suis américain.",
-    "timestamp" : "12:43.860-12:49.100"
+    "timestamp": "00:15:54,984 --> 00:16:00,643",
+    "speaker": "Male Speaker",
+    "text": "Je comprends un peu le français."
   },
   {
-    "timestamp" : "12:49.100-12:49.480",
-    "text" : "Et vous?"
+    "timestamp": "00:16:00,643 --> 00:16:03,963",
+    "speaker": "Narrator",
+    "text": "Ask, \"And you?\""
   },
   {
-    "text" : "Je suis américaine.",
-    "timestamp" : "12:49.480-12:54.860"
+    "timestamp": "00:16:03,963 --> 00:16:06,484",
+    "speaker": "Male Speaker",
+    "text": "Et vous?"
   },
   {
-    "text" : "Et vous?",
-    "timestamp" : "12:54.860-12:55.460"
+    "timestamp": "00:16:06,484 --> 00:16:11,903",
+    "speaker": "Narrator",
+    "text": "Ask her, \"Are you French?\""
   },
   {
-    "text" : "Say to the woman,",
-    "timestamp" : "12:55.460-13:00.440"
+    "timestamp": "00:16:11,903 --> 00:16:16,923",
+    "speaker": "Male Speaker",
+    "text": "Est-ce que vous êtes française?"
   },
   {
-    "text" : "You are American.",
-    "timestamp" : "13:00.440-13:02.040"
+    "timestamp": "00:16:16,923 --> 00:16:23,263",
+    "speaker": "Narrator",
+    "text": "Ask a man the same question, \"Are you French?\""
   },
   {
-    "text" : "Vous êtes américaine.",
-    "timestamp" : "13:02.040-13:07.340"
+    "timestamp": "00:16:23,263 --> 00:16:28,163",
+    "speaker": "Male Speaker",
+    "text": "Est-ce que vous êtes français?"
   },
   {
-    "timestamp" : "13:07.340-13:11.500",
-    "text" : "And"
+    "timestamp": "00:16:28,163 --> 00:16:35,864",
+    "speaker": "Narrator",
+    "text": "Answer, \"No, Ma'am. I'm American.\""
   },
   {
-    "timestamp" : "13:11.500-13:12.080",
-    "text" : "to the man."
+    "timestamp": "00:16:35,864 --> 00:16:43,704",
+    "speaker": "Male Speaker",
+    "text": "Non, Madame. Je suis Américain."
   },
   {
-    "timestamp" : "13:12.080-13:16.620",
-    "text" : "Vous êtes américain."
+    "timestamp": "00:16:43,704 --> 00:16:48,024",
+    "speaker": "Male Speaker",
+    "text": "Je suis Américain."
   },
   {
-    "text" : "And",
-    "timestamp" : "13:16.620-13:20.260"
+    "timestamp": "00:16:48,024 --> 00:16:54,223",
+    "speaker": "Narrator",
+    "text": "Ask, \"Do you understand French?\""
   },
   {
-    "text" : "now say,",
-    "timestamp" : "13:20.260-13:20.760"
+    "timestamp": "00:16:54,223 --> 00:16:59,963",
+    "speaker": "Male Speaker",
+    "text": "Est-ce que vous comprenez le français?"
   },
   {
-    "text" : "You are not American.",
-    "timestamp" : "13:20.760-13:22.000"
+    "timestamp": "00:16:59,963 --> 00:17:06,084",
+    "speaker": "Male Speaker",
+    "text": "Est-ce que vous comprenez le français, Monsieur?"
   },
   {
-    "timestamp" : "13:22.000-13:26.580",
-    "text" : "Vous n'êtes pas"
+    "timestamp": "00:17:06,084 --> 00:17:10,323",
+    "speaker": "Narrator",
+    "text": "\"Yes, a little.\""
   },
   {
-    "timestamp" : "13:26.580-13:27.360",
-    "text" : "américaine."
+    "timestamp": "00:17:10,323 --> 00:17:14,903",
+    "speaker": "Male Speaker",
+    "text": "Oui, un peu."
   },
   {
-    "text" : "Pas",
-    "timestamp" : "13:27.360-13:31.460"
+    "timestamp": "00:17:14,903 --> 00:17:21,924",
+    "speaker": "Narrator",
+    "text": "Say, \"I understand French a little.\""
   },
   {
-    "timestamp" : "13:31.460-13:32.180",
-    "text" : "américaine."
+    "timestamp": "00:17:21,924 --> 00:17:28,323",
+    "speaker": "Male Speaker",
+    "text": "Je comprends un peu le français."
   },
   {
-    "text" : "Vous n'êtes pas",
-    "timestamp" : "13:32.180-13:36.080"
+    "timestamp": "00:17:28,323 --> 00:17:34,603",
+    "speaker": "Male Speaker",
+    "text": "Je comprends un peu le français."
   },
   {
-    "text" : "américaine.",
-    "timestamp" : "13:36.080-13:36.860"
+    "timestamp": "00:17:34,603 --> 00:17:37,783",
+    "speaker": "Narrator",
+    "text": "\"Not very well.\""
   },
   {
-    "text" : "Vous n'êtes pas",
-    "timestamp" : "13:36.860-13:41.480"
+    "timestamp": "00:17:37,783 --> 00:17:40,763",
+    "speaker": "Male Speaker",
+    "text": "Pas très bien."
   },
   {
-    "text" : "américain.",
-    "timestamp" : "13:41.480-13:42.100"
+    "timestamp": "00:17:40,763 --> 00:17:43,743",
+    "speaker": "Male Speaker",
+    "text": "Pas très bien."
   },
   {
-    "timestamp" : "13:42.100-13:46.760",
-    "text" : "Vous n'êtes pas"
+    "timestamp": "00:17:43,743 --> 00:17:49,463",
+    "speaker": "Narrator",
+    "text": "Now let's learn how to say \"please\" in French. Listen and repeat."
   },
   {
-    "text" : "américain.",
-    "timestamp" : "13:46.760-13:47.380"
+    "timestamp": "00:17:49,463 --> 00:17:52,883",
+    "speaker": "Male Speaker",
+    "text": "S'il vous plaît."
   },
   {
-    "text" : "Did you notice the Z sound",
-    "timestamp" : "13:47.380-13:52.900"
+    "timestamp": "00:17:52,883 --> 00:17:55,243",
+    "speaker": "Male Speaker",
+    "text": "Plaît."
   },
   {
-    "timestamp" : "13:52.900-13:53.300",
-    "text" : "in"
+    "timestamp": "00:17:55,243 --> 00:17:57,663",
+    "speaker": "Male Speaker",
+    "text": "Plaît."
   },
   {
-    "text" : "Pas",
-    "timestamp" : "13:53.300-13:53.880"
+    "timestamp": "00:17:57,663 --> 00:18:01,063",
+    "speaker": "Male Speaker",
+    "text": "Vous plaît."
   },
   {
-    "text" : "américaine.",
-    "timestamp" : "13:53.880-13:54.580"
+    "timestamp": "00:18:01,063 --> 00:18:04,403",
+    "speaker": "Male Speaker",
+    "text": "Vous plaît."
   },
   {
-    "timestamp" : "13:54.580-13:56.200",
-    "text" : "What does this show you"
+    "timestamp": "00:18:04,403 --> 00:18:07,323",
+    "speaker": "Male Speaker",
+    "text": "S'il."
   },
   {
-    "text" : "about the word",
-    "timestamp" : "13:56.200-13:56.960"
+    "timestamp": "00:18:07,323 --> 00:18:10,084",
+    "speaker": "Male Speaker",
+    "text": "S'il."
   },
   {
-    "text" : "pas?",
-    "timestamp" : "13:56.960-13:57.580"
+    "timestamp": "00:18:10,084 --> 00:18:13,704",
+    "speaker": "Male Speaker",
+    "text": "S'il vous plaît."
   },
   {
-    "timestamp" : "13:57.580-14:00.100",
-    "text" : "It shows that"
+    "timestamp": "00:18:13,704 --> 00:18:16,463",
+    "speaker": "Male Speaker",
+    "text": "S'il vous plaît."
   },
   {
-    "text" : "pas",
-    "timestamp" : "14:00.100-14:00.480"
+    "timestamp": "00:18:16,463 --> 00:18:21,525",
+    "speaker": "Narrator",
+    "text": "How do you say \"please\" in French?"
   },
   {
-    "text" : "ends with an S,",
-    "timestamp" : "14:00.480-14:01.800"
+    "timestamp": "00:18:21,525 --> 00:18:23,245",
+    "speaker": "Narrator",
+    "text": "\"S'il vous plaît.\""
   },
   {
-    "text" : "but it's a",
-    "timestamp" : "14:01.800-14:02.540"
+    "timestamp": "00:18:23,245 --> 00:18:24,965",
+    "speaker": "Narrator",
+    "text": "Say, \"Excuse me.\""
   },
   {
-    "text" : "disappearing sound,",
-    "timestamp" : "14:02.540-14:03.500"
+    "timestamp": "00:18:24,965 --> 00:18:28,585",
+    "speaker": "Male Speaker",
+    "text": "Pardon."
   },
   {
-    "timestamp" : "14:03.500-14:04.800",
-    "text" : "which is only heard"
+    "timestamp": "00:18:28,585 --> 00:18:31,385",
+    "speaker": "Narrator",
+    "text": "\"You are.\""
   },
   {
-    "text" : "when the next word",
-    "timestamp" : "14:04.800-14:05.540"
+    "timestamp": "00:18:31,385 --> 00:18:32,866",
+    "speaker": "Male Speaker",
+    "text": "Vous êtes."
   },
   {
-    "text" : "begins with a vowel",
-    "timestamp" : "14:05.540-14:06.500"
+    "timestamp": "00:18:32,866 --> 00:18:36,066",
+    "speaker": "Male Speaker",
+    "text": "Vous êtes."
   },
   {
-    "timestamp" : "14:06.500-14:07.160",
-    "text" : "as"
+    "timestamp": "00:18:36,066 --> 00:18:38,006",
+    "speaker": "Narrator",
+    "text": "Say, \"I am.\""
   },
   {
-    "timestamp" : "14:07.160-14:08.160",
-    "text" : "américain."
+    "timestamp": "00:18:38,006 --> 00:18:42,426",
+    "speaker": "Male Speaker",
+    "text": "Je suis."
   },
   {
-    "timestamp" : "14:08.160-14:09.460",
-    "text" : "Again,"
+    "timestamp": "00:18:42,426 --> 00:18:47,385",
+    "speaker": "Narrator",
+    "text": "Say, \"I don't understand.\""
   },
   {
-    "timestamp" : "14:09.460-14:09.940",
-    "text" : "say,"
+    "timestamp": "00:18:47,385 --> 00:18:52,145",
+    "speaker": "Male Speaker",
+    "text": "Je ne comprends pas."
   },
   {
-    "text" : "You're not",
-    "timestamp" : "14:09.940-14:10.680"
+    "timestamp": "00:18:52,145 --> 00:18:56,145",
+    "speaker": "Narrator",
+    "text": "\"No, miss.\""
   },
   {
-    "text" : "American.",
-    "timestamp" : "14:10.680-14:11.100"
+    "timestamp": "00:18:56,145 --> 00:19:02,145",
+    "speaker": "Male Speaker",
+    "text": "Non, mademoiselle."
   },
   {
-    "timestamp" : "14:11.100-14:16.080",
-    "text" : "Vous n'êtes pas"
+    "timestamp": "00:19:02,145 --> 00:19:06,246",
+    "speaker": "Narrator",
+    "text": "Say, \"I don't understand French.\""
   },
   {
-    "timestamp" : "14:16.080-14:16.680",
-    "text" : "américaine,"
+    "timestamp": "00:19:06,246 --> 00:19:12,926",
+    "speaker": "Male Speaker",
+    "text": "Je ne comprends pas le français."
   },
   {
-    "text" : "madame.",
-    "timestamp" : "14:16.680-14:17.120"
+    "timestamp": "00:19:12,926 --> 00:19:14,526",
+    "speaker": "Narrator",
+    "text": "Now say, \"I am not American.\""
   },
   {
-    "timestamp" : "14:17.120-14:22.140",
-    "text" : "Vous n'êtes pas"
+    "timestamp": "00:19:14,526 --> 00:19:20,406",
+    "speaker": "Male Speaker",
+    "text": "Je ne suis pas américain."
   },
   {
-    "text" : "américain,",
-    "timestamp" : "14:22.140-14:22.640"
+    "timestamp": "00:19:20,406 --> 00:19:25,025",
+    "speaker": "Male Speaker",
+    "text": "Je ne suis pas américaine."
   },
   {
-    "text" : "monsieur.",
-    "timestamp" : "14:22.640-14:23.040"
+    "timestamp": "00:19:25,025 --> 00:19:30,645",
+    "speaker": "Narrator",
+    "text": "Say, \"You don't understand English.\""
   },
   {
-    "text" : "ask,",
-    "timestamp" : "14:27.380-14:27.900"
+    "timestamp": "00:19:30,645 --> 00:19:35,645",
+    "speaker": "Male Speaker",
+    "text": "Vous ne comprenez pas l'anglais."
   },
   {
-    "text" : "ask,",
-    "timestamp" : "14:27.900-14:27.900"
+    "timestamp": "00:19:35,645 --> 00:19:37,665",
+    "speaker": "Narrator",
+    "text": "\"You're not French.\""
   },
   {
-    "timestamp" : "14:27.900-14:28.620",
-    "text" : "and you?"
+    "timestamp": "00:19:37,665 --> 00:19:41,345",
+    "speaker": "Male Speaker",
+    "text": "Vous n'êtes pas français."
   },
   {
-    "text" : "And",
-    "timestamp" : "14:28.620-14:31.060"
+    "timestamp": "00:19:41,345 --> 00:19:44,345",
+    "speaker": "Male Speaker",
+    "text": "Vous n'êtes pas française."
   },
   {
-    "text" : "you?",
-    "timestamp" : "14:31.060-14:31.300"
+    "timestamp": "00:19:44,345 --> 00:19:48,345",
+    "speaker": "Narrator",
+    "text": "Say to a woman, \"You're not American.\""
   },
   {
-    "text" : "Say,",
-    "timestamp" : "14:31.300-14:33.940"
+    "timestamp": "00:19:48,345 --> 00:19:55,005",
+    "speaker": "Male Speaker",
+    "text": "Vous n'êtes pas américaine."
   },
   {
-    "text" : "I'm not",
-    "timestamp" : "14:33.940-14:34.820"
+    "timestamp": "00:19:55,005 --> 00:19:59,005",
+    "speaker": "Narrator",
+    "text": "Say to a man, \"You're not French.\""
   },
   {
-    "timestamp" : "14:34.820-14:35.260",
-    "text" : "French."
+    "timestamp": "00:19:59,005 --> 00:19:59,946",
+    "speaker": "Male Speaker",
+    "text": "Vous n'êtes pas français."
   },
   {
-    "text" : "Je ne suis pas",
-    "timestamp" : "14:35.260-14:40.300"
+    "timestamp": "00:19:59,946 --> 00:20:03,165",
+    "speaker": "Narrator",
+    "text": "Now say, \"I am American, and you?\""
   },
   {
-    "timestamp" : "14:40.300-14:40.700",
-    "text" : "français."
+    "timestamp": "00:20:03,165 --> 00:20:09,665",
+    "speaker": "Male Speaker",
+    "text": "Je suis américain, et vous?"
   },
   {
-    "text" : "Je ne suis pas",
-    "timestamp" : "14:40.700-14:45.580"
+    "timestamp": "00:20:09,665 --> 00:20:14,005",
+    "speaker": "Male Speaker",
+    "text": "Je suis américaine, et vous?"
   },
   {
-    "timestamp" : "14:45.580-14:46.140",
-    "text" : "française."
+    "timestamp": "00:20:14,005 --> 00:20:18,545",
+    "speaker": "Narrator",
+    "text": "Ask a man, \"Are you French?\""
   },
   {
-    "timestamp" : "14:50.000-14:50.960",
-    "text" : "Now you want"
+    "timestamp": "00:20:18,545 --> 00:20:24,545",
+    "speaker": "Male Speaker",
+    "text": "Est-ce que vous êtes français?"
   },
   {
-    "text" : "to say,",
-    "timestamp" : "14:50.960-14:51.340"
+    "timestamp": "00:20:24,545 --> 00:20:29,465",
+    "speaker": "Narrator",
+    "text": "How would you ask a woman the same question?"
   },
   {
-    "text" : "but I understand",
-    "timestamp" : "14:51.340-14:52.540"
+    "timestamp": "00:20:29,465 --> 00:20:35,006",
+    "speaker": "Male Speaker",
+    "text": "Est-ce que vous êtes française?"
   },
   {
-    "text" : "French.",
-    "timestamp" : "14:52.540-14:53.140"
+    "timestamp": "00:20:35,006 --> 00:20:38,185",
+    "speaker": "Narrator",
+    "text": "Ask, \"How are you?\""
   },
   {
-    "text" : "Listen and repeat",
-    "timestamp" : "14:53.140-14:54.380"
+    "timestamp": "00:20:38,185 --> 00:20:44,185",
+    "speaker": "Male Speaker",
+    "text": "Comment allez-vous?"
   },
   {
-    "text" : "the word",
-    "timestamp" : "14:54.380-14:54.900"
+    "timestamp": "00:20:44,185 --> 00:20:49,566",
+    "speaker": "Narrator",
+    "text": "Ask, \"Are you well?\""
   },
   {
-    "timestamp" : "14:54.900-14:55.400",
-    "text" : "but."
+    "timestamp": "00:20:49,566 --> 00:20:55,566",
+    "speaker": "Male Speaker",
+    "text": "Est-ce que vous allez bien?"
   },
   {
-    "timestamp" : "14:55.400-14:56.640",
-    "text" : "Mais."
+    "timestamp": "00:20:55,566 --> 00:20:58,085",
+    "speaker": "Narrator",
+    "text": "Say, \"Yes, thank you.\""
   },
   {
-    "text" : "Mais.",
-    "timestamp" : "14:56.640-14:59.240"
+    "timestamp": "00:20:58,085 --> 00:21:02,385",
+    "speaker": "Male Speaker",
+    "text": "Oui, merci."
   },
   {
-    "text" : "Mais.",
-    "timestamp" : "14:59.240-15:01.780"
+    "timestamp": "00:21:02,385 --> 00:21:06,845",
+    "speaker": "Narrator",
+    "text": "\"I am well.\""
   },
   {
-    "timestamp" : "15:01.780-15:04.840",
-    "text" : "Now you say,"
+    "timestamp": "00:21:06,845 --> 00:21:11,845",
+    "speaker": "Male Speaker",
+    "text": "Je vais bien."
   },
   {
-    "timestamp" : "15:04.840-15:05.540",
-    "text" : "but."
+    "timestamp": "00:21:11,845 --> 00:21:16,125",
+    "speaker": "Narrator",
+    "text": "Ask again, \"Are you well?\""
   },
   {
-    "text" : "Mais.",
-    "timestamp" : "15:05.540-15:08.040"
+    "timestamp": "00:21:16,125 --> 00:21:19,125",
+    "speaker": "Male Speaker",
+    "text": "Est-ce que vous allez bien?"
   },
   {
-    "timestamp" : "15:08.040-15:10.980",
-    "text" : "And now say,"
+    "timestamp": "00:21:19,125 --> 00:21:23,266",
+    "speaker": "Narrator",
+    "text": "How would you say, \"No, I'm not well\"?"
   },
   {
-    "timestamp" : "15:10.980-15:11.800",
-    "text" : "and."
+    "timestamp": "00:21:23,266 --> 00:21:28,805",
+    "speaker": "Male Speaker",
+    "text": "Non, je ne vais pas bien."
   },
   {
-    "text" : "Et.",
-    "timestamp" : "15:11.800-15:13.840"
+    "timestamp": "00:21:28,805 --> 00:21:32,805",
+    "speaker": "Narrator",
+    "text": "Say, \"Please, sir.\""
   },
   {
-    "timestamp" : "15:13.840-15:15.820",
-    "text" : "Et."
+    "timestamp": "00:21:32,805 --> 00:21:35,805",
+    "speaker": "Male Speaker",
+    "text": "S'il vous plaît, monsieur."
   },
   {
-    "timestamp" : "15:17.280-15:17.960",
-    "text" : "say,"
+    "timestamp": "00:21:35,805 --> 00:21:40,726",
+    "speaker": "Narrator",
+    "text": "Ask, \"Are you American?\""
   },
   {
-    "text" : "but I understand.",
-    "timestamp" : "15:17.960-15:19.660"
+    "timestamp": "00:21:40,726 --> 00:21:46,726",
+    "speaker": "Male Speaker",
+    "text": "Est-ce que vous êtes américain?"
   },
   {
-    "timestamp" : "15:19.660-15:23.260",
-    "text" : "Mais."
+    "timestamp": "00:21:46,726 --> 00:21:49,825",
+    "speaker": "Narrator",
+    "text": "Say, \"But yes.\" This is a common expression in French."
   },
   {
-    "timestamp" : "15:23.260-15:23.280",
-    "text" : "Mais."
+    "timestamp": "00:21:49,825 --> 00:21:55,965",
+    "speaker": "Male Speaker",
+    "text": "Mais oui."
   },
   {
-    "text" : "Je comprends.",
-    "timestamp" : "15:23.280-15:24.180"
+    "timestamp": "00:21:55,965 --> 00:22:00,565",
+    "speaker": "Male Speaker",
+    "text": "Mais oui, mademoiselle."
   },
   {
-    "timestamp" : "15:24.180-15:27.660",
-    "text" : "Mais."
+    "timestamp": "00:22:00,565 --> 00:22:06,565",
+    "speaker": "Narrator",
+    "text": "Say, \"I don't understand English.\""
   },
   {
-    "text" : "Je comprends.",
-    "timestamp" : "15:27.660-15:28.460"
+    "timestamp": "00:22:06,565 --> 00:22:11,945",
+    "speaker": "Male Speaker",
+    "text": "Je ne comprends pas l'anglais."
   },
   {
-    "text" : "Say,",
-    "timestamp" : "15:28.460-15:31.980"
+    "timestamp": "00:22:11,945 --> 00:22:18,805",
+    "speaker": "Narrator",
+    "text": "\"I don't understand very well.\""
   },
   {
-    "text" : "but I understand",
-    "timestamp" : "15:31.980-15:33.240"
+    "timestamp": "00:22:18,805 --> 00:22:24,405",
+    "speaker": "Male Speaker",
+    "text": "Je ne comprends pas très bien."
   },
   {
-    "timestamp" : "15:33.240-15:33.760",
-    "text" : "French."
+    "timestamp": "00:22:24,405 --> 00:22:28,925",
+    "speaker": "Narrator",
+    "text": "Say, \"I understand French a little.\""
   },
   {
-    "timestamp" : "15:33.760-15:38.220",
-    "text" : "Mais."
+    "timestamp": "00:22:28,925 --> 00:22:35,805",
+    "speaker": "Male Speaker",
+    "text": "Je comprends un peu le français."
   },
   {
-    "text" : "Mais.",
-    "timestamp" : "15:38.220-15:38.220"
+    "timestamp": "00:22:35,805 --> 00:22:50,326",
+    "speaker": "Narrator",
+    "text": "Imagine that you see a young woman you know. She is some distance away, so you want to call to her. How would you do it? Greet her."
   },
   {
-    "text" : "Je comprends.",
-    "timestamp" : "15:38.220-15:38.900"
+    "timestamp": "00:22:50,326 --> 00:22:54,545",
+    "speaker": "Male Speaker",
+    "text": "Bonjour, mademoiselle."
   },
   {
-    "text" : "Le français.",
-    "timestamp" : "15:38.900-15:39.420"
+    "timestamp": "00:22:54,545 --> 00:22:58,925",
+    "speaker": "Female Speaker",
+    "text": "Bonjour, monsieur."
   },
   {
-    "text" : "Mais.",
-    "timestamp" : "15:39.420-15:43.840"
+    "timestamp": "00:22:58,925 --> 00:23:04,285",
+    "speaker": "Male Speaker",
+    "text": "Comment allez-vous?"
   },
   {
-    "timestamp" : "15:43.840-15:44.560",
-    "text" : "Je comprends."
+    "timestamp": "00:23:04,285 --> 00:23:07,326",
+    "speaker": "Female Speaker",
+    "text": "Très bien, merci. Et vous, monsieur?"
   },
   {
-    "text" : "Le français.",
-    "timestamp" : "15:44.560-15:45.060"
+    "timestamp": "00:23:07,326 --> 00:23:11,226",
+    "speaker": "Male Speaker",
+    "text": "Très bien."
   },
   {
-    "timestamp" : "15:45.060-15:49.520",
-    "text" : "Je comprends."
+    "timestamp": "00:23:11,226 --> 00:23:15,326",
+    "speaker": "Narrator",
+    "text": "Say, \"Excuse me, miss.\""
   },
   {
-    "text" : "I understand",
-    "timestamp" : "15:49.520-15:49.920"
+    "timestamp": "00:23:15,326 --> 00:23:19,426",
+    "speaker": "Male Speaker",
+    "text": "Pardon, mademoiselle."
   },
   {
-    "timestamp" : "15:49.920-15:50.740",
-    "text" : "French a little."
+    "timestamp": "00:23:19,426 --> 00:23:21,226",
+    "speaker": "Female Speaker",
+    "text": "Oui?"
   },
   {
-    "text" : "Je comprends.",
-    "timestamp" : "15:50.740-15:55.620"
+    "timestamp": "00:23:21,226 --> 00:23:26,306",
+    "speaker": "Narrator",
+    "text": "Ask her if she understands English."
   },
   {
-    "text" : "Un peu le français.",
-    "timestamp" : "15:55.620-15:56.400"
+    "timestamp": "00:23:26,306 --> 00:23:30,226",
+    "speaker": "Male Speaker",
+    "text": "Est-ce que vous comprenez l'anglais?"
   },
   {
-    "timestamp" : "15:56.400-16:01.120",
-    "text" : "Ask."
+    "timestamp": "00:23:30,226 --> 00:23:30,326",
+    "speaker": "Female Speaker",
+    "text": "Non, monsieur."
   },
   {
-    "text" : "And you?",
-    "timestamp" : "16:01.120-16:01.900"
+    "timestamp": "00:23:30,326 --> 00:23:33,306",
+    "speaker": "Narrator",
+    "text": "How did she tell you that she doesn't understand English?"
   },
   {
-    "text" : "Et vous?",
-    "timestamp" : "16:01.900-16:04.380"
+    "timestamp": "00:23:33,306 --> 00:23:38,226",
+    "speaker": "Female Speaker",
+    "text": "Je ne comprends pas l'anglais."
   },
   {
-    "timestamp" : "16:04.380-16:07.060",
-    "text" : "Ask her."
+    "timestamp": "00:23:38,226 --> 00:23:43,972",
+    "speaker": "Narrator",
+    "text": "Now she's going to ask you a question which you are to answer."
   },
   {
-    "timestamp" : "16:07.060-16:08.160",
-    "text" : "Are you French?"
+    "timestamp": "00:23:43,972 --> 00:24:04,491",
+    "speaker": "Female Speaker",
+    "text": "Est-ce que vous êtes américain?"
   },
   {
-    "text" : "Est-ce que vous êtes",
-    "timestamp" : "16:08.160-16:12.580"
+    "timestamp": "00:24:04,491 --> 00:24:07,411",
+    "speaker": "Male Speaker",
+    "text": "Oui, mademoiselle. Je suis américain."
   },
   {
-    "text" : "française?",
-    "timestamp" : "16:12.580-16:12.920"
+    "timestamp": "00:24:07,411 --> 00:24:11,651",
+    "speaker": "Narrator",
+    "text": "And now say, \"But I understand French.\""
   },
   {
-    "text" : "Ask a man the same",
-    "timestamp" : "16:12.920-16:17.940"
+    "timestamp": "00:24:11,651 --> 00:24:17,111",
+    "speaker": "Male Speaker",
+    "text": "Mais je comprends le français."
   },
   {
-    "timestamp" : "16:17.940-16:18.440",
-    "text" : "question."
+    "timestamp": "00:24:17,111 --> 00:24:21,111",
+    "speaker": "Male Speaker",
+    "text": "Mais je comprends le français."
   },
   {
-    "timestamp" : "16:18.440-16:19.540",
-    "text" : "Are you French?"
+    "timestamp": "00:24:21,111 --> 00:24:24,991",
+    "speaker": "Narrator",
+    "text": "You'd better add, \"A little.\""
   },
   {
-    "timestamp" : "16:19.540-16:23.960",
-    "text" : "Est-ce que vous êtes"
+    "timestamp": "00:24:24,991 --> 00:24:27,651",
+    "speaker": "Male Speaker",
+    "text": "Un peu."
   },
   {
-    "text" : "français?",
-    "timestamp" : "16:23.960-16:24.340"
+    "timestamp": "00:24:27,651 --> 00:24:31,111",
+    "speaker": "Narrator",
+    "text": "Say, \"I understand a little.\""
   },
   {
-    "text" : "Answer.",
-    "timestamp" : "16:24.340-16:28.620"
+    "timestamp": "00:24:31,111 --> 00:24:36,711",
+    "speaker": "Male Speaker",
+    "text": "Je comprends un peu."
   },
   {
-    "text" : "No, ma'am.",
-    "timestamp" : "16:28.620-16:29.420"
+    "timestamp": "00:24:36,711 --> 00:24:41,111",
+    "speaker": "Narrator",
+    "text": "Say, \"I understand French, a little.\""
   },
   {
-    "text" : "I am American.",
-    "timestamp" : "16:29.420-16:30.180"
+    "timestamp": "00:24:41,111 --> 00:24:45,651",
+    "speaker": "Male Speaker",
+    "text": "Je comprends un peu le français."
   },
   {
-    "timestamp" : "16:30.180-16:36.500",
-    "text" : "Non, madame."
+    "timestamp": "00:24:45,651 --> 00:24:50,032",
+    "speaker": "Narrator",
+    "text": "Maybe, you'd better say, \"Not very well.\""
   },
   {
-    "text" : "Je suis américain.",
-    "timestamp" : "16:36.500-16:38.200"
+    "timestamp": "00:24:50,032 --> 00:24:52,931",
+    "speaker": "Male Speaker",
+    "text": "Pas très bien."
   },
   {
-    "timestamp" : "16:38.200-16:44.880",
-    "text" : "Je suis américain."
+    "timestamp": "00:24:52,931 --> 00:24:56,711",
+    "speaker": "Male Speaker",
+    "text": "Pas très bien."
   },
   {
-    "text" : "Ask.",
-    "timestamp" : "16:44.880-16:48.440"
+    "timestamp": "00:24:56,711 --> 00:24:58,811",
+    "speaker": "Narrator",
+    "text": "Listen to her reaction and respond to it."
   },
   {
-    "text" : "Do you understand",
-    "timestamp" : "16:48.440-16:49.620"
+    "timestamp": "00:24:58,811 --> 00:25:05,032",
+    "speaker": "Female Speaker",
+    "text": "Mais monsieur, vous comprenez très bien le français."
   },
   {
-    "timestamp" : "16:49.620-16:50.040",
-    "text" : "French?"
+    "timestamp": "00:25:05,032 --> 00:25:08,931",
+    "speaker": "Male Speaker",
+    "text": "Merci, mademoiselle."
   },
   {
-    "timestamp" : "16:50.040-16:55.120",
-    "text" : "Est-ce que vous comprenez"
+    "timestamp": "00:25:08,931 --> 00:25:11,220",
+    "speaker": "Male Speaker",
+    "text": "Merci bien."
   },
   {
-    "text" : "le français?",
-    "timestamp" : "16:55.120-16:55.600"
+    "timestamp": "00:25:11,220 --> 00:25:14,931",
+    "speaker": "Narrator",
+    "text": "Now she'll say something to you. If you don't understand, tell her so."
   },
   {
-    "text" : "Est-ce que vous comprenez",
-    "timestamp" : "16:55.600-17:00.880"
+    "timestamp": "00:25:14,931 --> 00:25:23,951",
+    "speaker": "Female Speaker",
+    "text": "Je trouve que pour un Américain, vous parlez très bien le français."
   },
   {
-    "timestamp" : "17:00.880-17:01.760",
-    "text" : "le français, monsieur?"
+    "timestamp": "00:25:23,951 --> 00:25:25,931",
+    "speaker": "Male Speaker",
+    "text": "Pardon?"
   },
   {
-    "text" : "Yes, a little.",
-    "timestamp" : "17:05.940-17:06.940"
+    "timestamp": "00:25:25,931 --> 00:25:29,132",
+    "speaker": "Male Speaker",
+    "text": "Je ne comprends pas."
   },
   {
-    "text" : "Oui, un peu.",
-    "timestamp" : "17:06.940-17:11.480"
+    "timestamp": "00:25:29,132 --> 00:25:33,211",
+    "speaker": "Narrator",
+    "text": "She'll repeat part of what she said. You try to guess what it means."
   },
   {
-    "text" : "Say, I understand",
-    "timestamp" : "17:11.480-17:16.500"
+    "timestamp": "00:25:33,211 --> 00:25:36,851",
+    "speaker": "Female Speaker",
+    "text": "Vous parlez très bien."
   },
   {
-    "text" : "French a little.",
-    "timestamp" : "17:16.500-17:17.280"
+    "timestamp": "00:25:36,851 --> 00:25:41,531",
+    "speaker": "Narrator",
+    "text": "What she said was, \"You speak very well.\" Listen again."
   },
   {
-    "timestamp" : "17:17.280-17:23.000",
-    "text" : "Je comprends un peu"
+    "timestamp": "00:25:41,531 --> 00:25:45,052",
+    "speaker": "Female Speaker",
+    "text": "Vous parlez très bien."
   },
   {
-    "text" : "le français.",
-    "timestamp" : "17:23.000-17:23.580"
+    "timestamp": "00:25:45,052 --> 00:25:47,052",
+    "speaker": "Female Speaker",
+    "text": "Très bien."
   },
   {
-    "text" : "Je comprends un peu",
-    "timestamp" : "17:23.580-17:29.280"
+    "timestamp": "00:25:47,052 --> 00:25:48,871",
+    "speaker": "Female Speaker",
+    "text": "Vous parlez très bien."
   },
   {
-    "timestamp" : "17:29.280-17:29.860",
-    "text" : "le français."
+    "timestamp": "00:25:48,871 --> 00:25:55,052",
+    "speaker": "Narrator",
+    "text": "Now say, \"Please, miss.\""
   },
   {
-    "timestamp" : "17:34.340-17:35.480",
-    "text" : "Not very well."
+    "timestamp": "00:25:55,052 --> 00:25:59,511",
+    "speaker": "Male Speaker",
+    "text": "S'il vous plaît, mademoiselle."
   },
   {
-    "text" : "Pas très bien.",
-    "timestamp" : "17:35.480-17:38.420"
+    "timestamp": "00:25:59,511 --> 00:26:03,192",
+    "speaker": "Male Speaker",
+    "text": "S'il vous plaît, mademoiselle."
   },
   {
-    "timestamp" : "17:38.420-17:41.400",
-    "text" : "Pas très bien."
+    "timestamp": "00:26:03,192 --> 00:26:06,052",
+    "speaker": "Male Speaker",
+    "text": "Oui?"
   },
   {
-    "timestamp" : "17:41.400-17:45.020",
-    "text" : "Now let's learn how to say"
+    "timestamp": "00:26:06,052 --> 00:26:12,931",
+    "speaker": "Narrator",
+    "text": "At this moment, she sees her friend and runs off, saying, \"So long,\" as she goes. Respond to her."
   },
   {
-    "text" : "please in French.",
-    "timestamp" : "17:45.020-17:46.260"
+    "timestamp": "00:26:12,931 --> 00:26:17,851",
+    "speaker": "Female Speaker",
+    "text": "Au revoir, monsieur."
   },
   {
-    "text" : "Listen and repeat.",
-    "timestamp" : "17:46.260-17:47.820"
+    "timestamp": "00:26:17,851 --> 00:26:20,851",
+    "speaker": "Male Speaker",
+    "text": "Au revoir, mademoiselle."
   },
   {
-    "timestamp" : "17:47.820-17:50.160",
-    "text" : "S'il vous plaît."
+    "timestamp": "00:26:20,851 --> 00:26:22,391",
+    "speaker": "Male Speaker",
+    "text": "Au revoir."
   },
   {
-    "timestamp" : "17:50.160-17:53.320",
-    "text" : "Plaît."
-  },
-  {
-    "timestamp" : "17:53.320-17:55.680",
-    "text" : "Plaît."
-  },
-  {
-    "timestamp" : "17:55.680-17:58.260",
-    "text" : "Vous plaît."
-  },
-  {
-    "timestamp" : "18:00.840-18:01.660",
-    "text" : "S'il vous plaît."
-  },
-  {
-    "text" : "S'il.",
-    "timestamp" : "18:01.660-18:04.820"
-  },
-  {
-    "text" : "S'il.",
-    "timestamp" : "18:04.820-18:07.720"
-  },
-  {
-    "text" : "S'il vous plaît.",
-    "timestamp" : "18:07.720-18:10.780"
-  },
-  {
-    "timestamp" : "18:10.780-18:14.380",
-    "text" : "S'il vous plaît."
-  },
-  {
-    "text" : "How do you say",
-    "timestamp" : "18:14.380-18:17.980"
-  },
-  {
-    "text" : "please?",
-    "timestamp" : "18:17.980-18:18.700"
-  },
-  {
-    "timestamp" : "18:18.700-18:22.180",
-    "text" : "S'il vous plaît."
-  },
-  {
-    "timestamp" : "18:22.180-18:26.320",
-    "text" : "Say, excuse me."
-  },
-  {
-    "timestamp" : "18:26.320-18:28.920",
-    "text" : "Pardon."
-  },
-  {
-    "text" : "You are.",
-    "timestamp" : "18:30.120-18:32.740"
-  },
-  {
-    "timestamp" : "18:32.740-18:36.180",
-    "text" : "Vous êtes."
-  },
-  {
-    "text" : "Vous êtes.",
-    "timestamp" : "18:36.180-18:39.640"
-  },
-  {
-    "text" : "Say, I am.",
-    "timestamp" : "18:39.640-18:43.680"
-  },
-  {
-    "timestamp" : "18:43.680-18:46.620",
-    "text" : "Je suis."
-  },
-  {
-    "timestamp" : "18:46.620-18:50.840",
-    "text" : "Say, I don't understand."
-  },
-  {
-    "text" : "Je ne comprends pas.",
-    "timestamp" : "18:50.840-18:55.220"
-  },
-  {
-    "text" : "No, miss.",
-    "timestamp" : "18:58.180-18:59.160"
-  },
-  {
-    "text" : "Non, mademoiselle.",
-    "timestamp" : "18:59.160-19:03.160"
-  },
-  {
-    "text" : "Say, I don't understand French.",
-    "timestamp" : "19:03.160-19:08.220"
-  },
-  {
-    "text" : "Je ne comprends pas le français.",
-    "timestamp" : "19:08.220-19:14.040"
-  },
-  {
-    "text" : "Now say, I am not American.",
-    "timestamp" : "19:14.040-19:20.160"
-  },
-  {
-    "timestamp" : "19:24.100-19:25.340",
-    "text" : "Je ne suis pas."
-  },
-  {
-    "text" : "Je ne suis pas américain.",
-    "timestamp" : "19:25.340-19:25.960"
-  },
-  {
-    "text" : "Je ne suis pas américain.",
-    "timestamp" : "19:25.960-19:31.540"
-  },
-  {
-    "text" : "Say, you don't understand English.",
-    "timestamp" : "19:31.540-19:37.940"
-  },
-  {
-    "timestamp" : "19:42.160-19:43.160",
-    "text" : "You are not."
-  },
-  {
-    "text" : "You are not.",
-    "timestamp" : "19:43.160-19:43.160"
-  },
-  {
-    "timestamp" : "19:43.160-19:43.800",
-    "text" : "You are not."
-  },
-  {
-    "text" : "Say to a woman.",
-    "timestamp" : "19:43.800-19:49.140"
-  },
-  {
-    "timestamp" : "19:49.140-19:50.440",
-    "text" : "You are not American."
-  },
-  {
-    "text" : "You are not American.",
-    "timestamp" : "19:50.440-19:55.520"
-  },
-  {
-    "text" : "Say to a man.",
-    "timestamp" : "19:55.520-20:00.780"
-  },
-  {
-    "text" : "You are not French.",
-    "timestamp" : "20:00.780-20:02.080"
-  },
-  {
-    "text" : "You are not French.",
-    "timestamp" : "20:05.220-20:06.560"
-  },
-  {
-    "timestamp" : "20:06.560-20:11.980",
-    "text" : "Now say, I am American."
-  },
-  {
-    "text" : "And you?",
-    "timestamp" : "20:11.980-20:12.720"
-  },
-  {
-    "text" : "I am American.",
-    "timestamp" : "20:17.200-20:18.400"
-  },
-  {
-    "text" : "And you?",
-    "timestamp" : "20:18.400-20:18.960"
-  },
-  {
-    "timestamp" : "20:18.960-20:24.600",
-    "text" : "I am American."
-  },
-  {
-    "text" : "And you?",
-    "timestamp" : "20:24.600-20:25.420"
-  },
-  {
-    "text" : "Ask a man.",
-    "timestamp" : "20:25.420-20:31.000"
-  },
-  {
-    "text" : "Are you French?",
-    "timestamp" : "20:31.000-20:31.980"
-  },
-  {
-    "text" : "How would you ask a woman the same question?",
-    "timestamp" : "20:35.580-20:46.040"
-  },
-  {
-    "timestamp" : "20:46.040-20:51.100",
-    "text" : "Est-ce que vous êtes française?"
-  },
-  {
-    "text" : "Française?",
-    "timestamp" : "20:51.100-20:55.620"
-  },
-  {
-    "text" : "Ask.",
-    "timestamp" : "20:55.620-20:58.540"
-  },
-  {
-    "text" : "How are you?",
-    "timestamp" : "20:58.540-20:59.400"
-  },
-  {
-    "timestamp" : "21:02.000-21:02.920",
-    "text" : "Comment allez-vous?"
-  },
-  {
-    "text" : "Ask.",
-    "timestamp" : "21:02.920-21:06.240"
-  },
-  {
-    "text" : "Are you well?",
-    "timestamp" : "21:06.240-21:07.260"
-  },
-  {
-    "text" : "Est-ce que vous allez bien?",
-    "timestamp" : "21:07.260-21:11.540"
-  },
-  {
-    "text" : "Est-ce que vous allez bien?",
-    "timestamp" : "21:11.540-21:15.800"
-  },
-  {
-    "timestamp" : "21:15.800-21:20.580",
-    "text" : "Say, yes, thank you."
-  },
-  {
-    "timestamp" : "21:20.580-21:24.000",
-    "text" : "Oui, merci."
-  },
-  {
-    "text" : "I am well.",
-    "timestamp" : "21:24.000-21:27.440"
-  },
-  {
-    "text" : "Je vais bien.",
-    "timestamp" : "21:29.640-21:30.500"
-  },
-  {
-    "timestamp" : "21:30.500-21:33.400",
-    "text" : "Je vais bien."
-  },
-  {
-    "timestamp" : "21:33.400-21:37.360",
-    "text" : "Ask again, are you well?"
-  },
-  {
-    "text" : "Est-ce que vous allez bien?",
-    "timestamp" : "21:37.360-21:41.800"
-  },
-  {
-    "timestamp" : "21:41.800-21:46.380",
-    "text" : "Est-ce que vous allez bien?"
-  },
-  {
-    "timestamp" : "21:46.380-21:51.900",
-    "text" : "How would you say, no, I'm not well?"
-  },
-  {
-    "timestamp" : "21:55.920-21:57.340",
-    "text" : "Non, je ne vais pas bien."
-  },
-  {
-    "text" : "Non, je ne vais pas bien.",
-    "timestamp" : "21:57.340-22:02.640"
-  },
-  {
-    "text" : "Say, please, sir.",
-    "timestamp" : "22:02.640-22:07.720"
-  },
-  {
-    "timestamp" : "22:07.720-22:12.300",
-    "text" : "S'il vous plaît, monsieur."
-  },
-  {
-    "timestamp" : "22:12.300-22:17.000",
-    "text" : "S'il vous plaît, monsieur."
-  },
-  {
-    "timestamp" : "22:17.000-22:22.020",
-    "text" : "Ask, are you American?"
-  },
-  {
-    "timestamp" : "22:22.020-22:27.120",
-    "text" : "Est-ce que vous êtes American?"
-  },
-  {
-    "timestamp" : "22:27.120-22:27.120",
-    "text" : "Est-ce que vous êtes American?"
-  },
-  {
-    "text" : "Est-ce que vous êtes American?",
-    "timestamp" : "22:27.120-22:27.400"
-  },
-  {
-    "timestamp" : "22:27.400-22:37.920",
-    "text" : "Say, but yes."
-  },
-  {
-    "text" : "This is a common expression in French.",
-    "timestamp" : "22:37.920-22:40.320"
-  },
-  {
-    "text" : "Mais oui.",
-    "timestamp" : "22:42.760-22:43.160"
-  },
-  {
-    "text" : "Mais oui.",
-    "timestamp" : "22:43.160-22:45.920"
-  },
-  {
-    "timestamp" : "22:45.920-22:46.000",
-    "text" : "Mais oui."
-  },
-  {
-    "text" : "Mais oui, mademoiselle.",
-    "timestamp" : "22:46.000-22:49.300"
-  },
-  {
-    "timestamp" : "22:49.300-22:54.800",
-    "text" : "Say, I don't understand English."
-  },
-  {
-    "text" : "I don't understand very well.",
-    "timestamp" : "22:59.020-23:11.440"
-  },
-  {
-    "text" : "I don't understand very well.",
-    "timestamp" : "23:11.440-23:11.500"
-  },
-  {
-    "timestamp" : "23:14.940-23:16.580",
-    "text" : "Je ne comprends pas très bien."
-  },
-  {
-    "text" : "Pas très bien.",
-    "timestamp" : "23:16.580-23:20.840"
-  },
-  {
-    "text" : "Je ne comprends pas très bien.",
-    "timestamp" : "23:20.840-23:24.620"
-  },
-  {
-    "timestamp" : "23:24.620-23:30.560",
-    "text" : "Say, I understand French a little."
-  },
-  {
-    "timestamp" : "23:35.080-23:36.900",
-    "text" : "Je comprends un peu le français."
-  },
-  {
-    "text" : "Je comprends un peu le français.",
-    "timestamp" : "23:36.900-23:43.160"
-  },
-  {
-    "timestamp" : "23:43.160-23:49.860",
-    "text" : "Imagine that you see a young woman you know."
-  },
-  {
-    "text" : "She is some distance away, so you want to call to her.",
-    "timestamp" : "23:49.860-23:52.820"
-  },
-  {
-    "text" : "How would you do it?",
-    "timestamp" : "23:52.820-23:54.060"
-  },
-  {
-    "text" : "Greet her.",
-    "timestamp" : "23:58.260-24:06.280"
-  },
-  {
-    "text" : "Bonjour, mademoiselle.",
-    "timestamp" : "24:06.280-24:10.400"
-  },
-  {
-    "text" : "Bonjour, monsieur.",
-    "timestamp" : "24:10.400-24:14.120"
-  },
-  {
-    "text" : "Ask her how she is.",
-    "timestamp" : "24:14.120-24:17.020"
-  },
-  {
-    "text" : "Comment allez-vous?",
-    "timestamp" : "24:17.020-24:20.660"
-  },
-  {
-    "timestamp" : "24:20.660-24:24.260",
-    "text" : "Très bien, merci."
-  },
-  {
-    "timestamp" : "24:24.260-24:25.160",
-    "text" : "Et vous, monsieur?"
-  },
-  {
-    "text" : "Très bien.",
-    "timestamp" : "24:27.160-24:27.860"
-  },
-  {
-    "text" : "Say, excuse me, miss.",
-    "timestamp" : "24:27.860-24:31.560"
-  },
-  {
-    "timestamp" : "24:31.560-24:35.460",
-    "text" : "Pardon, mademoiselle."
-  },
-  {
-    "text" : "Oui?",
-    "timestamp" : "24:35.460-24:38.720"
-  },
-  {
-    "text" : "Ask her if she understands English.",
-    "timestamp" : "24:38.720-24:41.600"
-  },
-  {
-    "timestamp" : "24:41.600-24:47.020",
-    "text" : "Est-ce que vous comprenez l'anglais?"
-  },
-  {
-    "text" : "Est-ce que vous comprenez l'anglais?",
-    "timestamp" : "24:47.020-24:52.520"
-  },
-  {
-    "text" : "Non, monsieur.",
-    "timestamp" : "24:56.540-24:57.360"
-  },
-  {
-    "timestamp" : "24:57.360-25:01.320",
-    "text" : "How does she tell you that she doesn't understand English?"
-  },
-  {
-    "timestamp" : "25:01.320-25:06.260",
-    "text" : "Je ne comprends pas l'anglais."
-  },
-  {
-    "timestamp" : "25:06.260-25:11.220",
-    "text" : "Je ne comprends pas l'anglais."
-  },
-  {
-    "text" : "Now she's going to ask you a question which you are to answer.",
-    "timestamp" : "25:14.820-25:17.860"
-  },
-  {
-    "timestamp" : "25:17.860-25:20.660",
-    "text" : "Est-ce que vous êtes américain?"
-  },
-  {
-    "text" : "Oui, mademoiselle.",
-    "timestamp" : "25:20.660-25:26.760"
-  },
-  {
-    "timestamp" : "25:26.760-25:27.900",
-    "text" : "Je suis américain."
-  },
-  {
-    "text" : "And now say, but I understand French.",
-    "timestamp" : "25:27.900-25:35.700"
-  },
-  {
-    "text" : "Mais je comprends le français.",
-    "timestamp" : "25:39.700-25:41.200"
-  },
-  {
-    "timestamp" : "25:41.200-25:41.200",
-    "text" : "Mais je comprends le français."
-  },
-  {
-    "timestamp" : "25:41.200-25:44.420",
-    "text" : "Mais je comprends le français."
-  },
-  {
-    "timestamp" : "25:44.420-25:46.580",
-    "text" : "Mais je comprends le français."
-  },
-  {
-    "timestamp" : "25:46.580-25:52.440",
-    "text" : "You'd better add a little."
-  },
-  {
-    "text" : "Un peu.",
-    "timestamp" : "25:52.440-25:55.020"
-  },
-  {
-    "text" : "Say, I understand a little.",
-    "timestamp" : "25:55.020-25:59.060"
-  },
-  {
-    "timestamp" : "26:02.160-26:03.960",
-    "text" : "Je comprends un peu."
-  },
-  {
-    "text" : "Say, I understand French a little.",
-    "timestamp" : "26:03.960-26:10.060"
-  },
-  {
-    "text" : "Je comprends un peu le français.",
-    "timestamp" : "26:10.060-26:16.280"
-  },
-  {
-    "text" : "Maybe you'd better say, not very well.",
-    "timestamp" : "26:16.280-26:23.280"
-  },
-  {
-    "timestamp" : "26:25.340-26:26.540",
-    "text" : "Pas très bien."
-  },
-  {
-    "text" : "Pas très bien.",
-    "timestamp" : "26:26.540-26:29.780"
-  },
-  {
-    "text" : "Listen to her reaction and respond to it.",
-    "timestamp" : "26:29.780-26:34.760"
-  },
-  {
-    "text" : "Mais monsieur, vous comprenez très bien le français.",
-    "timestamp" : "26:34.760-26:38.160"
-  },
-  {
-    "text" : "Merci, mademoiselle.",
-    "timestamp" : "26:41.160-26:42.380"
-  },
-  {
-    "text" : "Merci bien.",
-    "timestamp" : "26:42.380-26:46.180"
-  },
-  {
-    "text" : "Now she'll say something to you.",
-    "timestamp" : "26:46.180-26:50.240"
-  },
-  {
-    "text" : "If you don't understand, tell her so.",
-    "timestamp" : "26:50.240-26:52.440"
-  },
-  {
-    "text" : "Je trouve que pour un américain, vous parlez très bien le français.",
-    "timestamp" : "26:52.440-26:56.100"
-  },
-  {
-    "timestamp" : "26:56.100-27:01.760",
-    "text" : "Pardon?"
-  },
-  {
-    "text" : "Je ne comprends pas.",
-    "timestamp" : "27:01.760-27:03.880"
-  },
-  {
-    "text" : "She'll repeat part of what she said.",
-    "timestamp" : "27:09.000-27:10.800"
-  },
-  {
-    "timestamp" : "27:10.800-27:12.700",
-    "text" : "You try to guess what it means."
-  },
-  {
-    "timestamp" : "27:12.700-27:16.300",
-    "text" : "Vous parlez très bien."
-  },
-  {
-    "text" : "What she said was, you speak very well.",
-    "timestamp" : "27:16.300-27:21.200"
-  },
-  {
-    "timestamp" : "27:21.200-27:22.320",
-    "text" : "Listen again."
-  },
-  {
-    "text" : "Vous parlez très bien.",
-    "timestamp" : "27:22.320-27:24.600"
-  },
-  {
-    "text" : "Très bien.",
-    "timestamp" : "27:24.600-27:26.500"
-  },
-  {
-    "timestamp" : "27:26.500-27:28.920",
-    "text" : "Vous parlez très bien."
-  },
-  {
-    "timestamp" : "27:28.920-27:31.720",
-    "text" : "Now say, please, miss."
-  },
-  {
-    "text" : "S'il vous plaît, mademoiselle.",
-    "timestamp" : "27:36.840-27:38.400"
-  },
-  {
-    "timestamp" : "27:38.400-27:43.860",
-    "text" : "S'il vous plaît, mademoiselle."
-  },
-  {
-    "timestamp" : "27:43.860-27:47.500",
-    "text" : "Oui."
-  },
-  {
-    "timestamp" : "27:47.500-27:51.660",
-    "text" : "At this moment, she sees a friend and runs off, saying,"
-  },
-  {
-    "text" : "so long, as she goes.",
-    "timestamp" : "27:51.660-27:53.260"
-  },
-  {
-    "text" : "Respond to her.",
-    "timestamp" : "27:53.260-27:54.460"
-  },
-  {
-    "timestamp" : "27:54.460-27:55.860",
-    "text" : "Au revoir, monsieur."
-  },
-  {
-    "text" : "Au revoir, mademoiselle.",
-    "timestamp" : "27:55.860-28:01.980"
-  },
-  {
-    "timestamp" : "28:01.980-28:02.880",
-    "text" : "Au revoir."
-  },
-  {
-    "timestamp" : "28:04.880-28:07.840",
-    "text" : "This is the end of today's lesson."
-  },
-  {
-    "text" : "When you continue with the next unit tomorrow,",
-    "timestamp" : "28:07.840-28:10.240"
-  },
-  {
-    "text" : "please begin with track number two.",
-    "timestamp" : "28:10.240-28:12.320"
-  },
-  {
-    "timestamp" : "28:12.320-28:12.380",
-    "text" : "Thank you."
-  },
-  {
-    "timestamp" : "28:12.380-28:13.580",
-    "text" : "Thank you."
-  },
-  {
-    "timestamp" : "28:13.580-28:43.560",
-    "text" : "Thank you."
+    "timestamp": "00:26:22,391 --> 00:26:29,211",
+    "speaker": "Narrator",
+    "text": "This is the end of today's lesson. When you continue with the next unit tomorrow, please begin with track number two."
   }
 ]

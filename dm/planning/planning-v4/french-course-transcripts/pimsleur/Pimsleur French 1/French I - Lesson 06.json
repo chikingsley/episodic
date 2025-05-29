@@ -1,2162 +1,1967 @@
 [
-  {
-    "timestamp" : "00:00.180-00:04.680",
-    "text" : "This is Unit 6 of Pimsleur's French 1. Listen to this conversation."
-  },
-  {
-    "text" : "Bonjour Jacqueline.",
-    "timestamp" : "00:04.680-00:06.660"
-  },
-  {
-    "text" : "Bonjour Michel. Comment allez-vous?",
-    "timestamp" : "00:06.660-00:09.400"
-  },
-  {
-    "text" : "Bien, merci. Mais je voudrais manger quelque chose. Et vous?",
-    "timestamp" : "00:09.400-00:12.840"
-  },
-  {
-    "timestamp" : "00:12.840-00:15.520",
-    "text" : "Oui, moi aussi. Je voudrais manger quelque chose."
-  },
-  {
-    "timestamp" : "00:15.520-00:16.660",
-    "text" : "Et boire?"
-  },
-  {
-    "timestamp" : "00:16.660-00:19.160",
-    "text" : "Oui, je voudrais boire quelque chose aussi."
-  },
-  {
-    "timestamp" : "00:19.160-00:20.000",
-    "text" : "Où?"
-  },
-  {
-    "timestamp" : "00:20.000-00:22.020",
-    "text" : "Rue Saint-Jacques, s'il vous plaît."
-  },
-  {
-    "text" : "Très bien.",
-    "timestamp" : "00:22.020-00:23.200"
-  },
-  {
-    "text" : "The word aussi was used in the conversation.",
-    "timestamp" : "00:23.200-00:26.900"
-  },
-  {
-    "text" : "It means also or to as in the sense of me too.",
-    "timestamp" : "00:26.900-00:31.320"
-  },
-  {
-    "text" : "Listen again.",
-    "timestamp" : "00:31.320-00:32.540"
-  },
-  {
-    "text" : "Bonjour Jacqueline.",
-    "timestamp" : "00:32.540-00:34.300"
-  },
-  {
-    "text" : "Bonjour Michel. Comment allez-vous?",
-    "timestamp" : "00:34.300-00:36.040"
-  },
-  {
-    "timestamp" : "00:36.040-00:38.640",
-    "text" : "Bien, merci. Mais je voudrais manger quelque chose."
-  },
-  {
-    "text" : "Et vous?",
-    "timestamp" : "00:38.640-00:39.760"
-  },
-  {
-    "text" : "Oui, moi aussi. Je voudrais manger quelque chose.",
-    "timestamp" : "00:39.760-00:42.380"
-  },
-  {
-    "timestamp" : "00:42.380-00:43.480",
-    "text" : "Et boire?"
-  },
-  {
-    "text" : "Oui, je voudrais boire quelque chose aussi.",
-    "timestamp" : "00:43.480-00:45.900"
-  },
-  {
-    "timestamp" : "00:45.900-00:46.760",
-    "text" : "Où?"
-  },
-  {
-    "text" : "Rue Saint-Jacques, s'il vous plaît.",
-    "timestamp" : "00:46.760-00:48.640"
-  },
-  {
-    "text" : "Très bien.",
-    "timestamp" : "00:48.640-00:49.660"
-  },
-  {
-    "text" : "Do you remember the word for street in French?",
-    "timestamp" : "00:49.660-00:53.000"
-  },
-  {
-    "timestamp" : "00:53.000-00:55.700",
-    "text" : "La rue."
-  },
-  {
-    "timestamp" : "00:55.700-00:58.380",
-    "text" : "La rue."
-  },
-  {
-    "text" : "Say Saint-Jacques Street.",
-    "timestamp" : "00:58.380-01:02.760"
-  },
-  {
-    "text" : "La rue Saint-Jacques.",
-    "timestamp" : "01:02.760-01:06.800"
-  },
-  {
-    "text" : "Saint-Jacques.",
-    "timestamp" : "01:06.800-01:10.620"
-  },
-  {
-    "text" : "Saint-Jacques.",
-    "timestamp" : "01:10.620-01:13.860"
-  },
-  {
-    "timestamp" : "01:13.860-01:17.820",
-    "text" : "Ask where this street is."
-  },
-  {
-    "timestamp" : "01:20.620-01:21.940",
-    "text" : "Où est la rue Saint-Jacques?"
-  },
-  {
-    "timestamp" : "01:21.940-01:26.260",
-    "text" : "Où est la rue Saint-Jacques?"
-  },
-  {
-    "text" : "It's here.",
-    "timestamp" : "01:26.260-01:30.120"
-  },
-  {
-    "timestamp" : "01:30.120-01:33.280",
-    "text" : "C'est ici."
-  },
-  {
-    "text" : "Tell her that Saint-Jacques Street is not down there.",
-    "timestamp" : "01:33.280-01:39.020"
-  },
-  {
-    "timestamp" : "01:44.420-01:45.420",
-    "text" : "La rue Saint-Jacques."
-  },
-  {
-    "text" : "La rue Saint-Jacques n'est pas là-bas.",
-    "timestamp" : "01:45.420-01:46.240"
-  },
-  {
-    "timestamp" : "01:46.240-01:48.380",
-    "text" : "La rue Saint-Jacques n'est pas là-bas."
-  },
-  {
-    "text" : "La rue Saint-Jacques n'est pas là-bas.",
-    "timestamp" : "01:48.380-01:52.440"
-  },
-  {
-    "timestamp" : "01:52.440-01:58.240",
-    "text" : "Say please."
-  },
-  {
-    "text" : "S'il vous plaît.",
-    "timestamp" : "02:00.540-02:01.460"
-  },
-  {
-    "timestamp" : "02:01.460-02:01.540",
-    "text" : "S'il vous plaît."
-  },
-  {
-    "timestamp" : "02:01.540-02:04.460",
-    "text" : "S'il vous plaît."
-  },
-  {
-    "text" : "S'il.",
-    "timestamp" : "02:04.460-02:04.520"
-  },
-  {
-    "timestamp" : "02:04.520-02:07.000",
-    "text" : "S'il."
-  },
-  {
-    "timestamp" : "02:07.000-02:09.620",
-    "text" : "S'il vous plaît."
-  },
-  {
-    "text" : "Ask.",
-    "timestamp" : "02:09.620-02:12.580"
-  },
-  {
-    "timestamp" : "02:12.580-02:14.900",
-    "text" : "And the boulevard Saint-Michel."
-  },
-  {
-    "text" : "Et le boulevard Saint-Michel?",
-    "timestamp" : "02:18.020-02:19.740"
-  },
-  {
-    "text" : "Answer.",
-    "timestamp" : "02:19.740-02:28.580"
-  },
-  {
-    "timestamp" : "02:28.580-02:29.820",
-    "text" : "It's down there."
-  },
-  {
-    "text" : "C'est là-bas.",
-    "timestamp" : "02:29.820-02:32.460"
-  },
-  {
-    "timestamp" : "02:32.460-02:35.060",
-    "text" : "Là-bas."
-  },
-  {
-    "timestamp" : "02:35.060-02:37.560",
-    "text" : "Là-bas."
-  },
-  {
-    "timestamp" : "02:37.560-02:40.240",
-    "text" : "C'est là-bas."
-  },
-  {
-    "text" : "Ask whether it's here.",
-    "timestamp" : "02:40.240-02:43.400"
-  },
-  {
-    "text" : "Est-ce que c'est ici?",
-    "timestamp" : "02:46.060-02:46.820"
-  },
-  {
-    "text" : "Est-ce que c'est ici?",
-    "timestamp" : "02:46.820-02:50.380"
-  },
-  {
-    "timestamp" : "02:50.380-02:54.740",
-    "text" : "Say no, it's not here."
-  },
-  {
-    "text" : "Non, ce n'est pas ici.",
-    "timestamp" : "02:54.740-02:58.680"
-  },
-  {
-    "text" : "Non, ce n'est pas ici.",
-    "timestamp" : "02:58.680-03:02.780"
-  },
-  {
-    "text" : "Tell her Saint-Michael Boulevard is down there.",
-    "timestamp" : "03:02.780-03:07.560"
-  },
-  {
-    "timestamp" : "03:07.560-03:13.440",
-    "text" : "Le boulevard Saint-Michel est là-bas."
-  },
-  {
-    "timestamp" : "03:13.440-03:19.400",
-    "text" : "Le boulevard Saint-Michel est là-bas."
-  },
-  {
-    "timestamp" : "03:19.400-03:25.340",
-    "text" : "Now say, you speak."
-  },
-  {
-    "text" : "Vous parlez?",
-    "timestamp" : "03:25.340-03:29.000"
-  },
-  {
-    "timestamp" : "03:29.000-03:32.860",
-    "text" : "You speak well."
-  },
-  {
-    "timestamp" : "03:32.860-03:36.680",
-    "text" : "Vous parlez bien."
-  },
-  {
-    "timestamp" : "03:39.440-03:40.480",
-    "text" : "Vous parlez bien."
-  },
-  {
-    "timestamp" : "03:40.480-03:44.440",
-    "text" : "I understand a little."
-  },
-  {
-    "text" : "Je comprends un peu.",
-    "timestamp" : "03:44.440-03:48.600"
-  },
-  {
-    "text" : "And I speak a little.",
-    "timestamp" : "03:48.600-03:52.880"
-  },
-  {
-    "timestamp" : "03:52.880-03:56.980",
-    "text" : "Et je parle un peu."
-  },
-  {
-    "timestamp" : "03:56.980-04:01.140",
-    "text" : "Et je parle un peu."
-  },
-  {
-    "timestamp" : "04:04.060-04:05.820",
-    "text" : "How do you say, you want."
-  },
-  {
-    "text" : "Vous voulez?",
-    "timestamp" : "04:05.820-04:08.380"
-  },
-  {
-    "timestamp" : "04:08.380-04:12.200",
-    "text" : "Now say, you would like."
-  },
-  {
-    "text" : "Vous voudriez.",
-    "timestamp" : "04:12.200-04:15.680"
-  },
-  {
-    "text" : "Vous voudriez.",
-    "timestamp" : "04:15.680-04:18.900"
-  },
-  {
-    "text" : "Vous voudriez.",
-    "timestamp" : "04:18.900-04:21.560"
-  },
-  {
-    "timestamp" : "04:21.560-04:25.760",
-    "text" : "Say something in French."
-  },
-  {
-    "timestamp" : "04:29.060-04:29.860",
-    "text" : "Quelque chose."
-  },
-  {
-    "timestamp" : "04:29.860-04:34.700",
-    "text" : "Ask me if I would like to eat something."
-  },
-  {
-    "timestamp" : "04:34.700-04:41.420",
-    "text" : "Est-ce que vous voudriez manger quelque chose?"
-  },
-  {
-    "timestamp" : "04:41.420-04:48.080",
-    "text" : "Est-ce que vous voudriez manger quelque chose?"
-  },
-  {
-    "text" : "Yes, I would like to eat.",
-    "timestamp" : "04:52.880-04:54.280"
-  },
-  {
-    "text" : "Oui, je voudrais manger.",
-    "timestamp" : "04:54.280-04:58.840"
-  },
-  {
-    "text" : "Voudrais.",
-    "timestamp" : "04:58.840-05:02.880"
-  },
-  {
-    "text" : "I would like to eat something.",
-    "timestamp" : "05:02.880-05:05.920"
-  },
-  {
-    "timestamp" : "05:05.920-05:11.200",
-    "text" : "Je voudrais manger quelque chose."
-  },
-  {
-    "timestamp" : "05:15.040-05:16.660",
-    "text" : "Je voudrais manger quelque chose."
-  },
-  {
-    "timestamp" : "05:16.660-05:22.380",
-    "text" : "Ask me if I would like to drink something."
-  },
-  {
-    "timestamp" : "05:22.380-05:28.480",
-    "text" : "Est-ce que vous voudriez boire quelque chose?"
-  },
-  {
-    "timestamp" : "05:28.480-05:34.580",
-    "text" : "Est-ce que vous voudriez boire quelque chose?"
-  },
-  {
-    "timestamp" : "05:34.580-05:39.720",
-    "text" : "Answer in the affirmative."
-  },
-  {
-    "timestamp" : "05:43.840-05:45.580",
-    "text" : "Oui, je voudrais boire quelque chose."
-  },
-  {
-    "text" : "Boire.",
-    "timestamp" : "05:45.580-05:50.000"
-  },
-  {
-    "text" : "Je voudrais.",
-    "timestamp" : "05:50.000-05:52.800"
-  },
-  {
-    "timestamp" : "05:52.800-05:55.620",
-    "text" : "Je voudrais."
-  },
-  {
-    "text" : "Oui, je voudrais boire quelque chose.",
-    "timestamp" : "05:55.620-05:59.420"
-  },
-  {
-    "text" : "Answer negatively.",
-    "timestamp" : "05:59.420-06:04.680"
-  },
-  {
-    "text" : "Non merci.",
-    "timestamp" : "06:04.680-06:07.720"
-  },
-  {
-    "timestamp" : "06:07.720-06:10.760",
-    "text" : "Non merci."
-  },
-  {
-    "text" : "Ask me if I would like something to eat.",
-    "timestamp" : "06:13.080-06:15.040"
-  },
-  {
-    "text" : "Est-ce que vous voudriez manger quelque chose?",
-    "timestamp" : "06:15.040-06:22.820"
-  },
-  {
-    "text" : "Quelque chose.",
-    "timestamp" : "06:22.820-06:29.620"
-  },
-  {
-    "text" : "Est-ce que vous voudriez manger quelque chose?",
-    "timestamp" : "06:29.620-06:33.960"
-  },
-  {
-    "timestamp" : "06:33.960-06:40.580",
-    "text" : "Say, yes, I would like to eat something."
-  },
-  {
-    "text" : "Oui, je voudrais manger quelque chose.",
-    "timestamp" : "06:42.820-06:45.560"
-  },
-  {
-    "timestamp" : "06:45.560-06:45.820",
-    "text" : "Oui, je voudrais manger quelque chose."
-  },
-  {
-    "timestamp" : "06:45.820-06:51.260",
-    "text" : "Oui, je voudrais manger quelque chose."
-  },
-  {
-    "timestamp" : "06:51.260-06:57.560",
-    "text" : "Say, no thank you, but I would like to drink something."
-  },
-  {
-    "timestamp" : "07:02.560-07:05.300",
-    "text" : "Non merci, but I would like to drink something."
-  },
-  {
-    "text" : "Non merci, but I would like to drink something.",
-    "timestamp" : "07:05.300-07:05.300"
-  },
-  {
-    "text" : "Non merci, but I would like to drink something.",
-    "timestamp" : "07:05.300-07:05.300"
-  },
-  {
-    "text" : "Non merci, but I would like to drink something.",
-    "timestamp" : "07:05.300-07:05.420"
-  },
-  {
-    "text" : "Non merci, but I would like to drink something.",
-    "timestamp" : "07:05.420-07:07.300"
-  },
-  {
-    "timestamp" : "07:07.300-07:09.300",
-    "text" : "Non merci, but I would like to drink something."
-  },
-  {
-    "text" : "Non merci, but I would like to drink something.",
-    "timestamp" : "07:09.300-07:09.300"
-  },
-  {
-    "timestamp" : "07:09.300-07:13.300",
-    "text" : "Non merci, but I would like to drink something."
-  },
-  {
-    "timestamp" : "07:13.300-07:14.300",
-    "text" : "Say, I don't understand."
-  },
-  {
-    "text" : "Je ne comprends pas.",
-    "timestamp" : "07:14.300-07:25.540"
-  },
-  {
-    "text" : "Ask me again where St. Jacques Street is.",
-    "timestamp" : "07:28.040-07:31.780"
-  },
-  {
-    "text" : "Où est la rue St. Jacques, s'il vous plaît?",
-    "timestamp" : "07:35.780-07:37.680"
-  },
-  {
-    "timestamp" : "07:37.680-07:43.340",
-    "text" : "Où est la rue St. Jacques, s'il vous plaît?"
-  },
-  {
-    "text" : "Answer, I don't know.",
-    "timestamp" : "07:43.340-07:48.220"
-  },
-  {
-    "timestamp" : "07:48.220-07:51.340",
-    "text" : "Je ne sais pas."
-  },
-  {
-    "timestamp" : "07:51.340-07:54.460",
-    "text" : "Je ne sais pas."
-  },
-  {
-    "text" : "Say, it's not here.",
-    "timestamp" : "07:56.520-07:58.260"
-  },
-  {
-    "text" : "Ce n'est pas ici.",
-    "timestamp" : "07:58.260-08:02.080"
-  },
-  {
-    "timestamp" : "08:02.080-08:10.560",
-    "text" : "Say, and it's not down there."
-  },
-  {
-    "text" : "Et ce n'est pas là-bas.",
-    "timestamp" : "08:10.560-08:14.860"
-  },
-  {
-    "text" : "Et ce n'est pas là-bas.",
-    "timestamp" : "08:14.860-08:19.140"
-  },
-  {
-    "text" : "Once again, ask me if I would like to eat something.",
-    "timestamp" : "08:19.140-08:24.840"
-  },
-  {
-    "text" : "Est-ce que vous voudriez manger quelque chose?",
-    "timestamp" : "08:24.840-08:31.240"
-  },
-  {
-    "timestamp" : "08:31.240-08:37.660",
-    "text" : "Est-ce que vous voudriez manger quelque chose?"
-  },
-  {
-    "timestamp" : "08:37.660-08:44.240",
-    "text" : "Say, yes, I would like to eat something."
-  },
-  {
-    "timestamp" : "08:44.240-08:49.960",
-    "text" : "Oui, je voudrais manger quelque chose."
-  },
-  {
-    "text" : "Oui, je voudrais manger quelque chose.",
-    "timestamp" : "08:53.620-08:55.420"
-  },
-  {
-    "text" : "And now try to ask, where would you like to eat?",
-    "timestamp" : "08:55.420-09:01.620"
-  },
-  {
-    "timestamp" : "09:01.620-09:06.800",
-    "text" : "Où est-ce que vous voudriez manger?"
-  },
-  {
-    "text" : "Où est-ce que vous voudriez manger?",
-    "timestamp" : "09:06.800-09:12.160"
-  },
-  {
-    "timestamp" : "09:12.160-09:18.040",
-    "text" : "Here's the answer, at my place."
-  },
-  {
-    "timestamp" : "09:18.040-09:19.120",
-    "text" : "Listen and repeat."
-  },
-  {
-    "text" : "Chez moi.",
-    "timestamp" : "09:20.500-09:20.940"
-  },
-  {
-    "text" : "Chez moi.",
-    "timestamp" : "09:20.940-09:21.000"
-  },
-  {
-    "timestamp" : "09:21.000-09:21.500",
-    "text" : "Chez."
-  },
-  {
-    "text" : "Chez.",
-    "timestamp" : "09:21.500-09:21.500"
-  },
-  {
-    "timestamp" : "09:21.500-09:21.500",
-    "text" : "Chez."
-  },
-  {
-    "text" : "Chez.",
-    "timestamp" : "09:21.500-09:23.500"
-  },
-  {
-    "timestamp" : "09:23.500-09:23.500",
-    "text" : "Chez."
-  },
-  {
-    "timestamp" : "09:23.500-09:23.500",
-    "text" : "Chez."
-  },
-  {
-    "text" : "Chez.",
-    "timestamp" : "09:23.500-09:23.500"
-  },
-  {
-    "text" : "Chez.",
-    "timestamp" : "09:23.500-09:25.500"
-  },
-  {
-    "timestamp" : "09:25.500-09:27.660",
-    "text" : "Chez moi."
-  },
-  {
-    "text" : "Chez moi.",
-    "timestamp" : "09:27.660-09:27.700"
-  },
-  {
-    "text" : "Chez moi.",
-    "timestamp" : "09:27.700-09:28.300"
-  },
-  {
-    "text" : "Chez moi.",
-    "timestamp" : "09:28.300-09:30.380"
-  },
-  {
-    "text" : "Say, at my place.",
-    "timestamp" : "09:30.380-09:34.200"
-  },
-  {
-    "timestamp" : "09:34.200-09:36.920",
-    "text" : "Chez moi."
-  },
-  {
-    "text" : "Chez moi.",
-    "timestamp" : "09:36.920-09:36.920"
-  },
-  {
-    "text" : "Ask me where I would like to eat.",
-    "timestamp" : "09:36.920-09:40.700"
-  },
-  {
-    "text" : "Où est-ce que vous voudriez manger?",
-    "timestamp" : "09:40.700-09:46.000"
-  },
-  {
-    "text" : "Try to answer, at your place.",
-    "timestamp" : "09:46.000-09:57.260"
-  },
-  {
-    "timestamp" : "09:57.260-09:59.940",
-    "text" : "Chez vous."
-  },
-  {
-    "timestamp" : "09:59.940-10:06.420",
-    "text" : "Ask, at my place?"
-  },
-  {
-    "text" : "Chez moi?",
-    "timestamp" : "10:06.420-10:09.300"
-  },
-  {
-    "timestamp" : "10:09.300-10:13.060",
-    "text" : "Yes, at your place."
-  },
-  {
-    "text" : "Oui, chez vous.",
-    "timestamp" : "10:13.060-10:16.460"
-  },
-  {
-    "text" : "Now listen and repeat the man's answer, me too.",
-    "timestamp" : "10:16.460-10:21.740"
-  },
-  {
-    "timestamp" : "10:21.740-10:23.160",
-    "text" : "Moi aussi."
-  },
-  {
-    "timestamp" : "10:23.160-10:26.000",
-    "text" : "Aussi."
-  },
-  {
-    "text" : "Aussi.",
-    "timestamp" : "10:26.000-10:28.060"
-  },
-  {
-    "text" : "Moi aussi.",
-    "timestamp" : "10:28.060-10:30.180"
-  },
-  {
-    "text" : "Say, me too.",
-    "timestamp" : "10:30.180-10:33.600"
-  },
-  {
-    "timestamp" : "10:33.600-10:36.480",
-    "text" : "Moi aussi."
-  },
-  {
-    "timestamp" : "10:38.580-10:40.360",
-    "text" : "Ask, at my place?"
-  },
-  {
-    "timestamp" : "10:40.360-10:43.160",
-    "text" : "Chez moi?"
-  },
-  {
-    "text" : "Chez moi?",
-    "timestamp" : "10:43.160-10:45.920"
-  },
-  {
-    "timestamp" : "10:45.920-10:50.040",
-    "text" : "Answer, yes, at your place."
-  },
-  {
-    "timestamp" : "10:50.040-10:54.100",
-    "text" : "Oui, chez vous."
-  },
-  {
-    "text" : "Oui, chez vous.",
-    "timestamp" : "10:54.100-10:58.000"
-  },
-  {
-    "text" : "Now try to say, I would like to eat, too.",
-    "timestamp" : "11:00.580-11:03.540"
-  },
-  {
-    "timestamp" : "11:03.540-11:08.440",
-    "text" : "Je voudrais manger aussi."
-  },
-  {
-    "text" : "Je voudrais manger aussi.",
-    "timestamp" : "11:08.440-11:13.360"
-  },
-  {
-    "text" : "Listen and repeat the question, when.",
-    "timestamp" : "11:13.360-11:18.880"
-  },
-  {
-    "text" : "Quand?",
-    "timestamp" : "11:20.000-11:20.340"
-  },
-  {
-    "text" : "Quand?",
-    "timestamp" : "11:20.340-11:20.360"
-  },
-  {
-    "text" : "Quand?",
-    "timestamp" : "11:20.360-11:22.360"
-  },
-  {
-    "text" : "Quand?",
-    "timestamp" : "11:22.360-11:24.240"
-  },
-  {
-    "text" : "Ask me when.",
-    "timestamp" : "11:24.240-11:26.780"
-  },
-  {
-    "text" : "Quand?",
-    "timestamp" : "11:26.780-11:28.680"
-  },
-  {
-    "text" : "Say, I don't know.",
-    "timestamp" : "11:28.680-11:31.660"
-  },
-  {
-    "text" : "Je ne sais pas.",
-    "timestamp" : "11:31.660-11:35.120"
-  },
-  {
-    "text" : "Je ne sais pas.",
-    "timestamp" : "11:35.120-11:38.660"
-  },
-  {
-    "text" : "Here's the answer, now.",
-    "timestamp" : "11:38.660-11:42.820"
-  },
-  {
-    "text" : "Listen and repeat.",
-    "timestamp" : "11:42.820-11:44.060"
-  },
-  {
-    "timestamp" : "11:44.060-11:46.060",
-    "text" : "Maintenant."
-  },
-  {
-    "timestamp" : "11:46.060-11:46.140",
-    "text" : "Maintenant."
-  },
-  {
-    "text" : "Maintenant.",
-    "timestamp" : "11:48.440-11:48.900"
-  },
-  {
-    "timestamp" : "11:48.900-11:50.900",
-    "text" : "Maintenant."
-  },
-  {
-    "timestamp" : "11:50.900-11:51.820",
-    "text" : "Maintenant."
-  },
-  {
-    "timestamp" : "11:51.820-11:54.820",
-    "text" : "Maintenant."
-  },
-  {
-    "timestamp" : "11:54.820-11:54.900",
-    "text" : "Maintenant."
-  },
-  {
-    "text" : "Maintenant.",
-    "timestamp" : "11:54.900-11:57.660"
-  },
-  {
-    "timestamp" : "11:57.660-12:00.380",
-    "text" : "Maintenant."
-  },
-  {
-    "text" : "Maintenant.",
-    "timestamp" : "12:00.380-12:02.400"
-  },
-  {
-    "text" : "Maintenant.",
-    "timestamp" : "12:02.400-12:03.260"
-  },
-  {
-    "text" : "Say, now.",
-    "timestamp" : "12:03.260-12:06.780"
-  },
-  {
-    "timestamp" : "12:06.780-12:09.620",
-    "text" : "Maintenant."
-  },
-  {
-    "timestamp" : "12:09.620-12:14.020",
-    "text" : "Ask, where would you like to eat?"
-  },
-  {
-    "text" : "When?",
-    "timestamp" : "12:15.020-12:16.480"
-  },
-  {
-    "timestamp" : "12:16.480-12:16.480",
-    "text" : "Where would you like to eat?"
-  },
-  {
-    "text" : "Where would you like to eat?",
-    "timestamp" : "12:16.480-12:18.880"
-  },
-  {
-    "timestamp" : "12:18.880-12:19.480",
-    "text" : "Where would you like to eat?"
-  },
-  {
-    "text" : "Where would you like to eat?",
-    "timestamp" : "12:19.480-12:19.480"
-  },
-  {
-    "timestamp" : "12:19.480-12:19.600",
-    "text" : "Where would you like to eat?"
-  },
-  {
-    "text" : "Where would you like to eat?",
-    "timestamp" : "12:19.600-12:19.960"
-  },
-  {
-    "text" : "Where would you like to eat?",
-    "timestamp" : "12:19.960-12:20.640"
-  },
-  {
-    "text" : "Where would you like to eat?",
-    "timestamp" : "12:20.640-12:21.420"
-  },
-  {
-    "text" : "Where would you like to eat?",
-    "timestamp" : "12:21.420-12:22.960"
-  },
-  {
-    "text" : "Where would you like to eat?",
-    "timestamp" : "12:22.960-12:25.060"
-  },
-  {
-    "text" : "Where would you like to eat?",
-    "timestamp" : "12:25.060-12:26.920"
-  },
-  {
-    "text" : "Ask when?",
-    "timestamp" : "12:26.920-12:28.300"
-  },
-  {
-    "timestamp" : "12:28.300-12:28.940",
-    "text" : "When?"
-  },
-  {
-    "text" : "Ask when?",
-    "timestamp" : "12:28.940-12:30.400"
-  },
-  {
-    "text" : "When?",
-    "timestamp" : "12:30.400-12:30.400"
-  },
-  {
-    "timestamp" : "12:30.400-12:31.320",
-    "text" : "When?"
-  },
-  {
-    "text" : "When?",
-    "timestamp" : "12:31.320-12:33.160"
-  },
-  {
-    "text" : "When?",
-    "timestamp" : "12:33.160-12:33.160"
-  },
-  {
-    "timestamp" : "12:33.160-12:35.840",
-    "text" : "When?"
-  },
-  {
-    "timestamp" : "12:35.840-12:39.720",
-    "text" : "Now, listen and repeat the question."
-  },
-  {
-    "text" : "When would you like to eat?",
-    "timestamp" : "12:39.720-12:41.120"
-  },
-  {
-    "text" : "Listen especially for the disappearing sound on the end of...",
-    "timestamp" : "12:41.120-12:45.060"
-  },
-  {
-    "timestamp" : "12:45.060-12:45.280",
-    "text" : "When?"
-  },
-  {
-    "timestamp" : "12:45.280-12:47.940",
-    "text" : "When would you like to eat?"
-  },
-  {
-    "timestamp" : "12:47.940-12:54.040",
-    "text" : "When would you like to eat?"
-  },
-  {
-    "timestamp" : "12:54.040-13:00.040",
-    "text" : "When would you like to eat?"
-  },
-  {
-    "text" : "That seems like a disappearing T on the end of...",
-    "timestamp" : "13:00.040-13:07.920"
-  },
-  {
-    "timestamp" : "13:07.920-13:08.080",
-    "text" : "When?"
-  },
-  {
-    "timestamp" : "13:08.080-13:08.700",
-    "text" : "Doesn't it?"
-  },
-  {
-    "text" : "Actually, the word happens to be spelled with a D, but it's pronounced more like a T.",
-    "timestamp" : "13:08.700-13:13.780"
-  },
-  {
-    "timestamp" : "13:13.780-13:17.660",
-    "text" : "Now, once again, ask me when I would like to eat."
-  },
-  {
-    "timestamp" : "13:21.600-13:23.140",
-    "text" : "When would you like to eat?"
-  },
-  {
-    "timestamp" : "13:23.140-13:28.720",
-    "text" : "When would you like to eat?"
-  },
-  {
-    "text" : "Answer now.",
-    "timestamp" : "13:28.720-13:34.180"
-  },
-  {
-    "text" : "Maintenant.",
-    "timestamp" : "13:34.180-13:37.000"
-  },
-  {
-    "timestamp" : "13:37.000-13:40.600",
-    "text" : "Say me too."
-  },
-  {
-    "timestamp" : "13:40.600-13:43.640",
-    "text" : "Moi aussi."
-  },
-  {
-    "timestamp" : "13:43.640-13:46.780",
-    "text" : "Moi aussi."
-  },
-  {
-    "text" : "Ask when would you like to eat?",
-    "timestamp" : "13:46.780-13:51.280"
-  },
-  {
-    "timestamp" : "13:51.280-13:56.920",
-    "text" : "Quand est-ce que vous voudriez manger?"
-  },
-  {
-    "text" : "Try to say, not now.",
-    "timestamp" : "13:56.920-14:08.600"
-  },
-  {
-    "timestamp" : "14:08.600-14:11.760",
-    "text" : "Pas maintenant."
-  },
-  {
-    "timestamp" : "14:11.760-14:15.020",
-    "text" : "Pas maintenant."
-  },
-  {
-    "timestamp" : "14:15.020-14:19.080",
-    "text" : "Here's the answer, later."
-  },
-  {
-    "text" : "Literally, it means, more late.",
-    "timestamp" : "14:19.660-14:21.320"
-  },
-  {
-    "timestamp" : "14:21.320-14:22.560",
-    "text" : "Listen and repeat."
-  },
-  {
-    "timestamp" : "14:22.560-14:23.860",
-    "text" : "Plus tard."
-  },
-  {
-    "text" : "Tart.",
-    "timestamp" : "14:23.860-14:26.800"
-  },
-  {
-    "timestamp" : "14:26.800-14:29.700",
-    "text" : "Tart."
-  },
-  {
-    "text" : "Plus.",
-    "timestamp" : "14:29.700-14:32.300"
-  },
-  {
-    "timestamp" : "14:32.300-14:35.040",
-    "text" : "Plus."
-  },
-  {
-    "timestamp" : "14:35.040-14:38.120",
-    "text" : "Plus tard."
-  },
-  {
-    "timestamp" : "14:38.120-14:41.100",
-    "text" : "Plus tard."
-  },
-  {
-    "timestamp" : "14:41.100-14:44.460",
-    "text" : "Say, later."
-  },
-  {
-    "timestamp" : "14:44.460-14:47.460",
-    "text" : "Plus tard."
-  },
-  {
-    "timestamp" : "14:47.460-14:47.480",
-    "text" : "Plus tard."
-  },
-  {
-    "text" : "Est-ce que vous voudriez boire quelque chose?",
-    "timestamp" : "14:47.480-14:52.260"
-  },
-  {
-    "text" : "Est-ce que vous voudriez boire quelque chose?",
-    "timestamp" : "14:52.260-14:58.360"
-  },
-  {
-    "text" : "Est-ce que vous voudriez boire quelque chose?",
-    "timestamp" : "14:58.360-15:04.880"
-  },
-  {
-    "timestamp" : "15:04.880-15:11.020",
-    "text" : "Say, I don't know."
-  },
-  {
-    "text" : "Je ne sais pas.",
-    "timestamp" : "15:13.160-15:14.120"
-  },
-  {
-    "text" : "Say, no thanks, but I would like to eat something.",
-    "timestamp" : "15:14.120-15:19.200"
-  },
-  {
-    "timestamp" : "15:19.200-15:25.940",
-    "text" : "Non, merci."
-  },
-  {
-    "timestamp" : "15:25.940-15:28.240",
-    "text" : "Mais je voudrais manger quelque chose."
-  },
-  {
-    "timestamp" : "15:28.240-15:34.980",
-    "text" : "Je voudrais."
-  },
-  {
-    "text" : "Je voudrais.",
-    "timestamp" : "15:37.360-15:38.200"
-  },
-  {
-    "text" : "Je voudrais.",
-    "timestamp" : "15:38.200-15:38.220"
-  },
-  {
-    "text" : "Non, merci.",
-    "timestamp" : "15:38.220-15:41.300"
-  },
-  {
-    "text" : "Mais je voudrais manger quelque chose.",
-    "timestamp" : "15:41.300-15:43.640"
-  },
-  {
-    "timestamp" : "15:43.640-15:51.420",
-    "text" : "Say, I would like to eat something."
-  },
-  {
-    "timestamp" : "15:54.640-15:56.340",
-    "text" : "Je voudrais manger quelque chose."
-  },
-  {
-    "text" : "Je voudrais manger quelque chose.",
-    "timestamp" : "15:56.340-16:01.240"
-  },
-  {
-    "timestamp" : "16:01.240-16:06.660",
-    "text" : "Ask, where would you like to eat?"
-  },
-  {
-    "text" : "Où est-ce que vous voudriez manger?",
-    "timestamp" : "16:10.560-16:12.020"
-  },
-  {
-    "text" : "Où est-ce que vous voudriez manger?",
-    "timestamp" : "16:12.020-16:12.060"
-  },
-  {
-    "text" : "Où est-ce que vous voudriez manger?",
-    "timestamp" : "16:12.060-16:12.060"
-  },
-  {
-    "text" : "Où est-ce que vous voudriez manger?",
-    "timestamp" : "16:12.060-16:12.060"
-  },
-  {
-    "timestamp" : "16:12.060-16:12.060",
-    "text" : "Où est-ce que vous voudriez manger?"
-  },
-  {
-    "timestamp" : "16:12.060-16:12.060",
-    "text" : "Où est-ce que vous voudriez manger?"
-  },
-  {
-    "timestamp" : "16:12.060-16:12.060",
-    "text" : "Où est-ce que vous voudriez manger?"
-  },
-  {
-    "timestamp" : "16:12.060-16:12.060",
-    "text" : "Où est-ce que vous voudriez manger?"
-  },
-  {
-    "text" : "Où est-ce que vous voudriez manger?",
-    "timestamp" : "16:12.060-16:12.560"
-  },
-  {
-    "timestamp" : "16:12.560-16:13.060",
-    "text" : "Où est-ce que vous voudriez manger?"
-  },
-  {
-    "text" : "Où est-ce que vous voudriez manger?",
-    "timestamp" : "16:13.060-16:14.060"
-  },
-  {
-    "timestamp" : "16:14.060-16:15.060",
-    "text" : "Où est-ce que vous voudriez manger?"
-  },
-  {
-    "text" : "Où est-ce que vous voudriez manger?",
-    "timestamp" : "16:15.060-16:16.060"
-  },
-  {
-    "timestamp" : "16:16.060-16:17.060",
-    "text" : "Où est-ce que vous voudriez manger?"
-  },
-  {
-    "timestamp" : "16:17.060-16:17.560",
-    "text" : "Où est-ce que vous voudriez manger?"
-  },
-  {
-    "text" : "Où est-ce que vous voudriez manger?",
-    "timestamp" : "16:17.560-16:21.560"
-  },
-  {
-    "timestamp" : "16:21.560-16:22.560",
-    "text" : "Où est-ce que vous voudriez manger?"
-  },
-  {
-    "text" : "Où est-ce que vous voudriez manger?",
-    "timestamp" : "16:22.560-16:23.560"
-  },
-  {
-    "text" : "Où est-ce que vous voudriez manger?",
-    "timestamp" : "16:23.560-16:24.560"
-  },
-  {
-    "text" : "Où est-ce que vous voudriez manger?",
-    "timestamp" : "16:24.560-16:25.560"
-  },
-  {
-    "timestamp" : "16:25.560-16:26.560",
-    "text" : "Où est-ce que vous voudriez manger?"
-  },
-  {
-    "text" : "Où est-ce que vous voudriez manger?",
-    "timestamp" : "16:26.560-16:27.560"
-  },
-  {
-    "text" : "Où est-ce que vous voudriez manger?",
-    "timestamp" : "16:27.560-16:28.560"
-  },
-  {
-    "timestamp" : "16:28.560-16:29.560",
-    "text" : "Où est-ce que vous voudriez manger?"
-  },
-  {
-    "timestamp" : "16:29.560-16:30.560",
-    "text" : "Où est-ce que vous voudriez manger?"
-  },
-  {
-    "timestamp" : "16:30.560-16:31.560",
-    "text" : "Où est-ce que vous voudriez manger?"
-  },
-  {
-    "timestamp" : "16:31.560-16:32.560",
-    "text" : "Où est-ce que vous voudriez manger?"
-  },
-  {
-    "text" : "Où est-ce que vous voudriez manger?",
-    "timestamp" : "16:32.560-16:33.560"
-  },
-  {
-    "timestamp" : "16:33.560-16:38.560",
-    "text" : "Où est-ce que vous voudriez manger?"
-  },
-  {
-    "text" : "Où est-ce que vous voudriez manger?",
-    "timestamp" : "16:38.560-16:39.560"
-  },
-  {
-    "text" : "Où est-ce que vous voudriez manger?",
-    "timestamp" : "16:39.560-16:40.560"
-  },
-  {
-    "text" : "Où est-ce que vous voudriez manger?",
-    "timestamp" : "16:40.560-16:41.560"
-  },
-  {
-    "text" : "Où est-ce que vous voudriez manger?",
-    "timestamp" : "16:41.560-16:42.560"
-  },
-  {
-    "timestamp" : "16:42.560-16:43.560",
-    "text" : "Où est-ce que vous voudriez manger?"
-  },
-  {
-    "timestamp" : "16:43.560-16:44.560",
-    "text" : "Où est-ce que vous voudriez manger?"
-  },
-  {
-    "timestamp" : "16:44.560-16:45.560",
-    "text" : "Où est-ce que vous voudriez manger?"
-  },
-  {
-    "timestamp" : "16:45.560-16:46.560",
-    "text" : "Où est-ce que vous voudriez manger?"
-  },
-  {
-    "text" : "Où est-ce que vous voudriez manger?",
-    "timestamp" : "16:46.560-16:47.560"
-  },
-  {
-    "text" : "Où est-ce que vous voudriez manger?",
-    "timestamp" : "16:47.560-16:48.560"
-  },
-  {
-    "timestamp" : "16:48.560-16:49.560",
-    "text" : "Où est-ce que vous voudriez manger?"
-  },
-  {
-    "timestamp" : "16:49.560-16:50.560",
-    "text" : "Où est-ce que vous voudriez manger?"
-  },
-  {
-    "timestamp" : "16:50.560-16:51.560",
-    "text" : "Où est-ce que vous voudriez manger?"
-  },
-  {
-    "timestamp" : "16:51.560-16:52.560",
-    "text" : "Où est-ce que vous voudriez manger?"
-  },
-  {
-    "text" : "Où est-ce que vous voudriez manger?",
-    "timestamp" : "16:52.560-16:53.560"
-  },
-  {
-    "timestamp" : "16:53.560-16:54.560",
-    "text" : "Où est-ce que vous voudriez manger?"
-  },
-  {
-    "timestamp" : "16:54.560-16:55.560",
-    "text" : "Où est-ce que vous voudriez manger?"
-  },
-  {
-    "text" : "Où est-ce que vous voudriez manger?",
-    "timestamp" : "16:55.560-16:56.560"
-  },
-  {
-    "text" : "Où est-ce que vous voudriez manger?",
-    "timestamp" : "16:56.560-16:57.560"
-  },
-  {
-    "text" : "Où est-ce que vous voudriez manger?",
-    "timestamp" : "16:57.560-16:58.560"
-  },
-  {
-    "text" : "Où est-ce que vous voudriez manger?",
-    "timestamp" : "16:58.560-16:59.560"
-  },
-  {
-    "timestamp" : "16:59.560-17:00.560",
-    "text" : "Où est-ce que vous voudriez manger?"
-  },
-  {
-    "text" : "Où est-ce que vous voudriez manger?",
-    "timestamp" : "17:00.560-17:01.560"
-  },
-  {
-    "text" : "Où est-ce que vous voudriez manger?",
-    "timestamp" : "17:01.560-17:02.560"
-  },
-  {
-    "text" : "Où est-ce que vous voudriez manger?",
-    "timestamp" : "17:02.560-17:03.560"
-  },
-  {
-    "timestamp" : "17:03.560-17:04.560",
-    "text" : "Où est-ce que vous voudriez manger?"
-  },
-  {
-    "timestamp" : "17:04.560-17:05.560",
-    "text" : "Où est-ce que vous voudriez manger?"
-  },
-  {
-    "text" : "Où est-ce que vous voudriez manger?",
-    "timestamp" : "17:05.560-17:06.560"
-  },
-  {
-    "text" : "Où est-ce que vous voudriez manger?",
-    "timestamp" : "17:06.560-17:07.560"
-  },
-  {
-    "text" : "Où est-ce que vous voudriez manger?",
-    "timestamp" : "17:07.560-17:08.560"
-  },
-  {
-    "timestamp" : "17:08.560-17:09.560",
-    "text" : "Où est-ce que vous voudriez manger?"
-  },
-  {
-    "timestamp" : "17:09.560-17:11.560",
-    "text" : "Plus tard"
-  },
-  {
-    "text" : "Plus tard",
-    "timestamp" : "17:11.560-17:13.560"
-  },
-  {
-    "text" : "Plus tard",
-    "timestamp" : "17:13.560-17:14.560"
-  },
-  {
-    "timestamp" : "17:14.560-17:16.560",
-    "text" : "Plus tard"
-  },
-  {
-    "text" : "Do you remember how to ask the question, where?",
-    "timestamp" : "17:16.560-17:19.560"
-  },
-  {
-    "text" : "Où",
-    "timestamp" : "17:19.560-17:22.560"
-  },
-  {
-    "timestamp" : "17:22.560-17:23.560",
-    "text" : "Où"
-  },
-  {
-    "text" : "Où",
-    "timestamp" : "17:23.560-17:25.560"
-  },
-  {
-    "timestamp" : "17:25.560-17:28.560",
-    "text" : "And the question, when?"
-  },
-  {
-    "text" : "Quand",
-    "timestamp" : "17:28.560-17:31.560"
-  },
-  {
-    "text" : "Quand",
-    "timestamp" : "17:31.560-17:34.560"
-  },
-  {
-    "text" : "Ask the young woman when she would like to eat.",
-    "timestamp" : "17:34.560-17:39.560"
-  },
-  {
-    "text" : "Où est-ce que vous voudriez manger?",
-    "timestamp" : "17:39.560-17:44.560"
-  },
-  {
-    "text" : "Où est-ce que vous voudriez manger?",
-    "timestamp" : "17:44.560-17:45.560"
-  },
-  {
-    "timestamp" : "17:45.560-17:47.560",
-    "text" : "Où est-ce que vous voudriez manger?"
-  },
-  {
-    "timestamp" : "17:47.560-17:52.560",
-    "text" : "Où est-ce que vous voudriez manger, mademoiselle?"
-  },
-  {
-    "text" : "Où est-ce que vous voudriez manger?",
-    "timestamp" : "17:52.560-17:53.560"
-  },
-  {
-    "text" : "Où est-ce que vous voudriez manger?",
-    "timestamp" : "17:53.560-17:54.560"
-  },
-  {
-    "text" : "Où est-ce que vous voudriez manger?",
-    "timestamp" : "17:54.560-17:55.560"
-  },
-  {
-    "text" : "Où est-ce que vous voudriez manger?",
-    "timestamp" : "17:55.560-17:56.560"
-  },
-  {
-    "timestamp" : "17:56.560-17:57.560",
-    "text" : "Où est-ce que vous voudriez manger?"
-  },
-  {
-    "timestamp" : "17:57.560-17:58.560",
-    "text" : "Où est-ce que vous voudriez manger?"
-  },
-  {
-    "timestamp" : "17:58.560-17:59.560",
-    "text" : "Où est-ce que vous voudriez manger?"
-  },
-  {
-    "text" : "Où est-ce que vous voudriez manger?",
-    "timestamp" : "17:59.560-18:00.560"
-  },
-  {
-    "timestamp" : "18:00.560-18:01.560",
-    "text" : "Où est-ce que vous voudriez manger?"
-  },
-  {
-    "timestamp" : "18:01.560-18:02.560",
-    "text" : "Où est-ce que vous voudriez manger?"
-  },
-  {
-    "text" : "Pas maintenant",
-    "timestamp" : "18:02.560-18:04.560"
-  },
-  {
-    "timestamp" : "18:04.560-18:07.560",
-    "text" : "Answer later"
-  },
-  {
-    "text" : "Plus tard",
-    "timestamp" : "18:07.560-18:10.560"
-  },
-  {
-    "timestamp" : "18:10.560-18:12.560",
-    "text" : "Plus tard"
-  },
-  {
-    "text" : "Plus tard",
-    "timestamp" : "18:12.560-18:15.560"
-  },
-  {
-    "text" : "Say later please",
-    "timestamp" : "18:15.560-18:17.560"
-  },
-  {
-    "timestamp" : "18:17.560-18:22.560",
-    "text" : "Plus tard s'il vous plaît"
-  },
-  {
-    "text" : "Ask her where",
-    "timestamp" : "18:22.560-18:26.560"
-  },
-  {
-    "text" : "Où",
-    "timestamp" : "18:26.560-18:28.560"
-  },
-  {
-    "text" : "Où",
-    "timestamp" : "18:28.560-18:30.560"
-  },
-  {
-    "text" : "Where would you like to eat?",
-    "timestamp" : "18:30.560-18:31.560"
-  },
-  {
-    "text" : "Où est-ce que vous voudriez manger?",
-    "timestamp" : "18:31.560-18:32.560"
-  },
-  {
-    "timestamp" : "18:32.560-18:33.560",
-    "text" : "Où est-ce que vous voudriez manger?"
-  },
-  {
-    "timestamp" : "18:33.560-18:34.560",
-    "text" : "Où est-ce que vous voudriez manger?"
-  },
-  {
-    "timestamp" : "18:34.560-18:35.560",
-    "text" : "Où est-ce que vous voudriez manger?"
-  },
-  {
-    "timestamp" : "18:35.560-18:36.560",
-    "text" : "Où est-ce que vous voudriez manger?"
-  },
-  {
-    "text" : "Où est-ce que vous voudriez manger?",
-    "timestamp" : "18:36.560-18:37.560"
-  },
-  {
-    "text" : "Où est-ce que vous voudriez manger?",
-    "timestamp" : "18:37.560-18:38.560"
-  },
-  {
-    "text" : "Où est-ce que vous voudriez manger?",
-    "timestamp" : "18:38.560-18:39.560"
-  },
-  {
-    "text" : "Où est-ce que vous voudriez manger?",
-    "timestamp" : "18:39.560-18:40.560"
-  },
-  {
-    "timestamp" : "18:40.560-18:41.560",
-    "text" : "Où est-ce que vous voudriez manger?"
-  },
-  {
-    "text" : "Où est-ce que vous voudriez manger?",
-    "timestamp" : "18:41.560-18:42.560"
-  },
-  {
-    "text" : "Où est-ce que vous voudriez manger?",
-    "timestamp" : "18:42.560-18:43.560"
-  },
-  {
-    "text" : "How does she answer at my place?",
-    "timestamp" : "18:43.560-18:44.560"
-  },
-  {
-    "timestamp" : "18:44.560-18:45.560",
-    "text" : "How does she answer at my place?"
-  },
-  {
-    "text" : "Chez moi",
-    "timestamp" : "18:45.560-18:46.560"
-  },
-  {
-    "text" : "Chez moi",
-    "timestamp" : "18:46.560-18:47.560"
-  },
-  {
-    "text" : "Chez moi",
-    "timestamp" : "18:47.560-18:48.560"
-  },
-  {
-    "timestamp" : "18:48.560-18:50.560",
-    "text" : "Chez moi"
-  },
-  {
-    "text" : "Chez moi",
-    "timestamp" : "18:50.560-18:51.560"
-  },
-  {
-    "text" : "Chez moi",
-    "timestamp" : "18:51.560-18:53.560"
-  },
-  {
-    "text" : "Chez moi, monsieur",
-    "timestamp" : "18:53.560-18:55.560"
-  },
-  {
-    "timestamp" : "18:55.560-18:58.560",
-    "text" : "Try to say"
-  },
-  {
-    "text" : "Not at your place",
-    "timestamp" : "18:58.560-18:59.560"
-  },
-  {
-    "timestamp" : "18:59.560-19:02.560",
-    "text" : "Pas chez vous"
-  },
-  {
-    "text" : "Pas chez vous",
-    "timestamp" : "19:02.560-19:03.560"
-  },
-  {
-    "text" : "Pas chez vous",
-    "timestamp" : "19:03.560-19:05.560"
-  },
-  {
-    "timestamp" : "19:05.560-19:09.560",
-    "text" : "Say"
-  },
-  {
-    "timestamp" : "19:09.560-19:10.560",
-    "text" : "At my place"
-  },
-  {
-    "timestamp" : "19:10.560-19:13.560",
-    "text" : "Chez moi"
-  },
-  {
-    "text" : "Chez moi",
-    "timestamp" : "19:13.560-19:15.560"
-  },
-  {
-    "text" : "Chez moi",
-    "timestamp" : "19:15.560-19:17.560"
-  },
-  {
-    "timestamp" : "19:17.560-19:19.560",
-    "text" : "How does she say emphatically"
-  },
-  {
-    "text" : "I don't want to?",
-    "timestamp" : "19:19.560-19:20.560"
-  },
-  {
-    "text" : "How does she say emphatically",
-    "timestamp" : "19:20.560-19:21.560"
-  },
-  {
-    "text" : "I don't want to?",
-    "timestamp" : "19:21.560-19:22.560"
-  },
-  {
-    "text" : "Je ne veux pas",
-    "timestamp" : "19:22.560-19:24.560"
-  },
-  {
-    "timestamp" : "19:24.560-19:27.560",
-    "text" : "Veux"
-  },
-  {
-    "text" : "Veux",
-    "timestamp" : "19:27.560-19:28.560"
-  },
-  {
-    "text" : "Veux",
-    "timestamp" : "19:28.560-19:30.560"
-  },
-  {
-    "text" : "Je ne veux pas",
-    "timestamp" : "19:30.560-19:33.560"
-  },
-  {
-    "timestamp" : "19:33.560-19:36.560",
-    "text" : "Say"
-  },
-  {
-    "timestamp" : "19:36.560-19:37.560",
-    "text" : "Me, I want to"
-  },
-  {
-    "text" : "Moi, je veux",
-    "timestamp" : "19:37.560-19:40.560"
-  },
-  {
-    "timestamp" : "19:40.560-19:42.560",
-    "text" : "Moi, je veux"
-  },
-  {
-    "text" : "Moi, je veux",
-    "timestamp" : "19:42.560-19:44.560"
-  },
-  {
-    "text" : "Answer for her",
-    "timestamp" : "19:44.560-19:47.560"
-  },
-  {
-    "text" : "Not me",
-    "timestamp" : "19:47.560-19:48.560"
-  },
-  {
-    "timestamp" : "19:48.560-19:49.560",
-    "text" : "Pas moi"
-  },
-  {
-    "timestamp" : "19:49.560-19:51.560",
-    "text" : "Pas moi"
-  },
-  {
-    "text" : "Pas moi",
-    "timestamp" : "19:51.560-19:53.560"
-  },
-  {
-    "timestamp" : "19:53.560-19:54.560",
-    "text" : "Pas moi"
-  },
-  {
-    "timestamp" : "19:54.560-19:58.560",
-    "text" : "How does she tell you she would like to drink something?"
-  },
-  {
-    "timestamp" : "19:58.560-20:00.560",
-    "text" : "I would like to drink something"
-  },
-  {
-    "timestamp" : "20:00.560-20:02.560",
-    "text" : "I would like to drink something too"
-  },
-  {
-    "timestamp" : "20:02.560-20:02.560",
-    "text" : "Say literally"
-  },
-  {
-    "text" : "I would like also to drink something",
-    "timestamp" : "20:02.560-20:03.560"
-  },
-  {
-    "text" : "Je voudrais boire quelque chose.",
-    "timestamp" : "20:03.560-20:09.860"
-  },
-  {
-    "timestamp" : "20:09.860-20:15.120",
-    "text" : "Say me too."
-  },
-  {
-    "text" : "Moi aussi.",
-    "timestamp" : "20:15.120-20:18.420"
-  },
-  {
-    "text" : "Moi aussi.",
-    "timestamp" : "20:18.420-20:21.680"
-  },
-  {
-    "timestamp" : "20:21.680-20:25.720",
-    "text" : "I would like to drink something too."
-  },
-  {
-    "timestamp" : "20:25.720-20:29.440",
-    "text" : "Say literally, I would like also to drink something."
-  },
-  {
-    "timestamp" : "20:29.440-20:35.920",
-    "text" : "I would like to drink something."
-  },
-  {
-    "text" : "Ask her, when would you like to drink something?",
-    "timestamp" : "20:35.920-20:58.460"
-  },
-  {
-    "text" : "When would you like to drink something?",
-    "timestamp" : "20:58.460-21:05.500"
-  },
-  {
-    "timestamp" : "21:05.500-21:12.620",
-    "text" : "When would you like to drink something?"
-  },
-  {
-    "text" : "Ask her later.",
-    "timestamp" : "21:12.620-21:18.980"
-  },
-  {
-    "text" : "Plus tard?",
-    "timestamp" : "21:18.980-21:22.000"
-  },
-  {
-    "timestamp" : "21:22.000-21:24.980",
-    "text" : "Plus tard?"
-  },
-  {
-    "text" : "How does she say, no, now?",
-    "timestamp" : "21:26.980-21:29.220"
-  },
-  {
-    "text" : "Non, maintenant.",
-    "timestamp" : "21:29.220-21:32.800"
-  },
-  {
-    "timestamp" : "21:32.800-21:36.320",
-    "text" : "Non, maintenant."
-  },
-  {
-    "text" : "Ask her, would you like to drink something at my place?",
-    "timestamp" : "21:36.320-21:41.940"
-  },
-  {
-    "timestamp" : "21:47.440-21:49.940",
-    "text" : "Est-ce que vous voudriez boire quelque chose chez moi?"
-  },
-  {
-    "text" : "Chez moi.",
-    "timestamp" : "21:49.940-21:56.480"
-  },
-  {
-    "timestamp" : "21:56.480-22:01.320",
-    "text" : "Est-ce que vous voudriez boire quelque chose chez moi?"
-  },
-  {
-    "timestamp" : "22:06.860-22:09.480",
-    "text" : "How does she say, yes, I want to."
-  },
-  {
-    "timestamp" : "22:09.480-22:10.900",
-    "text" : "Listen to her answer."
-  },
-  {
-    "timestamp" : "22:10.900-22:12.600",
-    "text" : "Oui, je veux bien."
-  },
-  {
-    "text" : "Listen again and repeat her answer, which is made up of words you already know.",
-    "timestamp" : "22:12.600-22:18.000"
-  },
-  {
-    "text" : "It means, I'd like to, or I accept.",
-    "timestamp" : "22:18.000-22:21.560"
-  },
-  {
-    "text" : "Oui, je veux bien.",
-    "timestamp" : "22:21.560-22:23.540"
-  },
-  {
-    "timestamp" : "22:26.680-22:27.120",
-    "text" : "Bien."
-  },
-  {
-    "timestamp" : "22:27.120-22:27.160",
-    "text" : "Bien."
-  },
-  {
-    "text" : "Bien.",
-    "timestamp" : "22:27.160-22:27.180"
-  },
-  {
-    "timestamp" : "22:27.180-22:29.120",
-    "text" : "Bien."
-  },
-  {
-    "text" : "Bien.",
-    "timestamp" : "22:29.120-22:29.600"
-  },
-  {
-    "text" : "Je veux bien.",
-    "timestamp" : "22:29.600-22:33.060"
-  },
-  {
-    "text" : "How does she say, yes, I want to?",
-    "timestamp" : "22:33.060-22:38.020"
-  },
-  {
-    "text" : "Oui, je veux bien.",
-    "timestamp" : "22:38.020-22:41.760"
-  },
-  {
-    "timestamp" : "22:41.760-22:45.340",
-    "text" : "Je veux bien."
-  },
-  {
-    "text" : "Say to her, very good, very good.",
-    "timestamp" : "22:45.340-22:49.920"
-  },
-  {
-    "text" : "Très bien.",
-    "timestamp" : "22:53.920-22:54.400"
-  },
-  {
-    "timestamp" : "22:54.400-22:54.400",
-    "text" : "Très bien."
-  },
-  {
-    "text" : "How does she add?",
-    "timestamp" : "22:54.400-23:00.220"
-  },
-  {
-    "text" : "But I would like to eat something also.",
-    "timestamp" : "23:00.220-23:02.220"
-  },
-  {
-    "timestamp" : "23:02.220-23:09.160",
-    "text" : "Mais je voudrais aussi manger quelque chose."
-  },
-  {
-    "text" : "Mais je voudrais aussi manger quelque chose.",
-    "timestamp" : "23:09.160-23:16.300"
-  },
-  {
-    "text" : "Tell her, yes, miss, later.",
-    "timestamp" : "23:21.380-23:23.660"
-  },
-  {
-    "timestamp" : "23:23.660-23:29.100",
-    "text" : "Oui, mademoiselle, plus tard."
-  },
-  {
-    "text" : "How does she thank you?",
-    "timestamp" : "23:29.100-23:34.020"
-  },
-  {
-    "text" : "Merci, monsieur.",
-    "timestamp" : "23:34.020-23:37.180"
-  },
-  {
-    "text" : "Now try this conversation.",
-    "timestamp" : "23:37.180-23:41.080"
-  },
-  {
-    "text" : "You and a friend are discussing some plans for the evening.",
-    "timestamp" : "23:41.080-23:44.420"
-  },
-  {
-    "timestamp" : "23:44.420-23:47.820",
-    "text" : "How does she ask you, would you like to drink something?"
-  },
-  {
-    "text" : "Est-ce que vous voudriez boire quelque chose?",
-    "timestamp" : "23:47.820-23:54.480"
-  },
-  {
-    "text" : "Say, I don't know.",
-    "timestamp" : "23:54.480-24:00.540"
-  },
-  {
-    "timestamp" : "24:00.540-24:03.560",
-    "text" : "Je ne sais pas."
-  },
-  {
-    "timestamp" : "24:03.560-24:09.300",
-    "text" : "Now say, no thanks, but I would like to eat something."
-  },
-  {
-    "timestamp" : "24:14.820-24:17.540",
-    "text" : "Non merci, mais je voudrais manger quelque chose."
-  },
-  {
-    "timestamp" : "24:17.540-24:25.500",
-    "text" : "She asks, where would you like to eat?"
-  },
-  {
-    "text" : "Où est-ce que vous voudriez manger?",
-    "timestamp" : "24:29.500-24:31.020"
-  },
-  {
-    "text" : "Answer, at your place.",
-    "timestamp" : "24:31.020-24:37.320"
-  },
-  {
-    "timestamp" : "24:37.320-24:39.980",
-    "text" : "Chez vous."
-  },
-  {
-    "timestamp" : "24:39.980-24:43.740",
-    "text" : "Ask, at my place?"
-  },
-  {
-    "text" : "Chez moi?",
-    "timestamp" : "24:43.740-24:46.540"
-  },
-  {
-    "timestamp" : "24:46.540-24:53.960",
-    "text" : "Ask, and when would you like to drink something?"
-  },
-  {
-    "text" : "And when would you like to drink something?",
-    "timestamp" : "24:53.960-24:57.880"
-  },
-  {
-    "text" : "And when would you like to drink something?",
-    "timestamp" : "24:57.880-25:01.920"
-  },
-  {
-    "text" : "Answer, not now, later.",
-    "timestamp" : "25:01.920-25:09.600"
-  },
-  {
-    "text" : "Not now, later.",
-    "timestamp" : "25:09.600-25:15.080"
-  },
-  {
-    "timestamp" : "25:15.080-25:21.200",
-    "text" : "Ask the young woman when she would like to eat."
-  },
-  {
-    "text" : "When would you like to eat?",
-    "timestamp" : "25:21.200-25:26.640"
-  },
-  {
-    "text" : "How does she answer?",
-    "timestamp" : "25:26.640-25:31.600"
-  },
-  {
-    "text" : "Not now, later, please.",
-    "timestamp" : "25:31.600-25:33.720"
-  },
-  {
-    "text" : "Ask her, where?",
-    "timestamp" : "25:38.760-25:47.460"
-  },
-  {
-    "timestamp" : "25:47.460-25:49.680",
-    "text" : "Où?"
-  },
-  {
-    "text" : "How does she answer, at my place?",
-    "timestamp" : "25:49.680-25:53.640"
-  },
-  {
-    "timestamp" : "25:53.640-25:56.460",
-    "text" : "Chez moi."
-  },
-  {
-    "text" : "Say, not at your place, at my place.",
-    "timestamp" : "25:56.460-26:01.560"
-  },
-  {
-    "timestamp" : "26:05.160-26:06.780",
-    "text" : "Pas chez vous, chez moi."
-  },
-  {
-    "timestamp" : "26:06.780-26:12.460",
-    "text" : "How does she tell you she would like to drink something?"
-  },
-  {
-    "text" : "Je voudrais boire quelque chose.",
-    "timestamp" : "26:12.460-26:17.640"
-  },
-  {
-    "text" : "Say, me too.",
-    "timestamp" : "26:17.640-26:22.680"
-  },
-  {
-    "text" : "Moi aussi.",
-    "timestamp" : "26:22.680-26:25.560"
-  },
-  {
-    "text" : "Ask her, when would you like to drink something?",
-    "timestamp" : "26:25.560-26:30.220"
-  },
-  {
-    "text" : "When would you like to drink something?",
-    "timestamp" : "26:30.840-26:35.320"
-  },
-  {
-    "timestamp" : "26:35.320-26:37.400",
-    "text" : "When would you like to drink something?"
-  },
-  {
-    "timestamp" : "26:37.400-26:43.780",
-    "text" : "Ask her, later?"
-  },
-  {
-    "text" : "Plus tard?",
-    "timestamp" : "26:43.780-26:47.040"
-  },
-  {
-    "text" : "How does she say, no, now?",
-    "timestamp" : "26:47.040-26:51.740"
-  },
-  {
-    "timestamp" : "26:51.740-26:55.480",
-    "text" : "Non, now."
-  },
-  {
-    "timestamp" : "26:58.520-27:01.740",
-    "text" : "Ask her, would you like to drink something at my place?"
-  },
-  {
-    "text" : "Est-ce que vous voudriez boire quelque chose chez moi?",
-    "timestamp" : "27:01.740-27:09.720"
-  },
-  {
-    "timestamp" : "27:09.720-27:17.860",
-    "text" : "How does she say, yes, I want to?"
-  },
-  {
-    "timestamp" : "27:17.860-27:21.940",
-    "text" : "Oui, je veux bien."
-  },
-  {
-    "text" : "Say to her, very good.",
-    "timestamp" : "27:25.080-27:26.820"
-  },
-  {
-    "timestamp" : "27:26.820-27:29.920",
-    "text" : "Très bien."
-  },
-  {
-    "timestamp" : "27:29.920-27:33.200",
-    "text" : "How does she add?"
-  },
-  {
-    "text" : "But I would like to eat something also.",
-    "timestamp" : "27:33.200-27:35.160"
-  },
-  {
-    "timestamp" : "27:35.160-27:41.900",
-    "text" : "Mais je voudrais aussi manger quelque chose."
-  },
-  {
-    "timestamp" : "27:41.900-27:48.640",
-    "text" : "Tell her, yes, later."
-  },
-  {
-    "text" : "Oui, plus tard.",
-    "timestamp" : "27:52.000-27:53.240"
-  },
-  {
-    "timestamp" : "27:53.240-27:58.420",
-    "text" : "How does she say, very well?"
-  },
-  {
-    "text" : "Très bien.",
-    "timestamp" : "27:58.420-28:01.120"
-  },
-  {
-    "text" : "This is the end of unit six.",
-    "timestamp" : "28:01.120-28:04.560"
-  },
-  {
-    "text" : "Thank you.",
-    "timestamp" : "28:04.560-28:34.540"
-  }
+    {
+        "timestamp": "00:00:00,439 --> 00:00:05,819",
+        "speaker": "Narrator",
+        "text": "This is unit six of Pimsleur's French one. Listen to this conversation."
+    },
+    {
+        "timestamp": "00:00:05,819 --> 00:00:07,779",
+        "speaker": "Male Speaker",
+        "text": "Bonjour Jacqueline."
+    },
+    {
+        "timestamp": "00:00:07,779 --> 00:00:09,699",
+        "speaker": "Female Speaker",
+        "text": "Bonjour Michel. Comment allez-vous?"
+    },
+    {
+        "timestamp": "00:00:09,699 --> 00:00:13,599",
+        "speaker": "Male Speaker",
+        "text": "Bien merci, mais je voudrais manger quelque chose et vous?"
+    },
+    {
+        "timestamp": "00:00:13,599 --> 00:00:16,000",
+        "speaker": "Female Speaker",
+        "text": "Oui, moi aussi, je voudrais manger quelque chose."
+    },
+    {
+        "timestamp": "00:00:16,000 --> 00:00:17,299",
+        "speaker": "Male Speaker",
+        "text": "Et boire?"
+    },
+    {
+        "timestamp": "00:00:17,299 --> 00:00:19,680",
+        "speaker": "Female Speaker",
+        "text": "Oui, je voudrais boire quelque chose aussi."
+    },
+    {
+        "timestamp": "00:00:19,680 --> 00:00:20,840",
+        "speaker": "Male Speaker",
+        "text": "Où?"
+    },
+    {
+        "timestamp": "00:00:20,840 --> 00:00:22,680",
+        "speaker": "Female Speaker",
+        "text": "Rue Saint-Jacques s'il vous plaît."
+    },
+    {
+        "timestamp": "00:00:22,680 --> 00:00:24,000",
+        "speaker": "Male Speaker",
+        "text": "Très bien."
+    },
+    {
+        "timestamp": "00:00:24,000 --> 00:00:24,859",
+        "speaker": "Narrator",
+        "text": "The word"
+    },
+    {
+        "timestamp": "00:00:24,859 --> 00:00:25,360",
+        "speaker": "Male Speaker",
+        "text": "Aussi"
+    },
+    {
+        "timestamp": "00:00:25,539 --> 00:00:33,459",
+        "speaker": "Narrator",
+        "text": "was used in the conversation. It means \"also\" or \"too\" as in the sense of \"me too.\" Listen again."
+    },
+    {
+        "timestamp": "00:00:33,459 --> 00:00:34,540",
+        "speaker": "Male Speaker",
+        "text": "Bonjour Jacqueline."
+    },
+    {
+        "timestamp": "00:00:34,540 --> 00:00:36,419",
+        "speaker": "Female Speaker",
+        "text": "Bonjour Michel. Comment allez-vous?"
+    },
+    {
+        "timestamp": "00:00:36,419 --> 00:00:40,399",
+        "speaker": "Male Speaker",
+        "text": "Bien merci, mais je voudrais manger quelque chose et vous?"
+    },
+    {
+        "timestamp": "00:00:40,399 --> 00:00:42,819",
+        "speaker": "Female Speaker",
+        "text": "Oui, moi aussi, je voudrais manger quelque chose."
+    },
+    {
+        "timestamp": "00:00:42,819 --> 00:00:44,040",
+        "speaker": "Male Speaker",
+        "text": "Et boire?"
+    },
+    {
+        "timestamp": "00:00:44,040 --> 00:00:46,459",
+        "speaker": "Female Speaker",
+        "text": "Oui, je voudrais boire quelque chose aussi."
+    },
+    {
+        "timestamp": "00:00:46,459 --> 00:00:47,479",
+        "speaker": "Male Speaker",
+        "text": "Où?"
+    },
+    {
+        "timestamp": "00:00:47,479 --> 00:00:49,159",
+        "speaker": "Female Speaker",
+        "text": "Rue Saint-Jacques s'il vous plaît."
+    },
+    {
+        "timestamp": "00:00:49,159 --> 00:00:50,559",
+        "speaker": "Male Speaker",
+        "text": "Très bien."
+    },
+    {
+        "timestamp": "00:00:50,559 --> 00:00:55,180",
+        "speaker": "Narrator",
+        "text": "Do you remember the word for \"street\" in French?"
+    },
+    {
+        "timestamp": "00:00:55,180 --> 00:00:57,879",
+        "speaker": "Female Speaker",
+        "text": "La rue."
+    },
+    {
+        "timestamp": "00:00:57,879 --> 00:01:00,539",
+        "speaker": "Female Speaker",
+        "text": "La rue."
+    },
+    {
+        "timestamp": "00:01:00,539 --> 00:01:01,439",
+        "speaker": "Narrator",
+        "text": "Say"
+    },
+    {
+        "timestamp": "00:01:01,439 --> 00:01:02,299",
+        "speaker": "Male Speaker",
+        "text": "Saint-Jacques"
+    },
+    {
+        "timestamp": "00:01:02,299 --> 00:01:05,819",
+        "speaker": "Narrator",
+        "text": "Street."
+    },
+    {
+        "timestamp": "00:01:05,819 --> 00:01:09,919",
+        "speaker": "Female Speaker",
+        "text": "La rue Saint-Jacques."
+    },
+    {
+        "timestamp": "00:01:09,919 --> 00:01:13,159",
+        "speaker": "Female Speaker",
+        "text": "Saint-Jacques."
+    },
+    {
+        "timestamp": "00:01:13,159 --> 00:01:16,360",
+        "speaker": "Female Speaker",
+        "text": "Saint-Jacques."
+    },
+    {
+        "timestamp": "00:01:16,360 --> 00:01:20,879",
+        "speaker": "Narrator",
+        "text": "Ask where this street is."
+    },
+    {
+        "timestamp": "00:01:20,879 --> 00:01:25,159",
+        "speaker": "Female Speaker",
+        "text": "Où est la rue Saint-Jacques?"
+    },
+    {
+        "timestamp": "00:01:25,159 --> 00:01:29,419",
+        "speaker": "Female Speaker",
+        "text": "Où est la rue Saint-Jacques?"
+    },
+    {
+        "timestamp": "00:01:29,419 --> 00:01:32,659",
+        "speaker": "Narrator",
+        "text": "\"It's here.\""
+    },
+    {
+        "timestamp": "00:01:32,659 --> 00:01:35,959",
+        "speaker": "Male Speaker",
+        "text": "C'est ici."
+    },
+    {
+        "timestamp": "00:01:35,959 --> 00:01:36,779",
+        "speaker": "Narrator",
+        "text": "Tell her that"
+    },
+    {
+        "timestamp": "00:01:36,779 --> 00:01:37,519",
+        "speaker": "Male Speaker",
+        "text": "Saint-Jacques"
+    },
+    {
+        "timestamp": "00:01:37,519 --> 00:01:44,619",
+        "speaker": "Narrator",
+        "text": "Street is not down there."
+    },
+    {
+        "timestamp": "00:01:44,619 --> 00:01:50,899",
+        "speaker": "Male Speaker",
+        "text": "La rue Saint-Jacques n'est pas là-bas."
+    },
+    {
+        "timestamp": "00:01:50,899 --> 00:01:57,119",
+        "speaker": "Male Speaker",
+        "text": "La rue Saint-Jacques n'est pas là-bas."
+    },
+    {
+        "timestamp": "00:01:57,119 --> 00:02:00,779",
+        "speaker": "Narrator",
+        "text": "Say \"please.\""
+    },
+    {
+        "timestamp": "00:02:00,779 --> 00:02:04,059",
+        "speaker": "Female Speaker",
+        "text": "S'il vous plaît."
+    },
+    {
+        "timestamp": "00:02:04,059 --> 00:02:06,559",
+        "speaker": "Female Speaker",
+        "text": "S'il."
+    },
+    {
+        "timestamp": "00:02:06,559 --> 00:02:08,959",
+        "speaker": "Female Speaker",
+        "text": "S'il."
+    },
+    {
+        "timestamp": "00:02:08,959 --> 00:02:12,099",
+        "speaker": "Female Speaker",
+        "text": "S'il vous plaît."
+    },
+    {
+        "timestamp": "00:02:12,099 --> 00:02:13,619",
+        "speaker": "Narrator",
+        "text": "Ask \"and the.\""
+    },
+    {
+        "timestamp": "00:02:13,619 --> 00:02:18,520",
+        "speaker": "Male Speaker",
+        "text": "Boulevard Saint-Michel."
+    },
+    {
+        "timestamp": "00:02:18,520 --> 00:02:23,360",
+        "speaker": "Female Speaker",
+        "text": "Est le Boulevard Saint-Michel?"
+    },
+    {
+        "timestamp": "00:02:23,360 --> 00:02:28,179",
+        "speaker": "Female Speaker",
+        "text": "Est le Boulevard Saint-Michel?"
+    },
+    {
+        "timestamp": "00:02:28,179 --> 00:02:31,860",
+        "speaker": "Narrator",
+        "text": "Answer, \"it's down there.\""
+    },
+    {
+        "timestamp": "00:02:31,860 --> 00:02:34,599",
+        "speaker": "Male Speaker",
+        "text": "C'est là-bas."
+    },
+    {
+        "timestamp": "00:02:34,599 --> 00:02:37,119",
+        "speaker": "Male Speaker",
+        "text": "Là-bas."
+    },
+    {
+        "timestamp": "00:02:37,119 --> 00:02:39,639",
+        "speaker": "Male Speaker",
+        "text": "Là-bas."
+    },
+    {
+        "timestamp": "00:02:39,639 --> 00:02:42,300",
+        "speaker": "Male Speaker",
+        "text": "C'est là-bas."
+    },
+    {
+        "timestamp": "00:02:42,300 --> 00:02:45,940",
+        "speaker": "Narrator",
+        "text": "Ask whether it's here."
+    },
+    {
+        "timestamp": "00:02:45,940 --> 00:02:49,479",
+        "speaker": "Female Speaker",
+        "text": "Est-ce que c'est ici?"
+    },
+    {
+        "timestamp": "00:02:49,479 --> 00:02:53,080",
+        "speaker": "Female Speaker",
+        "text": "Est-ce que c'est ici?"
+    },
+    {
+        "timestamp": "00:02:53,080 --> 00:02:57,519",
+        "speaker": "Narrator",
+        "text": "Say: \"No, it's not here.\""
+    },
+    {
+        "timestamp": "00:02:57,519 --> 00:03:01,559",
+        "speaker": "Male Speaker",
+        "text": "Non, ce n'est pas ici."
+    },
+    {
+        "timestamp": "00:03:01,559 --> 00:03:05,399",
+        "speaker": "Male Speaker",
+        "text": "Non, ce n'est pas ici."
+    },
+    {
+        "timestamp": "00:03:05,399 --> 00:03:12,019",
+        "speaker": "Narrator",
+        "text": "Tell her St. Michael Boulevard is down there."
+    },
+    {
+        "timestamp": "00:03:12,019 --> 00:03:17,899",
+        "speaker": "Male Speaker",
+        "text": "Le boulevard Saint-Michel est là-bas."
+    },
+    {
+        "timestamp": "00:03:17,899 --> 00:03:23,860",
+        "speaker": "Male Speaker",
+        "text": "Le boulevard Saint-Michel est là-bas."
+    },
+    {
+        "timestamp": "00:03:23,860 --> 00:03:28,319",
+        "speaker": "Narrator",
+        "text": "Now say: \"You speak.\""
+    },
+    {
+        "timestamp": "00:03:28,319 --> 00:03:31,979",
+        "speaker": "Male Speaker",
+        "text": "Vous parlez?"
+    },
+    {
+        "timestamp": "00:03:31,979 --> 00:03:35,799",
+        "speaker": "Narrator",
+        "text": "\"You speak well.\""
+    },
+    {
+        "timestamp": "00:03:35,799 --> 00:03:39,659",
+        "speaker": "Male Speaker",
+        "text": "Vous parlez bien."
+    },
+    {
+        "timestamp": "00:03:39,659 --> 00:03:43,419",
+        "speaker": "Male Speaker",
+        "text": "Vous parlez bien."
+    },
+    {
+        "timestamp": "00:03:43,419 --> 00:03:47,659",
+        "speaker": "Narrator",
+        "text": "\"I understand a little.\""
+    },
+    {
+        "timestamp": "00:03:47,659 --> 00:03:51,899",
+        "speaker": "Female Speaker",
+        "text": "Je comprends un peu."
+    },
+    {
+        "timestamp": "00:03:51,899 --> 00:03:56,039",
+        "speaker": "Narrator",
+        "text": "And \"I speak a little.\""
+    },
+    {
+        "timestamp": "00:03:56,039 --> 00:04:00,159",
+        "speaker": "Female Speaker",
+        "text": "Et je parle un peu."
+    },
+    {
+        "timestamp": "00:04:00,159 --> 00:04:04,279",
+        "speaker": "Female Speaker",
+        "text": "Et je parle un peu."
+    },
+    {
+        "timestamp": "00:04:04,279 --> 00:04:07,819",
+        "speaker": "Narrator",
+        "text": "How do you say \"you want\"?"
+    },
+    {
+        "timestamp": "00:04:07,819 --> 00:04:10,479",
+        "speaker": "Male Speaker",
+        "text": "Vous voulez?"
+    },
+    {
+        "timestamp": "00:04:10,479 --> 00:04:14,799",
+        "speaker": "Narrator",
+        "text": "Now say \"you would like\"."
+    },
+    {
+        "timestamp": "00:04:14,799 --> 00:04:18,220",
+        "speaker": "Male Speaker",
+        "text": "Vous voudriez."
+    },
+    {
+        "timestamp": "00:04:18,220 --> 00:04:20,739",
+        "speaker": "Male Speaker",
+        "text": "Voudriez."
+    },
+    {
+        "timestamp": "00:04:20,739 --> 00:04:23,940",
+        "speaker": "Male Speaker",
+        "text": "Vous voudriez."
+    },
+    {
+        "timestamp": "00:04:23,940 --> 00:04:29,040",
+        "speaker": "Narrator",
+        "text": "Say \"something\" in French."
+    },
+    {
+        "timestamp": "00:04:29,040 --> 00:04:32,940",
+        "speaker": "Female Speaker",
+        "text": "Quelque chose."
+    },
+    {
+        "timestamp": "00:04:32,940 --> 00:04:39,479",
+        "speaker": "Narrator",
+        "text": "Ask me if I would like to eat something."
+    },
+    {
+        "timestamp": "00:04:39,479 --> 00:04:46,279",
+        "speaker": "Male Speaker",
+        "text": "Est-ce que vous voudriez manger quelque chose?"
+    },
+    {
+        "timestamp": "00:04:46,279 --> 00:04:52,959",
+        "speaker": "Male Speaker",
+        "text": "Est-ce que vous voudriez manger quelque chose?"
+    },
+    {
+        "timestamp": "00:04:52,959 --> 00:04:57,600",
+        "speaker": "Narrator",
+        "text": "Yes, \"I would like to eat.\""
+    },
+    {
+        "timestamp": "00:04:57,600 --> 00:05:02,299",
+        "speaker": "Female Speaker",
+        "text": "Oui, je voudrais manger."
+    },
+    {
+        "timestamp": "00:05:02,299 --> 00:05:04,779",
+        "speaker": "Female Speaker",
+        "text": "Voudrais."
+    },
+    {
+        "timestamp": "00:05:04,779 --> 00:05:09,779",
+        "speaker": "Narrator",
+        "text": "\"I would like to eat something.\""
+    },
+    {
+        "timestamp": "00:05:09,779 --> 00:05:15,179",
+        "speaker": "Female Speaker",
+        "text": "Je voudrais manger quelque chose."
+    },
+    {
+        "timestamp": "00:05:15,179 --> 00:05:20,559",
+        "speaker": "Female Speaker",
+        "text": "Je voudrais manger quelque chose."
+    },
+    {
+        "timestamp": "00:05:20,559 --> 00:05:26,559",
+        "speaker": "Narrator",
+        "text": "Ask me if I would like to drink something."
+    },
+    {
+        "timestamp": "00:05:26,559 --> 00:05:32,779",
+        "speaker": "Male Speaker",
+        "text": "Est-ce que vous voudriez boire quelque chose?"
+    },
+    {
+        "timestamp": "00:05:32,779 --> 00:05:38,519",
+        "speaker": "Male Speaker",
+        "text": "Est-ce que vous voudriez boire quelque chose?"
+    },
+    {
+        "timestamp": "00:05:38,519 --> 00:05:43,940",
+        "speaker": "Narrator",
+        "text": "Answer in the affirmative."
+    },
+    {
+        "timestamp": "00:05:43,940 --> 00:05:49,479",
+        "speaker": "Female Speaker",
+        "text": "Oui, je voudrais boire quelque chose."
+    },
+    {
+        "timestamp": "00:05:49,479 --> 00:05:52,160",
+        "speaker": "Female Speaker",
+        "text": "Boire."
+    },
+    {
+        "timestamp": "00:05:52,160 --> 00:05:54,979",
+        "speaker": "Female Speaker",
+        "text": "Je voudrais."
+    },
+    {
+        "timestamp": "00:05:54,979 --> 00:05:57,779",
+        "speaker": "Female Speaker",
+        "text": "Je voudrais."
+    },
+    {
+        "timestamp": "00:05:57,779 --> 00:05:59,439",
+        "speaker": "Female Speaker",
+        "text": "Oui, je voudrais boire quelque chose."
+    },
+    {
+        "timestamp": "00:06:03,670 --> 00:06:07,129",
+        "speaker": "Narrator",
+        "text": "Answer negatively."
+    },
+    {
+        "timestamp": "00:06:07,129 --> 00:06:10,169",
+        "speaker": "Female Speaker",
+        "text": "Non, merci."
+    },
+    {
+        "timestamp": "00:06:10,169 --> 00:06:13,189",
+        "speaker": "Female Speaker",
+        "text": "Non, merci."
+    },
+    {
+        "timestamp": "00:06:13,189 --> 00:06:20,889",
+        "speaker": "Narrator",
+        "text": "Ask me if I would like something to eat."
+    },
+    {
+        "timestamp": "00:06:20,889 --> 00:06:28,790",
+        "speaker": "Male Speaker",
+        "text": "Est-ce que vous voudriez manger quelque chose?"
+    },
+    {
+        "timestamp": "00:06:28,790 --> 00:06:32,229",
+        "speaker": "Male Speaker",
+        "text": "Quelque chose."
+    },
+    {
+        "timestamp": "00:06:32,229 --> 00:06:38,509",
+        "speaker": "Male Speaker",
+        "text": "Est-ce que vous voudriez manger quelque chose?"
+    },
+    {
+        "timestamp": "00:06:38,509 --> 00:06:44,129",
+        "speaker": "Narrator",
+        "text": "Say: \"Yes, I would like to eat something.\""
+    },
+    {
+        "timestamp": "00:06:44,129 --> 00:06:49,550",
+        "speaker": "Female Speaker",
+        "text": "Oui, je voudrais manger quelque chose."
+    },
+    {
+        "timestamp": "00:06:49,550 --> 00:06:54,989",
+        "speaker": "Female Speaker",
+        "text": "Oui, je voudrais manger quelque chose."
+    },
+    {
+        "timestamp": "00:06:54,989 --> 00:07:03,050",
+        "speaker": "Narrator",
+        "text": "Say: \"No, thank you, but I would like to drink something.\""
+    },
+    {
+        "timestamp": "00:07:03,050 --> 00:07:11,030",
+        "speaker": "Female Speaker",
+        "text": "Non merci, mais je voudrais boire quelque chose."
+    },
+    {
+        "timestamp": "00:07:11,030 --> 00:07:19,009",
+        "speaker": "Female Speaker",
+        "text": "Non merci, mais je voudrais boire quelque chose."
+    },
+    {
+        "timestamp": "00:07:19,009 --> 00:07:24,530",
+        "speaker": "Narrator",
+        "text": "Say: \"I don't understand.\""
+    },
+    {
+        "timestamp": "00:07:24,530 --> 00:07:28,729",
+        "speaker": "Male Speaker",
+        "text": "Je ne comprends pas."
+    },
+    {
+        "timestamp": "00:07:28,729 --> 00:07:30,129",
+        "speaker": "Narrator",
+        "text": "Ask me again where-"
+    },
+    {
+        "timestamp": "00:07:30,129 --> 00:07:31,009",
+        "speaker": "Male Speaker",
+        "text": "Saint-Jacques"
+    },
+    {
+        "timestamp": "00:07:31,009 --> 00:07:36,109",
+        "speaker": "Narrator",
+        "text": "Street is."
+    },
+    {
+        "timestamp": "00:07:36,109 --> 00:07:41,869",
+        "speaker": "Female Speaker",
+        "text": "Où est la rue Saint-Jacques, s'il vous plaît?"
+    },
+    {
+        "timestamp": "00:07:41,869 --> 00:07:46,890",
+        "speaker": "Female Speaker",
+        "text": "Où est la rue Saint-Jacques, s'il vous plaît?"
+    },
+    {
+        "timestamp": "00:07:46,890 --> 00:07:50,589",
+        "speaker": "Narrator",
+        "text": "Answer: \"I don't know.\""
+    },
+    {
+        "timestamp": "00:07:50,589 --> 00:07:53,729",
+        "speaker": "Male Speaker",
+        "text": "Je ne sais pas."
+    },
+    {
+        "timestamp": "00:07:53,729 --> 00:07:56,809",
+        "speaker": "Male Speaker",
+        "text": "Je ne sais pas."
+    },
+    {
+        "timestamp": "00:07:56,809 --> 00:08:01,149",
+        "speaker": "Narrator",
+        "text": "Say: \"It's not here.\""
+    },
+    {
+        "timestamp": "00:08:01,149 --> 00:08:04,949",
+        "speaker": "Male Speaker",
+        "text": "Ce n'est pas ici."
+    },
+    {
+        "timestamp": "00:08:04,949 --> 00:08:08,689",
+        "speaker": "Male Speaker",
+        "text": "Ce n'est pas ici."
+    },
+    {
+        "timestamp": "00:08:08,689 --> 00:08:13,830",
+        "speaker": "Narrator",
+        "text": "Say: \"And it's not down there.\""
+    },
+    {
+        "timestamp": "00:08:13,830 --> 00:08:18,190",
+        "speaker": "Male Speaker",
+        "text": "Et ce n'est pas là-bas."
+    },
+    {
+        "timestamp": "00:08:18,190 --> 00:08:22,509",
+        "speaker": "Male Speaker",
+        "text": "Et ce n'est pas là-bas."
+    },
+    {
+        "timestamp": "00:08:22,509 --> 00:08:29,309",
+        "speaker": "Narrator",
+        "text": "Once again, ask me if I would like to eat something."
+    },
+    {
+        "timestamp": "00:08:29,309 --> 00:08:35,769",
+        "speaker": "Male Speaker",
+        "text": "Est-ce que vous voudriez manger quelque chose?"
+    },
+    {
+        "timestamp": "00:08:35,769 --> 00:08:42,169",
+        "speaker": "Male Speaker",
+        "text": "Est-ce que vous voudriez manger quelque chose?"
+    },
+    {
+        "timestamp": "00:08:42,169 --> 00:08:48,289",
+        "speaker": "Narrator",
+        "text": "Say: \"Yes, I would like to eat something.\""
+    },
+    {
+        "timestamp": "00:08:48,289 --> 00:08:53,690",
+        "speaker": "Female Speaker",
+        "text": "Oui, je voudrais manger quelque chose."
+    },
+    {
+        "timestamp": "00:08:53,690 --> 00:08:59,129",
+        "speaker": "Female Speaker",
+        "text": "Oui, je voudrais manger quelque chose."
+    },
+    {
+        "timestamp": "00:08:59,129 --> 00:09:05,449",
+        "speaker": "Narrator",
+        "text": "And now try to ask: \"Where would you like to eat?\""
+    },
+    {
+        "timestamp": "00:09:05,449 --> 00:09:10,830",
+        "speaker": "Male Speaker",
+        "text": "Où est-ce que vous voudriez manger?"
+    },
+    {
+        "timestamp": "00:09:10,830 --> 00:09:16,129",
+        "speaker": "Male Speaker",
+        "text": "Où est-ce que vous voudriez manger?"
+    },
+    {
+        "timestamp": "00:09:16,129 --> 00:09:20,390",
+        "speaker": "Narrator",
+        "text": "Here's the answer: \"At my place.\" Listen and repeat."
+    },
+    {
+        "timestamp": "00:09:20,390 --> 00:09:23,089",
+        "speaker": "Female Speaker",
+        "text": "Chez moi."
+    },
+    {
+        "timestamp": "00:09:23,089 --> 00:09:25,149",
+        "speaker": "Female Speaker",
+        "text": "Chez."
+    },
+    {
+        "timestamp": "00:09:25,149 --> 00:09:27,149",
+        "speaker": "Female Speaker",
+        "text": "Chez."
+    },
+    {
+        "timestamp": "00:09:27,149 --> 00:09:29,809",
+        "speaker": "Female Speaker",
+        "text": "Chez moi."
+    },
+    {
+        "timestamp": "00:09:29,809 --> 00:09:32,569",
+        "speaker": "Female Speaker",
+        "text": "Chez moi."
+    },
+    {
+        "timestamp": "00:09:32,569 --> 00:09:36,409",
+        "speaker": "Narrator",
+        "text": "Say: \"At my place.\""
+    },
+    {
+        "timestamp": "00:09:36,409 --> 00:09:39,069",
+        "speaker": "Male Speaker",
+        "text": "Chez moi."
+    },
+    {
+        "timestamp": "00:09:39,069 --> 00:09:44,610",
+        "speaker": "Narrator",
+        "text": "Ask me where I would like to eat."
+    },
+    {
+        "timestamp": "00:09:44,610 --> 00:09:49,949",
+        "speaker": "Male Speaker",
+        "text": "Où est-ce que vous voudriez manger?"
+    },
+    {
+        "timestamp": "00:09:49,949 --> 00:09:55,309",
+        "speaker": "Male Speaker",
+        "text": "Où est-ce que vous voudriez manger?"
+    },
+    {
+        "timestamp": "00:09:55,309 --> 00:09:59,409",
+        "speaker": "Narrator",
+        "text": "Try to answer: \"At your place.\""
+    },
+    {
+        "timestamp": "00:09:59,409 --> 00:10:02,129",
+        "speaker": "Female Speaker",
+        "text": "Chez vous."
+    },
+    {
+        "timestamp": "00:10:02,129 --> 00:10:04,849",
+        "speaker": "Female Speaker",
+        "text": "Chez vous."
+    },
+    {
+        "timestamp": "00:10:04,849 --> 00:10:08,789",
+        "speaker": "Narrator",
+        "text": "Ask: \"At my place?\""
+    },
+    {
+        "timestamp": "00:10:08,789 --> 00:10:11,689",
+        "speaker": "Male Speaker",
+        "text": "Chez moi?"
+    },
+    {
+        "timestamp": "00:10:11,689 --> 00:10:15,689",
+        "speaker": "Narrator",
+        "text": "Yes, \"at your place.\""
+    },
+    {
+        "timestamp": "00:10:15,689 --> 00:10:19,129",
+        "speaker": "Female Speaker",
+        "text": "Oui, chez vous."
+    },
+    {
+        "timestamp": "00:10:19,129 --> 00:10:22,609",
+        "speaker": "Narrator",
+        "text": "Now listen and repeat the man's answer: \"Me too.\""
+    },
+    {
+        "timestamp": "00:10:22,609 --> 00:10:25,429",
+        "speaker": "Male Speaker",
+        "text": "Moi aussi."
+    },
+    {
+        "timestamp": "00:10:25,429 --> 00:10:27,509",
+        "speaker": "Male Speaker",
+        "text": "Aussi."
+    },
+    {
+        "timestamp": "00:10:27,509 --> 00:10:29,609",
+        "speaker": "Male Speaker",
+        "text": "Aussi."
+    },
+    {
+        "timestamp": "00:10:29,609 --> 00:10:32,470",
+        "speaker": "Male Speaker",
+        "text": "Moi aussi."
+    },
+    {
+        "timestamp": "00:10:32,470 --> 00:10:35,929",
+        "speaker": "Narrator",
+        "text": "Say: \"Me too.\""
+    },
+    {
+        "timestamp": "00:10:35,929 --> 00:10:38,809",
+        "speaker": "Male Speaker",
+        "text": "Moi aussi."
+    },
+    {
+        "timestamp": "00:10:38,809 --> 00:10:42,649",
+        "speaker": "Narrator",
+        "text": "Ask: \"At my place?\""
+    },
+    {
+        "timestamp": "00:10:42,649 --> 00:10:45,410",
+        "speaker": "Female Speaker",
+        "text": "Chez moi?"
+    },
+    {
+        "timestamp": "00:10:45,410 --> 00:10:48,190",
+        "speaker": "Female Speaker",
+        "text": "Chez moi?"
+    },
+    {
+        "timestamp": "00:10:48,190 --> 00:10:53,009",
+        "speaker": "Narrator",
+        "text": "Answer: \"Yes, at your place.\""
+    },
+    {
+        "timestamp": "00:10:53,009 --> 00:10:56,929",
+        "speaker": "Male Speaker",
+        "text": "Oui, chez vous."
+    },
+    {
+        "timestamp": "00:10:56,929 --> 00:11:00,910",
+        "speaker": "Male Speaker",
+        "text": "Oui, chez vous."
+    },
+    {
+        "timestamp": "00:11:00,910 --> 00:11:07,229",
+        "speaker": "Narrator",
+        "text": "Now try to say: \"I would like to eat too.\""
+    },
+    {
+        "timestamp": "00:11:07,229 --> 00:11:12,149",
+        "speaker": "Female Speaker",
+        "text": "Je voudrais manger aussi."
+    },
+    {
+        "timestamp": "00:11:12,149 --> 00:11:16,910",
+        "speaker": "Female Speaker",
+        "text": "Je voudrais manger aussi."
+    },
+    {
+        "timestamp": "00:11:16,910 --> 00:11:19,989",
+        "speaker": "Narrator",
+        "text": "Listen and repeat the question: \"When?\""
+    },
+    {
+        "timestamp": "00:11:19,989 --> 00:11:21,970",
+        "speaker": "Male Speaker",
+        "text": "Quand?"
+    },
+    {
+        "timestamp": "00:11:21,970 --> 00:11:23,929",
+        "speaker": "Male Speaker",
+        "text": "Quand?"
+    },
+    {
+        "timestamp": "00:11:23,929 --> 00:11:25,929",
+        "speaker": "Male Speaker",
+        "text": "Quand?"
+    },
+    {
+        "timestamp": "00:11:25,929 --> 00:11:28,389",
+        "speaker": "Narrator",
+        "text": "Ask me: \"When?\""
+    },
+    {
+        "timestamp": "00:11:28,389 --> 00:11:30,369",
+        "speaker": "Male Speaker",
+        "text": "Quand?"
+    },
+    {
+        "timestamp": "00:11:30,369 --> 00:11:34,429",
+        "speaker": "Narrator",
+        "text": "Say: \"I don't know.\""
+    },
+    {
+        "timestamp": "00:11:34,429 --> 00:11:37,929",
+        "speaker": "Female Speaker",
+        "text": "Je ne sais pas."
+    },
+    {
+        "timestamp": "00:11:37,929 --> 00:11:41,350",
+        "speaker": "Female Speaker",
+        "text": "Je ne sais pas."
+    },
+    {
+        "timestamp": "00:11:41,350 --> 00:11:45,630",
+        "speaker": "Narrator",
+        "text": "Here's the answer: \"Now.\" Listen and repeat."
+    },
+    {
+        "timestamp": "00:11:45,630 --> 00:11:48,470",
+        "speaker": "Male Speaker",
+        "text": "Maintenant."
+    },
+    {
+        "timestamp": "00:11:48,470 --> 00:11:51,489",
+        "speaker": "Male Speaker",
+        "text": "Nant."
+    },
+    {
+        "timestamp": "00:11:51,489 --> 00:11:54,309",
+        "speaker": "Male Speaker",
+        "text": "Nant."
+    },
+    {
+        "timestamp": "00:11:54,309 --> 00:11:57,069",
+        "speaker": "Male Speaker",
+        "text": "Mainte-"
+    },
+    {
+        "timestamp": "00:11:57,069 --> 00:11:58,415",
+        "speaker": "Male Speaker",
+        "text": "Mainte-"
+    },
+    {
+        "timestamp": "00:11:58,415 --> 00:12:02,849",
+        "speaker": "Male Speaker",
+        "text": "Maintenant."
+    },
+    {
+        "timestamp": "00:12:02,849 --> 00:12:05,729",
+        "speaker": "Male Speaker",
+        "text": "Maintenant."
+    },
+    {
+        "timestamp": "00:12:05,729 --> 00:12:09,169",
+        "speaker": "Narrator",
+        "text": "Say: \"Now.\""
+    },
+    {
+        "timestamp": "00:12:09,169 --> 00:12:09,789",
+        "speaker": "Male Speaker",
+        "text": "Maintenant."
+    },
+    {
+        "timestamp": "00:12:12,195 --> 00:12:18,096",
+        "speaker": "Narrator",
+        "text": "Ask: \"Where would you like to eat?\""
+    },
+    {
+        "timestamp": "00:12:18,096 --> 00:12:23,616",
+        "speaker": "Female Speaker",
+        "text": "Où est-ce que vous voudriez manger?"
+    },
+    {
+        "timestamp": "00:12:23,616 --> 00:12:29,255",
+        "speaker": "Female Speaker",
+        "text": "Où est-ce que vous voudriez manger?"
+    },
+    {
+        "timestamp": "00:12:29,255 --> 00:12:32,815",
+        "speaker": "Narrator",
+        "text": "Ask: \"When?\""
+    },
+    {
+        "timestamp": "00:12:32,815 --> 00:12:35,515",
+        "speaker": "Female Speaker",
+        "text": "Quand?"
+    },
+    {
+        "timestamp": "00:12:35,515 --> 00:12:38,155",
+        "speaker": "Female Speaker",
+        "text": "Quand?"
+    },
+    {
+        "timestamp": "00:12:38,155 --> 00:12:44,956",
+        "speaker": "Narrator",
+        "text": "Now listen and repeat the question: \"When would you like to eat?\" Listen especially for the disappearing sound on the end of-"
+    },
+    {
+        "timestamp": "00:12:44,956 --> 00:12:46,555",
+        "speaker": "Male Speaker",
+        "text": "Quand."
+    },
+    {
+        "timestamp": "00:12:46,555 --> 00:12:52,695",
+        "speaker": "Female Speaker",
+        "text": "Quand est-ce que vous voudriez manger?"
+    },
+    {
+        "timestamp": "00:12:52,695 --> 00:12:58,695",
+        "speaker": "Female Speaker",
+        "text": "Quand est-ce que vous voudriez manger?"
+    },
+    {
+        "timestamp": "00:12:58,695 --> 00:13:04,895",
+        "speaker": "Female Speaker",
+        "text": "Quand est-ce que vous voudriez manger?"
+    },
+    {
+        "timestamp": "00:13:04,895 --> 00:13:07,775",
+        "speaker": "Narrator",
+        "text": "That seems like a disappearing T on the end of"
+    },
+    {
+        "timestamp": "00:13:07,775 --> 00:13:08,092",
+        "speaker": "Male Speaker",
+        "text": "quand"
+    },
+    {
+        "timestamp": "00:13:08,092 --> 00:13:14,875",
+        "speaker": "Narrator",
+        "text": ", doesn't it? Actually, the word happens to be spelled with a D, but it's pronounced more like a T."
+    },
+    {
+        "timestamp": "00:13:14,875 --> 00:13:21,675",
+        "speaker": "Narrator",
+        "text": "Now, once again, ask me when I would like to eat."
+    },
+    {
+        "timestamp": "00:13:21,675 --> 00:13:27,296",
+        "speaker": "Female Speaker",
+        "text": "Quand est-ce que vous voudriez manger?"
+    },
+    {
+        "timestamp": "00:13:27,296 --> 00:13:33,016",
+        "speaker": "Female Speaker",
+        "text": "Quand est-ce que vous voudriez manger?"
+    },
+    {
+        "timestamp": "00:13:33,016 --> 00:13:36,495",
+        "speaker": "Narrator",
+        "text": "Answer: \"Now.\""
+    },
+    {
+        "timestamp": "00:13:36,495 --> 00:13:39,355",
+        "speaker": "Male Speaker",
+        "text": "Maintenant."
+    },
+    {
+        "timestamp": "00:13:39,355 --> 00:13:43,035",
+        "speaker": "Narrator",
+        "text": "Say: \"Me too.\""
+    },
+    {
+        "timestamp": "00:13:43,035 --> 00:13:46,175",
+        "speaker": "Female Speaker",
+        "text": "Moi aussi."
+    },
+    {
+        "timestamp": "00:13:46,175 --> 00:13:49,355",
+        "speaker": "Female Speaker",
+        "text": "Moi aussi."
+    },
+    {
+        "timestamp": "00:13:49,355 --> 00:13:55,535",
+        "speaker": "Narrator",
+        "text": "Ask: \"When would you like to eat?\""
+    },
+    {
+        "timestamp": "00:13:55,535 --> 00:14:01,336",
+        "speaker": "Female Speaker",
+        "text": "Quand est-ce que vous voudriez manger?"
+    },
+    {
+        "timestamp": "00:14:01,336 --> 00:14:07,095",
+        "speaker": "Female Speaker",
+        "text": "Quand est-ce que vous voudriez manger?"
+    },
+    {
+        "timestamp": "00:14:07,095 --> 00:14:11,175",
+        "speaker": "Narrator",
+        "text": "Try to say: \"Not now.\""
+    },
+    {
+        "timestamp": "00:14:11,175 --> 00:14:14,415",
+        "speaker": "Male Speaker",
+        "text": "Pas maintenant."
+    },
+    {
+        "timestamp": "00:14:14,415 --> 00:14:17,695",
+        "speaker": "Male Speaker",
+        "text": "Pas maintenant."
+    },
+    {
+        "timestamp": "00:14:17,695 --> 00:14:23,215",
+        "speaker": "Narrator",
+        "text": "Here is the answer: \"Later.\" Literally, it means: \"more late.\" Listen and repeat."
+    },
+    {
+        "timestamp": "00:14:23,215 --> 00:14:26,276",
+        "speaker": "Male Speaker",
+        "text": "Plus tard."
+    },
+    {
+        "timestamp": "00:14:26,276 --> 00:14:29,196",
+        "speaker": "Male Speaker",
+        "text": "Tard."
+    },
+    {
+        "timestamp": "00:14:29,196 --> 00:14:31,955",
+        "speaker": "Male Speaker",
+        "text": "Tard."
+    },
+    {
+        "timestamp": "00:14:31,955 --> 00:14:34,696",
+        "speaker": "Male Speaker",
+        "text": "Plus."
+    },
+    {
+        "timestamp": "00:14:34,696 --> 00:14:37,395",
+        "speaker": "Male Speaker",
+        "text": "Plus."
+    },
+    {
+        "timestamp": "00:14:37,395 --> 00:14:40,416",
+        "speaker": "Male Speaker",
+        "text": "Plus tard."
+    },
+    {
+        "timestamp": "00:14:40,416 --> 00:14:43,435",
+        "speaker": "Male Speaker",
+        "text": "Plus tard."
+    },
+    {
+        "timestamp": "00:14:43,435 --> 00:14:46,836",
+        "speaker": "Narrator",
+        "text": "Say: \"later.\""
+    },
+    {
+        "timestamp": "00:14:46,836 --> 00:14:49,795",
+        "speaker": "Male Speaker",
+        "text": "Plus tard."
+    },
+    {
+        "timestamp": "00:14:49,795 --> 00:14:56,616",
+        "speaker": "Narrator",
+        "text": "Ask: \"Would you like to drink something?\""
+    },
+    {
+        "timestamp": "00:14:56,616 --> 00:15:03,116",
+        "speaker": "Female Speaker",
+        "text": "Est-ce que vous voudriez boire quelque chose?"
+    },
+    {
+        "timestamp": "00:15:03,116 --> 00:15:09,595",
+        "speaker": "Female Speaker",
+        "text": "Est-ce que vous voudriez boire quelque chose?"
+    },
+    {
+        "timestamp": "00:15:09,595 --> 00:15:13,416",
+        "speaker": "Narrator",
+        "text": "Say: \"I don't know.\""
+    },
+    {
+        "timestamp": "00:15:13,416 --> 00:15:16,595",
+        "speaker": "Male Speaker",
+        "text": "Je ne sais pas."
+    },
+    {
+        "timestamp": "00:15:16,595 --> 00:15:25,295",
+        "speaker": "Narrator",
+        "text": "Say: \"No, thanks, but I would like to eat something.\""
+    },
+    {
+        "timestamp": "00:15:25,295 --> 00:15:34,315",
+        "speaker": "Male Speaker",
+        "text": "Non, merci, mais je voudrais manger quelque chose."
+    },
+    {
+        "timestamp": "00:15:34,315 --> 00:15:37,575",
+        "speaker": "Male Speaker",
+        "text": "Je voudrais."
+    },
+    {
+        "timestamp": "00:15:37,575 --> 00:15:40,696",
+        "speaker": "Male Speaker",
+        "text": "Je voudrais."
+    },
+    {
+        "timestamp": "00:15:40,696 --> 00:15:49,455",
+        "speaker": "Male Speaker",
+        "text": "Non, merci, mais je voudrais manger quelque chose."
+    },
+    {
+        "timestamp": "00:15:49,455 --> 00:15:54,855",
+        "speaker": "Narrator",
+        "text": "Say: \"I would like to eat something.\""
+    },
+    {
+        "timestamp": "00:15:54,855 --> 00:15:59,715",
+        "speaker": "Male Speaker",
+        "text": "Je voudrais manger quelque chose."
+    },
+    {
+        "timestamp": "00:15:59,715 --> 00:16:04,655",
+        "speaker": "Male Speaker",
+        "text": "Je voudrais manger quelque chose."
+    },
+    {
+        "timestamp": "00:16:04,655 --> 00:16:10,715",
+        "speaker": "Narrator",
+        "text": "Ask: \"Where would you like to eat?\""
+    },
+    {
+        "timestamp": "00:16:10,715 --> 00:16:16,235",
+        "speaker": "Female Speaker",
+        "text": "Où est-ce que vous voudriez manger?"
+    },
+    {
+        "timestamp": "00:16:16,235 --> 00:16:21,755",
+        "speaker": "Female Speaker",
+        "text": "Où est-ce que vous voudriez manger?"
+    },
+    {
+        "timestamp": "00:16:21,755 --> 00:16:25,555",
+        "speaker": "Narrator",
+        "text": "Answer: \"At your place.\""
+    },
+    {
+        "timestamp": "00:16:25,555 --> 00:16:28,195",
+        "speaker": "Male Speaker",
+        "text": "Chez vous."
+    },
+    {
+        "timestamp": "00:16:28,195 --> 00:16:30,836",
+        "speaker": "Male Speaker",
+        "text": "Chez vous."
+    },
+    {
+        "timestamp": "00:16:30,836 --> 00:16:38,436",
+        "speaker": "Narrator",
+        "text": "Ask: \"And when would you like to drink something?\""
+    },
+    {
+        "timestamp": "00:16:38,436 --> 00:16:46,015",
+        "speaker": "Female Speaker",
+        "text": "Et quand est-ce que vous voudriez boire quelque chose?"
+    },
+    {
+        "timestamp": "00:16:46,015 --> 00:16:50,276",
+        "speaker": "Female Speaker",
+        "text": "Boire quelque chose?"
+    },
+    {
+        "timestamp": "00:16:50,276 --> 00:16:57,195",
+        "speaker": "Female Speaker",
+        "text": "Et quand est-ce que vous voudriez boire quelque chose?"
+    },
+    {
+        "timestamp": "00:16:57,195 --> 00:17:00,996",
+        "speaker": "Narrator",
+        "text": "Answer: \"Not now.\""
+    },
+    {
+        "timestamp": "00:17:00,996 --> 00:17:04,075",
+        "speaker": "Male Speaker",
+        "text": "Pas maintenant."
+    },
+    {
+        "timestamp": "00:17:04,075 --> 00:17:07,195",
+        "speaker": "Male Speaker",
+        "text": "Pas maintenant."
+    },
+    {
+        "timestamp": "00:17:07,195 --> 00:17:11,116",
+        "speaker": "Narrator",
+        "text": "Answer: \"Later.\""
+    },
+    {
+        "timestamp": "00:17:11,116 --> 00:17:14,415",
+        "speaker": "Male Speaker",
+        "text": "Plus tard."
+    },
+    {
+        "timestamp": "00:17:14,415 --> 00:17:17,795",
+        "speaker": "Male Speaker",
+        "text": "Plus tard."
+    },
+    {
+        "timestamp": "00:17:17,795 --> 00:17:22,455",
+        "speaker": "Narrator",
+        "text": "Do you remember how to ask the question: \"where\"?"
+    },
+    {
+        "timestamp": "00:17:22,455 --> 00:17:25,195",
+        "speaker": "Male Speaker",
+        "text": "Où?"
+    },
+    {
+        "timestamp": "00:17:25,195 --> 00:17:27,975",
+        "speaker": "Male Speaker",
+        "text": "Où?"
+    },
+    {
+        "timestamp": "00:17:27,975 --> 00:17:31,795",
+        "speaker": "Narrator",
+        "text": "And the question: \"when\"?"
+    },
+    {
+        "timestamp": "00:17:31,795 --> 00:17:34,556",
+        "speaker": "Male Speaker",
+        "text": "Quand?"
+    },
+    {
+        "timestamp": "00:17:34,556 --> 00:17:37,276",
+        "speaker": "Male Speaker",
+        "text": "Quand?"
+    },
+    {
+        "timestamp": "00:17:37,276 --> 00:17:43,836",
+        "speaker": "Narrator",
+        "text": "Ask the young woman when she would like to eat."
+    },
+    {
+        "timestamp": "00:17:43,836 --> 00:17:49,735",
+        "speaker": "Male Speaker",
+        "text": "Quand est-ce que vous voudriez manger?"
+    },
+    {
+        "timestamp": "00:17:49,735 --> 00:17:56,216",
+        "speaker": "Male Speaker",
+        "text": "Quand est-ce que vous voudriez manger, mademoiselle?"
+    },
+    {
+        "timestamp": "00:17:56,216 --> 00:18:00,556",
+        "speaker": "Narrator",
+        "text": "Answer for her: \"Not now.\""
+    },
+    {
+        "timestamp": "00:18:00,556 --> 00:18:03,815",
+        "speaker": "Female Speaker",
+        "text": "Pas maintenant."
+    },
+    {
+        "timestamp": "00:18:03,815 --> 00:18:07,035",
+        "speaker": "Female Speaker",
+        "text": "Pas maintenant."
+    },
+    {
+        "timestamp": "00:18:07,035 --> 00:18:10,455",
+        "speaker": "Narrator",
+        "text": "Answer: \"Later.\""
+    },
+    {
+        "timestamp": "00:18:10,455 --> 00:18:13,515",
+        "speaker": "Female Speaker",
+        "text": "Plus tard."
+    },
+    {
+        "timestamp": "00:18:13,515 --> 00:18:16,455",
+        "speaker": "Female Speaker",
+        "text": "Plus tard."
+    },
+    {
+        "timestamp": "00:18:16,455 --> 00:18:17,876",
+        "speaker": "Narrator",
+        "text": "Say: \"Later, please.\""
+    },
+    {
+        "timestamp": "00:18:21,150 --> 00:18:25,349",
+        "speaker": "Female Speaker",
+        "text": "Plus tard, s'il vous plaît."
+    },
+    {
+        "timestamp": "00:18:25,349 --> 00:18:28,689",
+        "speaker": "Narrator",
+        "text": "Ask her: \"where?\""
+    },
+    {
+        "timestamp": "00:18:28,689 --> 00:18:31,129",
+        "speaker": "Male Speaker",
+        "text": "Où?"
+    },
+    {
+        "timestamp": "00:18:31,129 --> 00:18:36,089",
+        "speaker": "Narrator",
+        "text": "Where would you like to eat?"
+    },
+    {
+        "timestamp": "00:18:36,089 --> 00:18:41,589",
+        "speaker": "Male Speaker",
+        "text": "Où est-ce que vous voudriez manger?"
+    },
+    {
+        "timestamp": "00:18:41,589 --> 00:18:47,049",
+        "speaker": "Male Speaker",
+        "text": "Où est-ce que vous voudriez manger?"
+    },
+    {
+        "timestamp": "00:18:47,049 --> 00:18:51,609",
+        "speaker": "Narrator",
+        "text": "How did she answer: \"At my place\"?"
+    },
+    {
+        "timestamp": "00:18:51,609 --> 00:18:54,530",
+        "speaker": "Female Speaker",
+        "text": "Chez moi."
+    },
+    {
+        "timestamp": "00:18:54,530 --> 00:18:58,249",
+        "speaker": "Female Speaker",
+        "text": "Chez moi, Monsieur."
+    },
+    {
+        "timestamp": "00:18:58,249 --> 00:19:02,990",
+        "speaker": "Narrator",
+        "text": "Try to say: \"Not at your place.\""
+    },
+    {
+        "timestamp": "00:19:02,990 --> 00:19:06,150",
+        "speaker": "Male Speaker",
+        "text": "Pas chez vous."
+    },
+    {
+        "timestamp": "00:19:06,150 --> 00:19:09,389",
+        "speaker": "Male Speaker",
+        "text": "Pas chez vous."
+    },
+    {
+        "timestamp": "00:19:09,389 --> 00:19:13,349",
+        "speaker": "Narrator",
+        "text": "Say: \"At my place.\""
+    },
+    {
+        "timestamp": "00:19:13,349 --> 00:19:15,969",
+        "speaker": "Male Speaker",
+        "text": "Chez moi."
+    },
+    {
+        "timestamp": "00:19:15,969 --> 00:19:18,449",
+        "speaker": "Male Speaker",
+        "text": "Chez moi."
+    },
+    {
+        "timestamp": "00:19:18,449 --> 00:19:23,889",
+        "speaker": "Narrator",
+        "text": "How did she say emphatically: \"I don't want to\"?"
+    },
+    {
+        "timestamp": "00:19:23,889 --> 00:19:27,629",
+        "speaker": "Female Speaker",
+        "text": "Je ne veux pas."
+    },
+    {
+        "timestamp": "00:19:27,629 --> 00:19:30,190",
+        "speaker": "Female Speaker",
+        "text": "Veux."
+    },
+    {
+        "timestamp": "00:19:30,190 --> 00:19:32,650",
+        "speaker": "Female Speaker",
+        "text": "Veux."
+    },
+    {
+        "timestamp": "00:19:32,650 --> 00:19:36,289",
+        "speaker": "Female Speaker",
+        "text": "Je ne veux pas."
+    },
+    {
+        "timestamp": "00:19:36,289 --> 00:19:40,569",
+        "speaker": "Narrator",
+        "text": "Say: \"Me, I want to.\""
+    },
+    {
+        "timestamp": "00:19:40,569 --> 00:19:43,749",
+        "speaker": "Male Speaker",
+        "text": "Moi, je veux."
+    },
+    {
+        "timestamp": "00:19:43,749 --> 00:19:47,029",
+        "speaker": "Male Speaker",
+        "text": "Moi, je veux."
+    },
+    {
+        "timestamp": "00:19:47,029 --> 00:19:51,449",
+        "speaker": "Narrator",
+        "text": "Answer for her: \"Not me.\""
+    },
+    {
+        "timestamp": "00:19:51,449 --> 00:19:54,370",
+        "speaker": "Female Speaker",
+        "text": "Pas moi."
+    },
+    {
+        "timestamp": "00:19:54,370 --> 00:19:57,330",
+        "speaker": "Female Speaker",
+        "text": "Pas moi."
+    },
+    {
+        "timestamp": "00:19:57,330 --> 00:20:03,229",
+        "speaker": "Narrator",
+        "text": "How did she tell you she would like to drink something?"
+    },
+    {
+        "timestamp": "00:20:03,229 --> 00:20:08,429",
+        "speaker": "Female Speaker",
+        "text": "Je voudrais boire quelque chose."
+    },
+    {
+        "timestamp": "00:20:08,429 --> 00:20:13,949",
+        "speaker": "Female Speaker",
+        "text": "Je voudrais boire quelque chose."
+    },
+    {
+        "timestamp": "00:20:13,949 --> 00:20:17,650",
+        "speaker": "Narrator",
+        "text": "Say: \"Me too.\""
+    },
+    {
+        "timestamp": "00:20:17,650 --> 00:20:20,969",
+        "speaker": "Male Speaker",
+        "text": "Moi aussi."
+    },
+    {
+        "timestamp": "00:20:20,969 --> 00:20:24,169",
+        "speaker": "Male Speaker",
+        "text": "Moi aussi."
+    },
+    {
+        "timestamp": "00:20:24,169 --> 00:20:34,029",
+        "speaker": "Narrator",
+        "text": "\"I would like to drink something too.\" Say literally: \"I would like also to drink something.\""
+    },
+    {
+        "timestamp": "00:20:34,029 --> 00:20:40,510",
+        "speaker": "Male Speaker",
+        "text": "Je voudrais aussi boire quelque chose."
+    },
+    {
+        "timestamp": "00:20:40,510 --> 00:20:44,829",
+        "speaker": "Male Speaker",
+        "text": "Je voudrais aussi."
+    },
+    {
+        "timestamp": "00:20:44,829 --> 00:20:49,189",
+        "speaker": "Male Speaker",
+        "text": "Je voudrais aussi."
+    },
+    {
+        "timestamp": "00:20:49,189 --> 00:20:56,049",
+        "speaker": "Male Speaker",
+        "text": "Je voudrais aussi boire quelque chose."
+    },
+    {
+        "timestamp": "00:20:56,049 --> 00:21:03,469",
+        "speaker": "Narrator",
+        "text": "Ask her: \"When would you like to drink something?\""
+    },
+    {
+        "timestamp": "00:21:03,469 --> 00:21:10,590",
+        "speaker": "Male Speaker",
+        "text": "Quand est-ce que vous voudriez boire quelque chose?"
+    },
+    {
+        "timestamp": "00:21:10,590 --> 00:21:17,769",
+        "speaker": "Male Speaker",
+        "text": "Quand est-ce que vous voudriez boire quelque chose?"
+    },
+    {
+        "timestamp": "00:21:17,769 --> 00:21:21,349",
+        "speaker": "Narrator",
+        "text": "Ask her: \"Later?\""
+    },
+    {
+        "timestamp": "00:21:21,349 --> 00:21:24,370",
+        "speaker": "Male Speaker",
+        "text": "Plus tard?"
+    },
+    {
+        "timestamp": "00:21:24,370 --> 00:21:27,289",
+        "speaker": "Male Speaker",
+        "text": "Plus tard?"
+    },
+    {
+        "timestamp": "00:21:27,289 --> 00:21:31,989",
+        "speaker": "Narrator",
+        "text": "How did she say: \"No, now!\"?"
+    },
+    {
+        "timestamp": "00:21:31,989 --> 00:21:35,469",
+        "speaker": "Female Speaker",
+        "text": "Non, maintenant."
+    },
+    {
+        "timestamp": "00:21:35,469 --> 00:21:39,069",
+        "speaker": "Female Speaker",
+        "text": "Non, maintenant."
+    },
+    {
+        "timestamp": "00:21:39,069 --> 00:21:47,689",
+        "speaker": "Narrator",
+        "text": "Ask her: \"Would you like to drink something at my place?\""
+    },
+    {
+        "timestamp": "00:21:47,689 --> 00:21:55,709",
+        "speaker": "Male Speaker",
+        "text": "Est-ce que vous voudriez boire quelque chose chez moi?"
+    },
+    {
+        "timestamp": "00:21:55,709 --> 00:21:58,949",
+        "speaker": "Male Speaker",
+        "text": "Chez moi."
+    },
+    {
+        "timestamp": "00:21:58,949 --> 00:22:07,090",
+        "speaker": "Male Speaker",
+        "text": "Est-ce que vous voudriez boire quelque chose chez moi?"
+    },
+    {
+        "timestamp": "00:22:07,090 --> 00:22:11,669",
+        "speaker": "Narrator",
+        "text": "How did she say? \"Yes, I want to.\" Listen to her answer."
+    },
+    {
+        "timestamp": "00:22:11,669 --> 00:22:13,870",
+        "speaker": "Female Speaker",
+        "text": "Oui, je veux bien."
+    },
+    {
+        "timestamp": "00:22:13,870 --> 00:22:22,589",
+        "speaker": "Narrator",
+        "text": "Listen again and repeat her answer, which is made up of words you already know. It means: \"I'd like to,\" or, \"I accept.\""
+    },
+    {
+        "timestamp": "00:22:22,589 --> 00:22:26,669",
+        "speaker": "Female Speaker",
+        "text": "Oui, je veux bien."
+    },
+    {
+        "timestamp": "00:22:26,669 --> 00:22:29,049",
+        "speaker": "Female Speaker",
+        "text": "Bien."
+    },
+    {
+        "timestamp": "00:22:29,049 --> 00:22:32,389",
+        "speaker": "Female Speaker",
+        "text": "Veux bien."
+    },
+    {
+        "timestamp": "00:22:32,389 --> 00:22:35,889",
+        "speaker": "Female Speaker",
+        "text": "Je veux bien."
+    },
+    {
+        "timestamp": "00:22:35,889 --> 00:22:40,789",
+        "speaker": "Narrator",
+        "text": "How did she say? \"Yes, I want to.\""
+    },
+    {
+        "timestamp": "00:22:40,789 --> 00:22:44,590",
+        "speaker": "Female Speaker",
+        "text": "Oui, je veux bien."
+    },
+    {
+        "timestamp": "00:22:44,590 --> 00:22:47,709",
+        "speaker": "Female Speaker",
+        "text": "Je veux bien."
+    },
+    {
+        "timestamp": "00:22:47,709 --> 00:22:53,909",
+        "speaker": "Narrator",
+        "text": "Say to her: \"Very good. Very good.\""
+    },
+    {
+        "timestamp": "00:22:53,909 --> 00:22:59,349",
+        "speaker": "Male Speaker",
+        "text": "Très bien. Très bien."
+    },
+    {
+        "timestamp": "00:22:59,349 --> 00:23:07,329",
+        "speaker": "Narrator",
+        "text": "How did she add? \"But I would like to eat something also.\""
+    },
+    {
+        "timestamp": "00:23:07,329 --> 00:23:14,449",
+        "speaker": "Female Speaker",
+        "text": "Mais je voudrais aussi manger quelque chose."
+    },
+    {
+        "timestamp": "00:23:14,449 --> 00:23:21,590",
+        "speaker": "Female Speaker",
+        "text": "Mais je voudrais aussi manger quelque chose."
+    },
+    {
+        "timestamp": "00:23:21,590 --> 00:23:27,629",
+        "speaker": "Narrator",
+        "text": "Tell her: \"Yes, Miss. Later.\""
+    },
+    {
+        "timestamp": "00:23:27,629 --> 00:23:33,049",
+        "speaker": "Male Speaker",
+        "text": "Oui, mademoiselle. Plus tard."
+    },
+    {
+        "timestamp": "00:23:33,049 --> 00:23:36,449",
+        "speaker": "Narrator",
+        "text": "How did she thank you?"
+    },
+    {
+        "timestamp": "00:23:36,449 --> 00:23:39,769",
+        "speaker": "Female Speaker",
+        "text": "Merci, monsieur."
+    },
+    {
+        "timestamp": "00:23:39,769 --> 00:23:52,750",
+        "speaker": "Narrator",
+        "text": "Now try this conversation. You and a friend are discussing some plans for the evening. How did she ask you? \"Would you like to drink something?\""
+    },
+    {
+        "timestamp": "00:23:52,750 --> 00:23:58,989",
+        "speaker": "Female Speaker",
+        "text": "Est-ce que vous voudriez boire quelque chose?"
+    },
+    {
+        "timestamp": "00:23:58,989 --> 00:24:02,909",
+        "speaker": "Narrator",
+        "text": "Say: \"I don't know.\""
+    },
+    {
+        "timestamp": "00:24:02,909 --> 00:24:06,030",
+        "speaker": "Male Speaker",
+        "text": "Je ne sais pas."
+    },
+    {
+        "timestamp": "00:24:06,030 --> 00:24:14,949",
+        "speaker": "Narrator",
+        "text": "Now say: \"No, thanks. But I would like to eat something.\""
+    },
+    {
+        "timestamp": "00:24:14,949 --> 00:24:23,349",
+        "speaker": "Male Speaker",
+        "text": "Non merci. Mais je voudrais manger quelque chose."
+    },
+    {
+        "timestamp": "00:24:23,349 --> 00:24:25,549",
+        "speaker": "Narrator",
+        "text": "She asks: \"Where would you like to eat?\""
+    },
+    {
+        "timestamp": "00:24:29,727 --> 00:24:35,387",
+        "speaker": "Female Speaker",
+        "text": "Où est-ce que vous voudriez manger?"
+    },
+    {
+        "timestamp": "00:24:35,387 --> 00:24:39,507",
+        "speaker": "Narrator",
+        "text": "Answer: \"At your place.\""
+    },
+    {
+        "timestamp": "00:24:39,507 --> 00:24:42,187",
+        "speaker": "Male Speaker",
+        "text": "Chez vous."
+    },
+    {
+        "timestamp": "00:24:42,187 --> 00:24:46,048",
+        "speaker": "Narrator",
+        "text": "Ask: \"At my place?\""
+    },
+    {
+        "timestamp": "00:24:46,048 --> 00:24:48,807",
+        "speaker": "Female Speaker",
+        "text": "Chez moi?"
+    },
+    {
+        "timestamp": "00:24:48,807 --> 00:24:51,587",
+        "speaker": "Female Speaker",
+        "text": "Chez moi?"
+    },
+    {
+        "timestamp": "00:24:51,587 --> 00:24:59,667",
+        "speaker": "Narrator",
+        "text": "Ask: \"And when would you like to drink something?\""
+    },
+    {
+        "timestamp": "00:24:59,667 --> 00:25:07,628",
+        "speaker": "Female Speaker",
+        "text": "Et quand est-ce que vous voudriez boire quelque chose?"
+    },
+    {
+        "timestamp": "00:25:07,628 --> 00:25:13,547",
+        "speaker": "Narrator",
+        "text": "Answer: \"Not now, later.\""
+    },
+    {
+        "timestamp": "00:25:13,547 --> 00:25:19,167",
+        "speaker": "Male Speaker",
+        "text": "Pas maintenant, plus tard."
+    },
+    {
+        "timestamp": "00:25:19,167 --> 00:25:25,167",
+        "speaker": "Narrator",
+        "text": "Ask the young woman when she would like to eat."
+    },
+    {
+        "timestamp": "00:25:25,167 --> 00:25:30,788",
+        "speaker": "Male Speaker",
+        "text": "Quand est-ce que vous voudriez manger?"
+    },
+    {
+        "timestamp": "00:25:30,788 --> 00:25:38,868",
+        "speaker": "Narrator",
+        "text": "How does she answer? \"Not now. Later, please.\""
+    },
+    {
+        "timestamp": "00:25:38,868 --> 00:25:46,347",
+        "speaker": "Female Speaker",
+        "text": "Pas maintenant. Plus tard, s'il vous plaît."
+    },
+    {
+        "timestamp": "00:25:46,347 --> 00:25:49,367",
+        "speaker": "Narrator",
+        "text": "Ask her: \"Where?\""
+    },
+    {
+        "timestamp": "00:25:49,367 --> 00:25:51,508",
+        "speaker": "Male Speaker",
+        "text": "Où?"
+    },
+    {
+        "timestamp": "00:25:51,508 --> 00:25:55,947",
+        "speaker": "Narrator",
+        "text": "How does she answer: \"At my place\"?"
+    },
+    {
+        "timestamp": "00:25:55,947 --> 00:25:58,807",
+        "speaker": "Female Speaker",
+        "text": "Chez moi."
+    },
+    {
+        "timestamp": "00:25:58,807 --> 00:26:05,267",
+        "speaker": "Narrator",
+        "text": "Say: \"Not at your place. At my place.\""
+    },
+    {
+        "timestamp": "00:26:05,267 --> 00:26:10,387",
+        "speaker": "Male Speaker",
+        "text": "Pas chez vous. Chez moi."
+    },
+    {
+        "timestamp": "00:26:10,387 --> 00:26:16,247",
+        "speaker": "Narrator",
+        "text": "How does she tell you she would like to drink something?"
+    },
+    {
+        "timestamp": "00:26:16,247 --> 00:26:21,547",
+        "speaker": "Female Speaker",
+        "text": "Je voudrais boire quelque chose."
+    },
+    {
+        "timestamp": "00:26:21,547 --> 00:26:24,987",
+        "speaker": "Narrator",
+        "text": "Say: \"Me too.\""
+    },
+    {
+        "timestamp": "00:26:24,987 --> 00:26:27,968",
+        "speaker": "Male Speaker",
+        "text": "Moi aussi."
+    },
+    {
+        "timestamp": "00:26:27,968 --> 00:26:35,327",
+        "speaker": "Narrator",
+        "text": "Ask her: \"When would you like to drink something?\""
+    },
+    {
+        "timestamp": "00:26:35,327 --> 00:26:42,507",
+        "speaker": "Male Speaker",
+        "text": "Quand est-ce que vous voudriez boire quelque chose?"
+    },
+    {
+        "timestamp": "00:26:42,507 --> 00:26:46,408",
+        "speaker": "Narrator",
+        "text": "Ask her: \"Later?\""
+    },
+    {
+        "timestamp": "00:26:46,408 --> 00:26:49,647",
+        "speaker": "Male Speaker",
+        "text": "Plus tard?"
+    },
+    {
+        "timestamp": "00:26:49,647 --> 00:26:54,787",
+        "speaker": "Narrator",
+        "text": "How does she say? \"No, now.\""
+    },
+    {
+        "timestamp": "00:26:54,787 --> 00:26:58,647",
+        "speaker": "Female Speaker",
+        "text": "Non, maintenant."
+    },
+    {
+        "timestamp": "00:26:58,647 --> 00:27:07,527",
+        "speaker": "Narrator",
+        "text": "Ask her: \"Would you like to drink something at my place?\""
+    },
+    {
+        "timestamp": "00:27:07,527 --> 00:27:15,507",
+        "speaker": "Male Speaker",
+        "text": "Est-ce que vous voudriez boire quelque chose chez moi?"
+    },
+    {
+        "timestamp": "00:27:15,507 --> 00:27:20,987",
+        "speaker": "Narrator",
+        "text": "How does she say? \"Yes, I want to.\""
+    },
+    {
+        "timestamp": "00:27:20,987 --> 00:27:25,227",
+        "speaker": "Female Speaker",
+        "text": "Oui, je veux bien."
+    },
+    {
+        "timestamp": "00:27:25,227 --> 00:27:29,247",
+        "speaker": "Narrator",
+        "text": "Say to her: \"Very good.\""
+    },
+    {
+        "timestamp": "00:27:29,247 --> 00:27:32,307",
+        "speaker": "Male Speaker",
+        "text": "Très bien."
+    },
+    {
+        "timestamp": "00:27:32,307 --> 00:27:40,108",
+        "speaker": "Narrator",
+        "text": "How does she add? \"But I would like to eat something also.\""
+    },
+    {
+        "timestamp": "00:27:40,108 --> 00:27:46,927",
+        "speaker": "Female Speaker",
+        "text": "Mais je voudrais aussi manger quelque chose."
+    },
+    {
+        "timestamp": "00:27:46,927 --> 00:27:52,087",
+        "speaker": "Narrator",
+        "text": "Tell her: \"Yes, later.\""
+    },
+    {
+        "timestamp": "00:27:52,087 --> 00:27:56,667",
+        "speaker": "Male Speaker",
+        "text": "Oui, plus tard."
+    },
+    {
+        "timestamp": "00:27:56,667 --> 00:28:00,487",
+        "speaker": "Narrator",
+        "text": "How did she say? \"Very well.\""
+    },
+    {
+        "timestamp": "00:28:00,487 --> 00:28:03,147",
+        "speaker": "Female Speaker",
+        "text": "Très bien."
+    },
+    {
+        "timestamp": "00:28:03,147 --> 00:28:04,667",
+        "speaker": "Narrator",
+        "text": "This is the end of unit six."
+    }
 ]
