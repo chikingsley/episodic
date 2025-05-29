@@ -20,20 +20,6 @@ Why it works (educational lens)
 	•	Intrinsic motivation – Decoding = progress. Story advancement and mechanical access depend on comprehension, not XP bars.
 	•	Cognitive scaffolding – Only ~5 words are ever tested at once, preventing overload while still feeling substantial.
 
-⸻
-
-Translating these ideas into your app
-
-CoS idea	Lightweight adaptation for a real language-learning app
-Notebook with free-text guesses	Let users write their own gloss or pick an emoji/picture; keep the guess visible in future subtitles until validated.
-Drag-match validation spreads	Mini-comic panels: learners drag the Spanish word onto the picture; all correct → panels animate & lock.
-Radicals / visual morphology	Highlight prefixes (“re-”), suffixes (“-ment”), particles or Kana using consistent color or shape.
-Knowledge-gated gates	NPC won’t give the quest unless you say the politeness formula; speech-to-text checks pronunciation.
-Bilingual bridges	Show bilingual graffiti or AR signs that switch between the learner’s L1 and L2 on tap.
-Multi-floor progression	Theme each “floor” around a social context (market, hospital, party). Introduce one grammar target per floor, escalate stakes with a stealth or timed element.
-
-
-⸻
 
 Implementation quick hits for dev discussion
 	1.	Data model: Each lexeme = {id, glyph_img, target_script, canonical_L2, learner_guess, confirmed_bool, contexts:[...]}.
