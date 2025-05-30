@@ -1,334 +1,277 @@
 [
   {
-    "text" : "Now, as we've seen, there clearly are already many groups of words typically decided by word endings that you can easily identify as being of French origin.",
-    "timestamp" : "00:00.001-00:11.140"
+    "timestamp": "00:00:00,779 --> 00:00:17,479",
+    "speaker": "Paul Noble",
+    "text": "Now, as we've seen, there clearly are already many groups of words typically decided by word endings that you can easily identify as being of French origin. So words that end in I-O-N, words that end in A-B-L-E, I-B-L-E."
   },
   {
-    "text" : "So, words that end in ION, words that end in ABLE, IBLE.",
-    "timestamp" : "00:11.140-00:15.960"
+    "timestamp": "00:00:17,479 --> 00:00:20,420",
+    "speaker": "Paul Noble",
+    "text": "We've just had \"chamber,\" which in French becomes?"
   },
   {
-    "text" : "We've just had chamber, which in French becomes chambre.",
-    "timestamp" : "00:15.960-00:20.880"
+    "timestamp": "00:00:20,420 --> 00:00:22,299",
+    "speaker": "Marion",
+    "text": "\"Chambre.\""
   },
   {
-    "timestamp" : "00:20.880-00:24.240",
-    "text" : "And there are lots more groups."
+    "timestamp": "00:00:22,299 --> 00:00:32,399",
+    "speaker": "Paul Noble",
+    "text": "And there's, there are lots more groups. One of the ones I'm going to introduce now is particularly useful, especially if you want to make a comment about something."
   },
   {
-    "timestamp" : "00:24.240-00:30.900",
-    "text" : "One of the ones I'm going to introduce now is particularly useful, especially if you want to make a comment about something."
+    "timestamp": "00:00:32,399 --> 00:00:43,259",
+    "speaker": "Paul Noble",
+    "text": "This group of words come from words in English that end in \"ic\" and \"ical.\" That's words that end in I-C and I-C-A-L,"
   },
   {
-    "text" : "This group of words come from words in English that end in IC and ICLE.",
-    "timestamp" : "00:30.900-00:37.760"
+    "timestamp": "00:00:43,259 --> 00:00:46,579",
+    "speaker": "Paul Noble",
+    "text": "such as \"typical,\" for example."
   },
   {
-    "text" : "That's words that end in IC and ICAL, such as typical, for example.",
-    "timestamp" : "00:37.760-00:45.380"
+    "timestamp": "00:00:46,579 --> 00:00:51,419",
+    "speaker": "Paul Noble",
+    "text": "Now, these words in French are ever so slightly different,"
   },
   {
-    "timestamp" : "00:45.380-00:50.400",
-    "text" : "Now, these words in French are ever so slightly different."
+    "timestamp": "00:00:51,419 --> 00:00:59,999",
+    "speaker": "Paul Noble",
+    "text": "because instead, instead of ending in \"ical\" or \"ic,\" they all end in \"que\" in French."
   },
   {
-    "text" : "Because instead of ending in ICLE or IC, they all end in IC in French.",
-    "timestamp" : "00:51.000-00:58.840"
+    "timestamp": "00:00:59,999 --> 00:01:02,140",
+    "speaker": "Marion",
+    "text": "\"Que.\""
   },
   {
-    "text" : "IC",
-    "timestamp" : "00:58.840-01:00.420"
+    "timestamp": "00:01:02,140 --> 00:01:09,439",
+    "speaker": "Paul Noble",
+    "text": "So how do you think you would say \"typical\"? Get rid of the \"ical\" and replace it with \"que.\""
   },
   {
-    "text" : "So, how do you think you would say typical?",
-    "timestamp" : "01:00.420-01:04.280"
+    "timestamp": "00:01:09,439 --> 00:01:11,159",
+    "speaker": "Marion",
+    "text": "\"Typique.\""
   },
   {
-    "text" : "Get rid of the ICLE and replace it with IC.",
-    "timestamp" : "01:04.280-01:07.100"
+    "timestamp": "00:01:11,159 --> 00:01:14,959",
+    "speaker": "Paul Noble",
+    "text": "What about \"exotic\"?"
   },
   {
-    "text" : "Typique",
-    "timestamp" : "01:07.100-01:10.080"
+    "timestamp": "00:01:14,959 --> 00:01:16,740",
+    "speaker": "Marion",
+    "text": "\"Exotique.\""
   },
   {
-    "text" : "What about exotic?",
-    "timestamp" : "01:10.080-01:12.220"
+    "timestamp": "00:01:16,740 --> 00:01:19,640",
+    "speaker": "Paul Noble",
+    "text": "\"Political\"?"
   },
   {
-    "text" : "Exotique",
-    "timestamp" : "01:12.220-01:15.820"
+    "timestamp": "00:01:19,640 --> 00:01:22,560",
+    "speaker": "Marion",
+    "text": "\"Politique.\""
   },
   {
-    "timestamp" : "01:15.820-01:17.380",
-    "text" : "Political"
+    "timestamp": "00:01:22,560 --> 00:01:26,060",
+    "speaker": "Paul Noble",
+    "text": "The word for \"it is\" in French, \"it is,\" is?"
   },
   {
-    "text" : "Politique",
-    "timestamp" : "01:17.380-01:20.420"
+    "timestamp": "00:01:26,060 --> 00:01:27,539",
+    "speaker": "Marion",
+    "text": "\"C'est.\""
   },
   {
-    "timestamp" : "01:20.420-01:26.140",
-    "text" : "The word for it is in French, it is, is..."
+    "timestamp": "00:01:27,539 --> 00:01:29,859",
+    "speaker": "Marion",
+    "text": "\"C'est.\""
   },
   {
-    "timestamp" : "01:26.140-01:26.420",
-    "text" : "C'est"
+    "timestamp": "00:01:29,859 --> 00:01:36,900",
+    "speaker": "Paul Noble",
+    "text": "It's quite easy to pronounce. Um, we find a lot of English speakers will often pronounce it as something more like \"se,\""
   },
   {
-    "timestamp" : "01:26.420-01:27.840",
-    "text" : "C'est"
+    "timestamp": "00:01:36,900 --> 00:01:39,359",
+    "speaker": "Paul Noble",
+    "text": "but it's not exactly \"se,\" but more?"
   },
   {
-    "text" : "C'est",
-    "timestamp" : "01:27.840-01:27.920"
+    "timestamp": "00:01:39,359 --> 00:01:41,159",
+    "speaker": "Marion",
+    "text": "\"C'est.\""
   },
   {
-    "text" : "C'est",
-    "timestamp" : "01:27.920-01:29.840"
+    "timestamp": "00:01:41,159 --> 00:01:42,339",
+    "speaker": "Marion",
+    "text": "\"C'est.\""
   },
   {
-    "text" : "It's quite easy to pronounce.",
-    "timestamp" : "01:29.840-01:31.100"
+    "timestamp": "00:01:42,339 --> 00:01:48,439",
+    "speaker": "Paul Noble",
+    "text": "So with that in mind, how would you say, \"It's typical\"?"
   },
   {
-    "timestamp" : "01:31.100-01:35.880",
-    "text" : "You find a lot of English speakers will often pronounce it as something more like c'est."
+    "timestamp": "00:01:48,439 --> 00:01:50,159",
+    "speaker": "Marion",
+    "text": "\"C'est typique.\""
   },
   {
-    "text" : "But it's not exactly c'est, but more...",
-    "timestamp" : "01:35.880-01:39.480"
+    "timestamp": "00:01:50,159 --> 00:01:53,679",
+    "speaker": "Paul Noble",
+    "text": "\"It's exotic\"?"
   },
   {
-    "text" : "C'est",
-    "timestamp" : "01:39.480-01:39.720"
+    "timestamp": "00:01:53,679 --> 00:01:55,560",
+    "speaker": "Marion",
+    "text": "\"C'est exotique.\""
   },
   {
-    "text" : "C'est",
-    "timestamp" : "01:39.720-01:41.540"
+    "timestamp": "00:01:55,560 --> 00:01:58,779",
+    "speaker": "Paul Noble",
+    "text": "\"It's political.\""
   },
   {
-    "text" : "C'est",
-    "timestamp" : "01:41.540-01:41.840"
+    "timestamp": "00:01:58,779 --> 00:02:04,019",
+    "speaker": "Marion",
+    "text": "\"C'est politique.\""
   },
   {
-    "text" : "So, with that in mind, how would you say it's typical?",
-    "timestamp" : "01:41.840-01:45.240"
+    "timestamp": "00:02:04,019 --> 00:02:27,459",
+    "speaker": "Paul Noble",
+    "text": "Now, keeping in mind that the A in French is pronounced a little bit like the A in the English word \"father,\" so a sort of an uh sound. Not quite as long as the A in \"father,\" but more of an uh than an ah. With that in mind, how would you say \"romantic\"?"
   },
   {
-    "text" : "C'est typique",
-    "timestamp" : "01:45.240-01:49.320"
+    "timestamp": "00:02:27,459 --> 00:02:29,479",
+    "speaker": "Marion",
+    "text": "\"Romantique.\""
   },
   {
-    "text" : "It's exotic",
-    "timestamp" : "01:49.320-01:50.900"
+    "timestamp": "00:02:29,479 --> 00:02:33,799",
+    "speaker": "Paul Noble",
+    "text": "What about, \"It is romantic\"?"
   },
   {
-    "text" : "It's exotic",
-    "timestamp" : "01:50.900-01:51.040"
+    "timestamp": "00:02:33,799 --> 00:02:35,679",
+    "speaker": "Marion",
+    "text": "\"C'est romantique.\""
   },
   {
-    "text" : "C'est exotic",
-    "timestamp" : "01:51.040-01:54.420"
+    "timestamp": "00:02:35,679 --> 00:02:38,919",
+    "speaker": "Paul Noble",
+    "text": "\"It's fantastic.\""
   },
   {
-    "text" : "C'est",
-    "timestamp" : "01:54.420-01:55.780"
+    "timestamp": "00:02:38,919 --> 00:02:40,639",
+    "speaker": "Marion",
+    "text": "\"C'est fantastique.\""
   },
   {
-    "text" : "It's political",
-    "timestamp" : "01:55.780-01:56.460"
+    "timestamp": "00:02:40,639 --> 00:02:46,519",
+    "speaker": "Paul Noble",
+    "text": "What about \"democratic\"?"
   },
   {
-    "timestamp" : "01:56.460-01:59.080",
-    "text" : "C'est"
+    "timestamp": "00:02:46,519 --> 00:02:48,059",
+    "speaker": "Marion",
+    "text": "\"Démocratique.\""
   },
   {
-    "timestamp" : "01:59.080-01:59.740",
-    "text" : "Politique"
+    "timestamp": "00:02:48,059 --> 00:02:52,400",
+    "speaker": "Paul Noble",
+    "text": "And, \"It's democratic\"?"
   },
   {
-    "text" : "Now, keeping in mind that the A in French is pronounced a little bit like the A in the English",
-    "timestamp" : "01:59.740-02:10.400"
+    "timestamp": "00:02:52,400 --> 00:02:54,039",
+    "speaker": "Marion",
+    "text": "\"C'est démocratique.\""
   },
   {
-    "text" : "word father, so a sort of an A sound, not quite as long as the A in father, but more of an A than an A.",
-    "timestamp" : "02:10.400-02:19.180"
+    "timestamp": "00:02:54,039 --> 00:02:57,659",
+    "speaker": "Paul Noble",
+    "text": "\"Problematic\"?"
   },
   {
-    "timestamp" : "02:19.180-02:23.140",
-    "text" : "With that in mind, how would you say romantic?"
+    "timestamp": "00:02:57,659 --> 00:02:59,220",
+    "speaker": "Marion",
+    "text": "\"Problématique.\""
   },
   {
-    "text" : "Romantique",
-    "timestamp" : "02:23.140-02:28.240"
+    "timestamp": "00:02:59,220 --> 00:03:02,059",
+    "speaker": "Paul Noble",
+    "text": "\"It's problematic.\""
   },
   {
-    "timestamp" : "02:28.240-02:30.940",
-    "text" : "What about it is romantic?"
+    "timestamp": "00:03:02,059 --> 00:03:05,259",
+    "speaker": "Marion",
+    "text": "\"C'est problématique.\""
   },
   {
-    "text" : "C'est romantique",
-    "timestamp" : "02:30.940-02:34.720"
+    "timestamp": "00:03:05,259 --> 00:03:19,619",
+    "speaker": "Paul Noble",
+    "text": "Again, these words I've found are particularly useful for making comments about things. You can say, \"Oh, it's, it's, it's problematic,\" or, \"It's fantastic.\" Very good for making comments and being able to start engaging in French conversation."
   },
   {
-    "text" : "It's fantastic",
-    "timestamp" : "02:34.720-02:36.720"
+    "timestamp": "00:03:19,619 --> 00:03:22,720",
+    "speaker": "Paul Noble",
+    "text": "Let's go back to, \"It's romantic,\" again."
   },
   {
-    "text" : "C'est fantastique",
-    "timestamp" : "02:36.720-02:39.940"
+    "timestamp": "00:03:22,720 --> 00:03:24,279",
+    "speaker": "Marion",
+    "text": "\"C'est romantique.\""
   },
   {
-    "text" : "What about democratic?",
-    "timestamp" : "02:39.940-02:42.620"
+    "timestamp": "00:03:24,279 --> 00:03:27,639",
+    "speaker": "Paul Noble",
+    "text": "And what was \"because\"?"
   },
   {
-    "timestamp" : "02:42.620-02:47.400",
-    "text" : "Démocratique"
+    "timestamp": "00:03:27,639 --> 00:03:29,679",
+    "speaker": "Marion",
+    "text": "\"Parce que.\""
   },
   {
-    "timestamp" : "02:47.400-02:49.280",
-    "text" : "And it's democratic?"
+    "timestamp": "00:03:29,679 --> 00:03:44,199",
+    "speaker": "Paul Noble",
+    "text": "So how would you say, \"I would like to reserve a table for dinner, because it's romantic\"? Let's start with, \"I would like to reserve a table for dinner.\""
   },
   {
-    "text" : "C'est démocratique",
-    "timestamp" : "02:49.280-02:53.460"
+    "timestamp": "00:03:44,199 --> 00:03:48,080",
+    "speaker": "Marion",
+    "text": "\"Je voudrais réserver une table pour le dîner.\""
   },
   {
-    "timestamp" : "02:53.460-02:54.840",
-    "text" : "Problematic"
+    "timestamp": "00:03:48,080 --> 00:03:53,919",
+    "speaker": "Paul Noble",
+    "text": "Now, you should have remembered when you say, \"For dinner,\" in French you will always say, \"For the dinner,\" which is?"
   },
   {
-    "timestamp" : "02:54.840-02:54.840",
-    "text" : "Problematic"
+    "timestamp": "00:03:53,919 --> 00:03:57,259",
+    "speaker": "Marion",
+    "text": "\"Pour le dîner.\""
   },
   {
-    "text" : "Problematic",
-    "timestamp" : "02:54.840-02:54.840"
+    "timestamp": "00:03:57,259 --> 00:04:04,099",
+    "speaker": "Paul Noble",
+    "text": "Now let's carry on. \"Because it's romantic.\""
   },
   {
-    "text" : "Problematic",
-    "timestamp" : "02:54.840-02:58.560"
+    "timestamp": "00:04:04,099 --> 00:04:06,399",
+    "speaker": "Marion",
+    "text": "\"Parce que c'est romantique.\""
   },
   {
-    "text" : "It's problematic",
-    "timestamp" : "02:58.560-03:00.100"
+    "timestamp": "00:04:06,399 --> 00:04:17,179",
+    "speaker": "Paul Noble",
+    "text": "And from the beginning. \"I would like to reserve a table for dinner because it's romantic.\""
   },
   {
-    "text" : "C'est problématique",
-    "timestamp" : "03:00.100-03:03.120"
-  },
-  {
-    "timestamp" : "03:03.120-03:09.940",
-    "text" : "Again, these words I've found are particularly useful for making comments about things."
-  },
-  {
-    "text" : "You can say, oh, it's problematic or it's fantastic.",
-    "timestamp" : "03:09.940-03:14.020"
-  },
-  {
-    "timestamp" : "03:14.020-03:18.180",
-    "text" : "Very good for making comments and being able to start engaging in French conversation."
-  },
-  {
-    "text" : "Let's go back to it's romantic again.",
-    "timestamp" : "03:19.300-03:21.940"
-  },
-  {
-    "text" : "C'est romantique",
-    "timestamp" : "03:21.940-03:23.660"
-  },
-  {
-    "text" : "And what was because?",
-    "timestamp" : "03:23.660-03:25.360"
-  },
-  {
-    "timestamp" : "03:25.360-03:28.340",
-    "text" : "Parce que"
-  },
-  {
-    "timestamp" : "03:28.340-03:36.020",
-    "text" : "So how would you say, I would like to reserve a table for dinner because it's romantic?"
-  },
-  {
-    "timestamp" : "03:36.020-03:39.340",
-    "text" : "Let's start with, I would like to reserve a table for dinner."
-  },
-  {
-    "text" : "Je voudrais réserver une table pour le dîner",
-    "timestamp" : "03:39.340-03:46.720"
-  },
-  {
-    "text" : "Now you should have remembered when you say for dinner, in French you will always say for the dinner, which is",
-    "timestamp" : "03:47.720-03:53.880"
-  },
-  {
-    "text" : "Pour le dîner",
-    "timestamp" : "03:53.880-03:54.800"
-  },
-  {
-    "timestamp" : "03:54.800-03:58.380",
-    "text" : "Now let's carry on."
-  },
-  {
-    "text" : "Because it's romantic",
-    "timestamp" : "03:58.380-04:00.420"
-  },
-  {
-    "text" : "Parce que c'est romantique",
-    "timestamp" : "04:00.420-04:05.620"
-  },
-  {
-    "timestamp" : "04:05.620-04:10.460",
-    "text" : "And from the beginning, I would like to reserve a table for dinner because it's romantic."
-  },
-  {
-    "timestamp" : "04:10.460-04:21.920",
-    "text" : "I would like to reserve a table for dinner because it's romantic."
-  },
-  {
-    "text" : "And I would like to reserve a table for dinner.",
-    "timestamp" : "04:21.920-04:22.920"
-  },
-  {
-    "text" : "I would like to reserve a table for dinner.",
-    "timestamp" : "04:22.920-04:22.920"
-  },
-  {
-    "timestamp" : "04:22.920-04:22.920",
-    "text" : "I would like to reserve a table for dinner."
-  },
-  {
-    "timestamp" : "04:22.920-04:22.920",
-    "text" : "I would like to reserve a table for dinner."
-  },
-  {
-    "text" : "I would like to reserve a table for dinner.",
-    "timestamp" : "04:22.920-04:23.920"
-  },
-  {
-    "text" : "I would like to reserve a table for dinner.",
-    "timestamp" : "04:23.920-04:24.920"
-  },
-  {
-    "timestamp" : "04:24.920-04:25.920",
-    "text" : "I would like to reserve a table for dinner."
-  },
-  {
-    "timestamp" : "04:25.920-04:26.920",
-    "text" : "I would like to reserve a table for dinner."
-  },
-  {
-    "timestamp" : "04:26.920-04:27.920",
-    "text" : "I would like to reserve a table for dinner."
-  },
-  {
-    "text" : "I would like to reserve a table for dinner.",
-    "timestamp" : "04:27.920-04:28.920"
-  },
-  {
-    "text" : "I would like to reserve a table for dinner.",
-    "timestamp" : "04:28.920-04:29.920"
+    "timestamp": "00:04:17,179 --> 00:04:21,719",
+    "speaker": "Marion",
+    "text": "\"Je voudrais réserver une table pour le dîner parce que c'est romantique.\""
   }
 ]

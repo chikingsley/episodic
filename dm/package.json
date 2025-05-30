@@ -28,7 +28,6 @@
     "@rn-primitives/switch": "^1.2.0",
     "@rn-primitives/tooltip": "^1.2.0",
     "@rn-primitives/types": "^1.2.0",
-    "caniuse-lite": "^1.0.30001720",
     "class-variance-authority": "^0.7.1",
     "clsx": "^2.1.1",
     "convex": "^1.24.3",
