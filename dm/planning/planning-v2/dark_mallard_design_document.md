@@ -133,7 +133,7 @@ All players eventually converge back to the main storyline:
 
 ---
 
-## Core Game Mechanics
+## Core Game Mechanics Ideas
 
 ### 1. Cover Integrity System
 

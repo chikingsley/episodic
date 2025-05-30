@@ -1,32 +1,32 @@
 # Decision Checklist - V1 Planning
 
-**Status:** `PLANNING` (Switch to `PRODUCTION` when decisions locked for V1 build)
+Status: `PLANNING` (Switch to `PRODUCTION` when decisions locked for V1 build)
 
 ## 1. Core Architecture Decisions
 
 ### 1.1 Database & Infrastructure
 
-- ✅ **Database:** Convex (replacing previous Supabase/Postgres choice)
+- ✅ Database: Convex
   - Convex will handle all tables (users, missions, sessions, exerciseEvents, etc.)
   - Schema defined in `/convex/schema.ts`
   - Mutations and queries organized in `/convex/mutations/` and `/convex/queries/`
   - Long-running jobs in `/convex/functions/`
-- ✅ **CDN:** AWS CloudFront with S3 storage
+- ✅ CDN: AWS CloudFront with S3 storage
   - Static content (images, audio) served from S3 buckets
   - CloudFront distribution for global caching and delivery
 
 ### 1.2 Authentication & User Management
 
-- ✅ **Auth Provider:** Clerk (with Convex adapter in `/convex/auth.config.ts`)
+- ✅ Auth Provider: Clerk (with Convex adapter in `/convex/auth.config.ts`)
 
 ### 1.3 Platform & Client
 
-- ✅ **Target Platform:** Mobile first (iOS initially) via Expo React Native
+- ✅ Target Platform: Mobile first (iOS initially) via Expo React Native
 
 ### 1.4 Backend Implementation
 
-- ✅ **Backend Technology:** Convex (replacing previous Bun/tRPC stack)
-- ✅ **API Design:** Core endpoints defined as Convex mutations and queries
+- ✅ Backend Technology: Convex (replacing previous Bun/tRPC stack)
+- ✅ API Design: Core endpoints defined as Convex mutations and queries
   - `getInitialAppState` → `/convex/queries/getInitialAppState.ts`
   - `startMission` → `/convex/mutations/startMission.ts`
   - `submitAnswer` → `/convex/mutations/submitAnswer.ts`
@@ -36,14 +36,14 @@
 
 ### 2.1 Content Management
 
-- ✅ **Content Structure:**
+- ✅ Content Structure:
   - Inky/Ink for designing/writing branching narrative (compiled to JSON)
   - Content stored in `/content/` directory with narrative, lessons, audio, and images
   - Scripts for compiling Ink to JSON and validating content
 
 ### 2.2 Content Identification System
 
-- ✅ **Slug Scheme:** `<lang>-<clearance>-<op>-<unit>-<kind>-<idx>`
+- ✅ Slug Scheme: `<lang>-<clearance>-<op>-<unit>-<kind>-<idx>`
   - `lang`: Language code (fr, es)
   - `clearance`: CEFR section/security tier (C01, C02)
   - `op`: Story arc or skill bucket (op01, op02)
@@ -52,7 +52,7 @@
   - `idx`: Sequential number (01, 02)
   - Example: `fr-C01-op03-u04-N-05` (French, Clearance 1, Operation 3, Unit 4, Narrative, #5)
 
-- ✅ **Terminology Mapping:**
+- ✅ Terminology Mapping:
 
   | Term | Slug Segment |
   |------|--------------|
@@ -62,7 +62,7 @@
   | Mission | unit |
   | Exercise/Drill | kind + idx |
 
-- ✅ **File Organization:**
+- ✅ File Organization:
   - Organized in content directory:
 
     ```text
@@ -78,34 +78,34 @@
   - Ink source files in `/content_src/narrative/` with `.ink` extension
   - Ink tags reference by slug: `#lesson:fr-C01-op03-u04-L-02`
 
-- ✅ **Ink Workflow:**
+- ✅ Ink Workflow:
   1. Writers edit `.ink` files in `/content_src/narrative/`
   2. `scripts/compile-ink.mjs` runs inklecate to generate JSON in `/content/narrative/`
   3. CI runs `validate-content.mjs` to enforce naming conventions and required tags
   4. Mobile app loads JSON from Convex (or bundles first few) and feeds to inkjs
 
-- ✅ **Validation System:**
+- ✅ Validation System:
   - Maintain registry table in Convex with columns: slug, title, kind, live
   - CI script validates that referenced slugs exist and filenames match
 
 ### 2.3 Narrative Scope
 
-- ✅ **Scope:** Focus only on one path (The Network / Duck)
-- ✅ **Branching Complexity:** Moderate branching
+- ✅ Scope: Focus only on one path (The Network / Duck)
+- ✅ Branching Complexity: Moderate branching
   - Choices within missions impact outcomes within that mission
   - Success/failure state impacts subsequent mission options
-- ✅ **Minimum Content:** First 5-10 missions with full content
+- ✅ Minimum Content: First 5-10 missions with full content
 
 ### 2.4 Audio & Voice
 
-- ✅ **Voice Implementation:** Text-to-Speech (TTS)
-- ✅ **TTS Provider:** Rime TTS via Pipecat; ElevenLabs as backup
-- ✅ **Audio Management:** Identify recurring audio, generate TTS once, store in AWS S3 and serve via CloudFront
+- ✅ Voice Implementation: Text-to-Speech (TTS)
+- ✅ TTS Provider: Rime TTS via Pipecat; ElevenLabs as backup
+- ✅ Audio Management: Identify recurring audio, generate TTS once, store in AWS S3 and serve via CloudFront
 
 ### 2.5 Content Validation
 
-- ✅ **Twine Export:** Define schema conventions with Zod validator
-- ✅ **QA Pipeline:**
+- ✅ Ink Export: Define schema conventions with Zod validator
+- ✅ QA Pipeline:
   - Schema validator
   - Asset link checker against AWS S3 bucket
   - Automated playthrough linter
@@ -114,7 +114,7 @@
 
 ### 3.1 Exercise Templates
 
-- ✅ **V1 Exercise Types:**
+- ✅ V1 Exercise Types:
   1. `mcq_translate` (text → choose translation)
   2. `mcq_listen` (audio → choose meaning)
   3. `fill_blank` (cloze sentence)
@@ -123,24 +123,25 @@
 
 ### 3.2 Speech Recognition
 
-- ✅ **Implementation:** Use `expo-speech-recognition` library
-- ✅ **Correctness Check:** Two-gate rule
+- ✅ Implementation: Use `expo-speech-recognition` library
+- ✅ Correctness Check: Two-gate rule
   - Gate 1: ASR Confidence ≥ 0.85
   - Gate 2: Levenshtein distance ratio ≤ 0.30 OR all keywords appear
+- ✅ SpeechAce API: Use for pronunciation scoring
 
 ### 3.3 Learning Model
 
-- ✅ **Skill Model:** 1-parameter Elo-style logistic model
+- ✅ Skill Model: 1-parameter Elo-style logistic model
   - P(correct) = 1/(1+e^(-(θ_u-β_i)))
   - Update rule per event: θ_u ← θ_u + K_u(outcome - P)
-- ✅ **Calculation Timing:** Real-time via backend function/action
-- ✅ **Initialization:** All users & items start at 0 (average difficulty)
+- ✅ Calculation Timing: Real-time via backend function/action
+- ✅ Initialization: All users & items start at 0 (average difficulty)
 
 ## 4. Gameplay Mechanics
 
 ### 4.1 Core Mechanics
 
-- ✅ **Cover Integrity:**
+- ✅ Cover Integrity:
   - Start at 100
   - Minor error: -5
   - Moderate error: -15
@@ -149,19 +150,19 @@
   - Warning at ≤30
   - Forced retreat at 0
 
-- ✅ **Extraction Token:**
+- ✅ Extraction Token:
   - Start with 1 token
   - Auto-consumed to reset Integrity to 25
   - Refills at UTC-midnight if daily Neural-Calibration completed
 
-- ✅ **Neural-Calibration:**
+- ✅ Neural-Calibration:
   - Safe training (+5 Integrity, cap 100)
   - XP slightly > standard
   - Required for token regeneration
 
 ### 4.2 Progression System
 
-- ✅ **Terminology Mapping:**
+- ✅ Terminology Mapping:
   - Language → Campaign
   - Section → Clearance Level
   - Unit → Operation
@@ -173,29 +174,29 @@ Note: This terminology mapping is also reflected in the content identification s
 
 ### 5.1 `getInitialAppState(userId)`
 
-- **Purpose:** Provide data for Home/Map screen after login
-- **Response:** User metadata, progress, boosts, notifications, feature flags, preload assets
-- **Implementation:** Bun + tRPC + Prisma ORM talking to Supabase Postgres
+- Purpose: Provide data for Home/Map screen after login
+- Response: User metadata, progress, boosts, notifications, feature flags, preload assets
+- Implementation: Bun + tRPC + Prisma ORM talking to Supabase Postgres
 
 ### 5.2 `startMission(userId, missionId)`
 
-- **Purpose:** Initiate new Mission Session with data for first dialogue
-- **Validation:** Verify user, ensure mission is unlocked
-- **DB Writes:** Insert into `mission_sessions` table
-- **Response:** Session info, mission metadata, narrative data, assets to preload
+- Purpose: Initiate new Mission Session with data for first dialogue
+- Validation: Verify user, ensure mission is unlocked
+- DB Writes: Insert into `mission_sessions` table
+- Response: Session info, mission metadata, narrative data, assets to preload
 
 ### 5.3 `submitAnswer(eventPayload)`
 
-- **Purpose:** Evaluate learner interaction, update state, return feedback
-- **Server Evaluation:** Determine correctness based on exercise type
-- **Updates:** Insert event, compute deltas, update user Elo/HLR
-- **Response:** Correctness, XP/integrity changes, next node, retry info if applicable
+- Purpose: Evaluate learner interaction, update state, return feedback
+- Server Evaluation: Determine correctness based on exercise type
+- Updates: Insert event, compute deltas, update user Elo/HLR
+- Response: Correctness, XP/integrity changes, next node, retry info if applicable
 
 ### 5.4 `endMission(sessionId, finalState)`
 
-- **Purpose:** Finalize session, update rewards/streaks, return home-state deltas
-- **Processing:** Update session status, calculate XP/integrity, update user data
-- **Response:** XP earned, new integrity, streak info, unlocked missions
+- Purpose: Finalize session, update rewards/streaks, return home-state deltas
+- Processing: Update session status, calculate XP/integrity, update user data
+- Response: XP earned, new integrity, streak info, unlocked missions
 
 ## 6. Project Planning
 
