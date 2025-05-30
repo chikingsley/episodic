@@ -1,0 +1,2247 @@
+[
+    {
+        "timestamp": "00:00:00,239 --> 00:00:01,379",
+        "speaker": "Speaker 0",
+        "text": "[music]"
+    },
+    {
+        "timestamp": "00:00:01,379 --> 00:00:13,399",
+        "speaker": "Speaker 0",
+        "text": "Welcome to Collins French with Paul Noble. Content copyright Paul Noble, 2010."
+    },
+    {
+        "timestamp": "00:00:13,399 --> 00:00:16,340",
+        "speaker": "Paul Noble",
+        "text": "I'm Paul Noble."
+    },
+    {
+        "timestamp": "00:00:16,340 --> 00:00:20,639",
+        "speaker": "Paul Noble",
+        "text": "Over the years, I've taught many, many people."
+    },
+    {
+        "timestamp": "00:00:20,639 --> 00:00:30,199",
+        "speaker": "Paul Noble",
+        "text": "Curiously, they have each had much the same story to tell regarding their previous experiences of language learning."
+    },
+    {
+        "timestamp": "00:00:30,199 --> 00:00:50,779",
+        "speaker": "Paul Noble",
+        "text": "As a result, these days, when I first start a teaching session, I ask my students to raise their hands if they have had any of the following experiences. \"Raise your hand,\" I say, \"if you studied a language for several years at school, but came out unable to really say anything."
+    },
+    {
+        "timestamp": "00:00:50,779 --> 00:01:07,179",
+        "speaker": "Paul Noble",
+        "text": "Or if you have ever bought a language course and given up around page 30, somewhere around Chapter 2. Or if you have ever felt more confused by a teacher's explanation of the language than by the language itself."
+    },
+    {
+        "timestamp": "00:01:07,179 --> 00:01:14,439",
+        "speaker": "Paul Noble",
+        "text": "Perhaps you've been amazed by just how closely grammar books resemble furniture assembly instructions."
+    },
+    {
+        "timestamp": "00:01:14,439 --> 00:01:20,879",
+        "speaker": "Paul Noble",
+        "text": "Or you may have felt that you are in fact more or less incapable of learning a foreign language.\""
+    },
+    {
+        "timestamp": "00:01:20,879 --> 00:01:28,999",
+        "speaker": "Paul Noble",
+        "text": "Invariably, when I ask these questions, all the students soon have at least one hand in the air, and they laugh."
+    },
+    {
+        "timestamp": "00:01:28,999 --> 00:01:42,359",
+        "speaker": "Paul Noble",
+        "text": "They laugh because for some reason, our language learning experiences tend to be very similar. And sadly, these similar experiences tend not to be very good ones."
+    },
+    {
+        "timestamp": "00:01:42,359 --> 00:01:48,719",
+        "speaker": "Paul Noble",
+        "text": "My own initial experience with language learning were also uncannily similar to those I've just described."
+    },
+    {
+        "timestamp": "00:01:48,719 --> 00:02:00,359",
+        "speaker": "Paul Noble",
+        "text": "In fact, when I ask my students these questions, my own hand is the first to go up, and it stays up until we have gone through them all."
+    },
+    {
+        "timestamp": "00:02:00,359 --> 00:02:08,419",
+        "speaker": "Paul Noble",
+        "text": "However, these less than positive experiences have had an upside both for myself and for those individuals I have taught,"
+    },
+    {
+        "timestamp": "00:02:08,419 --> 00:02:18,179",
+        "speaker": "Paul Noble",
+        "text": "because these experiences, along with a number of other factors, have helped inform and shape the method that will be used during this course."
+    },
+    {
+        "timestamp": "00:02:18,179 --> 00:02:26,979",
+        "speaker": "Paul Noble",
+        "text": "Using this method, you will learn how to communicate in French and how to formulate your own ideas and thoughts using French."
+    },
+    {
+        "timestamp": "00:02:26,979 --> 00:02:38,539",
+        "speaker": "Paul Noble",
+        "text": "As you learn with it, you will quickly discover that I do not use complicated grammatical explanations at all, and I will not ask you to memorize long lists of vocabulary."
+    },
+    {
+        "timestamp": "00:02:38,539 --> 00:02:44,399",
+        "speaker": "Paul Noble",
+        "text": "The way the course is structured will by itself ensure that you remember what you are taught."
+    },
+    {
+        "timestamp": "00:02:44,399 --> 00:03:01,299",
+        "speaker": "Paul Noble",
+        "text": "Instead, through your interaction with the CDs, I will lead you through the French language, enabling you to build up complex sentences by yourself, step by step, so that you are actually speaking independently in French by the end of the course."
+    },
+    {
+        "timestamp": "00:03:01,299 --> 00:03:07,179",
+        "speaker": "Paul Noble",
+        "text": "And this is regardless of how little or how much you know when you begin."
+    },
+    {
+        "timestamp": "00:03:07,179 --> 00:03:11,899",
+        "speaker": "Paul Noble",
+        "text": "You will also discover that the language I teach is designed to be adaptable,"
+    },
+    {
+        "timestamp": "00:03:11,899 --> 00:03:19,139",
+        "speaker": "Paul Noble",
+        "text": "so you'll be able to use it just as easily for holidaying in a French-speaking country as for living or working in one."
+    },
+    {
+        "timestamp": "00:03:19,139 --> 00:03:25,619",
+        "speaker": "Paul Noble",
+        "text": "It'll be just as easy to use it to order a coffee as to hold a conversation with the waiter who brings it to you."
+    },
+    {
+        "timestamp": "00:03:25,619 --> 00:03:33,579",
+        "speaker": "Paul Noble",
+        "text": "And again, all of this regardless of how little or how much you know when you begin."
+    },
+    {
+        "timestamp": "00:03:33,579 --> 00:03:42,019",
+        "speaker": "Paul Noble",
+        "text": "This method has already proved extremely successful with a very great many students, including hundreds of so-called \"no-hopers\"."
+    },
+    {
+        "timestamp": "00:03:42,019 --> 00:03:47,359",
+        "speaker": "Paul Noble",
+        "text": "Interestingly, not one of these students failed to learn using this method."
+    },
+    {
+        "timestamp": "00:03:47,359 --> 00:04:02,479",
+        "speaker": "Paul Noble",
+        "text": "It is these many success cases, letters of thank you, and even the occasional hug, that have made teaching languages so very worthwhile for me, and it is this that has persuaded me to publish my courses here for the first time."
+    },
+    {
+        "timestamp": "00:04:02,479 --> 00:04:10,319",
+        "speaker": "Paul Noble",
+        "text": "I anticipate and hope that they will be as effective for you as they have been for so many of my other students. Au revoir, and good luck."
+    },
+    {
+        "timestamp": "00:00:00,359 --> 00:00:11,979",
+        "speaker": "Paul Noble",
+        "text": "Before we begin, I do need to establish three parameters, or three main ground rules for you to follow when you use the course."
+    },
+    {
+        "timestamp": "00:00:11,979 --> 00:00:21,479",
+        "speaker": "Paul Noble",
+        "text": "The first is that I want you to take time to think out your answers when you're doing the course."
+    },
+    {
+        "timestamp": "00:00:21,479 --> 00:00:36,919",
+        "speaker": "Paul Noble",
+        "text": "Natural-length pauses have been included in the course anyway, but if you feel you need longer to think out or work out your answer, simply pause the course and think about it for a moment."
+    },
+    {
+        "timestamp": "00:00:36,919 --> 00:00:41,779",
+        "speaker": "Paul Noble",
+        "text": "The second ground rule, and perhaps the most important,"
+    },
+    {
+        "timestamp": "00:00:41,779 --> 00:00:48,299",
+        "speaker": "Paul Noble",
+        "text": "is that I don't want you to make an effort to remember the things I'm teaching you."
+    },
+    {
+        "timestamp": "00:00:48,299 --> 00:01:09,239",
+        "speaker": "Paul Noble",
+        "text": "In fact, strange as it might sound, it doesn't particularly bother me if you forget something when I first introduce it. The reason for this is that when people try to memorize things, perhaps lists of vocabularies or grammar rules or something like that,"
+    },
+    {
+        "timestamp": "00:01:09,239 --> 00:01:27,499",
+        "speaker": "Paul Noble",
+        "text": "they tend not to be able to actually use them when they're speaking the language. They cram them into their heads, but they're not necessarily able to use them very easily. And actually, they still tend to forget them at the crucial moment."
+    },
+    {
+        "timestamp": "00:01:27,499 --> 00:02:00,279",
+        "speaker": "Paul Noble",
+        "text": "The way that we remember things so that we actually retain them and can use them is through usage and through being introduced to something again and again. For instance, if you follow a sport or a program on the television, you'll find you know all about the people who are participate in that, whether it's people who play sports or whether it's actors in a drama. You'll know all about them, but you will never have made a conscious effort to actually memorize their names or what it is they do on the program."
+    },
+    {
+        "timestamp": "00:02:00,279 --> 00:02:10,559",
+        "speaker": "Paul Noble",
+        "text": "Instead, by seeing the same program again and again, slowly over time, you'll simply remember it. And that's what will happen in this course."
+    },
+    {
+        "timestamp": "00:02:10,559 --> 00:02:18,139",
+        "speaker": "Paul Noble",
+        "text": "I'll introduce certain concepts, certain words, and you'll hear them and you'll use them, and then"
+    },
+    {
+        "timestamp": "00:02:18,139 --> 00:02:23,279",
+        "speaker": "Paul Noble",
+        "text": "we'll forget about them for a moment, and I'll let you forget about them."
+    },
+    {
+        "timestamp": "00:02:23,279 --> 00:03:11,019",
+        "speaker": "Paul Noble",
+        "text": "Later on in the course, I'll bring them up a second time, by which point, you might well not remember them. But it's this exact action of you being reminded of something and then allowed to forget it, and then reminded again, and then allowed to forget it, and then reminded again, that will eventually allow you to remember what I've taught you by itself. You won't need to try to remember any of it. You won't need to try to memorize any of it. All you need to do is take part in the course and trust that I will bring it up again later and will remind you so that by the end of the course, you'll remember it automatically without ever actually having tried to remember anything. This is what I do with my students, and this is what I'll do with you here."
+    },
+    {
+        "timestamp": "00:03:11,019 --> 00:03:17,539",
+        "speaker": "Paul Noble",
+        "text": "The final ground rule is that I don't want you to worry about making mistakes."
+    },
+    {
+        "timestamp": "00:03:17,539 --> 00:03:22,799",
+        "speaker": "Paul Noble",
+        "text": "When you learn a new language, you will inevitably make mistakes."
+    },
+    {
+        "timestamp": "00:03:22,799 --> 00:03:34,919",
+        "speaker": "Paul Noble",
+        "text": "And I think that because we get so used to speaking our own languages perfectly, we find it very hard, particularly as adults, to make mistakes when we're speaking out loud."
+    },
+    {
+        "timestamp": "00:03:34,919 --> 00:03:45,099",
+        "speaker": "Paul Noble",
+        "text": "You'll find, however, that the beauty of using this method is that you will instantly know when you've made a mistake, and you'll also find out why."
+    },
+    {
+        "timestamp": "00:03:45,099 --> 00:03:51,499",
+        "speaker": "Paul Noble",
+        "text": "This will allow you to change what you're doing and to make rapid progress in the language."
+    },
+    {
+        "timestamp": "00:03:51,499 --> 00:04:10,139",
+        "speaker": "Paul Noble",
+        "text": "And so by making these mistakes and knowing how to correct them yourself, you'll find that you very quickly go from a non-speaker of the language to being someone who can communicate in it with a surprising degree of confidence, even after just a few hours of studying it."
+    },
+    {
+        "timestamp": "00:04:10,139 --> 00:04:24,199",
+        "speaker": "Paul Noble",
+        "text": "So again, to sum up these three ground rules. Firstly, take your time to work out your answer and to think about it. If you need to pause the course, you can do that. It's fine. Go at your own pace."
+    },
+    {
+        "timestamp": "00:04:24,199 --> 00:04:57,379",
+        "speaker": "Paul Noble",
+        "text": "Second ground rule is don't sit there trying to remember what it is I'm teaching on the course. Just go with the flow of the course. Take your time to do it, but don't sit there worrying you've forgotten a word. I'll actually be expecting you to forget some of the things as I teach you so that I get a chance to remind you of them later, and they will come up again, and you will be reminded of them until you remember them. Without making any effort on your part to do so, you will simply know those words and those rules by the end of the course."
+    },
+    {
+        "timestamp": "00:04:57,379 --> 00:05:09,259",
+        "speaker": "Paul Noble",
+        "text": "And the final rule, don't worry about making a mistake. We learn from mistakes and we benefit from them, particularly when we're learning to speak a second language."
+    },
+    {
+        "timestamp": "00:05:09,259 --> 00:05:10,719",
+        "speaker": "Paul Noble",
+        "text": "So,"
+    },
+    {
+        "timestamp": "00:05:10,719 --> 00:05:17,179",
+        "speaker": "Paul Noble",
+        "text": "don't worry about any of these things. Leave your learning of the language to me."
+    },
+    {
+        "timestamp": "00:05:17,179 --> 00:05:19,419",
+        "speaker": "Paul Noble",
+        "text": "And now let me introduce Marion."
+    },
+    {
+        "timestamp": "00:05:19,419 --> 00:05:20,479",
+        "speaker": "Marion",
+        "text": "Bonjour."
+    },
+    {
+        "timestamp": "00:05:20,479 --> 00:05:24,659",
+        "speaker": "Paul Noble",
+        "text": "Who's come here all the way from Normandy to help perfect our French pronunciation."
+    },
+    {
+        "timestamp": "00:00:02,000 --> 00:00:14,439",
+        "speaker": "Paul Noble",
+        "text": "Although you may be only vaguely aware of it, English and French are in fact very closely related languages. I think we're all aware of what happened in 1066, or at least most of us are."
+    },
+    {
+        "timestamp": "00:00:14,439 --> 00:00:22,159",
+        "speaker": "Paul Noble",
+        "text": "There was an invasion in Britain into England by the, the Normans."
+    },
+    {
+        "timestamp": "00:00:22,159 --> 00:00:29,559",
+        "speaker": "Paul Noble",
+        "text": "And the Normans spoke French, and they brought French to the British Isles."
+    },
+    {
+        "timestamp": "00:00:29,559 --> 00:00:42,540",
+        "speaker": "Paul Noble",
+        "text": "As a result of that, it has left a, a linguistic legacy in English, which is that five or six out of every 10 words in English have come into English through French."
+    },
+    {
+        "timestamp": "00:00:42,540 --> 00:01:39,219",
+        "speaker": "Paul Noble",
+        "text": "This gives us a big, big advantage when learning French, if, if we utilize these words, that is. I mean, uh, frequently that's not the case, but we will be using them here, because they are one of the biggest advantages we have. As speakers of English, you'll find that these words tend to be the longer ones in English. Uh, the shorter words tend to be of Germanic Anglo-Saxon origin. So, we have, we have this division in English. Normally, I would say typically, um, words seven or eight letters in length or longer tend to be of French/Latin origin, and shorter than that tend typically to be of Germanic/Anglo-Saxon origin. What it means is it's very easy to use these longer words for when English speakers are speaking French. Not only this, um, but there are also more recent French additions to the English language which still feel French."
+    },
+    {
+        "timestamp": "00:01:39,219 --> 00:01:49,499",
+        "speaker": "Paul Noble",
+        "text": "For instance, you may be familiar with terms such as \"c'est la vie\", which means \"that's life.\""
+    },
+    {
+        "timestamp": "00:01:49,499 --> 00:02:16,839",
+        "speaker": "Paul Noble",
+        "text": "You may also have heard the expression, uh, as we pronounce it, we pronounce it \"deja vu.\" It's a slight mispronunciation in English, but we're familiar with it. Um, literally, it actually means \"already seen.\" So when we say we've got \"deja vu\", we mean, oh, you know, \"I feel like I've already seen that before.\" And there are quite a few expressions, and they're useful too. Um, and we'll be using them where they're relevant to learning and to speak the French language, um, competently."
+    },
+    {
+        "timestamp": "00:02:16,839 --> 00:02:22,579",
+        "speaker": "Paul Noble",
+        "text": "Finally, there's another group of words which are very useful for English speakers,"
+    },
+    {
+        "timestamp": "00:02:22,579 --> 00:02:27,779",
+        "speaker": "Paul Noble",
+        "text": "and these words are a group of words that are still expanding."
+    },
+    {
+        "timestamp": "00:02:27,779 --> 00:02:38,199",
+        "speaker": "Paul Noble",
+        "text": "They're English words that have gone into French since the end of the Second World War. And so, um, these, these may well be familiar to you."
+    },
+    {
+        "timestamp": "00:02:38,199 --> 00:02:41,679",
+        "speaker": "Paul Noble",
+        "text": "For instance, you may be familiar with-"
+    },
+    {
+        "timestamp": "00:02:41,679 --> 00:02:43,159",
+        "speaker": "Marion",
+        "text": "Le weekend."
+    },
+    {
+        "timestamp": "00:02:43,159 --> 00:02:44,459",
+        "speaker": "Paul Noble",
+        "text": "Yeah."
+    },
+    {
+        "timestamp": "00:02:44,459 --> 00:02:48,479",
+        "speaker": "Paul Noble",
+        "text": "\"Le weekend.\" Which I'm sure you can guess what that means. Another one is-"
+    },
+    {
+        "timestamp": "00:02:48,479 --> 00:02:50,139",
+        "speaker": "Marion",
+        "text": "Le parking."
+    },
+    {
+        "timestamp": "00:02:50,139 --> 00:02:52,799",
+        "speaker": "Paul Noble",
+        "text": "Can you guess what that means?"
+    },
+    {
+        "timestamp": "00:02:52,799 --> 00:02:58,679",
+        "speaker": "Paul Noble",
+        "text": "That's \"car park\", or \"parking lot\" if you're from North America. Another one is-"
+    },
+    {
+        "timestamp": "00:02:58,679 --> 00:03:01,119",
+        "speaker": "Marion",
+        "text": "Le living."
+    },
+    {
+        "timestamp": "00:03:01,119 --> 00:03:10,919",
+        "speaker": "Paul Noble",
+        "text": "\"Le living\" actually means \"the living room\". You'll find that actually a lot of these words that have come into French, they often [laughs] have bits chopped off."
+    },
+    {
+        "timestamp": "00:03:10,919 --> 00:03:16,419",
+        "speaker": "Paul Noble",
+        "text": "Or it will be the same as the English, but with \"-ing\" added on the end."
+    },
+    {
+        "timestamp": "00:03:16,419 --> 00:03:33,359",
+        "speaker": "Paul Noble",
+        "text": "Um, for instance, another example would be if you saw the word \"camping\" written in, in French. So it's, it would look like the English word \"camping\" written down. What would you think that meant? Would you think it meant \"camping\"?"
+    },
+    {
+        "timestamp": "00:03:33,359 --> 00:03:37,319",
+        "speaker": "Paul Noble",
+        "text": "Okay. Actually, \"camping\", which correctly pronounced in French is-"
+    },
+    {
+        "timestamp": "00:03:37,319 --> 00:03:37,959",
+        "speaker": "Marion",
+        "text": "Camping."
+    },
+    {
+        "timestamp": "00:03:37,959 --> 00:03:50,859",
+        "speaker": "Paul Noble",
+        "text": "[laughs] Yes. So you'll see there's a slight pronunciation different. Actually is \"the campsite\", or \"the camping site\". So, these changes in the words are something you get used to,"
+    },
+    {
+        "timestamp": "00:03:50,859 --> 00:03:55,859",
+        "speaker": "Paul Noble",
+        "text": "but it's easier to remember something like \"le camping\","
+    },
+    {
+        "timestamp": "00:03:55,859 --> 00:04:00,959",
+        "speaker": "Paul Noble",
+        "text": "um, than it would be a totally foreign word. So these can be useful, and we'll be using these in the course where relevant."
+    },
+    {
+        "timestamp": "00:00:00,539 --> 00:00:06,179",
+        "speaker": "Paul Noble",
+        "text": "So, enough about the history of the French language. Let's get started."
+    },
+    {
+        "timestamp": "00:00:06,179 --> 00:00:09,199",
+        "speaker": "Paul Noble",
+        "text": "\"I have\" in French, \"I have\" is?"
+    },
+    {
+        "timestamp": "00:00:09,199 --> 00:00:11,019",
+        "speaker": "Marion",
+        "text": "J'ai."
+    },
+    {
+        "timestamp": "00:00:11,019 --> 00:00:12,399",
+        "speaker": "Marion",
+        "text": "J'ai."
+    },
+    {
+        "timestamp": "00:00:12,399 --> 00:00:17,340",
+        "speaker": "Paul Noble",
+        "text": "Sounds a bit like the English letter J pronounced in a French way. So again?"
+    },
+    {
+        "timestamp": "00:00:17,340 --> 00:00:19,239",
+        "speaker": "Marion",
+        "text": "J'ai."
+    },
+    {
+        "timestamp": "00:00:19,239 --> 00:00:22,840",
+        "speaker": "Paul Noble",
+        "text": "The word for \"visited\" in French, \"visited\" is?"
+    },
+    {
+        "timestamp": "00:00:22,840 --> 00:00:24,619",
+        "speaker": "Marion",
+        "text": "Visité."
+    },
+    {
+        "timestamp": "00:00:24,619 --> 00:00:26,879",
+        "speaker": "Paul Noble",
+        "text": "So again, the word for \"I have\" is?"
+    },
+    {
+        "timestamp": "00:00:26,879 --> 00:00:27,779",
+        "speaker": "Marion",
+        "text": "J'ai."
+    },
+    {
+        "timestamp": "00:00:27,779 --> 00:00:28,939",
+        "speaker": "Paul Noble",
+        "text": "And \"visited\" is?"
+    },
+    {
+        "timestamp": "00:00:28,939 --> 00:00:30,379",
+        "speaker": "Marion",
+        "text": "Visité."
+    },
+    {
+        "timestamp": "00:00:30,379 --> 00:00:36,479",
+        "speaker": "Paul Noble",
+        "text": "So how would you say, \"I have visited\"?"
+    },
+    {
+        "timestamp": "00:00:36,479 --> 00:00:39,459",
+        "speaker": "Marion",
+        "text": "J'ai visité."
+    },
+    {
+        "timestamp": "00:00:39,459 --> 00:00:43,599",
+        "speaker": "Paul Noble",
+        "text": "The, The Louvre. The Louvre Art Gallery in French is of course?"
+    },
+    {
+        "timestamp": "00:00:43,599 --> 00:00:45,500",
+        "speaker": "Marion",
+        "text": "Le Louvre."
+    },
+    {
+        "timestamp": "00:00:45,500 --> 00:00:53,099",
+        "speaker": "Paul Noble",
+        "text": "So how would you say, \"I have visited The Louvre\"?"
+    },
+    {
+        "timestamp": "00:00:53,099 --> 00:00:57,579",
+        "speaker": "Marion",
+        "text": "J'ai visité Le Louvre."
+    },
+    {
+        "timestamp": "00:00:57,579 --> 00:00:59,539",
+        "speaker": "Paul Noble",
+        "text": "\"The park\" in French is?"
+    },
+    {
+        "timestamp": "00:00:59,539 --> 00:01:01,839",
+        "speaker": "Marion",
+        "text": "Le parc."
+    },
+    {
+        "timestamp": "00:01:01,839 --> 00:01:11,579",
+        "speaker": "Paul Noble",
+        "text": "So how would you say, \"I have visited the park\"?"
+    },
+    {
+        "timestamp": "00:01:11,579 --> 00:01:15,579",
+        "speaker": "Marion",
+        "text": "J'ai visité le parc."
+    },
+    {
+        "timestamp": "00:01:15,579 --> 00:01:17,379",
+        "speaker": "Paul Noble",
+        "text": "\"You have\" in French is?"
+    },
+    {
+        "timestamp": "00:01:17,379 --> 00:01:19,779",
+        "speaker": "Marion",
+        "text": "Vous avez."
+    },
+    {
+        "timestamp": "00:01:19,779 --> 00:01:21,359",
+        "speaker": "Marion",
+        "text": "Vous avez."
+    },
+    {
+        "timestamp": "00:01:21,359 --> 00:01:47,299",
+        "speaker": "Paul Noble",
+        "text": "Now again, don't worry at this point about trying to remember what it is we've done already. First thing students will, will often do when I'm teaching them is they'll panic and think, \"Oh my goodness, I'm going to forget what it is you're teaching me. I- are we already moving on to something new?\" But that is exactly what I want. I want you to forget it because I'm going to remind you of it in a few minutes. And if you haven't forgot it, it's hard to remind you."
+    },
+    {
+        "timestamp": "00:01:47,299 --> 00:01:49,359",
+        "speaker": "Paul Noble",
+        "text": "So again, \"you have\" is?"
+    },
+    {
+        "timestamp": "00:01:49,359 --> 00:01:49,659",
+        "speaker": "Marion",
+        "text": "Vous avez."
+    },
+    {
+        "timestamp": "00:01:49,659 --> 00:01:56,239",
+        "speaker": "Paul Noble",
+        "text": "How do you think you'd say, \"You have visited the park\"?"
+    },
+    {
+        "timestamp": "00:01:56,239 --> 00:02:01,559",
+        "speaker": "Marion",
+        "text": "Vous avez visité le parc."
+    },
+    {
+        "timestamp": "00:02:01,559 --> 00:02:13,159",
+        "speaker": "Paul Noble",
+        "text": "\"Have you\" in French, so to turn \"you have\" into a question, you simply, you change round the word order just like you do in English. In English you have, \"you have,\" which in French is?"
+    },
+    {
+        "timestamp": "00:02:13,159 --> 00:02:14,599",
+        "speaker": "Marion",
+        "text": "Vous avez."
+    },
+    {
+        "timestamp": "00:02:14,599 --> 00:02:21,099",
+        "speaker": "Paul Noble",
+        "text": "And to ask a question in English, we simply change the \"you have\" round and say, \"Have you?\" Which in French becomes?"
+    },
+    {
+        "timestamp": "00:02:21,099 --> 00:02:23,219",
+        "speaker": "Marion",
+        "text": "Avez-vous."
+    },
+    {
+        "timestamp": "00:02:23,219 --> 00:02:24,859",
+        "speaker": "Marion",
+        "text": "Avez-vous."
+    },
+    {
+        "timestamp": "00:02:24,859 --> 00:02:31,119",
+        "speaker": "Paul Noble",
+        "text": "So how would you say, \"Have you visited the park?\""
+    },
+    {
+        "timestamp": "00:02:31,119 --> 00:02:33,879",
+        "speaker": "Marion",
+        "text": "Avez-vous visité le parc?"
+    },
+    {
+        "timestamp": "00:02:33,879 --> 00:02:41,199",
+        "speaker": "Paul Noble",
+        "text": "What about, \"Have you visited The Louvre?\""
+    },
+    {
+        "timestamp": "00:02:41,199 --> 00:02:44,899",
+        "speaker": "Marion",
+        "text": "Avez-vous visité Le Louvre?"
+    },
+    {
+        "timestamp": "00:02:44,899 --> 00:02:48,239",
+        "speaker": "Paul Noble",
+        "text": "The word for \"prepared\" in French is?"
+    },
+    {
+        "timestamp": "00:02:48,239 --> 00:02:50,439",
+        "speaker": "Marion",
+        "text": "Préparé."
+    },
+    {
+        "timestamp": "00:02:50,439 --> 00:02:52,699",
+        "speaker": "Marion",
+        "text": "Préparé."
+    },
+    {
+        "timestamp": "00:02:52,699 --> 00:03:00,999",
+        "speaker": "Paul Noble",
+        "text": "How would you say, \"I have prepared\"?"
+    },
+    {
+        "timestamp": "00:03:00,999 --> 00:03:03,959",
+        "speaker": "Marion",
+        "text": "J'ai préparé."
+    },
+    {
+        "timestamp": "00:03:03,959 --> 00:03:06,839",
+        "speaker": "Paul Noble",
+        "text": "\"The coffee\" in French, \"the coffee\" is?"
+    },
+    {
+        "timestamp": "00:03:06,839 --> 00:03:08,939",
+        "speaker": "Marion",
+        "text": "Le café."
+    },
+    {
+        "timestamp": "00:03:08,939 --> 00:03:10,839",
+        "speaker": "Marion",
+        "text": "Le café."
+    },
+    {
+        "timestamp": "00:03:10,839 --> 00:03:17,019",
+        "speaker": "Paul Noble",
+        "text": "How would you say, \"I have prepared the coffee\"?"
+    },
+    {
+        "timestamp": "00:03:17,019 --> 00:03:19,359",
+        "speaker": "Marion",
+        "text": "J'ai préparé le café."
+    },
+    {
+        "timestamp": "00:03:19,359 --> 00:03:44,139",
+        "speaker": "Paul Noble",
+        "text": "Again, don't worry too much about trying to remember all this. I'll be introducing a lot of concepts earlier on, in order to give you a chance to forget them, so that I can remind you of them later. And as we go through this process of you having the words introduced to you, forgetting them, and then being reminded of them again, you'll find that they just start to stick without any effort at trying to remember them or trying to memorize them. They will just stick eventually."
+    },
+    {
+        "timestamp": "00:03:44,139 --> 00:03:48,599",
+        "speaker": "Paul Noble",
+        "text": "Okay, good."
+    },
+    {
+        "timestamp": "00:03:48,599 --> 00:03:52,179",
+        "speaker": "Paul Noble",
+        "text": "To say \"for you\" in French, \"for you\" in French is?"
+    },
+    {
+        "timestamp": "00:03:52,179 --> 00:03:53,819",
+        "speaker": "Marion",
+        "text": "Pour vous."
+    },
+    {
+        "timestamp": "00:03:53,819 --> 00:03:56,319",
+        "speaker": "Marion",
+        "text": "Pour vous."
+    },
+    {
+        "timestamp": "00:03:56,319 --> 00:04:04,959",
+        "speaker": "Paul Noble",
+        "text": "So how would you say, \"I have prepared the coffee for you?\""
+    },
+    {
+        "timestamp": "00:04:04,959 --> 00:04:10,379",
+        "speaker": "Marion",
+        "text": "J'ai préparé le café pour vous."
+    },
+    {
+        "timestamp": "00:04:10,379 --> 00:04:13,619",
+        "speaker": "Paul Noble",
+        "text": "\"The roast beef\" in French, \"the roast beef\" is?"
+    },
+    {
+        "timestamp": "00:04:13,619 --> 00:04:16,919",
+        "speaker": "Marion",
+        "text": "Le rosbif. Le rosbif."
+    },
+    {
+        "timestamp": "00:04:16,919 --> 00:04:21,000",
+        "speaker": "Paul Noble",
+        "text": "So it sort of sounds like, it sounds a bit like the English, but pronounced in a very French way."
+    },
+    {
+        "timestamp": "00:04:21,000 --> 00:04:30,419",
+        "speaker": "Paul Noble",
+        "text": "So, how would you say, \"I have prepared the roast beef\"?"
+    },
+    {
+        "timestamp": "00:04:30,419 --> 00:04:34,399",
+        "speaker": "Marion",
+        "text": "J'ai préparé le rosbif."
+    },
+    {
+        "timestamp": "00:04:34,399 --> 00:04:45,279",
+        "speaker": "Paul Noble",
+        "text": "To say \"for dinner\" in French, you'll say literally, \"For the dinner.\" The French always say \"for the dinner,\" rather than \"for dinner\" which in French is?"
+    },
+    {
+        "timestamp": "00:04:45,279 --> 00:04:47,739",
+        "speaker": "Marion",
+        "text": "Pour le dîner."
+    },
+    {
+        "timestamp": "00:04:47,739 --> 00:04:51,159",
+        "speaker": "Marion",
+        "text": "Pour le dîner."
+    },
+    {
+        "timestamp": "00:04:51,159 --> 00:05:09,519",
+        "speaker": "Paul Noble",
+        "text": "So how would you say, \"I have prepared roast beef for dinner,\" or as the French would say, \"I have prepared the roast beef for the dinner\"?"
+    },
+    {
+        "timestamp": "00:05:09,519 --> 00:05:14,799",
+        "speaker": "Marion",
+        "text": "J'ai préparé le rosbif pour le dîner."
+    },
+    {
+        "timestamp": "00:05:14,799 --> 00:05:25,619",
+        "speaker": "Paul Noble",
+        "text": "Now, it's important to make sure when you're pronouncing \"dinner\" in French to pronounce it as-"
+    },
+    {
+        "timestamp": "00:05:25,619 --> 00:05:28,219",
+        "speaker": "Marion",
+        "text": "Le dîner."
+    },
+    {
+        "timestamp": "00:05:28,219 --> 00:05:28,799",
+        "speaker": "Marion",
+        "text": "Le dîner."
+    },
+    {
+        "timestamp": "00:05:28,799 --> 00:05:44,719",
+        "speaker": "Paul Noble",
+        "text": "... sort of has an 'ay' sound on the end because it's such a similar word to the English. Um, students, people will frequently pronounce it, English speakers will pronounce it as \"dinner\" or something like that. But it is correctly said as?"
+    },
+    {
+        "timestamp": "00:05:44,719 --> 00:05:45,939",
+        "speaker": "Marion",
+        "text": "Le dîner."
+    },
+    {
+        "timestamp": "00:05:45,939 --> 00:05:51,879",
+        "speaker": "Paul Noble",
+        "text": "Yep. So it's got that 'ay' sound at the end."
+    },
+    {
+        "timestamp": "00:05:51,879 --> 00:06:01,359",
+        "speaker": "Paul Noble",
+        "text": "So again, how would you say, \"I have prepared the roast beef for the dinner?\""
+    },
+    {
+        "timestamp": "00:06:01,359 --> 00:06:07,659",
+        "speaker": "Marion",
+        "text": "J'ai préparé le rosbif pour le dîner."
+    },
+    {
+        "timestamp": "00:00:00,539 --> 00:00:03,319",
+        "speaker": "Paul Noble",
+        "text": "How would you say, \"You have prepared the coffee\"?"
+    },
+    {
+        "timestamp": "00:00:03,319 --> 00:00:13,319",
+        "speaker": "Marion",
+        "text": "Vous avez préparé le café?"
+    },
+    {
+        "timestamp": "00:00:13,319 --> 00:00:18,719",
+        "speaker": "Paul Noble",
+        "text": "\"For me\" in French is-"
+    },
+    {
+        "timestamp": "00:00:18,719 --> 00:00:20,739",
+        "speaker": "Marion",
+        "text": "Pour moi."
+    },
+    {
+        "timestamp": "00:00:20,739 --> 00:00:22,619",
+        "speaker": "Marion",
+        "text": "Pour moi."
+    },
+    {
+        "timestamp": "00:00:22,619 --> 00:00:33,500",
+        "speaker": "Paul Noble",
+        "text": "How would you say, \"You have prepared the coffee for me\"?"
+    },
+    {
+        "timestamp": "00:00:33,500 --> 00:00:38,619",
+        "speaker": "Marion",
+        "text": "Vous avez préparé le café pour moi."
+    },
+    {
+        "timestamp": "00:00:38,619 --> 00:00:40,919",
+        "speaker": "Paul Noble",
+        "text": "\"You have\" in French is-"
+    },
+    {
+        "timestamp": "00:00:40,919 --> 00:00:43,340",
+        "speaker": "Marion",
+        "text": "Vous avez."
+    },
+    {
+        "timestamp": "00:00:43,340 --> 00:00:53,319",
+        "speaker": "Paul Noble",
+        "text": "And this is a perfectly acceptable way to say, \"You have,\" in French. However, as you may have noticed, it was also pronounced as-"
+    },
+    {
+        "timestamp": "00:00:53,319 --> 00:00:55,279",
+        "speaker": "Marion",
+        "text": "Vous avez."
+    },
+    {
+        "timestamp": "00:00:55,279 --> 00:01:05,220",
+        "speaker": "Paul Noble",
+        "text": "Now, the second pronunciation is the one more typically used by native French speakers. Although both are equally acceptable."
+    },
+    {
+        "timestamp": "00:01:05,220 --> 00:01:20,059",
+        "speaker": "Paul Noble",
+        "text": "The, the basic reason why there's th- the, the two options for pronunciation is that in French, typically, the consonant at the end of a word won't be pronounced."
+    },
+    {
+        "timestamp": "00:01:20,059 --> 00:01:29,239",
+        "speaker": "Paul Noble",
+        "text": "And so, the word for \"you\" in French is \"vous\", which is spelt V-O-U-S, and the S is, is not normally pronounced. However, for \"you have\", which in French is-"
+    },
+    {
+        "timestamp": "00:01:29,239 --> 00:01:31,180",
+        "speaker": "Marion",
+        "text": "Vous avez."
+    },
+    {
+        "timestamp": "00:01:31,180 --> 00:01:49,540",
+        "speaker": "Paul Noble",
+        "text": "The \"have\" begins with a vowel, with an 'a'. And so when a word follows it that begins with a vowel, you can if you want more or less push the 's' from the end of \"vous\" onto the vowel of the next one, \"avez\". And so you can make \"vous avez\" sound instead like-"
+    },
+    {
+        "timestamp": "00:01:49,540 --> 00:01:51,059",
+        "speaker": "Marion",
+        "text": "Vous avez."
+    },
+    {
+        "timestamp": "00:01:51,059 --> 00:02:02,860",
+        "speaker": "Paul Noble",
+        "text": "This is entirely optional and up to you. So, what I would say is do what you're more comfortable with, but be aware at least that the French may well pronounce it as-"
+    },
+    {
+        "timestamp": "00:02:02,860 --> 00:02:04,919",
+        "speaker": "Marion",
+        "text": "Vous avez."
+    },
+    {
+        "timestamp": "00:02:04,919 --> 00:02:08,059",
+        "speaker": "Paul Noble",
+        "text": "Although if you want, you can also pronounce it as-"
+    },
+    {
+        "timestamp": "00:02:08,059 --> 00:02:09,059",
+        "speaker": "Marion",
+        "text": "Vous avez."
+    },
+    {
+        "timestamp": "00:02:09,059 --> 00:02:13,059",
+        "speaker": "Paul Noble",
+        "text": "If you find it simpler to do so."
+    },
+    {
+        "timestamp": "00:02:13,059 --> 00:02:16,099",
+        "speaker": "Paul Noble",
+        "text": "So, uh, \"for me\" in French is-"
+    },
+    {
+        "timestamp": "00:02:16,099 --> 00:02:18,179",
+        "speaker": "Marion",
+        "text": "Pour moi."
+    },
+    {
+        "timestamp": "00:02:18,179 --> 00:02:19,679",
+        "speaker": "Marion",
+        "text": "Pour moi."
+    },
+    {
+        "timestamp": "00:02:19,679 --> 00:02:30,080",
+        "speaker": "Paul Noble",
+        "text": "So how would you say, \"You have prepared the coffee for me\"? Now, make sure when you're saying this to include all the components."
+    },
+    {
+        "timestamp": "00:02:30,080 --> 00:02:42,039",
+        "speaker": "Paul Noble",
+        "text": "So you'll need, \"You have prepared the coffee for me.\""
+    },
+    {
+        "timestamp": "00:02:42,039 --> 00:02:46,879",
+        "speaker": "Marion",
+        "text": "Vous avez préparé le café pour moi."
+    },
+    {
+        "timestamp": "00:02:46,879 --> 00:03:00,860",
+        "speaker": "Paul Noble",
+        "text": "Now, to turn that into a question, all you need to do is to, to change the order of the words \"you have\". So again, what, how would you say, \"You have\" in French?"
+    },
+    {
+        "timestamp": "00:03:00,860 --> 00:03:02,440",
+        "speaker": "Marion",
+        "text": "Vous avez?"
+    },
+    {
+        "timestamp": "00:03:02,440 --> 00:03:10,860",
+        "speaker": "Paul Noble",
+        "text": "Now, let's turn that round and make it into a question, make it into \"have you\". How would you say, \"Have you?\""
+    },
+    {
+        "timestamp": "00:03:10,860 --> 00:03:13,000",
+        "speaker": "Marion",
+        "text": "Avez-vous?"
+    },
+    {
+        "timestamp": "00:03:13,000 --> 00:03:20,599",
+        "speaker": "Paul Noble",
+        "text": "So how would you say, \"Have you prepared the coffee for me?\""
+    },
+    {
+        "timestamp": "00:03:20,599 --> 00:03:24,080",
+        "speaker": "Marion",
+        "text": "Avez-vous préparé le café pour moi?"
+    },
+    {
+        "timestamp": "00:03:24,080 --> 00:03:31,599",
+        "speaker": "Paul Noble",
+        "text": "How would you say, \"I have prepared roast beef for dinner. Have you prepared the coffee?\""
+    },
+    {
+        "timestamp": "00:03:31,599 --> 00:03:42,759",
+        "speaker": "Paul Noble",
+        "text": "Let's start with that first bit with the, with, \"I have prepared the roast beef for the dinner.\""
+    },
+    {
+        "timestamp": "00:03:42,759 --> 00:03:46,199",
+        "speaker": "Marion",
+        "text": "J'ai préparé le rosbif pour le dîner."
+    },
+    {
+        "timestamp": "00:03:46,199 --> 00:03:50,360",
+        "speaker": "Paul Noble",
+        "text": "Again, make sure when you're saying \"the dinner\" in French that you pronounce it as-"
+    },
+    {
+        "timestamp": "00:03:50,360 --> 00:03:51,860",
+        "speaker": "Marion",
+        "text": "Le dîner."
+    },
+    {
+        "timestamp": "00:03:51,860 --> 00:03:55,000",
+        "speaker": "Paul Noble",
+        "text": "That sort of 'ay' sound at the end of it."
+    },
+    {
+        "timestamp": "00:03:55,000 --> 00:04:02,220",
+        "speaker": "Paul Noble",
+        "text": "Good. And the next part, \"Have you prepared the coffee?\""
+    },
+    {
+        "timestamp": "00:04:02,220 --> 00:04:05,960",
+        "speaker": "Marion",
+        "text": "Avez-vous préparé le café?"
+    },
+    {
+        "timestamp": "00:04:05,960 --> 00:04:07,000",
+        "speaker": "Paul Noble",
+        "text": "Thank you."
+    },
+    {
+        "timestamp": "00:00:00,259 --> 00:00:02,679",
+        "speaker": "Paul Noble",
+        "text": "Okay. [laughs] \"He has\" in French is?"
+    },
+    {
+        "timestamp": "00:00:02,679 --> 00:00:04,739",
+        "speaker": "Marion",
+        "text": "Il a."
+    },
+    {
+        "timestamp": "00:00:04,739 --> 00:00:07,199",
+        "speaker": "Marion",
+        "text": "Il a."
+    },
+    {
+        "timestamp": "00:00:07,199 --> 00:00:15,899",
+        "speaker": "Paul Noble",
+        "text": "How would you say, \"He has prepared the coffee for me?\""
+    },
+    {
+        "timestamp": "00:00:15,899 --> 00:00:20,299",
+        "speaker": "Marion",
+        "text": "Il a préparé le café pour moi."
+    },
+    {
+        "timestamp": "00:00:20,299 --> 00:00:22,279",
+        "speaker": "Paul Noble",
+        "text": "\"She has\" in French is?"
+    },
+    {
+        "timestamp": "00:00:22,279 --> 00:00:25,239",
+        "speaker": "Marion",
+        "text": "Elle a. Elle a."
+    },
+    {
+        "timestamp": "00:00:25,239 --> 00:00:31,000",
+        "speaker": "Paul Noble",
+        "text": "You may be familiar, there's a, a woman's magazine called \"Elle\", which means \"she\". So if you're familiar with that, that might help you remember it."
+    },
+    {
+        "timestamp": "00:00:31,000 --> 00:00:40,799",
+        "speaker": "Paul Noble",
+        "text": "How would you say, \"She has prepared the coffee for me\"?"
+    },
+    {
+        "timestamp": "00:00:40,799 --> 00:00:45,759",
+        "speaker": "Marion",
+        "text": "Elle a préparé le café pour moi."
+    },
+    {
+        "timestamp": "00:00:45,759 --> 00:00:49,279",
+        "speaker": "Paul Noble",
+        "text": "The word for \"your\" in French, \"your,\" is?"
+    },
+    {
+        "timestamp": "00:00:49,279 --> 00:00:51,219",
+        "speaker": "Marion",
+        "text": "Votre."
+    },
+    {
+        "timestamp": "00:00:51,219 --> 00:00:55,099",
+        "speaker": "Paul Noble",
+        "text": "So for example, to say \"your mother,\" you would say?"
+    },
+    {
+        "timestamp": "00:00:55,099 --> 00:01:01,279",
+        "speaker": "Marion",
+        "text": "Votre mère. Votre mère."
+    },
+    {
+        "timestamp": "00:01:01,279 --> 00:01:08,860",
+        "speaker": "Paul Noble",
+        "text": "So how would you say, \"Your mother has prepared the coffee\"?"
+    },
+    {
+        "timestamp": "00:01:08,860 --> 00:01:13,299",
+        "speaker": "Marion",
+        "text": "Votre mère a préparé le café."
+    },
+    {
+        "timestamp": "00:01:13,299 --> 00:01:19,080",
+        "speaker": "Paul Noble",
+        "text": "So as you can see, in English we would say \"she has,\" which is?"
+    },
+    {
+        "timestamp": "00:01:19,080 --> 00:01:21,040",
+        "speaker": "Marion",
+        "text": "Elle a."
+    },
+    {
+        "timestamp": "00:01:21,040 --> 00:01:23,979",
+        "speaker": "Paul Noble",
+        "text": "And so to say \"your mother has,\" you'll say?"
+    },
+    {
+        "timestamp": "00:01:23,979 --> 00:01:26,360",
+        "speaker": "Marion",
+        "text": "Votre mère a."
+    },
+    {
+        "timestamp": "00:01:26,360 --> 00:01:34,799",
+        "speaker": "Paul Noble",
+        "text": "So again, how would you say, \"Your mother has prepared the coffee\"?"
+    },
+    {
+        "timestamp": "00:01:34,799 --> 00:01:38,479",
+        "speaker": "Marion",
+        "text": "Votre mère a préparé le café."
+    },
+    {
+        "timestamp": "00:01:38,479 --> 00:01:46,259",
+        "speaker": "Paul Noble",
+        "text": "How would you say, \"Your mother has visited the park\"?"
+    },
+    {
+        "timestamp": "00:01:46,259 --> 00:01:49,659",
+        "speaker": "Marion",
+        "text": "Votre mère a visité le parc."
+    },
+    {
+        "timestamp": "00:01:49,659 --> 00:01:53,579",
+        "speaker": "Paul Noble",
+        "text": "Now make sure to pronounce the word for \"has\" very clearly as?"
+    },
+    {
+        "timestamp": "00:01:53,579 --> 00:01:55,119",
+        "speaker": "Marion",
+        "text": "A."
+    },
+    {
+        "timestamp": "00:01:55,119 --> 00:02:02,000",
+        "speaker": "Paul Noble",
+        "text": "So it's actually spelt with just an \"a\", but the \"a\" in French is pronounced much more as a sort of an \"ah\" sound."
+    },
+    {
+        "timestamp": "00:02:02,000 --> 00:02:06,000",
+        "speaker": "Paul Noble",
+        "text": "So not \"a\" like in English, or \"ay\", but more of an \"ah\"."
+    },
+    {
+        "timestamp": "00:02:06,000 --> 00:02:10,000",
+        "speaker": "Paul Noble",
+        "text": "One more time, \"Your mother has visited the park.\""
+    },
+    {
+        "timestamp": "00:02:10,000 --> 00:02:15,399",
+        "speaker": "Marion",
+        "text": "Votre mère a visité le parc."
+    },
+    {
+        "timestamp": "00:02:15,399 --> 00:02:18,319",
+        "speaker": "Paul Noble",
+        "text": "Good."
+    },
+    {
+        "timestamp": "00:02:18,319 --> 00:02:20,039",
+        "speaker": "Paul Noble",
+        "text": "Now, if \"your mother\" is?"
+    },
+    {
+        "timestamp": "00:02:20,039 --> 00:02:22,779",
+        "speaker": "Marion",
+        "text": "Votre mère."
+    },
+    {
+        "timestamp": "00:02:22,779 --> 00:02:27,959",
+        "speaker": "Paul Noble",
+        "text": "It should be relatively easy to realize that \"your father\" is?"
+    },
+    {
+        "timestamp": "00:02:27,959 --> 00:02:29,779",
+        "speaker": "Marion",
+        "text": "Votre père."
+    },
+    {
+        "timestamp": "00:02:29,779 --> 00:02:41,059",
+        "speaker": "Paul Noble",
+        "text": "One's spelt with an M as in \"mama\", and one's spelt with a P as in \"papa\" or something like that. So they're very similar. One is an M, one is a P. It's common through many languages."
+    },
+    {
+        "timestamp": "00:02:41,059 --> 00:02:42,559",
+        "speaker": "Paul Noble",
+        "text": "So again, \"your father\" is?"
+    },
+    {
+        "timestamp": "00:02:42,559 --> 00:02:44,879",
+        "speaker": "Marion",
+        "text": "Votre père."
+    },
+    {
+        "timestamp": "00:02:44,879 --> 00:02:55,000",
+        "speaker": "Paul Noble",
+        "text": "Okay, assuming there's been some sort of disagreement, how would you say, \"Your mother has visited the park. Your father has visited the Louvre.\""
+    },
+    {
+        "timestamp": "00:02:55,000 --> 00:02:59,779",
+        "speaker": "Paul Noble",
+        "text": "So, \"Your mother has visited the park.\""
+    },
+    {
+        "timestamp": "00:02:59,779 --> 00:03:06,419",
+        "speaker": "Paul Noble",
+        "text": "\"Your father has visited the Louvre.\""
+    },
+    {
+        "timestamp": "00:03:06,419 --> 00:03:10,439",
+        "speaker": "Marion",
+        "text": "Votre mère a visité le parc. Votre père a visité le Louvre."
+    },
+    {
+        "timestamp": "00:00:01,860 --> 00:00:04,480",
+        "speaker": "Paul Noble",
+        "text": "The word for \"preparation\" in French is:"
+    },
+    {
+        "timestamp": "00:00:04,480 --> 00:00:06,519",
+        "speaker": "Marion",
+        "text": "Préparation."
+    },
+    {
+        "timestamp": "00:00:06,519 --> 00:00:09,279",
+        "speaker": "Marion",
+        "text": "Préparation."
+    },
+    {
+        "timestamp": "00:00:09,279 --> 00:00:22,420",
+        "speaker": "Paul Noble",
+        "text": "As you can perhaps tell, it is similar to the English \"preparation\". In fact, it's spelled almost exactly the same. The only difference is in the pronunciation."
+    },
+    {
+        "timestamp": "00:00:22,420 --> 00:00:39,659",
+        "speaker": "Paul Noble",
+        "text": "You'll also perhaps notice the, the way that \"preparation\" is spelt in English. Now, the last three letters on the English word \"preparation\" are I-O-N. So the last three letters on \"preparation\" are I-O-N."
+    },
+    {
+        "timestamp": "00:00:39,659 --> 00:00:46,399",
+        "speaker": "Paul Noble",
+        "text": "Now, words in English which end in I-O-N have actually come into English via French."
+    },
+    {
+        "timestamp": "00:00:46,399 --> 00:00:55,699",
+        "speaker": "Paul Noble",
+        "text": "There are around 1,250 of them in English. And if you know that word in English, then it more or less means that you know it in French."
+    },
+    {
+        "timestamp": "00:00:55,699 --> 00:01:02,439",
+        "speaker": "Paul Noble",
+        "text": "The only issue is working out how to pronounce it correctly, and this isn't that difficult."
+    },
+    {
+        "timestamp": "00:01:02,439 --> 00:01:14,079",
+        "speaker": "Paul Noble",
+        "text": "If we take a word like \"preparation\" in English, and simply change the way we pronounce the \"-ation\" at the end, we will find the French."
+    },
+    {
+        "timestamp": "00:01:14,079 --> 00:01:19,639",
+        "speaker": "Paul Noble",
+        "text": "Okay. \"-ation\" in English, in French, will instead be pronounced..."
+    },
+    {
+        "timestamp": "00:01:19,639 --> 00:01:21,559",
+        "speaker": "Marion",
+        "text": "Assion."
+    },
+    {
+        "timestamp": "00:01:21,559 --> 00:01:23,259",
+        "speaker": "Marion",
+        "text": "Assion."
+    },
+    {
+        "timestamp": "00:01:23,259 --> 00:01:26,999",
+        "speaker": "Paul Noble",
+        "text": "Make that change and you find the French word."
+    },
+    {
+        "timestamp": "00:01:26,999 --> 00:01:34,519",
+        "speaker": "Paul Noble",
+        "text": "So for instance, how do you think you'd pronounce \"reservation\" in French?"
+    },
+    {
+        "timestamp": "00:01:34,519 --> 00:01:36,499",
+        "speaker": "Marion",
+        "text": "Réservation."
+    },
+    {
+        "timestamp": "00:01:36,499 --> 00:01:43,199",
+        "speaker": "Paul Noble",
+        "text": "Let's try another one. What about \"decoration\"?"
+    },
+    {
+        "timestamp": "00:01:43,199 --> 00:01:45,119",
+        "speaker": "Marion",
+        "text": "Décoration."
+    },
+    {
+        "timestamp": "00:01:45,119 --> 00:01:47,939",
+        "speaker": "Paul Noble",
+        "text": "So very clearly at the end, that \"-ation\" becomes?"
+    },
+    {
+        "timestamp": "00:01:47,939 --> 00:01:49,519",
+        "speaker": "Marion",
+        "text": "Assion."
+    },
+    {
+        "timestamp": "00:01:49,519 --> 00:02:12,739",
+        "speaker": "Paul Noble",
+        "text": "As long as you make that change, you have accessed 1,250 words in French, and it only takes a few seconds to learn. Let's try another one, but slightly more tricky this time. We're going to try \"invitation\", except we need to know in this case that \"in-\" at the front of a French word is actually pronounced..."
+    },
+    {
+        "timestamp": "00:02:12,739 --> 00:02:14,819",
+        "speaker": "Marion",
+        "text": "Un. Un."
+    },
+    {
+        "timestamp": "00:02:14,819 --> 00:02:29,319",
+        "speaker": "Paul Noble",
+        "text": "My co-teacher Marion likes to refer to this as the sulky teenager sound. It's sort of the, \"Uh, I hate you.\" I like that description. It's a very easy way to remember how to pronounce it. So again, \"in-\" is pronounced?"
+    },
+    {
+        "timestamp": "00:02:29,319 --> 00:02:31,499",
+        "speaker": "Marion",
+        "text": "Un."
+    },
+    {
+        "timestamp": "00:02:31,499 --> 00:02:37,599",
+        "speaker": "Paul Noble",
+        "text": "So how would you say \"invitation\" in French?"
+    },
+    {
+        "timestamp": "00:02:37,599 --> 00:02:39,699",
+        "speaker": "Marion",
+        "text": "Invitation."
+    },
+    {
+        "timestamp": "00:02:39,699 --> 00:02:53,919",
+        "speaker": "Paul Noble",
+        "text": "So, it's a matter of actually getting several different pronunciation elements correct together. But all it takes is a bit of practice. As soon as you can pronounce them correctly, you know the word in French."
+    },
+    {
+        "timestamp": "00:02:53,919 --> 00:03:09,059",
+        "speaker": "Paul Noble",
+        "text": "Now, these words that end in I-O-N are very useful in that they give you 1,250 very easy words that you can use in French immediately. However, they are even better than that."
+    },
+    {
+        "timestamp": "00:03:09,059 --> 00:03:14,119",
+        "speaker": "Paul Noble",
+        "text": "If you take a word, for instance, like \"preparation\","
+    },
+    {
+        "timestamp": "00:03:14,119 --> 00:03:22,839",
+        "speaker": "Paul Noble",
+        "text": "you can make it into the past tense in French. You can make \"preparation\" into \"prepared\" and it's very easy to do so."
+    },
+    {
+        "timestamp": "00:03:22,839 --> 00:03:56,859",
+        "speaker": "Paul Noble",
+        "text": "What we're going to do is we're going to take the English word \"preparation\" and we're going to cut off that \"-ation\" at the end. We're gonna get rid of \"-ation\". We don't want it anymore. So we're gonna cut the \"-ation\" off \"preparation\", and in its place we're going to add what I like to call the \"café E\". Now, you'll be familiar with the, the letter, the \"café E\", obviously from the word \"café\", from which, uh, I take its name because at the end of the word \"café\", you'll see there's an E with a little accent on the top."
+    },
+    {
+        "timestamp": "00:03:56,859 --> 00:04:12,259",
+        "speaker": "Paul Noble",
+        "text": "That E in English as well gives the, with the accent on, gives the sound \"A\", because we don't pronounce \"café\" as \"kayf\", which we would if there was no \"café E\" on the end. We pronounce it as \"café\". So it's got that \"A\" sound on the end."
+    },
+    {
+        "timestamp": "00:04:12,259 --> 00:04:27,719",
+        "speaker": "Paul Noble",
+        "text": "What we're going to do here, therefore, is we're going to cut off the \"-ation\" from \"preparation\", and in its place we're going to add the \"café E\". So, get rid of the \"-ation\" of the end of \"preparation\", and in its place put the \"café E\"."
+    },
+    {
+        "timestamp": "00:04:27,719 --> 00:04:32,339",
+        "speaker": "Paul Noble",
+        "text": "What word will you, will you then have?"
+    },
+    {
+        "timestamp": "00:04:32,339 --> 00:04:33,839",
+        "speaker": "Marion",
+        "text": "Préparé."
+    },
+    {
+        "timestamp": "00:04:33,839 --> 00:04:38,839",
+        "speaker": "Paul Noble",
+        "text": "Which is the word we've already been using, which means \"prepared\"."
+    },
+    {
+        "timestamp": "00:04:38,839 --> 00:04:43,519",
+        "speaker": "Paul Noble",
+        "text": "So, how would you say, \"I have prepared\"?"
+    },
+    {
+        "timestamp": "00:04:43,519 --> 00:04:45,519",
+        "speaker": "Marion",
+        "text": "J'ai préparé."
+    },
+    {
+        "timestamp": "00:04:45,519 --> 00:04:51,079",
+        "speaker": "Paul Noble",
+        "text": "Make sure again when you're pronouncing \"I have\" to pronounce it..."
+    },
+    {
+        "timestamp": "00:04:51,079 --> 00:04:52,539",
+        "speaker": "Marion",
+        "text": "J'ai."
+    },
+    {
+        "timestamp": "00:04:52,539 --> 00:04:53,799",
+        "speaker": "Marion",
+        "text": "J'ai."
+    },
+    {
+        "timestamp": "00:04:53,799 --> 00:05:00,639",
+        "speaker": "Paul Noble",
+        "text": "So again, it's like, it's like the English letter \"J\" really, but pronounced in a very French way."
+    },
+    {
+        "timestamp": "00:05:00,639 --> 00:05:07,699",
+        "speaker": "Paul Noble",
+        "text": "All right. Now, going back to the ION words. In English, we have \"visitation\"."
+    },
+    {
+        "timestamp": "00:05:07,699 --> 00:05:18,439",
+        "speaker": "Paul Noble",
+        "text": "Let's cut off the \"-ation\" from \"visitation\", and again, add the \"café E\" in its place. What word do we then get?"
+    },
+    {
+        "timestamp": "00:05:18,439 --> 00:05:19,939",
+        "speaker": "Marion",
+        "text": "Visité."
+    },
+    {
+        "timestamp": "00:05:19,939 --> 00:05:22,099",
+        "speaker": "Paul Noble",
+        "text": "Which means \"visited\"."
+    },
+    {
+        "timestamp": "00:05:22,099 --> 00:05:28,419",
+        "speaker": "Paul Noble",
+        "text": "So, how would you say, \"I have visited\"?"
+    },
+    {
+        "timestamp": "00:05:28,419 --> 00:05:33,159",
+        "speaker": "Marion",
+        "text": "J'ai visité."
+    },
+    {
+        "timestamp": "00:05:33,159 --> 00:05:39,459",
+        "speaker": "Paul Noble",
+        "text": "How would you say \"decoration\" in French? The full word \"decoration\"."
+    },
+    {
+        "timestamp": "00:05:39,459 --> 00:05:42,559",
+        "speaker": "Marion",
+        "text": "Décoration."
+    },
+    {
+        "timestamp": "00:05:42,559 --> 00:05:56,019",
+        "speaker": "Paul Noble",
+        "text": "So that's the full word \"decoration\", which will stay the same in French. However, if you want to turn it into \"decorated\", you'll cut off the \"-ation\" and add the \"café E\". So how would you say \"decorated\"?"
+    },
+    {
+        "timestamp": "00:05:56,019 --> 00:05:58,319",
+        "speaker": "Marion",
+        "text": "Décoré."
+    },
+    {
+        "timestamp": "00:05:58,319 --> 00:06:03,079",
+        "speaker": "Paul Noble",
+        "text": "And how would you say, \"I have decorated\"?"
+    },
+    {
+        "timestamp": "00:06:03,079 --> 00:06:06,199",
+        "speaker": "Marion",
+        "text": "J'ai décoré."
+    },
+    {
+        "timestamp": "00:06:06,199 --> 00:06:10,079",
+        "speaker": "Paul Noble",
+        "text": "To say \"the house\" in French, \"the house\" is?"
+    },
+    {
+        "timestamp": "00:06:10,079 --> 00:06:11,999",
+        "speaker": "Marion",
+        "text": "La maison."
+    },
+    {
+        "timestamp": "00:06:11,999 --> 00:06:13,799",
+        "speaker": "Marion",
+        "text": "La maison."
+    },
+    {
+        "timestamp": "00:06:13,799 --> 00:06:20,059",
+        "speaker": "Paul Noble",
+        "text": "So how would you say, \"I have decorated the house\"?"
+    },
+    {
+        "timestamp": "00:06:20,059 --> 00:06:21,839",
+        "speaker": "Marion",
+        "text": "J'ai décoré la maison."
+    },
+    {
+        "timestamp": "00:00:00,459 --> 00:00:06,319",
+        "speaker": "Paul Noble",
+        "text": "All right. Now, if \"I have decorated the house\" is-"
+    },
+    {
+        "timestamp": "00:00:06,319 --> 00:00:09,599",
+        "speaker": "Marion",
+        "text": "J'ai décoré la maison."
+    },
+    {
+        "timestamp": "00:00:09,599 --> 00:00:19,479",
+        "speaker": "Paul Noble",
+        "text": "How do you think I, you would say, \"I decorated the house\"?"
+    },
+    {
+        "timestamp": "00:00:19,479 --> 00:00:21,920",
+        "speaker": "Marion",
+        "text": "J'ai décoré la maison."
+    },
+    {
+        "timestamp": "00:00:21,920 --> 00:00:33,899",
+        "speaker": "Paul Noble",
+        "text": "Now, you may have guessed correctly that actually in French, \"I have decorated the house,\" and, \"I decorated the house,\" are in fact said in exactly the same way."
+    },
+    {
+        "timestamp": "00:00:33,899 --> 00:00:55,539",
+        "speaker": "Paul Noble",
+        "text": "In English, we use two different tenses there. We have, \"I have decorated the house.\" We also have, \"I decorated the house.\" There's a slight difference in meaning in English. It's very small, but it does exist. But in French, it's in fact easier because both for, \"I have decorated the house,\" or, \"I decorated the house,\" for both of them, you will simply say?"
+    },
+    {
+        "timestamp": "00:00:55,539 --> 00:00:59,919",
+        "speaker": "Marion",
+        "text": "J'ai décoré la maison."
+    },
+    {
+        "timestamp": "00:00:59,919 --> 00:01:06,239",
+        "speaker": "Paul Noble",
+        "text": "Okay. If, \"I have decorated the house,\" and, \"I decorated the house,\" is?"
+    },
+    {
+        "timestamp": "00:01:06,239 --> 00:01:08,339",
+        "speaker": "Marion",
+        "text": "J'ai décoré la maison."
+    },
+    {
+        "timestamp": "00:01:08,339 --> 00:01:17,539",
+        "speaker": "Paul Noble",
+        "text": "How do you think you would say, \"I did decorate the house?\""
+    },
+    {
+        "timestamp": "00:01:17,539 --> 00:01:20,119",
+        "speaker": "Marion",
+        "text": "J'ai décoré la maison."
+    },
+    {
+        "timestamp": "00:01:20,119 --> 00:01:32,279",
+        "speaker": "Paul Noble",
+        "text": "As you can see, for all three tenses that we have in English, just one is used in French. And this is one way in which French is much easier to learn than English."
+    },
+    {
+        "timestamp": "00:01:32,279 --> 00:01:43,399",
+        "speaker": "Paul Noble",
+        "text": "Um, you may, if you know French people, or if you've spent time in a French-speaking country, you may find that they sometimes use English in a way we wouldn't. They may say something like, um,"
+    },
+    {
+        "timestamp": "00:01:43,399 --> 00:02:18,559",
+        "speaker": "Paul Noble",
+        "text": "uh, \"I have decorated the house last night,\" which we wouldn't say. We'd say, \"I decorated the house last night.\" It's difficult for them to understand that in English we will use very variable tenses for this same type of expression. Because in French, they will, for all of them, they'll just be saying, \"I have decorated the house.\" So, it's a problem for French speakers. But fortunately for us, for English speakers, it's an advantage, because you don't need to worry about swapping tenses. Everything is, \"I have decorated the house.\" \"I have this\", \"I have that\". Um, as we'll now see."
+    },
+    {
+        "timestamp": "00:02:18,559 --> 00:02:28,679",
+        "speaker": "Paul Noble",
+        "text": "All right. How would you say, \"You have decorated the house?\""
+    },
+    {
+        "timestamp": "00:02:28,679 --> 00:02:31,939",
+        "speaker": "Marion",
+        "text": "Vous avez décoré la maison."
+    },
+    {
+        "timestamp": "00:02:31,939 --> 00:02:43,219",
+        "speaker": "Paul Noble",
+        "text": "Let's turn that round into a question now, and we're going to change, \"You have,\" round into, \"Have you?\" And we're going to say, \"Have you decorated the house?\""
+    },
+    {
+        "timestamp": "00:02:43,219 --> 00:02:46,959",
+        "speaker": "Marion",
+        "text": "Avez-vous décoré la maison?"
+    },
+    {
+        "timestamp": "00:02:46,959 --> 00:02:54,059",
+        "speaker": "Paul Noble",
+        "text": "How do you think you'd pronounce the French word, \"reservation\"?"
+    },
+    {
+        "timestamp": "00:02:54,059 --> 00:02:57,239",
+        "speaker": "Marion",
+        "text": "Réservation."
+    },
+    {
+        "timestamp": "00:02:57,239 --> 00:03:05,639",
+        "speaker": "Paul Noble",
+        "text": "And how do you think you'd change it and make it into \"reserved\"? You'll cut off the \"-ation\" and add the \"café E\". So what will \"reserved\" be?"
+    },
+    {
+        "timestamp": "00:03:05,639 --> 00:03:09,059",
+        "speaker": "Marion",
+        "text": "Réservé."
+    },
+    {
+        "timestamp": "00:03:09,059 --> 00:03:14,619",
+        "speaker": "Paul Noble",
+        "text": "How would you say, \"He has reserved\"?"
+    },
+    {
+        "timestamp": "00:03:14,619 --> 00:03:17,739",
+        "speaker": "Marion",
+        "text": "Il a réservé."
+    },
+    {
+        "timestamp": "00:03:17,739 --> 00:03:20,979",
+        "speaker": "Paul Noble",
+        "text": "Um, \"a table\" in French, \"a table\" is?"
+    },
+    {
+        "timestamp": "00:03:20,979 --> 00:03:23,159",
+        "speaker": "Marion",
+        "text": "Une table."
+    },
+    {
+        "timestamp": "00:03:23,159 --> 00:03:25,179",
+        "speaker": "Marion",
+        "text": "Une table."
+    },
+    {
+        "timestamp": "00:03:25,179 --> 00:03:31,639",
+        "speaker": "Paul Noble",
+        "text": "So how would you say, \"He has reserved a table?\""
+    },
+    {
+        "timestamp": "00:03:31,639 --> 00:03:34,899",
+        "speaker": "Marion",
+        "text": "Il a réservé une table."
+    },
+    {
+        "timestamp": "00:03:34,899 --> 00:03:50,519",
+        "speaker": "Paul Noble",
+        "text": "Again, \"table\" is spelt the same way in English as it is in French, and you'll find that words in English that end in A-B-L-E, as well as perhaps you can call them their cousins, words that end in I-B-L-E in English,"
+    },
+    {
+        "timestamp": "00:03:50,519 --> 00:04:13,779",
+        "speaker": "Paul Noble",
+        "text": "are the same in French. So you'll find these words that end in A-B-L-E or I-B-L-E, and so A-B-L-E such as \"table\" for instance, it will be the same word normally in French, pronounced differently. But if you can learn French pronunciation, it gives you access to thousands of words simply using the English you already know."
+    },
+    {
+        "timestamp": "00:04:13,779 --> 00:04:17,619",
+        "speaker": "Paul Noble",
+        "text": "Okay. So if, \"he has reserved a table\" is?"
+    },
+    {
+        "timestamp": "00:04:17,619 --> 00:04:20,199",
+        "speaker": "Marion",
+        "text": "Il a réservé une table."
+    },
+    {
+        "timestamp": "00:04:20,199 --> 00:04:28,439",
+        "speaker": "Paul Noble",
+        "text": "How would you say, \"He reserved a table?\""
+    },
+    {
+        "timestamp": "00:04:28,439 --> 00:04:31,119",
+        "speaker": "Marion",
+        "text": "Il a réservé une table."
+    },
+    {
+        "timestamp": "00:04:31,119 --> 00:04:43,819",
+        "speaker": "Paul Noble",
+        "text": "As you can see, again, it's the same. 'Cause where we would use two tenses, they use one. Let's try the same thing again. How would you say, \"He did reserve a table?\""
+    },
+    {
+        "timestamp": "00:04:43,819 --> 00:04:47,579",
+        "speaker": "Marion",
+        "text": "Il a réservé une table."
+    },
+    {
+        "timestamp": "00:04:47,579 --> 00:04:50,579",
+        "speaker": "Paul Noble",
+        "text": "As you may remember, \"your father\" in French is?"
+    },
+    {
+        "timestamp": "00:04:50,579 --> 00:04:52,619",
+        "speaker": "Marion",
+        "text": "Votre père."
+    },
+    {
+        "timestamp": "00:04:52,619 --> 00:04:59,619",
+        "speaker": "Paul Noble",
+        "text": "How would you say, \"Your father has reserved a table?\""
+    },
+    {
+        "timestamp": "00:04:59,619 --> 00:05:05,419",
+        "speaker": "Marion",
+        "text": "Votre père a réservé une table."
+    },
+    {
+        "timestamp": "00:05:05,419 --> 00:05:07,479",
+        "speaker": "Paul Noble",
+        "text": "\"For you\" in French is?"
+    },
+    {
+        "timestamp": "00:05:07,479 --> 00:05:09,399",
+        "speaker": "Marion",
+        "text": "Pour vous."
+    },
+    {
+        "timestamp": "00:05:09,399 --> 00:05:10,939",
+        "speaker": "Marion",
+        "text": "Pour vous."
+    },
+    {
+        "timestamp": "00:05:10,939 --> 00:05:18,559",
+        "speaker": "Paul Noble",
+        "text": "How would you say, \"I have reserved a table for you?\""
+    },
+    {
+        "timestamp": "00:05:18,559 --> 00:05:22,999",
+        "speaker": "Marion",
+        "text": "J'ai réservé une table pour vous."
+    },
+    {
+        "timestamp": "00:05:22,999 --> 00:05:32,399",
+        "speaker": "Paul Noble",
+        "text": "To say, \"For dinner,\" in French as we mentioned earlier, you'll say, \"For the dinner.\" Can you remember what that is?"
+    },
+    {
+        "timestamp": "00:05:32,399 --> 00:05:34,199",
+        "speaker": "Marion",
+        "text": "Pour le dîner."
+    },
+    {
+        "timestamp": "00:05:34,199 --> 00:05:37,959",
+        "speaker": "Paul Noble",
+        "text": "Again, make sure to pronounce \"the dinner\" as?"
+    },
+    {
+        "timestamp": "00:05:37,959 --> 00:05:40,459",
+        "speaker": "Marion",
+        "text": "Le dîner."
+    },
+    {
+        "timestamp": "00:05:40,459 --> 00:05:53,859",
+        "speaker": "Paul Noble",
+        "text": "So with that in mind, how would you say, \"I have reserved a table for dinner.\" Whereas the French would say, \"I have reserved a table for the dinner.\""
+    },
+    {
+        "timestamp": "00:05:53,859 --> 00:05:58,779",
+        "speaker": "Marion",
+        "text": "J'ai réservé une table pour le dîner."
+    },
+    {
+        "timestamp": "00:05:58,779 --> 00:06:09,239",
+        "speaker": "Paul Noble",
+        "text": "Let's look again at the word, \"invitation\", which was a little bit trickier to pronounce because the, the \"in-\" at the beginning has that sort of sulky teenager sound that's pronounced."
+    },
+    {
+        "timestamp": "00:06:09,239 --> 00:06:11,139",
+        "speaker": "Marion",
+        "text": "Un."
+    },
+    {
+        "timestamp": "00:06:11,139 --> 00:06:16,019",
+        "speaker": "Paul Noble",
+        "text": "So how would you say again, \"invitation\"?"
+    },
+    {
+        "timestamp": "00:06:16,019 --> 00:06:17,779",
+        "speaker": "Marion",
+        "text": "Invitation."
+    },
+    {
+        "timestamp": "00:06:17,779 --> 00:06:28,199",
+        "speaker": "Paul Noble",
+        "text": "Okay, and let's change the \"invitation\" into \"invited\". We'll cut off the \"-ation\" and add a \"café E\". So, \"invited\" will be?"
+    },
+    {
+        "timestamp": "00:06:28,199 --> 00:06:29,679",
+        "speaker": "Marion",
+        "text": "Invité."
+    },
+    {
+        "timestamp": "00:06:29,679 --> 00:06:34,479",
+        "speaker": "Paul Noble",
+        "text": "So how would you say, \"I have invited\"?"
+    },
+    {
+        "timestamp": "00:06:34,479 --> 00:06:36,559",
+        "speaker": "Marion",
+        "text": "J'ai invité."
+    },
+    {
+        "timestamp": "00:06:36,559 --> 00:06:42,319",
+        "speaker": "Paul Noble",
+        "text": "How would you say, \"I have invited Paul\"?"
+    },
+    {
+        "timestamp": "00:06:42,319 --> 00:06:45,459",
+        "speaker": "Marion",
+        "text": "J'ai invité Paul."
+    },
+    {
+        "timestamp": "00:06:45,459 --> 00:06:50,699",
+        "speaker": "Paul Noble",
+        "text": "To say, \"To the park,\" in French, \"to the park\", you'll say?"
+    },
+    {
+        "timestamp": "00:06:50,699 --> 00:06:52,639",
+        "speaker": "Marion",
+        "text": "Au parc."
+    },
+    {
+        "timestamp": "00:06:52,639 --> 00:06:54,899",
+        "speaker": "Marion",
+        "text": "Au parc."
+    },
+    {
+        "timestamp": "00:06:54,899 --> 00:07:03,079",
+        "speaker": "Paul Noble",
+        "text": "So how would you say, \"I have invited Paul to the park\"?"
+    },
+    {
+        "timestamp": "00:07:03,079 --> 00:07:06,599",
+        "speaker": "Marion",
+        "text": "J'ai invité Paul au parc."
+    },
+    {
+        "timestamp": "00:07:06,599 --> 00:07:09,759",
+        "speaker": "Paul Noble",
+        "text": "To say, \"To the cinema,\" you would say?"
+    },
+    {
+        "timestamp": "00:07:09,759 --> 00:07:13,759",
+        "speaker": "Marion",
+        "text": "Au cinéma. Au cinéma."
+    },
+    {
+        "timestamp": "00:07:13,759 --> 00:07:24,119",
+        "speaker": "Paul Noble",
+        "text": "So how would you say, \"Have you invited Paul to the cinema?\""
+    },
+    {
+        "timestamp": "00:07:24,119 --> 00:07:27,919",
+        "speaker": "Marion",
+        "text": "Avez-vous invité Paul au cinéma?"
+    },
+    {
+        "timestamp": "00:00:00,179 --> 00:00:10,059",
+        "speaker": "Paul Noble",
+        "text": "As you can see, those I-O-N words are very useful. On the one hand, they give you 1,250 words simply by changing the pronunciation of them."
+    },
+    {
+        "timestamp": "00:00:10,059 --> 00:00:37,799",
+        "speaker": "Paul Noble",
+        "text": "On the other, you cut off the \"-ation\" and add the \"café E\", and you've got the past tense. And the various things we've been able to see, say like, uh, \"I have reserved\", \"we have decorated\", whatever, um, it's been relatively easy. But the I-O-N words are even better than that. Not only can we find things we can use in the past tense, we can also find things we can use in the present tense."
+    },
+    {
+        "timestamp": "00:00:37,799 --> 00:00:51,959",
+        "speaker": "Paul Noble",
+        "text": "If you take one of these words that ends in \"-ation\", for example, such as \"preparation\", cut off the \"-ation\" and add \"E-R\" on the end. Instead of a \"café E\", add \"E-R\"."
+    },
+    {
+        "timestamp": "00:00:51,959 --> 00:00:55,959",
+        "speaker": "Paul Noble",
+        "text": "You will have \"to prepare\"."
+    },
+    {
+        "timestamp": "00:00:55,959 --> 00:01:20,819",
+        "speaker": "Paul Noble",
+        "text": "Now, the question of course is how do we, how do we pronounce that? How do we pronounce, uh, \"preparation\" with the \"-ation\" cut off, with an \"E-R\" on the end? Well, it's actually easy because with an \"E-R\" on the end, it's pronounced in exactly the same way as it is when it has a \"café E\" on the end because \"E-R\" at the end of the word, a word is pronounced just the same way as a \"café E\" is at the end of a word."
+    },
+    {
+        "timestamp": "00:01:20,819 --> 00:01:27,999",
+        "speaker": "Paul Noble",
+        "text": "So let's, let's try again. Um, how did you say earlier \"prepared\"?"
+    },
+    {
+        "timestamp": "00:01:27,999 --> 00:01:29,659",
+        "speaker": "Marion",
+        "text": "Préparé."
+    },
+    {
+        "timestamp": "00:01:29,659 --> 00:01:33,479",
+        "speaker": "Paul Noble",
+        "text": "And let's try now \"to prepare\"."
+    },
+    {
+        "timestamp": "00:01:33,479 --> 00:01:34,819",
+        "speaker": "Marion",
+        "text": "Préparer."
+    },
+    {
+        "timestamp": "00:01:34,819 --> 00:01:37,419",
+        "speaker": "Paul Noble",
+        "text": "So as you can see, it's the same."
+    },
+    {
+        "timestamp": "00:01:37,419 --> 00:01:46,299",
+        "speaker": "Paul Noble",
+        "text": "Now they're spelt differently but if you're [laughs] learning to speak French particularly, it doesn't matter. It just makes it easier because you only ever need to worry about saying..."
+    },
+    {
+        "timestamp": "00:01:46,299 --> 00:01:48,759",
+        "speaker": "Marion",
+        "text": "Préparer."
+    },
+    {
+        "timestamp": "00:01:48,759 --> 00:01:52,899",
+        "speaker": "Paul Noble",
+        "text": "So \"I would like\" in French, \"I would like\" is..."
+    },
+    {
+        "timestamp": "00:01:52,899 --> 00:01:54,839",
+        "speaker": "Marion",
+        "text": "Je voudrais."
+    },
+    {
+        "timestamp": "00:01:54,839 --> 00:01:57,239",
+        "speaker": "Marion",
+        "text": "Je voudrais."
+    },
+    {
+        "timestamp": "00:01:57,239 --> 00:02:02,859",
+        "speaker": "Paul Noble",
+        "text": "So how would you say, \"I would like to prepare\"?"
+    },
+    {
+        "timestamp": "00:02:02,859 --> 00:02:06,539",
+        "speaker": "Marion",
+        "text": "Je voudrais préparer."
+    },
+    {
+        "timestamp": "00:02:06,539 --> 00:02:14,179",
+        "speaker": "Paul Noble",
+        "text": "\"I would like to prepare the dinner.\""
+    },
+    {
+        "timestamp": "00:02:14,179 --> 00:02:17,059",
+        "speaker": "Marion",
+        "text": "Je voudrais préparer le dîner."
+    },
+    {
+        "timestamp": "00:02:17,059 --> 00:02:19,859",
+        "speaker": "Paul Noble",
+        "text": "Again, make sure to pronounce \"the dinner\" as..."
+    },
+    {
+        "timestamp": "00:02:19,859 --> 00:02:21,519",
+        "speaker": "Marion",
+        "text": "Le dîner."
+    },
+    {
+        "timestamp": "00:02:21,519 --> 00:02:42,239",
+        "speaker": "Paul Noble",
+        "text": "And actually \"dinner\" in French also ends in \"E-R\", just as these other words do. So it has a similar pronunciation at the end as that \"café E\" sound. So the \"café E\" at the end of the word or the \"E-R\" at the end of a word, both have that \"A\" sound in French. And as you get used to it, you'll find that in French that sound comes up again and again."
+    },
+    {
+        "timestamp": "00:02:42,239 --> 00:02:46,839",
+        "speaker": "Paul Noble",
+        "text": "The word for \"hunger\" in French, \"hunger\""
+    },
+    {
+        "timestamp": "00:02:46,839 --> 00:02:49,019",
+        "speaker": "Paul Noble",
+        "text": "is..."
+    },
+    {
+        "timestamp": "00:02:49,019 --> 00:02:51,039",
+        "speaker": "Marion",
+        "text": "Faim. Faim."
+    },
+    {
+        "timestamp": "00:02:51,039 --> 00:02:57,719",
+        "speaker": "Paul Noble",
+        "text": "How would you say in French, \"I have hunger\"?"
+    },
+    {
+        "timestamp": "00:02:57,719 --> 00:02:59,999",
+        "speaker": "Marion",
+        "text": "J'ai faim."
+    },
+    {
+        "timestamp": "00:02:59,999 --> 00:03:04,739",
+        "speaker": "Paul Noble",
+        "text": "Now you may be wondering why am I teaching you to say, \"I have hunger.\""
+    },
+    {
+        "timestamp": "00:03:04,739 --> 00:03:21,359",
+        "speaker": "Paul Noble",
+        "text": "The reason for this is that the French do not say, \"I am hungry,\" they instead say, \"I have hunger.\" That's actually common through most continental European languages. That they will say, \"I have hunger\" rather than, \"I'm hungry.\""
+    },
+    {
+        "timestamp": "00:03:21,359 --> 00:03:28,639",
+        "speaker": "Paul Noble",
+        "text": "So again, how would you say, \"I am hungry\" in French? \"I am hungry.\" Literally, \"I have hunger.\""
+    },
+    {
+        "timestamp": "00:03:28,639 --> 00:03:30,739",
+        "speaker": "Marion",
+        "text": "J'ai faim."
+    },
+    {
+        "timestamp": "00:03:30,739 --> 00:03:34,039",
+        "speaker": "Paul Noble",
+        "text": "To say \"because\" in French, \"because\", you will say..."
+    },
+    {
+        "timestamp": "00:03:34,039 --> 00:03:35,819",
+        "speaker": "Marion",
+        "text": "Parce que."
+    },
+    {
+        "timestamp": "00:03:35,819 --> 00:03:38,399",
+        "speaker": "Marion",
+        "text": "Parce que."
+    },
+    {
+        "timestamp": "00:03:38,399 --> 00:03:52,919",
+        "speaker": "Paul Noble",
+        "text": "So how would you say, \"I would like to prepare the dinner because I'm hungry.\" Let's start with, \"I would like to prepare the dinner.\""
+    },
+    {
+        "timestamp": "00:03:52,919 --> 00:03:56,059",
+        "speaker": "Marion",
+        "text": "Je voudrais préparer le dîner..."
+    },
+    {
+        "timestamp": "00:03:56,059 --> 00:04:03,119",
+        "speaker": "Paul Noble",
+        "text": "\"Because I'm hungry.\""
+    },
+    {
+        "timestamp": "00:04:03,119 --> 00:04:06,199",
+        "speaker": "Marion",
+        "text": "Parce que j'ai faim."
+    },
+    {
+        "timestamp": "00:04:06,199 --> 00:04:10,679",
+        "speaker": "Marion",
+        "text": "Je voudrais préparer le dîner parce que j'ai faim."
+    },
+    {
+        "timestamp": "00:04:10,679 --> 00:04:17,839",
+        "speaker": "Paul Noble",
+        "text": "How would you say, \"I would like to prepare the coffee\"?"
+    },
+    {
+        "timestamp": "00:04:17,839 --> 00:04:21,919",
+        "speaker": "Marion",
+        "text": "Je voudrais préparer le café."
+    },
+    {
+        "timestamp": "00:04:21,919 --> 00:04:25,099",
+        "speaker": "Paul Noble",
+        "text": "The word for \"thirst\" in French, \"thirst\" is..."
+    },
+    {
+        "timestamp": "00:04:25,099 --> 00:04:28,479",
+        "speaker": "Marion",
+        "text": "Soif. Soif."
+    },
+    {
+        "timestamp": "00:04:28,479 --> 00:04:35,759",
+        "speaker": "Paul Noble",
+        "text": "So how do you think you'd say, \"I am thirsty,\" in French? Literally, \"I have thirst.\""
+    },
+    {
+        "timestamp": "00:04:35,759 --> 00:04:39,559",
+        "speaker": "Marion",
+        "text": "J'ai soif."
+    },
+    {
+        "timestamp": "00:04:39,559 --> 00:04:45,179",
+        "speaker": "Paul Noble",
+        "text": "And do you remember what the word for \"because\" was? \"Because.\""
+    },
+    {
+        "timestamp": "00:04:45,179 --> 00:04:47,059",
+        "speaker": "Marion",
+        "text": "Parce que."
+    },
+    {
+        "timestamp": "00:04:47,059 --> 00:04:52,959",
+        "speaker": "Paul Noble",
+        "text": "So how would you say, \"Because I'm thirsty.\""
+    },
+    {
+        "timestamp": "00:04:52,959 --> 00:04:57,459",
+        "speaker": "Marion",
+        "text": "Parce que j'ai soif."
+    },
+    {
+        "timestamp": "00:04:57,459 --> 00:05:09,139",
+        "speaker": "Paul Noble",
+        "text": "So how would you say, \"I would like to prepare the coffee because I'm thirsty.\""
+    },
+    {
+        "timestamp": "00:05:09,139 --> 00:05:12,119",
+        "speaker": "Marion",
+        "text": "Je voudrais préparer le café parce que j'ai soif."
+    },
+    {
+        "timestamp": "00:00:00,539 --> 00:00:04,859",
+        "speaker": "Paul Noble",
+        "text": "Now, the word for \"thirst\" in French again is..."
+    },
+    {
+        "timestamp": "00:00:04,859 --> 00:00:06,460",
+        "speaker": "Marion",
+        "text": "Soif."
+    },
+    {
+        "timestamp": "00:00:06,460 --> 00:00:11,579",
+        "speaker": "Paul Noble",
+        "text": "And it's spelled S-O-I-F."
+    },
+    {
+        "timestamp": "00:00:11,579 --> 00:00:13,799",
+        "speaker": "Paul Noble",
+        "text": "The word for \"hunger\" was?"
+    },
+    {
+        "timestamp": "00:00:13,799 --> 00:00:15,399",
+        "speaker": "Marion",
+        "text": "Faim."
+    },
+    {
+        "timestamp": "00:00:15,399 --> 00:00:18,779",
+        "speaker": "Paul Noble",
+        "text": "Spelled F-A-I-M."
+    },
+    {
+        "timestamp": "00:00:18,779 --> 00:00:29,859",
+        "speaker": "Paul Noble",
+        "text": "Now, you may notice that the \"F\" on the end of \"soif\" was very clearly pronounced, but the \"M\" on the end of \"faim\""
+    },
+    {
+        "timestamp": "00:00:29,859 --> 00:00:38,719",
+        "speaker": "Paul Noble",
+        "text": "was not pronounced, at least not clearly. Perhaps very nasally it exists, but it's not pronounced clearly."
+    },
+    {
+        "timestamp": "00:00:38,719 --> 00:00:49,639",
+        "speaker": "Paul Noble",
+        "text": "Now, as I mentioned very briefly earlier, the consonants on the ends of words, so a consonant at the end of a word in French will typically not be pronounced."
+    },
+    {
+        "timestamp": "00:00:49,639 --> 00:00:53,819",
+        "speaker": "Paul Noble",
+        "text": "So for instance, um, the word for \"you\" is?"
+    },
+    {
+        "timestamp": "00:00:53,819 --> 00:00:55,059",
+        "speaker": "Marion",
+        "text": "Vous."
+    },
+    {
+        "timestamp": "00:00:55,059 --> 00:01:01,939",
+        "speaker": "Paul Noble",
+        "text": "Spelled V-O-U-S. But it's not pronounced \"voos\", it's pronounced \"voo\"."
+    },
+    {
+        "timestamp": "00:01:01,939 --> 00:01:11,199",
+        "speaker": "Paul Noble",
+        "text": "There is a rule, a general rule that will explain when it is you should pronounce the consonants at the end of a French word and when you shouldn't."
+    },
+    {
+        "timestamp": "00:01:11,199 --> 00:01:14,799",
+        "speaker": "Paul Noble",
+        "text": "And I like to call it the \"For Luck Rule\"."
+    },
+    {
+        "timestamp": "00:01:14,799 --> 00:01:31,299",
+        "speaker": "Paul Noble",
+        "text": "Now, uh, the \"For Luck Rule\" simply tells us, or perhaps you can think of the, the French as being especially superstitious. And so as a result, the only consonants they pronounce at the end of words are those that are in \"for luck\"."
+    },
+    {
+        "timestamp": "00:01:31,299 --> 00:01:36,479",
+        "speaker": "Paul Noble",
+        "text": "And let's see which consonants are in the words \"for luck\". Well, we have \"F\","
+    },
+    {
+        "timestamp": "00:01:36,479 --> 00:01:38,759",
+        "speaker": "Paul Noble",
+        "text": "\"R\","
+    },
+    {
+        "timestamp": "00:01:38,759 --> 00:01:42,059",
+        "speaker": "Paul Noble",
+        "text": "\"L\", \"C\", \"K\"."
+    },
+    {
+        "timestamp": "00:01:42,059 --> 00:01:46,040",
+        "speaker": "Paul Noble",
+        "text": "Those are the consonants that are in the words \"for luck\"."
+    },
+    {
+        "timestamp": "00:01:46,040 --> 00:02:00,399",
+        "speaker": "Paul Noble",
+        "text": "And those are the consonants that you'll pronounce when they are on the ends of French words. So, let's look at, uh, the word for \"you\", which is spelt V-O-U-S. How would you pronounce that?"
+    },
+    {
+        "timestamp": "00:02:00,399 --> 00:02:02,219",
+        "speaker": "Marion",
+        "text": "Voo."
+    },
+    {
+        "timestamp": "00:02:02,219 --> 00:02:06,180",
+        "speaker": "Paul Noble",
+        "text": "Because the \"S\" is not in \"for luck\"."
+    },
+    {
+        "timestamp": "00:02:06,180 --> 00:02:14,739",
+        "speaker": "Paul Noble",
+        "text": "Um, now, let's try the word for \"thirst\". \"Thirst\" is spelt S-O-I-F. How would you pronounce that?"
+    },
+    {
+        "timestamp": "00:02:14,739 --> 00:02:16,360",
+        "speaker": "Marion",
+        "text": "Soif."
+    },
+    {
+        "timestamp": "00:02:16,360 --> 00:02:27,020",
+        "speaker": "Paul Noble",
+        "text": "Now, the \"F\" has been clearly pronounced at the end because it's in \"for luck\". So, the consonants that are in \"for luck\" are \"F\", \"R\", \"L\", \"C\", \"K\"."
+    },
+    {
+        "timestamp": "00:02:27,020 --> 00:02:36,919",
+        "speaker": "Paul Noble",
+        "text": "If a consonant is in \"for luck\", pronounce it. If it isn't, the general rule is, is you don't need to pronounce it. For instance, the word for \"you\", which is?"
+    },
+    {
+        "timestamp": "00:02:36,919 --> 00:02:37,679",
+        "speaker": "Marion",
+        "text": "Voo."
+    },
+    {
+        "timestamp": "00:02:37,679 --> 00:02:39,399",
+        "speaker": "Paul Noble",
+        "text": "Or the word for \"hunger\", which is?"
+    },
+    {
+        "timestamp": "00:02:39,399 --> 00:02:40,899",
+        "speaker": "Marion",
+        "text": "Faim."
+    },
+    {
+        "timestamp": "00:02:40,899 --> 00:03:00,139",
+        "speaker": "Paul Noble",
+        "text": "Let's... The last consonant is not clearly pronounced on either of those words because the consonant is not in \"for luck\". That's a general rule, and that's something we'll get used to as we go through the course. So again, don't worry too much about remembering it and, um, I will simply bring it up again so it can be absorbed just into something you really know by the end of the course."
+    }
+]

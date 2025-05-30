@@ -162,7 +162,8 @@ export default function AgentAuthScreen() {
           <CardContent>
             {/* Alternative auth methods */}
             <View className="space-y-2 mb-2">
-              <Button
+              {/* Google and Apple auth temporarily disabled until configured */}
+              {/* <Button
                 variant="outline"
                 onPress={() => signIn("google", {})}
                 className="mb-2 border-gray-700 bg-black"
@@ -180,12 +181,23 @@ export default function AgentAuthScreen() {
                 <Text className="text-gray-300">
                   {step === "signIn" ? "LOGIN WITH APPLE" : "SIGN UP WITH APPLE"}
                 </Text>
+              </Button> */}
+
+              {/* Anonymous sign-in for testing */}
+              <Button
+                variant="outline"
+                onPress={() => signIn("anonymous", {})}
+                className="border-gray-700 bg-black"
+              >
+                <Text className="text-gray-300">
+                  CONTINUE AS GUEST (TEST MODE)
+                </Text>
               </Button>
             </View>
             <View className="relative items-center my-4">
               <View className="absolute top-1/2 left-0 right-0 h-px bg-gray-700" />
               <Text className="relative px-2 bg-black text-gray-500 text-xs font-jetbrains-mono-regular">
-                OR CONTINUE WITH
+                OR CONTINUE WITH EMAIL
               </Text>
             </View>
 
