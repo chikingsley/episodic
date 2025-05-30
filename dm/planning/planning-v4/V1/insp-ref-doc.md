@@ -1,8 +1,15 @@
 # Game Inspirations Reference Document
 
+- Risk: Potential mechanic overload vs. situational variety
+- Flow Question: Balance between speaking/listening/decoding/flashcards
+- Core Challenge: Making speaking practice genuinely engaging
+- Market Gap: Notable absence of speaking-focused language games
+
 ---
 
-## Chants of Sennaar
+## Game Specifc Inspo
+
+### Chants of Sennaar
 
 **What it is:** A puzzle adventure game where players decipher fictional languages while climbing a tower inspired by the Tower of Babel.
 
@@ -49,7 +56,7 @@
 
 ---
 
-## Blooket Games (Gold Quest, Crypto Hack, Deceptive Dinos)
+### Blooket Games
 
 **What I Like:**
 
@@ -68,7 +75,7 @@
 
 ---
 
-### Gold Quest (Blooket)
+#### Gold Quest (Blooket)
 
 **What it is:** A competitive quiz game where players answer questions to earn gold and climb the leaderboard.
 
@@ -100,7 +107,7 @@
 
 ---
 
-### Crypto Hack (Blooket)
+#### Crypto Hack (Blooket)
 
 **What it is:** A hacking-themed quiz game where players steal cryptocurrency from each other.
 
@@ -142,7 +149,7 @@
 
 ---
 
-### Deceptive Dinos (Blooket)
+#### Deceptive Dinos (Blooket)
 
 **What it is:** A fossil excavation game with cheating and investigation mechanics.
 
@@ -175,7 +182,7 @@
 
 ---
 
-## Interrogation: You Will Be Deceived
+### Interrogation: You Will Be Deceived
 
 **What it is:** A noir detective game about interrogating suspects to stop a terrorist organization.
 
@@ -234,7 +241,7 @@ The Duolingo owl, for example—because there's no stakes to the Duolingo owl, n
 
 ---
 
-## Netflix: Bandersnatch
+### Netflix: Bandersnatch
 
 **What it is:** A narrative-driven interactive film that allows players to make choices that affect the story's outcome.
 
