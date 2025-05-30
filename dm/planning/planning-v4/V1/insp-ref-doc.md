@@ -299,25 +299,25 @@ Life is Strange, a visual novel platformer type of game, also has a similar mech
 
 ### In-Universe Spaced Repetition System: Agent Assistance
 
-**Core Concept:** The game world is populated with other agents who need assistance with language tasks, creating organic opportunities for the player to review and reinforce previously learned material.
+Core Concept: The game world is populated with other agents who need assistance with language tasks, creating organic opportunities for the player to review and reinforce previously learned material.
 
-**How It Works:**
+How It Works:
 
-**Regular Support Calls:**
+Regular Support Calls:
 
 - Throughout gameplay, player receives calls/messages from other "agents" who are going through the same scenario or conversation that they have learned
 - "Hey, I'm at the Berlin airport and I can't understand the announcement. Can you help?" or "I'm going through passport control in 5 minutes, can you help me get through?"
 - Player must listen to the announcement and guide the agent
 - These calls revisit scenarios the player has already completed
 
-**Emergency Assistance Requests:**
+Emergency Assistance Requests:
 
 - Time-sensitive situations where agents need immediate help
 - "The contact is speaking too fast, what did they just say about the meeting location?"
 - Player must quickly process and relay information
 - Higher stakes create memorable learning moments
 
-**Variety of Scenarios:**
+Variety of Scenarios:
 
 - Airport assistance (gate changes, delays, customs)
 - Restaurant/café orders
@@ -326,20 +326,20 @@ Life is Strange, a visual novel platformer type of game, also has a similar mech
 - Medical emergencies
 - Each scenario type has multiple variations
 
-**Scaling Complexity:**
+Scaling Complexity:
 
 - Early game: Help with basic phrases and vocabulary
 - Mid game: Assist with complex grammar and cultural nuances
 - Late game: Guide agents through specialized terminology and high-stakes negotiations
 
-**Integration with Game Systems:**
+Integration with Game Systems:
 
 - Successfully helping agents improves your reputation
 - Failing to help (or giving wrong information) has consequences
 - Some agents you help become contacts for future missions
 - Building a network of agents you've trained creates gameplay advantages
 
-**Example Flow:**
+Example Flow:
 
 1. Day 1: You complete the "Order Coffee in Paris" mission
 2. Day 3: Agent Williams calls needing help ordering coffee
@@ -347,7 +347,7 @@ Life is Strange, a visual novel platformer type of game, also has a similar mech
 4. Day 14: Agent Williams calls again, now in a business lunch scenario
 5. Day 20: You're coordinating multiple agents through a complex café-based dead drop operation
 
-**Narrative Justification:**
+Narrative Justification:
 
 - Agency has agents of varying language skills
 - Resource constraints mean not everyone gets full training
@@ -355,14 +355,148 @@ Life is Strange, a visual novel platformer type of game, also has a similar mech
 - Your character becomes known as the "language expert"
 - Creates sense of community and shared struggle
 
-**Additional Mechanics:**
+Additional Mechanics:
 
 - Can set yourself as "available" or "busy" for help requests
 - Helping others during critical missions creates risk/reward decisions
 - Some agents develop recurring relationships with the player
 - Agents you've helped remember and can assist you later
 
+### Jason Bourne-Style Airport Mission Scenario
+
+Player acts as an experienced handler guiding rookie field agents through a high-stakes airport extraction(s), similar to how Jason Bourne coaches his asset through Waterloo Station in The Bourne Ultimatum.
+
+#### Pre-Mission Phase (Language Learning Integration)
+
+- Audio Briefings: Pimsleur-style lessons teaching key phrases agents will need
+  - "Stay calm, walk normally"
+  - "Turn left at the coffee shop"
+  - "Your contact is wearing a blue jacket"
+  - Security/emergency vocabulary
+- Agent Profiles: Learn each rookie's strengths/weaknesses through audio dossiers
+- Mission Parameters: Understand extraction points, danger zones, friendly assets
+
+#### Mission Execution
+
+Your Role: Overwatch coordinator with live audio/video feeds
+
+- Monitor multiple camera angles
+- Track agent locations via GPS dots
+- Provide real-time guidance through earpiece
+
+Agent Guidance Mechanics:
+
+- Listening Tasks: Eavesdrop on security chatter to identify threats
+- Speaking Tasks: Give clear, calm directions under pressure
+- Decision Points: Choose which agents to prioritize when situations overlap
+- Stress Management: Keep agents calm through tone and word choice
+
+Dynamic Scenarios:
+
+- Security checkpoint complications
+- Suspicious behavior detection
+- Crowd navigation during delays
+- Emergency route changes
+- Asset identification in crowds
+
+#### Consequences & Progression
+
+- Success Metrics: Number of agents extracted safely
+- Story Impact: Failed extractions affect available resources in future missions
+- Agent Development: Successful agents become more capable in subsequent operations
+- Reputation System: Your guidance style affects agent trust and performance
+
+### Network Down Emergency Scenario
+
+Communication networks are compromised. Field agents in various locations (diners, cafes, public spaces) need to identify their contacts for critical intelligence exchanges, but normal identification protocols are down.
+
+#### Your Role: Remote Identification Specialist
+
+Using video calls and audio feeds, you help agents identify friend from foe through conversation analysis and behavioral cues.
+
+#### Core Mechanics
+
+Listening Activities:
+
+- Conversation Eavesdropping: Listen to nearby tables through agent's phone
+- Voice Pattern Recognition: Identify accents, speech patterns, nervous tells
+- Topic Analysis: Recognize code words, shared references, or suspicious deflections
+- Background Audio: Pick up environmental clues (other conversations, ambient sounds)
+
+Speaking Tasks:
+
+- Agent Coaching: Guide them on what questions to ask
+- Real-time Analysis: "The person at table 3 just mentioned Prague - that's your contact"
+- Warning Alerts: "Stop talking, someone's recording you"
+- Extraction Calls: When situations go bad, guide them to safety
+
+#### Identification System
+
+Agent Profiles: Each has unique "vibe descriptions"
+
+- Sarah: Nervous energy, asks lots of clarifying questions
+- Marcus: Methodical, speaks in measured tones
+- Elena: Quick wit, uses humor to deflect tension
+
+Contact Recognition Cues:
+
+- Verbal: Specific phrases, shared knowledge, response patterns
+- Behavioral: Nervous habits, professional mannerisms, cultural tells
+- Contextual: Orders specific drinks, sits in predetermined locations, carries identifying objects
+
+#### Mission Variations
+
+- Café Rendezvous: Multiple potential contacts, identify the real one
+- Diner Surveillance: Spot hostile surveillance while maintaining cover
+- Public Transit: Moving environment, limited time windows
+- Hotel Lobby: Formal setting, higher stakes, more sophisticated players
+
+#### Success/Failure Consequences
+
+- Successful ID: Intelligence gathered, story progresses positively
+- Wrong Contact: Blown cover, agent compromised, story branches to damage control
+- Missed Opportunity: Critical intelligence lost, affects future mission options
+- Hostile Contact: Agent in immediate danger, emergency extraction needed
+
+#### Language Learning Integration
+
+- Cultural Context: Learn regional expressions and social cues
+- Professional Jargon: Intelligence community terminology and code phrases
+- Stress Communication: How to give clear instructions under pressure
+- Listening Comprehension: Parse multiple conversations simultaneously
+
+Both scenarios emphasize real-time decision making, cultural awareness, and the high stakes of international espionage while naturally incorporating language learning through immersive, contextual gameplay.
+
 ---
+
+### AI Companion/Helper System
+
+**Core Concept**: An in-universe AI assistant designed as a JRPG-style companion that helps players navigate French conversations through guided assistance rather than direct translation.
+
+**Companion Personality & Interface**:
+
+- Appears as a small, friendly AI entity (holographic sprite, digital pet, etc.)
+- Provides contextual hints and emotional cues about conversation tone
+- Offers encouragement and gentle corrections like a patient tutor
+- Has personality quirks that make interactions feel natural and engaging
+
+**Credit-Based Assistance System**:
+
+- **Limited Help Pool**: Players start each conversation/scenario with a finite number of "assistance credits"
+- **Graduated Support Levels**:
+  - *Hint* (1 credit): Subtle contextual clues about what type of response is expected
+  - *Options* (2 credits): AI provides 2-3 French response choices with slight English context
+  - *Guidance* (3 credits): More detailed explanation of cultural/linguistic nuances
+- **Real-world Simulation**: Mimics how you can't always rely on help in actual conversations
+
+**Penalty & Reward Mechanics**:
+
+- **Language Mixing Penalties**: Using English words costs extra credits or reduces available help
+- **Precision Rewards**: Accurate, culturally appropriate responses restore some credits
+- **Confidence Building**: System gradually reduces hand-holding as player improves
+- **Immersion Maintenance**: Penalties encourage staying in French mindset rather than defaulting to English
+
+This creates a supportive but challenging learning environment that simulates real conversation pressure while providing scaffolded assistance.
 
 ## Honorable mention games
 
