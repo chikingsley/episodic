@@ -1,4 +1,4 @@
-# Game Inspirations Reference Document
+# Game Mechanics & Inspiration Reference
 
 ## I. Core Game Design Considerations
 
@@ -531,7 +531,7 @@ These games are noteworthy for specific mechanics or overall design philosophies
 
 ---
 
-## IV. Original Game Mechanic Ideas
+## IV. Game Mechanic Ideas
 
 ### In-Universe Spaced Repetition System: Diegetic Retries
 
@@ -775,5 +775,218 @@ Both scenarios emphasize real-time decision making, cultural awareness, and the 
 - **Immersion Maintenance**: Penalties encourage staying in French mindset rather than defaulting to English
 
 This creates a supportive but challenging learning environment that simulates real conversation pressure while providing scaffolded assistance.
+
+---
+
+### Mission Flow Structure
+
+**What it is:** A five-part structure that frames each language learning session as a spy mission, creating narrative context for all learning activities.
+
+**The Five Phases:**
+
+1. **Intelligence Gathering** - Vocabulary introduction framed as "intel reports"
+2. **Mission Briefing** - Context and objectives established
+3. **Field Training** - Core lessons using Pimsleur-style audio and drills
+4. **Field Operation** - Apply skills in interactive scenarios
+5. **Mission Debrief** - Performance review and progression
+
+**Why This Structure Works:**
+
+- Creates clear beginning, middle, and end for each session
+- Vocabulary has immediate purpose (needed for mission)
+- Practice feels like preparation, not busywork
+- Application in Field Operation tests real understanding
+- Debrief provides closure and sets up next mission
+
+---
+
+### Cover Integrity System
+
+**What it is:** The primary performance metric that replaces traditional "lives" or "health" with a narrative-appropriate measure of how well the player maintains their spy cover.
+
+**Core Mechanics:**
+
+- Starts at 85-100% at beginning of each mission
+- Perfect responses: +3-5% (or +5-10% in critical moments)
+- Minor errors: -2% (or -10-15% for serious mistakes)
+- Major errors: -10% instant drop
+- Below 50%: NPCs become visibly suspicious
+- Below 25%: "COVER COMPROMISED" warning appears
+- 0%: Mission failure → detention or safehouse
+
+**Why It's Effective:**
+
+- Makes language mistakes feel consequential
+- Creates tension without breaking immersion
+- Allows for recovery (can build back up)
+- Ties directly to spy fantasy
+
+---
+
+### Detention/Safehouse Recovery Tracks
+
+**What it is:** Instead of "game over," failing missions sends players into alternate story branches where they must use language skills to recover. These aren't punishments but different gameplay experiences.
+
+**Detention Track (Poor Performance):**
+
+- **Daily Guard Conversations**: Build trust through small talk
+- **Cellmate Dynamics**: Trust/betrayal system with other prisoners
+- **Contraband Acquisition**: Convince guards to smuggle items
+- **Phone Access**: Eventually contact handler
+- **Escape Planning**: Coordinate with allies using complex language
+- **Specialized Vocabulary**: Prison slang, legal terms, survival phrases
+
+**Safehouse Track (Better Performance):**
+
+- **Handler Debriefing**: Analyze what went wrong
+- **Identity Reconstruction**: Build new cover story
+- **Mission Footage Review**: Replay failed conversations
+- **Skills Assessment**: Targeted practice on weak areas
+- **Less Stressful**: Educational focus over survival
+
+**Progressive Difficulty:**
+
+- First failure: Full 6-mission arc
+- Second failure: Abbreviated 4-mission version
+- Third+ failure: Minimal 3-mission "veteran" experience
+
+---
+
+### Asset Network System
+
+**What it is:** NPCs become long-term allies who provide ongoing benefits, creating reasons to maintain relationships and practice consistent communication.
+
+**How It Works:**
+
+- Build trust through repeated positive interactions
+- Each asset provides unique benefits:
+  - Specialized vocabulary sets (café owner teaches food terms)
+  - Cultural insights (local explains customs)
+  - Mission intelligence (security guard shares schedules)
+  - Emergency assistance (can help during compromised situations)
+
+**Trust Building Mechanics:**
+
+- Remember personal details between conversations
+- Use appropriate register (formal/informal)
+- Complete favor requests
+- Consistent greetings build familiarity
+
+**Network Effects:**
+
+- Assets reference each other
+- Some missions require multiple asset cooperation
+- Failed relationships have consequences
+- Network strength affects ending possibilities
+
+---
+
+### Ghost Mode (Review System)
+
+**What it is:** When in safehouse or detention, players can enter a special review mode to analyze past performance and practice alternatives.
+
+**Features:**
+
+- **Conversation Replay**: Review any past dialogue with annotations
+- **Alternative Practice**: Try different responses to see outcomes
+- **Vocabulary Mapping**: Visual "intelligence map" showing word connections
+- **Mistake Analysis**: Understand why responses failed
+- **Perfect Run Attempts**: Try to achieve 100% cover integrity
+
+**Learning Benefits:**
+
+- Safe space to experiment
+- See consequences of different choices
+- Build confidence before returning to field
+- Reinforces correct patterns
+
+---
+
+### Rapport System
+
+**What it is:** Different NPCs respond to different communication styles, teaching players to adapt their language based on context and personality.
+
+**Communication Approaches:**
+
+- **Formal/Respectful**: Government officials, elderly contacts
+- **Casual/Friendly**: Peers, café staff, young contacts  
+- **Flirtatious/Charming**: Potential romantic interests, social events
+- **Direct/Authoritative**: Subordinates, emergency situations
+
+**Implementation:**
+
+- Each NPC has preferred communication style
+- Using wrong style decreases effectiveness
+- Some NPCs require style-switching mid-conversation
+- Visual/audio cues indicate NPC preferences
+- Success unlocks deeper conversation branches
+
+---
+
+### Butterfly Logic
+
+**What it is:** A consequence system where small language mistakes compound over time, and early game relationships affect late game possibilities.
+
+**Examples:**
+
+- Mispronounce someone's name → they remember and trust you less later
+- Build rapport with café owner → they hide you during chase scene
+- Offend hotel staff → they report suspicious behavior to authorities
+- Help detained agent → they return favor in final mission
+
+**Learning Reinforcement:**
+
+- Shows that every interaction matters
+- Encourages careful attention to all conversations
+- Creates replay value to see different outcomes
+- Makes world feel reactive and alive
+
+---
+
+### Unique Mini-Game Concepts
+
+**Interrogation Under Pressure:**
+
+- Time-limited responses while maintaining cover
+- Fear and Openness meters to balance
+- Different approaches unlock different information
+- Inspired by "Interrogation: You Will Be Deceived"
+
+**Budget Management Missions:**
+
+- Limited funds for bribes, purchases, transportation
+- Must negotiate prices in target language
+- Poor negotiation affects available resources
+- Economic vocabulary in practical context
+
+**Fast-Forward Replay System:**
+
+- After detention/safehouse, skip to key decision points
+- Quickly try alternative approaches (similar to Life is Strange)
+- Inspired by Bandersnatch mechanic
+- Reduces repetition while maintaining learning
+
+---
+
+### Progressive Failure System
+
+**What it is:** The game becomes more forgiving of failures as players demonstrate they're learning from mistakes.
+
+**How It Works:**
+
+- Track types of errors (pronunciation, grammar, vocabulary)
+- If player improves in problem areas, future penalties decrease
+- "Veteran prisoner" status unlocks shortcuts in detention
+- Safehouse training becomes more targeted over time
+- Eventually unlock "elite extraction" option for quick recovery
+
+**Educational Purpose:**
+
+- Rewards improvement over perfection
+- Acknowledges learning is iterative
+- Reduces frustration while maintaining challenge
+- Encourages experimentation
+
+These mechanics work together to create a cohesive system where language learning is deeply integrated with spy fantasy gameplay, making every mistake meaningful and every success earned.
 
 ---

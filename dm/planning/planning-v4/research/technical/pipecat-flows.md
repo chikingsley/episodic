@@ -1,8 +1,4 @@
-<h1><div align="center">
- <img alt="pipecat" width="500px" height="auto" src="https://raw.githubusercontent.com/pipecat-ai/pipecat-flows/main/pipecat-flows.png">
-</div></h1>
-
-[![PyPI](https://img.shields.io/pypi/v/pipecat-ai-flows)](https://pypi.org/project/pipecat-ai-flows) [![Docs](https://img.shields.io/badge/Documentation-blue)](https://docs.pipecat.ai/guides/features/pipecat-flows) [![Discord](https://img.shields.io/discord/1239284677165056021)](https://discord.gg/pipecat)
+# Pipecat Flows
 
 Pipecat Flows provides a framework for building structured conversations in your AI applications. It enables you to create both predefined conversation paths and dynamically generated flows while handling the complexities of state management and LLM interactions.
 
@@ -11,7 +7,7 @@ The framework consists of:
 - A Python module for building conversation flows with Pipecat
 - A visual editor for designing and exporting flow configurations
 
-### When to Use Pipecat Flows
+## When to Use Pipecat Flows
 
 - **Static Flows**: When your conversation structure is known upfront and follows predefined paths. Perfect for customer service scripts, intake forms, or guided experiences.
 - **Dynamic Flows**: When conversation paths need to be determined at runtime based on user input, external data, or business logic. Ideal for personalized experiences or complex decision trees.
@@ -104,25 +100,25 @@ Nodes use two types of messages to control the conversation:
 
 1. **Role Messages**: Define the bot's personality or role (optional)
 
-```python
-"role_messages": [
-    {
-        "role": "system",
-        "content": "You are a friendly pizza ordering assistant. Keep responses casual and upbeat."
-    }
-]
-```
+    ```python
+    "role_messages": [
+        {
+            "role": "system",
+            "content": "You are a friendly pizza ordering assistant. Keep responses casual and upbeat."
+        }
+    ]
+    ```
 
 2. **Task Messages**: Define what the bot should do in the current node
 
-```python
-"task_messages": [
-    {
-        "role": "system",
-        "content": "Ask the customer which pizza size they'd like: small, medium, or large."
-    }
-]
-```
+    ```python
+    "task_messages": [
+        {
+            "role": "system",
+            "content": "Ask the customer which pizza size they'd like: small, medium, or large."
+        }
+    ]
+    ```
 
 Role messages are typically defined in your initial node and inherited by subsequent nodes, while task messages are specific to each node's purpose.
 
@@ -241,20 +237,20 @@ Actions can be registered in two ways:
 
 1. Via handler field in action config:
 
-```python
-"pre_actions": [
-    # Built-in action (no handler needed)
-    {
-        "type": "tts_say",
-        "text": "Processing your order..."
-    },
-    # Custom action with handler
-    {
-        "type": "check_status",
-        "handler": check_status_handler
-    }
-]
-```
+    ```python
+    "pre_actions": [
+        # Built-in action (no handler needed)
+        {
+            "type": "tts_say",
+            "text": "Processing your order..."
+        },
+        # Custom action with handler
+        {
+            "type": "check_status",
+            "handler": check_status_handler
+        }
+    ]
+    ```
 
 2. Via manual registration:
 
@@ -593,7 +589,7 @@ The editor is available online at [flows.pipecat.ai](https://flows.pipecat.ai).
 - Node.js (v14 or higher)
 - npm (v6 or higher)
 
-#### Installation
+#### Installation - Editor
 
 Clone the repository
 
@@ -631,7 +627,7 @@ Open the page in your browser: <http://localhost:5173>.
 4. Edit node properties in the side panel
 5. Export your flow configuration using the toolbar
 
-#### Examples
+#### Examples - Dev Server
 
 The `editor/examples/` directory contains sample flow configurations:
 
