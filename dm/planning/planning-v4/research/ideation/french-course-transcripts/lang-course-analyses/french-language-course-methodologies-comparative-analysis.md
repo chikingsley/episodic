@@ -1,4 +1,4 @@
-# Comprehensive Report: French Language Learning Course Comparison
+# French Language Course Methodologies: A Comparative Analysis
 
 ## I. Introduction & Acknowledgment
 

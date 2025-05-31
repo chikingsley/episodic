@@ -506,6 +506,7 @@ To run these examples:
    Looking for a Daily API key and room URL? Sign up on the [Daily Dashboard](https://dashboard.daily.co).
 
 4. **Running**:
+
    ```bash
    python examples/static/food_ordering.py -u YOUR_DAILY_ROOM_URL
    ```
@@ -524,6 +525,7 @@ The package includes a comprehensive test suite covering the core functionality.
    ```
 
 2. **Install Test Dependencies**:
+
    ```bash
    pip install -r dev-requirements.txt -r test-requirements.txt
    pip install "pipecat-ai[google,openai,anthropic]"
@@ -617,7 +619,7 @@ Start development server
 npm run dev
 ```
 
-Open the page in your browser: http://localhost:5173.
+Open the page in your browser: <http://localhost:5173>.
 
 #### Usage
 
@@ -679,7 +681,7 @@ Serve documentation locally:
 npm run docs:serve
 ```
 
-View in browser by opening: http://localhost:8080
+View in browser by opening: <http://localhost:8080>
 
 ## Contributing
 
