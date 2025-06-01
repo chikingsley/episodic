@@ -1,0 +1,31 @@
+graph TD
+    subgraph "Episode Types & Special Rules"
+        Ep1[Episode 1<br/>Tutorial<br/>No Timer] --> Learn[Learn Basics<br/>Husband vs Burglar]
+        
+        Ep2[Episode 2<br/>TIMED: 7 min<br/>Password Reset] --> Pressure2[High Pressure<br/>3 Suspects<br/>Find Horn Bunny]
+        
+        Ep3[Episode 3<br/>TIMED: Bomb<br/>Lives at Stake] --> Pressure3[Moral Pressure<br/>Exploit Economics]
+        
+        Ep4[Episode 4<br/>Mental Patient<br/>Special Dialogue] --> Unique4[Break Paranoia<br/>Priest Manipulation]
+        
+        Ep5[Episode 5<br/>Hostage Crisis<br/>Phone Only] --> Unique5[No Torture Option<br/>Emotional Leverage<br/>Partner Dynamic]
+        
+        Ep6[Episode 6<br/>Already Convicted<br/>Need Next Target] --> Unique6[High Resistance<br/>Faction Info<br/>Linda = Boss]
+        
+        Ep7[Episode 7<br/>Factory Owner<br/>Undercover Option] --> Unique7[Can Pretend LF<br/>Exploit Insurance<br/>King's Backdoor]
+        
+        Ep8[Episode 8<br/>YOU'RE INTERROGATED<br/>Role Reversal] --> Unique8[Defend Actions<br/>Deny LF Sympathy<br/>Pass/Fail Gate]
+        
+        Ep9[Episode 9<br/>Choose 2 of 4<br/>Must Have A or D] --> Unique9[Build Fear+Empathy<br/>Get Names<br/>Damascus Trust]
+        
+        Ep10[Episode 10<br/>No Enhanced<br/>Immunity Deal] --> Unique10[Exploit Ideology<br/>Personal Betrayals<br/>5 Endings]
+    end
+
+    subgraph "Failure Conditions"
+        Unique8 -->|Fail| GameEnd[Fired - Game Over]:::game_over
+        Ep2 & Ep3 & Ep5 & Ep7 -->|Time Out| RestartRequired[Must Restart]:::failure
+        Ep1 & Ep4 & Ep6 -->|No Timer| KeepTrying[Unlimited Time]
+    end
+
+    classDef game_over fill:#000,stroke:#F00,stroke-width:3px,color:#fff
+    classDef failure fill:#F44336,color:#fff 

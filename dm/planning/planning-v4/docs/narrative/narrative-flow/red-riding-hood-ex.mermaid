@@ -1,0 +1,113 @@
+graph TD
+    Start([Red's Mother Gives Basket]):::start --> A{Take the forest path?}
+    
+    %% Initial Choice Branch
+    A -->|Yes| ForestPath[Enter Dark Forest]:::story
+    A -->|No| VillagePath[Take Village Road]:::story
+    
+    %% Forest Path Branch
+    ForestPath --> PercCheck{{PERCEPTION CHECK<br/>Notice Wolf Watching}}:::motorics
+    PercCheck -->|Success| NoticeWolf[You See the Wolf]:::success
+    PercCheck -->|Failure| ObliviousWalk[Continue Unaware]:::failure
+    
+    NoticeWolf --> B{How to React?}
+    B -->|Confront| AuthCheck{{AUTHORITY CHECK<br/>Intimidate Wolf}}:::psyche
+    B -->|Befriend| EmpCheck{{EMPATHY CHECK<br/>Understand Wolf}}:::psyche
+    B -->|Run| PhysCheck{{PHYSICAL INSTRUMENT<br/>Sprint Away}}:::fysique
+    
+    %% Authority Branch
+    AuthCheck -->|Success| WolfBacksOff[Wolf Retreats]:::success
+    AuthCheck -->|Failure| WolfLaughs[Wolf Mocks You]:::failure
+    WolfBacksOff --> SafeArrival[Arrive at Grandma's]:::story
+    WolfLaughs --> WolfTrick[Wolf Suggests Race]:::story
+    
+    %% Empathy Branch
+    EmpCheck -->|Success| WolfStory[Wolf Shares Sob Story]:::success
+    EmpCheck -->|Failure| WolfLies[Wolf Deceives You]:::failure
+    WolfStory --> C{Believe the Wolf?}
+    WolfLies --> WolfTrick
+    
+    %% Physical Branch
+    PhysCheck -->|Success| OutrunWolf[Escape Successfully]:::success
+    PhysCheck -->|Failure| TripAndFall[Fall Into Brambles]:::failure
+    OutrunWolf --> SafeArrival
+    TripAndFall --> ElecCheck{{ELECTROCHEMISTRY CHECK<br/>Wine Bottle Survives?}}:::fysique
+    
+    ElecCheck -->|Success| WineIntact[Wine Saved!]:::success
+    ElecCheck -->|Failure| WineBroken[Wine Spills]:::failure
+    WineIntact --> LimpToGrandma[Limp to Grandma's]:::story
+    WineBroken --> D{What Now?}
+    
+    %% Village Path Branch
+    VillagePath --> MeetHunter[Meet Woodsman]:::story
+    MeetHunter --> LogicCheck{{LOGIC CHECK<br/>Deduce Danger}}:::intellect
+    LogicCheck -->|Success| WarnHunter[Warn About Wolves]:::success
+    LogicCheck -->|Failure| SmallTalk[Pleasant Chat]:::failure
+    WarnHunter --> HunterEscort[Hunter Escorts You]:::story
+    SmallTalk --> ContinueAlone[Continue Alone]:::story
+    
+    %% Convergence at Grandma's House
+    ObliviousWalk --> GrandmaHouse[Arrive at House]:::convergence
+    SafeArrival --> GrandmaHouse
+    LimpToGrandma --> GrandmaHouse
+    HunterEscort --> GrandmaHouse
+    ContinueAlone --> GrandmaHouse
+    WolfTrick --> WolfArrivesFirst[Wolf Gets There First]:::danger
+    
+    %% At Grandma's House
+    GrandmaHouse --> InlandCheck{{INLAND EMPIRE CHECK<br/>Something Feels Wrong}}:::psyche
+    InlandCheck -->|Success| SensesDanger[The Air Tastes Like Lies]:::success
+    InlandCheck -->|Failure| AllSeemsFine[Grandma Looks Normal]:::failure
+    
+    WolfArrivesFirst --> FakeGrandma[Wolf in Bed]:::danger
+    
+    %% Final Confrontations
+    SensesDanger --> E{What to Do?}
+    E -->|Investigate| DiscoverWolf[Find Real Grandma]:::story
+    E -->|Call Out| ConfrontFake[Challenge 'Grandma']:::story
+    E -->|Play Along| DramaCheck{{DRAMA CHECK<br/>Pretend Ignorance}}:::intellect
+    
+    AllSeemsFine --> FakeGrandma
+    FakeGrandma --> EatenByWolf[Classic Ending]:::danger
+    
+    %% Drama Branch
+    DramaCheck -->|Success| OutsmartWolf[Trick Wolf Into Revealing]:::success
+    DramaCheck -->|Failure| WolfSuspicious[Wolf Realizes You Know]:::failure
+    
+    %% Multiple Endings
+    DiscoverWolf --> SaveGrandma[Free Grandma & Escape]:::victory
+    ConfrontFake --> FinalBattle[Epic Confrontation]:::story
+    OutsmartWolf --> TrapWolf[Lock Wolf in Closet]:::victory
+    WolfSuspicious --> ChaseScene[Run For Your Life]:::danger
+    
+    FinalBattle --> F{Final Outcome}
+    F -->|Victory| DefeatWolf[Wolf Defeated]:::victory
+    F -->|Defeat| EatenByWolf
+    F -->|Draw| NegotiateDetente[Uneasy Truce]:::story
+    
+    %% Special Belief Branch
+    C -->|Yes| HelpWolf[Offer to Share Food]:::story
+    C -->|No| RejectWolf[Leave Wolf Behind]:::story
+    HelpWolf --> CompanionWolf[Wolf Becomes Ally]:::success
+    RejectWolf --> WolfTrick
+    CompanionWolf --> GrandmaHouse
+    
+    %% Special Wine Branch
+    D -->|Go Back| ReturnHome[Admit Defeat]:::failure
+    D -->|Continue| ApologeticArrival[Arrive Empty-Handed]:::story
+    ApologeticArrival --> GrandmaHouse
+    
+    %% Define Styles
+    classDef start fill:#4a5568,stroke:#fff,stroke-width:3px,color:#fff
+    classDef story fill:#e2e8f0,stroke:#4a5568,stroke-width:2px,color:#1a202c
+    classDef success fill:#48bb78,stroke:#2d6a4f,stroke-width:2px,color:#fff
+    classDef failure fill:#f56565,stroke:#c53030,stroke-width:2px,color:#fff
+    classDef danger fill:#ed8936,stroke:#c05621,stroke-width:3px,color:#fff
+    classDef victory fill:#38b2ac,stroke:#2c7a7b,stroke-width:3px,color:#fff
+    classDef convergence fill:#9f7aea,stroke:#6b46c1,stroke-width:4px,color:#fff
+    
+    %% Skill Check Styles
+    classDef psyche fill:#705cbb,stroke:#553c9a,stroke-width:3px,color:#fff
+    classDef fysique fill:#c6496b,stroke:#9b2c2c,stroke-width:3px,color:#fff
+    classDef intellect fill:#6cc6ce,stroke:#2c7a7b,stroke-width:3px,color:#fff
+    classDef motorics fill:#e4b934,stroke:#d69e2e,stroke-width:3px,color:#fff

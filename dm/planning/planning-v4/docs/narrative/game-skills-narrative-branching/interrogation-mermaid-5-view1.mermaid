@@ -1,0 +1,86 @@
+graph LR
+    %% Input Systems
+    subgraph "Player Inputs"
+        Traits[Character Traits<br/>5 Types]
+        DialogueChoice[Dialogue Choices<br/>4 Strategies]
+        TeamActions[Team Management<br/>Budget/Missions]
+        PressActions[Press Statements<br/>Public Face]
+    end
+
+    %% Core Meters
+    subgraph "Core Meters"
+        Fear[Fear Meter<br/>0-100]
+        Openness[Openness Meter<br/>0-100]
+        
+        Fear -->|25| Threshold1[Info Slips]:::unlock
+        Fear -->|50| Threshold2[Partial Break]:::unlock
+        Fear -->|75| Threshold3[Total Break]:::unlock
+        Fear -->|100| Shutdown[No More Info]:::failure
+        
+        Openness -->|25| Trust1[Personal Info]:::unlock
+        Openness -->|50| Trust2[Cooperation]:::unlock
+        Openness -->|75| Trust3[Full Truth]:::unlock
+        Openness -->|100| Complete[Total Trust]:::success
+    end
+
+    %% Hidden Tracking
+    subgraph "Hidden Systems"
+        IdeologyTracker[Ideology Points<br/>Left/Lib/Right]
+        MentalInstability[Instability<br/>0-100]
+        RestartCounter[Restart Count<br/>Per Episode]
+        
+        IdeologyTracker --> EndingGates[Ending Requirements]
+        MentalInstability --> DialogueUnlocks[Special Options]
+        RestartCounter --> FailureStates[Game Over Risk]
+    end
+
+    %% Reputation
+    subgraph "Triple Reputation"
+        Public[Public Opinion<br/>0-100]
+        Press[Press Relations<br/>0-100]
+        Authority[Boss Approval<br/>0-100]
+        
+        Public -->|<25| AssassinationRisk:::danger
+        Press -->|<25| Scandals:::danger
+        Authority -->|<25| FiredRisk:::danger
+    end
+
+    %% Consequences
+    subgraph "Cascading Effects"
+        DialogueChoice --> Fear
+        DialogueChoice --> Openness
+        DialogueChoice --> IdeologyTracker
+        
+        Enhanced[Enhanced Methods] --> Fear
+        Enhanced --> MentalInstability
+        Enhanced --> Public
+        Enhanced --> Press
+        Enhanced --> Authority
+        
+        TeamActions --> MissionSuccess{Success?}
+        MissionSuccess -->|Yes| BonusDialogue[+Options]
+        MissionSuccess -->|No| StandardDialogue[No Bonus]
+        
+        PressActions --> Public
+        PressActions --> Press
+    end
+
+    %% Game States
+    subgraph "End States"
+        FailureStates --> GameOver1[Made Redundant]:::game_over
+        AssassinationRisk --> GameOver2[Neutralised]:::game_over
+        FiredRisk --> GameOver3[Fired]:::game_over
+        
+        EndingGates --> Ending1[Justice For All]:::ending
+        EndingGates --> Ending2[Release Anaba]:::ending
+        EndingGates --> Ending3[Release Damascus]:::ending
+        EndingGates --> Ending4[Release Bennett]:::ending
+        EndingGates --> Ending5[Execute All]:::ending
+    end
+
+    classDef unlock fill:#C8E6C9,stroke:#8BC34A,color:#000
+    classDef failure fill:#EF5350,stroke:#D32F2F,color:#fff
+    classDef success fill:#4CAF50,stroke:#2E7D32,color:#fff
+    classDef danger fill:#F44336,stroke:#D32F2F,color:#fff
+    classDef game_over fill:#000,stroke:#F00,stroke-width:3px,color:#fff
+    classDef ending fill:#9C27B0,stroke:#6A1B9A,color:#fff 

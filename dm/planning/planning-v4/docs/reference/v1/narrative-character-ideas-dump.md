@@ -5,7 +5,7 @@
 ### A. The Language Corruption Conspiracy
 
 **What it is:** A meta-narrative where a major language learning corporation (represented by an Owl CEO and Bear COO - clear reference to Duolingo) is intentionally teaching broken, AI-generated language. This creates a world where people can no longer truly communicate, leading to isolation, misunderstanding, and social breakdown. The player discovers this conspiracy and must fight against it.
-****
+
 **Key Story Elements:**
 
 - The Owl character is clean-cut, polished, and presentable - the perfect corporate villain

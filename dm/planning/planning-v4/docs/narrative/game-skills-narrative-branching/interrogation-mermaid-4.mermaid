@@ -1,0 +1,194 @@
+graph TB
+    %% Initial Setup
+    Start([New Game]) --> Tutorial[Police Academy]
+    Tutorial --> CharacterCreation{Choose Memories/Traits}
+    
+    CharacterCreation --> Pacifist[Pacifist<br/>+Empathy, -Torture<br/>Blocks Enhanced Options]:::memory
+    CharacterCreation --> MadGenius[Mad Genius<br/>+Instability<br/>Unlocks Erratic Dialogue]:::memory
+    CharacterCreation --> Ideologist[Trained Ideologist<br/>+Political Options<br/>Faction Dialogue]:::memory
+    CharacterCreation --> Statistical[Statistical Expert<br/>+Precise Meters<br/>See Exact Numbers]:::memory
+    CharacterCreation --> MessiahComplex[Messiah Complex<br/>+Extrajudicial<br/>Required for Execution]:::memory
+    
+    Pacifist & MadGenius & Ideologist & Statistical & MessiahComplex --> Episode1
+
+    %% Detailed Interrogation Loop
+    subgraph "Core Interrogation Loop"
+        Episode1[Episode 1: Murder] --> InterrogationStart{Start Interrogation}
+        
+        InterrogationStart --> ObserveMeters[Observe Initial Meters<br/>Fear: Low<br/>Openness: Low]
+        ObserveMeters --> ReadFile[Read Case File<br/>Study Background<br/>Find Vulnerabilities]
+        ReadFile --> InitialQuestions[Initial Questions Available<br/>Yellow = New Info<br/>Red = Accusation]
+        
+        InitialQuestions --> ChooseStrategy{Choose Approach}
+        
+        ChooseStrategy --> EmpathyPath[EMPATHY PATH<br/>Build Trust]:::empathy
+        ChooseStrategy --> FearPath[FEAR PATH<br/>Intimidate]:::intimidation
+        ChooseStrategy --> ManipPath[MANIPULATION<br/>Exploit Weakness]:::manipulation
+        ChooseStrategy --> TorturePath[ENHANCED<br/>Turn Off Recorder]:::torture
+        
+        %% Empathy Path Detail
+        EmpathyPath --> EmpathyOptions[Sympathetic Options<br/>Agree with Views<br/>Personal Connection]
+        EmpathyOptions --> OpennessMeter[Openness ↑<br/>0→25→50→75→100]:::meter_good
+        OpennessMeter -->|Threshold 25| UnlockPersonal[Unlock: Personal Questions]:::unlock
+        OpennessMeter -->|Threshold 50| UnlockTrust[Unlock: Confession Options]:::unlock
+        OpennessMeter -->|Threshold 75| UnlockFull[Unlock: Full Cooperation]:::unlock
+        
+        %% Fear Path Detail
+        FearPath --> FearOptions[Threats<br/>Blame<br/>Pressure]
+        FearOptions --> FearMeter[Fear ↑<br/>0→25→50→75→100]:::meter_bad
+        FearMeter -->|Threshold 25| UnlockNervous[Unlock: Slips Info]:::unlock
+        FearMeter -->|Threshold 50| UnlockScared[Unlock: Partial Confession]:::unlock
+        FearMeter -->|Threshold 75| UnlockBreak[Unlock: Total Break]:::unlock
+        FearMeter -->|100 Fear| ShutDown[Suspect Shuts Down<br/>No More Info]:::failure
+        
+        %% Torture Path Detail
+        TorturePath --> RecorderOff[RECORDER OFF]:::danger
+        RecorderOff --> TortureOptions{Choose Method}
+        TortureOptions --> Physical[Slam Against Wall<br/>Fear +50]:::torture
+        TortureOptions --> Taser[Use Taser<br/>Fear +75]:::torture
+        TortureOptions --> Extreme[Extreme Methods<br/>Fear = 100]:::torture
+        
+        Physical & Taser & Extreme --> TortureConsequences
+        TortureConsequences --> InstantFear[Fear Maxed]:::meter_bad
+        TortureConsequences --> RepDamage[Reputation -25]:::danger
+        TortureConsequences --> TeamMorale[Team Morale -15]:::danger
+        TortureConsequences --> MentalState[Your Instability +20]:::psyche
+        TortureConsequences -->|Too Much| Incapacitated[Suspect Unconscious<br/>FAIL INTERROGATION]:::failure
+        
+        %% Convergence
+        UnlockPersonal & UnlockTrust & UnlockFull & UnlockNervous & UnlockScared & UnlockBreak --> NewQuestions[New Dialogue Available]
+        NewQuestions --> CheckProgress{Enough Info?}
+        
+        CheckProgress -->|No| ChooseStrategy
+        CheckProgress -->|Yes| AttemptConfession[Try Red Question]
+        CheckProgress -->|Time Up| TimeOut[Out of Time]:::failure
+        
+        AttemptConfession -->|Success| GotConfession[Confession Obtained]:::success
+        AttemptConfession -->|Wrong Person| WrongAccusation[Failed - Restart?]:::failure
+        AttemptConfession -->|Not Ready| NeedMore[Need More Evidence]
+        
+        NeedMore --> ChooseStrategy
+    end
+
+    %% Failure States
+    subgraph "Failure Consequences"
+        TimeOut --> RestartCount[Restart Count +1]
+        WrongAccusation --> RestartCount
+        Incapacitated --> RestartCount
+        ShutDown --> RestartCount
+        
+        RestartCount -->|<10| RestartInterrogation[Restart This Episode]
+        RestartCount -->|10+| Achievement1[We Told You<br/>You Will Be Deceived]:::achievement
+        RestartCount -->|Too Many + Low Rep| Fired[GAME OVER:<br/>Made Redundant]:::game_over
+        
+        RestartInterrogation --> InterrogationStart
+    end
+
+    %% Success Path
+    GotConfession --> EpisodeComplete[Episode Complete]:::success
+    
+    %% Between Episodes Detail
+    subgraph "Management Phase"
+        EpisodeComplete --> NewspaperCheck{Read Newspaper?}
+        NewspaperCheck -->|Yes| GainContext[Learn Public Opinion<br/>Get Hints]
+        NewspaperCheck -->|No| MissInfo[Miss Important Context]
+        
+        GainContext & MissInfo --> TeamPhase[Team Management]
+        
+        TeamPhase --> Budget{Allocate Budget: $1000}
+        Budget -->|$300| BoostMorale[Team Building<br/>Morale +20 each]:::team
+        Budget -->|$400| GatherIntel[Send on Missions]:::team
+        Budget -->|$300| PublicPR[PR Campaign<br/>Rep +15]:::team
+        
+        BoostMorale --> TeamStatus[Check Team Status]
+        GatherIntel --> MissionRoll{Mission Success?}
+        PublicPR --> RepUpdate[Update Reputation]
+        
+        MissionRoll -->|Success| UnlockDialogue[+Dialogue Options Next Ep]:::unlock
+        MissionRoll -->|Fail| NoBonus[No Extra Options]
+        
+        TeamStatus --> IndividualMorale[Jennifer: Analytical<br/>Tab: By-the-book<br/>Mordecai: Unorthodox]
+        IndividualMorale -->|All High| BestBoss[Achievement:<br/>Best Boss]:::achievement
+        IndividualMorale -->|All Low| BadBoss[Achievement:<br/>Bad Boss]:::achievement
+    end
+
+    %% Reputation Detail
+    subgraph "Reputation System"
+        RepUpdate --> ThreeMeters[Three Reputation Tracks]
+        
+        ThreeMeters --> PublicMeter[PUBLIC<br/>0-100]:::reputation
+        ThreeMeters --> PressMeter[PRESS<br/>0-100]:::reputation  
+        ThreeMeters --> AuthorityMeter[AUTHORITY<br/>0-100]:::reputation
+        
+        PublicMeter -->|<25| PublicHate[Protests<br/>Assassination Risk]:::danger
+        PressMeter -->|<25| BadPress[Scandal Stories<br/>-10 Public Rep]:::danger
+        AuthorityMeter -->|<25| NoSupport[Budget Cuts<br/>Pressure to Resign]:::danger
+        
+        PublicMeter -->|>75| PublicLove[Hero Status]:::good_status
+        PressMeter -->|>75| MediaDarling[Positive Coverage]:::good_status
+        AuthorityMeter -->|>75| FullSupport[Unlimited Resources]:::good_status
+        
+        PublicLove & MediaDarling & FullSupport --> ManOfSteel[Achievement:<br/>Man of Steel]:::achievement
+        PublicHate & BadPress & NoSupport --> DarkKnight[Achievement:<br/>Dark Knight]:::achievement
+        
+        PublicHate -->|Random Event| Assassination[GAME OVER:<br/>Neutralised]:::game_over
+        NoSupport -->|Episode Fail| FiredByBoss[GAME OVER:<br/>Made Redundant]:::game_over
+    end
+
+    %% Ideological Tracking Detail
+    subgraph "Hidden Ideology Tracking"
+        EmpathyPath -.-> IdeologyPoints{Every Dialogue Choice}
+        ManipPath -.-> IdeologyPoints
+        
+        IdeologyPoints -->|Pro-Equality| LeftPoints[Socialist Points +1]:::ideology_left
+        IdeologyPoints -->|Pro-Freedom| LibPoints[Libertarian Points +1]:::ideology_lib
+        IdeologyPoints -->|Pro-Order| RightPoints[Authoritarian Points +1]:::ideology_right
+        
+        LeftPoints -->|Accumulate| LeftScore[Left Score: 0-100]
+        LibPoints -->|Accumulate| LibScore[Lib Score: 0-100]
+        RightPoints -->|Accumulate| RightScore[Right Score: 0-100]
+        
+        LeftScore -->|High| EnableAnaba[Can Release Anaba]:::unlock
+        LibScore -->|High| EnableDamascus[Can Release Damascus]:::unlock
+        RightScore -->|High| EnableBennett[Can Release Bennett]:::unlock
+    end
+
+    %% Mental Instability Detail
+    subgraph "Mental State System"
+        MentalState --> InstabilityMeter[Instability: 0-100]:::psyche
+        
+        InstabilityMeter -->|25| Stressed[Shaky Text Options]:::unlock
+        InstabilityMeter -->|50| Unhinged[Erratic Behavior]:::unlock
+        InstabilityMeter -->|75| Breaking[Violent Fantasies]:::unlock
+        InstabilityMeter -->|100| Cuckoo[Achievement:<br/>One Flew Into<br/>The Cuckoo's Nest]:::achievement
+        
+        MessiahComplex & Cuckoo --> ExecutionEnabled[Can Execute Leaders]:::unlock
+    end
+
+    %% Episode Flow
+    TeamPhase --> NextEpisode{Next Episode}
+    NextEpisode --> Episodes[Ep2: Timed Password<br/>Ep3: Timed Bomb<br/>Ep4: Mental Patient<br/>Ep5: Hostage Negotiation<br/>Ep6: Recruiters<br/>Ep7: Factory Owner<br/>Ep8: YOUR Interrogation<br/>Ep9: Choose 2 Leaders<br/>Ep10: Final Betrayal]
+    
+    Episodes --> InterrogationStart
+    
+    %% Style Definitions with Dark Text
+    classDef memory fill:#FFF9C4,stroke:#FBC02D,stroke-width:2px,color:#000
+    classDef empathy fill:#8BC34A,stroke:#689F38,stroke-width:2px,color:#fff
+    classDef intimidation fill:#FF5722,stroke:#E64A19,stroke-width:2px,color:#fff
+    classDef manipulation fill:#00BCD4,stroke:#0097A7,stroke-width:2px,color:#fff
+    classDef torture fill:#673AB7,stroke:#512DA8,stroke-width:3px,color:#fff
+    classDef unlock fill:#C8E6C9,stroke:#8BC34A,stroke-width:2px,color:#000
+    classDef success fill:#4CAF50,stroke:#2E7D32,stroke-width:2px,color:#fff
+    classDef failure fill:#EF5350,stroke:#D32F2F,stroke-width:2px,color:#fff
+    classDef team fill:#D1C4E9,stroke:#9575CD,stroke-width:2px,color:#000
+    classDef reputation fill:#E0B0FF,stroke:#A14FBF,stroke-width:2px,color:#000
+    classDef danger fill:#F44336,stroke:#D32F2F,stroke-width:3px,color:#fff
+    classDef psyche fill:#B388FF,stroke:#7C4DFF,stroke-width:2px,color:#fff
+    classDef achievement fill:#FFD700,stroke:#FFA000,stroke-width:3px,color:#000
+    classDef game_over fill:#000000,stroke:#FF0000,stroke-width:4px,color:#fff
+    classDef good_status fill:#CDDC39,stroke:#AFB42B,stroke-width:2px,color:#000
+    classDef meter_good fill:#A7FFEB,stroke:#00BFA5,stroke-width:2px,color:#000
+    classDef meter_bad fill:#FFCDD2,stroke:#D32F2F,stroke-width:2px,color:#000
+    classDef ideology_left fill:#FFCDD2,stroke:#D32F2F,stroke-width:1px,color:#000
+    classDef ideology_lib fill:#FFF9C4,stroke:#F9A825,stroke-width:1px,color:#000
+    classDef ideology_right fill:#BBDEFB,stroke:#1976D2,stroke-width:1px,color:#000

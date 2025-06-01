@@ -1,0 +1,122 @@
+graph TB
+    %% Character Creation
+    Start([New Game]) --> Memories{Select Memory/Trait}
+    Memories --> TraitEffects[Trait Effects Throughout Game]
+    
+    TraitEffects --> |Pacifist| NoTorture[Blocks Enhanced<br/>+Empathy Bonus]:::trait
+    TraitEffects --> |Mad Genius| StartUnstable[+30 Instability<br/>Unlocks Erratic]:::trait
+    TraitEffects --> |Statistical| SeeNumbers[Exact Meters<br/>52% not Half]:::trait
+    TraitEffects --> |Ideologist| PoliticalTalk[Faction Dialogue<br/>Ideology Options]:::trait
+    TraitEffects --> |Messiah| ExecutionPath[Enables Execution<br/>If Unstable]:::trait
+    
+    %% Episode Loop
+    TraitEffects --> EpisodeStart[Start Episode X]
+    
+    EpisodeStart --> PreInterrogation[Read Files<br/>Check Timer<br/>Study Suspects]
+    PreInterrogation --> CoreLoop{Interrogation Loop}
+    
+    CoreLoop --> ObserveState[Current State:<br/>Fear: X%<br/>Open: Y%<br/>Options: Z]
+    ObserveState --> StrategyChoice{Pick Strategy}
+    
+    %% Four Paths with Consequences
+    StrategyChoice --> Path1[EMPATHY]:::empathy
+    Path1 --> E_Effects[Open +5-15<br/>If Ideology Match: +10<br/>If Trait Match: +5]
+    E_Effects --> E_Threshold{Check Thresholds}
+    E_Threshold -->|25%| E_Unlock1[Personal Questions]:::unlock
+    E_Threshold -->|50%| E_Unlock2[Trust Options]:::unlock
+    E_Threshold -->|75%| E_Unlock3[Full Cooperation]:::unlock
+    E_Threshold --> IdeologyTrack1[+1 to Matching Ideology]:::hidden
+    
+    StrategyChoice --> Path2[FEAR]:::fear
+    Path2 --> F_Effects[Fear +10-20<br/>Open -5<br/>If Weak: +10]
+    F_Effects --> F_Threshold{Check Thresholds}
+    F_Threshold -->|25%| F_Unlock1[Nervous Slips]:::unlock
+    F_Threshold -->|50%| F_Unlock2[Breaking Down]:::unlock
+    F_Threshold -->|75%| F_Unlock3[Total Break]:::unlock
+    F_Threshold -->|100%| F_Fail[Shuts Down]:::failure
+    
+    StrategyChoice --> Path3[MANIPULATE]:::manip
+    Path3 --> M_Effects[Both ±10<br/>Can Backfire<br/>Needs Intel]
+    M_Effects --> M_Result{Success?}
+    M_Result -->|Yes| M_Good[Progress Both]:::unlock
+    M_Result -->|No| M_Bad[Reverse Effect]:::failure
+    
+    StrategyChoice --> Path4[ENHANCED]:::torture
+    Path4 --> T_Effects[Fear +50-100<br/>Rep -25 ALL<br/>Team -15<br/>Instab +20]
+    T_Effects --> T_Result{Overdone?}
+    T_Result -->|No| T_Break[Instant High Fear]
+    T_Result -->|Yes| T_KO[Unconscious<br/>FAIL]:::failure
+    T_Result --> T_Long[Long-term Damage]:::danger
+    
+    %% Convergence
+    E_Unlock1 & E_Unlock2 & E_Unlock3 & F_Unlock1 & F_Unlock2 & F_Unlock3 & M_Good & T_Break --> ProgressMade[New Options Available]
+    
+    ProgressMade --> InfoCheck{Have Enough?}
+    InfoCheck -->|No| CoreLoop
+    InfoCheck -->|Yes| TryConfession[Attempt Red Question]
+    InfoCheck -->|Timer| TimeOut[Out of Time]:::failure
+    
+    TryConfession -->|Success| EpisodeWin[Episode Complete]:::success
+    TryConfession -->|Wrong| RestartPrompt[Restart Episode?]
+    TryConfession -->|NotReady| CoreLoop
+    
+    %% Between Episodes
+    EpisodeWin --> Management[Team Management Phase]
+    Management --> Budget{$1000 Budget}
+    
+    Budget -->|$300| Morale[Team Morale +20]:::team
+    Budget -->|$400| Intel[Send Missions]:::team
+    Budget -->|$300| PR[Public Relations]:::team
+    
+    Intel --> MissionCheck{Success?}
+    MissionCheck -->|Based on Morale| IntelResult[Get Bonus Options<br/>Or Nothing]
+    
+    Morale --> TeamState[Jen/Tab/Mord Status]
+    PR --> RepChange[Update 3 Reps]
+    
+    %% Hidden Tracking
+    IdeologyTrack1 --> IdeologyTotal[Total Points:<br/>Left: X<br/>Lib: Y<br/>Right: Z]:::hidden
+    T_Long --> InstabilityTotal[Instability: X/100]:::hidden
+    RestartPrompt --> RestartTotal[Restarts: X]:::hidden
+    
+    %% End Conditions
+    RepChange --> RepCheck{Any Rep < 25?}
+    RepCheck -->|Public| RiskAssassin[Assassination Risk]:::danger
+    RepCheck -->|Authority| RiskFired[Firing Risk]:::danger
+    
+    InstabilityTotal -->|100| CrazyAchieve[One Flew Into...]:::achievement
+    RestartTotal -->|10| DeceivedAchieve[We Told You...]:::achievement
+    
+    TeamState -->|All High| BestBoss[Best Boss]:::achievement
+    TeamState -->|All Low| BadBoss[Bad Boss]:::achievement
+    
+    %% Final Episodes
+    Management -->|Ep8 Pass| FinalChoice[Episode 9: Pick 2]
+    FinalChoice --> FinalLoop[Build Fear AND Empathy]
+    FinalLoop --> GetNames[Extract Other Leaders]
+    GetNames --> Betrayal[Episode 10: Turn Them]
+    
+    Betrayal --> Endings{Choose Ending}
+    IdeologyTotal --> Endings
+    InstabilityTotal --> Endings
+    
+    Endings -->|Default| End1[Justice For All]:::ending
+    Endings -->|Left High| End2[Release Anaba]:::ending
+    Endings -->|Lib High| End3[Release Damascus]:::ending
+    Endings -->|Right High| End4[Release Bennett]:::ending
+    Endings -->|Messiah+100 Instab| End5[Execute All]:::ending
+    
+    %% Styles
+    classDef trait fill:#FFF9C4,stroke:#FBC02D,color:#000
+    classDef empathy fill:#8BC34A,stroke:#689F38,color:#fff
+    classDef fear fill:#FF5722,stroke:#E64A19,color:#fff
+    classDef manip fill:#00BCD4,stroke:#0097A7,color:#fff
+    classDef torture fill:#673AB7,stroke:#512DA8,stroke-width:3px,color:#fff
+    classDef unlock fill:#C8E6C9,stroke:#8BC34A,color:#000
+    classDef failure fill:#EF5350,stroke:#D32F2F,color:#fff
+    classDef success fill:#4CAF50,stroke:#2E7D32,color:#fff
+    classDef danger fill:#F44336,stroke:#D32F2F,stroke-width:3px,color:#fff
+    classDef team fill:#D1C4E9,stroke:#9575CD,color:#000
+    classDef hidden fill:#E1BEE7,stroke:#8E24AA,color:#000
+    classDef achievement fill:#FFD700,stroke:#FFA000,color:#000
+    classDef ending fill:#9C27B0,stroke:#6A1B9A,stroke-width:3px,color:#fff 

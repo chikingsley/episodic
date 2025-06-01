@@ -1,0 +1,46 @@
+graph TB
+    subgraph "The Core Loop"
+        Start[Observe Meters] --> Choose[Choose Strategy]
+        Choose --> Apply[Apply Dialogue]
+        Apply --> MeterChange[Meters Change]
+        MeterChange --> CheckThreshold{New Options?}
+        
+        CheckThreshold -->|Yes| NewOptions[Unlock Dialogue]
+        CheckThreshold -->|No| SameOptions[Continue Current]
+        
+        NewOptions --> ProgressCheck{Enough for Confession?}
+        SameOptions --> ProgressCheck
+        
+        ProgressCheck -->|No| Start
+        ProgressCheck -->|Yes| AttemptRed[Try Accusation]
+        ProgressCheck -->|Time Out| Fail[Episode Failed]:::failure
+        
+        AttemptRed -->|Wrong| RestartEpisode[+1 Restart]
+        AttemptRed -->|Right| Success[Episode Complete]:::success
+        
+        RestartEpisode --> RestartCheck{Too Many?}
+        RestartCheck -->|<10| Start
+        RestartCheck -->|10+| Achievement[We Told You...]:::achievement
+        RestartCheck -->|Many + Low Rep| Fired[Game Over]:::game_over
+    end
+
+    subgraph "Strategy Effects"
+        Empathy[Empathy Strategy] -->|+5-15| OpennessUp[Openness ↑]
+        Empathy -->|If match ideology| Bonus1[+10 bonus]
+        
+        Intimidation[Fear Strategy] -->|+10-20| FearUp[Fear ↑]
+        Intimidation -->|-5| OpennessDown[Openness ↓]
+        
+        Manipulation[Manipulation] -->|Variable| BothMeters[Both ↑↓]
+        Manipulation -->|Risky| Backfire[Can Reverse]
+        
+        Enhanced[Enhanced/Torture] -->|+50-100| FearMax[Fear ↑↑↑]
+        Enhanced -->|-25| RepHit[All Rep ↓]
+        Enhanced -->|+20| Instability[Mental ↑]
+        Enhanced -->|Risk| Unconscious[KO Suspect]:::failure
+    end
+
+    classDef failure fill:#F44336,color:#fff
+    classDef success fill:#4CAF50,color:#fff
+    classDef achievement fill:#FFD700,color:#000
+    classDef game_over fill:#000,stroke:#F00,stroke-width:3px,color:#fff 

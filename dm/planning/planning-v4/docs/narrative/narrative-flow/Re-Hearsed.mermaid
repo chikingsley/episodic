@@ -1,0 +1,145 @@
+graph TD
+    Start[Intro] --> A(StartFuneral);
+    A --> B(Take the bottle);
+
+    B --> C1("Car Respect (Option 1)");
+    B --> C2("PartyWithKim (Option 2)");
+
+    C1 --> D1["TinySip (from Car Respect)"];
+    C1 --> D2["Car Guilt (from Car Respect)"];
+    C1 --> D3["GiveKimBottle (from Car Respect)"];
+
+    %% PartyWithKim can also lead to TinySip
+    C2 --> D1;
+    C2 --> E1("Take a reasonably sized sip (from PartyWithKim)");
+    %% PartyWithKim can loop back to Car Respect if player changes mind
+    C2 --> C1;
+
+    D1 --> F1("MoreBooze (if chooses more after tiny sip)");
+    D1 --> F2("StopDrinking (VOLITION CHECK from TinySip)");
+    F1 --> G1("TryToStopInTime_fromMoreBooze (REACTION CHECK - Implied Failure)");
+    F1 --> G2("YouChugIt_fromMoreBooze (Owns it)");
+
+    %% Result of failed Volition Check -> leads to this
+    F2 --> TryToStopInTime_fromStopDrinking["TryToStopInTime_fromStopDrinking (REACTION CHECK - Implied Failure)"];
+    %% This is 'StopDrinking' leading to 'YouChugIt'
+    F2 --> G3("YouChugIt_fromStopDrinking (Owns it after failed Volition)");
+
+    %% "Take a reasonably sized sip" includes OhYouChuggin
+    E1 --> OhYouChuggin;
+    OhYouChuggin --> HideEvidence;
+    OhYouChuggin --> KimDisappointedFace;
+    OhYouChuggin --> YouChugIt_fromOhYouChuggin["YouChugIt (Owns it from OhYouChuggin)"];
+    %% OhYouChuggin has a "StopDrinking" (VOLITION CHECK) option
+    OhYouChuggin --> F2;
+
+    TryToStopInTime_fromMoreBooze --> KimUnimpressedBoozeSpit["KimUnimpressedBoozeSpit (Consequence of failed REACTION CHECK)"];
+    TryToStopInTime_fromStopDrinking --> KimUnimpressedBoozeSpit;
+
+    %% Node to consolidate 'YouChugIt' paths
+    YouChugIt_Path[YouChugIt Helper Node];
+    G2 --> YouChugIt_Path;
+    G3 --> YouChugIt_Path;
+    YouChugIt_fromOhYouChuggin --> YouChugIt_Path;
+
+    YouChugIt_Path --> SorryCop;
+    YouChugIt_Path --> DisasterCop;
+    YouChugIt_Path --> BlaseCop;
+
+    KimUnimpressedBoozeSpit --> KimDissesYourDrinking;
+    KimDissesYourDrinking --> YouGoFirst;
+    YouGoFirst --> KimDoALimerick;
+    YouGoFirst -- banter --> AdmitDefeat_fromLimerick;
+
+    KimDoALimerick -- banter --> AdmitDefeat_fromLimerick;
+    KimDoALimerick --> LimerickTime["LimerickTime (DRAMA CHECK)"];
+    LimerickTime --> Limerick2_Success["Limerick2 (Author-Declared SUCCESS outcome of Drama Check)"];
+    Limerick2_Success --> KimOwesYou;
+    Limerick2_Success --> NoMercy;
+
+    KimOwesYou --> CarEulogy;
+    %% All these lead to CarEulogy eventually
+    NoMercy --> CarEulogy;
+    AdmitDefeat_fromLimerick --> CarEulogy;
+    SorryCop --> RightTheToast;
+    DisasterCop --> RightTheToast;
+    BlaseCop --> RightTheToast;
+    %% Major re-merge
+    RightTheToast --> CarEulogy;
+    %% from KimDisappointedFace branch
+    OhGodHesNotMadHesDisappointed --> RightTheToast;
+
+    D3_GiveBottle[GiveKimBottle Path];
+    %% GiveKimBottle from Car Respect
+    D3 --> D3_GiveBottle;
+    D2 --> CarGuiltPath{Car Guilt Options};
+        CarGuiltPath --> DRINKDRINKDRINK;
+            %% This merges into the chugging sequence
+            DRINKDRINKDRINK --> OhYouChuggin;
+        CarGuiltPath --> CarPain;
+            CarPain --> ComplainAboutLosingBooze;
+            CarPain --> SadAboutLosingBooze;
+            CarPain --> AcceptLosingBooze;
+
+    ComplainAboutLosingBooze --> PickingKim;
+    SadAboutLosingBooze --> PickingKim;
+    AcceptLosingBooze --> PickingKim;
+    PickingKim --> KimPoursBooze;
+    %% Major re-merge
+    D3_GiveBottle --> KimPoursBooze;
+
+    KimPoursBooze --> StoicLoseBooze;
+    KimPoursBooze --> WhimperLoseBooze;
+    StoicLoseBooze --> NormalToast;
+    WhimperLoseBooze --> NormalToast;
+    NormalToast --> DoloresToast;
+    DoloresToast --> SilentMoment;
+    %% Another path to CarEulogy
+    SilentMoment --> CarEulogy;
+
+    CarEulogy --> ExpensiveCar;
+    CarEulogy --> KimIHaveCarGuilt;
+    CarEulogy --> CarLegend;
+
+    ExpensiveCar --> BelieveKim;
+    ExpensiveCar --> JeanRage;
+    BelieveKim --> Wrapup;
+    JeanRage --> PostJeanRage;
+    PostJeanRage --> Wrapup;
+
+    KimIHaveCarGuilt --> ICantRemember;
+    ICantRemember --> KimCarStory;
+    ICantRemember --> TooCoolForStory;
+    KimCarStory --> FuckingKitsuragi --> KimCarMaster --> CoolKim --> Wrapup;
+    KimCarStory --> FuckingKitsuragi --> KimCarMaster --> PoorGeo --> Wrapup;
+    KimCarStory --> FuckingKitsuragi --> KimCarMaster --> StuntBrag --> Wrapup;
+    TooCoolForStory --> MakeKimProud --> JustNodMan --> Wrapup;
+    TooCoolForStory --> MakeKimProud --> Burble --> Wrapup;
+    TooCoolForStory --> HowDoYouKnow --> ScaryKim --> SuccessfulAssurance --> Wrapup;
+    TooCoolForStory --> HowDoYouKnow --> ScaryKim --> BoldNewFuckups --> Wrapup;
+    TooCoolForStory --> HowDoYouKnow --> ScaredAndHorny --> Wrapup;
+
+    CarLegend --> KimYouCrying --> Wrapup;
+    CarLegend --> KineemaForver --> ShoulderPat --> ComfortKim --> Wrapup;
+    CarLegend --> KineemaForver --> HugTime --> ComfortKim --> Wrapup;
+    CarLegend --> GiveKimSpace --> Wrapup;
+
+    Wrapup --> ThisWasGood;
+    Wrapup --> WeCanJustHangOut;
+
+    ThisWasGood --> SwingSit;
+    WeCanJustHangOut --> SpecialHangOut --> SwingSit;
+    WeCanJustHangOut --> IAmNotNormal --> SwingSit;
+
+    %% This is a choice hub
+    SwingSit --> ShiversOptions1[ShiversOptions];
+    %% Loops back to options
+    ShiversOptions1 --> ShiversKim --> ShiversOptions1;
+    ShiversOptions1 --> ShiversAhead --> ShiversOptions1;
+    ShiversOptions1 --> ShiversBehind --> ShiversOptions1;
+    ShiversOptions1 --> WhatIsNext;
+
+    WhatIsNext --> TheEndPassage(TheEnd - FIN);
+
+    classDef majorMerge fill:#ccf,stroke:#333;
+    class CarEulogy,Wrapup,SwingSit,ShiversOptions1 majorMerge;
