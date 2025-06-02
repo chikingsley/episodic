@@ -2,14 +2,14 @@
 
 ## Core Mechanic: Relationship Meters
 
-Instead of explicit "approach choices," players manage **ongoing relationship meters** with multiple targets:
+Instead of explicit "approach choices," players manage ongoing relationship meters with multiple targets:
 
 ### Relationship Types
 
-- **Trust Level** - How much they confide in you
-- **Emotional Investment** - How attached they are to you  
-- **Suspicion Level** - How much they question your motives
-- **Dependency** - How much they rely on you for support
+- Trust Level - How much they confide in you
+- Emotional Investment - How attached they are to you  
+- Suspicion Level - How much they question your motives
+- Dependency - How much they rely on you for support
 
 ## The Three Intel Targets Structure
 
@@ -28,57 +28,43 @@ Instead of explicit "approach choices," players manage **ongoing relationship me
 
 ## Consequence Layers (Multi-Meter System)
 
-### 1. Language Retention
-
-- **Use it or lose it** - Vocabulary degrades without practice
-- Different domains decay at different rates
-- Emergency lookup options available but costly
-
-### 2. Cover Sustainability
-
-- **How long can you maintain the lies?**
-- Complex stories become harder to track
-- Contradictions accumulate over time
-- Each target cross-references your behavior
-
-### 3. Time Management
-
-- **Competing demands for your attention**
-- Missing meetings has relationship consequences
-- Can't be in two places at once
-- Priority choices reveal character patterns
-
-### 4. Emotional Toll
-
-- **Leading people on has psychological cost**
-- Player character develops stress/guilt meters
-- Affects performance in other interactions
-- Can lead to mission compromise or conscience breaks
-
-### 5. Intel Quality
-
-- **Better relationships = better information**
-- Surface-level connections yield surface intel
-- Deep trust unlocks critical mission data
-- Quality vs. quantity trade-offs
+1. Language Retention
+   - Use it or lose it - Vocabulary degrades without practice
+   - Different domains decay at different rates
+   - Emergency lookup options available but costly
+2. Cover Sustainability
+   - How long can you maintain the lies?
+   - Complex stories become harder to track
+   - Contradictions accumulate over time
+   - Each target cross-references your behavior
+3. Time Management
+   - Competing demands for your attention
+   - Missing meetings has relationship consequences
+   - Can't be in two places at once
+   - Priority choices reveal character patterns
+4. Emotional Toll
+   - Leading people on has psychological cost
+   - Player character develops stress/guilt meters
+   - Affects performance in other interactions
+   - Can lead to mission compromise or conscience breaks
+5. Intel Quality
+   - Better relationships = better information
+   - Surface-level connections yield surface intel
+   - Deep trust unlocks critical mission data
+   - Quality vs. quantity trade-offs
 
 ## Real-Time Pressure Elements
 
-### Missed Meeting Consequences
-
-- Romantic Target: "Why didn't you text back? I thought we had something special."
-- Business Target: "This is unprofessional. It reflects poorly on both of us."
-- Street Target: "Thought you were solid, my mistake. Word gets around."
-
-### Competing Time Demands
-
-Multiple targets making simultaneous demands:
-
-- Target A wants to hang out tonight (spontaneous)
-- Target B scheduled important business dinner (planned)
-- Target C needs emotional support during crisis (urgent)
-
-**Player can only choose one** - others react accordingly to being deprioritized.
+- Missed Meeting Consequences
+  - Romantic Target: "Why didn't you text back? I thought we had something special."
+  - Business Target: "This is unprofessional. It reflects poorly on both of us."
+  - Street Target: "Thought you were solid, my mistake. Word gets around."
+- Competing Time Demands
+  - Multiple targets making simultaneous demands:
+    - Target A wants to hang out tonight (spontaneous)
+    - Target B scheduled important business dinner (planned)
+    - Target C needs emotional support during crisis (urgent)
+  - Player can only choose one - others react accordingly to being deprioritized.
 
 ## The Cheating/AI Assistance Dynamic
 
@@ -98,7 +84,7 @@ Multiple targets making simultaneous demands:
 
 ## Natural Polarization System
 
-Player **behavior patterns** organically create character archetypes without explicit choices:
+Player behavior patterns organically create character archetypes without explicit choices:
 
 ### Emerging Archetypes
 
@@ -127,33 +113,33 @@ Player **behavior patterns** organically create character archetypes without exp
 
 ### Phase 1: Intel Gathering
 
-- **Choose which relationship to prioritize** this cycle
+- Choose which relationship to prioritize this cycle
 - Review available intel and mission objectives
 - Assess current relationship states and time commitments
 
 ### Phase 2: Language Prep
 
-- **Study relevant vocabulary** using spaced repetition system
+- Study relevant vocabulary using spaced repetition system
 - Preview upcoming interaction context
 - Choose preparation depth vs. time investment
 
 ### Phase 3: Social Interaction
 
-- **Real-time conversation** with vocabulary challenges
+- Real-time conversation with vocabulary challenges
 - Time pressure for responses
 - Relationship meter changes based on performance
 - Opportunities for intel gathering or relationship building
 
 ### Phase 4: Consequence Assessment
 
-- **See how choices affected ALL relationships**
+- See how choices affected ALL relationships
 - Review intel gathered vs. relationship costs
 - Time-sensitive follow-up requirements emerge
 - Character archetype reinforcement
 
 ### Phase 5: Mission Progress
 
-- **Unlock new intel** based on relationship success
+- Unlock new intel based on relationship success
 - Access to new vocabulary domains
 - Story branches based on relationship configurations
 - Preparation for next cycle
@@ -170,11 +156,11 @@ Player **behavior patterns** organically create character archetypes without exp
 
 ### Key Systems to Implement
 
-1. **Competing time demands** - Core tension mechanic
-2. **Vocabulary lookup consequences** - Meta-commentary on language learning
-3. **Relationship meter tracking** - Multiple parallel progressions
-4. **Natural archetype emergence** - Character definition through action patterns
-5. **Intel quality scaling** - Mechanical reward for relationship investment
+1. Competing time demands - Core tension mechanic
+2. Vocabulary lookup consequences - Meta-commentary on language learning
+3. Relationship meter tracking - Multiple parallel progressions
+4. Natural archetype emergence - Character definition through action patterns
+5. Intel quality scaling - Mechanical reward for relationship investment
 
 ## Design Philosophy
 
