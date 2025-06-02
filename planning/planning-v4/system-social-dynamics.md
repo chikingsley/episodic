@@ -1,4 +1,4 @@
-# Social Dynamics System - Game Design Document
+# Social Dynamics System
 
 ## Core Mechanic: Relationship Meters
 

@@ -22,6 +22,7 @@
     "planning/planning-v1/**",
     "planning/planning-v2/**",
     "planning/planning-v3/**",
-    "planning/planning-v4/archive/design-philosophy-v1-v4.md"
+    "planning/planning-v4/archive/design-philosophy-v1-v4.md",
+    "planning/planning-v4/prototypes/duolingo-clone/**"
   ]
 } 

@@ -1,5 +1,3 @@
-<a name="readme-top"></a>
-
 # Lingo - Interactive platform for language learning
 
 ![Lingo - Interactive platform for language learning.](/.github/images/img_main.png "Lingo - Interactive platform for language learning.")
@@ -13,17 +11,10 @@
 [![GitHub pull requests](https://flat.badgen.net/github/prs/sanidhyy/duolingo-clone?icon=github&color=black&scale=1.01)](https://github.com/sanidhyy/duolingo-clone/pulls "GitHub pull requests")
 [![Vercel status](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://lingo-clone.vercel.app/ "Vercel status")
 
-<!-- Table of Contents -->
-<details>
+## :notebook_with_decorative_cover: Table of Contents
 
-<summary>
-
-# :notebook_with_decorative_cover: Table of Contents
-
-</summary>
-
-- [Lingo - Interactive platform for language learning.](#lingo---interactive-platform-for-language-learning)
-- [:notebook\_with\_decorative\_cover: Table of Contents](#notebook_with_decorative_cover-table-of-contents)
+- [Lingo - Interactive platform for language learning](#lingo---interactive-platform-for-language-learning)
+  - [:notebook\_with\_decorative\_cover: Table of Contents](#notebook_with_decorative_cover-table-of-contents)
   - [:bangbang: Folder Structure](#bangbang-folder-structure)
   - [:toolbox: Getting Started](#toolbox-getting-started)
   - [:camera: Screenshots](#camera-screenshots)
@@ -37,8 +28,6 @@
   - [:page\_with\_curl: Deploy on Vercel](#page_with_curl-deploy-on-vercel)
   - [:star: Give A Star](#star-give-a-star)
   - [:star2: Star History](#star2-star-history)
-
-</details>
 
 ## :bangbang: Folder Structure
 
@@ -146,8 +135,6 @@ duolingo-clone/
   |- tsconfig.json
 ```
 
-<br />
-
 ## :toolbox: Getting Started
 
 1. Make sure **Git** and **NodeJS** is installed.
@@ -182,65 +169,56 @@ CLERK_ADMIN_IDS="user_xxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
 ```
 
 5. Obtain Clerk Authentication Keys
-
-   1. **Source**: Clerk Dashboard or Settings Page
-   2. **Procedure**:
-      - Log in to your Clerk account.
-      - Navigate to the dashboard or settings page.
-      - Look for the section related to authentication keys.
-      - Copy the `NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY` and `CLERK_SECRET_KEY` provided in that section.
+   - **Source**: Clerk Dashboard or Settings Page
+   - **Procedure**:
+     - Log in to your Clerk account.
+     - Navigate to the dashboard or settings page.
+     - Look for the section related to authentication keys.
+     - Copy the `NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY` and `CLERK_SECRET_KEY` provided in that section.
 
 6. Retrieve Neon Database URI
-
-   1. **Source**: Database Provider (e.g., Neon, PostgreSQL)
-   2. **Procedure**:
-      - Access your database provider's platform or configuration.
-      - Locate the database connection details.
-      - Replace `<user>`, `<password>`, `<host>`, and `<port>` placeholders in the URI with your actual database credentials.
-      - Ensure to include `?sslmode=require` at the end of the URI for SSL mode requirement.
+   - **Source**: Database Provider (e.g., Neon, PostgreSQL)
+   - **Procedure**:
+     - Access your database provider's platform or configuration.
+     - Locate the database connection details.
+     - Replace `<user>`, `<password>`, `<host>`, and `<port>` placeholders in the URI with your actual database credentials.
+     - Ensure to include `?sslmode=require` at the end of the URI for SSL mode requirement.
 
 7. Fetch Stripe API Key and Webhook Secret
-
-   1. **Source**: Stripe Dashboard
-   2. **Procedure**:
-      - Log in to your Stripe account.
-      - Navigate to the dashboard or API settings.
-      - Find the section related to API keys and webhook secrets.
-      - Copy the `STRIPE_API_SECRET_KEY` and `STRIPE_WEBHOOK_SECRET`.
+   - **Source**: Stripe Dashboard
+   - **Procedure**:
+     - Log in to your Stripe account.
+     - Navigate to the dashboard or API settings.
+     - Find the section related to API keys and webhook secrets.
+     - Copy the `STRIPE_API_SECRET_KEY` and `STRIPE_WEBHOOK_SECRET`.
 
 8. Specify Public App URL
-
-   1. **Procedure**:
-      - Replace `http://localhost:3000` with the URL of your deployed application.
+   - **Procedure**: Replace `http://localhost:3000` with the URL of your deployed application.
 
 9. Identify Clerk Admin User IDs
-
-   1. **Source**: Clerk Dashboard or Settings Page
-   2. **Procedure**:
-      - Log in to your Clerk account.
-      - Navigate to the dashboard or settings page.
-      - Find the section related to admin user IDs.
-      - Copy the user IDs provided, ensuring they are separated by commas and spaces.
+   - **Source**: Clerk Dashboard or Settings Page
+   - **Procedure**:
+     - Log in to your Clerk account.
+     - Navigate to the dashboard or settings page.
+     - Find the section related to admin user IDs.
+     - Copy the user IDs provided, ensuring they are separated by commas and spaces.
 
 10. Save and Secure:
-
     - Save the changes to the `.env` file.
 
 11. Install Project Dependencies using `npm install --legacy-peer-deps` or `yarn install --legacy-peer-deps`.
 
 12. Run the Seed Script:
+    In the same terminal, run the following command to execute the seed script:
 
-In the same terminal, run the following command to execute the seed script:
+    ```bash
+    npm run db:push && npm run db:prod
+    ```
 
-```bash
-npm run db:push && npm run db:prod
-```
-
-This command uses `npm` to execute the Typescript file (`scripts/prod.ts`) and writes challenges data in database.
+    This command uses `npm` to execute the Typescript file (`scripts/prod.ts`) and writes challenges data in database.
 
 13. Verify Data in Database:
-
-Once the script completes, check your database to ensure that the challenges data has been successfully seeded.
+    Once the script completes, check your database to ensure that the challenges data has been successfully seeded.
 
 14. Now app is fully configured 👍 and you can start using this app using either one of `npm run dev` or `yarn dev`.
 
@@ -304,7 +282,7 @@ Useful resources and dependencies that are used in Lingo.
 
 ## :coffee: Buy Me a Coffee
 
-[<img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" width="200" />](https://www.buymeacoffee.com/sanidhy "Buy me a Coffee")
+[<img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" width="200" alt="Buy Me a Coffee" />](https://www.buymeacoffee.com/sanidhy "Buy me a Coffee")
 
 ## :rocket: Follow Me
 
@@ -333,13 +311,4 @@ You can also give this repository a star to show more people and they can use th
 
 ## :star2: Star History
 
-<a href="https://star-history.com/#sanidhyy/duolingo-clone&Timeline">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=sanidhyy/duolingo-clone&type=Timeline&theme=dark" />
-  <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=sanidhyy/duolingo-clone&type=Timeline" />
-  <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=sanidhyy/duolingo-clone&type=Timeline" />
-</picture>
-</a>
-
-<br />
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+[![Star History Chart](https://api.star-history.com/svg?repos=sanidhyy/duolingo-clone&type=Timeline)](https://star-history.com/#sanidhyy/duolingo-clone&Timeline)
