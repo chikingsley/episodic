@@ -1,4 +1,4 @@
-Refined Season Arc (Title: “Canne You Not”)
+# Refined Season Arc (Title: “Canne You Not”)
 
 A 25-year-old American moves to France to teach English, only to be reassigned to sleepy-ass Cannes. Armed with baby French and big dreams, he meets a smoke-show duck who makes him forget all his plans. With love triangles, misunderstandings, parties, and therapy in the mix — he learns to speak… and feel.
 

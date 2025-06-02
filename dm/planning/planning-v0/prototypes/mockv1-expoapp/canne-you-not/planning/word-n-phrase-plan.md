@@ -42,7 +42,7 @@ This document tracks new and repeated vocabulary and phrases across all episodes
 
 ## Episode 2 – "Enchanté"
 
-_(TO BE FILLED AFTER SCRIPTING)_
+(TO BE FILLED AFTER SCRIPTING)
 
 ---
 

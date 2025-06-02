@@ -1,3 +1,5 @@
+# Mission Template
+
 MISSION_ID: string
 TITLE: string
 NARRATIVE_CONTEXT: text

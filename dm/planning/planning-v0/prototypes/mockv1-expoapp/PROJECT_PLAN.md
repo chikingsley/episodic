@@ -11,7 +11,7 @@ This document outlines the technical stack, structure, workflow, and key decisio
 
 A multi-package structure without a formal monorepo tool:
 
-```
+```text
 episodic/                      # Main project root
 ├── app/                       # Expo React Native App (Primary focus)
 ├── web/                       # (Optional) Future Web App

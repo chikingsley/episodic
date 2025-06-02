@@ -1,4 +1,5 @@
-// DarkMallardLoadingScreen.js
+# DarkMallardLoadingScreen.js
+
 import React, { useEffect } from 'react';
 import { View, Text, StyleSheet, Dimensions } from 'react-native';
 import Svg, { Path } from 'react-native-svg';

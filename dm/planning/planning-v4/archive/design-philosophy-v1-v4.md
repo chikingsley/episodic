@@ -127,6 +127,7 @@ It's about who you choose to be when your cover is blown and these three people 
 **Or do you stay and face the consequences of having been real with them?**
 
 That's the game. Everything else is just mechanics serving that human story.
+
 # Dark Mallard: Human-First Design Philosophy
 
 ## The Core Problem
@@ -478,6 +479,7 @@ Language learning apps (not necessarily evil Duolingo, but the concept) are harv
 **The language learning has made this choice possible.** You couldn't have these conversations, couldn't understand these stakes, couldn't care about these consequences without the French fluency you gained through genuine relationships.
 
 This framework preserves your spy thriller mechanics while making the human connections the engine that drives everything forward. The vocab is still structured and predetermined - it's just triggered by investigation needs rather than arbitrary lessons.
+
 # Dark Mallard: Human-First Design Philosophy v3
 
 ## The Core Truth
@@ -735,6 +737,7 @@ This is the game: You came to find Stella. You'll find her through French fluenc
 
 The question isn't "Can you complete the mission?"
 It's "Who will you choose to be when you do?"
+
 # Dark Mallard: Human-First Design Philosophy v4
 
 ## The Core Truth
