@@ -30,7 +30,7 @@ The game has been compared to titles like "Papers, Please," "This War of Mine," 
 
 ## Foreword
 
-**WARNING: THIS GUIDE CONTAINS MAJOR SPOILERS**
+WARNING: THIS GUIDE CONTAINS MAJOR SPOILERS
 
 This comprehensive guide is designed to help achievement hunters obtain all achievements in "Interrogation: You Will Be Deceived." I strongly recommend playing through the game at least once blind before using this guide, as knowing the outcomes and strategies will significantly impact your first-time experience.
 

@@ -1,0 +1,163 @@
+graph TD
+    Start["Drake reluctantly arrives in Paris"] --> CoreLoop{Mission Core Loop}
+    
+    CoreLoop --> Intel["1. Intelligence Phase<br/>Learn vocabulary needed"]
+    Intel --> Field["2. Field Phase<br/>Apply under pressure"]
+    Field --> Consequence["3. Consequence<br/>Story + Relationships"]
+    Consequence --> Review["4. Review Phase<br/>Spaced repetition"]
+    Review --> NextMission["Next Mission"]
+    
+    %% Mission 1: Airport
+    NextMission --> M1["M1: Airport Customs<br/>(Direct Infiltration)"]
+    M1 --> M1Intel["Learn: Directions, customs phrases"]
+    M1Intel --> M1Field["Navigate customs with bad French"]
+    M1Field --> M1Result{Performance}
+    M1Result -->|Good| M1Good["Smooth taxi ride"]
+    M1Result -->|Bad| M1Bad["Detour through rough area"]
+    M1Good & M1Bad --> M1Review["Sheldon quiz in taxi"]
+    
+    %% Spaced Repetition Event
+    M1Review --> SR1["Next Day: Agent needs airport help<br/>(You guide using what you learned)"]
+    
+    %% Mission 2: Café
+    SR1 --> M2["M2: Café Asset Building<br/>(Asset Network Building)"]
+    M2 --> M2Dynamics["Social Dynamics Start:<br/>Trust: 0<br/>Investment: 0<br/>Suspicion: 0"]
+    M2Dynamics --> M2Daily["Daily coffee orders<br/>(Natural repetition)"]
+    M2Daily --> M2Trust{Trust Building}
+    M2Trust -->|Consistent French| M2Asset["Becomes information source"]
+    M2Trust -->|Uses Google Translate| M2Suspicion["Suspicion rises"]
+    
+    %% Mission 3: Hotel
+    M2Asset & M2Suspicion --> M3["M3: Hotel Check-in<br/>(Infiltration + Asset Building)"]
+    M3 --> M3Contacts["Three Contact Types Introduced"]
+    
+    M3Contacts --> Street["Bellhop (Street)<br/>Casual French + slang<br/>Irregular meetings"]
+    M3Contacts --> Corporate["Manager (Corporate)<br/>Formal French only<br/>Scheduled meetings"]
+    M3Contacts --> Personal["Receptionist (Personal)<br/>Flirtatious French<br/>Late night availability"]
+    
+    %% Time Management
+    Street & Corporate & Personal --> TimeManage{Time Management}
+    TimeManage --> ChooseOne["Can only build one<br/>relationship per evening"]
+    
+    %% Mission 4: Finding Stella
+    ChooseOne --> M4["M4: Find Stella's Trail<br/>(Surveillance + Identity Verification)"]
+    M4 --> M4Intel["Learn: Eavesdropping, questions"]
+    M4Intel --> M4Field["Interview locals in French"]
+    M4Field --> M4Success["Find apartment based on comprehension"]
+    
+    %% Another spaced repetition
+    M4Success --> SR2["Agent lost in same area<br/>(Guide with landmarks you learned)"]
+    
+    %% Mission 5: Three Informants (Full Social Dynamics)
+    SR2 --> M5["M5: Three Informants<br/>(Multi-Asset Coordination)"]
+    
+    M5 --> InfoA["Restaurant Owner<br/>Trust: Restaurant vocab<br/>Suspicion: Hates apps"]
+    M5 --> InfoB["University Student<br/>Trust: Youth slang<br/>Investment: Party invites"]
+    M5 --> InfoC["Gov Secretary<br/>Trust: Emotional vocab<br/>Investment: Expects contact"]
+    
+    InfoA & InfoB & InfoC --> M5Time{Evening Choice}
+    M5Time -->|Visit Restaurant| M5A["Learn business French<br/>Mob conversation intel"]
+    M5Time -->|Visit Student| M5B["Learn protest slang<br/>Student movement intel"]
+    M5Time -->|Visit Secretary| M5C["Learn emotional French<br/>Document access"]
+    
+    %% Relationship Decay
+    M5A --> Decay1["Student feels ignored<br/>Secretary leaves voicemails"]
+    M5B --> Decay2["Restaurant trust drops<br/>Secretary suspicious"]
+    M5C --> Decay3["Restaurant closes to you<br/>Student finds you sus"]
+    
+    %% Mission 6: Integration Center
+    Decay1 & Decay2 & Decay3 --> M6["M6: Integration Center<br/>(Infiltration + Handler Mode)"]
+    
+    M6 --> M6Infiltrate["Pose as volunteer teacher"]
+    M6Infiltrate --> M6Discover["Immigrants learn only 50 words"]
+    M6Discover --> StellaSighting["See Stella documenting<br/>(Both watching, not talking)"]
+    
+    %% Handler Mission (Spaced Repetition)
+    StellaSighting --> M6Handler["Guide rookie through same center<br/>They panic at French forms<br/>You teach what you just learned"]
+    
+    %% Mission 8: Police Station with Consequence
+    M6Handler --> M8["M8: Police Station<br/>(Interrogation + Emergency)"]
+    M8 --> M8Check{Cover Integrity Check}
+    M8Check -->|CI < 50%| Detention["DETENTION TRACK"]
+    M8Check -->|CI >= 50%| M8Continue["Continue Investigation"]
+    
+    %% Detention Mini-Loop
+    Detention --> DT1["Learn survival French"]
+    DT1 --> DT2["Build cellmate trust"]
+    DT2 --> DT3["Coordinate escape"]
+    DT3 --> M8Continue
+    
+    %% Mission 9: Relationship Crisis
+    M8Continue --> M9["M9: Following Money<br/>(Surveillance + Coordination)"]
+    M9 --> M9Crisis["Language Maintenance Crisis"]
+    
+    M9Crisis --> Crisis1["Café: Haven't visited in days"]
+    M9Crisis --> Crisis2["Student: Using new slang"]
+    M9Crisis --> Crisis3["Secretary: Emotional voicemails"]
+    
+    Crisis1 & Crisis2 & Crisis3 --> M9Test{Vocabulary Test}
+    M9Test -->|Remember| M9Intel["Unlock new intel paths"]
+    M9Test -->|Forget| M9Damage["Relationship meters drop"]
+    
+    %% Mission 10: Full Handler Mode
+    M9Intel & M9Damage --> M10["M10: Rookie Extraction<br/>(Full Handler Mission)"]
+    
+    M10 --> M10Setup["Rookie 'Canard' knows words<br/>Can't form sentences"]
+    M10Setup --> M10Layers["Three vocabulary layers"]
+    
+    M10Layers --> L1["What you tell them<br/>(Must simplify)"]
+    M10Layers --> L2["What locals say<br/>(Full speed French)"]
+    M10Layers --> L3["What they misunderstand<br/>(Creates danger)"]
+    
+    L1 & L2 & L3 --> M10Metrics{Success Metrics}
+    M10Metrics --> M10Time["Extraction time"]
+    M10Metrics --> M10Cover["Cover maintained"]
+    M10Metrics --> M10Teaching["Teaching effectiveness"]
+    
+    %% Mission 11: Social Dynamics Climax
+    M10Time & M10Cover & M10Teaching --> M11["M11: Media Station<br/>(All relationships converge)"]
+    
+    M11 --> M11Choice{Three simultaneous calls}
+    M11Choice -->|Help Student| M11Student["Protest vocabulary<br/>Revolutionary path"]
+    M11Choice -->|Help Secretary| M11Secretary["Document vocabulary<br/>Pragmatist path"]
+    M11Choice -->|Help Café| M11Cafe["Resistance vocabulary<br/>Guardian path"]
+    
+    %% Mission 13: Confronting Stella
+    M11Student & M11Secretary & M11Cafe --> M13["M13: Confront Stella<br/>(Your French level matters)"]
+    
+    M13 --> M13Reveal["Not conspiracy - collective surrender"]
+    M13Reveal --> M13Paths{Three Paths Based on Relationships}
+    
+    M13Paths -->|Secretary Path| PathPrag["Pragmatist: Work within system"]
+    M13Paths -->|Café Path| PathGuard["Guardian: Preserve tradition"]
+    M13Paths -->|Student Path| PathRev["Revolutionary: Build new future"]
+    
+    %% Different vocabulary for different paths
+    PathPrag --> PragVocab["Learn: Business, legal, PR French"]
+    PathGuard --> GuardVocab["Learn: Literary, historical French"]
+    PathRev --> RevVocab["Learn: Street, mixed, new terms"]
+    
+    %% Endings based on mastery
+    PragVocab --> EndPrag["Corporate Translator"]
+    GuardVocab --> EndGuard["Museum Keeper"]
+    RevVocab --> EndRev["Bridge Builder"]
+    
+    %% Master all paths
+    PragVocab & GuardVocab & RevVocab --> EndDark["DARK MALLARD RISES"]
+    
+    %% Continuous Systems
+    CoreLoop -.-> RepSystem["Reputation Tracking:<br/>Traditionalists<br/>Pragmatists<br/>Underground"]
+    CoreLoop -.-> RelDecay["Relationship Decay:<br/>Use it or lose it"]
+    CoreLoop -.-> SpacedRep["Spaced Repetition:<br/>Agent calls<br/>Daily visits<br/>Handler missions"]
+    
+    classDef core fill:#99ccff,stroke:#333,stroke-width:3px,color:#000
+    classDef social fill:#ffcc99,stroke:#333,stroke-width:2px,color:#000
+    classDef mission fill:#ff9999,stroke:#333,stroke-width:2px,color:#000
+    classDef choice fill:#99ff99,stroke:#333,stroke-width:2px,color:#000
+    classDef ending fill:#cc99ff,stroke:#333,stroke-width:3px,color:#000
+    
+    class CoreLoop,Intel,Field,Consequence,Review core
+    class M2Dynamics,InfoA,InfoB,InfoC,M5Time,M11Choice social
+    class M1,M2,M3,M4,M5,M6,M8,M9,M10,M11,M13 mission
+    class M1Result,M2Trust,TimeManage,M8Check,M9Test,M13Paths choice
+    class EndPrag,EndGuard,EndRev,EndDark ending
