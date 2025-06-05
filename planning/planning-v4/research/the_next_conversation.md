@@ -1,3 +1,5 @@
+<!-- markdownlint-disable-file -->
+
 # The Next Conversation
 
 argue less, talk more
