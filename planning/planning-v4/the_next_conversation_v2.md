@@ -22,12 +22,12 @@ Jefferson Fisher
       - [The Person You See](#the-person-you-see)
       - [The Struggle You Hear](#the-struggle-you-hear)
       - [The Challenge to Accept](#the-challenge-to-accept)
-      - [CHAPTER SUMMARY](#chapter-summary)
+      - [Chapter Summary](#chapter-summary)
     - [Chapter 2: Your Next Conversation](#chapter-2-your-next-conversation)
       - [The Power of Your Next Conversation](#the-power-of-your-next-conversation)
       - [Why Your Conversations Need Goals](#why-your-conversations-need-goals)
       - [Why Your Conversations Need Values](#why-your-conversations-need-values)
-      - [CHAPTER SUMMARY](#chapter-summary-1)
+      - [Chapter Summary](#chapter-summary-1)
     - [Chapter 3: The Truth About Connection](#chapter-3-the-truth-about-connection)
       - [What Is Connection?](#what-is-connection)
       - [Three Ways You Cut Off Connection](#three-ways-you-cut-off-connection)
@@ -35,7 +35,7 @@ Jefferson Fisher
         - [Cut 2: Lack of understanding](#cut-2-lack-of-understanding)
         - [Cut 3: Lack of self-assurance](#cut-3-lack-of-self-assurance)
       - [A Quick Note on Confidence](#a-quick-note-on-confidence)
-      - [CHAPTER SUMMARY](#chapter-summary-2)
+      - [Chapter Summary](#chapter-summary-2)
   - [Part II: The Application](#part-ii-the-application)
   - [Rule 1: Say It with Control](#rule-1-say-it-with-control)
     - [Chapter 4: Control Yourself](#chapter-4-control-yourself)
@@ -47,7 +47,7 @@ Jefferson Fisher
         - [Social evaluation triggers](#social-evaluation-triggers)
         - [Personal identity threats](#personal-identity-threats)
         - [Loss triggers](#loss-triggers)
-      - [CHAPTER SUMMARY](#chapter-summary-3)
+      - [Chapter Summary](#chapter-summary-3)
     - [Chapter 5: Control the Moment](#chapter-5-control-the-moment)
       - [Your First Word Is Your Breath](#your-first-word-is-your-breath)
       - [How to Take a Conversational Breath](#how-to-take-a-conversational-breath)
@@ -61,13 +61,13 @@ Jefferson Fisher
         - [Tie your small talk to your goals](#tie-your-small-talk-to-your-goals)
         - [Start with verbs](#start-with-verbs)
         - [Make it short and personal](#make-it-short-and-personal)
-      - [CHAPTER SUMMARY](#chapter-summary-4)
+      - [Chapter Summary](#chapter-summary-4)
     - [Chapter 6: Control the Pace](#chapter-6-control-the-pace)
       - [The Gift of a Pause](#the-gift-of-a-pause)
       - [How and When to Use Pauses](#how-and-when-to-use-pauses)
         - [Short pauses are reading glasses](#short-pauses-are-reading-glasses)
         - [Long pauses are mirrors](#long-pauses-are-mirrors)
-      - [CHAPTER SUMMARY](#chapter-summary-5)
+      - [Chapter Summary](#chapter-summary-5)
   - [Rule 2: Say It with Confidence](#rule-2-say-it-with-confidence)
     - [Chapter 7: Assertive Voice](#chapter-7-assertive-voice)
       - [Confidence Is a Feeling](#confidence-is-a-feeling)
@@ -76,52 +76,79 @@ Jefferson Fisher
       - [Lesson 2: Prove it to yourself](#lesson-2-prove-it-to-yourself)
       - [Lesson 3: Express your needs unapologetically](#lesson-3-express-your-needs-unapologetically)
       - [Lesson 4: Speak when it matters](#lesson-4-speak-when-it-matters)
-        - [Lesson 5: Say less](#lesson-5-say-less)
-        - [Lesson 6: Remove filler words](#lesson-6-remove-filler-words)
-        - [Lesson 7: Never undersell](#lesson-7-never-undersell)
-        - [Lesson 8: Cut the excess](#lesson-8-cut-the-excess)
-        - [Lesson 9: When in doubt, fall back on experience](#lesson-9-when-in-doubt-fall-back-on-experience)
-        - [Lesson 10: Say "I'm confident"](#lesson-10-say-im-confident)
+      - [Lesson 5: Say less](#lesson-5-say-less)
+      - [Lesson 6: Remove filler words](#lesson-6-remove-filler-words)
+      - [Lesson 7: Never undersell](#lesson-7-never-undersell)
+      - [Lesson 8: Cut the excess](#lesson-8-cut-the-excess)
+      - [Lesson 9: When in doubt, fall back on experience](#lesson-9-when-in-doubt-fall-back-on-experience)
+      - [Lesson 10: Say "I'm confident"](#lesson-10-say-im-confident)
       - [Mind Your Tone](#mind-your-tone)
       - [Chapter Summary](#chapter-summary-6)
+    - [CHAPTER 8: Difficult People](#chapter-8-difficult-people)
+      - [When Push Comes to Shove](#when-push-comes-to-shove)
+      - [How to Deflect Insults, Belittling, and Rudeness](#how-to-deflect-insults-belittling-and-rudeness)
+        - [When they insult or offend you](#when-they-insult-or-offend-you)
+        - [When they belittle, patronize, or condescend to you](#when-they-belittle-patronize-or-condescend-to-you)
+        - [When they’re rude or dismissive](#when-theyre-rude-or-dismissive)
+      - [Pushing Back Against Bad Apologies](#pushing-back-against-bad-apologies)
+        - [The no-empathy apology](#the-no-empathy-apology)
+        - [The no-apology apology](#the-no-apology-apology)
+        - [The excuse apology](#the-excuse-apology)
+        - [The toxic apology](#the-toxic-apology)
+        - [The justification apology](#the-justification-apology)
+      - [The End of Interruptions](#the-end-of-interruptions)
+        - [Step 1: Let the other person interrupt you](#step-1-let-the-other-person-interrupt-you)
+        - [Step 2: Use their name](#step-2-use-their-name)
+        - [Step 3: Correct the behavior](#step-3-correct-the-behavior)
+      - [A Better Way to Disagree](#a-better-way-to-disagree)
+        - [Apply the *Is it worth it?* filter](#apply-the-is-it-worth-it-filter)
+        - [Use your vantage point](#use-your-vantage-point)
+      - [Chapter Summary](#chapter-summary-7)
+    - [CHAPTER 9: Boundaries](#chapter-9-boundaries)
+      - [How to Build a Boundary](#how-to-build-a-boundary)
+        - [Defining the perimeter](#defining-the-perimeter)
+        - [Knowing your manual](#knowing-your-manual)
+        - [Enforcing the boundary](#enforcing-the-boundary)
+      - [How Setting Boundaries Changes Your Relationships](#how-setting-boundaries-changes-your-relationships)
+      - [Chapter Summary](#chapter-summary-8)
+  - [Rule 3: Say It to Connect](#rule-3-say-it-to-connect)
+    - [Chapter 10: Frames](#chapter-10-frames)
+      - [What Is a Conversational Frame?](#what-is-a-conversational-frame)
       - [How to Frame a Conversation](#how-to-frame-a-conversation)
         - [1. Set a direction](#1-set-a-direction)
         - [2. Call your shot](#2-call-your-shot)
         - [3. Get their commitment](#3-get-their-commitment)
       - [One frame, one issue](#one-frame-one-issue)
       - [How to Nudge a Conversation Back into View](#how-to-nudge-a-conversation-back-into-view)
-      - [CHAPTER SUMMARY](#chapter-summary-7)
+      - [Chapter Summary](#chapter-summary-9)
     - [Chapter 11: Defensiveness](#chapter-11-defensiveness)
       - [Why Defensiveness Breaks Connection](#why-defensiveness-breaks-connection)
       - [Defensiveness Builds a Wall](#defensiveness-builds-a-wall)
       - [How to Stop Defensiveness](#how-to-stop-defensiveness)
-        - [1. Catch yourself](#1-catch-yourself)
-        - [2. Let their words fall](#2-let-their-words-fall)
-        - [3. Get curious](#3-get-curious)
-        - [1. Begin your sentence with "I," not "You"](#1-begin-your-sentence-with-i-not-you)
-        - [2. Don't begin your question with "Why?"](#2-dont-begin-your-question-with-why)
+      - [1. Catch yourself](#1-catch-yourself)
+      - [2. Let their words fall](#2-let-their-words-fall)
+      - [3. Get curious](#3-get-curious)
+        - [1. Begin your sentence with “I,” not “You”](#1-begin-your-sentence-with-i-not-you)
+        - [2. Don’t begin your question with “Why?”](#2-dont-begin-your-question-with-why)
         - [3. Acknowledge first](#3-acknowledge-first)
-      - [CHAPTER SUMMARY](#chapter-summary-8)
-    - [Chapter 12: Difficult Conversations](#chapter-12-difficult-conversations)
+      - [Chapter Summary](#chapter-summary-10)
+    - [CHAPTER 12: Difficult Conversations](#chapter-12-difficult-conversations)
       - [1. Set aside real, undistracted time](#1-set-aside-real-undistracted-time)
       - [2. Drop the pleasantries](#2-drop-the-pleasantries)
       - [3. Begin with your end](#3-begin-with-your-end)
       - [What It Means to Be a Safe Space](#what-it-means-to-be-a-safe-space)
-      - [CHAPTER SUMMARY](#chapter-summary-9)
-    - [Bonus Chapter: How to Handle Narcissists and Gaslighters](#bonus-chapter-how-to-handle-narcissists-and-gaslighters)
+      - [CHAPTER SUMMARY](#chapter-summary-11)
+    - [Chapter 13: How to Handle Narcissists and Gaslighters](#chapter-13-how-to-handle-narcissists-and-gaslighters)
       - [The Game You Never Signed Up For](#the-game-you-never-signed-up-for)
       - [Three Rules for Handling a Narcissist](#three-rules-for-handling-a-narcissist)
         - [Rule #1: Stiff Arm](#rule-1-stiff-arm)
-      - [What to Say](#what-to-say)
+          - [What to Say](#what-to-say)
         - [Rule #2: Flip the Focus](#rule-2-flip-the-focus)
         - [Rule #3: Stop Pulling on Them and Start Pouring into You](#rule-3-stop-pulling-on-them-and-start-pouring-into-you)
-      - [The Power of Detachment](#the-power-of-detachment)
+          - [The Power of Detachment](#the-power-of-detachment)
       - [Who Turned on the Gaslighting?](#who-turned-on-the-gaslighting)
       - [How to Respond to Gaslighting](#how-to-respond-to-gaslighting)
-        - [1. Use neutral, repetitive phrases](#1-use-neutral-repetitive-phrases)
-        - [2. Trust your gut](#2-trust-your-gut)
-        - [3. Shift the focus from the past to the future](#3-shift-the-focus-from-the-past-to-the-future)
-      - [Chapter Summary](#chapter-summary-10)
+      - [Chapter Summary](#chapter-summary-12)
   - [Afterword](#afterword)
   - [The 47-Second Version](#the-47-second-version)
   - [The Next Steps](#the-next-steps)
@@ -130,36 +157,11 @@ Jefferson Fisher
     - [Chapter 4: Control Yourself](#chapter-4-control-yourself-1)
     - [Chapter 5: Control the Moment](#chapter-5-control-the-moment-1)
     - [Chapter 7: Assertive Voice](#chapter-7-assertive-voice-1)
-    - [Chapter 8: Difficult People](#chapter-8-difficult-people)
-    - [Chapter 9: Boundaries](#chapter-9-boundaries)
-    - [Chapter 10: Frames](#chapter-10-frames)
+    - [Chapter 8: Difficult People](#chapter-8-difficult-people-1)
+    - [Chapter 9: Boundaries](#chapter-9-boundaries-1)
+    - [Chapter 10: Frames](#chapter-10-frames-1)
     - [Chapter 11: Defensiveness](#chapter-11-defensiveness-1)
     - [Chapter 12: Difficult Conversations](#chapter-12-difficult-conversations-1)
-  - [Index](#index)
-    - [A](#a)
-    - [B](#b)
-    - [C](#c)
-    - [D](#d)
-    - [E](#e)
-    - [F](#f)
-    - [G](#g)
-    - [H](#h)
-    - [I](#i)
-    - [J](#j)
-    - [K](#k)
-    - [L](#l)
-    - [M](#m)
-    - [N](#n)
-    - [O](#o)
-    - [P](#p)
-    - [Q](#q)
-    - [R](#r)
-    - [S](#s)
-    - [T](#t)
-    - [U](#u)
-    - [V](#v)
-    - [W](#w)
-    - [Y](#y)
   - [About the Author](#about-the-author)
 
 ## Dedication
@@ -593,7 +595,7 @@ Now, it’s highly likely that the themes in the pages ahead won’t be anything
 
 Well, it starts with what you say next.
 
-#### CHAPTER SUMMARY
+#### Chapter Summary
 
 - The person you see isn’t the person you’re talking to. Every person has a surface    and a depth. Often, the emotions you hear in someone’s voice are not bids for disagreement but bids for connection.
 
@@ -775,7 +777,7 @@ By keeping conversational goals and values in mind, you put connection within re
 The foundation of every strong relationship is built on this mindset, where
 the aim isn't to win but to connect, share, and grow together, day after day, year after year. Let your next conversation be an opportunity to practice this clarity in goals and values.
 
-#### CHAPTER SUMMARY
+#### Chapter Summary
 
 - Your first step toward connection is as easy as your next conversation.
 
@@ -896,7 +898,7 @@ Confidence doesn't mean you avoid mistakes. It means you embrace them.
 
 Every day I run into just how much of a misconception exists about what confidence is. I receive message after message beginning with "*I wish*." I wish I could say this, I wish I could say that. People often talk of confidence as if it's a trait you're born with, like how tall you are or how much you resemble a parent. They see it as a standard of perfection. In truth, it's far from it. You'll see. The point I'm making now is that if you read the word *confidence* and struggle to identify with it, or find it challenging to conceptualize, you're holding the right book.
 
-#### CHAPTER SUMMARY
+#### Chapter Summary
 
 - How you approach your next conversation can be the difference between building connection and breaking it.
 
@@ -1167,7 +1169,7 @@ You could call it emotional intelligence. I prefer to call it discernment, a six
 
 When you reverse engineer your own triggers, you'll become more skilled at identifying the triggers of others. You'll begin to hear someone's raised voice not as an attack but as a plea to remove the threat. If you want to put out their fire, find their trigger.
 
-#### CHAPTER SUMMARY
+#### Chapter Summary
 
 - What triggers you teaches you-if you're willing to learn.
 
@@ -1470,7 +1472,7 @@ Calmness
 
 You can't control other people, but you can control the moment. The split second before a conversation begins is all the time you need. It's possibly the most powerful moment of a conversation, and most people don't even know it exists. Leverage that. Take a conversational breath. Do a quick scan. Have a small talk with yourself. You may be surprised at just how well the conversation turns out.
 
-#### CHAPTER SUMMARY
+#### Chapter Summary
 
 - I'm giving you three tools to take more control over your communication: a conversational breath, a quick scan, and a small talk.
 
@@ -1552,9 +1554,9 @@ Why don't more people use it? The issue is twofold. For one, many people avoid s
 
 Second, people tend to fear that silence shows weakness. In more professional environments, for instance, there's a pervasive thought that not responding immediately to questions, whether in email or in person, demonstrates a lack of knowledge or preparation. That fear drives you to prioritize immediacy, sometimes at the expense of accuracy or thoughtfulness. In everyday conversations too, you may find yourself using verbal fillers to fill the silence with speech (think "you know") or sound (think "uh" and "um"). There's a sense that silence conveys incompetence, when in reality, silence is wisdom in waiting. It's rushing your words that shows weakness. Slowing your words shows strength.
 
-By understanding how to use pauses, you enhance your image of competence and show that you're someone who is more deliberate and therefore more credible. Rather than thinking that silence shows uncertainty, take the mindset that silence ensures what follows is *certain*. The strategic use of silence reflects intention, not hesitation. When well timed, pauses are a sign of confidence and self-control. More often than not, the person who controls the pace of the conversation is the person most in control of themselves. 
+By understanding how to use pauses, you enhance your image of competence and show that you're someone who is more deliberate and therefore more credible. Rather than thinking that silence shows uncertainty, take the mindset that silence ensures what follows is *certain*. The strategic use of silence reflects intention, not hesitation. When well timed, pauses are a sign of confidence and self-control. More often than not, the person who controls the pace of the conversation is the person most in control of themselves.
 
-That's what's so powerful about a pause. It gifts you with the ability to control *time*. 
+That's what's so powerful about a pause. It gifts you with the ability to control *time*.
 
 Here's what that control over time provides you with:
 
@@ -1676,7 +1678,7 @@ All I had done was use the power of a long pause. He saw how his words looked in
 
 -
 
-#### CHAPTER SUMMARY
+#### Chapter Summary
 
 - A well-timed pause credits you with the power of time. Time to reflect, time to reconsider, and time to regulate.
 
@@ -1861,7 +1863,7 @@ Confident people have the urge to say *nothing*. There is wisdom in their silenc
 
 If an insecure person can't feel confident about their contribution, they'll choose to feel confident in their criticism. Don't be that person. And the next time you see it, understand that they're scratching their insecurity itch. Let it be a reminder that true confidence chooses the moment of input.
 
-##### Lesson 5: Say less
+#### Lesson 5: Say less
 
 The fewer the words, the clearer the point.
 
@@ -1869,7 +1871,7 @@ Think of conversation like supply and demand. Economics says that when you have 
 
 This is also why overexplaining kills confidence. The more words you use, the less you actually say. Using too many words to say something small creates a big problem. The temptation to overexplain stems from the fear that the other person isn't going to believe you (a social evaluation trigger). But the more words you use, the less believable you sound. The more words it takes to tell the truth, the more it sounds like a lie. The longer you talk, the more it sounds like you don't know what you're talking about.
 
-##### Lesson 6: Remove filler words
+#### Lesson 6: Remove filler words
 
 You know them as the *um*s, *ah*s, and *uh*s that delay your speech. They're natural and common. They're mostly used subconsciously as a way to fill the gaps of silence and keep up the sound of conversation. In an informal setting with friends and family, they're no issue. Simple filler words can help maintain the flow of conversation. You don't even really hear them because you're relaxing and relating on a deeper level. But in a more formal or professional setting, they signal hesitation and water down your confidence. Verbal crutches convey that you're not prepared or that you're less confident about what you're saying. Some filler words you may not even notice:
 
@@ -1891,7 +1893,7 @@ As you learned in chapter six, silence adds pauses and gives you better control.
 
 Remove the words that water down your sentences. If you want to sound assertive, serve your words neat.
 
-##### Lesson 7: Never undersell
+#### Lesson 7: Never undersell
 
 If you don't believe your words have value, neither will the other person. Using phrases that undervalue your worth will slowly eat away at your confidence. Phrases like:
 
@@ -1920,7 +1922,7 @@ So instead, focus on phrasing that builds upon or breaks down the issue being ra
 
 These phrases sound more like you're leaning into your question or point of view rather than shying away from it.
 
-##### Lesson 8: Cut the excess
+#### Lesson 8: Cut the excess
 
 One of the quickest ways to boost your assertive vocabulary is to cut adverbs from your sentences. Adverbs are words that modify verbs or adjectives. You most likely know them as words that end in *-ly* or express a certain degree.
 
@@ -1950,7 +1952,7 @@ A lot of other phrases clutter your assertiveness. See if any of these examples 
 
 At best, these phrases undermine your credibility, and at worst, they're disingenuous. Cut them; you don't need them. Instead, say everything *after* the adverb you want to use.
 
-##### Lesson 9: When in doubt, fall back on experience
+#### Lesson 9: When in doubt, fall back on experience
 
 Often, particularly in the workplace, you'll be asked a question that you don't know the answer to. When that happens, how you respond gives you an opportunity to use assertive language. Rather than putting on a deer-in-the-headlights look, rely on your past experiences:
 
@@ -1961,7 +1963,7 @@ Often, particularly in the workplace, you'll be asked a question that you don't 
 
 Relying on your past gives you a more solid foundation for responding, even when you don't know the immediate answer. Mind you, there's nothing wrong with saying, "I don't know." In fact, admitting ignorance is a sign of honesty and humility that can build trust. Following that admission with a commitment to find out or a reflection on a relevant experience demonstrates your dedication to providing value. Rather than throwing your hands up in the air, falling back on your past experiences shows that you're proactive, leveraging your knowledge to navigate uncertainties.
 
-##### Lesson 10: Say "I'm confident"
+#### Lesson 10: Say "I'm confident"
 
 This lesson is easy. Before you give your answer, begin with the phrase "I'm confident." It doesn't much matter what you say after it. The listener hears the word *confident* and associates that behavior with you.
 
@@ -2001,2391 +2003,1658 @@ Using assertive words will build your confidence. And your growing confidence wi
 #### Chapter Summary
 
 - Confidence is a feeling, not a thing you can summon.
-
 - You build confidence through being assertive; together, they create a positive feedback loop. The more assertive you are, the more confident you feel, and the more confident you feel, the more assertive you are.
-
 - Word choice matters. Typically, the fewer words you use, the more confident you sound. Eliminate unnecessary apologies and filler words to increase the strength of your sentences.
-
 - When you unlock your assertive voice, you empower yourself to express your needs with confidence.
+
+---
+
+### CHAPTER 8: Difficult People
+
+Legal disputes between family members are the worst. Between friends is a close second.
+
+The people you let into your life know a lot about you: what makes you happy and what makes you upset. When close relationships go south, they can be the nastiest sort of conflict, the type that brings out the absolute worst in a person. Sometimes the most difficult people in your life are either related to you or have a history with you, making the tough talks even tougher. Maybe you can relate.
+
+I once had a case involving two middle-aged sisters. And it was about as fun as it sounds.
+
+My client wanted to keep the business that the two had inherited operating and successful. The other sister wanted to sell the business and split the profits, on account of her having, let’s just say, different life goals. They needed a clean break from what had become a constant source of conflict between them. The plan was for my client to buy out her sister’s shares.
+
+Despite multiple attempts to negotiate, my client’s generosity and patience were continually met with stubbornness and, at times, outright hostility. The other sister insisted on painting my client as the antagonist of the story. When my client presented reasonable solutions, the other sister would find a way to twist her words and resort to hurtful comments and insults that went back as far as when they were kids. Things she knew would hurt.
+
+“How long do I keeping playing nice?” my client asked me during a phone call.
+“You always play nice,” I said. “That doesn’t mean you play soft. You don’t need to push back. You just can’t be pushed over.”
+
+Acknowledging that she’d tried everything to keep it peaceful and respect what her parents would want, my client had found her limit. Trying to “work it out” wasn’t working. She needed a different strategy. Using the lessons you’ll learn in this chapter, my client began standing up for herself in conversations with her sister. She started to find her voice.
+
+The two agreed to meet in person (with attorneys) to try one last time to resolve their issues. My client was nervous walking in, but I could tell she had a new sense of confidence when she spoke. The discussion started off fine, but it wasn’t long before the sister began ramping up the drama. At one point, she threw out something that was more than a comment. It was a grenade:
+
+“And I’ve never liked you. You’re dead to me anyway.”
+
+My client went silent. I knew from our many conversations that her sister’s words cut like a knife. After using a long pause, she finally spoke.
+
+“I need you to repeat that.”
+
+Her sister looked uncertain. She wasn’t expecting that response. She looked as though she was about to say it again, but she couldn’t.
+
+“I’m—I’m not repeating that,” she said, almost shaken.
+
+“Then I won’t be repeating this,” my client said firmly. “I’m getting off this roller coaster. If you want to get off with me, do it now. And I’ve always loved you.”
+
+The sister teared up and asked for some time to speak to her attorney alone. A few minutes later, the case settled.
+
+You’ve heard the advice that in difficult moments like these you need to be empathetic and try to reach common ground. I think that’s right and it’s noble. But sometimes, it’s not practical. What do you do when you feel like your compassion has been exhausted? How do you communicate when you believe your empathy is being exploited or taken advantage of?
+
+#### When Push Comes to Shove
+
+Kindness alone doesn’t always work. No amount of patience or gentle explanation makes a difference. The person is committed to misunderstanding you. When it happens, you’ll be tempted to do one of two things. You’ll walk on eggshells, constantly adjusting your words and actions to avoid conflict altogether at the expense of your own authenticity and peace of mind. Or you’ll double down, matching their negative energy tit-for-tat and round for round.
+
+I want you to do neither. There’s a third option. It involves using your new assertive voice to create responses that leave no room for misinterpretation, responses that have all the boldness of aggression with none of the disrespect.
+
+There comes a point when it’s time to stand up for yourself, when push comes to shove and you need to voice your disapproval. Yes, you’re still going to show integrity. Yes, you’re still going to show respect. But your response should be about showing that you respect yourself enough to speak up and say what is unacceptable to you.
+
+The first thing to know about standing up for yourself is when to do it, because not everyone is worth getting out of your chair for. It’s a know-your-worth mentality. Not everyone is worth your peace of mind. You have to know and consciously decide if the person standing in front of you is one who means something to you.
+
+To assertively disagree and stand up for yourself is both an art and a skill. Here are the advanced tools you’ll need the next time someone goes too far.
+
+#### How to Deflect Insults, Belittling, and Rudeness
+
+When you hear someone say something rude or insulting, understand that they’re wanting something from you. That something is dopamine, the “feel-good hormone” that motivates and rewards you. Their search for dopamine has little to do with you personally. It’s often a reflection of their own insecurities. Belittling others can make the powerless feel powerful, the ignored feel seen, and the jealous feel like they’ve gained something. They get dopamine from the attention of the spotlight or from their sense of control over your negative reaction.
+
+It also distracts them from their own vulnerabilities by allowing them to focus on perceived or projected weaknesses in you, in the same way you may catch yourself judging someone. The other person feels less insecure, even if momentarily, knowing that they can give you insecurities too. They’ll feel less upset knowing that you’re upset. It’s a cycle in which their temporary high comes at the cost of your confidence.
+
+The key is to see these types of comments for what they truly are: an attempt to elicit a response.
+
+Remember, it’s not about you. It’s about their need for your response.
+
+So when they say something for their hit of dopamine, the worst thing you can do is give it to them. That’s why you’re not going to.
+
+##### When they insult or offend you
+
+- “You’re an idiot.”
+- “You’re a loser.”
+- “You’re ugly.”
+
+Whether it’s name-calling or personal attacks on your character, looks, ability, or identity, these comments are meant to hurt. They might be aimed at your age, race, gender, or background. They’re meant to cut deep, and they often hurt more because they’re direct.
+
+I know that when you get an insult it feels better to throw it right back. “Oh, I’m an idiot? Well, *you’re…*” But that only ratchets up the problem. Maybe you can convince yourself that you’re okay with that, but now *you’re* the one wanting dopamine. The blows will continue to get thrown until one of you bows out and receives a momentary “win.”
+
+It’s not worth it. Your value is too high for such low behavior.
+
+When someone insults or offends you, try these steps:
+
+1. **Give it a long pause**
+    The long pause gives their words a chance to echo back to them. The pause also allows their words to fall before they get to you, as I’ll discuss in chapter eleven, which keeps you from getting defensive. A long pause makes them rethink their words and question whether they will stand by them or take them back. Remember, the awkward pause will make them squirm, and that’s okay. And most of all, the silence *takes away their dopamine*.
+
+1. **Slowly repeat what they said**
+    Often, the silence is all you need to say. If it requires more, repeat what they said back to them very…slowly. Here, you’re the echo. You’re ensuring that they heard every word of what they said.
+
+1. **Keep breathing out**
+    When you repeat their words back, it will either clear up the confusion or add fuel to the fire. Go to your breath. In that moment, you need to rely on breath control to make sure you don’t tighten your body or muddle your thinking. If you enter into a state of shallow breathing, there’s a higher risk that you’ll have a delayed display of emotion or anger and lose the high ground. If needed, assert a boundary, as you’ll learn in the next chapter.
+
+##### When they belittle, patronize, or condescend to you
+
+- “Let me put this in terms that you’ll understand.”
+- “Oh wow, you finally lost some weight. Good for you.”
+- “It’s cute how you thought you did it right.”
+
+These comments are meant to diminish your efforts, intelligence, or status. It’s the idea that they’re “talking down” to you and explaining what you already know. Unlike more aggravated insults, these remarks are often indirect. There is typically a sense of feigned or pretend praise, or friendliness, that’s underscored with a put-down to reduce your significance.
+
+When someone belittles, patronizes, or condescends to you, try these steps:
+
+1. **Make them say it again**
+    Ask them to repeat it. That’s it. When you ask the other person to repeat what they just said, you take all the fun—a.k.a. dopamine—out of it. It’s like throwing a wet, soggy blanket over their words. They’re also not expecting that reply. When someone makes a belittling remark, they expect the spotlight to turn to you. But when you ask them to repeat what they just said, the spotlight jerks right back to them. They’ll become uncomfortable. The result is often a quick reply of “Never mind,” or “Uh, I meant…” as they try to readjust their response. It can be as simple as:
+    - “I need you to repeat that.”
+    - “I need you to say that again.”
+    - “I didn’t get all of that—can you repeat it?”
+
+2. **Ask a question of outcome**
+    Regardless of whether they have the guts to repeat the comment, you’re going to respond using a question of outcome. This type of question seeks to highlight and project the reaction that they tried to elicit. Again, you’re verbalizing the echo of them they need to hear.
+    - “Did you want that to hurt?”
+    - “Did you want that to embarrass me?”
+    - “Was that supposed to make me feel small?”
+    - “Did that feel good to say out loud?”
+
+3. **Reply with silence**
+    No matter their answer, let your silence be your reply. It’s better not to respond. Most likely, they’ll have a terrible excuse or say they’re just joking or start fumbling over their words and backtracking. Let their poor behavior linger as your silence shows you to be the one with control and composure.
+
+##### When they’re rude or dismissive
+
+- “Oh, you’re still talking?”
+- “No one asked you.”
+- “I feel dumber just by listening to you.”
+
+These comments are the more common, general remarks that go against social norms and show a lack of respect. They can be direct or indirect, and they’re abrasive. The goal of these comments is to invalidate your thoughts or beliefs.
+
+When someone is rude to you or dismissive of your views, try these steps:
+
+1. **Give it a short pause**
+    Pause just long enough to consider their words. Here, you’re using silence as a scale, weighing their words to decide if what they said is worth your time and effort.
+
+2. **Ask a question of intent**
+    These questions are similar to outcome-based questions but instead are input-focused, seeking to highlight the sound of their words and probing into their intentions. Questions like:
+    - “Did you mean for that to sound rude?” (or offensive or dismissive)
+    - “Did you mean for that to come across short?”
+    - “What did you intend with that statement?”
+    - “How did you expect me to react to that?”
+    - “Was that meant to be helpful, or hurtful?”
+
+3. **Wait**
+    The vast majority of the time, the other person will clarify or apologize and readjust their comment with something like “Oh goodness, no, not at all, what I meant was…” If this happens, congratulations, you avoided taking things personally and potentially throwing a wrench in a relationship.
+    If, however, their intent was ill-willed, leave it. Give them silence and move on.
+    This formula doesn’t just work for verbal conversation. It works for written communication too. A quick email or text with “Did you mean for that to sound short?” can cure most poorly worded and shortsighted messages.
+
+#### Pushing Back Against Bad Apologies
+
+They know they messed up. You know they messed up. And still they avoid the honest apology.
+
+Getting someone to apologize for something they did to hurt you can be downright miserable and can make it hurt even more, like salt in the wound. When someone withholds an apology, it can feel like a denial of your feelings, of your experience. It deepens the rift, as the lack of a real apology leaves your hurt unacknowledged and the issue pushed further away from reconciliation. As the healing process is delayed, trust and respect begin to fall.
+
+There is no difference between refusing to offer an apology and dressing up an excuse to sound like one. If anything, dressing up an excuse is even worse, because the other person knows exactly what you need but chooses to withhold it. They know they should. They know they could. But they won’t. It goes back to the fear of being wrong. Admitting fault or blame can be a blow to the ego. It makes you confront your own shortcomings. To own up to a mistake and apologize is difficult for many people.
+
+And you’ve been there too. Times when you didn’t feel like saying you’re sorry—“I’m not sorry, I’ve done *nothing* wrong.” Understand that if you value the other person in your life, and that person is truly hurt, withholding an apology is corrosive. And what does it cost you? Really? What does an apology cost you, even if you don’t fully agree with it?
+
+I’m not talking about the people who play the victim to manipulate you and make you apologize. There are other strategies for dealing with that. I’m talking about everyday, you-hurt-my-feelings conversations. It’s okay to say, “I’m not ready to apologize at the moment. I’m too upset and I need to calm down first.” That’s communication. That’s real. But to withhold an apology because you don’t believe someone deserves it is to play both judge and jury.
+
+No one can tell you how to feel or what to feel.
+
+It’s like someone punching you in the arm and telling you it didn’t hurt. They don’t get to decide that. And while there’s nothing you can do to force someone to apologize, you can stand up for yourself and let it be known that you will no longer be accepting bad, useless apologies.
+
+Bad apologies come in all shapes and sizes, but some are more common than others. The following are the ones you’re most likely to hear and have absolutely heard before:
+
+##### The no-empathy apology
+
+This sounds like: “Well, I’m sorry that you feel that way.”
+
+Your response: “Don’t apologize for my feelings, apologize for what you did.”
+
+This apology sidesteps all accountability. Rather than addressing their misconduct, they shift the focus to your reaction. This response re-centers the conversation to where it belongs: the other person’s actions. You’re sending the message of *No, these are my feelings, I got those. I’ll be accountable for those. You be accountable for you*. You’re highlighting the fact that someone being sorry for how you feel isn’t an apology for what they’ve done. It is not their place to be sorry about how you feel. It’s their place to be sorry about the behavior that caused those feelings.
+
+##### The no-apology apology
+
+This sounds like: “I’m sorry *if* I did something wrong,” or “I’m sorry *if* I upset you.”
+
+Your response: “I need you to change the *if* to *that*.”
+
+By inserting *if* into the apology, the other person makes the apology seem conditional and uncertain, as if what they did is still up for debate. Your response instructs them to remove the conditional language. By asking the other person to change *if* to *that*, you’re guiding them toward owning their actions more directly. This shifts the apology from a hypothetical to an acknowledgment of actual harm. “I’m sorry *that* I upset you” is more sincere and meaningful.
+
+##### The excuse apology
+
+This sounds like: “I’m sorry, okay? I’ve just been so stressed lately.”
+
+Your response: “You don’t need to apologize for your stress. I need you to apologize for your words.”
+
+This apology deflects responsibility for their behavior to their external environment, like work, or the kids, or stress. But understand that those are all things that have happened to *them*. They haven’t happened to you. And you shouldn’t pay the price for them.
+
+This response takes away the power of their excuse. Their stress didn’t say something hurtful. Their work didn’t make you upset. Redirect the responsibility back to whom it belongs.
+
+##### The toxic apology
+
+This sounds like: “I’m sorry that I’m such a horrible person,” or “I’m sorry that you’re so perfect.”
+
+Your response: “I’m willing to accept an apology.”
+
+This apology isn’t just toxic. It’s manipulative. And they’re hoping that you’ll take the bait. Here’s what they’re hoping it looks like:
+
+YOUR MOM: “I’m sorry that I’m such a bad mother.”
+YOU: “You’re not a bad mother, you just need to understand that…”
+YOUR MOM: “Yes I am, I’m horrible. That’s what you think. You always try to…”
+
+And off they go, far, far away from the hurt that they caused you. These kinds of apologies frame the other person as the victim in an attempt to garner sympathy and make you the comforter. This response keeps you out of the trap. It’s neutral and measured, and it asserts what you’re willing to accept and what you’re not willing to entertain. If they try again, simply repeat it: “I’m willing to accept an apology.”
+
+##### The justification apology
+
+This sounds like: “I was just kidding,” “I was just joking,” or “I was just messing around.”
+
+Your response: “Then be funnier,” or “Then find new material,” or “I wasn’t.”
+
+This kind of apology is a veiled attempt to minimize the impact of their actions and suggests that what they did shouldn’t have been taken seriously. It undermines the validity of your feelings and implies that the problem is with you—your lack of a sense of humor, your sensitivity, your overreaction. This response counters that tactic and makes clear that humor never justifies harm.
+
+#### The End of Interruptions
+
+Not all interruptions are bad. Maybe the other person is excited. Maybe they can’t help it. Interruptions are common and expected in laid-back conversations with friends and in casual settings. That’s not an issue. But when you’re trying to have a serious conversation, a heart-to-heart, or a business meeting with company-wide ramifications, interruptions can be infuriating.
+
+Here’s how to put a stop to them.
+
+##### Step 1: Let the other person interrupt you
+
+The first time they interrupt, let them.
+
+Yes, let them.
+
+But just the first time.
+
+Allowing the other person to interrupt you on the first swing serves two purposes.
+
+1. Their interruption gives you the high ground as the more mature, more reasonable person. The less impulsive, the more thoughtful. If you cut them off too soon with “Uh, *excuse me*, I was still talking,” it can come across as too harsh, often making you look unforgiving or insecure. Remember, confident people know how to select their timing. The other person hasn’t taken anything away from you. If anything, their interruption makes them look bad. Don’t steal their negative light and put it on yourself.
+
+2. Their interruption lets them get their impulsive thoughts out. It’s at this stage that what the other person says is primarily emotion-driven. It’s a knee-jerk reaction. If they have to speak their mind so badly that they have to say it right at that moment, they weren’t going to listen to what you were about to say anyway. You can’t pour water into a glass that’s already full. So let them spill it out.
+
+As soon as they’re finished with their thought, go back to exactly where you left off. Don’t address their comment. Don’t get carried away on a tangent. Restart your sentence. This signals to the other person that you weren’t done talking without risking your credibility and that you’re committed to communicating in complete messages.
+
+##### Step 2: Use their name
+
+Say their name to stop their interruption. Names catch people’s attention. If you cut the other person off with “Hey!” or “Just listen!” they’ll get more defensive and closed off. But if you say their name, even if it’s forceful or stern, they tend to remain open.
+
+Using their name is also a good way to stop someone who is dominating a conversation or talking over people. Say their name out loud at a normal level. If it doesn’t stop them, repeat it while increasing your volume.
+
+##### Step 3: Correct the behavior
+
+Here, you’re going to assert yourself with statements that are *I* driven rather than *you* driven (think “You’re interrupting me” or “Don’t interrupt me!”). Use one of these responses in a calm, collected manner:
+
+- “I cannot hear you when you interrupt me.”
+- “I will listen to you when I’m finished.”
+- “I want to listen to you. I need to finish my thought before I do.”
+
+These responses work because they not only are direct but also position you in a way that the other person has to expose themself in order to oppose you. Interrupting again would place their poor behavior too far out on a ledge as a blatant violation. It would mean they’re not interested in being heard, which means they’re not truly interested in conversation but rather in wanting to hear themself speak. Most people aren’t willing to look that bad.
+
+More often than not, after you follow these steps, they won’t interrupt you in the conversation again. By allowing them to interrupt the first time, calmly using their name, and holding your ground, you’ve created a power dynamic in your favor while still maintaining your credibility.
+
+Here’s what that could look like between you and a coworker, Alex:
+
+- YOU: “The main issue with the current project timeline is that—”
+- ALEX: “Listen, we’ve always made it work, okay? Timeline or no timeline. I mean, if it were up to me, we’d already have this moving forward without needing input from management…”
+- You say nothing and allow Alex to finish, using breath control to maintain steady composure.
+- ALEX: “…And I understand that you and I don’t always see eye to eye, but I know that what I bring to the table provides value.”
+- YOU: “The main issue with the current project timeline is that it doesn’t account for the new budget approvals, which may slow down the—”
+- ALEX: “It won’t. I’ve seen this before, okay? There’s this—”
+- YOU: “Alex.”
+- Alex pauses.
+- YOU: “I can’t hear you when you interrupt me. Let me finish.”
+- Alex nods and acknowledges your turn to speak.
+
+This method keeps the relationship respectful. Imagine instead that at the first interruption, you angrily say, “I’m talking!” You’ll lose the power dynamic, as now you’re the one who appears more emotional and needy. Other sarcastic phrases like “Did the middle of my sentence interrupt the beginning of yours?” may seem cool, but they only lose you respect and make you less desirable to listen to. Using your assertive voice to stop interruptions maintains respect through measured responses.
+
+#### A Better Way to Disagree
+
+One of the important uses of your assertive language is to voice disagreement. It’s part of standing up for yourself. But what you say and how you say it when you disagree can be all the difference between sounding assertive and sounding insecure. It’s easy to disagree poorly (think “Nuh-uh!” or “Not true!”). It’s much harder to disagree effectively.
+
+Handling disagreement goes back to a core theme of this book: winning an argument often loses you more. You can disagree with another’s viewpoint without trying to win or play a trump card. Voicing disagreement is standing up for yourself. Pushing your disagreement at the expense of another’s voice, however, is standing over someone else.
+
+Here are some advanced techniques that will improve your ability to voice disagreement without losing ground—or taking it. The next time you need to disagree, try this.
+
+##### Apply the *Is it worth it?* filter
+
+Sometimes, it feels as though the other person is looking for an argument. Like they’re trying to suck you into a vortex, where everything and anything you say is twisted and turned or boomeranged back to make you agree with them. Maybe it’s about politics. Maybe it’s about religion. Maybe it’s about how the towels should be folded (actually, never mind the last one). The point is, don’t let them put you in that position where you feel like your back is against the wall or like you’re hitting your head against one.
+
+Before it goes too far, apply a quick *Is it worth it?* filter. Ask, “Is this something we have to agree on?”
+For example:
+
+- YOUR PARTNER: “I’m thinking about changing up the laundry detergent to this brand I saw a commercial for on TV. What do you think?”
+- YOU: “I’d rather not. I like the one we’ve been using.”
+- YOUR PARTNER: “But the other one is also supposed to be more eco-friendly. It’s better for the environment.”
+- YOU: “I get that, I’m just not convinced it’ll work as well as the one we have.”
+- YOUR PARTNER: “Why is it that you never want to go along with something unless it’s your idea?”
+- YOU: “Is this something we have to agree on?”
+- YOUR PARTNER: “No, I guess you’re right.”
+
+Immediately, this question forces the other person to evaluate the priority of the conversation. This technique is especially good for what 99 percent of arguments are about—nothing. Use this *Is it worth it?* filter if you find yourself in disagreement over mundane issues or arguments about things that may never come to pass.
+
+Sure, they may want you to agree with them. But do you have to? Usually, the answer is no.
+
+If somehow the answer is yes, move to the next filter: *Is this something we have to agree on now?* For example:
+
+- YOU: “Is this something we have to agree on?”
+- YOUR PARTNER: “I mean, yeah, I think we should.”
+- YOU: “Is this something we have to agree on right at this moment?”
+- YOUR PARTNER: “Oh, no, I suppose not. We can try it out first and then decide.”
+
+This question forces the other person to evaluate the timing of the conversation. It’s common in close relationships to argue about things that’ll never happen. You’re arguing on what-ifs and what-abouts. By asking if an immediate agreement is necessary, you introduce the possibility of postponing the decision until more information is available or until both of you are more ready to address it. Asking to postpone is a quick way to defuse disagreement by grounding the conversation on what really matters in the moment.
+
+##### Use your vantage point
+
+When you respond with “I disagree,” it’s direct. And in many contexts, it’s too direct. “I disagree” can expose you to a volley of back-and-forth arguments, potentially escalating the situation unnecessarily. That’s because while you say, “I disagree,” the other person hears, “You’re wrong.” And that can light up their psychological triggers of social evaluation or competence.
+
+Now, there are times when they really are wrong, like if they’re trying to convince you that the sky is green. That’s not what I’m talking about. I’m making the point that “I disagree,” while direct (which is good), can create more problems for you because it can make the other person feel shot down and defensive (not good). Even if you say, “I *respectfully* disagree,” there’s nothing respectful about it—and they know that because they can feel it.
+
+Instead, opt for phrases that signal viewpoints, not verdicts. That is, convey your opinion from a particular vantage point as opposed to a blunt dismissal. This strategy opens up space for dialogue rather than confrontation. To use your vantage point effectively, try one of these three phrases:
+
+1. **“I see things differently.”**
+    When you frame your response as a difference in viewpoint, it’s like telling someone what you see from where you’re sitting in a room. It widens the perspectives on the subject like a lens zooming out of magnification. Notice the difference between “You’re wrong” and “From where I’m sitting, I see something different.” The idea of seeing something differently makes your response about sharing perceptions instead of disputing facts. This response is useful for situations when:
+    - They’re trying to press a one-size-fits-all solution
+    - You need to introduce a nuanced perspective or add context
+    - They overlook aspects that you give higher or lower importance
+2. **“I take another approach.”**
+    This response indicates that while the approach is different, the goal is the same. You get the same result, but you just have a different method of showing your work. There are direct routes, and there are scenic routes. Each has its benefits. Each gets you to where you want to be. The benefit of this response is that it focuses both of your sights on the ultimate goal. It emphasizes collaboration over conflict. You both want the best for whatever it is, such as your family, the company, or your country. You just take another approach to it. This response is effective in situations when:
+    - You disagree about what’s “best” for a common objective
+    - Their method or plan of action lacks consideration of other factors
+    - They’re fixated on doing things a certain way
+3. **“I tend to lean the opposite.”**
+    By using history and experience as a backstop, you give yourself an anchoring point or foundation to express your view. Instead of challenging the other person, such as when you say, “I don’t agree with you,” this response relies upon a history of what you typically do, what you prefer to do, or how you tend to think. Arguing from a method of preference keeps your position from getting confrontational. You’re stating what you normally do, and people are more willing to accept that than a quick reaction that slams a door in their face. This response is helpful in situations when:
+    - Their position conflicts with your values
+    - You need to express experience over the subject matter
+    - You see a different conclusion from the shared evidence
+
+Knowing the right way to disagree positions you as the calmer, more controlled person in the room. Phrases like the preceding ones help continue conversations rather than cutting them off. But what if someone is insistent and pushes back again? Simply repeat the phrase as many times as you need. The other person will get the point: you’re not one to be pushed over.
+
+-
+
+When confronted by a difficult person, you don’t have to play their game. Refuse to let bad apologies, repeated interruptions, and bids for disagreement disrupt your confidence. When you stand firm, speak with an assertive voice, and deny the other person the dopamine they’re seeking, you’ll gain and maintain the high ground.
+
+#### Chapter Summary
+
+- Standing your ground and speaking up for yourself is self-care.
+- The key to responding to hurtful or offensive comments is to refuse to give in to their search for dopamine.
+- Prevent the immediate reward of a dopamine spike by using strategies that delay your answer, like taking a long pause, slowly repeating their words back to them, or using a question of intent.
+- Be firm against bad apologies, interruptions, and bids for disagreement by calling out the behavior and using concise, assertive phrases.
+- When you refuse to play down to someone else’s poor communication habits, you keep the high ground and maintain credibility.
+
+---
+
+### CHAPTER 9: Boundaries
+
+You don’t need a relatable story for this one.
+
+Saying no is hard.
+
+You didn’t have a problem saying no when you were young. But somewhere along the way as you grew older, you found out that saying no had a cost. Saying no to peer pressure made you feel left out. Saying no to your parents or a teacher meant punishment or discipline. Saying no to certain activities made you feel like something was wrong with you or that you wouldn’t be liked.
+
+So you acquiesced, you compromised, you people-pleased for the sake of everyone else’s peace except your own. You prioritized others’ comfort and desires over your own well-being, often at the expense of what you really wanted. Over time, it turned into a pattern: overcommit, stress, resent, and repeat.
+
+Learning to say no is not only reclaiming your power to make decisions that honor your needs but also rediscovering the childlike freedom to choose without fear.
+
+You *can* relearn that it’s okay to prioritize your well-being, to say what you need to say in a way that honors you and the world around you. And when you do, you’ll find that it’ll make you healthier, happier, and more authentic to who you truly are.
+
+Let’s start small. I got you.
+
+---
+
+*Ding!*
+
+In the corner of your laptop screen you see a notification for a message from a coworker.
+
+“Hey! Wanna grab coffee tomorrow at that new café? Need my caffeine fix lol”
+
+Ugh.
+
+Without hesitation, your gut wants to say no. It’s not that you don’t like this person. They’re nice enough, really. But you see them as a work friend, not a *friend* friend. Really more of a repeat acquaintance. And you don’t necessarily feel like giving up an hour making small talk when you already have so much going on.
+You’re faced with three choices:
+
+A.  Accept it
+B.  Decline it
+C.  Ignore it
+
+You and I both know good and well that you want to choose C. In fact, I bet you’ve already ignored the message and minimized the window.
+
+Yes, ignoring it works, but for all the wrong reasons. You have a limited number of ignores until the other person catches on that you’re avoiding them. When you hit that limit, the other person will fill in their own blank as to why you’re avoiding them, and it’s almost guaranteed to be worse than the truth of why you want to say no. It’s also a cop-out. Sure, you could wait until tomorrow when you see your coworker at the office, or send a reply, “Oh, sorry! I totally missed this! Darn. Would’ve loved to.” Come on. How many times can you do that? How does that show respect to your coworker or to yourself?
+
+---
+
+Here’s another reason why ignoring isn’t the move: the decision is still taking up mental space, living in your head rent-free. Every time you see that unread message, every time the thought crosses your mind, there’s the weight (no matter how negligible) of an unresolved issue. Ignoring it doesn’t make it go away. It only prolongs the decision and ensures a secondary conversation down the road. The coworker will ask for another time you’re available, putting you on the spot again. More wasted time, more wasted stress.
+
+When you get an invitation that you don’t want to accept, whether it’s for a dinner party with that couple you’re not crazy about, a night out when you want to stay in, or that getaway that doesn’t interest you, you’re not negotiating with the other person.
+
+You’re negotiating with yourself.
+
+Your peace of mind isn’t negotiable. Even to you. Confidence means if you want to accept, you accept. If you don’t, you don’t.
+
+How would you say no to your coworker’s message? I’m assuming you’re thinking of something like this:
+
+- “Hey! Thanks for the invite, but I can’t. I’m just super busy right now. Sorry!”
+
+How good do you feel about responses like this one? Do they feel genuine? Do they feel comfortable? Likely not.
+
+Here’s how you’re going to fix it. If you read chapter seven, you know to go ahead and get rid of the unnecessary apology and involuntary justification. After that, you’re left with this:
+
+- “Thanks for the invite, but I can’t. ~~I’m just super busy right now. Sorry!~~”
+
+Broken down, there are two elements. There’s gratitude (thanks for inviting me) followed by the *no* (but I can’t). The problem with this sequence of beginning with gratitude and ending with no is that it’s too tempting to tag on a justification or an excuse to the end of the sentence. For example, “Thanks for the invite, but I can’t…*because* I have this thing I need to go to and I’m too busy and…”
+Another problem is that this sequence tees the other person up to ask you why or inquire further, because when you end with “but I can’t,” they almost feel like you’re expecting them to show concern and respond, “Oh bummer, why not?” or “How come?” And one of the biggest problems with this order is that it causes you to use the word *but*, as in, “Thank you, *but*…” The *but* takes away from your previous statement of gratitude.
+There’s a better way. To start building your confidence through saying no to simple invitations and social offers, try these three steps:
+
+Step 1: Say no.
+
+- “I can’t.”
+- “I won’t be able to.”
+- “I need to say no / I need to take a pass.”
+- “I made a promise to myself that…”
+
+Step 2: Show gratitude.
+
+- “Thank you for inviting me / including me / thinking of me.”
+- “That’s so kind of you / that means a lot.”
+- “I appreciate you asking me.”
+- “I’m flattered / honored.”
+
+Step 3: Show kindness.
+
+- “Sounds like a wonderful time!”
+- “Hope it goes well! / I know it will be great!”
+- “I’ve heard good things about…”
+- “Hope you’re doing well!”
+
+This sequence works for several reasons.
+
+First, you begin with the no because it’s direct, and direct is kind.
+
+Second, you layer the no with gratitude, which acknowledges the value of the gesture and also reciprocates thoughtfulness. By saying no and *then* using gratitude, you remove the need to use *but* in your response.
+
+Lastly, ending with a statement of kindness finishes the response on a more pleasant note, one that doesn’t draw a “Why not?” but instead encourages a “You’re welcome!” or “You’ll be missed!” And especially in text or written communication, feel free to use emojis when appropriate to help give the reader emotional context.
+
+So get out your imaginary laptop again and look at the invite for coffee with your coworker. Rather than removing the notification or not responding, you reply:
+
+- “I can’t. Thank you for the invite. I’ve heard good things about it!”
+
+Rarely will a clean, confident reply like that ever draw an objection or pushback. Compare that reply to the more awkward “Thanks for the invite, but I can’t make it.”
+
+A stern warning: If you’re still asked for a justification, an explanation, or a reason why you said no—do not give in to it. Unless the other person is someone you love and trust and feel comfortable being 100 percent open with, don’t give in to it. If you feel the need to reply, simply repeat the turndown. In the coffee scenario, if your coworker messaged back, “Aw why not?” you’d reply by repeating your turndown: “I can’t.” At that point, it’s colder for a reason. And that reason is you don’t need to excuse or justify why you’re choosing what’s right for you.
+
+No *is* the only reason you need. No is a complete sentence.
+
+Embrace the feelings of disappointment. Work through them. Be okay with them. Don’t let go of your confidence. This is part of the process of reclaiming your needs and finding your freedom. Understand that when you feel like you’re disappointing the other person, it’s typically 98 percent ego and 2 percent truth. That is, part of your feelings of disappointment is really you convincing yourself that your presence is so needed that the other person will be crushed if you say no. That you’re so vital to their good time that the other person isn’t emotionally resilient enough to handle it.
+
+Rarely are you or I that important. Take a big breath and move forward. When it comes to standing up for yourself, disappointing someone often means you’re doing something right.
+
+But what about the harder conversations, like the comments and questions that make you uncomfortable? The ones that come from people you know to be toxic or manipulative? The ones that ask too much of you?
+How do you say no then?
+
+#### How to Build a Boundary
+
+You’ve probably heard of a boundary as it relates to self-respect or self-esteem. And though you may be familiar with the topic, having the words to effectively create a boundary requires a particular skill. It’s about more than setting limits. It’s how to communicate those limits assertively. Whereas saying no to a social invitation may be simply closing a door, asserting a boundary is more like building a fortress with a moat.
+
+##### Defining the perimeter
+
+Typically, you’ll hear people refer to personal boundaries as “drawing a line” or “crossing a line.” That’s a half-baked description. A boundary isn’t a line. It’s a perimeter. Think of a circle or a rectangle: there’s no end and no beginning. The area is fully enclosed, creating a defined space that is distinct and unique to its owner. When you drive around a neighborhood or even a country road, it’s common to see a fence. That fence is important. It tells you that the property belongs to someone, that someone values what’s on the other side. The fence is both a force to keep people out and a warning of how close they can get until they’re trespassing, visually communicating the limits of the space. Personal boundaries work much the same way.
+
+It begins with what’s important to you. Your boundaries inform the outside world of your values, what you value deep down. Maybe it’s your health, your family, your career, your well-being, your self-respect. These are the things in your life worth protecting.
+
+For example, let’s say your family is your top priority. That’s not a boundary, it’s a *value*. And you let the world outside know it’s your value when you say no to that networking event that would’ve meant you’d miss good-night prayers and tuck-ins. Or when you pass on that job offer that would’ve meant more time away from your partner. Just like that fence, it’s a bright-line indication of where your border sits.
+
+Maybe your priority is your mental health. When you say no to that family reunion that always makes you feel bad about yourself, or part ways with that friend who is always a “taker” who drains your emotional energy, other people take notice of the “fence” you’re building.
+Your actions and choices define the boundary around the things you value. It’s your actions and choices that inform others of what matters to you. The importance of your family or the value of your mental health doesn’t turn into a boundary until you begin making intentional choices that put others on notice that *they are not allowed in*. Part of building your confidence is being the bouncer to your own self-esteem. You have to let others know what’s allowed and what isn’t.
+
+The benefits of boundaries are innumerable. They’re your cornerstone for healthy relationships, honest communication, and self-respect. By building boundaries, you not only protect your emotional and mental well-being but also educate others to understand and respect your needs and limits. Boundaries also help you prevent burnout and resentment by making sure you’re not overextended, allowing you to allocate your time and energy to what truly matters. They enable you to make choices aligned with your values and priorities, promoting your freedom and autonomy. Boundaries are also a form of self-care: you’re showing up for yourself enough to protect your peace. As you become more comfortable creating these boundaries, you’ll notice a deeper sense of control over your life and an enhanced ability to navigate interactions with assertiveness, building your confidence.
+
+##### Knowing your manual
+
+I want you to go back in your mind and recall a time someone spoke to you in a way that made you feel small. A fight with an ex. An argument with a superior. A time when you felt pushed around or less yourself, without any boundary to help you.
+
+Remember specifically how you felt. If I had to guess, you didn’t feel an overwhelming sense of control. You felt cornered, powerless, constantly in a state of reacting to the threat in front of you. As if your sense of autonomy were taken away, much like someone holding the remote control to your emotions, pushing your buttons, flipping through channels without your consent and leaving you to watch your pain play out.
+
+Instead of handing over the remote control to your emotions, allowing others to push your buttons and hold all the control, get into the mindset of giving out manuals. A list of automatic nos. These manuals give voice to your boundaries, instructing the other person in detail about how you operate. Think of it like explaining the rules of a new card game. You’re providing the rules and instructions by which things will move forward. Here’s what the difference sounds like:
+
+- When they have the remote control, you shout: “Stop yelling at me!”
+- When you give a manual, you say: “I don’t respond to that volume.”
+
+- When they have the remote control, you yell: “You can’t speak to me that way!”
+- When you give a manual, you say: “I don’t accept the way you’re speaking to me.”
+
+One says, *I have no control*. The other states, *I am in control*.
+
+The manual isn’t just for them, either. It’s for you too. And that raises a good question: Do you know what your manual says? There’s a possibility you may not. If *you* don’t, how will anyone else? The solution is to make a numbered list, a set of instructions, of how—in your very next conversation—you will engage in communication. Write them down in full sentences, laying out your operator’s manual. You need to know for yourself what you will say no to and what you won’t allow past your boundary. For example:
+
+- “I don’t respond to disrespect.”
+- “I will not allow others to tell me or decide how I feel.”
+- “I don’t engage in conversation when I’m not ready.”
+- “I don’t dismiss my intuition as irrelevant.”
+- “I won’t compromise my peace for the sake of appeasement.”
+- “I don’t participate in gossip or character assassination.”
+
+You’ll find that the act of writing them down gives you a sense of assuredness. By following your manual, you’ll feel more confident in standing your ground the next time someone insults you, stonewalls you, or puts words in your mouth. The next time someone says, “You don’t even care about my opinion, you only care about yourself,” you’ll feel empowered enough to calmly respond, “I get to decide that.” You’re replacing the other person’s ability to influence your emotions with a process that works for your good.
+
+##### Enforcing the boundary
+
+Once you know the value you need to protect and you know your manual, it’s time to enforce the boundary. That means speaking up and telling the other person what they’ve run into, and most important, telling them that they won’t be going any further. Here’s how to assert your boundary.
+
+1. **Begin with the boundary**
+    Begin with an “I” statement like you learned in chapter eight, then insert your boundary. Using *I* makes it clear that this is *your* boundary, *your* choice. If you’ve done your homework, this part should be the easiest. Depending on your value, it could sound like:
+    - I don’t accept how you’re treating me.
+    - I don’t work on weekends.
+    - I don’t drink alcohol.
+
+    Keep in mind, boundaries don’t always have to be *I don’t*. They can also redirect conversations, reset focus, and clarify your interest in constructive communication. Here’s a good rule of thumb:
+
+    - **Tell them why you’re there.** When they bring up an unrelated issue or try to distract, re-center the conversation. This is a boundary of presence.
+        - *“I’m here because you matter to me.”*
+
+    - **Tell them what you’re there to talk about.** If they raise past issues or attack your character, correct the focus. This is a boundary of purpose.
+        - *“I’m here to talk about what you said to me last Friday.”*
+    - **Tell them where you’re not going.** When they say something outlandish or attempt to get an emotional reaction, be firm. This is a boundary of integrity.
+        - *“I’m not going there with you.”*
+
+    Once you assert your boundary, it’s a full stop. Don’t be tempted to justify or explain. You’ve now set it on their side of the court to decide if they’re going to respect your boundary or not.
+
+2. **Add the consequence**
+    If the other person has made it clear that they do not intend to respect your boundary, add a consequence. This is what will happen if they continue to cross your boundary. There are two steps to it.
+
+    - The first is conditional: “If you continue to…”
+    - The second is the action step: “I’m going to…” As you’ll recall from chapter seven, this phrase creates confidence, but this time it supports enforcing your boundary.
+
+    Here’s what the boundary looks like after adding on a consequence:
+
+    - “I don’t accept how you’re treating me. *If you continue to treat me this way, I’m going to end the conversation*.”
+    - “I don’t work on weekends. *If you continue to schedule me on weekends, I’m going to find a place that supports my commitment to family*.”
+    - “I don’t drink alcohol. *If you continue to pressure me about it, I’m going to leave*.”
+
+3. **Follow through**
+    This part is the most difficult. If you’re going to give a consequence, you have to mean it. Asserting yourself is telling the other person what you’re going to do, then doing it. That means if they continue to ignore your boundary, you’ll walk away from the conversation. You’ll start looking for another job. You’ll leave the party and lean on friends who respect your choices. You are showing that you say what you mean and mean what you say. You can’t take one single step back. Whatever emotional response comes out of their mouth, you can’t let that bait you into a conversation that erases the boundary you just set. Consistency is crucial.
+
+#### How Setting Boundaries Changes Your Relationships
+
+Once you begin creating and enforcing boundaries, there’s something you need to know. Not everyone will like it. Some will even hate it. But they’ll still respect you for it.
+
+Boundaries have a way of sifting out those who are with you not because of who you are but rather because of what they need you to be. Even close friends. Even family members. There will be people who prefer the version of you without boundaries. This is a time for watching and observing who is in your corner, who your real people are. The ones who love you will support you. The ones who love you for only what you give to them will be against you. People who criticize your boundaries are simply reacting to a loss of privilege. It’s almost as if whereas they were previously able to cut in line, now they have to wait like everyone else.
+
+Their discomfort over your boundary is not a sign that it’s wrong, it’s a sign that it’s working.
+
+Embrace the thought of “No, I *don’t have to* make this make sense to you. My boundaries were not put up to make you feel comfortable. They were put up for me.”
+
+Some people won’t understand right away, and that’s okay. Give them the grace to settle with the change. It will be a time when relationships are tested and recalibrated.
+
+A quick note: You don’t want to be the person who has too many boundaries, either. The type who has so many that it abuses your responsibilities, like not agreeing to basic collaboration or reasonable requests. A boundary isn’t a catchall excuse. It doesn’t justify bad behavior. It doesn’t relieve you of your obligations. Too many boundaries can be counterproductive. Stick to setting a perimeter around the things you truly value in your life.
+
+Boundaries are the bouncer for your well-being. They reinforce what you’ll allow in and prevent what you don’t need from entering your life. So make sure your bouncer is bold and visible. Think about that one person coming to mind who you know you need to have *that* talk with. What boundaries do you need to put up? What consequences do you need to set? And how will you promise yourself that you’ll follow through?
+
+When you’ve spent time with these questions, you’ll spend more time with the relationships that fill your cup instead of pouring it out.
+
+#### Chapter Summary
+
+- No is a complete sentence.
+- You get over the fear of saying no by learning to embrace the consequences. Become comfortable with disappointing people and trust that they are more emotionally resilient than you’ve made them in your mind.
+- Your actions and choices define the boundary around the things you value. If you want to know what someone values, look for where the boundary sits.
+- Give others an operator’s manual for how to communicate with you—not a remote control. Inform them what you will and will not allow past your boundary.
+- If your boundary creates discomfort for another person, it’s not a sign that the boundary is wrong. It’s a sign that it’s working.
+
+---
+
+## Rule 3: Say It to Connect
+
+### Chapter 10: Frames
+
+I remember the first time my momma took me back-to-school shopping for new tennis shoes. We walked into Parkdale Mall, past the food court, and rounded the corner, where I could see a large storefront that said Foot Locker in red neon lights. I was so excited. I had planned out in my mind the exact type of shoe I’d get. It needed to make me jump high, so of course it needed to give me lots of air. It also needed to make me run fast, so it couldn’t be too bulky. And it had to look *cool*.
+
+As we walked into the store, my mouth dropped. There were *tons* of shoes. They all looked like they could make me jump high and run fast. They all looked cool.
+
+My poor momma. I about drove her and the patient store associate crazy trying on every different pair of shoes. Each time she’d mash her thumb down on my big toe to check the fit. (Does every mom do that?) Each time she’d make me walk to the end of the store and come back. There were so many choices. It was overwhelming. I took forever.
+
+Well, eventually, she’d had enough of it. She walked over to the wall, grabbed two different pairs, turned back around to me, and said, “Choose one.”
+
+“Wha-what? What about all the other ones?” I asked.
+
+“Nope,” she said, shaking her head and giving me the look. “Choose.”
+
+I chose my first pair of Nike Shox, which happened to be the very first pair I tried on.
+
+What my wise momma knew: fewer choices can lead to better outcomes.
+
+Conversations are the same. If a conversation has no goal, it’ll feel as though you’re talking about nothing. If a conversation has too many goals, it’ll still feel as though you’re talking about nothing. And no, I’m not referring to casual conversations, the catch-up talks with your friends and coworkers, or the nightly review of your day with your partner. I’m talking about conversations that need to achieve a specific goal: to connect. When you limit the pathways the conversation can take, you’re helping yourself and the other person by making it easier to connect and find each other in the conversation.
+
+I can’t promise that this strategy will make you run faster or jump higher.
+
+But I can promise it works.
+
+#### What Is a Conversational Frame?
+
+To create a clear connection with someone, you need to set a frame around your conversations. As a picture frame sets borders and enhances artwork, a frame around a conversation limits off-topics and amplifies the attention to the subject of conversation.
+
+Framing ensures that the other person has fewer choices in the conversation. It narrows the focus of the discussion. With a frame, there’s no wondering why you’re talking, what you’re talking about, or how it’s supposed to end. You tell them your needs as well as your expectations, creating a “same page” mindset. Like playing off the same sheet music. You both know the song, the notes, and the time signature.
+
+You’ll also make it clear that off-topic or irrelevant issues are out of frame. There’s less temptation to veer off course because your frame establishes the playbook.
+
+Without a perimeter, the argument wanders around and can’t settle on a topic—like looking for the perfect pair of new shoes on a wall. The argument’s subject moves from place to place, retraces its steps, or goes far, far away from where the conversation started. That’s why you can begin an argument talking about one thing and end it talking about something completely different. If your subject gets loose, your frame is the herd dog.
+When a discussion happens without a frame, any number of unhelpful results can happen:
+
+- The conversation lasts longer because the subject is unlimited.
+- The longer you talk, the more susceptible your words are to misinterpretation, confusion, and misunderstanding.
+- You leave the conversation feeling like nothing moved forward, or worse, like it moved two steps backward.
+
+Conversations without a direction are sure to get lost. Vague conversation openings like “Hey, can we talk? So anyway, remember a few months ago when…” or “I need to tell you something. It’s probably nothing, but…” aren’t helpful—and can even do more damage—because they open the dialogue aimlessly.
+
+Too often, you wait until you’re talking to figure out what you want to say. You’re good with takeoff—that is, initiating discussion—but you don’t know how to land the plane. So you struggle and talk in circles until you finally discover what you want to say. You wait until the very end of a ten-minute monologue to deliver your “I say all of that to say…”
+
+But by then it’s often too late, and you lose the chance to connect.
+
+The more topics, elements, or themes you pile onto a conversation, the more you weigh it down, and the less chance you have of it going anywhere. Without a clear frame or endpoint from the start, the conversation can quickly tire out the other person. The longer it takes to make your point, the more you waste the other person’s diminishing attention. You’ll lose them.
+
+If you’ve ever heard someone respond with any of these questions, chances are you didn’t put a frame around the conversation:
+
+- “So, you don’t want to go to the party?” (when you do)
+- “What’s your point?” (when you thought you already made it)
+- “What are you wanting me to do?” (when you don’t want them to do anything)
+
+Often, these types of questions prompt you to yell out, “You’re missing the point!” or “You’re not listening to me!” But the questions to ask yourself are: Have I made my point easy to find? Have I put a frame around it to make it clear and concise? Or have I forced my listener to find a needle in a haystack?
+
+Unclear parameters leave the other person playing the detective, and that can be a terribly frustrating experience. They’re listening to you ramble and meander, all the while wondering where this is going. The other person may have no clue where the subject is coming from, what it’s really about, or what you’re ultimately asking of them. These unanswered questions pull one of the worst psychological triggers: fear of the unknown.
+
+The fear of the unknown injects anxiety into conversations, particularly for people who are prone to immediately go to worst-case scenarios when conversations don’t have defined space. Loss also becomes a trigger, as the other person fears they’ve done something wrong or that you want to exit the relationship.
+
+These fears ramp up their ignition phase, causing overemotional reactions or launches into aggression, like shouting, “I don’t know what you want!” Or it puts you in the position of asking them, “Why are you so upset? I’m just trying to talk to you!”
+
+The problem lies in the undefined parameters. Without knowing why you’re bringing it up, they’re left twisting in the wind, wondering how it ends or if the hammer will drop. There’s no understanding, no acknowledgment. And certainly no connection.
+
+Now, keep in mind, you also need to know what a frame *isn’t*. Adding a frame around a conversation doesn’t mean:
+
+- You get to dictate the conversation without room for their input or concern
+- They’re not allowed to disagree with you or defend themself
+- Your frame is fair to them
+- You can leave the frame when it suits you
+- You’re the only one who gets to speak your mind
+
+Your frame for the conversation applies to you just as much as it does to the other person. It lets you, as well as the person across from you, know exactly what to expect, with clear purpose and little room for confusion. Another way to think of this is as mapping your conversation. If you want another person to travel with you from point A to point B, you need to tell them what your destination is, and you need to remove any anxiety they may have in getting there.
 
 #### How to Frame a Conversation
 
-As soon as you begin your next conversation, frame it first. Don't wait
-to try to set a frame just because they said something you don't like.
-That's not fair. Set the frame from the very start of the conversation.
-Here are each of the steps, followed by examples so you can hear exactly
-what framing a conversation sounds like.
+As soon as you begin your next conversation, frame it first. Don’t wait to try to set a frame just because they said something you don’t like. That’s not fair. Set the frame from the very start of the conversation. Here are each of the steps, followed by examples so you can hear exactly what framing a conversation sounds like.
 
 ##### 1. Set a direction
 
-Begin by telling the other person exactly what you want to speak about.
-Your words should be tailored to your conversational goal and values.
-For example:
+Begin by telling the other person exactly what you want to speak about. Your words should be tailored to your conversational goal and values. For example:
 
-- "I want to speak with you about your comments at yesterday's meeting."
-- "I'd like to visit about salary expectations."
-- "I need to discuss plans for Tuesday afternoon."
-- "I'd like to talk with you about a subject personal to me."
+- “I want to speak with you about your comments at yesterday’s meeting.”
+- “I’d like to visit about salary expectations.”
+- “I need to discuss plans for Tuesday afternoon.”
+- “I’d like to talk with you about a subject personal to me.”
 
 ##### 2. Call your shot
 
-Next, tell the other person how you want the conversation to end. You're
-projecting the intended result and setting the direction of the
-conversation. Detail exactly how you want to feel after the conversation
-is over. Be as specific as you can. To help, pretend you're finishing
-the phrase "And by the end of it":
+Next, tell the other person how you want the conversation to end. You’re projecting the intended result and setting the direction of the conversation. Detail exactly how you want to feel after the conversation is over. Be as specific as you can. To help, pretend you’re finishing the phrase “And by the end of it”:
 
-- "...I want to walk away with us having a stronger working
-  relationship."
-- "...I want to leave with us knowing we still respect each other."
-- "...I want to be heard without you feeling like you need to fix it."
-- "...I want you to know that I still love you and want to be together."
+- “…I want to walk away with us having a stronger working relationship.”
+- “…I want to leave with us knowing we still respect each other.”
+- “…I want to be heard without you feeling like you need to fix it.”
+- “…I want you to know that I still love you and want to be together.”
 
 ##### 3. Get their commitment
 
-End the frame by securing their consent to the conversation. For
-example:
+End the frame by securing their consent to the conversation. For example:
 
-- "That sound good to you?"
-- "Can we agree to that?"
-- "Is that doable for you?"
+- “That sound good to you?”
+- “Can we agree to that?”
+- “Is that doable for you?”
 
-Now let's see all three steps in action. Imagine you're speaking to a
-colleague in a private area of the office coffee lounge. Using all three
-steps of framing, your first few sentences might sound like this:
-"Thanks for meeting me. I'd like to talk briefly about what you said
-during this morning's session, and I want to walk away with us having a
-better understanding of what's important to each other and how we can
-improve. That okay with you?" Here's another. "I appreciate you taking
-the time. I'd like to talk about the expectations for this quarter, and
-I want to leave feeling comfortable that we're committed to the same
-priorities. Sound good?" One more, this time in a relationship context.
-"I'd like to talk to you about how I perceived your behavior last night,
-and I'm not saying anyone is right or wrong. I want to move forward
-knowing how to show up for each other better. Can we do that?" With
-bright-line parameters like these, they'll rarely say no. This structure
-takes advantage of the natural benefits of a frame by defining what's
-included and excluding what isn't. That is, the frame enhances what's
-inside the conversation and sets aside what's outside the conversation.
-A frame also tells the other person that there will, in fact, be an end.
-Because the conversation now has a scope, the frame also enhances
-listening because the other person doesn't have to listen for anything
-else. Ultimately, frames strengthen the connection between sender and
-receiver.
+Now let’s see all three steps in action.
+
+Imagine you’re speaking to a colleague in a private area of the office coffee lounge. Using all three steps of framing, your first few sentences might sound like this:
+
+“Thanks for meeting me. I’d like to talk briefly about what you said during this morning’s session, and I want to walk away with us having a better understanding of what’s important to each other and how we can improve. That okay with you?”
+
+Here’s another.
+
+“I appreciate you taking the time. I’d like to talk about the expectations for this quarter, and I want to leave feeling comfortable that we’re committed to the same priorities. Sound good?”
+
+One more, this time in a relationship context.
+
+“I’d like to talk to you about how I perceived your behavior last night, and I’m not saying anyone is right or wrong. I want to move forward knowing how to show up for each other better. Can we do that?”
+
+With bright-line parameters like these, they’ll rarely say no.
+
+This structure takes advantage of the natural benefits of a frame by defining what’s included and excluding what isn’t. That is, the frame enhances what’s inside the conversation and sets aside what’s outside the conversation.
+A frame also tells the other person that there will, in fact, be an end. Because the conversation now has a scope, the frame also enhances listening because the other person doesn’t have to listen for anything else. Ultimately, frames strengthen the connection between sender and receiver.
 
 #### One frame, one issue
 
-"Okay, everyone, we have a lot to cover today," your boss begins.
-Immediately, everyone in the meeting wants to groan or roll their eyes.
-Why? Because this opening sets the stage for a scattered, potentially
-overwhelming discussion in which focus is diluted across too many
-subjects. Just because there's an agenda doesn't mean it's an effective
-or an engaging one.
+“Okay, everyone, we have a lot to cover today,” your boss begins.
 
-*Ugh*, you might think. *This could've been an email. This is a waste of
-time.* Deep down, you know that most of the issues won't get covered (or
-covered well). You also know that the meeting will likely result in
-another meeting. You don't feel confident that there will be outcomes,
-action steps, or takeaways-only people meeting to say they met and
-talking to say they talked. It's hard to create a strong connection when
-the signal is spread so thin.
+Immediately, everyone in the meeting wants to groan or roll their eyes. Why? Because this opening sets the stage for a scattered, potentially overwhelming discussion in which focus is diluted across too many subjects. Just because there’s an agenda doesn’t mean it’s an effective or an engaging one.
 
-That's why you need a framework of one frame, one issue. Imagine if your
-manager were to start with this: "Today, we're focusing on improving
-our client feedback process." You'd likely feel more engaged and clearer
-about the meeting's purpose. This specificity narrows everyone's focus.
-When the meeting ends and the topic has been covered, everyone leaves
-happier because the conversation felt more productive and meaningful and
-worth their time. "One frame, one issue" is important for keeping
-discussions concise and on track. When a conversation has just one
-frame, two benefits occur:
+*Ugh*, you might think. *This could’ve been an email. This is a waste of time.* Deep down, you know that most of the issues won’t get covered (or covered well). You also know that the meeting will likely result in another meeting. You don’t feel confident that there will be outcomes, action steps, or takeaways—only people meeting to say they met and talking to say they talked. It’s hard to create a strong connection when the signal is spread so thin.
 
-1. You're forced to eliminate the fluff by synthesizing and placing
-   intentional effort into precisely what you need to say.
-2. You create deeper space for more thoughtful discussion on the topic
-   at hand.
+That’s why you need a framework of one frame, one issue.
 
-When you're not bouncing from one issue to another, there's a chance to
-go beneath the surface. There's more room to explore nuances, consider
-various perspectives, and collaborate on solutions. "One frame, one
-issue" encourages everyone involved to be present and engaged rather
-than mentally preparing for the next topic on a lengthy agenda. In
-practice, applying this ratio might mean breaking down a meeting with a
-broad scope into several smaller, punchier micro sessions. Or when
-texting or emailing, it could mean addressing a single concern per
-message to the right decision-makers rather than lumping multiple
-threads or topics into one reply-all communication. Remember, clarity is
-kind. This method respects everyone's time and cognitive resources and
-leads to tighter connections.
+Imagine if your manager were to start with this: “Today, we’re focusing on improving our client feedback process.” You’d likely feel more engaged and clearer about the meeting’s purpose. This specificity narrows everyone’s focus. When the meeting ends and the topic has been covered, everyone leaves happier because the conversation felt more productive and meaningful and worth their time.
+
+“One frame, one issue” is important for keeping discussions concise and on track. When a conversation has just one frame, two benefits occur:
+
+1. You’re forced to eliminate the fluff by synthesizing and placing intentional effort into precisely what you need to say.
+2. You create deeper space for more thoughtful discussion on the topic at hand.
+
+When you’re not bouncing from one issue to another, there’s a chance to go beneath the surface. There’s more room to explore nuances, consider various perspectives, and collaborate on solutions. “One frame, one issue” encourages everyone involved to be present and engaged rather than mentally preparing for the next topic on a lengthy agenda.
+
+In practice, applying this ratio might mean breaking down a meeting with a broad scope into several smaller, punchier micro sessions. Or when texting or emailing, it could mean addressing a single concern per message to the right decision-makers rather than lumping multiple threads or topics into one reply-all communication.
+
+Remember, clarity is kind. This method respects everyone’s time and cognitive resources and leads to tighter connections.
 
 #### How to Nudge a Conversation Back into View
 
-It happens. It's nobody's fault, but somehow the conversation bled out
-of the original frame you set. Maybe you simply got off topic or went
-down a rabbit hole. It's innocent. Understand that it's also totally
-okay to let conversations explore themselves naturally. If it gets to be
-a problem, the easy trick to get back on track is to use the keyword of
-your goal. For example, maybe you both got sidetracked discussing your
-mutual disdain for Gary in accounting when you were supposed to be
-talking about the marketing budget. A quick use of the word *marketing*
-can bring you back to center. Or you can state the obvious with "We're
-getting off track." No harm done. But sometimes it's not that innocent.
-Sensitive conversations can quickly fall into personal attacks or bring
-up past grievances that are a deterrent to the current goal. This tactic
-is often used, intentionally or unintentionally, to deflect from the
-issue or to gain an upper hand in an incoming argument. When this
-happens, it's critical to recognize the shift away from productive
-dialogue and to steer the conversation back into frame. Let's look at
-two different scenarios to illustrate. In scenario one, you're the
-person who took the conversation to a bad place. You said something you
-shouldn't have said and now things are looking worse. For that, you need
-to make three moves quickly:
+It happens. It’s nobody’s fault, but somehow the conversation bled out of the original frame you set. Maybe you simply got off topic or went down a rabbit hole. It’s innocent. Understand that it’s also totally okay to let conversations explore themselves naturally. If it gets to be a problem, the easy trick to get back on track is to use the keyword of your goal.
 
-1.  Apologize for what you said that derailed the conversation.
-    a.  "I'm sorry. I shouldn't have said that."
-    b.  "I'm sorry I raised my voice."
-2.  Follow it up with words that convey distance from the goal.
-    a.  "That was unhelpful."
-    b.  "That wasn't fair."
-    c.  "That's not what you agreed to."
-3.  Immediately pick up where you left off before things went south.
+For example, maybe you both got sidetracked discussing your mutual disdain for Gary in accounting when you were supposed to be talking about the marketing budget. A quick use of the word *marketing* can bring you back to center. Or you can state the obvious with “We’re getting off track.” No harm done.
 
-Here's what that can look like all together: "Hey, I'm sorry. I
-shouldn't have raised my voice. That wasn't helpful, and it's not what
-you agreed to. I'm wanting to understand how we can prevent what
-happened yesterday from happening again." In scenario two, the other
-person derails the conversation. It's a common defensive tactic that,
-when left unchecked, will rapidly turn a conversation into an argument.
-Let's assume you want to discuss an off moment that happened at a
-friend's house. You've set your frame, and your friend has agreed. But
-fifteen minutes in, your friend pops off with a tangent: "Oh really?
-Really? That's what you're going with? What about when you did the same
-thing three weeks ago?" Comments like this are a product of the other
-person's ignition phase: they want the spotlight to move off them.
-They'll typically try to do one of two things:
+But sometimes it’s not that innocent. Sensitive conversations can quickly fall into personal attacks or bring up past grievances that are a deterrent to the current goal. This tactic is often used, intentionally or unintentionally, to deflect from the issue or to gain an upper hand in an incoming argument. When this happens, it’s critical to recognize the shift away from productive dialogue and to steer the conversation back into frame.
+
+Let’s look at two different scenarios to illustrate. In scenario one, you’re the person who took the conversation to a bad place. You said something you shouldn’t have said and now things are looking worse. For that, you need to make three moves quickly:
+
+1. Apologize for what you said that derailed the conversation.
+    a. “I’m sorry. I shouldn’t have said that.”
+    b. “I’m sorry I raised my voice.”
+
+2. Follow it up with words that convey distance from the goal.
+    a. “That was unhelpful.”
+    b. “That wasn’t fair.”
+    c. “That’s not what you agreed to.”
+
+3. Immediately pick up where you left off before things went south.
+
+Here’s what that can look like all together: “Hey, I’m sorry. I shouldn’t have raised my voice. That wasn’t helpful, and it’s not what you agreed to. I’m wanting to understand how we can prevent what happened yesterday from happening again.”
+
+In scenario two, the other person derails the conversation. It’s a common defensive tactic that, when left unchecked, will rapidly turn a conversation into an argument. Let’s assume you want to discuss an off moment that happened at a friend’s house. You’ve set your frame, and your friend has agreed. But fifteen minutes in, your friend pops off with a tangent: “Oh really? *Really?* That’s what you’re going with? What about when you did the same thing three weeks ago?”
+
+Comments like this are a product of the other person’s ignition phase: they want the spotlight to move off them. They’ll typically try to do one of two things:
 
 1. Put the attention on you and divert it away from them
-2. Level the playing field by bringing something up (usually the past)
-   that attempts to equate their behavior with yours, in a sort of "you
-   too" comeback
 
-When your next conversation falls out of frame in this way, it's crucial
-that you engage control of your body to minimize your ignition phase. To
-keep the discussion from spiraling, and with calm, controlled words and
-a conversational breath, try these phrases:
+2. Level the playing field by bringing something up (usually the past) that attempts to equate their behavior with yours, in a sort of “you too” comeback
 
-1. "I hear your point. I need to finish the conversation we started. And
-   if needed, I'm willing to come back and address that comment."
-2. "Stay with me. Hear me out, and if we need to come back to that we
-   can."
-3. "I agree that's worth talking about too. Let's focus on one issue at
-   a time."
+When your next conversation falls out of frame in this way, it’s crucial that you engage control of your body to minimize your ignition phase. To keep the discussion from spiraling, and with calm, controlled words and a conversational breath, try these phrases:
 
-The key to these approaches is first acknowledging what they said, then
-controlling your response in a way that refocuses you on the topic. What
-you cannot do is dismiss their comments with something like "That's
-beside the point!" or "You're just deflecting." Dismissive words like
-these will only ensure that you're introducing another layer to the
-conflict, whether the comment was beside the point or whether they're
-trying to deflect. That leads nowhere good. So remember. Acknowledge,
-then hold.
+1. “I hear your point. I need to finish the conversation we started. And if needed, I’m willing to come back and address that comment.”
 
-Frames are powerful tools for connecting in conversations both big and
-small. The next time you're in a meeting or discussion and you feel like
-you're talking in circles or getting nowhere, try using a frame. Choose
-one issue. Set a direction. Call your shot. And get their commitment.
-You'll decrease distractions and minimize misunderstanding. You'll
-increase attention and connection. You'll accomplish more in less time.
-And the other person will see you as someone who respects both their
-time and insight.
+2. “Stay with me. Hear me out, and if we need to come back to that we can.”
 
-#### CHAPTER SUMMARY
+3. “I agree that’s worth talking about too. Let’s focus on one issue at a time.”
 
-- The more issues you raise in a conversation, the less likely you'll
-  > feel that the conversation was productive or that anything was
-  > accomplished.
+The key to these approaches is first acknowledging what they said, then controlling your response in a way that refocuses you on the topic. What you cannot do is dismiss their comments with something like “That’s beside the point!” or “You’re just deflecting.” Dismissive words like these will only ensure that you’re introducing another layer to the conflict, whether the comment was beside the point or whether they’re trying to deflect. That leads nowhere good. So remember. Acknowledge, then hold.
 
-- To connect to the other person, you need to ensure that you're always
-  > speaking toward one purpose and direction.
+---
 
-- To prevent unhelpful tangents or misinterpretations, place a frame
-  > around the conversation before it starts. That means if you want to
-  > take someone from A to B, you first need to tell them and remove the
-  > anxiety of what B looks like.
+Frames are powerful tools for connecting in conversations both big and small. The next time you’re in a meeting or discussion and you feel like you’re talking in circles or getting nowhere, try using a frame. Choose one issue. Set a direction. Call your shot. And get their commitment. You’ll decrease distractions and minimize misunderstanding. You’ll increase attention and connection. You’ll accomplish more in less time. And the other person will see you as someone who respects both their time and insight.
 
-- Frame your conversation by first telling them what you want to talk
-  > about; then tell them what you want to feel after you talk about it;
-  > last, get their commitment to go in that direction together.
+#### Chapter Summary
 
-- When you apply a frame to the conversation, you reduce the chances of
-  > misunderstanding and improve the likelihood of reaching your
-  > connection goals.
+- The more issues you raise in a conversation, the less likely you’ll feel that the conversation was productive or that anything was accomplished.
+- To connect to the other person, you need to ensure that you’re always speaking toward one purpose and direction.
+- To prevent unhelpful tangents or misinterpretations, place a frame around the conversation before it starts. That means if you want to take someone from A to B, you first need to tell them and remove the anxiety of what B looks like.
+- Frame your conversation by first telling them what you want to talk about; then tell them what you want to feel after you talk about it; last, get their commitment to go in that direction together.
+- When you apply a frame to the conversation, you reduce the chances of misunderstanding and improve the likelihood of reaching your connection goals.
+
+---
 
 ### Chapter 11: Defensiveness
 
-"It's a matter of vector forces, frankly, the influence of which is
-mostly all but unseen to the untrained eye," said the opposing party's
-biomechanical engineer on the witness stand. His job was to testify that
-the vehicle that hit my client at fifty-six miles per hour couldn't have
-caused a bodily injury-or at the most, a very minor one. My job on
-cross-examination was to disprove that opinion. He didn't like my
-question. And I didn't care for his answer. Expert witnesses in a trial
-can make or break a case. You need them because there are certain things
-that can be said only by people who have legally sufficient knowledge
-about a subject, like accident reconstruction or forensic analysis, to
-give an opinion. The easy part is getting an expert to talk. The harder
-part is getting them to stop. Experts tend to speak in a way that
-highlights their intelligence. Good experts allow everyone in the
-courtroom to understand their testimony, making it relevant and
-accessible. Bad experts use technical jargon to make others feel small.
-The expert I had on cross-examination was of the latter type. "Yessir, I
-understand what you're saying," I replied. "I'm going to ask it
-differently." After a pause, I continued. "You're testifying on behalf
-of the defendant, the person who hit my client?" "The person whose
-vehicle made contact with the subject vehicle, yessir," he responded.
+“It’s a matter of vector forces, frankly, the influence of which is mostly all but unseen to the untrained eye,” said the opposing party’s biomechanical engineer on the witness stand.
 
-*See what I mean?* "The person who hit my client had to be taken away by
-ambulance?" I said. "Uh, I believe so, I'm not certain," he said
-hesitantly. "For a broken collarbone?" I pressed. Clearing his throat,
-he replied, "Again, that-that may be true." I pressed more. "And
-you're telling this jury that this accident couldn't have caused disc
-herniations to my client's back?" It was a question meant to put him on
-the spot. The kind of question that makes a juror look up from their
-notepad to pay close attention to what will come next. Now, what this
-expert could've said was something like "No, not exactly. My opinion is
-more nuanced than that." Or even better, "That does sound contradictory,
-I agree. But it's not as simple as that." A response like that would've
-sounded reasonable. In fact, it would've made him look more credible by
-acknowledging the distinction I was making and using it to support his
-point. Instead, this is what the jury heard: "Well, sir," he said,
-adjusting his glasses and sitting up straight to sharpen his tone, "that
-requires a more thorough discussion of physics and human biology, if you
-can grasp it." The energy in the air changed immediately as the jury
-rustled in their chairs. One female juror, an older lady, shook her head
-in disapproval and whispered, "Mm-mm. My lawd." The expert did the one
-thing you never want to do in front of a jury. He took my question as a
-challenge to his expertise, and he got defensive. His defensiveness, in
-turn, made his opinion look less believable. It was a crucial moment
-when, instead of bridging the gap and connecting his opinion and the
-jury's understanding, he widened it with his own ego. And while this
-single moment certainly didn't dismantle his whole testimony, it eroded
-the trust the defense needed the jury to have in him. In a trial, where
-every word of testimony on the record matters, the ability to
-communicate the evidence is just as significant as the evidence
-itself-for good or for bad. Here, everyone in the courtroom saw it: the
-expert's defensiveness not only undermined his own argument but also
-highlighted a major weakness in the defense's entire case. Defensive
-behavior isn't unique to expert witnesses. It applies to everyone. You.
-Me. From the courtroom to the living room. Defensiveness can show up at
-any time. Recognizing when you're being defensive, knowing why it's
-happening-and arming yourself with the tools to manage it-can
-transform the trust others place in you.
+His job was to testify that the vehicle that hit my client at fifty-six miles per hour couldn’t have caused a bodily injury—or at the most, a very minor one.
+
+My job on cross-examination was to disprove that opinion.
+
+He didn’t like my question. And I didn’t care for his answer.
+
+Expert witnesses in a trial can make or break a case. You need them because there are certain things that can be said only by people who have legally sufficient knowledge about a subject, like accident reconstruction or forensic analysis, to give an opinion. The easy part is getting an expert to talk. The harder part is getting them to stop. Experts tend to speak in a way that highlights their intelligence. Good experts allow everyone in the courtroom to understand their testimony, making it relevant and accessible. Bad experts use technical jargon to make others feel small. The expert I had on cross-examination was of the latter type.
+
+- “Yessir, I understand what you’re saying,” I replied. “I’m going to ask it differently.”
+- After a pause, I continued. “You’re testifying on behalf of the defendant, the person who hit my client?”
+- “The person whose vehicle made contact with the subject vehicle, yessir,” he responded.
+- *See what I mean?*
+- “The person who hit my client had to be taken away by ambulance?” I said.
+- “Uh, I believe so, I’m not certain,” he said hesitantly.
+- “For a broken collarbone?” I pressed.
+- Clearing his throat, he replied, “Again, that—that may be true.”
+- I pressed more. “And you’re telling this jury that this accident couldn’t have caused disc herniations to my client’s back?”
+
+It was a question meant to put him on the spot. The kind of question that makes a juror look up from their notepad to pay close attention to what will come next. Now, what this expert could’ve said was something like “No, not exactly. My opinion is more nuanced than that.” Or even better, “That does sound contradictory, I agree. But it’s not as simple as that.” A response like that would’ve sounded reasonable. In fact, it would’ve made him look more credible by acknowledging the distinction I was making and using it to support his point. Instead, this is what the jury heard:
+
+- “Well, sir,” he said, adjusting his glasses and sitting up straight to sharpen his tone, “that requires a more thorough discussion of physics and human biology, if you can grasp it.”
+
+The energy in the air changed immediately as the jury rustled in their chairs. One female juror, an older lady, shook her head in disapproval and whispered, “Mm-mm. My lawd.”
+
+The expert did the one thing you never want to do in front of a jury. He took my question as a challenge to his expertise, and he got defensive. His defensiveness, in turn, made his opinion look less believable. It was a crucial moment when, instead of bridging the gap and connecting his opinion and the jury’s understanding, he widened it with his own ego.
+
+And while this single moment certainly didn’t dismantle his whole testimony, it eroded the trust the defense needed the jury to have in him. In a trial, where every word of testimony on the record matters, the ability to communicate the evidence is just as significant as the evidence itself—for good or for bad. Here, everyone in the courtroom saw it: the expert’s defensiveness not only undermined his own argument but also highlighted a major weakness in the defense’s entire case.
+
+Defensive behavior isn’t unique to expert witnesses. It applies to everyone. You. Me. From the courtroom to the living room. Defensiveness can show up at any time. Recognizing when you’re being defensive, knowing why it’s happening—and arming yourself with the tools to manage it—can transform the trust others place in you.
 
 #### Why Defensiveness Breaks Connection
 
-There is little that's more costly to your next conversation than the
-price of defensiveness. Someone getting defensive is the most telltale
-sign of a spark of the ignition phase. Everything shuts down. Shields go
-up. Spikes come out. Backs turn and earmuffs go on. Defensiveness is the
-suit of armor you put on when you feel triggered. It's a stress response
-that takes many forms. Maybe it's the feeling of a knot in your stomach
-or a tenseness behind your ears. Maybe it manifests as sarcasm, silent
-treatment, or even laughing off serious topics. But day-to-day, when you
-get defensive, here's what you'll often do:
+There is little that’s more costly to your next conversation than the price of defensiveness.
 
-- Interrupt: "Yeah, but you didn't even..."
-- Raise your voice: "You can't actually be serious!"
-- Resort to a personal attack: "You're such an idiot."
-- Dismiss their view without hearing them out: "Pfft. You don't even
-  care."
-- Deflect with past grievances: "Well, what about the time that you..."
-- Generalize: "You never listen to me!" or "You always do this!"
+Someone getting defensive is the most telltale sign of a spark of the ignition phase. Everything shuts down. Shields go up. Spikes come out. Backs turn and earmuffs go on. Defensiveness is the suit of armor you put on when you feel triggered. It’s a stress response that takes many forms. Maybe it’s the feeling of a knot in your stomach or a tenseness behind your ears. Maybe it manifests as sarcasm, silent treatment, or even laughing off serious topics. But day-to-day, when you get defensive, here’s what you’ll often do:
 
-Sound familiar? I'm betting so. Now read them again. What do they all
-have in common? *You*. It's the first word that wants to come out of your
-mouth when the shields go up. It's the first person in the crosshairs of
-your pointed index finger when you're giving a piece of your mind. *So
-what if I said that? So what if I did something wrong?* "Oh, *me*? What
-about *you*?" This reflex of pointing outward instead of inward
-highlights a fundamental feature of human communication: the deep-seated
-aversion to being wrong or perceived as flawed. Being thought of as
-wrong hits every psychological trigger:
+- Interrupt: “Yeah, but you didn’t even…”
+- Raise your voice: “You can’t actually be serious!”
+- Resort to a personal attack: “You’re such an idiot.”
+- Dismiss their view without hearing them out: “Pfft. You don’t even care.”
+- Deflect with past grievances: “Well, what about the time that you…”
+- Generalize: “You never listen to me!” or “You always do this!”
 
-- Social evaluation: If I'm wrong, will I be humiliated? Will they
-  reject me?
-- Personal identity: If I'm wrong, do I still matter? Am I defective?
-- Loss: If I'm wrong, will they walk away? Will I lose my reputation?
+Sound familiar? I’m betting so.
+
+Now read them again. What do they all have in common?
+
+You.
+
+It’s the first word that wants to come out of your mouth when the shields go up. It’s the first person in the crosshairs of your pointed index finger when you’re giving a piece of your mind. So what if I said that? So what if I did something wrong? “Oh, *me?* What about *you?*”
+
+This reflex of pointing outward instead of inward highlights a fundamental feature of human communication: the deep-seated aversion to being wrong or perceived as flawed. Being thought of as wrong hits every psychological trigger:
+
+- Social evaluation: If I’m wrong, will I be humiliated? Will they reject me?
+- Personal identity: If I’m wrong, do I still matter? Am I defective?
+- Loss: If I’m wrong, will they walk away? Will I lose my reputation?
 
 #### Defensiveness Builds a Wall
 
-The perception of threat raises your guard. The emotional overtakes the
-analytical as everything inside you wants to fight against or run from
-the threat posed by the other person. It's enough to make you want to
-put them on mute, with fingers in your ears, taunting "la la la." You
-don't want to listen. You don't want to learn. You don't want to reason.
-When you're on the other end of defensive behavior, it can be maddening.
-No matter what you say or how you try to say it, they just won't listen.
-Try changing their mind as much as you'd like. It won't work, because
-the harder you try to prove them wrong, the more convinced they are that
-they're right. The number one reason that people (myself included)
-refuse to listen is because they're uncomfortable. What I've said
-conflicts with what you believe, and that creates discomfort. That
-discomfort is called cognitive dissonance-that unpleasant feeling you
-get when new information clashes with your existing beliefs. The feeling
-can come from any source: engaging in heated debate, reading an article
-on the internet, or even hearing the lyrics to a song. Often, it stems
-from big societal or political questions, the type that candidates will
-make their campaigns about. It's why people tend to religiously stick to
-a single news source and dismiss views from any other channels. But it
-can occur with the little things too, like having to order something
-else on the menu when the restaurant is out of your usual, or hearing
-that a new brand of coffee is better than the one you've been drinking
-for years. Things that are different can feel threatening and ignite
-psychological triggers. See, what you and I believe is rarely our own
-but is tied to or passed on by people we love, or memories we cherish
-that have created our identity. That means if I were to tell you that
-you're wrong about a given belief, like political ideology, I'd most
-likely not just be saying that you're wrong. I could be saying your
-grandmother is wrong, your best friend is wrong, or that memory you've
-had since you were ten is wrong. And you'd do anything-even to the
-point of refusing to listen-to avoid that discomfort. That's why logic
-doesn't work. More proof doesn't automatically lead to more acceptance.
-Instead, it can lead to digging your heels in deeper, not only
-defending your own stance but also protecting your relationships and the
-narratives that shape who you are. You become defensive to "take up" for
-the entity you've made a part of you-the trigger of identity by
-association you learned about in chapter four. And the harder I work
-against you, to push my point in your face, the more hardened you'll
-become. Your defensiveness, while a natural mechanism designed to
-protect you, often does more harm than good. By putting up walls, two
-things happen:
+The perception of threat raises your guard. The emotional overtakes the analytical as everything inside you wants to fight against or run from the threat posed by the other person. It’s enough to make you want to put them on mute, with fingers in your ears, taunting “la la la.” You don’t want to listen. You don’t want to learn. You don’t want to reason.
+
+When you’re on the other end of defensive behavior, it can be maddening. No matter what you say or how you try to say it, they just won’t listen. Try changing their mind as much as you’d like. It won’t work, because the harder you try to prove them wrong, the more convinced they are that they’re right.
+
+The number one reason that people (myself included) refuse to listen is because they’re uncomfortable. What I’ve said conflicts with what you believe, and that creates discomfort. That discomfort is called cognitive dissonance—that unpleasant feeling you get when new information clashes with your existing beliefs. The feeling can come from any source: engaging in heated debate, reading an article on the internet, or even hearing the lyrics to a song. Often, it stems from big societal or political questions, the type that candidates will make their campaigns about. It’s why people tend to religiously stick to a single news source and dismiss views from any other channels. But it can occur with the little things too, like having to order something else on the menu when the restaurant is out of your usual, or hearing that a new brand of coffee is better than the one you’ve been drinking for years. Things that are different can feel threatening and ignite psychological triggers.
+
+See, what you and I believe is rarely our own but is tied to or passed on by people we love, or memories we cherish that have created our identity. That means if I were to tell you that you’re wrong about a given belief, like political ideology, I’d most likely not just be saying that *you’re* wrong. I could be saying your grandmother is wrong, your best friend is wrong, or that memory you’ve had since you were ten is wrong.
+
+And you’d do anything—even to the point of refusing to listen—to avoid that discomfort. That’s why logic doesn’t work. More proof doesn’t automatically lead to more acceptance. Instead, it can lead to digging your heels in deeper, not only defending your own stance but also protecting your relationships and the narratives that shape who you are. You become defensive to “take up” for the entity you’ve made a part of you—the trigger of identity by association you learned about in chapter four. And the harder I work against you, to push my point in your face, the more hardened you’ll become.
+
+Your defensiveness, while a natural mechanism designed to protect you, often does more harm than good. By putting up walls, two things happen:
 
 1. You prevent others from understanding you.
 2. You shut yourself off from understanding them.
 
-And here's the problem. You accept the consequences of number two, but
-dismiss the consequences of number one. Meaning you drop all
-expectations of yourself, and at the same time maintain all the
-expectations of the other person. You still expect them to understand
-you. You still expect them to cater to your feelings. It's like locking
-your door and then getting upset that the other person hasn't come
-inside yet. I'm sure you've heard yourself or someone say, "They should
-know." *They should know I'm upset. They should know how that would
-affect me.* These are the same people who, when the shoe is on the other
-foot, shout, "I can't read your mind!"
+And here’s the problem. You accept the consequences of number two, but dismiss the consequences of number one. Meaning you drop all expectations of yourself, and at the same time maintain all the expectations of the other person. You still expect them to understand you. You still expect them to cater to your feelings. It’s like locking your door and then getting upset that the other person hasn’t come inside yet. I’m sure you’ve heard yourself or someone say, “They should know.” They should know I’m upset. They should know how that would affect me. These are the same people who, when the shoe is on the other foot, shout, “I can’t read your mind!”
 
-Don't convince yourself that this cycle is a symptom of one person.
-Everyone does it. When you're a pedestrian crossing the street, you
-think, "These cars can wait on me. I'm the pedestrian. Can't they see
-that I'm walking?" But when you're a driver stopped at an intersection,
-you think, "Look at all these pedestrians...just walking around like
-they own the place. I think this guy is walking slower on purpose. Can't
-they see that I'm driving?" This shift in perspective illustrates how
-quickly you allow your sympathies to adjust, yet you expect the
-sympathies of those around you to remain fixed. From a technical view,
-what you're feeling is what psychologists call fundamental attribution
-error, which influences your understanding or judgment of others.
-Fundamental attribution error describes the concept that you tend to
-overemphasize personality-based explanations and underemphasize external
-situational factors. For example, if you see someone walking into the
-office late, you might paint them as a lazy, uncaring, or unmotivated
-person (personality-based explanation) and minimize factors like heavy
-traffic, bad weather, or a personal matter (situational explanation).
-And if that person were to walk by you without saying hi, you may think
-they did it on purpose. That's another major problem with using "you."
-It leads you to take things personally, so you interpret others' words
-or actions as a direct attack on you even when they may not be. Consider
-this example. You and your spouse are in the kitchen.
+Don’t convince yourself that this cycle is a symptom of one person. Everyone does it. When you’re a pedestrian crossing the street, you think, “These cars can wait on me. I’m the pedestrian. Can’t they see that I’m walking?” But when you’re a driver stopped at an intersection, you think, “Look at all these pedestrians…just walking around like they own the place. I think this guy is walking slower on purpose. Can’t they see that I’m driving?” This shift in perspective illustrates how quickly you allow your sympathies to adjust, yet you expect the sympathies of those around you to remain fixed.
 
-> YOU: "What's up with you? You seem out of it."
->
-> SPOUSE: "I'm overwhelmed. It's been a long day, the house is a mess,
-> and the last thing I want to do is clean these dishes."
->
-> YOU: "You're saying that I don't help out around here? I did the dishes
-> yesterday."
->
-> SPOUSE: "That's not what I'm saying."
->
-> YOU: "That's absolutely what you're saying. You think that I don't do
-> enough around here. When it's me who makes sure the house is picked
-> up. It's me that makes sure schedules run on time."
+From a technical view, what you’re feeling is what psychologists call fundamental attribution error, which influences your understanding or judgment of others. Fundamental attribution error describes the concept that you tend to overemphasize personality-based explanations and underemphasize external situational factors. For example, if you see someone walking into the office late, you might paint them as a lazy, uncaring, or unmotivated person (personality-based explanation) and minimize factors like heavy traffic, bad weather, or a personal matter (situational explanation). And if that person were to walk by you without saying hi, you may think they did it on purpose.
+That’s another major problem with using “you.” It leads you to take things personally, so you interpret others’ words or actions as a direct attack on you even when they may not be. Consider this example. You and your spouse are in the kitchen.
 
-Oof. See what I mean? There's no chance for connection. When the walls
-go up, you care less about trying to understand the other person yet
-expect them to care more about trying to understand you. Your spouse was
-trying to open up about their day. Instead of using that opportunity to
-connect, you unilaterally chose to turn it into an indictment of your
-character. Here's another one that often draws out the spikes. Someone
-responds to your four-sentence text with "Ok," or worse, "K." The first
-thought you have is, "What do you mean, 'Ok'? What kind of 'Ok' is
-that?" You may get in your head about it. *"Ok"? Just "Ok"? That's all
-the effort he cared to put into that text? That's so rude*, you think to
-yourself. You may be tempted to show the text to another person to get
-assurance -"Isn't that just so rude?" You decide to send a reply. "You
-know what, just forget it. I don't need this right now."
-Miscommunication escalates into an argument, and for the rest of the
-evening, your time is railroaded by an argument that never had to
-happen. Turns out, the "Ok" was the result of a rushed response while
-they were at the checkout counter but still wanted to show that they
-acknowledged your text. When you take things personally, you create a
-self-fulfilling prophecy. Let's use the text scenario to illustrate: You
-perceive the text as rude, receiving it as a personal attack on you. That
-perception triggers the emotional reactions of your ignition phase. Now
-driven by your emotions, you respond defensively. Your response causes
-the other person to respond defensively. The cycle now reinforces and
-fulfills your belief that you are, in fact, under attack. This cycle
-frequently happens with written communication via text, email, or
-instant messaging, in which vocal nuance is lost. It's part of
-confirmation bias, in which you tend to seek out information that
-confirms or reinforces your existing belief while rejecting information
-that doesn't. That means once you allow your trigger to control you, you
-begin to selectively look for information that feeds that trigger and
-dismiss the information that deprives it. For instance, if you're
-complaining to someone that they forgot to do something, you might focus
-on the times when they didn't do it and dismiss all the times that they
-did. You look for the negative and reject the positive because it
-reinforces your defensive behavior.
+- YOU: “What’s up with you? You seem out of it.”
+- SPOUSE: “I’m overwhelmed. It’s been a long day, the house is a mess, and the last thing I want to do is clean these dishes.”
+- YOU: “You’re saying that I don’t help out around here? I did the dishes yesterday.”
+- SPOUSE: “That’s not what I’m saying.”
+- YOU: “That’s absolutely what you’re saying. You think that I don’t do enough around here. When it’s me who makes sure the house is picked up. It’s me that makes sure schedules run on time.”
+
+Oof. See what I mean? There’s no chance for connection.
+
+When the walls go up, you care less about trying to understand the other person yet expect them to care more about trying to understand you. Your spouse was trying to open up about their day. Instead of using that opportunity to connect, you unilaterally chose to turn it into an indictment of your character.
+
+Here’s another one that often draws out the spikes.
+
+Someone responds to your four-sentence text with “Ok,” or worse, “K.”
+
+The first thought you have is, “What do you mean, ‘Ok’? What kind of ‘Ok’ is that?”
+You may get in your head about it. *“Ok”? Just “Ok”? That’s all the effort he cared to put into that text? That’s so rude*, you think to yourself. You may be tempted to show the text to another person to get assurance—“Isn’t that just so rude?” You decide to send a reply.
+
+“You know what, just forget it. I don’t need this right now.”
+
+Miscommunication escalates into an argument, and for the rest of the evening, your time is railroaded by an argument that never had to happen. Turns out, the “Ok” was the result of a rushed response while they were at the checkout counter but still wanted to show that they acknowledged your text.
+
+When you take things personally, you create a self-fulfilling prophecy. Let’s use the text scenario to illustrate:
+
+- You perceive the text as rude, receiving it as a personal attack on you.
+- That perception triggers the emotional reactions of your ignition phase.
+- Now driven by your emotions, you respond defensively.
+- Your response causes the other person to respond defensively.
+- The cycle now reinforces and fulfills your belief that you are, in fact, under attack.
+
+This cycle frequently happens with written communication via text, email, or instant messaging, in which vocal nuance is lost. It’s part of confirmation bias, in which you tend to seek out information that confirms or reinforces your existing belief while rejecting information that doesn’t. That means once you allow your trigger to control you, you begin to selectively look for information that feeds that trigger and dismiss the information that deprives it. For instance, if you’re complaining to someone that they forgot to do something, you might focus on the times when they didn’t do it and dismiss all the times that they did. You look for the negative and reject the positive because it reinforces your defensive behavior.
 
 #### How to Stop Defensiveness
 
-But there's a cure. It begins with understanding that how often you take
-things personally is a direct reflection of how much grace you give
-other people. How freely you give the benefit of the doubt. The more
-open you are to the idea that someone's actions or words might not be
-intended as a personal slight, the less likely you are to feel offended
-by them. This grace-this willingness to see beyond yourself-can
-transform how you interact with the world. When you hold back on giving
-the benefit of the doubt, you also hold back on giving ease to your own
-peace of mind. When you offer grace, on the other hand, you allow for
-the possibility that the waitress's curt response was the result of
-frustration because she was supposed to get off by six p.m. and her
-mother is watching her kids; the car in front of you is going slow (i.e.,
-going the speed limit) because the driver just lost his wife of
-fifty-three-years last week; your manager sent a short email because
-she's juggling not only her life but also the life of her older brother
-who just got out of rehab-and not because she meant anything at all
-toward you. Remember, the person you see is not the person you're
-talking to. When you take things personally, you're picking up what no
-one has asked you to carry. Put it down and assume positive intent until
-proven otherwise. The intentional practice of empathy and kindness will
-fundamentally alter how you treat yourself. You'll become more forgiving
-and less critical of your own mistakes, and ultimately a happier person
-to be around. Whereas taking things personally results in self-fulfilling
-negativity, giving grace results in self-fulfilling *positivity*. This is
-your wake-up call. It's time you take ownership of your words and
-realize that not everything that is said requires a response from you.
-Maybe you forgot, but you get to decide if what somebody says means
-anything to you. You get to decide whether you take what they did
-personally. You get to decide the weight or value that you put on their
-words. And too often what somebody says isn't worth the paper if you
-wrote it down, yet you hold it and collect it. And before you know it,
-you're carrying a bag of books. Stop carrying the weight of other
-people's words. Stop attending every argument you're invited to. If
-sports are your jam, just because they throw a pitch doesn't mean you
-have to swing. Let it go by. Just because they hit it to your side of
-the court doesn't mean you have to send it back over the net. Let it
-fall to the ground. There is no requirement, no compulsion, that just
-because they said something, you are obligated to say anything at all.
-"I just have to say..." No, you don't. There's nothing you have to say.
-There are only things you want to say. But who are you saying it for?
-Are you saying it to make a point? Or are you just saying it to be
-heard? Accountability of defensiveness means recognizing your impulse to
-point outward and choosing instead to point inward. I use the word
-*choose* because that's what it is. It's a choice. And that choice is
-yours. Here's how to stop yourself from getting defensive.
+But there’s a cure.
 
-##### 1. Catch yourself
+It begins with understanding that how often you take things personally is a direct reflection of how much grace you give other people. How freely you give the benefit of the doubt.
 
-Prevent the knee-jerk reaction of having something to say with a
-conversational breath (a nine-second pause). Slow breathing tells your
-body that what someone said or did isn't a threat.
+The more open you are to the idea that someone’s actions or words might not be intended as a personal slight, the less likely you are to feel offended by them. This grace—this willingness to see beyond yourself—can transform how you interact with the world. When you hold back on giving the benefit of the doubt, you also hold back on giving ease to your own peace of mind.
 
-##### 2. Let their words fall
+When you offer grace, on the other hand, you allow for the possibility that the waitress’s curt response was the result of frustration because she was supposed to get off by six p.m. and her mother is watching her kids; the car in front of you is going slow (i.e., going the speed limit) because the driver just lost his wife of fifty-three-years last week; your manager sent a short email because she’s juggling not only her life but also the life of her older brother who just got out of rehab—and not because she meant anything at all toward you. Remember, the person you see is not the person you’re talking to.
 
-In the silence of the pause, imagine that their words don't reach you
-but fall to the ground. Resist the urge to "catch" them and throw them
-back. Imagining the words falling to the ground gives you the chance to
-consider whether it's worth your time to pick them up or leave them
-alone. If you feel the pull to get defensive, remind yourself with the
-phrase "Put it down, \[your name\]."
+When you take things personally, you’re picking up what no one has asked you to carry. Put it down and assume positive intent until proven otherwise.
+The intentional practice of empathy and kindness will fundamentally alter how you treat yourself. You’ll become more forgiving and less critical of your own mistakes, and ultimately a happier person to be around.
 
-##### 3. Get curious
+Whereas taking things personally results in self-fulfilling negativity, giving grace results in self-fulfilling positivity.
 
-Turn your mind from outward to inward and keep your analytical side
-engaged. Ask yourself questions like:
+This is your wake-up call. It’s time you take ownership of your words and realize that not everything that is said requires a response from you. Maybe you forgot, but you get to decide if what somebody says means anything to you. You get to decide whether you take what they did personally. You get to decide the weight or value that you put on their words. And too often what somebody says isn’t worth the paper if you wrote it down, yet you hold it and collect it. And before you know it, you’re carrying a bag of books.
 
-- Where is this coming from?
-- What is driving them to say this?
-- What information am I missing?
+Stop carrying the weight of other people’s words.
 
-Get in the habit of becoming curious about the source of the request or
-statement. Once you have better control of yourself, there are three
-strategies you can use to help prevent the other person from getting
-defensive. While these techniques aren't foolproof, they will help you
-break down walls. Here's how to prevent the other person from getting
-defensive.
+Stop attending every argument you’re invited to.
 
-##### 1. Begin your sentence with "I," not "You"
+If sports are your jam, just because they throw a pitch doesn’t mean you have to swing. Let it go by. Just because they hit it to your side of the court doesn’t mean you have to send it back over the net. Let it fall to the ground. There is no requirement, no compulsion, that just because they said something, you are obligated to say anything at all.
 
-As soon as you start your sentence with *you*, it automatically puts the
-other person in a defensive stance. When you start your sentence with
-*I,* you prevent their trigger because it focuses on your feelings and
-perspective, not on notions that you're accusing or blaming them. It's
-also a more assertive approach. For example:
+“I just have to say…” No, you don’t.
 
-- Instead of "You're always looking at your phone."
-  Try "I enjoy sharing time together without our screens."
-- Rather than "You don't appreciate me."
-  Try "I felt unappreciated when you didn't respond."
-- Instead of "You can't speak to me that way!"
-  Try "I don't respond to that."
+There’s nothing you have to say. There are only things you want to say. But who are you saying it for? Are you saying it to make a point? Or are you just saying it to be heard?
+Accountability of defensiveness means recognizing your impulse to point outward and choosing instead to point inward. I use the word *choose* because that’s what it is. It’s a choice. And that choice is yours.
 
-##### 2. Don't begin your question with "Why?"
+Here’s how to stop yourself from getting defensive.
 
-In most scenarios in which you're questioning someone, *why* comes
-across as accusatory. It often implies wrongdoing, blame, or judgment.
-It hits their autonomy trigger. Imagine driving your car with a friend
-in the passenger seat. As you take a different route on the way to their
-house, your friend scowls and asks, "Why'd you go this way?" Your gut
-instinct is to push back. "Why? Because I wanted to, that's why," you
-want to say. Or to your toddler who repeats "Why?" over and over again,
-making you want to yell, "Because I said so!" It's not that they're
-asking you a question that upsets you. It's that "why" feels like
-they're *questioning you*. To fix it, replace the "why" with "what,"
-"when," or "how."
+#### 1. Catch yourself
 
-- Instead of "Why didn't you take the trash out?"
-  Try "When are you planning on taking out the trash?"
-- Rather than "Why'd you do it like that?"
-  Try "How did you decide on this?"
-- Instead of "Why can't you just relax?"
-  Try "What's preventing you from relaxing?"
+Prevent the knee-jerk reaction of having something to say with a conversational breath (a nine-second pause). Slow breathing tells your body that what someone said or did isn’t a threat.
+
+#### 2. Let their words fall
+
+In the silence of the pause, imagine that their words don’t reach you but fall to the ground. Resist the urge to “catch” them and throw them back. Imagining the words falling to the ground gives you the chance to consider whether it’s worth your time to pick them up or leave them alone. If you feel the pull to get defensive, remind yourself with the phrase “Put it down, \[your name].”
+
+#### 3. Get curious
+
+Turn your mind from outward to inward and keep your analytical side engaged. Ask yourself questions like: Where is this coming from? What is driving them to say this? What information am I missing? Get in the habit of becoming curious about the source of the request or statement.
+Once you have better control of yourself, there are three strategies you can use to help prevent the other person from getting defensive. While these techniques aren’t foolproof, they will help you break down walls.
+
+Here’s how to prevent the other person from getting defensive.
+
+##### 1. Begin your sentence with “I,” not “You”
+
+As soon as you start your sentence with *you*, it automatically puts the other person in a defensive stance. When you start your sentence with *I*, you prevent their trigger because it focuses on your feelings and perspective, not on notions that you’re accusing or blaming them. It’s also a more assertive approach.
+For example:
+
+- Instead of “You’re always looking at your phone.”
+  - Try “I enjoy sharing time together without our screens.”
+
+- Rather than “You don’t appreciate me.”
+  - Try “I felt unappreciated when you didn’t respond.”
+
+- Instead of “You can’t speak to me that way!”
+  - Try “I don’t respond to that.”
+
+##### 2. Don’t begin your question with “Why?”
+
+In most scenarios in which you’re questioning someone, *why* comes across as accusatory. It often implies wrongdoing, blame, or judgment. It hits their autonomy trigger. Imagine driving your car with a friend in the passenger seat. As you take a different route on the way to their house, your friend scowls and asks, “Why’d you go this way?” Your gut instinct is to push back. “Why? Because I wanted to, that’s why,” you want to say. Or to your toddler who repeats “Why?” over and over again, making you want to yell, “Because I said so!”
+
+It’s not that they’re asking you a question that upsets you. It’s that “why” feels like they’re questioning *you*. To fix it, replace the “why” with “what,” “when,” or “how.”
+
+- Instead of “Why didn’t you take the trash out?”
+  - Try “When are you planning on taking out the trash?”
+
+- Rather than “Why’d you do it like that?”
+  - Try “How did you decide on this?”
+
+- Instead of “Why can’t you just relax?”
+  - Try “What’s preventing you from relaxing?”
 
 ##### 3. Acknowledge first
 
-People have a deep desire to feel heard. When you respond to their point
-with "Yeah but," it only makes matters worse because it sends the
-message that you're not acknowledging them. And if you don't acknowledge
-them, believe me, they'll return the favor. Their door will be shut with
-the curtains drawn. Instead, simply try validating their feelings or
-perspective before presenting your own. This approach keeps their door
-open for dialogue. For example:
+People have a deep desire to feel heard. When you respond to their point with “Yeah but,” it only makes matters worse because it sends the message that you’re not acknowledging them. And if you don’t acknowledge them, believe me, they’ll return the favor. Their door will be shut with the curtains drawn. Instead, simply try validating their feelings or perspective before presenting your own. This approach keeps their door open for dialogue.
+For example:
 
-- **Tell them what you agree with.** Now, this doesn't mean that you
-  have to agree with anything that they said. Instead of thinking micro,
-  think macro. You can agree that the discussion should be had, that the
-  topic is worth talking about, or that the decision needs to be made.
-  For example:
-  > "I agree this topic is worth discussing."
-- **Tell them what you've learned.** When you state that you've
-  learned something, the other person will feel like they've taught
-  something. Telling them what you've learned makes them feel like they
-  contributed to the discussion and that you're acknowledging their
-  insight. For example:
-  > "I've learned that this subject is very important to you."
-- **Tell them that they're helpful.** People like to feel helpful,
-  especially if they can help themselves. When you acknowledge that
-  they've helped you, they're more likely to remain more open and
-  forthcoming. You free their defensiveness with acknowledgment. For
-  example:
-  > "That's helpful to know."
+- **Tell them what you agree with.** Now, this doesn’t mean that you have to agree with anything that they said. Instead of thinking micro, think macro. You can agree that the discussion should be had, that the topic is worth talking about, or that the decision needs to be made.
+  - For example: “I agree this topic is worth discussing.”
 
-Connecting to the other person means you have to be aware of the walls
-all around you, both the ones you build and the ones built against you.
-When you feel yourself getting defensive, get quiet, then get curious.
-When you feel someone else getting defensive, change your words from
-those that put up walls to those that break them down. It's a shift
-toward a connection mindset that opens up to more understanding and
-acknowledgment, rather than confrontation and the urge to win.
+- **Tell them what you’ve learned.** When you state that you’ve learned something, the other person will feel like they’ve taught something. Telling them what you’ve learned makes them feel like they contributed to the discussion and that you’re acknowledging their insight.
+  - For example: “I’ve learned that this subject is very important to you.”
 
-#### CHAPTER SUMMARY
+- **Tell them that they’re helpful.** People like to feel helpful, especially if they can help themselves. When you acknowledge that they’ve helped you, they’re more likely to remain more open and forthcoming. You free their defensiveness with acknowledgment.
+  - For example: “That’s helpful to know.”
 
-- Becoming defensive is the quickest way to break connection between you
-  > and the other person, a bright-line indicator that you're entering
-  > your ignition phase.
+Connecting to the other person means you have to be aware of the walls all around you, both the ones you build and the ones built against you. When you feel yourself getting defensive, get quiet, then get curious. When you feel someone else getting defensive, change your words from those that put up walls to those that break them down. It’s a shift toward a connection mindset that opens up to more understanding and acknowledgment, rather than confrontation and the urge to win.
 
-- Defensive behavior, from either of you, puts up a wall. It stops the
-  > other person from understanding you, and it closes you off from
-  > understanding the other person.
+#### Chapter Summary
 
-- Prevent yourself from getting defensive by using a long pause, five to
-  > ten seconds, to maintain your cooling phase. Imagine their words
-  > falling to the ground before they reach you and resist the urge to
-  > pick them up.
+- Becoming defensive is the quickest way to break connection between you and the other person, a bright-line indicator that you’re entering your ignition phase.
+- Defensive behavior, from either of you, puts up a wall. It stops the other person from understanding you, and it closes you off from understanding the other person.
+- Prevent yourself from getting defensive by using a long pause, five to ten seconds, to maintain your cooling phase. Imagine their words falling to the ground before they reach you and resist the urge to pick them up.
+- Defuse the defensiveness of others by beginning your response with “I” and not “you.” Use phrases that first acknowledge what they said, instead of immediately responding with your own position.
+- When you learn not to attend every argument you’re invited to, you can prevent the wall from coming between you and the other person and preserve connection.
 
-- Defuse the defensiveness of others by beginning your response with "I"
-  > and not "you." Use phrases that first acknowledge what they said,
-  > instead of immediately responding with your own position.
+---
 
-- When you learn not to attend every argument you're invited to, you
-  > can prevent the wall from coming between you and the other person
-  > and preserve connection.
+### CHAPTER 12: Difficult Conversations
 
-### Chapter 12: Difficult Conversations
+Conversations about the hard stuff aren’t easy. That’s why I saved this chapter for last.
 
-Conversations about the hard stuff aren't easy. That's why I saved this chapter for last. Chances are you're reading this book because your next conversation may be a difficult one. And if that's the case, I'm grateful you're here and that you've made it this far. It tells me that you've accepted the challenge to break the cycle. You've chosen to stop seeing arguments as something to win and instead see them as an opportunity to understand the person behind the words. You're building the discipline to connect to the person in front of you. By now you know that it all starts with what you say next. How you handle a difficult conversation says more about your character than the content of the conversation itself. Whether it's breaking up with a significant other, firing an employee, talking about finances, or addressing the elephant in the room, how you enter the conversation is the most important part. Like the calm before the storm, remember? If you come in too hot and heavy-handed, the other person will withdraw and get defensive ("Me?
-What about you?!"). If you come in too soft and unassuming, they'll become suspicious of your motives ("What are you trying to say?"). And if you're too passive and shy, they might just run right over you ("I'm not listening to this."). A difficult conversation becomes more difficult for one of two reasons:
+Chances are you’re reading this book because your next conversation may be a difficult one. And if that’s the case, I’m grateful you’re here and that you’ve made it this far.
 
-1. You don't know where you're going.
-2. You don't know how to get there.
+It tells me that you’ve accepted the challenge to break the cycle. You’ve chosen to stop seeing arguments as something to win and instead see them as an opportunity to understand the person behind the words. You’re building the discipline to connect to the person in front of you.
 
-What if I told you that I once hopped on a plane but didn't know where
-it was going to land? Or that I started driving but had no clue when I
-was going to stop? You'd think I was nuts. But it happens all the time
-in our conversations. When you just expect the conversation to go how
-you played it out in your mind-without any idea of where you're going
-and how you'll get there-you're setting yourself up for disappointment,
-as discussed in chapter two. The best time to remove the difficult from
-a difficult conversation is before it even starts. Approach is
-everything. Your approach to a difficult conversation makes the
-difference between creating connection or losing it forever. What
-follows is a blueprint for building connection when the going gets
-tough. Side note: this chapter assumes that you've already done the work
-from previous chapters to gain control of your emotions and hone your
-assertive voice. Once you're prepared to say it with control and say it
-with confidence, then and only then will you be ready to say it to
-connect. Here are three rules to ensure that your approach lands
-smoothly every time. 
+By now you know that it all starts with what you say next.
+
+How you handle a difficult conversation says more about your character than the content of the conversation itself. Whether it’s breaking up with a significant other, firing an employee, talking about finances, or addressing the elephant in the room, how you enter the conversation is the most important part. Like the calm before the storm, remember?
+
+If you come in too hot and heavy-handed, the other person will withdraw and get defensive (“Me? What about you?!”). If you come in too soft and unassuming, they’ll become suspicious of your motives (“What are you trying to say?”). And if you’re too passive and shy, they might just run right over you (“I’m not listening to this.”).
+
+A difficult conversation becomes more difficult for one of two reasons:
+
+1. You don’t know where you’re going.
+2. You don’t know how to get there.
+
+What if I told you that I once hopped on a plane but didn’t know where it was going to land? Or that I started driving but had no clue when I was going to stop? You’d think I was nuts. But it happens all the time in our conversations. When you just expect the conversation to go how you played it out in your mind—without any idea of where you’re going and how you’ll get there—you’re setting yourself up for disappointment, as discussed in chapter two.
+
+The best time to remove the difficult from a difficult conversation is before it even starts. Approach is everything.
+
+Your approach to a difficult conversation makes the difference between creating connection or losing it forever. What follows is a blueprint for building connection when the going gets tough. Side note: this chapter assumes that you’ve already done the work from previous chapters to gain control of your emotions and hone your assertive voice. Once you’re prepared to say it with control and say it with confidence, then and only then will you be ready to say it to connect.
+
+Here are three rules to ensure that your approach lands smoothly every time.
 
 #### 1. Set aside real, undistracted time
 
-I learned this rule the hard way. I was clerking (law-speak for
-"interning") under a partner at a firm while still in law school. I had
-a question about part of an assignment I was struggling with, and I was
-embarrassed to ask him. I stewed and struggled all morning before
-mustering up the courage to go and speak with him. I got up from my
-desk, walked down the hall, and headed straight into the partner's
-office. Without thinking, I knocked twice on his open door and started
-speaking right as I walked through his doorway. "Hey, I have a question
-about the motion for-" I began, walking into the center of the room.
-"Nope! Out!" he shouted, his left hand lifted in a talk-to-the-hand
-position. I turned on a swivel and walked straight out with the same
-speed I'd walked in with. Before I left, I caught a glimpse of him
-typing intently on his computer. Embarrassed, I sat back down at my desk
-with ears red and burning. I knew better. About fifteen minutes later, I
-heard a knock. The partner was standing in the doorway. "May I come in?"
-he asked. "Of course," I said, my ears finally returning to a normal
-color. "Sorry about that. My mind was right in the middle of something.
-If I didn't finish it then, I was going to forget my thought. Whatcha
-got?" he asked. I took a big gulp and told him about my confusion. "Ah,"
-he said, smiling. "Yeah, I know why you were confused. I made a typo.
-I'll fix that. And next time, just shoot me an email suggesting a time
-to visit. That way I can help when I'm at a stopping place." The problem
-wasn't the topic. The problem was my timing. If you're going to have a
-difficult conversation, remove the external factors that make it more
-difficult: find a private and comfortable setting, choose a time when
-neither of you is rushed or stressed, and eliminate any potential
-interruptions. When you force conversations to happen within your time
-frame, the other person often goes into it unwillingly from the outset.
-It's like driving at seventy miles per hour on a highway only to have a
-slower car merge right in front of you, forcing you to put on your
-brakes. It ruins your momentum and your focus. Now swap roles. There are
-few things more frustrating than when someone tries to force you into a
-conversation you're not ready for. Sometimes, the fact that you're not
-ready to have the conversation is what makes it difficult. You'll feel
-pressured and more prone to stress responses. It's a product of your
-autonomy trigger. They're pushing a conversation on you when it's not a
-good time. As a result, you'll have a harder time grasping clearer
-thoughts because your emotions are telling you that you don't feel
-comfortable. You may find yourself asking them to repeat what they said
-or go over it again. Your mind doesn't have a clean space on its desk to
-work from. Instead, set an assigned time in the future to have the
-discussion. The next time you need to schedule a talk, try this:
+I learned this rule the hard way.
 
-- "When would be a good time Friday morning to go over...?"
-- "Do you have a window around one forty-five on Tuesday to discuss...?"
-- "Are you available Thursday night to talk about...?"
+I was clerking (law-speak for “interning”) under a partner at a firm while still in law school. I had a question about part of an assignment I was struggling with, and I was embarrassed to ask him. I stewed and struggled all morning before mustering up the courage to go and speak with him. I got up from my desk, walked down the hall, and headed straight into the partner’s office. Without thinking, I knocked twice on his open door and started speaking right as I walked through his doorway.
 
-I like to use the words *capacity* and *bandwidth*. "Do you have
-capacity to talk about Monday's meeting agenda this afternoon?" "Do you
-have the bandwidth to talk about the kids' schedule for tomorrow once
-they go down for bed?" It speaks not only to their capacity of time but
-also to their capacity of mind. Sure, they may have the time, but they
-may not have the emotional or mental bandwidth to take it on at that
-time. There are lots of different ways to ask, so find one that feels
-most comfortable to you. The key is to suggest a narrow time frame or a
-particular time of the day. Even if you're free to talk and they're free
-to talk at that very moment, it's almost always better to set the
-meeting in the future. You need time to sift through your thoughts. More
-so, you want to give the other person time to prepare themselves. Have
-you ever had someone pop by your office and say, "Hey, you got a second?
-I mean not right now but later. Just need to visit about a thought."
-Whew. It's almost a relief. Later is good. Just half an hour can do
-wonders for ensuring that you have ample time to ready yourself to say
-what you need to say with control. So set the discussion for the future,
-and preferably with a narrow time frame. Remember, the fewer choices you
-give, the easier it becomes for people to decide. If you just say, "So,
-when is a good time next week?" you'll likely hear back, "I'm not sure.
-I'll get back to you." Next thing you know, three weeks have gone by. But
-if you narrow the scope, you're more likely to get an answer and work
-toward a mutual time frame. It's not a hard-and-fast rule, but it does
-help. By the way, here's how you *don't* want to set aside time:
+- “Hey, I have a question about the motion for—” I began, walking into the center of the room.
+- “Nope! Out!” he shouted, his left hand lifted in a talk-to-the-hand position.
+- I turned on a swivel and walked straight out with the same speed I’d walked in with. Before I left, I caught a glimpse of him typing intently on his computer. Embarrassed, I sat back down at my desk with ears red and burning. I knew better. About fifteen minutes later, I heard a knock. The partner was standing in the doorway.
+- “May I come in?” he asked.
+- “Of course,” I said, my ears finally returning to a normal color.
+- “Sorry about that. My mind was right in the middle of something. If I didn’t finish it then, I was going to forget my thought. Whatcha got?” he asked.
+- I took a big gulp and told him about my confusion.
+- “Ah,” he said, smiling. “Yeah, I know why you were confused. I made a typo. I’ll fix that. And next time, just shoot me an email suggesting a time to visit. That way I can help when I’m at a stopping place.”
 
-- "I need to talk to you."
-- "Got a second?"
-- "When are you free later?"
+The problem wasn’t the topic. The problem was my timing.
+
+If you’re going to have a difficult conversation, remove the external factors that make it more difficult: find a private and comfortable setting, choose a time when neither of you is rushed or stressed, and eliminate any potential interruptions.
+
+When you force conversations to happen within your time frame, the other person often goes into it unwillingly from the outset. It’s like driving at seventy miles per hour on a highway only to have a slower car merge right in front of you, forcing you to put on your brakes. It ruins your momentum and your focus.
+
+Now swap roles. There are few things more frustrating than when someone tries to force you into a conversation you’re not ready for. Sometimes, the fact that you’re not ready to have the conversation is what makes it difficult. You’ll feel pressured and more prone to stress responses. It’s a product of your autonomy trigger. They’re pushing a conversation on you when it’s not a good time. As a result, you’ll have a harder time grasping clearer thoughts because your emotions are telling you that you don’t feel comfortable. You may find yourself asking them to repeat what they said or go over it again. Your mind doesn’t have a clean space on its desk to work from.
+
+Instead, set an assigned time in the future to have the discussion.
+
+The next time you need to schedule a talk, try this:
+
+- “When would be a good time Friday morning to go over…?”
+- “Do you have a window around one forty-five on Tuesday to discuss…?”
+- “Are you available Thursday night to talk about…?”
+
+I like to use the words *capacity* and *bandwidth*.
+
+- “Do you have capacity to talk about Monday’s meeting agenda this afternoon?”
+- “Do you have the bandwidth to talk about the kids’ schedule for tomorrow once they go down for bed?”
+
+It speaks not only to their capacity of time but also to their capacity of mind. Sure, they may have the time, but they may not have the emotional or mental bandwidth to take it on at that time. There are lots of different ways to ask, so find one that feels most comfortable to you.
+
+The key is to suggest a narrow time frame or a particular time of the day. Even if you’re free to talk and they’re free to talk at that very moment, it’s almost always better to set the meeting in the future. You need time to sift through your thoughts. More so, you want to give the other person time to prepare themselves. Have you ever had someone pop by your office and say, “Hey, you got a second? I mean not right now but later. Just need to visit about a thought.” Whew. It’s almost a relief. Later is good. Just half an hour can do wonders for ensuring that you have ample time to ready yourself to say what you need to say with control. So set the discussion for the future, and preferably with a narrow time frame.
+
+Remember, the fewer choices you give, the easier it becomes for people to decide. If you just say, “So, when is a good time next week?” you’ll likely hear back, “I’m not sure. I’ll get back to you.” Next thing you know, three weeks have gone by. But if you narrow the scope, you’re more likely to get an answer and work toward a mutual time frame. It’s not a hard-and-fast rule, but it does help.
+
+By the way, here’s how you *don’t* want to set aside time:
+
+- “I need to talk to you.”
+- “Got a second?”
+- “When are you free later?”
 
 Again, consider how you feel when someone approaches you like that.
-Additionally, none of these examples provides any reference to
-meaningful time. While you may like that they suggest a lack of urgency,
-the more harmful effect is uncertainty. Do you have a second to talk? It
-depends. Is the topic positive or negative, personal or professional,
-serious or trivial? Each of these factors affects your response. You
-might have a few seconds for the other person to tell you about a funny
-thing that happened last night- *if* that story actually lasts a few
-seconds. That's a big *if*. Typically, the "Got a second?" line should
-more aptly be worded, "Got two hours?" Set clear expectations to ensure
-that the time you requested for conversation respects the topic it will
-hold. Serious topics need more time. Sensitive topics need more time.
-Negative topics need more time. It helps to tell someone if you need
-thirty minutes, or an hour, or four hours. By improving your ability to
-forecast how much you need of someone's time and to set that intentional
-time aside, you're positioning yourself for better connection. How?
-Because you're building in time for intentional pauses, as well as for
-stretches of silence for thinking and keeping the conversation within
-your frame. It offers you time for slow breathing and slower words to
-keep you controlled and clearheaded. Conversely, if you don't forecast
-the time requirements and rush into the conversation, you might find
-yourself talking to someone who's more concerned about when they're
-getting out of the conversation than the substance of the conversation.
-Make sure the time you've set aside is undistracted. Don't have your
-phone on your desk (it doesn't count if it's face down). Don't hold your
-phone in your hand (it doesn't count if you're not looking at it). Send
-the message that what you have to discuss is your singular focus.
+
+Additionally, none of these examples provides any reference to meaningful time. While you may like that they suggest a lack of urgency, the more harmful effect is uncertainty. *Do you have a second to talk?* It depends. Is the topic positive or negative, personal or professional, serious or trivial? Each of these factors affects your response. You might have a few seconds for the other person to tell you about a funny thing that happened last night—if that story actually lasts a few seconds. That’s a big if. Typically, the “Got a second?” line should more aptly be worded, “Got two hours?” Set clear expectations to ensure that the time you requested for conversation respects the topic it will hold. Serious topics need more time. Sensitive topics need more time. Negative topics need more time. It helps to tell someone if you need thirty minutes, or an hour, or four hours.
+
+By improving your ability to forecast how much you need of someone’s time and to set that intentional time aside, you’re positioning yourself for better connection. How? Because you’re building in time for intentional pauses, as well as for stretches of silence for thinking and keeping the conversation within your frame. It offers you time for slow breathing and slower words to keep you controlled and clearheaded.
+
+Conversely, if you don’t forecast the time requirements and rush into the conversation, you might find yourself talking to someone who’s more concerned about when they’re getting out of the conversation than the substance of the conversation.
+
+Make sure the time you’ve set aside is undistracted. Don’t have your phone on your desk (it doesn’t count if it’s face down). Don’t hold your phone in your hand (it doesn’t count if you’re not looking at it). Send the message that what you have to discuss is your singular focus.
 
 #### 2. Drop the pleasantries
 
-Imagine that you need to let go of a member of your team. You've tried
-for weeks to give this person a chance, but it's time for the two of you
-to part ways. You send this email: "Please come see me in my office when
-you have a second." In your mind, you're thinking that you'll have the
-discussion in a few hours or so. But nope. The employee walks into your
-office barely two minutes after you hit send. She looks nervous. She
-knows her work hasn't been great despite her attempts to improve. "Oh,
-hello!" you say cheerfully, letting out a nervous cough. "Take a seat."
-A few seconds go by as you begin slightly touching things around your
-desk and resort to fidgeting with a lone paper clip. "How are you?" you
-ask. "How are you liking it here?" "I love it." She forces a smile. "I
-feel totally supported and just really like my job. It's taken much
-longer than I'd hoped, but I feel like I'm about to hit my stride." Ugh.
-You weren't prepared for that. You twist awkwardly and readjust yourself
-in your seat. In the quiet, her smile starts to fade as she's searching
-for her next words. You manage to press on. "Hey, uh, listen." The air
-drops from the room. "So I've been doing a lot of thinking, and it's
-been a very hard decision for me. Because I like you, and I think you're
-a great person. And I know you try hard. I hate to tell you this. But I,
-uh, I think it's, uh, time to let you go." Instantly, her tears well up.
-You turn your eyes downward. She pleads, "But why? I like it here
-and..." And what you originally planned to be a five-minute conversation
-turns into an hour-and-a-half discussion that ends with you giving her
-two more weeks on the team-a move you're sure you'll regret. When the
-topic of conversation is truly a touchy subject or will be received as
-bad news, we're tempted to create a soft atmosphere. To soften the blow.
-To let them down easy. This typically starts by asking about the other
-person's day, or their family, or by drumming up some random topic
-you've never taken any interest in before ("Do you garden?" Womp). You
-think you're making things better. That you're being kind or tactful.
-But people are smarter than that. Despite your incredible acting skills,
-people have an innate ability to sense a threat. Something feels...off.
-People are really good at reading nonverbal cues. You can sense when
-someone is watching you. You know when someone has entered a room even
-if your eyes are shut. And you can feel the tension before an argument,
-as discussed in chapter five. A moment of insincerity from you and the
-other person will immediately put up their guard. Their ignition phase
-puts them on alert. At any moment, they're ready and expecting the
-hammer to drop. Your team member felt it. Not only did you not set aside
-time for the discussion, you also led with pleasantries. She already
-knew that her work performance had been struggling. She knew full well
-what you wanted to speak to her about. She knew why she was there. She
-could sense by your fidgeting and readjusting in your seat that you were
-uncomfortable. As innocent as your "How are you?" was meant to be, it
-became disingenuous. You didn't really care how she was or how she liked
-it here. You were planning on firing her. While harmless on the surface,
-opening with pleasantries feigns concern. It will create the opposite
-effect you want: instead of treating them with kindness, you are
-treating them with disguised indifference. Firing an employee,
-addressing a tough issue in a relationship, or sharing your feelings
-that you've kept locked up for weeks-it doesn't matter. People want
-honesty. Direct, true honesty. And the further you keep that from them,
-the more pretense they'll hear and the weaker your connection will be.
-As best you can, drop these types of questions from your approach to
-difficult conversations:
+Imagine that you need to let go of a member of your team. You’ve tried for weeks to give this person a chance, but it’s time for the two of you to part ways. You send this email: “Please come see me in my office when you have a second.”
 
-- "So, how are you?"
-- "What have you been up to lately?"
-- "This weather needs to make up its mind, right?"
+In your mind, you’re thinking that you’ll have the discussion in a few hours or so. But nope. The employee walks into your office barely two minutes after you hit send. She looks nervous. She knows her work hasn’t been great despite her attempts to improve.
 
-Instead, be direct and transparent from the outset. Begin the
-conversation by telling them what kind of conversation they're about to
-have. For bad news, try this:
+- “Oh, hello!” you say cheerfully, letting out a nervous cough. “Take a seat.”
+- A few seconds go by as you begin slightly touching things around your desk and resort to fidgeting with a lone paper clip.
+- “How are you?” you ask. “How are you liking it here?”
+- “I love it.” She forces a smile. “I feel totally supported and just really like my job. It’s taken much longer than I’d hoped, but I feel like I’m about to hit my stride.”
+- Ugh. You weren’t prepared for that. You twist awkwardly and readjust yourself in your seat. In the quiet, her smile starts to fade as she’s searching for her next words.
+- You manage to press on. “Hey, uh, listen.” The air drops from the room. “So I’ve been doing a lot of thinking, and it’s been a very hard decision for me. Because I like you, and I think you’re a great person. And I know you try hard. I hate to tell you this. But I, uh, I think it’s, uh, time to let you go.”
+- Instantly, her tears well up. You turn your eyes downward.
+- She pleads, “But why? I like it here and…”
 
-- "This is going to be hard to hear."
-- "I've got bad news."
-- "You're not going to like what I have to say."
-- "This might come as a shock to you."
+And what you originally planned to be a five-minute conversation turns into an hour-and-a-half discussion that ends with you giving her two more weeks on the team—a move you’re sure you’ll regret.
+
+When the topic of conversation is truly a touchy subject or will be received as bad news, we’re tempted to create a soft atmosphere. To soften the blow. To let them down easy. This typically starts by asking about the other person’s day, or their family, or by drumming up some random topic you’ve never taken any interest in before (“Do you garden?” Womp). You think you’re making things better. That you’re being kind or tactful.
+
+But people are smarter than that.
+
+Despite your incredible acting skills, people have an innate ability to sense a threat. Something feels…off. People are really good at reading nonverbal cues. You can sense when someone is watching you. You know when someone has entered a room even if your eyes are shut. And you can feel the tension before an argument, as discussed in chapter five. A moment of insincerity from you and the other person will immediately put up their guard. Their ignition phase puts them on alert. At any moment, they’re ready and expecting the hammer to drop.
+
+Your team member felt it. Not only did you not set aside time for the discussion, you also led with pleasantries. She already knew that her work performance had been struggling. She knew full well what you wanted to speak to her about. She knew why she was there. She could sense by your fidgeting and readjusting in your seat that you were uncomfortable. As innocent as your “How are you?” was meant to be, it became disingenuous. You didn’t really care how she was or how she liked it here. You were planning on firing her.
+
+While harmless on the surface, opening with pleasantries feigns concern. It will create the opposite effect you want: instead of treating them with kindness, you are treating them with disguised indifference. Firing an employee, addressing a tough issue in a relationship, or sharing your feelings that you’ve kept locked up for weeks—it doesn’t matter. People want honesty. Direct, true honesty. And the further you keep that from them, the more pretense they’ll hear and the weaker your connection will be.
+As best you can, drop these types of questions from your approach to difficult conversations:
+
+- “So, how are you?”
+- “What have you been up to lately?”
+- “This weather needs to make up its mind, right?”
+
+Instead, be direct and transparent from the outset. Begin the conversation by telling them what kind of conversation they’re about to have. For bad news, try this:
+
+- “This is going to be hard to hear.”
+- “I’ve got bad news.”
+- “You’re not going to like what I have to say.”
+- “This might come as a shock to you.”
 
 Or, for tough or sensitive topics, try this:
 
-- "This isn't going to be fun for either of us."
-- "I have something uncomfortable to share."
-- "This isn't going to be easy to talk about."
+- “This isn’t going to be fun for either of us.”
+- “I have something uncomfortable to share.”
+- “This isn’t going to be easy to talk about.”
 
-A simple "This is going to be a difficult conversation" works well too.
-These types of statements should be the very first thing out of your
-mouth. Or, at a minimum, they should follow you saying, "Thank you for
-making time to talk with me." This type of approach is more open and
-honest. And yes, even though it feels more uncomfortable or distressing,
-it's kinder. Their system doesn't have to guess and wrestle with the
-unknown. Let's look at what a more direct conversation could have looked
-like with your team member. "Thanks for coming in," you begin. She sits
-down. You look at her and calmly say, "This is going to be difficult to
-hear." After giving her a one-second pause to ready herself for your
-next words, you continue, "I need to let you go." She nods in
-acknowledgment. "We've enjoyed your time with us, and I'm excited to see
-where your career takes you." You finish with a warm grin. "I
-understand," she responds, visibly disappointed. "Thank you for the
-opportunity." Again, clarity is kind. It removes the ambiguity and
-anxiety that can cloud difficult conversations, allowing both of you to
-connect to the reality of the situation. When you allow the other person
-to receive difficult news with dignity, it reinforces their ability to
-handle the truth and empowers them with a more mature response.
+A simple “This is going to be a difficult conversation” works well too.
+
+These types of statements should be the very first thing out of your mouth. Or, at a minimum, they should follow you saying, “Thank you for making time to talk with me.” This type of approach is more open and honest. And yes, even though it feels more uncomfortable or distressing, it’s kinder. Their system doesn’t have to guess and wrestle with the unknown.
+
+Let’s look at what a more direct conversation could have looked like with your team member.
+
+- “Thanks for coming in,” you begin.
+- She sits down.
+- You look at her and calmly say, “This is going to be difficult to hear.”
+- After giving her a one-second pause to ready herself for your next words, you continue, “I need to let you go.”
+- She nods in acknowledgment.
+- “We’ve enjoyed your time with us, and I’m excited to see where your career takes you.” You finish with a warm grin.
+- “I understand,” she responds, visibly disappointed. “Thank you for the opportunity.”
+
+Again, clarity is kind. It removes the ambiguity and anxiety that can cloud difficult conversations, allowing both of you to connect to the reality of the situation. When you allow the other person to receive difficult news with dignity, it reinforces their ability to handle the truth and empowers them with a more mature response.
 
 #### 3. Begin with your end
 
-When you're having difficult conversations, lead with your takeaway. In
-other words, imagine that you're giving a presentation and you get to
-the end, the part where you say, "*In conclusion*." Move everything
-after that to the front of your conversation. Let's assume you're in a
-meeting and giving out this idea: "Okay, so you know how we all want
-customers to feel comfortable once they get to the front desk? So I was
-thinking, and tell me if I'm wrong here, but too often we get into the
-whole concept of overcomplicating the customer experience, which is
-essentially just the idea that people don't know what they want, right?
-Okay, wait. I had this thought while I was driving and it hit me so
-randomly, I don't know why, but anyway. I say all that to say, we should
-totally simplify our approach and focus on creating a more welcoming
-environment in the lobby from the moment they enter." Oof. Can you see
-how you don't really know where it's going or what the ultimate ask will
-be until you're at the end? Listeners get lost. They'll hook onto a word
-like *driving* and go into a mental rabbit hole remembering what they
-were thinking about while driving into work. *I passed that new Italian
-restaurant driving to work this morning. I've been wanting to try it.
-And speaking of food, how much longer until lunch? What should I eat? I
-ate lasagna yesterday....*
+When you’re having difficult conversations, lead with your takeaway. In other words, imagine that you’re giving a presentation and you get to the end, the part where you say, “In *conclusion*.” Move everything after that to the *front* of your conversation.
 
-And just like that, they're no longer in the room with you. They're
-thinking about their past, living in their future, and in no way
-concerned about their present. Let's see what it looks like when you
-move the end to the beginning. Sitting around the meeting table, you
-share your idea. "We should create a more welcoming environment for the
-lobby. If we make the entrance an inviting space, customers will be more
-likely to be comfortable by the time they get to the front desk." That's
-it. Now there's no chance the listener has gotten lost. No one is
-dreaming about pasta. You've immediately made your point and you've
-given your reasoning. This technique works with written communication
-and text messages too. Combined with removing pleasantries and
-justifications, this puts you in a much better position. Imagine you
-have to turn down an invitation to a party. Which rejection sounds
-better?
+Let’s assume you’re in a meeting and giving out this idea: “Okay, so you know how we all want customers to feel comfortable once they get to the front desk? So I was thinking, and tell me if I’m wrong here, but too often we get into the whole concept of overcomplicating the customer experience, which is essentially just the idea that people don’t know what they want, right? Okay, wait. I had this thought while I was driving and it hit me so randomly, I don’t know why, but anyway. I say all that to say, we should totally simplify our approach and focus on creating a more welcoming environment in the lobby from the moment they enter.”
 
-- Text 1: Hey! Ok so I'm so sorry but I've just had sooo much to do
-  today and I've been so stressed. I haven't even eaten yet lol. Turns
-  out my dog had an allergic reaction to something and he's acting
-  strange. I'm worried about him. I feel so so terrible but I may not be
-  able to make it tonight. Thank you so much for thinking of me and if
-  things change I'll definitely let you know!
-- Text 2: I got bad news, I can't go tonight. Thank you for the
-  invite. Hope it's a great time!
+Oof.
 
-Text 1 sounds disingenuous. Despite your different attempts at not
-wanting to hurt their feelings, you've written so much that you leave
-the actual truth of what you mean up to their own making. The more words
-you have to use, the more you sound like you're lying. You'd likely get
-a snarky text back of "Just tell me you don't want to come." Text 2 gets
-straight to the point, making it sound more honest. It's a response
-that respects both you and the other person. These strategies can help
-you start difficult conversations with other people. How can you be more
-open when it's someone else's turn to have a difficult conversation with
-you?
+Can you see how you don’t really know where it’s going or what the ultimate ask will be until you’re at the end?
+
+Listeners get lost. They’ll hook onto a word like *driving* and go into a mental rabbit hole remembering what they were thinking about while driving into work. *I passed that new Italian restaurant driving to work this morning. I’ve been wanting to try it. And speaking of food, how much longer until lunch? What should I eat? I ate lasagna yesterday…*.
+
+And just like that, they’re no longer in the room with you. They’re thinking about their past, living in their future, and in no way concerned about their present.
+
+Let’s see what it looks like when you move the end to the beginning.
+
+Sitting around the meeting table, you share your idea. “We should create a more welcoming environment for the lobby. If we make the entrance an inviting space, customers will be more likely to be comfortable by the time they get to the front desk.”
+
+That’s it.
+
+Now there’s no chance the listener has gotten lost. No one is dreaming about pasta. You’ve immediately made your point and you’ve given your reasoning.
+This technique works with written communication and text messages too. Combined with removing pleasantries and justifications, this puts you in a much better position. Imagine you have to turn down an invitation to a party. Which rejection sounds better?
+
+- Text 1: Hey! Ok so I’m so sorry but I’ve just had sooo much to do today and I’ve been so stressed. I haven’t even eaten yet lol. Turns out my dog had an allergic reaction to something and he’s acting strange. I’m worried about him. I feel so so terrible but I may not be able to make it tonight. Thank you so much for thinking of me and if things change I’ll definitely let you know!
+- Text 2: I got bad news, I can’t go tonight. Thank you for the invite. Hope it’s a great time!
+
+Text 1 sounds disingenuous. Despite your different attempts at not wanting to hurt their feelings, you’ve written so much that you leave the actual truth of what you mean up to their own making. The more words you have to use, the more you sound like you’re lying. You’d likely get a snarky text back of “Just tell me you don’t want to come.”
+
+Text 2 gets straight to the point, making it sound more honest. It’s a response that respects both you and the other person.
+
+These strategies can help you start difficult conversations with other people. How can you be more open when it’s someone else’s turn to have a difficult conversation with you?
 
 #### What It Means to Be a Safe Space
 
-A few months ago, my six-year-old son walked into the living room toward
-me, head hanging down, his hands on top of his stomach. "Daddy?" he
-said. "What's up, buddy?" I asked. "I did something bad," he replied as
-he moved his hands to show a two-inch hole in his new shirt. "What
-happened?" I asked. He looked down again. "I just wanted to see if my
-scissors would cut my shirt." I tried to hold back a laugh. "Well, what
-did you learn?" He took a big sigh. "It definitely cuts it." "I think it
-does too. Thank you for coming to me and telling me." I gave him a high
-five. "And now that we know that it does, let's not do that again,
-yeah?" He replied with a smile, "Yeah." When someone approaches you with
-their own difficult conversation, something that they know will upset
-you or hurt you, how you react can determine if they ever come to you in
-a difficult moment again. Creating space for difficult conversations
-begins with how you first receive the information. Here are some phrases
-that will help you make sure that you create a safe space from the
-start:
+A few months ago, my six-year-old son walked into the living room toward me, head hanging down, his hands on top of his stomach.
 
-- "I'm glad you came to me with this." You're conveying that you
-  acknowledge that they have a choice in whom to trust and share
-  information with. By showing gratitude and appreciation for their
-  choice to come to you, you allow them to connect to you.
-- "Thank you for telling me." This response acknowledges the effort
-  that it took to come to you, that you understand that sometimes it's
-  not easy to open up and share things.
-- "I appreciate your perspective." No matter what side of an issue
-  they're on, somebody's point of view informs you of a view you might
-  not have had.
+- “Daddy?” he said.
+- “What’s up, buddy?” I asked.
+- “I did something bad,” he replied as he moved his hands to show a two-inch hole in his new shirt.
+- “What happened?” I asked.
+- He looked down again. “I just wanted to see if my scissors would cut my shirt.”
+- I tried to hold back a laugh. “Well, what did you learn?”
+- He took a big sigh. “It definitely cuts it.”
+- “I think it does too. Thank you for coming to me and telling me.” I gave him a high five. “And now that we know that it does, let’s not do that again, yeah?”
+- He replied with a smile, “Yeah.”
 
-Difficult conversations, despite the label, are your greatest
-opportunity to connect to another person. Encountering struggle, and
-overcoming that struggle, brings you closer together, which deepens and
-strengthens connection. Phrases like the following, however, can have
-the opposite effect:
+When someone approaches you with their own difficult conversation, something that they know will upset you or hurt you, how you react can determine if they ever come to you in a difficult moment again. Creating space for difficult conversations begins with how you first receive the information. Here are some phrases that will help you make sure that you create a safe space from the start:
 
-- "I know what you're going through."
-- "I had a hard day too."
-- "Something like that happened to me once."
+- “I’m glad you came to me with this.”
 
-There's the tendency to give these kinds of statements as a way to relate
-to the other person, to create connection. More often than not, however,
-what you're really doing is turning the spotlight on yourself. You've
-closed off their chance to share, to vent, to express their
-frustrations. Turning the conversation toward you, even if spoken from a
-good place, operates to break connection. Rather than immediately
-changing the subject toward something about you, try this method:
+You’re conveying that you acknowledge that they have a choice in whom to trust and share information with. By showing gratitude and appreciation for their choice to come to you, you allow them to connect to you.
 
-1.  **Ask one question.** You can ask more, of course, but just one
-    question will make all the difference. It can be a softball question,
-    like "How are you feeling about that?" or "What are your thoughts
-    about it?" These are open-ended questions that keep the spotlight on
-    the other person and allow them to continue the connection.
-2.  **If you still feel that something you have to say is worth
-    sharing, ask permission.** It can be as simple as "Do you mind if I
-    share something with you?" Because you've already shown interest in
-    step one by asking for more from them, they'll likely say yes and be
-    more open to what you have to say.
-3.  **Rather than telling someone what they should do, or what you
-    would do if you were in their shoes, ask, "Can I tell you what I've
-    learned?"** People are much more receptive to hearing what you've
-    learned from your own experiences instead of feeling like you're
-    trying to boss them around or sound like a know-it-all.
+- “Thank you for telling me.”
 
-When someone opens up to you with a difficult conversation of their own,
-be a safe place. That doesn't mean you have to be happy and positive.
-That's dishonest. It means only that they need to feel safe and secure
-enough to communicate with you without fear. You don't have to pretend
-that difficult conversations are going to be easy. As you know from
-chapter one, it's the difficult conversations and conflicts that provide
-opportunities to improve your relationships. Difficulty is going to
-happen. Accept it. Welcome it. The deeper the relationship you want to
-have with someone, the deeper the tolerance you must have for difficult
-conversation.
+This response acknowledges the effort that it took to come to you, that you understand that sometimes it’s not easy to open up and share things.
 
-The key is to use the conversations to build connection. By following
-these methods, you can remove the difficulty before you even begin
-speaking. Be proactive. Ask the other person for a time and place to
-have the hard talk. When the conversation begins, drop the pleasantries
-and get to the heart of the matter right away. Lead with your takeaway
-to avoid confusion and be clear about the outcome you're seeking. And
-when the shoe is on the other foot, and the other person needs to have a
-difficult talk with you, be the person you wish someone would be for
-you. Be a safe space. When used wisely, these steps can help you turn
-your next conversation into an opportunity for connection.
+- “I appreciate your perspective.”
+
+No matter what side of an issue they’re on, somebody’s point of view informs you of a view you might not have had.
+
+Difficult conversations, despite the label, are your greatest opportunity to connect to another person. Encountering struggle, and overcoming that struggle, brings you closer together, which deepens and strengthens connection. Phrases like the following, however, can have the opposite effect:
+
+- “I know what you’re going through.”
+- “I had a hard day too.”
+- “Something like that happened to me once.”
+
+There’s the tendency to give these kinds of statements as a way to relate to the other person, to create connection. More often than not, however, what you’re really doing is turning the spotlight on yourself. You’ve closed off their chance to share, to vent, to express their frustrations. Turning the conversation toward you, even if spoken from a good place, operates to *break* connection. Rather than immediately changing the subject toward something about you, try this method:
+
+1. Ask one question. You can ask more, of course, but just one question will make all the difference. It can be a softball question, like “How are you feeling about that?” or “What are your thoughts about it?” These are open-ended questions that keep the spotlight on the other person and allow them to continue the connection.
+
+2. If you still feel that something you have to say is worth sharing, ask permission. It can be as simple as “Do you mind if I share something with you?” Because you’ve already shown interest in step one by asking for more from them, they’ll likely say yes and be more open to what you have to say.
+
+3. Rather than telling someone what they should do, or what you would do if you were in their shoes, ask, “Can I tell you what I’ve learned?” People are much more receptive to hearing what you’ve learned from
+
+When someone opens up to you with a difficult conversation of their own, be a safe place. That doesn’t mean you have to be happy and positive. That’s dishonest. It means only that they need to feel safe and secure enough to communicate with you without fear.
+
+You don’t have to pretend that difficult conversations are going to be easy. As you know from chapter one, it’s the difficult conversations and conflicts that provide opportunities to improve your relationships. Difficulty is going to happen. Accept it. Welcome it. The deeper the relationship you want to have with someone, the deeper the tolerance you must have for difficult conversation.
+
+The key is to use the conversations to build connection. By following these methods, you can remove the difficulty before you even begin speaking. Be proactive. Ask the other person for a time and place to have the hard talk. When the conversation begins, drop the pleasantries and get to the heart of the matter right away. Lead with your takeaway to avoid confusion and be clear about the outcome you’re seeking. And when the shoe is on the other foot, and the other person needs to have a difficult talk with you, be the person you wish someone would be for you. Be a safe space.
+
+When used wisely, these steps can help you turn your next conversation into an opportunity for connection.
 
 #### CHAPTER SUMMARY
 
-- The best time to remove the difficult from a difficult conversation
-  > is before it even starts.
+- The best time to remove the difficult from a difficult conversation is before it even starts.
+- When you need to discuss a tough or sensitive subject, set aside dedicated, undistracted time to talk with the other person. Don’t push the conversation for the convenience of your own time frame.
+- Resist initiating with pleasantries that skirt around the issue at hand, which can be perceived as disingenuous. Instead, be direct. Being direct is kind and maintains your credibility. To do that, lead with your conclusion, the main takeaway.
+- Difficult conversations, despite the label, are your greatest opportunity to connect to the other person. Encountering struggle, and overcoming that struggle, brings you closer together, which deepens and strengthens connection.
 
-- When you need to discuss a tough or sensitive subject, set aside
-  > dedicated, undistracted time to talk with the other person. Don't
-  > push the conversation for the convenience of your own time frame.
+---
 
-- Resist initiating with pleasantries that skirt around the issue at
-  > hand, which can be perceived as disingenuous. Instead, be direct.
-  > Being direct is kind and maintains your credibility. To do that,
-  > lead with your conclusion, the main takeaway.
+### Chapter 13: How to Handle Narcissists and Gaslighters
 
-- Difficult conversations, despite the label, are your greatest
-  > opportunity to connect to the other person. Encountering struggle,
-  > and overcoming that struggle, brings you closer together, which
-  > deepens and strengthens connection.
+The husband looked and acted as normal as anyone. He had a genuine smile and a charming personality, the perfect image of a supportive and loving spouse. But behind closed doors, he was corrosive.
 
-### Bonus Chapter: How to Handle Narcissists and Gaslighters
+In his divorce proceedings, he’d weaponize his own kids with comments like “Your mom cares more about money than she does about you” or “Your mom doesn’t want you, that’s why she wants to leave us.”
 
-The husband appeared as normal as anyone—genuine smile, charming personality, the perfect image of a supportive and loving spouse. But behind closed doors, he was corrosive.
-
-During his divorce proceedings, he weaponized his own children with comments like:
-
-- "Your mom cares more about money than she does about you," or
-- "Your mom doesn't want you, that's why she wants to leave us."
-
-He would berate his wife, then immediately act like the victim when confronted, claiming, "You pushed me to do this. You made me do this." The psychological warfare was nonstop. One moment he'd call to harass her and hang up; the next, he'd leave a voicemail mimicking heartfelt concern: "I really hope we can co-parent peacefully for the kids' sake." As though he hadn't been heartless minutes before.
-
+He would berate his wife only to turn right around and act like the victim when confronted, claiming, “You pushed me to do this. You made me do this.” The psychological warfare was nonstop. One minute he’d call to harass her and hang up. Another minute he’d call to leave a voicemail, mimicking heartfelt concern like, “I really hope we can co-parent peacefully for the kids’ sake.” As though he hadn’t been heartless minutes before.
 He lied to their mutual friends and relatives, painting his soon-to-be ex-wife as unstable and greedy, while pretending he was the only person trying to hold the family together.
 
-Toxic communication isn't heavy blows from boxing gloves under bright lights. It's a back-alley knife fight in the dark.
+Toxic communication isn’t heavy blows from boxing gloves under bright lights. It’s a back-alley knife fight in the dark.
 
-As the divorce continued, the husband used every detail as an excuse to cause hurt. He'd agree to terms one day, only to back out the next, accusing his wife of "trying to take everything." Nothing moved in the negotiations unless it was his idea and his alone. Finally, the court reviewed months of bank statements, financial records, affidavits, and all the audio recordings of the husband's phone calls. The evidence painted a picture of a man obsessed with control and manipulation at any cost.
+As the divorce continued, the husband used every detail as an excuse to cause hurt. He’d agree to terms one day only to back out the next, accusing his wife of “trying to take everything.” Nothing moved in the negotiations unless it was his idea and his alone. Finally, the court reviewed months of bank statements, financial records, affidavits, and all the audio recordings of the husband’s phone calls. The evidence painted a picture of a man obsessed with control and manipulation at any cost.
 
 For the first time, he was exposed for who he really was: a narcissist.
 
-His story unraveled, and his tactics backfired as the judge ruled in favor of the wife. There was no grand moment of self-awareness or apology from the husband. Instead, he blamed everyone else: the court was biased, his attorney was unethical, he even blamed the courthouse staff. He clung to his narrative to the end. That's all he knew how to do. He could see the hurt he'd caused, but he was incapable of caring about it. Sadly, that's how back-alley fights with narcissists often end. There's no moment of redemption—just a return to peace after a lot of pain.
+His story unraveled, and his tactics backfired as the judge ruled in favor of the wife. There was no grand moment of self-awareness or apology from the husband. Instead, he blamed everyone else. The court was biased. His attorney was unethical. He even blamed the courthouse staff. He clung to his narrative to the end. That’s all he knew how to do. He could see the hurt he’d caused, but he was incapable of caring about it. Sadly, that’s how back-alley fights with narcissists often end. There’s no moment of redemption—just a return to peace after a lot of pain.
 
-I know this story because the wife's attorney is my friend. I've never forgotten it. It's a searing example of the subtlety, toxicity, and manipulation of a narcissist.
+I know this story because the wife’s attorney is my friend. I’ve never forgotten it. It’s a searing example of the subtlety, toxicity, and manipulation of a narcissist.
 
-To fight back against a narcissist, you must refuse to let them pull you into their darkness while you find your way back to the light. But there's a major problem in that fight, and it could be why you're still struggling with a narcissist.
+To fight back against a narcissist, you must refuse to let them pull you into their darkness while you find your way back to the light. But there’s a major problem in that fight, and it could be why you’re still struggling with a narcissist.
 
 The game is rigged.
 
 #### The Game You Never Signed Up For
 
-The difficulty of communicating with a narcissist is that they look like
-they'd be so normal. That if you could only explain it to them, make
-them understand why what they said hurt you or what they did was wrong,
-then they'd apologize and it would all be okay. That you could connect
-with them heart-to-heart, like turning a key in a lock.
+The difficulty of communicating with a narcissist is that they look like they’d be so normal. That if you could only explain it to them, make them understand why what they said hurt you or what they did was wrong, then they’d apologize and it would all be okay. That you could connect with them heart-to-heart, like turning a key in a lock.
 
-In reality, interacting with a narcissist is more like playing a carnival
-game. It looks straightforward, even enticingly beatable. But it's not.
+In reality, interacting with a narcissist is more like playing a carnival game. It looks straightforward, even enticingly beatable. But it’s not.
 
-It's rigged.
+It’s rigged.
 
-Whenever you encounter someone with a narcissistic personality, I want
-you to remember that you're playing *their* carnival game. Unless you
-know how the game is rigged, you will come away with less than you had
-before. Less peace. Less patience. Less faith in humanity.
+Whenever you encounter someone with a narcissistic personality, I want you to remember that you’re playing *their* carnival game. Unless you know how the game is rigged, you will come away with less than you had before. Less peace. Less patience. Less faith in humanity.
 
-How can you know you're falling into their trap? Here are some clues:
+How can you know you’re falling into their trap? Here are some clues:
 
-- **Rewritten history:** The conversation consistently shifts back to
-    them. They rewrite past events to make themselves look better or
-    justify their actions.
-- **One winner:** They elevate their own actions or accomplishments,
-    making them seem superior to anyone else's. Their achievements are
-    always framed as the best. They downplay or dismiss others'
-    successes.
-- **Never enough:** No matter how much praise or attention you give, it
-    never satisfies them. They continue to crave more, leaving you
-    feeling like you're always falling short.
-- **Emotional dismissal:** They dismiss your feelings as unimportant,
-    or they downplay your emotions, making it clear that only their
-    feelings truly matter.
-- **Conditional apologies:** On the rare occasion they apologize, it's
-    usually followed by a justification that absolves them of any real
-    accountability. The apology may feel hollow or deflective, as
-    though they're the victim.
+- **Rewritten history:** The conversation consistently shifts back to them. They rewrite past events to make themselves look better or justify their actions.
+- **One winner:** They elevate their own actions or accomplishments, making them seem superior to anyone else’s. Their achievements are always framed as the best. They downplay or dismiss others’ successes.
+- **Never enough:** No matter how much praise or attention you give, it never satisfies them. They continue to crave more, leaving you feeling like you’re always falling short.
+- **Emotional dismissal:** They dismiss your feelings as unimportant, or they downplay your emotions, making it clear that only *their* feelings truly matter.
+- **Conditional apologies:** On the rare occasion they apologize, it’s usually followed by a justification that absolves them of any real accountability. The apology may feel hollow or deflective, as though they’re the victim.
 
-Notice the similarity in each sign? Narcissists suffer from main
-character syndrome. No one else matters as much as they matter to
-themselves. The word *narcissist* comes from the classic Greek myth of
-Narcissus, a young man who fell in love with his own reflection. Their
-world revolves around one person.
+Notice the similarity in each sign? Narcissists suffer from main character syndrome. No one else matters as much as they matter to themselves. The word *narcissist* comes from the classic Greek myth of Narcissus, a young man who fell in love with his own reflection. Their world revolves around one person.
 
-Consequently, the goal of a narcissist is to praise or provoke. If
-you're not feeding their ego by giving them praise, they will start an
-argument to upset you. Why? Because narcissists delight in your
-frustration as much as they delight in your praise. They strive to
-influence and control your emotions- *regardless of which emotion.*
+Consequently, the goal of a narcissist is to praise or provoke. If you’re not feeding their ego by giving them praise, they will start an argument to upset you. Why? Because narcissists delight in your frustration as much as they delight in your praise. They strive to influence and control your emotions—regardless of which emotion.
 
-So no matter how well you explain yourself or how empathic of an
-approach you take, the narcissist will twist it back onto you for
-another round of "You never . . ." or "You always . . ." They may be
-saying *you* a lot, but it's always about them. When you hear that,
-imagine a carnival barker saying, "You right there, yes, you, step right
-up to win today's big prize."
+So no matter how well you explain yourself or how empathic of an approach you take, the narcissist will twist it back onto you for another round of “You never . . .” or “You always . . .” They may be saying *you* a lot, but it’s always about *them*. When you hear that, imagine a carnival barker saying, “You right there, yes, you, step right up to win today’s big prize.”
 
-Don't believe their lies. Their game is rigged. You can't win.
+Don’t believe their lies. Their game is rigged. You can’t win.
 
 So what can you do?
 
 #### Three Rules for Handling a Narcissist
 
-If you're reading this chapter, you've likely been dealing with a
-narcissist for some time. You may be at your wit's end. Or you may have
-given up and given in to their games. You're looking for a way to stand
-up for yourself, to make yourself heard by someone who isn't interested
-in hearing what you have to say. To try to find the normal human being
-on the other side of the conversation that you *know* has to be there
-somewhere. To unrig the game.
+If you’re reading this chapter, you’ve likely been dealing with a narcissist for some time. You may be at your wit’s end. Or you may have given up and given in to their games. You’re looking for a way to stand up for yourself, to make yourself heard by someone who isn’t interested in hearing what you have to say. To try to find the normal human being on the other side of the conversation that you *know* has to be there somewhere. To unrig the game.
+If you’re okay with the idea—and it doesn’t feel too weird—take a big breath and tell me how you’re doing. Say it out loud as though I’m in the room, or simply tell me in your head. What’s driving you to equip yourself with the tools to handle narcissistic personalities or behaviors? Is there a particular person in mind? Take a moment to detail it. Write it down if that helps. I won’t peek.
 
-If you're okay with the idea- and it doesn't feel too weird- take a
-big breath and tell me how you're doing. Say it out loud as though I'm
-in the room, or simply tell me in your head. What's driving you to equip
-yourself with the tools to handle narcissistic personalities or
-behaviors? Is there a particular person in mind? Take a moment to detail
-it. Write it down if that helps. I won't peek.
-
-By defining the scope of the problem, you're positioning yourself to get
-the most out of the techniques ahead. The same disclaimer in *The Next
-Conversation* stands: I'm not a psychologist or therapist. It's
-important to understand that narcissism is a personality disorder that
-goes well beyond someone simply acting self-centered. There are deeper
-writings on this topic by wonderful clinicians like Dr. Ramani Durvasula
-and Drs. John and Julie Gottman who address the deeper science of the
-disorder. This chapter is not a replacement but a supplement to those
-works. I'm sharing communication tools that work because I've seen them
-work. I want you prepared. I want you ready.
+By defining the scope of the problem, you’re positioning yourself to get the most out of the techniques ahead. The same disclaimer in *The Next Conversation* stands: I’m not a psychologist or therapist. It’s important to understand that narcissism is a personality disorder that goes well beyond someone simply acting self-centered. There are deeper writings on this topic by wonderful clinicians like Dr. Ramani Durvasula and Drs. John and Julie Gottman who address the deeper science of the disorder. This chapter is not a replacement but a supplement to those works. I’m sharing communication tools that work because I’ve seen them work. I want you prepared. I want you ready.
 
 ##### Rule #1: Stiff Arm
 
-A few months back, I ran into an old high school friend at my local
-grocery store. Spotting each other, we met in the middle of an aisle. We
-stood next to our carts and caught up on our lives. He told me that he
-and his wife (whom I also knew from high school) had recently separated.
-Despite the terrible things he'd told me about her behavior, he seemed
-almost totally unaffected.
+A few months back, I ran into an old high school friend at my local grocery store. Spotting each other, we met in the middle of an aisle. We stood next to our carts and caught up on our lives. He told me that he and his wife (whom I also knew from high school) had recently separated. Despite the terrible things he’d told me about her behavior, he seemed almost totally unaffected.
+“How are you keeping such a calm attitude about it in the midst of it all?” I asked, grabbing my kids’ favorite mac and cheese.
 
-"How are you keeping such a calm attitude about it in the midst of it
-all?" I asked, grabbing my kids' favorite mac and cheese.
+He grinned, shaking his head. “Hashtag unbothered, my man.”
 
-He grinned, shaking his head. "Hashtag unbothered, my man."
+“Say what?” I said, now smiling, with one eyebrow raised.
 
-"Say what?" I said, now smiling, with one eyebrow raised.
+“Hashtag unbothered. It’s what I tell myself anytime she starts up at me again and calling me names,” he told me. “I figure, every step away from her is a step toward me. So, the best thing, I’ve found, is to be unbothered.”
 
-"Hashtag unbothered. It's what I tell myself anytime she starts up at me
-again and calling me names," he told me. "I figure, every step away from
-her is a step toward me. So, the best thing, I've found, is to be
-unbothered."
+If you don’t want to get cut by a narcissist’s words, don’t put your energy within reach. Keep your words at an arms-length in the conversation. Become disinterested in what they have to say. Make your responses brief. Less opinion, more fact. Almost as if you’re commenting from outside of the situation. It’s not about proving anything or teaching them a lesson. It’s about keeping yourself hashtag unbothered.
 
-If you don't want to get cut by a narcissist's words, don't put your
-energy within reach. Keep your words at an arms-length in the
-conversation. Become disinterested in what they have to say. Make your
-responses brief. Less opinion, more fact. Almost as if you're commenting
-from outside of the situation. It's not about proving anything or
-teaching them a lesson. It's about keeping yourself hashtag unbothered.
-
-#### What to Say
+###### What to Say
 
 The key is to give short, neutral phrases. Here are some of my go-tos:
 
-- "Noted."
-- "That's good to know."
-- "I get it."
-- "I can see that."
+- “Noted.”
+- “That’s good to know.”
+- “I get it.”
+- “I can see that.”
 
-Mind you, you have to stay neutral no matter what flagrant thing they
-say. If you struggle to stay neutral, then go silent. Silence is one of
-your greatest tools because silence can never be misquoted. It's that
-golden rule of "If you can't say something nice, don't say anything at
-all." It's better to be quiet and accused of indifference than to say
-something more inflammatory and lose control altogether.
+Mind you, you have to stay neutral no matter what flagrant thing they say. If you struggle to stay neutral, then go silent. Silence is one of your greatest tools because silence can never be misquoted. It’s that golden rule of “If you can’t say something nice, don’t say anything at all.” It’s better to be quiet and accused of indifference than to say something more inflammatory and lose control altogether.
 
-As the temperature rises in conversation with a narcissist, becoming
-impersonal and disinterested is the stiff arm you need to have at the
-ready. When you choose to argue or confront them with phrases like "Why
-can't you just listen?" or "You always have to make this about you,"
-you're only hurting *yourself.* The resolution will always come back
-around to their grandiosity. The end of the fight will always turn to
-favor their arrogance. There is no path to making them understand you or
-forcing them to feel for you.
+As the temperature rises in conversation with a narcissist, becoming impersonal and disinterested is the stiff arm you need to have at the ready. When you choose to argue or confront them with phrases like “Why can’t you just listen?” or “You always have to make this about you,” you’re only hurting *yourself*. The resolution will always come back around to their grandiosity. The end of the fight will always turn to favor their arrogance. There is no path to making them understand you or forcing them to feel for you.
 
 Remember, the game is rigged.
 
 ##### Rule #2: Flip the Focus
 
-I once took a neurosurgeon's deposition that argued my client didn't need
-surgery despite MRIs and other surgeons' testimony to the contrary. This
-neurosurgeon wasn't my client's treating doctor. He had been retained
-(i.e., paid for) by the other side of the lawsuit. So from the outset,
-we were against each other.
+I once took a neurosurgeon’s deposition that argued my client didn’t need surgery despite MRIs and other surgeons’ testimony to the contrary. This neurosurgeon wasn’t my client’s treating doctor. He had been retained (i.e., paid for) by the other side of the lawsuit. So from the outset, we were against each other.
 
-I have many great relationships with physicians, and I highly respect
-their profession. This guy, though, had what you call a God complex. He
-dismissed every question with arrogance and redirected each topic with
-condescension. No matter the question, he responded with smugness and
-evasion. It got old real quick.
+I have many great relationships with physicians, and I highly respect their profession. This guy, though, had what you call a God complex. He dismissed every question with arrogance and redirected each topic with condescension. No matter the question, he responded with smugness and evasion. It got old real quick.
 
-Having deposed his type before, I knew arguing with him wasn't going to
-work. Instead, I decided to flip the focus of his answers from proving
-*me* wrong to proving the *jury* wrong.
+Having deposed his type before, I knew arguing with him wasn’t going to work. Instead, I decided to flip the focus of his answers from proving *me* wrong to proving the *jury* wrong.
 
-"You're here to tell the jury that my client's injury isn't serious?" I
-asked, framing the stakes for him right away.
+“You’re here to tell the jury that my client’s injury isn’t serious?” I asked, framing the stakes for him right away.
 
-He scoffed. "I don't think it's as serious as you're making it out to
-be."
+He scoffed. “I don’t think it’s as serious as you’re making it out to be.”
 
-I paused for five seconds, letting the room grow quiet before lowering
-my voice. "And you believe the jury will find that explanation
-acceptable?"
+I paused for five seconds, letting the room grow quiet before lowering my voice. “And you believe the jury will find that explanation acceptable?”
 
-Realizing that his reputation was now at stake, he quickly changed his
-tone. He cleared his throat and sat up straighter. "Um, well, let me-
-uh, let me clarify," he stammered, visibly softening his response. "I'm
-just articulating that while surgery might not be necessary, the injury
-does have certain serious elements to it."
+Realizing that his reputation was now at stake, he quickly changed his tone. He cleared his throat and sat up straighter. “Um, well, let me—uh, let me clarify,” he stammered, visibly softening his response. “I’m just articulating that while surgery might not be necessary, the injury does have certain serious elements to it.”
 
-"Serious elements?" I asked, maintaining the pressure.
+“Serious elements?” I asked, maintaining the pressure.
 
-He hesitated. "I, uh, yes, any subject of surgery can be- is,
-serious."
+He hesitated. “I, uh, yes, any subject of surgery can be—is, serious.”
 
-"Because this is a serious injury, isn't it?" I pressed.
+“Because this is a serious injury, isn’t it?” I pressed.
 
-"C-correct," he replied.
+“C-correct,” he replied.
 
-Instead of trying to win the argument with him head-on or prove myself
-right, I shifted the burden onto him to explain himself in a way that
-would pass in front of other people. He needed an audience whose opinion
-mattered more than mine. His ego desperately desired to win over the
-jury. And I knew this.
+Instead of trying to win the argument with him head-on or prove myself right, I shifted the burden onto him to explain himself in a way that would pass in front of other people. He needed an audience whose opinion mattered more than mine. His ego desperately desired to win over the jury. And I knew this.
 
-When you're one-on-one with a narcissist, avoid the immediate argument
-of proving them wrong by flipping their focus toward their reputation or
-their image to other people. Why? Because a narcissist cares more about
-their reputation than they care about you. How special they look to
-others will always come before how they're perceived by you.
+When you’re one-on-one with a narcissist, avoid the immediate argument of proving them wrong by flipping their focus toward their reputation or their image to other people. Why? Because a narcissist cares more about their reputation than they care about you. How special they look to others will always come before how they’re perceived by you.
 
-Here's what flipping the focus can sound like for you when a narcissist
-oversteps or makes a dismissive or inappropriate comment:
+Here’s what flipping the focus can sound like for you when a narcissist oversteps or makes a dismissive or inappropriate comment:
 
-- "If you think that's okay, that's your choice."
-- "If you think that's a good look for you, that's fine."
-- "And you're comfortable with other people seeing it that way?"
-- "And you think people will like that?"
+- “If you think that’s okay, that’s your choice.”
+- “If you think that’s a good look for you, that’s fine.”
+- “And you’re comfortable with other people seeing it that way?”
+- “And you think people will like that?”
 
-Flipping the focus works well anytime you're dealing with someone who
-thrives on dominance. They don't do empathy. They don't mind hurting
-you, but they will do anything to avoid even slightly hurting their
-reputation. By shifting their attention to how their actions or words
-might be perceived by others, you're speaking a language they care
-about. You're helping them achieve self-preservation in the eyes of
-others.
+Flipping the focus works well anytime you’re dealing with someone who thrives on dominance. They don’t do empathy. They don’t mind hurting you, but they will do anything to avoid even slightly hurting their reputation. By shifting their attention to how their actions or words might be perceived by others, you’re speaking a language they care about. You’re helping them achieve self-preservation in the eyes of others.
+This tactic is not about winning the argument. It’s about defusing their power over you by forcing them to reconsider their stance. Instead of being the target of their manipulations, you redirect the spotlight onto their own behavior, making them accountable to an external audience—even if it’s only a hypothetical one. Here’s an even subtler approach for moments when confrontation might escalate:
 
-This tactic is not about winning the argument. It's about defusing their
-power over you by forcing them to reconsider their stance. Instead of
-being the target of their manipulations, you redirect the spotlight onto
-their own behavior, making them accountable to an external audience-
-even if it's only a hypothetical one. Here's an even subtler approach
-for moments when confrontation might escalate:
+- “I’m curious how others might interpret that.”
+- “I wonder how others might perceive that.”
 
-- "I'm curious how others might interpret that."
-- "I wonder how others might perceive that."
+A narcissist’s image, whether real or fabricated, is their greatest asset. When you say, “If you think that’s a good look” or “I wonder how others might perceive that,” it forces them to confront how their actions might undermine their carefully curated facade. It’s no longer about you and them. It’s about them versus the judgment of others. And that’s where their vulnerability lies.
 
-A narcissist's image, whether real or fabricated, is their greatest
-asset. When you say, "If you think that's a good look" or "I wonder how
-others might perceive that," it forces them to confront how their
-actions might undermine their carefully curated facade. It's no longer
-about you and them. It's about them versus the judgment of others. And
-that's where their vulnerability lies.
+By keeping your tone neutral and unprovocative, you avoid inflaming the situation while still asserting control. Silence can also play a role here. Sometimes it’s enough to let their words hang in the air. Narcissists are often uncomfortable with prolonged silence, as it leaves too much room for others to judge their behavior.
 
-By keeping your tone neutral and unprovocative, you avoid inflaming the
-situation while still asserting control. Silence can also play a role
-here. Sometimes it's enough to let their words hang in the air.
-Narcissists are often uncomfortable with prolonged silence, as it leaves
-too much room for others to judge their behavior.
-
-The beauty of flipping the focus is that it doesn't require you to prove
-yourself or fight harder to be heard. Instead, you put the weight of the
-situation back on them, where it belongs.
+The beauty of flipping the focus is that it doesn’t require you to prove yourself or fight harder to be heard. Instead, you put the weight of the situation back on them, where it belongs.
 
 ##### Rule #3: Stop Pulling on Them and Start Pouring into You
 
-You don't need a story here because we've all been burned by this truth.
+You don’t need a story here because we’ve all been burned by this truth.
 
-Don't look to receive something the other person can't give. If you're
-looking for validation from a narcissist, whether it's respect, empathy,
-or even basic decency, you're going to be disappointed. People cannot
-give you what they cannot give to themselves. Someone who thrives on
-control and manipulation is not going to suddenly start offering
-understanding or care just because you need it.
+Don’t look to receive something the other person can’t give. If you’re looking for validation from a narcissist, whether it’s respect, empathy, or even basic decency, you’re going to be disappointed. People cannot give you what they cannot give to themselves. Someone who thrives on control and manipulation is not going to suddenly start offering understanding or care just because you need it.
 
-It's time for radical acceptance. That means accepting who they truly are
-and letting go of the fantasy that you can change them, fix them, or
-make them see the light. Let go of who you hoped they'd be. It's time to
-stop pulling on them and start pouring into you.
+It’s time for radical acceptance. That means accepting who they truly are and letting go of the fantasy that you can change them, fix them, or make them see the light. Let go of who you hoped they’d be. It’s time to stop pulling on them and start pouring into you.
 
-You're holding the pitcher of water, always giving and giving into
-everyone else's cup until there's nothing left. Instead, grab the
-pitcher and pour into your peace. Pour into your strength. You will find
-so much joy, so much clarity, in remembering who *you* are and
-reclaiming your energy.
+You’re holding the pitcher of water, always giving and giving into everyone else’s cup until there’s nothing left. Instead, grab the pitcher and pour into your peace. Pour into your strength. You will find so much joy, so much clarity, in remembering who *you* are and reclaiming your energy.
 
-To introduce you to this mindset, this one technique will help you pour
-your energy back into yourself rather than losing it to the rigged game.
+To introduce you to this mindset, this one technique will help you pour your energy back into yourself rather than losing it to the rigged game.
 
-#### The Power of Detachment
+###### The Power of Detachment
 
-Detaching from another person's outbursts and bad behavior is an
-incredible skill. I find that some people struggle with or dislike the
-idea of detaching because it suggests giving up and waving the white
-flag. But that's not it at all. Detachment isn't surrender. It's
-strategy. It's your hashtag unbothered. It's choosing not to let their
-chaos become your chaos.
+Detaching from another person’s outbursts and bad behavior is an incredible skill. I find that some people struggle with or dislike the idea of detaching because it suggests giving up and waving the white flag. But that’s not it at all. Detachment isn’t surrender. It’s strategy. It’s your hashtag unbothered. It’s choosing not to let their chaos become your chaos.
 
-You're detaching not from what they say but from what their words say
-about you. Here's how I like to think of it: If I tell you that your
-purple shirt looks ugly and you're wearing a green shirt, you won't take
-my comments personally. You'd hear what I said, but there would be no
-effect. Why? Because my words are clearly not true, and you know it.
-You're wearing a green shirt, not a purple shirt.
+You’re detaching not from what they say but from what their words say *about you*. Here’s how I like to think of it: If I tell you that your purple shirt looks ugly and you’re wearing a green shirt, you won’t take my comments personally. You’d hear what I said, but there would be no effect. Why? Because my words are clearly not true, and you know it. You’re wearing a green shirt, not a purple shirt.
 
-Detachment works the same way. If you know you're a good person, if you
-know you're not what they claim you are, if you know your "shirt is
-green," you make the conscious choice to dissociate the impact of their
-words from your sense of self. Their comment doesn't define you. It
-defines *them*.
+Detachment works the same way. If you know you’re a good person, if you know you’re not what they claim you are, if you know your “shirt is green,” you make the conscious choice to dissociate the impact of their words from your sense of self. Their comment doesn’t define *you*. It defines *them*.
 
-Detaching isn't about disengaging from the truth. It's about refusing to
-carry the weight of their falsehoods. You hear what they say, but you
-don't carry it with you. You protect your peace by recognizing the words
-for what they are: someone else's projections, not your reality.
+Detaching isn’t about disengaging from the truth. It’s about refusing to carry the weight of their falsehoods. You hear what they say, but you don’t carry it with you. You protect your peace by recognizing the words for what they are: someone else’s projections, not your reality.
 
-- Instead of taking it personally and asking, "How could you say that
-    to me?" ask, "How do you feel when you say that to me?"
-- Replace "That's so rude!" or "I can't believe you said that to me!"
-    with "What an odd thing to say out loud."
+- Instead of taking it personally and asking, “How could you say that to me?” ask, “How do *you* feel when you say that to me?”
+- Replace “That’s so rude!” or “I can’t believe you said that to me!” with “What an odd thing to say out loud.”
+See how you’re treating the situation from a distance? Detachment isn’t indifference. It’s the choice to see yourself past their lies. Every moment you spend pulling on a narcissist, trying to reason, explain, or argue, is energy wasted. Instead, pour back into yourself.
 
-See how you're treating the situation from a distance? Detachment isn't
-indifference. It's the choice to see yourself past their lies. Every
-moment you spend pulling on a narcissist, trying to reason, explain, or
-argue, is energy wasted. Instead, pour back into yourself.
+- **See a mental health professional:** Amazing things can happen when you choose to talk out loud in a safe space.
+- **Rediscover your passions:** Spend time doing what brings you joy, like hobbies, exercise, or spending time with supportive friends. When was the last time you did what *you* wanted to do?
+- **Set personal goals:** Whether it’s career growth, a fitness journey, or a creative project, focus on building something that adds to your life. Setting goals and grabbing for personal wins is healthy.
 
-- **See a mental health professional:** Amazing things can happen when
-    you choose to talk out loud in a safe space.
-- **Rediscover your passions:** Spend time doing what brings you joy,
-    like hobbies, exercise, or spending time with supportive friends.
-    When was the last time you did what you wanted to do?
-- **Set personal goals:** Whether it's career growth, a fitness
-    journey, or a creative project, focus on building something that
-    adds to your life. Setting goals and grabbing for personal wins is
-    healthy.
+Mind you, don’t confuse reinvesting energy into yourself with distraction. Don’t go around telling friends you signed up for a half-marathon and call that growth or healing. How do you know the difference between reinvesting in yourself and distracting yourself from your current problems? When reinvesting, you’re building something lasting, like a stronger mindset, a better version of yourself, or a foundation for future peace. Distraction, on the other hand, is temporary. It might make you feel better in the moment, but it doesn’t move you forward. The key is to ask yourself, “Am I avoiding the issue, or am I equipping myself to handle it better?”
 
-Mind you, don't confuse reinvesting energy into yourself with
-distraction. Don't go around telling friends you signed up for a
-half-marathon and call that growth or healing. How do you know the
-difference between reinvesting in yourself and distracting yourself from
-your current problems? When reinvesting, you're building something
-lasting, like a stronger mindset, a better version of yourself, or a
-foundation for future peace. Distraction, on the other hand, is
-temporary. It might make you feel better in the moment, but it doesn't
-move you forward. The key is to ask yourself, "Am I avoiding the issue,
-or am I equipping myself to handle it better?"
+The moment you begin to build your awareness in real time for what’s happening in conversation with a narcissist—when you realize you’re in the game—is the exact moment you’ll see how the tools above can be true lifesavers.
 
-The moment you begin to build your awareness in real time for what's
-happening in conversation with a narcissist- when you realize you're in
-the game- is the exact moment you'll see how the tools above can be
-true lifesavers.
-
-And to make sure you're even more prepared, I want to equip you to
-handle a toxic personality's favorite weapon: gaslighting.
+And to make sure you’re even more prepared, I want to equip you to handle a toxic personality’s favorite weapon: gaslighting.
 
 #### Who Turned on the Gaslighting?
 
-You may not know what gaslighting is, but you definitely know what it
-feels like. Gaslighting is a form of emotional manipulation where
-someone tries to make you doubt your own perceptions or memory. It's a
-common tactic used as part of manipulative and toxic behaviors.
-Gaslighting is not just someone lying to you. It's a calculated attempt
-to make you second-guess reality. A gaslighter's goal is to gain control
-by undermining your confidence in your own mind. Narcissists do it. And
-everyday normal people can do it too, even unintentionally.
+You may not know what gaslighting is, but you definitely know what it feels like. Gaslighting is a form of emotional manipulation where someone tries to make you doubt your own perceptions or memory. It’s a common tactic used as part of manipulative and toxic behaviors. Gaslighting is not just someone lying to you. It’s a calculated attempt to make you second-guess reality. A gaslighter’s goal is to gain control by undermining your confidence in your own mind. Narcissists do it. And everyday normal people can do it too, even unintentionally.
 
-Imagine that at the end of the night you tell someone, "I felt hurt by
-what you said at dinner." A gaslighter might reply in any of these ways:
+Imagine that at the end of the night you tell someone, “I felt hurt by what you said at dinner.” A gaslighter might reply in any of these ways:
 
-- "I never said that." Even though you clearly remember what they
-    said, the other person outright denies it.
-- "You honestly need help. No normal person would have taken it that
-    way." Now they're shifting the issue onto you, hinting that your
-    mental health is to blame.
-- "Look, you're imagining things. This is exactly why everyone talks
-    behind your back. I always try to defend you, but you're making it
-    difficult." Suddenly, you're left wondering if your friends are
-    truly your friends and whether you truly are imagining things.
+- “**I never said that.**” Even though you clearly remember what they said, the other person outright denies it.
+- “**You honestly need help. No normal person would have taken it that way.**” Now they’re shifting the issue onto you, hinting that your mental health is to blame.
+- “**Look, you’re imagining things. This is exactly why everyone talks behind your back. I always try to defend you, but you’re making it difficult.**” Suddenly, you’re left wondering if your friends are truly your friends and whether you truly are imagining things.
 
-By the end of the exchange, you're confused and doubting yourself. *Did I
-overreact? Did they really say that? Am I crazy?* The seed of doubt that
-gaslighters love to plant begins to grow. Gaslighting is often subtle,
-but over time, these kinds of tactics can make you question your
-feelings, your recollection of events, and even your sanity. Most
-significantly, it can wear down your trust in yourself.
+By the end of the exchange, you’re confused and doubting yourself. *Did I overreact? Did they really say that? Am I crazy?* The seed of doubt that gaslighters love to plant begins to grow. Gaslighting is often subtle, but over time, these kinds of tactics can make you question your feelings, your recollection of events, and even your sanity. Most significantly, it can wear down your trust in yourself.
 
-What's the difference between gaslighting and a simple white lie? A lie
-is a single act of deception aimed at making you doubt the truth.
-Gaslighting is a pattern aimed at making you doubt *everything*,
-including yourself. Another way to tell the difference is to look at the
-motive. One lie may be a one-time act to hide the truth (e.g., they
-didn't eat the last piece of cake when they did). One lie may also be
-part of a sustained strategy not only to deceive but also to disorient
-and control you over time.
+What’s the difference between gaslighting and a simple white lie? A lie is a single act of deception aimed at making you doubt the truth. Gaslighting is a pattern aimed at making you doubt *everything*, including yourself. Another way to tell the difference is to look at the motive. One lie may be a one-time act to hide the truth (e.g., they didn’t eat the last piece of cake when they did). One lie may also be part of a sustained strategy not only to deceive but also to disorient and control you over time.
 
-If this sounds familiar, the first step is recognizing it for what it is.
-Gaslighting isn't about you. It's about the gaslighter's need for control
-over you or the situation in order to protect themselves. Some people do
-it for manipulation. Others do it because they want to shield themselves
-from accountability. The examples are endless. The next step is learning
-how to respond in a way that protects your peace and keeps you grounded.
+If this sounds familiar, the first step is recognizing it for what it is. Gaslighting isn’t about you. It’s about the gaslighter’s need for control over you or the situation in order to protect themselves. Some people do it for manipulation. Others do it because they want to shield themselves from accountability. The examples are endless. The next step is learning how to respond in a way that protects your peace and keeps you grounded.
 
 #### How to Respond to Gaslighting
 
-##### 1. Use neutral, repetitive phrases
+1. **Use neutral, repetitive phrases.**
+    - When they say, “You’re being crazy right now,” avoid defending yourself with, “How am I crazy?” Instead, calmly say:
+        - “I understand you disagree with me.”
+        - If they argue, simply repeat as needed, “I understand you disagree.”
+    - If they deny your reality by saying, “I never said that,” avoid arguing back and forth. Instead, respond with:
+        - “That’s what I heard.” This response puts you in a stronger position than falling into the *yes you did, no I didn’t* that leads nowhere.
+    - If they claim, “You’re imagining things,” assertively respond:
+        - “I do not imagine facts.”
 
-- When they say, "You're being crazy right now," avoid defending yourself with, "How am I crazy?" Instead, calmly say:
-  - "I understand you disagree with me."
-  - If they argue, simply repeat as needed, "I understand you disagree."
+2. **Trust your gut.**
+    Think of gaslighting as if someone is digging a big hole. If your gut tells you that you know something isn’t adding up, resist the urge to fill the hole back up. The more they can have you distracted by digging holes in your story, the less in control you’ll be. Instead, trust what you know to be true and put down the shovel.
+    - Use phrases like:
+        - “We remember things differently.” This is incredibly powerful and grounding to say.
+        - “That wasn’t my experience.”
+    See how these phrases keep control in your hands? Repeat them calmly to assert your truth without the exhausting back-and-forth.
 
-- If they deny your reality by saying, "I never said that," avoid arguing back and forth. Instead, respond with:
-  - "That's what I heard."
+3. **Shift the focus from the past to the future.**
+    Gaslighters often manipulate by rehashing the past to confuse the present. A key giveaway is when they try to retell the whole situation and storyline as if you weren’t physically there to see it. Refuse to play along. Instead, redirect the conversation:
+    - “I have no interest in debating the past. My only interest is agreeing on the future.”
+    - If they attack your mental health with comments like “You need help,” respond calmly with “And I need someone who is helpful.” Here, the focus is not on the past but what you need in the future.
 
-This response puts you in a stronger position than falling into the *yes you did, no I didn't* that leads nowhere.
-
-- If they claim, "You're imagining things," assertively respond:
-  - "I do not imagine facts."
-
-##### 2. Trust your gut
-
-Think of gaslighting as if someone is digging a big hole. If your gut tells you that you know something isn't adding up, resist the urge to fill the hole back up. The more they can have you distracted by digging holes in your story, the less in control you'll be. Instead, trust what you know to be true and put down the shovel.
-
-- Use phrases like:
-  - "We remember things differently."
-
-This is incredibly powerful and grounding to say.
-
-- "That wasn't my experience."
-
-See how these phrases keep control in your hands?
-
-Repeat them calmly to assert your truth without the exhausting back-and-forth.
-
-##### 3. Shift the focus from the past to the future
-
-Gaslighters often manipulate by rehashing the past to confuse the
-present. A key giveaway is when they try to retell the whole situation
-and storyline as if you weren't physically there to see it. Refuse to
-play along. Instead, redirect the conversation:
-
-- "I have no interest in debating the past. My only interest is
-    agreeing on the future."
-- If they attack your mental health with comments like "You need
-    help," respond calmly with "And I need someone who is helpful."
-    Here, the focus is not on the past but what you need in the future.
-
-These responses shift the power dynamic and keep the focus on moving
-forward. Your true power lives there, where your own truth moves in a
-way that doesn't chase their narrative but grounds itself in your
-well-being.
+These responses shift the power dynamic and keep the focus on moving forward. Your true power lives there, where your own truth moves in a way that doesn’t chase their narrative but grounds itself in your well-being.
 
 Narcissists. Manipulators. Toxic personalities. Gaslighters.
-
 Sigh.
-
-It can be a dark world if you don't know where to look for the light.
-Find your favorite tool from this chapter and use it. Really use it.
-Find your own hashtag unbothered to keep you out of the rigged carnival
-game and tied to your own self-worth. And most of all, don't be afraid
-to walk away and begin again.
+It can be a dark world if you don’t know where to look for the light. Find your favorite tool from this chapter and use it. Really use it. Find your own hashtag unbothered to keep you out of the rigged carnival game and tied to your own self-worth. And most of all, don’t be afraid to walk away and begin again.
 
 #### Chapter Summary
 
-- Narcissists play a rigged carnival game. It looks beatable, but
-    it's not. By practicing the power of detachment, you'll stop
-    pulling on them and start pouring into yourself. That's where you
-    truly win.
-- Gaslighting is about control, not truth. It's a sustained pattern
-    of manipulation designed to make you question your perception and
-    even your sense of self. Recognizing it for what it is- a tactic
-    to disorient and control- helps you protect your emotional
-    well-being.
-- Clarity comes when you refuse to engage them and begin to trust
-    you. Stop wasting energy debating the past or chasing their version
-    of the events. Use phrases like "I see things differently" as
-    grounding tactics that keep you clearheaded and above the chaos
-    they try to create.
+- Narcissists play a rigged carnival game. It looks beatable, but it’s not. By practicing the power of detachment, you’ll stop pulling on them and start pouring into yourself. That’s where you truly win.
+- Gaslighting is about control, not truth. It’s a sustained pattern of manipulation designed to make you question your perception and even your sense of self. Recognizing it for what it is—a tactic to disorient and control—helps you protect your emotional well-being.
+- Clarity comes when you refuse to engage them and begin to trust you. Stop wasting energy debating the past or chasing their version of the events. Use phrases like “I see things differently” as grounding tactics that keep you clearheaded and above the chaos they try to create.
+
+---
 
 ## Afterword
 
-Walking up the cold granite steps leading to the old Texas courthouse, I
-turned down the long hallway and pushed open the large wooden swinging
-doors into the courtroom. As I entered, I paused slightly to run through
-a mental checklist as I scanned the room. There, behind the bench, was
-the judge, loudly telling a story to the bailiff and court reporter.
-*Good.* Off to the side of the room stood my three opposing attorneys,
-whispering to each other. *Good.* Behind my counsel table with my notes
-and files was my client's chair. It was empty. *Not good.* My head
-swiveled. Where was my client? I called out to the judge and asked if I
-could have five minutes before we began. Catching his eye as he nodded,
-I pushed open the swinging doors again. All that could be heard was the
-echo of my dress shoes click-clacking on the hard marble floor through
-the halls as I began my search. My client's name was Clemon Lee. And
-Clemon Lee didn't have a cell phone. A sixty-one-year-old elementary
-school janitor, his life was a routine that did not welcome change. His
-house phone suited him just fine. I rang the number. Nothing. I started
-to feel frantic. Finally, as I rounded my third set of hallways, I saw
-him, sitting on a bench at the far end of the hall. I slowed my walk and
-spoke out to him, smiling. "Mr. Lee? We doing okay?" He didn't respond.
-With his legs crossed and arms folded, he held his gaze downward. He
-wore an old tan suit with a maroon tie. His white shirt was more yellow.
-I knew from prior conversations with him that this was his church suit.
-And it was the only suit he owned. I repeated as I began to sit down
-next to him, "How are we doing?" We were now shoulder-to-shoulder. After
-a moment, he softly said, "They ain't gonna like me." "What do you
-mean?" I asked. "I don't talk good. They're gonna put words in my mouth.
-I ain't meant for this," he said. He looked understandably worried. It's
-normal to be nervous in a courtroom. Twelve jurors watch your every
-move, a judge in a black robe looks down at you, and an attorney paid by
-the other side sits eager to cross-examine your credibility. "Look at my
-eyes, Clemon. Do I look nervous?" I asked. He slowly shook his head no.
-"Have you done anything wrong?" Again, he shook his head no. And he
-hadn't. The other driver had hit him. The liability was undisputed.
-Still, the truth of the facts and the self-consciousness of the mind are
-two very different things. "Then okay," I said. "Let's go over it
-again." We went over his quick-scan steps to use before going on the
-stand or when he needed a break to keep his emotions in check. We did a
-practice round of using conversational breaths to calm his mind before
-giving an answer into the witness stand microphone. What he needed most
-of all was to feel confident. Assurance that who the jury would see
-would be someone not trying to be anyone other than who they were. We
-had come up with some short phrases in the months leading up to trial to
-prepare him for this very moment. "When you're up on the stand, who will
-you be?" I quizzed him, starting to stand up. "Only be Clemon Lee," he
-answered as he uncrossed his arms and stood up beside me. I smiled.
-"That's right. And if the other attorney tries to disagree with you,
-what does that give you the chance to do?" "Teach them," he replied as
-we started walking back toward the courtroom. "Exactly," I replied. "And
-when you're not sure how to respond, what will you say first?" With a
-wide grin, he responded just as we had rehearsed, "My breath." "Better?"
-I asked. He replied confidently, "Yep, I got this." Putting my hand on
-his shoulder, I pushed open the wooden swinging doors into the courtroom
-one more time.
+Walking up the cold granite steps leading to the old Texas courthouse, I turned down the long hallway and pushed open the large wooden swinging doors into the courtroom. As I entered, I paused slightly to run through a mental checklist as I scanned the room.
 
-Here's the part where I have to let you go through your own door. Like
-Clemon Lee said, you got this. You really do. Over the course of this
-book, you haven't just learned what to say. You've learned how to say
-it. You've learned different ways to see the communication happening
-around you. That means you're going to start hearing things differently
-than you did before. You're going to read others' texts and emails and
-notice the words, phrases, and fillers that clutter their message.
-You're going to be more intentional and clear-minded with your words.
-You'll also find yourself feeling a greater sense of calm and strength
-the next time an argument appears. That isn't by happenstance. You've
-set it there with method and practice, applying the lessons from these
-twelve chapters. By using a function that shows you how to say it with
-*control*, say it with *confidence*, and say it to *connect*, you now
-have a set of tools and strategies that can help you encounter any
-conflict. I'll end with how we began. Who do your words say you are? My
-prayer for you is that you let what you say and how you say it become
-your family's inheritance. A legacy of who you want to be and how you
-want to be remembered. A new life. A new you. Go make your next
-conversation the one that changes everything.
+There, behind the bench, was the judge, loudly telling a story to the bailiff and court reporter. Good. Off to the side of the room stood my three opposing attorneys, whispering to each other. Good. Behind my counsel table with my notes and files was my client’s chair.
 
+It was empty. Not good.
+
+My head swiveled. Where was my client? I called out to the judge and asked if I could have five minutes before we began. Catching his eye as he nodded, I pushed open the swinging doors again. All that could be heard was the echo of my dress shoes click-clacking on the hard marble floor through the halls as I began my search.
+
+My client’s name was Clemon Lee. And Clemon Lee didn’t have a cell phone. A sixty-one-year-old elementary school janitor, his life was a routine that did not welcome change. His house phone suited him just fine. I rang the number. Nothing. I started to feel frantic.
+
+Finally, as I rounded my third set of hallways, I saw him, sitting on a bench at the far end of the hall. I slowed my walk and spoke out to him, smiling.
+
+“Mr. Lee? We doing okay?” He didn’t respond.
+
+With his legs crossed and arms folded, he held his gaze downward. He wore an old tan suit with a maroon tie. His white shirt was more yellow. I knew from prior conversations with him that this was his church suit. And it was the only suit he owned.
+
+- I repeated as I began to sit down next to him, “How are we doing?” We were now shoulder-to-shoulder.
+- After a moment, he softly said, “They ain’t gonna like me.”
+- “What do you mean?” I asked.
+- “I don’t talk good. They’re gonna put words in my mouth. I ain’t meant for this,” he said. He looked understandably worried.
+- It’s normal to be nervous in a courtroom. Twelve jurors watch your every move, a judge in a black robe looks down at you, and an attorney paid by the other side sits eager to cross-examine your credibility.
+- “Look at my eyes, Clemon. Do I look nervous?” I asked. He slowly shook his head no.
+“Have you done anything wrong?” Again, he shook his head no.
+
+And he hadn’t. The other driver had hit him. The liability was undisputed. Still, the truth of the facts and the self-consciousness of the mind are two very different things.
+
+“Then okay,” I said. “Let’s go over it again.”
+
+We went over his quick-scan steps to use before going on the stand or when he needed a break to keep his emotions in check. We did a practice round of using conversational breaths to calm his mind before giving an answer into the witness stand microphone. What he needed most of all was to feel confident. Assurance that who the jury would see would be someone not trying to be anyone other than who they were.
+
+We had come up with some short phrases in the months leading up to trial to prepare him for this very moment.
+
+- “When you’re up on the stand, who will you be?” I quizzed him, starting to stand up.
+- “Only be Clemon Lee,” he answered as he uncrossed his arms and stood up beside me.
+- I smiled. “That’s right. And if the other attorney tries to disagree with you, what does that give you the chance to do?”
+- “Teach them,” he replied as we started walking back toward the courtroom.
+- “Exactly,” I replied. “And when you’re not sure how to respond, what will you say first?”
+- With a wide grin, he responded just as we had rehearsed, “My breath.”
+- “Better?” I asked.
+- He replied confidently, “Yep, I got this.”
+
+Putting my hand on his shoulder, I pushed open the wooden swinging doors into the courtroom one more time.
+
+Here’s the part where I have to let you go through your own door.
+
+Like Clemon Lee said, you got this.
+
+You really do.
+
+Over the course of this book, you haven’t just learned *what* to say. You’ve learned *how* to say it. You’ve learned different ways to see the communication happening around you. That means you’re going to start hearing things differently than you did before. You’re going to read others’ texts and emails and notice the words, phrases, and fillers that clutter their message. You’re going to be more intentional and clear-minded with your words.
+
+You’ll also find yourself feeling a greater sense of calm and strength the next time an argument appears. That isn’t by happenstance. You’ve set it there with method and practice, applying the lessons from these twelve chapters. By using a function that shows you how to *say it with control, say it with confidence, and say it to connect*, you now have a set of tools and strategies that can help you encounter any conflict.
+
+I’ll end with how we began. Who do your words say you are? My prayer for you is that you let what you say and how you say it become your family’s inheritance. A legacy of who you want to be and how you want to be remembered. A new life. A new you.
+
+Go make your next conversation the one that changes everything.
+
+---
 
 ## The 47-Second Version
 
-In the spirit of how I got here, if I had to condense these pages to a
-forty-seven-second video to post on social media for you, it would sound
-something like this:
+In the spirit of how I got here, if I had to condense these pages to a forty-seven-second video to post on social media for you, it would sound something like this:
 
-Number one: Never win an argument, or you'll lose a lot more than you
-gain. When you regulate your reactions before responding, you keep a
-clear head and a calm mind.
+**Number one:** Never win an argument, or you’ll lose a lot more than you gain. When you regulate your reactions before responding, you keep a clear head and a calm mind.
 
-Number two: Confidence isn't an act, it's an outcome. Use words and
-short phrases that assert your needs and protect your values without
-fear of disappointment. When you embrace your assertive voice, you make
-a pathway for more positive change in your life.
+**Number two:** Confidence isn’t an act, it’s an outcome. Use words and short phrases that assert your needs and protect your values without fear of disappointment. When you embrace your assertive voice, you make a pathway for more positive change in your life.
 
-Number three: Don't worry yourself over how to change an entire
-relationship. Focus on changing the next conversation. When you frame a
-conversation as something to learn, rather than something to prove, you
-take out the difficulty in building connection. So try that and follow
-me.
+**Number three:** Don’t worry yourself over how to change an entire relationship. Focus on changing the next conversation. When you frame a conversation as something to learn, rather than something to prove, you take out the difficulty in building connection.
+
+So try that and follow me.
+
+---
 
 ## The Next Steps
 
-I can't thank you enough for reading my book. If you follow me on social
-media and you're here-hi again, it's still me. Thank you for asking
-for this book. Thank you for believing in my work and this message for a
-better world. So you're ready for your next conversation. What about the
-next steps? I want you to go to:
+I can’t thank you enough for reading my book. If you follow me on social media and you’re here—hi again, it’s still me. Thank you for asking for this book. Thank you for believing in my work and this message for a better world.
 
-thenextconversation.com/newsletter
+So you’re ready for your next conversation. What about the next steps?
+I want you to go to:
+[thenextconversation.com/newsletter](http://thenextconversation.com/newsletter)
 
-If you enjoyed *The Next Conversation*, my stories and takeaways, then
-you'll like my free newsletter, in which I share one easy, practical
-communication tip to jump-start your week. You'll also be the first to
-know about any new projects and writings, and you'll gain early access
-to any events where I'll be speaking. If you're looking for a next step,
-this is the first one to take. And if you'd like to take two steps,
-you're always welcome in my online community. There you'll find a
-searchable library of my content filled with on-demand videos,
-downloadable scripts, and live classes. Go to:
+If you enjoyed *The Next Conversation*, my stories and takeaways, then you’ll like my free newsletter, in which I share one easy, practical communication tip to jump-start your week. You’ll also be the first to know about any new projects and writings, and you’ll gain early access to any events where I’ll be speaking. If you’re looking for a next step, this is the first one to take.
 
-thenextconversation.com/member
+And if you’d like to take two steps, you’re always welcome in my online community. There you’ll find a searchable library of my content filled with on-demand videos, downloadable scripts, and live classes. Go to:
+[thenextconversation.com/member](http://thenextconversation.com/member)
 
+---
 
 ## Acknowledgments
 
-So much wouldn't exist without Sierra. You haven't met her yet, but
-she's there. Behind every page you've now read, every video and speaking
-engagement, there's been a sacrifice by my wife to do more than her
-share of parenting our two young children. She'd say it's nothing. I
-know it isn't. Any parent knows it isn't. Sierra is also an attorney and
-has a successful career of her own. Still, she somehow does it all. And
-if she hadn't taken it on so that I could share this message, none of
-this would be here, let alone this book. I consider myself a nice, solid
-Windows 98--quality product, but a little slower on the output. Sierra
-is the latest Apple MacBook Pro with a blazing processor chip. She
-thinks ten times my speed. Do we argue? Absolutely. Do we have the same
-communication struggles as any other couple? You bet. And for the past
-decade, believe me, I'm better for it. She's shaped me as much as
-anyone. When I first started posting the videos, we agreed to keep her
-and the kids out of social media. She may be in the background, but
-Sierra is my first sounding board and support. Just know that whatever I
-am, she's better. I also want to acknowledge my parents, David and
-Sherlyn, not only for how they raised me but also for who they are and
-the light they bring to the people lucky enough to know them. Thank you,
-God, for your goodness and hearing my parents' prayer for wisdom and
-discernment over my life. Let the words of this book lead people to see
-more of You and less of me. I'm thankful for the support of my family
-and friends. To my siblings for making me feel like I walked on the moon
-and still calling me Bubba. I'm grateful for my best friend, Matt, who
-kept me steady when I felt overwhelmed during these big life changes.
-For my mother-in-law, Sunee, whose one-on-one talks never ended without
-imparting a lesson. And for my Fisher Firm family, especially Liz, whose
-support and patience have meant the world to me. I also want to
-acknowledge and show gratitude for my Civility team who, without
-hesitation, jumped in headfirst to help me bring this business and
-mission to life. I'm indebted to their support, enthusiasm, and
-confidence. When my followers first began asking for a book, I had no
-idea where to start. Thankfully, God placed some wonderful people in my
-path to help me bring this message to you. Tess Callero, my literary
-agent, who's been nothing short of wonderful while showing me the ropes
-of traditional publishing. She has passion and intellect in spades. If
-you've ever doubted the power of a cold email, this book is living
-proof. Jacob Surpin, my editor at TarcherPerigee, and Pippa Wright, my
-UK editor, for trusting and encouraging me to keep my writing authentic
-to my voice. Thank you to the entire team at Penguin Random House,
-including Lota Erinne, Lindsay Gordon, Farin Schlussel, Neda Dallal,
-Katie Macleod-English, Casey Maloney, Lillian Ball, and Viviana Moreno,
-and to Megan Newman, Tracy Behar, and Marian Lizzi for being my
-champions for this book since day one. Blake Atwood, my book coach, who
-drove down to spend a week with me, came to my home and had dinner with
-my family, to make sure that readers would hear my heart in the
-structure of the pages. When I rolled up my sleeves, he rolled up his.
-To Janis Ozolins, who breathed life and character into each chapter's
-themes with his brilliant illustrations. To Pete Garceau, for the
-awesome design on the cover of this book. And finally, to Jett and Ruby.
-One day, when you read this book for the first time, I want you to know
-that nothing in the world compares to the joy of being your dad. I love
-you.
+So much wouldn’t exist without Sierra.
+
+You haven’t met her yet, but she’s there. Behind every page you’ve now read, every video and speaking engagement, there’s been a sacrifice by my wife to do more than her share of parenting our two young children. She’d say it’s nothing. I know it isn’t. Any parent knows it isn’t. Sierra is also an attorney and has a successful career of her own. Still, she somehow does it all. And if she hadn’t taken it on so that I could share this message, none of this would be here, let alone this book.
+
+I consider myself a nice, solid Windows 98–quality product, but a little slower on the output. Sierra is the latest Apple MacBook Pro with a blazing processor chip. She thinks ten times my speed. Do we argue? Absolutely. Do we have the same communication struggles as any other couple? You bet. And for the past decade, believe me, I’m better for it. She’s shaped me as much as anyone. When I first started posting the videos, we agreed to keep her and the kids out of social media. She may be in the background, but Sierra is my first sounding board and support.
+
+Just know that whatever I am, she’s better.
+
+I also want to acknowledge my parents, David and Sherlyn, not only for how they raised me but also for who they are and the light they bring to the people lucky enough to know them. Thank you, God, for your goodness and hearing my parents’ prayer for wisdom and discernment over my life. Let the words of this book lead people to see more of You and less of me.
+
+I’m thankful for the support of my family and friends. To my siblings for making me feel like I walked on the moon and still calling me Bubba. I’m grateful for my best friend, Matt, who kept me steady when I felt overwhelmed during these big life changes. For my mother-in-law, Sunee, whose one-on-one talks never ended without imparting a lesson. And for my Fisher Firm family, especially Liz, whose support and patience have meant the world to me.
+
+I also want to acknowledge and show gratitude for my Civility team who, without hesitation, jumped in headfirst to help me bring this business and mission to life. I’m indebted to their support, enthusiasm, and confidence.
+
+When my followers first began asking for a book, I had no idea where to start. Thankfully, God placed some wonderful people in my path to help me bring this message to you.
+
+Tess Callero, my literary agent, who’s been nothing short of wonderful while showing me the ropes of traditional publishing. She has passion and intellect in spades. If you’ve ever doubted the power of a cold email, this book is living proof.
+
+Jacob Surpin, my editor at TarcherPerigee, and Pippa Wright, my UK editor, for trusting and encouraging me to keep my writing authentic to my voice. Thank you to the entire team at Penguin Random House, including Lota Erinne, Lindsay Gordon, Farin Schlussel, Neda Dallal, Katie Macleod-English, Casey Maloney, Lillian Ball, and Viviana Moreno, and to Megan Newman, Tracy Behar, and Marian Lizzi for being my champions for this book since day one.
+
+Blake Atwood, my book coach, who drove down to spend a week with me, came to my home and had dinner with my family, to make sure that readers would hear my heart in the structure of the pages. When I rolled up my sleeves, he rolled up his.
+
+To Janis Ozolins, who breathed life and character into each chapter’s themes with his brilliant illustrations.
+
+To Pete Garceau, for the awesome design on the cover of this book.
+
+And finally, to Jett and Ruby.
+One day, when you read this book for the first time, I want you to know that nothing in the world compares to the joy of being your dad. I love you.
+
+---
 
 ## Notes
 
 ### Chapter 4: Control Yourself
 
-scan Grace's body: Laurie K. McCorry, "Physiology of the Autonomic
-Nervous System," *American Journal of Pharmaceutical Education* 71, no.
-4 (2007): 78. [GO TO NOTE REFERENCE IN TEXT](#rule-1-say-it-with-control)
+scan Grace’s body: Laurie K. McCorry, “Physiology of the Autonomic Nervous System,” *American Journal of Pharmaceutical Education* 71, no. 4 (2007): 78.
+[GO TO NOTE REFERENCE IN TEXT](#chapter-4-control-yourself)
 
-putting her into fight-or-flight mode: "Understanding the Stress
-Response," Harvard Health Publishing, April 3, 2024,
-<https://www.health.harvard.edu/staying-healthy/understanding-the-stress-response>.
-[GO TO NOTE REFERENCE IN TEXT](#rule-1-say-it-with-control)
+putting her into fight-or-flight mode: “Understanding the Stress Response,” Harvard Health Publishing, April 3, 2024, <https://www.health.harvard.edu/staying-healthy/understanding-the-stress-response>.
+[GO TO NOTE REFERENCE IN TEXT](#chapter-4-control-yourself)
 
-area of the brain used for higher-order thinking: Amy F. T. Arnsten,
-"Stress Signalling Pathways That Impair Prefrontal Cortex Structure and
-Function," *Nature Reviews Neuroscience* 10, no. 6 (2009): 410--22,
-<https://doi.org/10.1038/nrn2648>. [GO TO NOTE REFERENCE IN TEXT](#rule-1-say-it-with-control)
+area of the brain used for higher-order thinking: Amy F. T. Arnsten, “Stress Signalling Pathways That Impair Prefrontal Cortex Structure and Function,” *Nature Reviews Neuroscience* 10, no. 6 (2009): 410–22, <https://doi.org/10.1038/nrn2648>.
+[GO TO NOTE REFERENCE IN TEXT](#chapter-4-control-yourself)
 
-strong, negative reaction in you: The discussion of triggers in this
-chapter does not refer to the more clinical definition of "trauma
-triggers," which specifically refers to something that evokes or recalls
-a past trauma through sight, sound, or other stimuli. It instead
-addresses the more general term used in communication to describe words
-that provoke a strong emotional response, often leading to escalation or
-intense reactions. [GO TO NOTE REFERENCE IN TEXT](#meet-your-triggers)
+strong, negative reaction in you: The discussion of triggers in this chapter does not refer to the more clinical definition of “trauma triggers,” which specifically refers to something that evokes or recalls a past trauma through sight, sound, or other stimuli. It instead addresses the more general term used in communication to describe words that provoke a strong emotional response, often leading to escalation or intense reactions.
+[GO TO NOTE REFERENCE IN TEXT](#chapter-4-control-yourself)
 
-personality and childhood: For an in-depth discussion on the stress
-triggers of children and parenting strategies, I recommend clinical
-psychologist Dr. Becky Kennedy's book, *Good Inside*. [GO TO NOTE
-REFERENCE IN TEXT](#meet-your-triggers)
+personality and childhood: For an in-depth discussion on the stress triggers of children and parenting strategies, I recommend clinical psychologist Dr. Becky Kennedy’s book, *Good Inside*.
+[GO TO NOTE REFERENCE IN TEXT](#chapter-4-control-yourself)
 
-potential dangers to your physical well-being: Brianna Chu et al.,
-"Physiology, Stress Reaction," StatPearls, May 7, 2024,
-<https://pubmed.ncbi.nlm.nih.gov/31082164>. [GO TO NOTE REFERENCE IN TEXT](#1-physical-triggers-physical-triggers)
+potential dangers to your physical well-being: Brianna Chu et al., “Physiology, Stress Reaction,” StatPearls, May 7, 2024, <https://pubmed.ncbi.nlm.nih.gov/31082164>.
+[GO TO NOTE REFERENCE IN TEXT](#chapter-4-control-yourself)
 
-you care about what others think: Maayan Katzir and Tal Eyal, "When
-Stepping Outside the Self Is Not Enough: A Self-Distanced Perspective
-Reduces the Experience of Basic but Not of Self-Conscious Emotions,"
-*Journal of Experimental Social Psychology* 49, no. 6 (2013): 1089--92,
-<https://doi.org/10.1016/j.jesp.2013.07.006>; Jessica L. Tracy and
-Richard W. Robins, "Putting the Self into Self-Conscious Emotions: A
-Theoretical Model," *Psychological Inquiry* 15, no. 2 (2004): 103--25,
-<https://doi.org/10.1207/s15327965pli1502_01>. [GO TO NOTE REFERENCE IN TEXT](#2-psychological-triggers-psychological-triggers)
+you care about what others think: Maayan Katzir and Tal Eyal, “When Stepping Outside the Self Is Not Enough: A Self-Distanced Perspective Reduces the Experience of Basic but Not of Self-Conscious Emotions,” *Journal of Experimental Social Psychology* 49, no. 6 (2013): 1089–92, <https://doi.org/10.1016/j.jesp.2013.07.006>; Jessica L. Tracy and Richard W. Robins, “Putting the Self into Self-Conscious Emotions: A Theoretical Model,” *Psychological Inquiry* 15, no. 2 (2004): 103–25, <https://doi.org/10.1207/s15327965pli1502_01>.
+[GO TO NOTE REFERENCE IN TEXT](#chapter-4-control-yourself)
 
-personal identity is about how you perceive yourself: Chu-Hsiang (Daisy)
-Chang et al., "Core Self-Evaluations: A Review and Evaluation of the
-Literature," *Journal of Management* 38, no. 1 (2011): 81--128,
-<https://doi.org/10.1177/0149206311419661>. [GO TO NOTE REFERENCE IN TEXT](#2-psychological-triggers-psychological-triggers)
+personal identity is about how you perceive yourself: Chu-Hsiang (Daisy) Chang et al., “Core Self-Evaluations: A Review and Evaluation of the Literature,” *Journal of Management* 38, no. 1 (2011): 81–128, <https://doi.org/10.1177/0149206311419661>.
+[GO TO NOTE REFERENCE IN TEXT](#chapter-4-control-yourself)
 
-competence, autonomy, purpose, or values: Richard M. Ryan and Maarten
-Vansteenkiste, "Self-Determination Theory: Metatheory, Methods, and
-Meaning," in *The Oxford Handbook of Self-Determination Theory*, ed.
-Richard M. Ryan (Oxford University Press, 2023), 3--30; Jon L. Pierce
-and Donald G. Gardner, "Self-Esteem Within the Work and Organizational
-Context: A Review of the Organization-Based Self-Esteem Literature,"
-*Journal of Management* 30, no. 5 (2004): 591--622,
-<https://doi.org/10.1016/j.jm.2003.10.001>; Steven Hitlin, "Values as
-the Core of Personal Identity: Drawing Links Between Two Theories of
-Self," *Social Psychology Quarterly* 66, no. 2 (2003): 118--37,
-<https://doi.org/10.2307/1519843>. [GO TO NOTE REFERENCE IN TEXT](#2-psychological-triggers-psychological-triggers)
+competence, autonomy, purpose, or values: Richard M. Ryan and Maarten Vansteenkiste, “Self-Determination Theory: Metatheory, Methods, and Meaning,” in *The Oxford Handbook of Self-Determination Theory*, ed. Richard M. Ryan (Oxford University Press, 2023), 3–30; Jon L. Pierce and Donald G. Gardner, “Self-Esteem Within the Work and Organizational Context: A Review of the Organization-Based Self-Esteem Literature,” *Journal of Management* 30, no. 5 (2004): 591–622, <https://doi.org/10.1016/j.jm.2003.10.001>; Steven Hitlin, “Values as the Core of Personal Identity: Drawing Links Between Two Theories of Self,” *Social Psychology Quarterly* 66, no. 2 (2003): 118–37, <https://doi.org/10.2307/1519843>.
+[GO TO NOTE REFERENCE IN TEXT](#chapter-4-control-yourself)
 
-Loss is the fear of losing: John H. Harvey and Eric D. Miller, "Toward a
-Psychology of Loss," *Psychological Science* 9, no. 6 (1998): 429--34,
-<https://doi.org/10.1111/1467-9280.00081>. [GO TO NOTE REFERENCE IN TEXT](#2-psychological-triggers-psychological-triggers)
+Loss is the fear of losing: John H. Harvey and Eric D. Miller, “Toward a Psychology of Loss,” *Psychological Science* 9, no. 6 (1998): 429–34, <https://doi.org/10.1111/1467-9280.00081>.
+[GO TO NOTE REFERENCE IN TEXT](#chapter-4-control-yourself)
 
 ### Chapter 5: Control the Moment
 
-In arguments, your breath: Alan Fogel, "Waiting to Exhale," *Psychology
-Today*, September 27, 2010,
-<https://www.psychologytoday.com/ca/blog/body-sense/201009/waiting-to-exhale>.
-[GO TO NOTE REFERENCE IN TEXT](#your-first-word-is-your-breath)
+In arguments, your breath: Alan Fogel, “Waiting to Exhale,” *Psychology Today*, September 27, 2010, <https://www.psychologytoday.com/ca/blog/body-sense/201009/waiting-to-exhale>.
+[GO TO NOTE REFERENCE IN TEXT](#chapter-5-control-the-moment)
 
-very structure of your nasal passages: Carolyn Farnsworth, "What to Know
-About Nose Breathing vs. Mouth Breathing," *Medical News Today*,
-November 20, 2023,
-<https://www.medicalnewstoday.com/articles/nose-breathing-vs-mouth-breathing>.
-[GO TO NOTE REFERENCE IN TEXT](#1-to-slow-down-your-breathing-breathe-through-your-nose-to-slow-down-your-breathing-breathe-through-your-nose)
+very structure of your nasal passages: Carolyn Farnsworth, “What to Know About Nose Breathing vs. Mouth Breathing,” *Medical News Today*, November 20, 2023, <https://www.medicalnewstoday.com/articles/nose-breathing-vs-mouth-breathing>.
+[GO TO NOTE REFERENCE IN TEXT](#chapter-5-control-the-moment)
 
-physiological sigh: Also known as cyclic sighing, a technique
-popularized by Dr. Andrew Huberman and his podcast, *Huberman Lab*. I
-recommend the episodes "Tools for Managing Stress & Anxiety" (March
-2021) and "How to Breathe Correctly for Optimal Health, Mood, Learning
-& Performance" (February 2023). For the data, see Melis Yilmaz Balban
-et al., "Brief Structured Respiration Practices Enhance Mood and Reduce
-Physiological Arousal," *Cell Reports Medicine* 4, no. 1 (2023): 100895,
-<https://doi.org/10.1016/j.xcrm.2022.100895>; and Deni Ellis Béchard,
-"The Huberman Effect," *Stanford Magazine*, July 2023,
-<https://stanfordmag.org/contents/the-huberman-effect>. [GO TO NOTE
-REFERENCE IN TEXT](#2-to-maintain-calm-exhale-longer-to-maintain-calm-exhale-longer)
+physiological sigh: Also known as cyclic sighing, a technique popularized by Dr. Andrew Huberman and his podcast, *Huberman Lab*. I recommend the episodes “Tools for Managing Stress & Anxiety” (March 2021) and “How to Breathe Correctly for Optimal Health, Mood, Learning & Performance” (February 2023). For the data, see Melis Yilmaz Balban et al., “Brief Structured Respiration Practices Enhance Mood and Reduce Physiological Arousal,” *Cell Reports Medicine* 4, no. 1 (2023): 100895, <https://doi.org/10.1016/j.xcrm.2022.100895>; and Deni Ellis Béchard, “The Huberman Effect,” *Stanford Magazine*, July 2023, <https://stanfordmag.org/contents/the-huberman-effect>.
+[GO TO NOTE REFERENCE IN TEXT](#chapter-5-control-the-moment)
 
-"tactical breathing": Noma Nazish, "How to De-Stress in 5 Minutes or
-Less, According to a Navy SEAL," *Forbes*, December 10, 2021,
-<https://www.forbes.com/sites/nomanazish/2019/05/30/how-to-de-stress-in-5-minutes-or-less-according-to-a-navy-seal/>.
-[GO TO NOTE REFERENCE IN TEXT](#3-to-clear-your-mind-breathe-rhythmically-to-clear-your-mind-breathe-rhythmically)
+“tactical breathing”: Noma Nazish, “How to De-Stress in 5 Minutes or Less, According to a Navy SEAL,” *Forbes*, December 10, 2021, <https://www.forbes.com/sites/nomanazish/2019/05/30/how-to-de-stress-in-5-minutes-or-less-according-to-a-navy-seal/>.
+[GO TO NOTE REFERENCE IN TEXT](#chapter-5-control-the-moment)
 
-Box breathing: Samantha K. Norelli, Ashley Long, and Jeffrey M. Krepps,
-"Relaxation Techniques," StatPearls, August 28, 2023,
-<https://www.ncbi.nlm.nih.gov/books/NBK513238/>. [GO TO NOTE REFERENCE
-IN TEXT](#3-to-clear-your-mind-breathe-rhythmically-to-clear-your-mind-breathe-rhythmically)
+Box breathing: Samantha K. Norelli, Ashley Long, and Jeffrey M. Krepps, “Relaxation Techniques,” StatPearls, August 28, 2023, <https://www.ncbi.nlm.nih.gov/books/NBK513238/>.
+[GO TO NOTE REFERENCE IN TEXT](#chapter-5-control-the-moment)
 
-benefit of rhythmic breathing: Marc A. Russo, Danielle M. Santarelli,
-and Dean O'Rourke, "The Physiological Effects of Slow Breathing in the
-Healthy Human," *Breathe* 13, no. 4 (2017): 298--309,
-<https://doi.org/10.1183/20734735.009817>. [GO TO NOTE REFERENCE IN TEXT](#3-to-clear-your-mind-breathe-rhythmically-to-clear-your-mind-breathe-rhythmically)
+benefit of rhythmic breathing: Marc A. Russo, Danielle M. Santarelli, and Dean O’Rourke, “The Physiological Effects of Slow Breathing in the Healthy Human,” *Breathe* 13, no. 4 (2017): 298–309, <https://doi.org/10.1183/20734735.009817>.
+[GO TO NOTE REFERENCE IN TEXT](#chapter-5-control-the-moment)
 
-significantly influences your emotions: Kristen A. Lindquist, Jennifer
-K. MacCormack, and Holly Shablack, "The Role of Language in Emotion:
-Predictions from Psychological Constructionism," *Frontiers in
-Psychology* 6 (2015): 444, <https://doi.org/10.3389/fpsyg.2015.00444>.
-[GO TO NOTE REFERENCE IN TEXT](#your-first-conversation-is-a-small-talk)
+significantly influences your emotions: Kristen A. Lindquist, Jennifer K. MacCormack, and Holly Shablack, “The Role of Language in Emotion: Predictions from Psychological Constructionism,” *Frontiers in Psychology* 6 (2015): 444, <https://doi.org/10.3389/fpsyg.2015.00444>.
+[GO TO NOTE REFERENCE IN TEXT](#chapter-5-control-the-moment)
 
 ### Chapter 7: Assertive Voice
 
-Eye contact is another vital component: Joylin M. Droney and Charles I.
-Brooks, "Attributions of Self-Esteem as a Function of Duration of Eye
-Contact," *Journal of Social Psychology* 133, no. 5 (1993): 715--22,
-<https://doi.org/10.1080/00224545.1993.9713927>. [GO TO NOTE REFERENCE IN TEXT](#mind-your-tone)
+Eye contact is another vital component: Joylin M. Droney and Charles I. Brooks, “Attributions of Self-Esteem as a Function of Duration of Eye Contact,” *Journal of Social Psychology* 133, no. 5 (1993): 715–22, <https://doi.org/10.1080/00224545.1993.9713927>.
+[GO TO NOTE REFERENCE IN TEXT](#chapter-7-assertive-voice)
 
-Cadence, the rhythm and pace: William T. O'Donohue and Jane E. Fisher,
-eds., *Cognitive Behavior Therapy: Applying Empirically Supported
-Techniques in Your Practice*, 2nd ed. (John Wiley & Sons, 2008), 27.
-[GO TO NOTE REFERENCE IN TEXT](#mind-your-tone)
+Cadence, the rhythm and pace: William T. O’Donohue and Jane E. Fisher, eds., *Cognitive Behavior Therapy: Applying Empirically Supported Techniques in Your Practice*, 2nd ed. (John Wiley & Sons, 2008), 27.
+[GO TO NOTE REFERENCE IN TEXT](#chapter-7-assertive-voice)
 
 ### Chapter 8: Difficult People
 
-"feel-good hormone": Cleveland Clinic, "Dopamine," March 23, 2022,
-<https://my.clevelandclinic.org/health/articles/22581-dopamine>. [GO TO
-NOTE REFERENCE IN TEXT](#how-to-deflect-insults-belittling-and-rudeness)
+“feel-good hormone”: Cleveland Clinic, “Dopamine,” March 23, 2022, <https://my.clevelandclinic.org/health/articles/22581-dopamine>.
+[GO TO NOTE REFERENCE IN TEXT](#chapter-8-difficult-people)
 
 ### Chapter 9: Boundaries
 
-Boundaries also help you prevent burnout and resentment: Devin J. Rapp,
-J. Matthew Hughey, and Glen E. Kreiner, "Boundary Work as a Buffer
-Against Burnout: Evidence from Healthcare Workers During the COVID-19
-Pandemic," *Journal of Applied Psychology* 106, no. 8 (2021): 1169--87,
-<https://doi.org/10.1037/apl0000951>. [GO TO NOTE REFERENCE IN TEXT](#defining-the-perimeter)
+Boundaries also help you prevent burnout and resentment: Devin J. Rapp, J. Matthew Hughey, and Glen E. Kreiner, “Boundary Work as a Buffer Against Burnout: Evidence from Healthcare Workers During the COVID-19 Pandemic,” *Journal of Applied Psychology* 106, no. 8 (2021): 1169–87, <https://doi.org/10.1037/apl0000951>.
+[GO TO NOTE REFERENCE IN TEXT](#chapter-9-boundaries)
 
 ### Chapter 10: Frames
 
-fewer choices can lead to better outcomes: Barry Schwartz, *The Paradox
-of Choice: Why More Is Less* (Harper Perennial, 2005), 144. [GO TO NOTE
-REFERENCE IN TEXT](#chapter-10-frames)
+fewer choices can lead to better outcomes: Barry Schwartz, *The Paradox of Choice: Why More Is Less* (Harper Perennial, 2005), 144.
+[GO TO NOTE REFERENCE IN TEXT](#chapter-10-frames)
 
 ### Chapter 11: Defensiveness
 
-cognitive dissonance: Eddie Harmon-Jones and Judson Mills, "An
-Introduction to Cognitive Dissonance Theory and an Overview of Current
-Perspectives on the Theory," in *Cognitive Dissonance: Reexamining a
-Pivotal Theory in Psychology*, 2nd ed., ed. Eddie Harmon-Jones
-(American Psychological Association, 2019), 3--24,
-<http://www.jstor.org/stable/j.ctv1chs6tk.7>. [GO TO NOTE REFERENCE IN TEXT](#defensiveness-builds-a-wall)
+cognitive dissonance: Eddie Harmon-Jones and Judson Mills, “An Introduction to Cognitive Dissonance Theory and an Overview of Current Perspectives on the Theory,” in *Cognitive Dissonance: Reexamining a Pivotal Theory in Psychology*, 2nd ed., ed. Eddie Harmon-Jones (American Psychological Association, 2019), 3–24, <http://www.jstor.org/stable/j.ctv1chs6tk.7>.
+[GO TO NOTE REFERENCE IN TEXT](#chapter-11-defensiveness)
 
-fundamental attribution error: Jessica Koehler, "Decoding the
-Fundamental Attribution Error," *Psychology Today*, March 27, 2023,
-<https://www.psychologytoday.com/us/blog/beyond-school-walls/202303/decoding-the-fundamental-attribution-error>.
-While academics may differ on the certainty of the concept, I take no
-side in the debate. What I do know, however, is that the effects of the
-phenomenon are sure to influence your communication. [GO TO NOTE
-REFERENCE IN TEXT](#defensiveness-builds-a-wall)
+fundamental attribution error: Jessica Koehler, “Decoding the Fundamental Attribution Error,” *Psychology Today*, March 27, 2023, <https://www.psychologytoday.com/us/blog/beyond-school-walls/202303/decoding-the-fundamental-attribution-error>. While academics may differ on the certainty of the concept, I take no side in the debate. What I do know, however, is that the effects of the phenomenon are sure to influence your communication.
+[GO TO NOTE REFERENCE IN TEXT](#chapter-11-defensiveness)
 
-confirmation bias: Raymond S. Nickerson, "Confirmation Bias: A
-Ubiquitous Phenomenon in Many Guises," *Review of General Psychology* 2,
-no. 2 (1998): 175--220, <https://doi.org/10.1037/1089-2680.2.2.175>. [GO
-TO NOTE REFERENCE IN TEXT](#defensiveness-builds-a-wall)
+confirmation bias: Raymond S. Nickerson, “Confirmation Bias: A Ubiquitous Phenomenon in Many Guises,” *Review of General Psychology* 2, no. 2 (1998): 175–220, <https://doi.org/10.1037/1089-2680.2.2.175>.
+[GO TO NOTE REFERENCE IN TEXT](#chapter-11-defensiveness)
 
 ### Chapter 12: Difficult Conversations
 
-good at reading nonverbal cues: Anna Esposito, "The Amount of
-Information on Emotional States Conveyed by the Verbal and Nonverbal
-Channels: Some Perceptual Data," in *Progress in Nonlinear Speech
-Processing*, eds. Yannis Stylianou, Marcos Faundez-Zanuy, and Anna
-Eposito (Springer-Verlag, 2007), 249--68,
-<https://doi.org/10.1007/978-3-540-71505-4_13>. [GO TO NOTE REFERENCE IN TEXT](#2-drop-the-pleasantries)
+good at reading nonverbal cues: Anna Esposito, “The Amount of Information on Emotional States Conveyed by the Verbal and Nonverbal Channels: Some Perceptual Data,” in *Progress in Nonlinear Speech Processing*, eds. Yannis Stylianou, Marcos Faundez-Zanuy, and Anna Eposito (Springer-Verlag, 2007), 249–68, <https://doi.org/10.1007/978-3-540-71505-4_13>.
+[GO TO NOTE REFERENCE IN TEXT](#chapter-12-difficult-conversations)
 
-what kind of conversation: In *Never Split the Difference*, by Chris
-Voss and Tahl Raz, these statements are referred to as "accusation
-audits." I recommend this book for another great example of handling
-sensitive conversations and tactical empathy. [GO TO NOTE REFERENCE IN TEXT](#2-drop-the-pleasantries)
-
-## Index
-
-The page numbers in this index refer to the printed version of the book.
-Each link will take you to the beginning of the corresponding print
-page. You may need to scroll forward from that location to find the
-corresponding reference on your e-reader.
-
-Note: *Italicized* page numbers indicate material in photographs or
-illustrations.
-
-[A](#index) [B](#index) [C](#index) [D](#index) [E](#index) [F](#index) [G](#index) [H](#index) [I](#index) [J](#index) [K](#index) [L](#index) [M](#index) [N](#index) [O](#index) [P](#index) [Q](#index) [R](#index) [S](#index) [T](#index) [U](#index) [V](#index) [W](#index) [X](#index) [Y](#index) [Z](#index)
-
-### A
-
-accountability, [16](#how-to-apply-this-book), [174](#the-no-empathy-apology), [238](#how-to-stop-defensiveness)
-accusations, [42](#chapter-2-your-next-conversation), [239-40](#1-begin-your-sentence-with-i-not-you)
-acknowledging of others, [58](#what-is-connection), [240-42](#3-acknowledge-first), [260](#what-it-means-to-be-a-safe-space)
-advice requests, [11-12](#introduction)
-advocating for yourself, [145-48](#lesson-3-express-your-needs-unapologetically)
-affirmations, [112](#your-first-conversation-is-a-small-talk), [113](#how-to-build-your-own-small-talk)
-agenda for conversations, [217-19](#how-to-frame-a-conversation), [220-23](#how-to-nudge-a-conversation-back-into-view)
-aggression, [31](#the-struggle-you-hear), [36](#the-challenge-to-accept), [84-85](#1-physical-triggers-physical-triggers), [96](#your-first-word-is-your-breath), [140](#confidence-is-a-feeling), [158](#mind-your-tone), [166](#when-push-comes-to-shove), [214](#what-is-a-conversational-frame)
-ambiguity, [256](#2-drop-the-pleasantries)
-amygdala, [78](#the-two-phases-of-every-argument)
-anxiety
-  and breathing techniques, [102](#2-to-maintain-calm-exhale-longer)
-  and conversational tactics, [108](#how-to-do-a-quick-scan)
-  and difficult conversations, [256](#2-drop-the-pleasantries)
-  and frameworks for conversations, [213](#what-is-a-conversational-frame), [224](#chapter-summary-9)
-  and pauses in conversation, [121](#the-gift-of-a-pause)
-  See also fear
-apologies
-  and assertive voice, [145-48](#lesson-3-express-your-needs-unapologetically)
-  and boundary-setting, [191-92](#chapter-9-boundaries)
-  and competitive view of arguments, [33](#the-struggle-you-hear)
-  and emotional dynamics of conflict, [42](#chapter-2-your-next-conversation)
-  and employing pauses, [130](#long-pauses-are-mirrors)
-  and goals for conversations, [46-47](#why-your-conversations-need-goals)
-  and goals of text, [16](#how-to-apply-this-book)
-  keeping conversations on track, [221](#how-to-nudge-a-conversation-back-into-view)
-  and power of the next conversation, [44](#the-power-of-your-next-conversation)
-  resisting bad apologies, [172-77](#pushing-back-against-bad-apologies)
-  and underselling yourself, [153-54](#lesson-7-never-undersell)
-assertiveness
-  and confidence, [138-40](#confidence-is-a-feeling), [*140*](#confidence-is-a-feeling), [142-45](#lesson-2-prove-it-to-yourself), [150-51](#lesson-5-say-less), [154](#lesson-7-never-undersell), [157-58](#lesson-10-say-im-confident)
-  and control of one's emotions, [137-38](#chapter-7-assertive-voice)
-  and small talks, [114-15](#how-to-build-your-own-small-talk)
-  and tone, [158-61](#mind-your-tone)
-  using assertive voice, [140-58](#10-ways-to-practice-assertiveness-now-ways-to-practice-assertiveness-now)
-  and verbal tone, [158-62](#mind-your-tone)
-attention and attentiveness, [209-10](#chapter-10-frames), [222](#how-to-nudge-a-conversation-back-into-view)
-authenticity, [7](#prologue), [12](#introduction), [54](#why-your-conversations-need-values), [57](#what-is-connection), [165-66](#when-push-comes-to-shove), [190](#chapter-9-boundaries), [277](#acknowledgments)
-autonomy triggers, [87](#2-psychological-triggers-psychological-triggers), [240](#2-dont-begin-your-question-with-why)
-avoiding arguments, [*122*](#the-gift-of-a-pause), [122-23](#the-gift-of-a-pause)
-awareness, [60-62](#cut-1-lack-of-awareness), [103-10](#your-first-thought-is-a-quick-scan)
-
-### B
-
-bad apologies, [172-77](#pushing-back-against-bad-apologies)
-belittlement, [166-72](#how-to-deflect-insults-belittling-and-rudeness)
-body language
-  and awareness, [84](#1-physical-triggers-physical-triggers), [107-8](#how-to-do-a-quick-scan), [125](#the-gift-of-a-pause), [222](#how-to-nudge-a-conversation-back-into-view)
-boundaries
-  building, [195-203](#how-to-build-a-boundary)
-  and dealing with personal attacks, [169](#when-they-insult-or-offend-you)
-  enforcing, [200-205](#enforcing-the-boundary)
-  impact on relationships, [203-5](#how-setting-boundaries-changes-your-relationships)
-  perimeters of relationships, [196-98](#defining-the-perimeter)
-  value of, [189-95](#chapter-9-boundaries)
-  and your manual, [198-200](#knowing-your-manual)
-box breathing, [102](#3-to-clear-your-mind-breathe-rhythmically)
-brain physiology, [78](#the-two-phases-of-every-argument), [80](#how-your-body-controls-your-response), [82-83](#how-your-body-controls-your-response)
-breathing
-  and dealing with personal attacks, [169](#when-they-insult-or-offend-you)
-  and employing pauses, [129](#short-pauses-are-reading-glasses)
-  and preparation for legal proceeding, [267](#afterword)
-  preparing to speak, [95-99](#your-first-word-is-your-breath)
-  and quick scan process, [103-10](#your-first-thought-is-a-quick-scan), [*107*](#how-to-do-a-quick-scan)
-  taking a conversational breath, [99-103](#how-to-take-a-conversational-breath)
-
-### C
-
-cadence of speech, [160](#mind-your-tone)
-calls to action, [8](#prologue)
-calmness, [93-94](#chapter-5-control-the-moment), [116](#how-to-build-your-own-small-talk)
-children, communicating with, [*19*](#prologue), [19-20](#prologue)
-"clapbacks," [123](#the-gift-of-a-pause)
-clarity in communication
-  and assertive voice, [142](#lesson-1-every-word-matters), [147-48](#lesson-3-express-your-needs-unapologetically)
-  and boundary-setting, [201](#enforcing-the-boundary)
-  and breathing before speaking, [98](#your-first-word-is-your-breath)
-  and conversations with difficult people, [172](#when-theyre-rude-or-dismissive)
-  and frameworks for conversations, [219](#how-to-frame-a-conversation)
-  and planning for difficult conversations, [256](#2-drop-the-pleasantries)
-  and progression of arguments, [76](#the-two-phases-of-every-argument)
-  and small talks, [116](#how-to-build-your-own-small-talk)
-collaboration, [186](#use-your-vantage-point), [204](#how-setting-boundaries-changes-your-relationships)
-commitment to conversations, [216-17](#how-to-frame-a-conversation), [224](#chapter-summary-9)
-compassion, [165](#when-push-comes-to-shove). See also empathy
-competence triggers, [86](#2-psychological-triggers-psychological-triggers)
-competition in communication, [31-35](#the-struggle-you-hear), [*32*](#the-struggle-you-hear)
-condescending language, [169-71](#when-they-belittle-patronize-or-condescend-to-you)
-conditional apologies, [175](#the-no-apology-apology)
-confidence
-  and assertive voice, [138-40](#confidence-is-a-feeling), [*140*](#confidence-is-a-feeling), [142-45](#lesson-2-prove-it-to-yourself), [150-51](#lesson-5-say-less), [154](#lesson-7-never-undersell), [157-58](#lesson-10-say-im-confident)
-  and boundary-setting, [192-93](#chapter-9-boundaries)
-  and grace, [64-65](#a-quick-note-on-confidence)
-  and honesty in communication, [64](#cut-3-lack-of-self-assurance)
-  and preparation for legal proceeding, [266-67](#afterword)
-  and small talks, [115](#how-to-build-your-own-small-talk)
-  and underselling, [152-55](#lesson-7-never-undersell)
-confirmation bias, [235](#defensiveness-builds-a-wall)
-conflict
-  as an opportunity, [35](#the-challenge-to-accept)
-  and challenge of conversations, [35-36](#the-challenge-to-accept)
-  and conversations with difficult people, [165-66](#when-push-comes-to-shove)
-  physiology of, [75-80](#the-two-phases-of-every-argument), [80-83](#how-your-body-controls-your-response), [89-90](#meet-your-triggers)
-  and value of pausing, [125-26](#the-gift-of-a-pause)
-connection
-  and challenges of electronic communication, [55-57](#chapter-3-the-truth-about-connection)
-  and confidence, [63-65](#a-quick-note-on-confidence)
-  described, [57-60](#what-is-connection)
-  obstacles to, [60-64](#three-ways-you-cut-off-connection)
-  and safe space for conversations, [260-62](#what-it-means-to-be-a-safe-space)
-  and small talks, [114-16](#how-to-build-your-own-small-talk)
-  three rules for, [15](#how-this-book-will-help-you)
-consequences, [202-3](#enforcing-the-boundary), [205](#chapter-summary-8)
-conversational breath, [99-103](#how-to-take-a-conversational-breath), [106-7](#how-to-do-a-quick-scan). See also breathing
-cooling phase of arguments
-  and combating defensiveness, [243](#3-acknowledge-first)
-  and employing pauses, [134](#chapter-summary-5)
-  and physiology of conflict, [79](#the-two-phases-of-every-argument), [81-82](#how-your-body-controls-your-response), [90](#meet-your-triggers)
-  and progression of arguments, [75-77](#the-two-phases-of-every-argument), [*77*](#the-two-phases-of-every-argument)
-  and value of pausing, [126](#the-gift-of-a-pause)
-credibility, [144](#lesson-2-prove-it-to-yourself), [149](#lesson-4-speak-when-it-matters), [156](#lesson-8-cut-the-excess)
-cross-examinations, [3](#prologue), [110](#your-first-conversation-is-a-small-talk), [225-28](#chapter-11-defensiveness), [265-67](#afterword)
-curiosity, [238-39](#how-to-stop-defensiveness)
-
-### D
-
-decision-making, [189-91](#chapter-9-boundaries), [*191*](#chapter-9-boundaries)
-defensiveness
-  combating, [236-42](#how-to-stop-defensiveness)
-  in courtroom settings, [225-28](#chapter-11-defensiveness)
-  fight-or-flight response, [78-79](#the-two-phases-of-every-argument), [81-82](#how-your-body-controls-your-response)
-  impact on connection, [228-29](#why-defensiveness-breaks-connection)
-  and keeping conversations on track, [221](#how-to-nudge-a-conversation-back-into-view)
-  and phases of arguments, [76](#the-two-phases-of-every-argument)
-  and physiology of conflict, [89](#meet-your-triggers)
-  and planning for difficult conversations, [245](#chapter-12-difficult-conversations)
-  and small talks, [116](#how-to-build-your-own-small-talk)
-  walls created by, [230-36](#defensiveness-builds-a-wall), [242](#chapter-summary-10)
-deflection, [166-72](#how-to-deflect-insults-belittling-and-rudeness), [223](#how-to-nudge-a-conversation-back-into-view), [229](#why-defensiveness-breaks-connection)
-depositions, [3](#prologue), [21-25](#chapter-1-never-win-an-argument), [26-29](#the-person-you-see), [95-96](#your-first-word-is-your-breath), [98](#your-first-word-is-your-breath), [119-21](#chapter-6-control-the-pace), [129](#short-pauses-are-reading-glasses), [131](#long-pauses-are-mirrors)
-difficult conversations
-  creating time for, [247-52](#1-set-aside-real-undistracted-time)
-  dispensing with pleasantries, [252-56](#2-drop-the-pleasantries), [262](#what-it-means-to-be-a-safe-space)
-  focusing on the conclusion, [256-59](#3-begin-with-your-end), [262-63](#what-it-means-to-be-a-safe-space)
-  planning for, [245-47](#chapter-12-difficult-conversations)
-  safe space for, [259-63](#what-it-means-to-be-a-safe-space)
-difficult people
-  and bad apologies, [172-77](#pushing-back-against-bad-apologies)
-  and constructive disagreement, [181-87](#a-better-way-to-disagree)
-  deflecting rudeness and attacks, [167-72](#how-to-deflect-insults-belittling-and-rudeness)
-  and family disputes, [163-65](#chapter-8-difficult-people)
-  and interruptions, [177-81](#the-end-of-interruptions)
-  and verbal conflict, [165-66](#when-push-comes-to-shove)
-disagreements, [33](#the-struggle-you-hear), [58-59](#what-is-connection), [82](#how-your-body-controls-your-response), [166](#when-push-comes-to-shove), [181-87](#a-better-way-to-disagree)
-disappointment, [195](#chapter-9-boundaries), [269](#the-47-second-version)
-discipline, [189](#chapter-9-boundaries). See also self-control
-disconnection from conversations, [59-60](#what-is-connection)
-dishonesty, [131-32](#long-pauses-are-mirrors), [262](#what-it-means-to-be-a-safe-space)
-dismissiveness, [171-72](#when-theyre-rude-or-dismissive), [223](#how-to-nudge-a-conversation-back-into-view), [228](#why-defensiveness-breaks-connection)
-diversion, [222](#how-to-nudge-a-conversation-back-into-view)
-dopamine, [166-67](#how-to-deflect-insults-belittling-and-rudeness)
-
-### E
-
-ego, [34](#the-struggle-you-hear), [173](#pushing-back-against-bad-apologies), [195](#chapter-9-boundaries), [227](#chapter-11-defensiveness)
-email
-  and assertive voice, [141](#lesson-1-every-word-matters)
-  challenges for true connection, [56-57](#chapter-3-the-truth-about-connection)
-  and conversations with difficult people, [172](#when-theyre-rude-or-dismissive)
-  and defensiveness, [235](#defensiveness-builds-a-wall)
-  and planning for difficult conversations, [248](#1-set-aside-real-undistracted-time), [252](#2-drop-the-pleasantries)
-  and value of pausing, [123](#the-gift-of-a-pause)
-emotions
-  confidence as, [138-39](#confidence-is-a-feeling)
-  and conversational tactics, [108-9](#how-to-do-a-quick-scan)
-  emotional intelligence, [89](#meet-your-triggers)
-  and physiology of conflict, [78](#the-two-phases-of-every-argument)
-  and quick scan process, [104-5](#your-first-thought-is-a-quick-scan), [*107*](#how-to-do-a-quick-scan), [107-8](#how-to-do-a-quick-scan)
-  regulating, [125-27](#the-gift-of-a-pause), [269](#the-47-second-version)
-  and text messaging, [56-57](#chapter-3-the-truth-about-connection)
-  words vs. emotions, [37](#the-challenge-to-accept)
-empathy
-  and conversations with difficult people, [165](#when-push-comes-to-shove)
-  and defensiveness, [237](#how-to-stop-defensiveness)
-  and goals of text, [14](#how-this-book-will-help-you)
-  and importance of next conversations, [12](#introduction)
-  no-empathy apologies, [174](#the-no-empathy-apology)
-  vs. competitive view of arguments, [34-35](#the-struggle-you-hear)
-  and words vs. emotions, [37-38](#the-challenge-to-accept)
-empowerment, [110-16](#your-first-conversation-is-a-small-talk), [142-45](#lesson-2-prove-it-to-yourself)
-epinephrine, [78](#the-two-phases-of-every-argument)
-excuses, [173](#pushing-back-against-bad-apologies), [175](#the-excuse-apology), [195](#chapter-9-boundaries)
-expert witnesses, [225-28](#chapter-11-defensiveness)
-eye contact, [159-60](#mind-your-tone)
-
-### F
-
-failure, embracing, [35-38](#the-challenge-to-accept)
-family dynamics and conflict
-  and author's family background, [5](#prologue), [36-37](#the-challenge-to-accept)
-  and boundary-setting, [196-97](#defining-the-perimeter)
-  and children's routines, [73-74](#chapter-4-control-yourself)
-  and conversations with difficult people, [163-65](#chapter-8-difficult-people)
-  and personal struggles of others, [21-25](#chapter-1-never-win-an-argument), [25-26](#the-person-you-see), [26-29](#the-person-you-see), [31](#the-struggle-you-hear)
-  See also parenting
-fear
-  and body language, [63](#cut-3-lack-of-self-assurance)
-  fear of missing out (FOMO), [86](#2-psychological-triggers-psychological-triggers)
-  and frameworks for conversations, [213](#what-is-a-conversational-frame)
-  and saying "no," [189](#chapter-9-boundaries)
-  and social evaluation triggers, [86](#2-psychological-triggers-psychological-triggers)
-  See also anxiety
-feedback, [50](#why-your-conversations-need-values), [62](#cut-1-lack-of-awareness), [139](#confidence-is-a-feeling), [145](#lesson-2-prove-it-to-yourself), [161](#mind-your-tone), [218](#how-to-frame-a-conversation)
-fight-or-flight response, [78-79](#the-two-phases-of-every-argument), [81-82](#how-your-body-controls-your-response)
-filler words, [151-52](#lesson-6-remove-filler-words)
-firing scenarios, [252-56](#2-drop-the-pleasantries)
-first impressions, [43](#the-power-of-your-next-conversation)
-Fisher Firm, [6-7](#prologue), [10](#prologue)
-"flooding," [76](#the-two-phases-of-every-argument), [126](#the-gift-of-a-pause)
-follow-up conversations, [43-44](#the-power-of-your-next-conversation)
-forensic analysis, [225](#chapter-11-defensiveness)
-forgiveness, [147](#lesson-3-express-your-needs-unapologetically), [153](#lesson-7-never-undersell), [237](#how-to-stop-defensiveness)
-framing conversations
-  consent of participants, [216-17](#how-to-frame-a-conversation)
-  and conversations with difficult people, [185](#use-your-vantage-point)
-  defining conversational frames, [210-15](#what-is-a-conversational-frame), [223-24](#chapter-summary-9)
-  and goals for conversations, [47-48](#why-your-conversations-need-goals)
-  intended results of conversations, [215-16](#how-to-frame-a-conversation)
-  and limiting choices, [209-10](#chapter-10-frames), [211](#what-is-a-conversational-frame), [223](#chapter-summary-9)
-  maintaining focus, [220-23](#how-to-nudge-a-conversation-back-into-view)
-  process of, [215-19](#how-to-frame-a-conversation)
-  scope of topics, [217-19](#how-to-frame-a-conversation)
-functional thinking, [68-69](#part-ii-the-application)
-
-### G
-
-gaslighting, [273](#attorney-client-privilege-narcissists-and-gaslighting)
-generalization, [229](#why-defensiveness-breaks-connection)
-goals of conversations, [45-48](#why-your-conversations-need-goals), [48-53](#why-your-conversations-need-values), [112-13](#how-to-build-your-own-small-talk), [220-23](#how-to-nudge-a-conversation-back-into-view)
-grace, [64](#a-quick-note-on-confidence), [236](#how-to-stop-defensiveness)
-gratitude, [51](#why-your-conversations-need-values), [192](#chapter-9-boundaries), [194](#chapter-9-boundaries)
-
-### H
-
-healing relationships, [44](#the-power-of-your-next-conversation)
-heart rate, [78](#the-two-phases-of-every-argument), [80](#how-your-body-controls-your-response), [97](#your-first-word-is-your-breath), [102-3](#3-to-clear-your-mind-breathe-rhythmically), [121](#the-gift-of-a-pause)
-honesty in communication, [48-49](#why-your-conversations-need-values), [157](#lesson-9-when-in-doubt-fall-back-on-experience), [197](#defining-the-perimeter)
-hormones, [78](#the-two-phases-of-every-argument)
-humility, [157](#lesson-9-when-in-doubt-fall-back-on-experience)
-
-### I
-
-identity, [35-36](#the-challenge-to-accept), [86-88](#2-psychological-triggers-psychological-triggers), [141](#lesson-1-every-word-matters)
-ignition phase of arguments
-  and breathing before speaking, [96-97](#your-first-word-is-your-breath)
-  and conversational breaths, [100-101](#1-to-slow-down-your-breathing-breathe-through-your-nose)
-  and defensiveness, [228](#why-defensiveness-breaks-connection), [235](#defensiveness-builds-a-wall), [242](#chapter-summary-10)
-  and frameworks for conversations, [214](#what-is-a-conversational-frame)
-  and keeping conversations on track, [222](#how-to-nudge-a-conversation-back-into-view)
-  and pace of conversations, [121](#the-gift-of-a-pause)
-  and physiology of conflict, [79](#the-two-phases-of-every-argument), [81-82](#how-your-body-controls-your-response), [83](#how-your-body-controls-your-response), [90-91](#meet-your-triggers)
-  and planning for difficult conversations, [254](#2-drop-the-pleasantries)
-  and preparing for arguments, [95](#chapter-5-control-the-moment), [117](#chapter-summary-4)
-  and progression of arguments, [75-77](#the-two-phases-of-every-argument), [*77*](#the-two-phases-of-every-argument)
-  and quick scan process, [108](#how-to-do-a-quick-scan)
-"I" in conversations, [239](#1-begin-your-sentence-with-i-not-you), [243](#chapter-summary-10)
-impulsiveness, [177-78](#the-end-of-interruptions)
-individualism, [35-36](#the-challenge-to-accept)
-insecurity, [149-50](#lesson-4-speak-when-it-matters), [153-54](#lesson-7-never-undersell)
-insults, [130](#long-pauses-are-mirrors), [166-72](#how-to-deflect-insults-belittling-and-rudeness)
-intention and intentionality
-  and breathing, [96-97](#your-first-word-is-your-breath), [101-3](#how-to-take-a-conversational-breath)
-  and conversations with difficult people, [171-72](#when-theyre-rude-or-dismissive)
-  and employing pauses, [134](#chapter-summary-5)
-  and filler words, [152](#lesson-6-remove-filler-words)
-  intended result of conversations, [215-16](#how-to-frame-a-conversation)
-  and power of the next conversation, [52-53](#chapter-summary-1)
-  and value of pausing, [124](#the-gift-of-a-pause)
-interruptions
-  and conversations with difficult people, [177-81](#the-end-of-interruptions), [187](#a-better-way-to-disagree), [188](#chapter-summary-7)
-  and cutting off connection, [60](#three-ways-you-cut-off-connection)
-  and defensiveness, [228](#why-defensiveness-breaks-connection)
-  and goals for conversations, [45](#why-your-conversations-need-goals)
-  and pace of conversations, [119](#chapter-6-control-the-pace)
-  and planning for difficult conversations, [248](#1-set-aside-real-undistracted-time)
-  and power of the next conversation, [52](#why-your-conversations-need-values)
-interviews, [129](#short-pauses-are-reading-glasses)
-*Is it worth it?* filter, [182-84](#apply-the-is-it-worth-it-filter)
-
-### J
-
-justifications, [176-77](#the-justification-apology), [195](#chapter-9-boundaries)
-
-### K
-
-kindness, [50](#why-your-conversations-need-values), [237](#how-to-stop-defensiveness). See also empathy
-
-### L
-
-LaPray, Bobby, [21-25](#chapter-1-never-win-an-argument), [26-29](#the-person-you-see), [113](#how-to-build-your-own-small-talk)
-"last word" in arguments, [130-31](#long-pauses-are-mirrors)
-Lee, Clemon, [265-68](#afterword)
-listening
-  and confidence, [149-50](#lesson-4-speak-when-it-matters)
-  and dealing with interruptions, [178-81](#the-end-of-interruptions)
-  and defensiveness, [230-31](#defensiveness-builds-a-wall)
-  and frameworks for conversations, [217](#how-to-frame-a-conversation)
-  and goals for conversations, [45](#why-your-conversations-need-goals)
-  and power of the next conversation, [52](#why-your-conversations-need-values)
-  and quick scan process, [104](#your-first-thought-is-a-quick-scan)
-  and small talks, [110](#your-first-conversation-is-a-small-talk)
-  and value of pausing, [122](#the-gift-of-a-pause)
-  and values in conversations, [49](#why-your-conversations-need-values)
-long pauses, [129-33](#long-pauses-are-mirrors), [*131*](#long-pauses-are-mirrors), [134](#chapter-summary-5)
-loss triggers, [88-89](#2-psychological-triggers-psychological-triggers), [214](#what-is-a-conversational-frame), [229](#why-defensiveness-breaks-connection)
-
-### M
-
-manuals, [198-200](#knowing-your-manual)
-Martin, Bill, Jr., [25](#chapter-1-never-win-an-argument)
-media environment, [122](#the-gift-of-a-pause). See also social media
-meditation, [103-4](#your-first-thought-is-a-quick-scan)
-meetings, [148-49](#lesson-4-speak-when-it-matters)
-memory recall, [112](#your-first-conversation-is-a-small-talk)
-mindfulness, [107](#how-to-do-a-quick-scan)
-mindset, [*111*](#your-first-conversation-is-a-small-talk), [111-12](#your-first-conversation-is-a-small-talk)
-miscommunication, [56-57](#chapter-3-the-truth-about-connection), [234-35](#defensiveness-builds-a-wall)
-mistakes, [35](#the-challenge-to-accept), [64](#a-quick-note-on-confidence)
-mouth breathing, [100-101](#1-to-slow-down-your-breathing-breathe-through-your-nose)
-
-### N
-
-narcissism, [273](#attorney-client-privilege-narcissists-and-gaslighting)
-Navy SEALs, [102](#3-to-clear-your-mind-breathe-rhythmically)
-negotiations, [163-65](#chapter-8-difficult-people), [192](#chapter-9-boundaries)
-nervousness, [82](#how-your-body-controls-your-response), [109](#how-to-do-a-quick-scan)
-news media, [123](#the-gift-of-a-pause)
-no-apology apologies, [174-75](#the-no-apology-apology)
-no-empathy apologies, [174](#the-no-empathy-apology)
-nose breathing, [100-101](#1-to-slow-down-your-breathing-breathe-through-your-nose)
-
-### O
-
-off-topic conversation, [211](#what-is-a-conversational-frame)
-overexplaining, [150-51](#lesson-5-say-less)
-
-### P
-
-pace of conversations
-  deposition example, [119-21](#chapter-6-control-the-pace)
-  and employing pauses, [127-33](#how-and-when-to-use-pauses), [134](#chapter-summary-5)
-  and filler words, [152](#lesson-6-remove-filler-words)
-  long pauses, [129-33](#long-pauses-are-mirrors)
-  short pauses, [128-29](#short-pauses-are-reading-glasses)
-  and value of pauses, [121-27](#the-gift-of-a-pause)
-parasympathetic nervous system, [81](#how-your-body-controls-your-response)
-parenting
-  and author's family background, [4-6](#prologue), [36-37](#the-challenge-to-accept)
-  disagreements, [73-74](#chapter-4-control-yourself), [77-80](#the-two-phases-of-every-argument)
-  and personal struggles of others, [25-26](#chapter-1-never-win-an-argument)
-  and saying "no," [189](#chapter-9-boundaries)
-passivity and passive voice, [143](#lesson-2-prove-it-to-yourself), [245](#chapter-12-difficult-conversations)
-patronizing language, [169-71](#when-they-belittle-patronize-or-condescend-to-you)
-pausing
-  and combating defensiveness, [238](#how-to-stop-defensiveness), [242-43](#chapter-summary-10)
-  and conversations with difficult people, [171](#when-theyre-rude-or-dismissive)
-  and dealing with personal attacks, [168](#when-they-insult-or-offend-you)
-  and filler words, [152](#lesson-6-remove-filler-words)
-  how to employ, [127-33](#how-and-when-to-use-pauses)
-  and intent, [124](#the-gift-of-a-pause), [134](#chapter-summary-5)
-  taking a conversational breath, [99-103](#how-to-take-a-conversational-breath)
-  tips for employing, [127-33](#how-and-when-to-use-pauses)
-  value of, [121-27](#the-gift-of-a-pause)
-personal attacks, [76](#the-two-phases-of-every-argument), [144](#lesson-2-prove-it-to-yourself), [167-68](#when-they-insult-or-offend-you), [220](#how-to-nudge-a-conversation-back-into-view), [228](#why-defensiveness-breaks-connection)
-personal identity threats, [86-88](#2-psychological-triggers-psychological-triggers), [229](#why-defensiveness-breaks-connection)
-personal space, [84](#1-physical-triggers-physical-triggers)
-personal struggles
-  and competitive view of arguments, [31-35](#the-struggle-you-hear)
-  empathizing with others, [21-25](#chapter-1-never-win-an-argument), [25-26](#the-person-you-see), [26-29](#the-person-you-see), [31](#the-struggle-you-hear)
-  and legal depositions, [21-25](#chapter-1-never-win-an-argument)
-  and small talks, [113-14](#how-to-build-your-own-small-talk)
-phases of arguments, [74-80](#the-two-phases-of-every-argument)
-physical triggers, [84-85](#1-physical-triggers-physical-triggers)
-physiological responses to conflict, [75-77](#the-two-phases-of-every-argument), [*77*](#the-two-phases-of-every-argument), [77-80](#the-two-phases-of-every-argument), [80-83](#how-your-body-controls-your-response), [84-85](#1-physical-triggers-physical-triggers). See also psychological triggers
-pleasantries, [252-56](#2-drop-the-pleasantries), [262](#what-it-means-to-be-a-safe-space)
-prefrontal cortex, [78](#the-two-phases-of-every-argument)
-prompts, [213](#what-is-a-conversational-frame)
-protective instincts, [85](#1-physical-triggers-physical-triggers)
-psychological triggers
-  and breathing before speaking, [97](#your-first-word-is-your-breath)
-  and conversational frames, [213-14](#what-is-a-conversational-frame)
-  and defensiveness, [228](#why-defensiveness-breaks-connection), [229](#why-defensiveness-breaks-connection), [231](#defensiveness-builds-a-wall), [235-36](#defensiveness-builds-a-wall), [239](#1-begin-your-sentence-with-i-not-you), [240](#2-dont-begin-your-question-with-why)
-  described, [83-90](#meet-your-triggers)
-  and frameworks for conversations, [213-14](#what-is-a-conversational-frame)
-  and managing disagreements, [184](#use-your-vantage-point)
-  and overexplaining, [151](#lesson-5-say-less)
-  and physiology of conflict, [91](#chapter-summary-3)
-  and planning for difficult conversations, [249](#1-set-aside-real-undistracted-time)
-  and quick scan process, [105-6](#your-first-thought-is-a-quick-scan)
-purpose triggers, [87](#2-psychological-triggers-psychological-triggers)
-
-### Q
-
-questions as conversation tool, [7-8](#prologue), [12](#introduction), [213](#what-is-a-conversational-frame), [240](#2-dont-begin-your-question-with-why), [247](#chapter-12-difficult-conversations), [254](#2-drop-the-pleasantries), [261](#what-it-means-to-be-a-safe-space)
-quick scans, [103-10](#your-first-thought-is-a-quick-scan), [267](#afterword)
-
-### R
-
-reflexes, [121](#the-gift-of-a-pause). See also psychological triggers
-regulating emotions, [125-27](#the-gift-of-a-pause), [269](#the-47-second-version)
-rejection, [85](#2-psychological-triggers-psychological-triggers), [88](#2-psychological-triggers-psychological-triggers)
-repetition, [168](#when-they-insult-or-offend-you), [169-70](#when-they-belittle-patronize-or-condescend-to-you)
-respect, [158-61](#mind-your-tone), [*159*](#mind-your-tone)
-rest-and-digest mode, [81-82](#how-your-body-controls-your-response)
-rhythm of speech, [160](#mind-your-tone)
-routines, [73-74](#chapter-4-control-yourself)
-rudeness, [130](#long-pauses-are-mirrors), [166-72](#how-to-deflect-insults-belittling-and-rudeness), [234-35](#defensiveness-builds-a-wall)
-rules of conversations, [198-200](#knowing-your-manual)
-
-### S
-
-safe space for conversations, [259-63](#what-it-means-to-be-a-safe-space)
-sarcasm, [181](#the-end-of-interruptions), [228](#why-defensiveness-breaks-connection)
-scheduling conversations, [247-52](#1-set-aside-real-undistracted-time)
-self-assurance. See confidence
-self-awareness, [61](#cut-1-lack-of-awareness), [76](#the-two-phases-of-every-argument), [81](#how-your-body-controls-your-response)
-self-care, [196-97](#defining-the-perimeter)
-self-control
-  and awareness, [103-10](#your-first-thought-is-a-quick-scan)
-  and boundary-setting, [199](#knowing-your-manual)
-  and breathing before speaking, [95-99](#your-first-word-is-your-breath)
-  and keeping conversations on track, [222](#how-to-nudge-a-conversation-back-into-view)
-  and pace of conversations, [119-21](#chapter-6-control-the-pace), [121-27](#the-gift-of-a-pause), [127-33](#how-and-when-to-use-pauses)
-  and physiology of conflict, [80-83](#how-your-body-controls-your-response)
-  and preparing for arguments, [93-95](#chapter-5-control-the-moment)
-  and progression of arguments, [74-80](#the-two-phases-of-every-argument)
-  and quick scan process, [103-10](#your-first-thought-is-a-quick-scan)
-  and small talks, [110-16](#your-first-conversation-is-a-small-talk), [*111*](#your-first-conversation-is-a-small-talk)
-  and taking a conversational breath, [99-103](#how-to-take-a-conversational-breath)
-  and triggers, [83-90](#meet-your-triggers)
-  and value of pausing, [134](#chapter-summary-5)
-self-worth/respect
-  applying the *Is it worth it?* filter, [182-84](#apply-the-is-it-worth-it-filter)
-  and assertive voice, [145-48](#lesson-3-express-your-needs-unapologetically), [158-61](#mind-your-tone), [*159*](#mind-your-tone)
-  and boundary-setting, [195-96](#how-to-build-a-boundary), [197](#defining-the-perimeter)
-  and conversations with difficult people, [166](#when-push-comes-to-shove)
-  and underselling, [152-53](#lesson-7-never-undersell)
-sensitive topics, [220](#how-to-nudge-a-conversation-back-into-view), [251](#1-set-aside-real-undistracted-time). See also difficult conversations
-settings for conversations, [247-52](#1-set-aside-real-undistracted-time)
-short pauses, [128-29](#short-pauses-are-reading-glasses), [134](#chapter-summary-5), [171](#when-theyre-rude-or-dismissive)
-silence, [122](#the-gift-of-a-pause), [151-52](#lesson-6-remove-filler-words), [170-71](#when-they-belittle-patronize-or-condescend-to-you), [238](#how-to-stop-defensiveness)
-small talks, [110-16](#your-first-conversation-is-a-small-talk), [*111*](#your-first-conversation-is-a-small-talk), [112-16](#how-to-build-your-own-small-talk)
-social evaluation triggers, [85-86](#2-psychological-triggers-psychological-triggers), [151](#lesson-5-say-less), [229](#why-defensiveness-breaks-connection)
-social media
-  author's beginnings in, [7-10](#prologue)
-  author's content and style, [67](#part-ii-the-application), [271](#the-47-second-version)
-  and value of "winning" arguments, [33-34](#the-struggle-you-hear)
-stereotypes, [24-25](#chapter-1-never-win-an-argument), [30](#the-person-you-see)
-sympathetic nervous system, [81](#how-your-body-controls-your-response)
-
-### T
-
-tactical breathing, [102](#3-to-clear-your-mind-breathe-rhythmically)
-teenagers, [35-36](#the-challenge-to-accept)
-television programming, [123](#the-gift-of-a-pause)
-text messaging, [56-57](#chapter-3-the-truth-about-connection), [127](#how-and-when-to-use-pauses), [141](#lesson-1-every-word-matters), [172](#when-theyre-rude-or-dismissive), [234-35](#defensiveness-builds-a-wall)
-*The Jefferson Fisher Podcast*, [9](#prologue)
-threats, [76](#the-two-phases-of-every-argument), [83](#meet-your-triggers), [108](#how-to-do-a-quick-scan). See also physical triggers; psychological triggers
-timing of conversations, [247-52](#1-set-aside-real-undistracted-time)
-tone of voice, [128](#short-pauses-are-reading-glasses), [158-62](#mind-your-tone)
-toxic apologies, [175-76](#the-toxic-apology)
-transmission vs. communication, [56-57](#chapter-3-the-truth-about-connection)
-trial settings, [14](#how-this-book-will-help-you), [33](#the-struggle-you-hear), [131-32](#long-pauses-are-mirrors), [265-67](#afterword)
-
-### U
-
-uncertainty, [124](#the-gift-of-a-pause), [159](#mind-your-tone), [251](#1-set-aside-real-undistracted-time)
-underselling, [152-55](#lesson-7-never-undersell)
-uptalking, [159](#mind-your-tone)
-
-### V
-
-values, [48-53](#why-your-conversations-need-values), [87](#2-psychological-triggers-psychological-triggers), [201](#enforcing-the-boundary), [269](#the-47-second-version)
-verbal crutches, [151-52](#lesson-6-remove-filler-words)
-virtual meetings, [149](#lesson-4-speak-when-it-matters)
-vocabulary, [141-42](#lesson-1-every-word-matters), [269](#the-47-second-version)
-voice
-  and defensiveness, [228](#why-defensiveness-breaks-connection), [235](#defensiveness-builds-a-wall)
-  passive voice, [143](#lesson-2-prove-it-to-yourself), [245](#chapter-12-difficult-conversations)
-  tone of voice, [128](#short-pauses-are-reading-glasses), [158-62](#mind-your-tone)
-  using assertive voice, [140-58](#10-ways-to-practice-assertiveness-now-ways-to-practice-assertiveness-now)
-  voice, [84](#1-physical-triggers-physical-triggers)
-
-### W
-
-walls between conversion participants, [230-36](#defensiveness-builds-a-wall), [242](#chapter-summary-10)
-"why" in conversations, [240](#2-dont-begin-your-question-with-why)
-"winning" arguments, [31-35](#the-struggle-you-hear), [75](#chapter-4-control-yourself), [79](#the-two-phases-of-every-argument), [90](#meet-your-triggers)
-word choice, [*111*](#your-first-conversation-is-a-small-talk), [111-12](#your-first-conversation-is-a-small-talk), [141-42](#lesson-1-every-word-matters)
-worldviews, [34-35](#the-struggle-you-hear)
-worst-case scenarios, [213](#what-is-a-conversational-frame)
-written communication, [234-35](#defensiveness-builds-a-wall), [258](#3-begin-with-your-end). See also email; text messaging
-
-### Y
-
-yoga, [103-4](#your-first-thought-is-a-quick-scan)
-"you" in conversations, [239](#1-begin-your-sentence-with-i-not-you), [243](#chapter-summary-10)
+what kind of conversation: In *Never Split the Difference*, by Chris Voss and Tahl Raz, these statements are referred to as “accusation audits.” I recommend this book for another great example of handling sensitive conversations and tactical empathy.
+[GO TO NOTE REFERENCE IN TEXT](#chapter-12-difficult-conversations)
 
 ## About the Author
 
-Jefferson Fisher is a trial lawyer, writer, and speaker whose work to
-help people communicate during life's everyday arguments and
-conversations, with his practical videos and authentic presence, has
-gained millions of followers around the world, including celebrities and
-global leaders. He is a sought-after speaker on communication at Fortune
-500 companies and governmental agencies, and hundreds of thousands of
-people subscribe to his actionable email newsletter and podcast. Fisher
-is a Texas board-certified personal injury attorney and the founder of
-Fisher Firm, where he helps people all over the United States connect to
-trusted legal services. He lives with his wife and two children near
-Beaumont, Texas.
-
+Jefferson Fisher is a trial lawyer, writer, and speaker whose work to help people communicate during life's everyday arguments and conversations, with his practical videos and authentic presence, has gained millions of followers around the world, including celebrities and global leaders. He is a sought-after speaker on communication at Fortune 500 companies and governmental agencies, and hundreds of thousands of people subscribe to his actionable email newsletter and podcast. Fisher is a Texas board-certified personal injury attorney and the founder of Fisher Firm, where he helps people all over the United States connect to trusted legal services. He lives with his wife and two children near Beaumont, Texas.

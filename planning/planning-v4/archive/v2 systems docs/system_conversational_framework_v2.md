@@ -6,9 +6,9 @@ This framework is rooted in the principle that meaningful communication aims for
 
 ## II. Core Mechanics
 
-### A. Relationship & Perception Meters (Expanding on Original)
+### A. Relationship & Perception Meters
 
-These remain central, but their fluctuation will now be more directly tied to the player's application of sophisticated conversational strategies.
+Fluctuation will now be tied to the player's application of conversational strategies.
 
 - Trust Level: How much the NPC confides in the player. Increased by empathetic listening, validating their perspective, keeping commitments, and skillful handling of difficult topics. Decreased by aggressive tactics, broken trust, or dismissing their feelings.  
 - Emotional Investment: How personally attached the NPC is to the player. Influenced by shared vulnerability (both player's and NPC's), consistent empathetic engagement, and navigating personal discussions effectively.  
