@@ -1,0 +1,36 @@
+graph LR
+    subgraph "What You Control"
+        A[Interrogation Choices<br/>Empathy/Fear/Manipulate/Enhanced]
+        B[Team Management<br/>Budget Allocation]
+        C[Press Statements<br/>Public Relations]
+        D[Mission Assignments<br/>Intel Gathering]
+    end
+
+    subgraph "What Changes"
+        E[Fear Meter]
+        F[Openness Meter]
+        G[Public Opinion]
+        H[Press Relations]
+        I[Authority Approval]
+        J[Team Morale]
+        K[Ideology Points]
+        L[Mental Instability]
+    end
+
+    subgraph "What Happens"
+        M[Unlock Dialogue]
+        N[Mission Success Rate]
+        O[Game Over Risk]
+        P[Ending Options]
+    end
+
+    A --> E & F & K & L
+    B --> J & G & H & I
+    C --> G & H
+    D --> N
+
+    E & F --> M
+    G & H & I --> O
+    J --> N
+    K --> P
+    L --> P

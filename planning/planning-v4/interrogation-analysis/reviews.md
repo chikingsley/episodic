@@ -118,3 +118,85 @@ Final Score: 7/10
 - **Release Date:** December 5, 2019
 - **Platforms:** PC, Mac, Linux
 - **Genre:** Detective/Mystery Adventure with RPG elements
+
+---
+
+## Critical Analysis: What They Did Wrong
+
+Based on both professional reviews, here are the key issues identified:
+
+### Core Design Problems
+
+**1. Difficulty Curve Issues**
+
+- No middle ground between "punishingly hard" and "too easy" modes
+- Challenge Mode has brutal time limits that force skimming through important dialogue
+- Players miss story content because they're rushing to beat timers
+- Strategy elements feel disconnected from main gameplay
+
+**2. Unclear Systems Integration**
+
+- Hard to understand how team management affects interrogations
+- Approval ratings (public/press/authority) lack clear cause-and-effect feedback
+- Players can't tell which specific actions caused reputation changes
+- Side systems feel "superfluous" rather than meaningful
+
+**3. Technical Issues**
+
+- Multiple bugs with dialogue option tracking
+- Players get dialogue choices that don't match their selected perks
+- Conditions for unlocking responses are inconsistent
+- Some systems that seem unfair may be due to missing dialogue options
+
+### Specific Gameplay Critiques
+
+**4. Information Overload vs. Time Pressure**
+
+- "Wordy dialogue on complex timed cases gets in the way of gameplay flow"
+- Too much text to read when racing against clock
+- Players resort to scanning for keywords rather than absorbing story
+- Punishment for failure means repeating lengthy sections
+
+**5. Strategy Elements Feel Disconnected**
+
+- Team management doesn't clearly impact main interrogation gameplay
+- Budget allocation consequences are unclear
+- RPG-lite elements seem "shoehorned in" rather than organic
+- Players can succeed without engaging with strategy layer
+
+**6. Reputation System Opacity**
+
+- Players following ethical guidelines still get called out for misconduct
+- Public approval difficult to maintain even with "by the book" approach
+- Unclear what specific actions cause reputation changes
+- May be bugs or intentionally opaque, but frustrating either way
+
+### Narrative Structure Issues
+
+**7. Pacing Problems in Later Episodes**
+
+- Final episodes become "very complex with multiple suspects and story strands"
+- Complexity overwhelms the time-pressure mechanics
+- Players lose narrative thread while frantically clicking through options
+- Story depth sacrificed for mechanical challenge
+
+**8. Ethical Choice Clarity**
+
+- Players unsure if reputation problems are bugs, incompetence, or intentional commentary
+- Moral consequences sometimes feel arbitrary rather than logical
+- Unclear whether certain outcomes reflect player choices or system issues
+
+### What This Means for Dark Mallard
+
+**The Core Lesson:**
+Interrogation succeeds when systems serve story, fails when they compete with it. The time pressure mechanic works for tension but becomes counterproductive when it forces players to skip the narrative content they came for.
+
+**Key Takeaways:**
+
+1. **Integration over Addition:** Every system must clearly serve the core experience
+2. **Feedback Clarity:** Players need to understand cause-and-effect relationships
+3. **Pacing Balance:** Tension mechanisms shouldn't undermine story comprehension
+4. **Technical Polish:** Bugs in dialogue systems are particularly damaging to narrative games
+
+**For Language Learning Context:**
+The reviews suggest players want to engage deeply with dialogue and character development, but time pressure forces surface-level interaction. This is especially relevant for language learning where comprehension and reflection time are crucial.
