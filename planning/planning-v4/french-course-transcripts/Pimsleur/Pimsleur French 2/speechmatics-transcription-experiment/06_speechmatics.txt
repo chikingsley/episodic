@@ -1,0 +1,618 @@
+SPEAKER: S1
+This is one of pimsleur speaking rid of central French to.
+SPEAKER: S2
+Écouter cette conversation.
+SPEAKER: S1
+Mr. Jamison and American speaking with Mrs.
+SPEAKER: S2
+Berger.
+SPEAKER: S1
+His french accointance.
+SPEAKER: S2
+Mr Johnson, un Américain, parle avec madame Berger, une de ses connaissances françaises. Écoutez cette conversation.
+SPEAKER: S3
+Bonjour, madame Berger. Comment allez vous?
+SPEAKER: S4
+Très bien, monsieur Johnson. Et vous?
+SPEAKER: S3
+Très bien.
+SPEAKER: S4
+Merci, monsieur Johnson. Quand est ce que vous êtes arrivé en France?
+SPEAKER: S3
+Hier soir, à 10 h?
+SPEAKER: S4
+Oh! Vous êtes arrivé hier soir? Et combien de temps allez-vous rester?
+SPEAKER: S3
+Deux jours.
+SPEAKER: S4
+Deux jours. Ce n'est pas beaucoup. Et vous aimez Nice?
+SPEAKER: S3
+Je ne sais pas. Je n'ai encore rien vu à Nice.
+SPEAKER: S1
+In this conversation, you heard the speaker says.
+SPEAKER: S2
+Je n'ai encore rien vu à Nice.
+SPEAKER: S1
+Which means I haven't seen anything you in Nice.
+SPEAKER: S2
+Ecoutez encore une fois cette conversation.
+SPEAKER: S3
+Bonjour, madame Berger. Comment allez vous?
+SPEAKER: S4
+Très bien, monsieur Johnson. Et vous?
+SPEAKER: S3
+Très bien.
+SPEAKER: S4
+Merci, monsieur ] }. Quand est ce que vous êtes arrivés en France.
+SPEAKER: S3
+Hier soir à 10 h?
+SPEAKER: S4
+Oh, vous êtes arrivés hier soir? Et combien de temps allez vous rester?
+SPEAKER: S3
+Deux jours.
+SPEAKER: S4
+Deux jours. Ce n'est pas beaucoup. Et vous aimez Nice?
+SPEAKER: S3
+Je ne sais pas. Je n'ai encore rien vu à Nice.
+SPEAKER: S1
+Nice suppose You are speaking with the french accointance at her home ask your how she is.
+SPEAKER: S3
+Comment allez vous?
+SPEAKER: S1
+She is very well.
+SPEAKER: S4
+Très bien.
+SPEAKER: S1
+How to she ask and you? How are you?
+SPEAKER: S4
+Et vous, comment allez vous? Et vous, comment allez vous?
+SPEAKER: S1
+Dites I am well. Thank you.
+SPEAKER: S3
+Je vais bien. Merci. Je vais bien, Merci.
+SPEAKER: S1
+And how would you say not bad?
+SPEAKER: S3
+Pas mal, pas mal.
+SPEAKER: S1
+How do you ask when did you arrive?
+SPEAKER: S4
+Quand est ce que vous êtes arrivés?
+SPEAKER: S1
+Did you arrive today?
+SPEAKER: S4
+Est ce que vous êtes arrivés aujourd'hui? Est ce que vous êtes arrivés aujourd'hui?
+SPEAKER: S1
+Répondez Now I arrived yesterday morning.
+SPEAKER: S3
+Non, Je suis arrivé hier matin.
+SPEAKER: S2
+Comment dit on you like?
+SPEAKER: S4
+Vous aimez?
+SPEAKER: S1
+Now you're accountant asks you. If you'd like to drink something just Listen.
+SPEAKER: S4
+Est-Ce que vous aimeriez boire quelque chose? Est-Ce Que vous aimeriez boire quelque chose?
+SPEAKER: S1
+Aimeriez Literally means would like this used more commonly than.
+SPEAKER: S2
+Voudriez.
+SPEAKER: S1
+Which literally means would want?
+SPEAKER: S2
+Écoutez et répétez Vous aimeriez.
+SPEAKER: S4
+Riez. Riez, M. Aimeriez. Vous aimeriez.
+SPEAKER: S1
+Try to say I would like.
+SPEAKER: S3
+J'aimerais. J'aimerais.
+SPEAKER: S2
+J'aimerais. Vous aimeriez.
+SPEAKER: S1
+From now on to mean. I would like you would like now, ask would you like?
+SPEAKER: S4
+Est-Ce que vous aimeriez?
+SPEAKER: S2
+Comment? Demande T-elle?
+SPEAKER: S1
+Would you like to drink something?
+SPEAKER: S4
+Est-Ce Que vous aimeriez boire quelque chose? Est-Ce Que vous aimeriez boire quelque chose?
+SPEAKER: S1
+Something or some beer.
+SPEAKER: S4
+Du vin ou de la bière? Du vin ou de la bière?
+SPEAKER: S1
+Répondez Some wine, please.
+SPEAKER: S3
+Du vin, s'il vous plaît. Du vin.
+SPEAKER: S1
+She is MeToo.
+SPEAKER: S4
+Moi aussi.
+SPEAKER: S1
+She goes to get two glass of wine what might she says I give you your glass.
+SPEAKER: S4
+Voilà.
+SPEAKER: S3
+Merci bien.
+SPEAKER: S1
+She asks what did you do today?
+SPEAKER: S2
+Écoutez et répétez.
+SPEAKER: S4
+Vous avez fait? Fait, Avez fait? Vous avez fait.
+SPEAKER: S2
+Essayez de demander.
+SPEAKER: S1
+What? Did you do?
+SPEAKER: S4
+Qu'est-Ce que vous avez fait? Vous avez fait? Qu'est-Ce que vous avez fait?
+SPEAKER: S2
+Elle demande.
+SPEAKER: S1
+She asks. What Did you do today?
+SPEAKER: S4
+Qu'est ce que vous avez fait aujourd'hui?
+SPEAKER: S1
+Where did you go?
+SPEAKER: S4
+Où est ce que vous êtes allés? Où est ce que vous êtes allés?
+SPEAKER: S1
+What Did you do?
+SPEAKER: S4
+Qu'est ce que vous avez fait?
+SPEAKER: S1
+Tell her that you but something?
+SPEAKER: S3
+J'ai acheté quelque chose. J'ai acheté. J'ai acheté quelque chose.
+SPEAKER: S1
+With some friends.
+SPEAKER: S3
+Et j'ai mangé avec des amis. J'ai mangé.
+SPEAKER: S1
+WE are at the restaurant "Shay.
+SPEAKER: S5
+Jack" ] }.
+SPEAKER: S3
+Nous avons mangé au restaurant "Shay jack" ] }. Nous avons mangé au restaurant "Shay jack" ] }.
+SPEAKER: S1
+It's a very good restaurant.
+SPEAKER: S3
+C'est un très bon restaurant.
+SPEAKER: S2
+Comment dit on you spoke?
+SPEAKER: S4
+Vous avez parlé?
+SPEAKER: S2
+Essayez de dire.
+SPEAKER: S1
+I spoke French.
+SPEAKER: S3
+J'ai parlé français.
+SPEAKER: S1
+I spoke French a lot.
+SPEAKER: S2
+Écoutez et répétez.
+SPEAKER: S3
+J'ai beaucoup parlé français. Parler français. J'ai beaucoup parlé. J'ai beaucoup parlé français.
+SPEAKER: S2
+Comment dites vous?
+SPEAKER: S1
+I spoke French a lot?
+SPEAKER: S3
+J'ai beaucoup parlé français.
+SPEAKER: S1
+I did a lot of things today.
+SPEAKER: S3
+J'ai fait beaucoup de choses aujourd'hui. J'ai fait beaucoup de choses aujourd'hui.
+SPEAKER: S1
+How to ask you if you like nice?
+SPEAKER: S4
+Est ce que vous aimez Nice?
+SPEAKER: S1
+Tell her Yes, you like Nice.
+SPEAKER: S3
+Oui, j'aime Nice.
+SPEAKER: S2
+Dites que vous aimez beaucoup Nice.
+SPEAKER: S3
+J'aime beaucoup Nice.
+SPEAKER: S1
+C'est again. I like.
+SPEAKER: S2
+Nice.
+SPEAKER: S1
+Very much.
+SPEAKER: S3
+J'aime beaucoup Nice.
+SPEAKER: S1
+I arrived Yesterday.
+SPEAKER: S3
+Je suis arrivée hier.
+SPEAKER: S1
+And today I bought a lot of things.
+SPEAKER: S3
+Et aujourd'hui, j'ai acheté beaucoup de choses. Et aujourd'hui, j'ai acheté beaucoup de choses.
+SPEAKER: S1
+I bought too many things.
+SPEAKER: S3
+J'ai acheté trop de choses. Trop de. Trop de choses. J'ai acheté trop de choses.
+SPEAKER: S1
+You want to add but I saw nothing in Nice.
+SPEAKER: S2
+Voici comment on dit I saw. Répétez, s'il vous plaît.
+SPEAKER: S3
+J'ai vu, vu, vu et vu. J'ai vu.
+SPEAKER: S1
+Say I saw.
+SPEAKER: S3
+J'ai vu.
+SPEAKER: S1
+Try to say you saw.
+SPEAKER: S4
+Vous avez vu? Vous avez vu?
+SPEAKER: S2
+Comment dit on.
+SPEAKER: S1
+Nothing?
+SPEAKER: S3
+Rien.
+SPEAKER: S2
+Voici comment on dit.
+SPEAKER: S1
+I saw nothing.
+SPEAKER: S2
+Écoutez et répétez.
+SPEAKER: S3
+Je n'ai rien vu, Rien vu. Rien vu. Je n'ai. Je n'ai rien vu. Je n'ai rien vu.
+SPEAKER: S1
+Say I saw Nothing.
+SPEAKER: S3
+Je n'ai rien vu.
+SPEAKER: S1
+Il n'y.
+SPEAKER: S3
+A N'y. A à Nice.
+SPEAKER: S2
+Comment demande t elle?
+SPEAKER: S1
+What did you see in Nice?
+SPEAKER: S4
+Qu'est ce que vous avez vu à Nice? Qu'est ce que vous avez vu à Nice?
+SPEAKER: S2
+Voici comment on dit Nothing yet. Répétez, s'il vous plaît.
+SPEAKER: S3
+Encore rien. Encore. Encore. Encore. Rien.
+SPEAKER: S2
+Comment dit on.
+SPEAKER: S1
+Yet?
+SPEAKER: S3
+Encore?
+SPEAKER: S1
+I haven't seen anything yet.
+SPEAKER: S2
+Écoutez et répétez.
+SPEAKER: S3
+Je n'ai encore rien vu. Rien vu. Encore rien vu. Je n'ai encore rien vu. Je n'ai encore rien vu.
+SPEAKER: S1
+I haven't seen anything yet.
+SPEAKER: S5
+Nice.
+SPEAKER: S3
+Je n'ai encore rien vu à Nice. Encore rien. Je n'ai encore rien vu à Nice.
+SPEAKER: S1
+I did a lot of things today.
+SPEAKER: S3
+J'ai fait beaucoup de choses aujourd'hui.
+SPEAKER: S1
+I bought a lot of things.
+SPEAKER: S3
+J'ai acheté beaucoup de choses. J'ai acheté beaucoup de choses.
+SPEAKER: S1
+But Nice is very large.
+SPEAKER: S3
+Many c'est très grand.
+SPEAKER: S1
+Much too large.
+SPEAKER: S3
+Beaucoup trop grand.
+SPEAKER: S1
+Your acquaintance wants to know if you're familiar with can.
+SPEAKER: S2
+Répétez, s'il vous plaît.
+SPEAKER: S4
+Est ce que vous connaissez Cannes? Connaissez? Vous connaissez? Est ce que vous connaissez Cannes?
+SPEAKER: S1
+She's asking are you acquainted with cannes the expressions? Vous connaissez is currently used to ask someone knows the person the place the book of film and so on.
+SPEAKER: S2
+Demandez encore une fois.
+SPEAKER: S1
+Are you wanted with.
+SPEAKER: S5
+Quand?
+SPEAKER: S4
+Est ce que vous connaissez Cannes?
+SPEAKER: S1
+Now listen to another common way of asking the same question.
+SPEAKER: S4
+Vous connaissez CAN? Vous connaissez CAN?
+SPEAKER: S2
+Est ce que.
+SPEAKER: S1
+Because it's understood now, Ask do you know.
+SPEAKER: S5
+Can.
+SPEAKER: S1
+Using this way of asking the question.
+SPEAKER: S4
+Vous connaissez CAN? Vous connaissez CAN?
+SPEAKER: S1
+Dites Now, not yet.
+SPEAKER: S3
+Non, pas encore. Pas encore. Pas encore.
+SPEAKER: S1
+I don't know.
+SPEAKER: S2
+Can. Écoutez et répétez.
+SPEAKER: S3
+Je ne connais pas CAN. Connais, Ne connais. Je ne connais pas. Je ne connais pas Cannes.
+SPEAKER: S2
+Comment dites vous?
+SPEAKER: S1
+I don't know.
+SPEAKER: S2
+Cannes.
+SPEAKER: S3
+Je ne connais pas Cannes.
+SPEAKER: S1
+And how would you say? I know.
+SPEAKER: S5
+Cannes.
+SPEAKER: S1
+A little literally. I know a little Cannes.
+SPEAKER: S3
+Je connais un peu Cannes. Je connais un peu Cannes.
+SPEAKER: S1
+Try asking again. Do you know.
+SPEAKER: S5
+Cannes.
+SPEAKER: S1
+First with.
+SPEAKER: S2
+Est ce que.
+SPEAKER: S1
+And then without?
+SPEAKER: S4
+Est ce que vous connaissez Cannes? Vous connaissez Cannes?
+SPEAKER: S2
+Elle dit Cannes.
+SPEAKER: S4
+Cannes n'est pas loin.
+SPEAKER: S1
+And it's very beautiful Cannes.
+SPEAKER: S4
+Et ses très beaux cannes. Et c'est très beau, Cannes.
+SPEAKER: S2
+Comment demande t elle?
+SPEAKER: S1
+How long are you going to stay in France?
+SPEAKER: S4
+Combien de temps est ce que vous allez rester en France? Combien de temps est ce que vous allez rester en France?
+SPEAKER: S1
+A week?
+SPEAKER: S3
+Une semaine?
+SPEAKER: S2
+Répondez que vous allez rester trois semaines.
+SPEAKER: S3
+Je vais rester trois semaines. Trois semaines.
+SPEAKER: S2
+Essayez de dire.
+SPEAKER: S1
+And I'm going to stay today is here in.
+SPEAKER: S2
+Nice.
+SPEAKER: S3
+Et je vais rester deux jours ici à Nice. Et je vais rester deux jours ici à Nice.
+SPEAKER: S1
+Here's how to say the city or the town.
+SPEAKER: S2
+Écoutez et répétez La ville.
+SPEAKER: S4
+Ville, ville, La ville.
+SPEAKER: S1
+Would you like to visit the city?
+SPEAKER: S2
+Écoutez et répétez.
+SPEAKER: S4
+Est-Ce Que vous aimeriez visiter? La ville? Vous aimeriez visiter la ville?
+SPEAKER: S2
+Comment dit on to visit?
+SPEAKER: S4
+Visiter.
+SPEAKER: S1
+Would you like to visit the city?
+SPEAKER: S4
+Est-Ce que vous aimeriez visiter? La ville? Vous aimeriez visiter la ville?
+SPEAKER: S1
+Demander When.
+SPEAKER: S2
+Quand elle répond.
+SPEAKER: S1
+Tomorrow Morning.
+SPEAKER: S4
+Demain matin. Matin. Demain matin.
+SPEAKER: S5
+Dites.
+SPEAKER: S1
+I don't have much time.
+SPEAKER: S3
+Je n'ai pas beaucoup de temps.
+SPEAKER: S1
+I don't have much time tomorrow morning.
+SPEAKER: S3
+Je n'ai pas beaucoup de temps demain matin. Je n'ai pas beaucoup de temps demain matin.
+SPEAKER: S1
+Try to say I'm working tomorrow.
+SPEAKER: S3
+Je travaille demain. Je travaille demain.
+SPEAKER: S1
+Now ask how does one? C'est.
+SPEAKER: S3
+Comment dit on?
+SPEAKER: S1
+How to say work in French?
+SPEAKER: S3
+Comment dit on en français? Comment dit on en français?
+SPEAKER: S2
+Elle répond Travaille.
+SPEAKER: S1
+In French.
+SPEAKER: S4
+On dit travaille en français. Le travail?
+SPEAKER: S1
+Dit Work.
+SPEAKER: S3
+J'ai beaucoup de travail. J'ai beaucoup de travail.
+SPEAKER: S1
+I have a lot of work tomorrow morning.
+SPEAKER: S3
+J'ai beaucoup de travail demain matin.
+SPEAKER: S1
+Well done. Would you like to visit the City tomorrow evening?
+SPEAKER: S4
+Alors, est ce que vous aimeriez visiter la ville demain soir? Vous aimeriez visiter la ville demain soir?
+SPEAKER: S1
+Yes! Tomorrow Evening.
+SPEAKER: S3
+Oui, d'accord. Demain soir. Oui, D'accord. Demain soir.
+SPEAKER: S1
+Not tomorrow morning.
+SPEAKER: S3
+Pas demain matin.
+SPEAKER: S1
+I have to much work tomorrow morning.
+SPEAKER: S3
+J'ai trop de travail demain matin. J'ai trop de travail demain matin.
+SPEAKER: S1
+Very well. See you tomorrow evening.
+SPEAKER: S4
+Très bien. À demain soir.
+SPEAKER: S1
+Do you remember? How to say something to drink?
+SPEAKER: S3
+Quelque chose à boire. À boire. Quelque chose à boire.
+SPEAKER: S1
+Now that you want to be something to drink.
+SPEAKER: S2
+Imaginez maintenant que vous voulez acheter quelque chose à boire?
+SPEAKER: S1
+That you want to be something to drink? How do you greet the lady in the shop?
+SPEAKER: S3
+Bonjour, madame.
+SPEAKER: S2
+Dites que vous voudriez du vin.
+SPEAKER: S3
+Je voudrais du vin.
+SPEAKER: S2
+Dites que vous voudriez aussi de la bière.
+SPEAKER: S3
+Je voudrais aussi de la bière.
+SPEAKER: S1
+Ask how much the beer is ask literally. It's how much the beer.
+SPEAKER: S3
+C'est combien la bière? C'est combien? La bière?
+SPEAKER: S1
+Is that it's eight Frank Literally. It's that Frank The beer.
+SPEAKER: S4
+C'est huit francs la bière.
+SPEAKER: S1
+Ask how much the wine.
+SPEAKER: S3
+C'est combien le vin? C'est combien? Le vin?
+SPEAKER: S1
+She is that the wine is not expensive.
+SPEAKER: S4
+Le vin n'est pas cher.
+SPEAKER: S1
+Tell her that you're going to take the beer and the wine.
+SPEAKER: S3
+Je vais prendre la bière et le vin.
+SPEAKER: S2
+La dame pose une question.
+SPEAKER: S1
+Ask a question.
+SPEAKER: S2
+Écoutez et répondez.
+SPEAKER: S4
+Vous êtes américain?
+SPEAKER: S3
+Oui, je suis américain.
+SPEAKER: S4
+Vous comprenez très bien le français.
+SPEAKER: S1
+You understand a little?
+SPEAKER: S3
+Je comprends un peu.
+SPEAKER: S1
+Ask you speak english?
+SPEAKER: S3
+Est-Ce que vous parlez anglais?
+SPEAKER: S4
+Non, je ne parle pas anglais.
+SPEAKER: S2
+La dame pose une autre question.
+SPEAKER: S1
+Another question.
+SPEAKER: S2
+Écoutez.
+SPEAKER: S4
+Quand est ce que vous êtes arrivés à Nice?
+SPEAKER: S1
+Tell her you arrived last night?
+SPEAKER: S3
+Je suis arrivé hier soir.
+SPEAKER: S4
+Vous connaissez Nice?
+SPEAKER: S1
+Say no not yet.
+SPEAKER: S3
+Non, pas encore.
+SPEAKER: S4
+Qu'est ce que vous avez vu à Nice?
+SPEAKER: S1
+C'est I haven't seen anything yet.
+SPEAKER: S3
+Je n'ai encore rien vu. Je n'ai encore rien vu.
+SPEAKER: S1
+C'est I'm going to visit.
+SPEAKER: S5
+Nice.
+SPEAKER: S1
+Tomorrow morning.
+SPEAKER: S3
+Je vais visiter Nice demain matin.
+SPEAKER: S1
+I have a lot of work.
+SPEAKER: S3
+J'ai beaucoup de travail.
+SPEAKER: S1
+I have not much time.
+SPEAKER: S3
+Et je n'ai pas beaucoup de temps.
+SPEAKER: S1
+I'm going to visit the city tomorrow.
+SPEAKER: S3
+Mais je vais visiter la ville demain matin.
+SPEAKER: S1
+Goodbye, madame.
+SPEAKER: S3
+Au revoir, madame.
+SPEAKER: S4
+Au revoir, monsieur. Vous comprenez bien le Français?
+SPEAKER: S1
+And that's true, you do understand more than just a little French don't be concerned. If you are not made every response correctly all that you've learned here and then speak and read the French one will be reviewed in future unite. If you've mastered about the end of the materials in this lesson, you're ready to move on to the next otherwise you should invest some time and review. This is the end of today's lesson. When you continue with the next you tomorrow, please begin with track number two.

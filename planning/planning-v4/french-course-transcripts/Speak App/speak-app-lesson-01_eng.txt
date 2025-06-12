@@ -1,0 +1,341 @@
+[Noémie]
+Bonjour, I'm Noémie. "Enchanté." Nice to meet you. Try saying that out loud right into your phone. Ready? 
+
+[Prompter]
+Enchanté. 
+
+[Student]
+Enchanté. 
+
+[Confirmation Speaker]
+Enchanté. 
+
+[Notification]
+[notification sound] 
+
+[Prompter]
+Nice to meet you. 
+
+[Student]
+Enchanté. 
+
+[Notification]
+[notification sound] 
+
+[Confirmation Speaker]
+Enchanté. 
+
+[Noémie]
+Bravo! With the Speak Method, you learn French intuitively through speaking. So, welcome to our Beginning French Course! If you're ready to go, say "on y va"! 
+
+[Prompter]
+On y va! 
+
+[Student]
+On y va! 
+
+[Notification]
+[notification sound] 
+
+[Prompter]
+Let's go! 
+
+[Student]
+On y va! 
+
+[Notification]
+[notification sound] 
+
+[Confirmation Speaker]
+On y va! 
+
+[Noémie]
+All right. Let's start with a classic French greeting. "Bonjour!" Literal translation: "good day." But it basically means hello. A little tip for this word. O-N makes the sound, "ong" bon-jour. Bonjour! Give it a try. 
+
+[Prompter]
+Bonjour. 
+
+[Student]
+Bonjour. 
+
+[Notification]
+[notification sound] 
+
+[Prompter]
+Bonjour. Enchanté. 
+
+[Student]
+Bonjour. Enchanté.
+
+[Notification]
+[notification sound] 
+
+[Prompter]
+Hello. Nice to meet you. 
+
+[Student]
+Bonjour. Enchanté. 
+
+[Notification]
+[notification sound]
+
+[Confirmation Speaker]
+Bonjour. Enchanté. 
+
+[Noémie]
+Wow! Off to a great start. Okay, picture yourself on a plane to Paris. You sit down next to a French speaker. "Bonjour!" Now, you want to introduce yourself. What do you say? "Je m'appelle"? No! Too textbooky. Here's what I would say... "Moi, c'est Noémie." I'm Noémie. Technically, "moi" means "me" and "c'est" means "it is." Notice how E-S-T makes the /e/ in "c'est"? weird... I know, but it's just one of those things you'll naturally get used to. Anyway, you can use this expression to introduce yourself in a natural, casual way. "Moi, c'est Noémie." Try that out. 
+
+[Prompter]
+Moi, c'est...
+
+[Student]
+Moi, c'est...
+
+[Notification]
+[notification sound]
+
+[Prompter]
+Moi, c'est Noémie. 
+
+[Student]
+Moi, c'est Noémie.
+
+[Notification]
+[notification sound]
+
+[Prompter]
+Moi, c'est Noémie.
+
+[Student]
+Moi, c'est Noémie.
+
+[Notification]
+[notification sound]
+
+[Noémie]
+Super. Great. At Speak, we teach you French that people actually use, so that you sound like a native speaker from day one. So, how would a French speaker respond to this? Let's speak a French name like, hmm, Philippe. "Philippe, enchanté." Philippe, nice to meet you." Short and sweet. "Philippe, enchanté." Let's practice. 
+
+[Prompter]
+Philippe, enchanté. 
+
+[Student]
+Philippe, enchanté. 
+
+[Notification]
+[notification sound] 
+
+[Prompter]
+Philippe, enchanté. 
+
+[Student]
+Philippe, enchanté. 
+
+[Notification]
+[notification sound] 
+
+[Noémie]
+Bravo! Great job! Okay, moving on. Imagine you want to get to know Philippe a little better. You can ask him this... "Vous vivez à Paris?" Do you live in Paris? "Vous" is the formal word for "you" that we use with strangers. So, it's technically, "You live in Paris?" Also, did you notice that the letters S, Z, and S aren't pronounced? "Vous vivez à Paris?" I know. We have a lot of silent letters in French. It can get a little confusing, so for now, we'll write them like this. "Vous vivez à Paris?" Give that a try. 
+
+[Prompter]
+Vous vivez. 
+
+[Student]
+Vous vivez. 
+
+[Notification]
+[notification sound] 
+
+[Prompter]
+Vous vivez. 
+
+[Student]
+Vous vivez. 
+
+[Notification]
+[notification sound] 
+
+[Prompter]
+Vous vivez à Paris? 
+
+[Student]
+Vous vivez à Paris? 
+
+[Notification]
+[notification sound] 
+
+[Prompter]
+Do you live in Paris? 
+
+[Student]
+Vous vivez à Paris? 
+
+[Notification]
+[notification sound] 
+
+[Confirmation Speaker]
+Vous vivez à Paris? 
+
+[Noémie]
+Nice job. Now, if he does live in Paris, you might say, "Oui, et vous?" Literally, "Yes, and you?" But think of it like, "Yes, how about you?" "Oui, et vous?" If he doesn't live in Paris, he might say, "Non, à Nice." This "non" rhymes with "bon," like "bonjour." "No, à Nice." Beautiful city, by the way. Ready? Let's give it a go. 
+
+[Prompter]
+Oui, et vous? 
+
+[Student]
+Oui, et vous? 
+
+[Notification]
+[notification sound] 
+
+[Prompter]
+Oui, et vous? 
+
+[Student]
+Oui, et vous? 
+
+[Notification]
+[notification sound] 
+
+[Prompter]
+Yes, and you? 
+
+[Student]
+Oui, et vous? 
+
+[Notification]
+[notification sound] 
+
+[Confirmation Speaker]
+Oui, et vous? 
+
+[Prompter]
+Non, à Nice. 
+
+[Student]
+Non, à Nice.
+
+[Notification]
+[notification sound] 
+
+[Prompter]
+Non, à Nice.
+
+[Student]
+Non, à Nice.
+
+[Notification]
+[notification sound] 
+
+[Prompter]
+No, in Nice. 
+
+[Student]
+Non, à Nice.
+
+[Notification]
+[notification sound]
+
+[Confirmation Speaker]
+Non, à Nice.
+
+[Noémie]
+Very nice. You're speaking French. Okay, before we finish up, let's review what we've learned. 
+
+[Prompter]
+Bonjour. Moi, c'est Noémie. 
+
+[Student]
+Bonjour. Moi, c'est Noémie. 
+
+[Notification]
+[notification sound]
+
+[Prompter]
+Philippe. Nice to meet you. 
+
+[Student]
+Philippe. Enchanté. 
+
+[Notification]
+[notification sound]
+
+[Confirmation Speaker]
+Philippe. Enchanté. 
+
+[Prompter]
+Hello. I'm Philippe. 
+
+[Student]
+Bonjour. Moi, c'est Philippe. 
+
+[Notification]
+[notification sound]
+
+[Confirmation Speaker]
+Bonjour. Moi, c'est Philippe.
+
+[Prompter]
+Noémie. Nice to meet you. 
+
+[Student]
+Noemi. Enchante. 
+
+[Notification]
+[notification sound] 
+
+[Confirmation Speaker]
+Noemi. Enchante. 
+
+[Noémie]
+Bravo! Now, you're going to hear a question like, "Vous vivez à Paris?" Your job is to answer using the response that we gave you. So if you read, "Yes, how about you?" You'll say, "Oui. Et vous?" All right, here we go! 
+
+[Prompter]
+Vous vivez à Paris? 
+
+[Student]
+Oui. Et vous? 
+
+[Notification]
+[notification sound] 
+
+[Confirmation Speaker]
+Oui. Et vous? 
+
+[Prompter]
+Vous vivez à Nice? 
+
+[Student]
+Non, à Paris. 
+
+[Notification]
+[notification sound] 
+
+[Confirmation Speaker]
+Non, à Paris. 
+
+[Prompter]
+Vous vivez à Nice? 
+
+[Student]
+Oui. Et vous? 
+
+[Notification]
+[notification sound] 
+
+[Confirmation Speaker]
+Oui. Et vous? 
+
+[Prompter]
+Vous vivez à Paris? 
+
+[Student]
+Non, à Nice. 
+
+[Notification]
+[notification sound]
+
+[Confirmation Speaker]
+Non, à Nice. 
+
+[Noémie]
+Très bien! Very nice! You just spoke 90 words in French! And in the next couple of activities, you'll speak twice as many! So keep it up. In just a few more lessons with Speak, you'll feel comfortable having simple everyday conversations in French. For now, check out the next activity where you can practice what you just learned until it's second nature. à bientôt! See you soon!
