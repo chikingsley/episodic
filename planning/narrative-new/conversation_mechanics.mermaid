@@ -1,0 +1,67 @@
+graph TD
+    Start[Conversation Begins] --> Confidence{Your Preparation Level}
+    
+    Confidence --> High[High Confidence<br/>Practiced this scenario]
+    Confidence --> Med[Medium Confidence<br/>Similar scenarios practiced]  
+    Confidence --> Low[Low Confidence<br/>New situation/vocabulary]
+    
+    High --> Perfect[Perfect Response<br/>Suspicion: 0 percent<br/>Trust: +20 percent]
+    High --> Good[Good Response<br/>Suspicion: +5 percent<br/>Trust: +10 percent]
+    
+    Med --> Good
+    Med --> Awkward[Awkward Response<br/>Suspicion: +15 percent<br/>Trust: -5 percent]
+    Med --> Help1[Pull Out Phone<br/>Suspicion: +10 percent<br/>Get correct response]
+    
+    Low --> Awkward
+    Low --> Failure[Complete Failure<br/>Suspicion: +30 percent<br/>Trust: -20 percent]
+    Low --> Help2[Pull Out Phone<br/>Suspicion: +20 percent<br/>Hope for correct response]
+    
+    Perfect --> Success[Mission Advances<br/>Information Gained]
+    Good --> Continue[Conversation Continues]
+    
+    Awkward --> Suspicion1{Suspicion Level}
+    Failure --> Suspicion2{Suspicion Level}
+    Help1 --> Suspicion1
+    Help2 --> Suspicion2
+    
+    Suspicion1 --> S1Low[Under 30 percent: Confused<br/>but continue talking]
+    Suspicion1 --> S1Med[30-60 percent: Getting nervous<br/>Asking probing questions]
+    Suspicion1 --> S1High[60-80 percent: Very suspicious<br/>About to end conversation]
+    
+    Suspicion2 --> S2Med[30-60 percent: Definitely suspicious<br/>Starting to back away]
+    Suspicion2 --> S2High[60-80 percent: Highly suspicious<br/>Reaching for phone]
+    Suspicion2 --> S2Crit[80 percent plus: CRITICAL<br/>I am calling the police]
+    
+    S1Low --> Continue
+    S1Med --> LastChance[One more chance<br/>Better get this right]
+    S1High --> Threat[You are not who you say you are<br/>Choose response quickly]
+    
+    S2Med --> Threat
+    S2High --> Immediate[I am telling the Owl<br/>Must act NOW]
+    S2Crit --> Blown[Cover Completely Blown<br/>Person runs/calls for help]
+    
+    LastChance --> Perfect
+    LastChance --> Failure
+    
+    Threat --> Deny[Try to deny<br/>Roll the dice]
+    Threat --> Blackmail1[Reveal their secret<br/>Before you do that...]
+    Threat --> Leave[Cut and run<br/>Mission fails]
+    
+    Immediate --> Blackmail2[Emergency blackmail<br/>Stop or I expose you]
+    Immediate --> Physical[Physical intervention<br/>High risk/high reward]
+    
+    Blackmail1 --> BM_Success[They back down<br/>Now you own them]
+    Blackmail1 --> BM_Fail[They call your bluff<br/>Situation escalates]
+    
+    Blackmail2 --> BM_Success
+    Blackmail2 --> BM_Mutual[Mutual destruction<br/>We both have secrets]
+    
+    BM_Success --> Asset[New blackmailed asset<br/>But they hate you]
+    
+    style Start fill:#2196f3,color:#fff
+    style Perfect fill:#4caf50,color:#fff
+    style Failure fill:#f44336,color:#fff
+    style Blackmail1 fill:#ff9800,color:#fff
+    style Blackmail2 fill:#ff5722,color:#fff
+    style BM_Success fill:#9c27b0,color:#fff
+    style Blown fill:#000,color:#fff

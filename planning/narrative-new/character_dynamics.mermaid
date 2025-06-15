@@ -1,0 +1,44 @@
+graph LR
+    Drake[Drake/Dark Mallard<br/>Protagonist]
+    
+    subgraph "The Syndicate"
+        Owl[The Owl<br/>CEO/Mastermind<br/>Secret: Embezzling funds]
+        Bear[The Bear<br/>Enforcer/COO<br/>Secret: Family in witness protection]
+        Lily[Lily<br/>Field Agent<br/>Secret: Actually undercover cop]
+    end
+    
+    subgraph "Potential Assets"
+        Cafe[Cafe Owner<br/>Marie<br/>Secret: Affair with city councilman]
+        Info[Information Broker<br/>Antoine<br/>Secret: Massive gambling debt]
+        Police[Police Inspector<br/>Dubois<br/>Secret: Taking bribes from Owl]
+        Hotel[Hotel Manager<br/>Sophie<br/>Secret: Skimming from till]
+    end
+    
+    subgraph "Wild Cards"
+        Stella[Stella<br/>Missing Agent<br/>Secret: Discovered Owl real plan]
+        Contact[Mystery Contact<br/>Jean<br/>Secret: Double agent - but for whom?]
+    end
+
+    Drake -.->|Blackmail| Cafe
+    Drake -.->|Blackmail| Info  
+    Drake -.->|Blackmail| Police
+    Drake -.->|Blackmail| Hotel
+    
+    Owl -->|Controls| Bear
+    Owl -->|Commands| Lily
+    
+    Cafe -->|Feeds intel to| Owl
+    Info -->|Sells to highest bidder| Owl
+    Police -->|Reports to| Owl
+    
+    Bear -->|Threatens| Info
+    Lily -->|Manipulates| Cafe
+    
+    Stella -.->|Hidden connection| Contact
+    Contact -->|Unknown loyalty| Owl
+    
+    style Drake fill:#4a90e2
+    style Owl fill:#d32f2f
+    style Bear fill:#8d6e63  
+    style Lily fill:#e91e63
+    style Stella fill:#ff9800

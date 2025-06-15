@@ -1,0 +1,71 @@
+graph LR
+    subgraph "PRACTICE MODE"
+        P1[Bonjour madame<br/>Perfect pronunciation]
+        P2[Je voudrais un cafe<br/>Confident delivery]
+        P3[Avez-vous vu Stella?<br/>Clear and direct]
+        
+        P1 --> P2 --> P3
+        P3 --> P_Success[Practice complete<br/>Dialogue tree mastered]
+    end
+    
+    subgraph "REAL CONVERSATION"
+        R_Start[Face real person<br/>Time pressure activated]
+        
+        R_Start --> R1{Say Bonjour madame}
+        R1 --> R1_Perfect[Perfect<br/>0 percent suspicion]
+        R1 --> R1_Good[Good enough<br/>5 percent suspicion]
+        R1 --> R1_Bad[Mispronounced<br/>15 percent suspicion]
+        
+        R1_Perfect --> R2{Order coffee}
+        R1_Good --> R2
+        R1_Bad --> R2
+        
+        R2 --> R2_Perfect[Je voudrais...<br/>But now they respond<br/>off-script!]
+        R2 --> R2_Panic[Forget the phrase<br/>Need phone help]
+        
+        R2_Perfect --> Curveball[Quel type de cafe?<br/>What type of coffee?<br/>NOT in your practice!]
+        
+        Curveball --> Improvise{Must improvise!}
+        Improvise --> Good_Guess[Un cafe noir?<br/>Lucky guess works]
+        Improvise --> Bad_Guess[Un cafe... uh...<br/>Suspicious pause]
+        Improvise --> Phone_Help[Check phone<br/>Plus 15 percent suspicion]
+        
+        Bad_Guess --> Rising_Suspicion[Vous etes francais?<br/>Are you French?<br/>DEFINITELY not practiced!]
+        
+        Rising_Suspicion --> Crisis{CRISIS POINT}
+        Crisis --> Blackmail_Time[Time for blackmail<br/>About your gambling debt...]
+        Crisis --> Try_Deny[Oui, bien sur!<br/>Hope they believe you]
+        Crisis --> Run_Away[Abort mission<br/>Come back later]
+    end
+    
+    subgraph "CONVERSATION TYPES"
+        Cafe[CAFE<br/>Order drinks<br/>Ask about Stella<br/>Read their mood]
+        
+        Hotel[HOTEL<br/>Check in/out<br/>Ask about guests<br/>Access restricted areas]
+        
+        Police[POLICE<br/>Report crime<br/>Ask about investigation<br/>Avoid suspicion]
+        
+        Criminal[CRIMINAL<br/>Buy information<br/>Negotiate deals<br/>Threaten or be threatened]
+    end
+    
+    subgraph "PRACTICED ELEMENTS"
+        Greetings[Greetings and Politeness]
+        Questions[Basic Questions]
+        Directions[Asking for Directions]
+        Time[Times and Schedules]
+        Money[Numbers and Transactions]
+        Emotions[Expressing Feelings]
+    end
+    
+    Greetings --> Cafe
+    Questions --> Hotel
+    Directions --> Police
+    Time --> Criminal
+    Money --> Criminal
+    Emotions --> Cafe
+    
+    style P_Success fill:#4caf50,color:#fff
+    style Curveball fill:#ff9800,color:#fff
+    style Crisis fill:#f44336,color:#fff
+    style Blackmail_Time fill:#9c27b0,color:#fff
+    style Rising_Suspicion fill:#ff5722,color:#fff

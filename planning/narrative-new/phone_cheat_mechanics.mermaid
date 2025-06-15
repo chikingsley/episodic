@@ -1,0 +1,65 @@
+graph TD
+    Stuck[Do not know what to say] --> Phone{Pull out phone?}
+    
+    Phone --> Quick[Quick glance<br/>1-2 seconds]
+    Phone --> Medium[Medium look<br/>3-5 seconds]  
+    Phone --> Long[Long stare<br/>6 plus seconds]
+    Phone --> No[Power through<br/>Wing it]
+    
+    Quick --> NPCType{NPC Personality}
+    Medium --> NPCType
+    Long --> NPCType
+    No --> Wing[Improvise response<br/>High chance of failure]
+    
+    NPCType --> Trusting[TRUSTING<br/>Cafe owner, hotel clerk]
+    NPCType --> Suspicious[SUSPICIOUS<br/>Police, government officials]
+    NPCType --> Paranoid[PARANOID<br/>Syndicate members, criminals]
+    
+    subgraph "Trusting NPCs"
+        Quick --> T1[Plus 5 percent suspicion<br/>Checking the time?]
+        Medium --> T2[Plus 10 percent suspicion<br/>Everything okay?]
+        Long --> T3[Plus 20 percent suspicion<br/>You seem distracted...]
+    end
+    
+    subgraph "Suspicious NPCs"
+        Quick --> S1[Plus 10 percent suspicion<br/>Expecting a call?]
+        Medium --> S2[Plus 25 percent suspicion<br/>Who are you texting?]
+        Long --> S3[Plus 40 percent suspicion<br/>Put that away!]
+    end
+    
+    subgraph "Paranoid NPCs"
+        Quick --> P1[Plus 20 percent suspicion<br/>Recording this conversation?]
+        Medium --> P2[Plus 40 percent suspicion<br/>I do not talk to people<br/>with phones out]
+        Long --> P3[Plus 60 percent suspicion<br/>You are a cop!<br/>This is over!]
+    end
+    
+    T1 --> GetTranslation[Get translation/phrase<br/>Can respond correctly]
+    T2 --> GetTranslation
+    T3 --> GetTranslation
+    
+    S1 --> GetTranslation
+    S2 --> GetTranslation
+    S3 --> GetTranslation
+    
+    P1 --> GetTranslation
+    P2 --> GetTranslation
+    P3 --> Busted[Conversation ends<br/>Must use backup plan]
+    
+    GetTranslation --> Success[Correct response<br/>But suspicion remains]
+    
+    Wing --> WingResult{How well do you improvise?}
+    WingResult --> WingGood[Lucky guess<br/>Suspicion Plus 15 percent]
+    WingResult --> WingBad[Nonsense response<br/>Suspicion Plus 35 percent]
+    WingResult --> WingTerrible[Complete gibberish<br/>Suspicion Plus 50 percent]
+    
+    subgraph "Phone Usage Tracking"
+        PhoneCount[Times used phone this conversation:<br/>1st time: Base penalty<br/>2nd time: Double penalty<br/>3rd time: Why do you keep<br/>checking that thing?]
+    end
+    
+    style Quick fill:#4caf50,color:#fff
+    style Medium fill:#ff9800,color:#fff
+    style Long fill:#f44336,color:#fff
+    style Trusting fill:#81c784,color:#000
+    style Suspicious fill:#ffb74d,color:#000
+    style Paranoid fill:#e57373,color:#fff
+    style Busted fill:#000,color:#fff
