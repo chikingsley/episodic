@@ -1,5 +1,5 @@
 [Narrator]
-This is Unit Eleven of Pimsleur's Speak and Read Essential French One.
+This is Unit Eleven of Pimsleur's Speak and Read Essential French One. 
 
 [French Narrator]
 Écoutez cette conversation française.
@@ -383,10 +383,10 @@ Très bien.
 Écoutez et répétez. 
 
 [Male Speaker]
-Alors à cette heure. 
+Alors, à cette heure. 
 
 [Male Speaker]
-Alors à cette heure. 
+Alors, à cette heure. 
 
 [Narrator]
 What is the French word for "then" or "in that case"? 
@@ -401,10 +401,10 @@ Alors.
 Say, "Then, at eight o'clock."
 
 [Male Speaker]
-Alors à huit heures. 
+Alors, à huit heures. 
 
 [Male Speaker]
-Alors à huit heures. 
+Alors, à huit heures. 
 
 [Narrator]
 Here is how to say "this evening." 
@@ -809,7 +809,7 @@ Pas ce soir, mais demain soir.
 Say, "Then at eight o'clock at my place."
 
 [Male Speaker]
-Alors à huit heures chez moi. 
+Alors, à huit heures chez moi. 
 
 [Narrator]
 Answer, "Agreed."

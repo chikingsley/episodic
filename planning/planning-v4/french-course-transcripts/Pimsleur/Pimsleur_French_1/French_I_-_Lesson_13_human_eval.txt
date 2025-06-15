@@ -1,5 +1,5 @@
 [Narrator]
-This is the Unit Thirteen of Pimsleur Speak and Read Essential French One. 
+This is Unit Thirteen of Pimsleur Speak and Read Essential French One. 
 
 [French Narrator]
 Écoutez cette conversation téléphonique. 
@@ -32,7 +32,7 @@ Non, Jacques, je vais manger avec Antoinette ce soir. Mais voudriez-vous boire q
 Oui, je veux bien. À quelle heure? 
 
 [Female Speaker]
-À neuf heures ou plus tard à dix heures? 
+À neuf heures ou plus tard, à dix heures? 
 
 [Male Speaker]
 D'accord. À dix heures chez vous. Au revoir, Marie. 
@@ -71,7 +71,7 @@ Non, Jacques, je vais manger avec Antoinette ce soir. Mais voudriez-vous boire q
 Oui, je veux bien. À quelle heure? 
 
 [Female Speaker]
-À neuf heures ou plus tard à dix heures? 
+À neuf heures ou plus tard, à dix heures? 
 
 [Male Speaker]
 D'accord. À dix heures chez vous. Au revoir, Marie. 
