@@ -10,31 +10,45 @@ import pathlib
 import sys
 import time
 from typing import List
+import argparse
 
 from dotenv import load_dotenv
 from mistralai.client import MistralClient
 from mistralai.models.chat_completion import ChatMessage
+from alive_progress import alive_bar  # type: ignore
 
 # Import our database writer
 sys.path.append(str(pathlib.Path(__file__).parent.parent))
-from db.database_writer import DatabaseWriter, PhraseRecord
+from db.database_writer import DatabaseWriter, PhraseRecord  # type: ignore
 
 load_dotenv()
+
+# ----- Configuration -------------------------------------------------------
+MODEL_CASCADE = [
+    "mistral-medium-latest",
+    "mistral-large-latest",
+    "magistral-medium-latest",
+    "magistral-medium-latest",  # Re-trying can be effective
+    "magistral-small-latest",
+    "mistral-small-latest",
+]
+RETRY_DELAY = 5  # seconds
 
 # ----- API Setup -----------------------------------------------------------
 MISTRAL_API_KEY = os.getenv("MISTRAL_API_KEY")
 if not MISTRAL_API_KEY:
     print("MISTRAL_API_KEY not found.")
-    print("Please create a .env file in the 'pimsleur-data' directory and add your key:")
+    print(
+        "Please create a .env file in the 'pimsleur-data' directory and add your key:"
+    )
     print('MISTRAL_API_KEY="your_mistral_api_key"')
     sys.exit(1)
 
 MISTRAL_CLIENT = MistralClient(api_key=MISTRAL_API_KEY, timeout=300)
 
+
 # ----- LLM-based Phrase Extraction -----------------------------------------
-def extract_phrases_with_llm(
-    transcript: str, model_name: str, lesson_number: int
-) -> List[PhraseRecord]:
+def extract_phrases_with_llm(transcript: str, lesson_number: int) -> List[PhraseRecord]:
     """
     Uses a Mistral model to extract French phrases and teaching patterns.
     Returns PhraseRecord objects ready for database insertion.
@@ -64,14 +78,14 @@ For EACH extracted phrase, provide:
 
 Return your findings as a JSON object with a single key "extracted_phrases", containing a list of objects for each phrase.
 """
-    
+
     user_prompt = f"Analyze this Pimsleur French lesson transcript and extract all French phrases being taught:\n\n```\n{transcript}\n```"
 
-    max_retries = 3
-    for attempt in range(max_retries):
+    for attempt, model_to_try in enumerate(MODEL_CASCADE):
         try:
+            print(f"\nAttempting lesson {lesson_number} with {model_to_try}...")
             response = MISTRAL_CLIENT.chat(
-                model=model_name,
+                model=model_to_try,
                 response_format={"type": "json_object"},
                 messages=[
                     ChatMessage(role="system", content=system_prompt),
@@ -81,7 +95,7 @@ Return your findings as a JSON object with a single key "extracted_phrases", con
             )
             response_content = response.choices[0].message.content
             data = json.loads(response_content)
-            
+
             # Convert to PhraseRecord objects
             phrases = []
             for idx, item in enumerate(data.get("extracted_phrases", []), 1):
@@ -92,61 +106,73 @@ Return your findings as a JSON object with a single key "extracted_phrases", con
                         position_in_lesson=idx,
                         speaker_response=item.get("speaker_response"),
                         context=item.get("context"),
-                        teaching_cue=item.get("teaching_cue", "")
+                        teaching_cue=item.get("teaching_cue", ""),
                     )
                 )
             return phrases
 
         except Exception as e:
-            if "ReadTimeout" in str(e) and attempt < max_retries - 1:
+            if attempt < len(MODEL_CASCADE) - 1:
+                next_model = MODEL_CASCADE[attempt + 1]
                 print(
-                    f"ReadTimeout occurred. Retrying in 5 seconds... (Attempt {attempt + 1}/{max_retries})"
+                    f"\n⚠️ Model {model_to_try} failed for lesson {lesson_number}. Retrying with {next_model}..."
                 )
-                time.sleep(5)
-                continue
+                time.sleep(RETRY_DELAY)
             else:
-                print(f"An error occurred while calling the Mistral API: {e}")
+                print(
+                    f"\n❌ All models in cascade failed for lesson {lesson_number}: {e}"
+                )
                 return []
     return []
 
+
 # ----- Main Processing Function --------------------------------------------
-def process_lesson_phrases_to_db(file_path, model_name):
+def process_lesson_phrases_to_db(file_path: pathlib.Path) -> int:
     """Extracts phrases from a lesson file and writes results directly to database."""
-    print(f"Extracting phrases from {file_path.name} with model {model_name}...")
-    
-    # Extract lesson number from filename
     lesson_number = int(file_path.stem.split("_")[4])
-    
     transcript = file_path.read_text("utf-8")
 
     # Extract phrases using the LLM
-    extracted_phrases = extract_phrases_with_llm(transcript, model_name, lesson_number)
+    extracted_phrases = extract_phrases_with_llm(transcript, lesson_number)
 
     if not extracted_phrases:
-        print(f"No phrases were extracted from {file_path.name}")
+        print(f"\n⚠️ No phrases were extracted from {file_path.name}")
         return 0
-    
+
     # Write directly to database
     with DatabaseWriter() as db:
+        # TODO: Implement clearing of existing phrases for the lesson if needed
         count = db.write_phrases(extracted_phrases)
-    
-    print(f"✅ Finished processing {file_path.name}. Processed {count} phrases.")
+
     return count
+
 
 def main():
     """Main function to run phrase extraction on all lesson files."""
+    parser = argparse.ArgumentParser(
+        description="Pimsleur Phrase Extraction V2 - Direct to DB"
+    )
+    parser.add_argument(
+        "--lessons",
+        nargs="+",
+        type=int,
+        default=list(range(1, 6)),
+        help="Lesson numbers to process (default: 1-5)",
+    )
+    args = parser.parse_args()
+
     # Use project structure paths
     project_root = pathlib.Path(__file__).parent.parent.parent
     source_dir = project_root / "01_raw_data" / "transcripts"
 
-    # Allow model selection via environment variable
-    model_name = os.getenv("MISTRAL_MODEL", "mistral-medium-latest")
-    print(f"Using Mistral model: {model_name}")
+    print("🚀 Pimsleur Phrase Extraction V2")
+    print("=" * 60)
+    print(f"📖 Using model cascade: {', '.join(MODEL_CASCADE)}")
+    print(f"📚 Lessons to process: {args.lessons}")
+    print("=" * 60)
 
-    # Process lessons 1-5 for production
     lesson_files = [
-        source_dir / f"French_I_-_Lesson_{i:02d}_human_eval.txt"
-        for i in range(1, 6)
+        source_dir / f"French_I_-_Lesson_{i:02d}_human_eval.txt" for i in args.lessons
     ]
 
     # Check if files exist
@@ -157,22 +183,25 @@ def main():
             files_found = False
 
     if not files_found:
-        print(f"\nCould not find one or more lesson files in {source_dir}.")
+        print(f"\nCould not find one or more lesson files in {source_dir}")
         return
 
     total_phrases = 0
-    
-    print("🚀 Starting phrase extraction pipeline...")
-    print("=" * 50)
-    
-    for file_path in lesson_files:
-        count = process_lesson_phrases_to_db(file_path, model_name)
-        total_phrases += count
 
-    print("\n" + "=" * 50)
-    print(f"✅ Phrase extraction pipeline complete!")
+    with alive_bar(
+        len(lesson_files), title="🚀 Extracting Phrases", force_tty=True
+    ) as bar:
+        for file_path in lesson_files:
+            count = process_lesson_phrases_to_db(file_path)
+            total_phrases += count
+            bar.text = f"✅ Finished {file_path.name}"
+            bar()
+
+    print("\n" + "=" * 60)
+    print("🎉 Phrase extraction pipeline complete!")
     print(f"📊 Total phrases processed: {total_phrases}")
     print("🗄️  All data written directly to Supabase database")
+
 
 if __name__ == "__main__":
     main()

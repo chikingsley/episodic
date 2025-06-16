@@ -22,7 +22,8 @@
       "Bash(__NEW_LINE__ echo -e \"\\n📁 Extraction (Database-First):\")",
       "Bash(__NEW_LINE__ echo -e \"\\n📁 Analysis (Database-First):\")",
       "Bash(__NEW_LINE__ echo -e \"\\n📁 Archive (Preserved for Reference):\")",
-      "Bash(__NEW_LINE__ echo -e \"\\n✅ Project Structure Cleaned Up!\")"
+      "Bash(__NEW_LINE__ echo -e \"\\n✅ Project Structure Cleaned Up!\")",
+      "Bash(rm:*)"
     ],
     "deny": []
   }

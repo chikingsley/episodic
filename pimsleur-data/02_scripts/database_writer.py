@@ -82,7 +82,7 @@ class DatabaseWriter:
             self._lesson_cache[lesson_number] = lesson_id
             return lesson_id
 
-    def write_utterances(self, utterances: List[UtteranceRecord]) -> int:
+    def write_utterances(self, utterances: List[UtteranceRecord], clear_lesson: bool = False) -> int:
         """Write utterances directly to database."""
         if not utterances:
             return 0
@@ -99,21 +99,25 @@ class DatabaseWriter:
                     utterance.speaker,
                     utterance.text,
                     utterance.language,
+                    utterance.utterance_type,
+                    utterance.narrator_cue,
+                    utterance.core_lemmas,
                 )
             )
 
         with self.conn.cursor() as cur:
-            # Clear existing utterances for this lesson (if reprocessing)
-            lesson_ids = set(
-                self.ensure_lesson_exists(u.lesson_number) for u in utterances
-            )
-            for lesson_id in lesson_ids:
-                cur.execute("DELETE FROM utterances WHERE lesson_id = %s", (lesson_id,))
+            # Only clear existing utterances if explicitly requested
+            if clear_lesson:
+                lesson_ids = set(
+                    self.ensure_lesson_exists(u.lesson_number) for u in utterances
+                )
+                for lesson_id in lesson_ids:
+                    cur.execute("DELETE FROM utterances WHERE lesson_id = %s", (lesson_id,))
 
             # Insert new utterances
             execute_values(
                 cur,
-                """INSERT INTO utterances (lesson_id, position_in_lesson, speaker, text, language) 
+                """INSERT INTO utterances (lesson_id, position_in_lesson, speaker, text, language, utterance_type, narrator_cue, core_lemmas) 
                    VALUES %s""",
                 db_records,
             )

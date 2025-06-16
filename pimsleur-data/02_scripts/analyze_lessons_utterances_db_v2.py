@@ -20,8 +20,7 @@ import spacy
 from alive_progress import alive_bar  # type: ignore
 
 # Import our database writer
-sys.path.append(str(pathlib.Path(__file__).parent.parent))
-from db.database_writer import DatabaseWriter, UtteranceRecord  # type: ignore
+from database_writer import DatabaseWriter, UtteranceRecord  # type: ignore
 
 load_dotenv()
 
@@ -299,6 +298,12 @@ def process_lesson_chunked(file_path: pathlib.Path) -> int:
         force_tty=True,
     ) as bar:
         with DatabaseWriter() as db:
+            # Clear existing data for this lesson once at the start
+            print(f"🧹 Clearing existing data for lesson {lesson_number}")
+            lesson_id = db.ensure_lesson_exists(lesson_number)
+            with db.conn.cursor() as cur:
+                cur.execute("DELETE FROM utterances WHERE lesson_id = %s", (lesson_id,))
+
             for batch in batches:
                 status.current_batch = batch.batch_id
 
@@ -413,7 +418,7 @@ def main():
         BATCH_SIZE = args.batch_size
 
     # Setup
-    project_root = pathlib.Path(__file__).parent.parent.parent
+    project_root = pathlib.Path(__file__).parent.parent
     source_dir = project_root / "01_raw_data" / "transcripts"
 
     if args.model:
