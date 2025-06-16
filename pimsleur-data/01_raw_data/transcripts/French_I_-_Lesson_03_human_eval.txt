@@ -8,7 +8,7 @@ Bonjour, Monsieur. Comment allez-vous?
 Bien, Madame. Merci. 
 
 [Female Speaker]
-Ah! Vous comprenez le français? 
+Ah, vous comprenez le français? 
 
 [Male Speaker]
 Oui, Madame, un peu. Pas très bien. 
@@ -32,7 +32,7 @@ Bonjour, Monsieur. Comment allez-vous?
 Bien, Madame. Merci.
 
 [Female Speaker]
-Ah! Vous comprenez le français?
+Ah, vous comprenez le français?
 
 [Male Speaker]
 Oui, Madame, un peu. Pas très bien.

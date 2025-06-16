@@ -152,10 +152,10 @@ Non, pas moi.
 Say, "I'd like to buy something."
 
 [Female speaker]
-Je voudrais acheter quelque chose. 
+Je voudrais achèter quelque chose. 
 
 [Female speaker]
-Je voudrais acheter quelque chose. 
+Je voudrais achèter quelque chose. 
 
 [Narrator]
 Ask her, "When?"
@@ -167,10 +167,10 @@ Quand?
 Ask her what she would like to buy. 
 
 [Male Speaker]
-Qu'est-ce que vous voudriez acheter? 
+Qu'est-ce que vous voudriez achèter? 
 
 [Male Speaker]
-Qu'est-ce que vous voudriez acheter? 
+Qu'est-ce que vous voudriez achèter? 
 
 [Narrator]
 Ask her, "With whom?"
@@ -185,10 +185,10 @@ Avec qui?
 How does she say, "I would like to buy some wine"? 
 
 [Female speaker]
-Je voudrais acheter du vin. 
+Je voudrais achèter du vin. 
 
 [Female speaker]
-Je voudrais acheter du vin. 
+Je voudrais achèter du vin. 
 
 [Narrator]
 Say, "Or some beer."
@@ -897,129 +897,6 @@ Vous ne comprenez pas le français, Monsieur.
 
 [Female speaker]
 Vous ne comprenez pas le français, Monsieur. 
-
-[Narrator]
-This lesson of Speak & Read Essential French One provides reading practice. If you're doing the readings now, take your reading booklet and open it to the page containing the words for Unit Nine. 
-
-[Narrator]
-Look at number one. Read it aloud.
-
-[Male Speaker]
-Comment allez-vous? 
-
-[Narrator]
-Read number two. 
-
-[Male Speaker]
-Bonjour, Monsieur. 
-
-[Narrator]
-Three. 
-
-[Male Speaker]
-Vous savez. 
-
-[Narrator]
-Four. 
-
-[Male Speaker]
-Vous avez. 
-
-[Narrator]
-Read three and four together. 
-
-[Male Speaker]
-Vous savez, vous avez. 
-
-[Male Speaker]
-Vous savez, vous avez. 
-
-[Narrator]
-Five. 
-
-[Male Speaker]
-Vous n'avez pas de vin. 
-
-[Narrator]
-Six. 
-
-[Male Speaker]
-Vous ne comprenez pas. 
-
-[Narrator]
-Look at six again. Notice the middle "E" in the word "comprenez." There's no accent mark or other reason to pronounce it "eh" so it's pronounced "ee". Read six again. 
-
-[Male Speaker]
-Vous ne comprenez pas. 
-
-[Narrator]
-Seven. 
-
-[Male Speaker]
-Est-ce que vous comprenez? 
-
-[Male Speaker]
-Est-ce que vous comprenez? 
-
-[Narrator]
-Eight. 
-
-[Male Speaker]
-Ici, on parle français. 
-
-[Narrator]
-Nine. 
-
-[Male Speaker]
-Saint-Michel. 
-
-[Narrator]
-Ten. 
-
-[Male Speaker]
-Où est le boulevard? 
-
-[Narrator]
-Look at the second word in number ten. It's the word "est", "is". Read ten again. 
-
-[Male Speaker]
-Où est le boulevard? 
-
-[Narrator]
-Eleven. 
-
-[Male Speaker]
-Est-ce que le boulevard est ici? 
-
-[Male Speaker]
-Est-ce que le boulevard est ici? 
-
-[Narrator]
-Twelve. 
-
-[Male Speaker]
-Où est Jacques? 
-
-[Narrator]
-Thirteen. 
-
-[Male Speaker]
-Jacques n'est pas ici. 
-
-[Male Speaker]
-Pas ici. 
-
-[Narrator]
-Fourteen. 
-
-[Male Speaker]
-Il est là-bas. 
-
-[Narrator]
-Fifteen. 
-
-[Male Speaker]
-Non, il n'est pas là-bas. 
 
 [Narrator]
 This is the end of today's lesson. When you continue with the next unit tomorrow, please begin with track number two.

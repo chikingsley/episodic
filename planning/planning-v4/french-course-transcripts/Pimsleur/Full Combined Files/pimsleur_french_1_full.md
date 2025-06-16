@@ -7942,9 +7942,9 @@ Très bien.
 [French Narrator]
 Écouter et répéter.
 [Male Speaker]
-Alors à cette heure.
+Alors à sept heure.
 [Male Speaker]
-Alors à cette heure.
+Alors à sept heure.
 [Narrator]
 What is the French word for "then" or "in that case"?
 [Male Speaker]
@@ -9161,7 +9161,7 @@ Ask me what time it is.
 [Male Speaker]
 Quelle heure est-il?
 [Male Speaker]
-Quelle heure est-il s'il vous plaît?
+Quelle heure est-il, s'il vous plaît?
 [Narrator]
 Tell me it's eleven o'clock.
 [Female Speaker]
@@ -11036,7 +11036,7 @@ Oui, je peux.
 [Female Speaker]
 Vous pouvez à sept heures?
 [Male Speaker]
-Oui, à cette heure, je peux.
+Oui, à sept heure, je peux.
 [Female Speaker]
 Voulez-vous faire quelque chose pour moi?
 [Male Speaker]

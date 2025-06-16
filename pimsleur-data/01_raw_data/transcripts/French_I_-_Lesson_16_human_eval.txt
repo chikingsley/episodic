@@ -32,7 +32,7 @@ Oui, je veux bien.
 Mais je n'en ai pas, moi. 
 
 [Male Speaker]
-Vous n'en avez pas? Alors, je peux en acheter pour vous. D'accord? 
+Vous n'en avez pas? Alors, je peux en achèter pour vous. D'accord? 
 
 [Female Speaker]
 Oui, merci, Charles. À demain. 
@@ -71,7 +71,7 @@ Oui, je veux bien.
 Mais je n'en ai pas, moi. 
 
 [Male Speaker]
-Vous n'en avez pas? Alors, je peux en acheter pour vous. D'accord? 
+Vous n'en avez pas? Alors, je peux en achèter pour vous. D'accord? 
 
 [Female Speaker]
 Oui, merci, Charles. À demain. 
@@ -980,34 +980,34 @@ Je voudrais bien boire une bière avec vous.
 Je voudrais bien boire une bière avec vous. 
 
 [Male Speaker]
-Mais je n'en ai pas. Est-ce que vous pouvez en acheter pour moi? 
+Mais je n'en ai pas. Est-ce que vous pouvez en achèter pour moi? 
 
 [Female Speaker]
 Oui, je peux. 
 
 [Female Speaker]
-Je peux en acheter. 
+Je peux en achèter. 
 
 [Female Speaker]
-Je peux en acheter pour vous. 
+Je peux en achèter pour vous. 
 
 [Female Speaker]
-Je peux en acheter pour vous. 
+Je peux en achèter pour vous. 
 
 [Male Speaker]
-Est-ce que vous pouvez aussi acheter du vin? 
+Est-ce que vous pouvez aussi achèter du vin? 
 
 [Female Speaker]
 Oui, je peux. 
 
 [Female Speaker]
-Je peux aussi acheter du vin. 
+Je peux aussi achèter du vin. 
 
 [Female Speaker]
-Je peux aussi en acheter. 
+Je peux aussi en achèter. 
 
 [Female Speaker]
-Je peux aussi en acheter. 
+Je peux aussi en achèter. 
 
 [Male Speaker]
 Est-ce que vous avez de l'argent? 

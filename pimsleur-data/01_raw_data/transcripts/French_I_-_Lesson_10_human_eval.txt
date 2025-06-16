@@ -89,16 +89,16 @@ Qu'est-ce que vous voulez faire?
 Say, "I'd like to buy something."
 
 [Male Speaker]
-Je voudrais acheter quelque chose. 
+Je voudrais achèter quelque chose. 
 
 [Male Speaker]
-Acheter. 
+Achèter. 
 
 [Male Speaker]
-Acheter. 
+Achèter. 
 
 [Male Speaker]
-Je voudrais acheter quelque chose. 
+Je voudrais achèter quelque chose. 
 
 [Narrator]
 Ask, "At what time?"
@@ -698,7 +698,7 @@ Merci, je vais déjeuner.
 Now the young woman is going to converse with you. Answer her when she asks you a question. 
 
 [Female Speaker]
-Bonjour! 
+Bonjour.
 
 [Male Speaker]
 Bonjour, Mademoiselle. 
@@ -822,102 +822,6 @@ Mais quand, Mademoiselle?
 
 [Female Speaker]
 Plus tard, Monsieur. Plus tard. 
-
-[Narrator]
-This lesson of Speak & Read Essential French One provides reading practice. If you're doing the readings now, take your reading booklet and open it to the page containing the words for lesson ten. 
-
-[Narrator]
-Look at number one. Read it aloud. 
-
-[Male Speaker]
-C'est cinq. 
-
-[Narrator]
-Read number two. 
-
-[Male Speaker]
-Son pain. 
-
-[Narrator]
-Read three. 
-
-[Male Speaker]
-Je garde ce nom. 
-
-[Narrator]
-Four. 
-
-[Male Speaker]
-Je le garde. 
-
-[Male Speaker]
-Je le garde. 
-
-[Narrator]
-Five.
-
-[Male Speaker]
-Je garde la place. 
-
-[Narrator]
-Six.
-
-[Male Speaker]
-Je la garde. 
-
-[Narrator]
-Look at seven, listen and repeat. 
-
-[Male Speaker]
-Je le veux. 
-
-[Male Speaker]
-Je le veux. 
-
-[Narrator]
-Read eight. 
-
-[Male Speaker]
-Vous voulez? 
-
-[Narrator]
-Nine. 
-
-[Male Speaker]
-Est-ce que vous le voulez? 
-
-[Male Speaker]
-Est-ce que vous le voulez? 
-
-[Narrator]
-Ten. 
-
-[Male Speaker]
-Je ne veux pas manger. 
-
-[Narrator]
-Eleven. 
-
-[Male Speaker]
-Je le veux un peu. 
-
-[Male Speaker]
-Je le veux un peu. 
-
-[Narrator]
-Twelve. 
-
-[Male Speaker]
-Peu? 
-
-[Male Speaker]
-Pou? 
-
-[Narrator]
-Thirteen. 
-
-[Male Speaker]
-Est-ce que vous boudez? 
 
 [Narrator]
 This is the end of unit ten.

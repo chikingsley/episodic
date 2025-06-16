@@ -86,7 +86,7 @@ Ask me what time it is.
 Quelle heure est-il? 
 
 [Male Speaker]
-Quelle heure est-il s'il vous plaît? 
+Quelle heure est-il, s'il vous plaît? 
 
 [Narrator]
 Tell me it's eleven o'clock. 
@@ -194,7 +194,7 @@ J'écoute.
 Now say, "Repeat please."
 
 [Male Speaker]
-Répétez s'il vous plaît. 
+Répétez, s'il vous plaît. 
 
 [Male Speaker]
 Répétez. 
@@ -851,7 +851,7 @@ Maintenant, imaginez que vous êtes dans un café en France. Vous allez parler a
 Ask me to repeat what I just said. 
 
 [Female Speaker]
-Comment? Je ne vous comprends pas, Monsieur. Répétez s'il vous plaît. 
+Comment? Je ne vous comprends pas, Monsieur. Répétez, s'il vous plaît. 
 
 [French Narrator]
 Imaginez maintenant que vous êtes dans un café en France. Vous allez parler avec le barman. Écoutez. 

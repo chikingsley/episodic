@@ -755,16 +755,16 @@ Non, je suis avec mon mari.
 Non, je suis avec mon mari. 
 
 [Narrator]
-"Well then..."
+"Well then."
 
 [Male Speaker]
-Alors... 
+Alors. 
 
 [Narrator]
-"If you're not alone..."
+"If you're not alone."
 
 [Male Speaker]
-Si vous n'êtes pas seul... 
+Si vous n'êtes pas seul. 
 
 [Narrator]
 "I'm going to leave."
@@ -806,10 +806,10 @@ Pourquoi?
 Parce que. 
 
 [Narrator]
-"Wait!"
+"Wait."
 
 [Female Speaker]
-Attendez! 
+Attendez.
 
 [Narrator]
 "Are you going to leave alone?"
@@ -834,120 +834,6 @@ Nous pouvons partir.
 
 [Female Speaker]
 Ensemble. 
-
-[Narrator]
-This lesson of Speak and Read Essential French One provides reading practice. If you're doing the readings now, take your reading booklet. 
-
-[French Narrator]
-Maintenant, prenez votre livre de lecture. Ouvrez-le à la page où il y a les phrases pour la leçon vingt-sept. Regardez la première phrase, lisez-la. 
-
-[Male Speaker]
-Vous n'en avez pas assez? 
-
-[French Narrator]
-Deux. 
-
-[Male Speaker]
-Mais si, j'en ai même trop. 
-
-[French Narrator]
-Trois. 
-
-[Male Speaker]
-Donnez-lui du lait. 
-
-[French Narrator]
-Quatre. 
-
-[Male Speaker]
-La cuisine est déjà fermée. 
-
-[French Narrator]
-Cinq. 
-
-[Male Speaker]
-Vous conduisez trop vite. 
-
-[French Narrator]
-Six. 
-
-[Male Speaker]
-Combien est-ce que je vous dois? 
-
-[French Narrator]
-Sept. 
-
-[Male Speaker]
-Vous me devez cinquante francs. 
-
-[French Narrator]
-Huit. 
-
-[Male Speaker]
-Voilà votre argent. 
-
-[French Narrator]
-Neuf. 
-
-[Male Speaker]
-Vous n'êtes pas le premier. 
-
-[French Narrator]
-Dix. 
-
-[Male Speaker]
-Ni la première, je pense. 
-
-[French Narrator]
-Onze. 
-
-[Male Speaker]
-On a commencé au mois de janvier. 
-
-[French Narrator]
-Douze. 
-
-[Male Speaker]
-Et nous finissons maintenant. 
-
-[French Narrator]
-Treize.
-
-[Male Speaker]
-Ce monsieur parle avec hargne. 
-
-[Male Speaker]
-Hargne. 
-
-[French Narrator]
-Quatorze. 
-
-[Male Speaker]
-Mais la dame est enchantée. 
-
-[French Narrator]
-Quinze. 
-
-[Male Speaker]
-Impossible de supposer. 
-
-[French Narrator]
-Seize. 
-
-[Male Speaker]
-De quel côté de la rue? 
-
-[French Narrator]
-Dix-sept. 
-
-[Male Speaker]
-Vous allez visiter la Hollande. 
-
-[French Narrator]
-Dix-huit. 
-
-[Male Speaker]
-On n'a jamais vu une telle chose. 
 
 [Narrator]
 This is the end of today's lesson. When you continue with the next unit tomorrow, please begin with track number two.

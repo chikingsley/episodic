@@ -2,7 +2,7 @@
 This is Unit Twenty-four of Pimsleur's Speak and Read Essential French One. 
 
 [French Narrator]
-Bonjour! Comment allez-vous aujourd'hui? 
+Bonjour. Comment allez-vous aujourd'hui? 
 
 [French Narrator]
 Dites-moi que vous êtes américain. 
@@ -86,10 +86,10 @@ Mettez quarante litres.
 Mettez quarante litres. 
 
 [Narrator]
-Dites, "Wait!" 
+Dites, "Wait." 
 
 [Female Speaker]
-Attendez! 
+Attendez.
 
 [Narrator]
 "That's too much."
@@ -728,13 +728,13 @@ Il y a combien de kilomètres?
 Il y a soixante-quinze kilomètres. 
 
 [Narrator]
-"If you take the good route..."
+"If you take the good route."
 
 [Female Speaker]
-Si vous prenez la bonne route... 
+Si vous prenez la bonne route. 
 
 [Female Speaker]
-Si vous prenez la bonne route... 
+Si vous prenez la bonne route. 
 
 [Narrator]
 "I understand now."
@@ -798,102 +798,6 @@ Et maintenant?
 
 [Female Speaker]
 Au revoir, Monsieur. 
-
-[Narrator]
-This lesson of Speak and Read Essential French One provides reading practice. If you're doing the readings now, take your reading booklet. 
-
-[French Narrator]
-Maintenant, prenez votre livre de lecture. Ouvrez la page pour la leçon vingt-quatre. Regardez la première phrase. Lisez-la. 
-
-[Male Speaker]
-C'est mieux que rien. 
-
-[French Narrator]
-Deux. 
-
-[Male Speaker]
-Tout le monde veut venir. 
-
-[Narrator]
-Trois. 
-
-[Male Speaker]
-Il n'a pas cru ce qu'il a vu. 
-
-[Narrator]
-Quatre. 
-
-[Male Speaker]
-Essayez encore une fois. 
-
-[Narrator]
-Cinq. 
-
-[Male Speaker]
-Quelle question! Bien sûr que non. 
-
-[Narrator]
-Six. 
-
-[Male Speaker]
-Ce n'est ni haut ni bas. 
-
-[Narrator]
-Notice the word "haut" in the last sentence. The letter "H" is never pronounced in French. 
-
-[French Narrator]
-Sept. 
-
-[Male Speaker]
-Ce jeu m'ennuie. 
-
-[French Narrator]
-Huit. 
-
-[Male Speaker]
-La religion est une institution. 
-
-[French Narrator]
-Neuf. 
-
-[Male Speaker]
-Est-ce qu'elle est bonne ou mauvaise? 
-
-[Male Speaker]
-Bonne ou mauvaise? 
-
-[French Narrator]
-Dix. 
-
-[Male Speaker]
-C'est ce que j'ai demandé. 
-
-[French Narrator]
-Onze. 
-
-[Male Speaker]
-Il en sait trop, lui. 
-
-[French Narrator]
-Douze. 
-
-[Male Speaker]
-Asseyez-vous un instant. 
-
-[French Narrator]
-Treize. 
-
-[Male Speaker]
-Jamais, mais pas du tout alors. 
-
-[Male Speaker]
-Jamais, mais pas du tout alors. 
-
-[French Narrator]
-Quatorze. 
-
-[Male Speaker]
-Voici tout ce que je peux dire. Au revoir. 
 
 [Narrator]
 This is the end of Unit Twenty-four.

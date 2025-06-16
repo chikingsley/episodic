@@ -137,10 +137,10 @@ Oui, j'aime Paris.
 J'aime bien Paris. 
 
 [Narrator]
-"You are going to remain..."
+"You are going to remain."
 
 [Male Speaker]
-Vous allez rester... 
+Vous allez rester. 
 
 [Narrator]
 "How long?"
@@ -224,19 +224,19 @@ Nous n'avons rien acheté.
 Essayer de dire "And we're going to buy nothing."
 
 [Male Speaker]
-Et nous n'allons rien acheter. 
+Et nous n'allons rien achèter. 
 
 [Male Speaker]
-Et nous n'allons rien acheter. 
+Et nous n'allons rien achèter. 
 
 [Narrator]
 "We want to buy nothing."
 
 [Male Speaker]
-Nous ne voulons rien acheter. 
+Nous ne voulons rien achèter. 
 
 [Male Speaker]
-Nous ne voulons rien acheter. 
+Nous ne voulons rien achèter. 
 
 [Narrator]
 "And you?"
@@ -914,4 +914,4 @@ Au revoir. À ce soir.
 À ce soir. 
 
 [Narrator]
-This is the end of Unit Thirty, the last unit of level one. The next CD, CD number sixteen, contains all of the reading texts of the course. You may have already begun the readings along with the units. If you have not completed the readings, you should now proceed to the reading text CD. You will need your reading booklet to use in conjunction with the CD. Full instructions are contained on the CD. If you have been able to answer correctly approximately eighty percent of the questions you've been asked to respond to in this course, you are now ready to go on to level two. To continue to learn your new language, please contact us. This has been a Simon & Schuster audio presentation.
+This is the end of unit thirty, the last unit of level one. The next CD, CD number sixteen, contains all of the reading texts of the course. You may have already begun the readings along with the units. If you have not completed the readings, you should now proceed to the reading text CD. You will need your reading booklet to use in conjunction with the CD. Full instructions are contained on the CD. If you have been able to answer correctly approximately eighty percent of the questions you've been asked to respond to in this course, you are now ready to go on to level two. To continue to learn your new language, please contact us. This has been a Simon & Schuster audio presentation.

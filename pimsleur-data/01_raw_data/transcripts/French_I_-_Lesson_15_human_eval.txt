@@ -11,7 +11,7 @@ Au revoir, Georges.
 Au revoir. Mais où allez-vous? 
 
 [Female Speaker]
-Moi, je vais acheter quelque chose. 
+Moi, je vais achèter quelque chose. 
 
 [Male Speaker]
 Mais vous n'avez pas de francs? 
@@ -41,7 +41,7 @@ Au revoir, Georges.
 Au revoir. Mais où allez-vous? 
 
 [Female Speaker]
-Moi, je vais acheter quelque chose. 
+Moi, je vais achèter quelque chose. 
 
 [Male Speaker]
 Mais vous n'avez pas de francs? 
@@ -851,13 +851,13 @@ Voulez-vous faire quelque chose pour moi?
 Oui, je veux bien. 
 
 [Female Speaker]
-Pouvez-vous acheter du vin, s'il vous plaît? 
+Pouvez-vous achèter du vin, s'il vous plaît? 
 
 [Male Speaker]
-Oui, je peux acheter du vin. 
+Oui, je peux achèter du vin. 
 
 [Male Speaker]
-Je peux acheter du vin pour vous. 
+Je peux achèter du vin pour vous. 
 
 [Female Speaker]
 Est-ce que vous avez des dollars? 
@@ -887,157 +887,16 @@ J'ai aussi des francs.
 J'en ai aussi. 
 
 [Female Speaker]
-Alors, pouvez-vous acheter beaucoup de vin? 
+Alors, pouvez-vous achèter beaucoup de vin? 
 
 [Male Speaker]
 Oui, je peux. 
 
 [Male Speaker]
-Je peux en acheter beaucoup. 
+Je peux en achèter beaucoup. 
 
 [Female Speaker]
 Alors, vous pouvez manger avec moi. 
 
 [Narrator]
-This lesson of Speak & Read Essential French One provides reading practice. If you're doing the readings now, take your reading booklet. 
-
-[French Narrator]
-Maintenant, prenez votre livre de lecture. 
-
-[Narrator]
-Open it to the page containing the words for lesson fifteen. Look at number one, especially the last word. 
-
-[French Narrator]
-Écoutez et répétez. 
-
-[Male Speaker]
-Je veux manger. 
-
-[Narrator]
-The ending "er" is another spelling that's pronounced "É."
-
-[Narrator]
-Now read number one. 
-
-[Male Speaker]
-Je veux manger! 
-
-[French Narrator]
-Deux. 
-
-[Male Speaker]
-Qu'est-ce que vous allez acheter? 
-
-[Male Speaker]
-Qu'est-ce que vous allez acheter? 
-
-[French Narrator]
-Trois. 
-
-[Male Speaker]
-Je vais acheter une flûte. 
-
-[Male Speaker]
-Une flûte. 
-
-[Narrator]
-Look at number four. The word in the middle, E-T, is also pronounced "É."
-
-[French Narrator]
-Lisez quatre. 
-
-[Male Speaker]
-En France et en Italie. 
-
-[Male Speaker]
-En France et en Italie. 
-
-[French Narrator]
-Cinq. 
-
-[Male Speaker]
-Vous et moi, ensemble. 
-
-[Male Speaker]
-Vous et moi. 
-
-[Male Speaker]
-Vous et moi. 
-
-[French Narrator]
-Six. 
-
-[Male Speaker]
-Et qui est Jacques? 
-
-[French Narrator]
-Sept. 
-
-[Male Speaker]
-Je l'ai vu assez souvent. 
-
-[Male Speaker]
-Je l'ai vu assez souvent. 
-
-[French Narrator]
-Huit. 
-
-[Male Speaker]
-Cependant, il ne répond pas. 
-
-[Male Speaker]
-Cependant, il ne répond pas. 
-
-[French Narrator]
-Neuf.
-
-[Male Speaker]
-Qu'est-ce qu'il peut donner? 
-
-[French Narrator]
-Dix. 
-
-[Male Speaker]
-Elle est devenue blanche. 
-
-[French Narrator]
-Onze. 
-
-[Male Speaker]
-Jacques est indépendant. 
-
-[French Narrator]
-Douze. 
-
-[Male Speaker]
-Je n'en ai plus. 
-
-[Male Speaker]
-Je n'en ai plus. 
-
-[French Narrator]
-Treize. 
-
-[Male Speaker]
-Est-ce que Paris est loin? 
-
-[French Narrator]
-Quatorze. 
-
-[Male Speaker]
-Écoutez! Je vais répéter. 
-
-[French Narrator]
-Quinze. 
-
-[Male Speaker]
-Comment? Vous avez tout vu? 
-
-[French Narrator]
-Seize. 
-
-[Male Speaker]
-Non, mais j'ai tout entendu. 
-
-[Narrator]
-This is the end of today's lesson. When you continue with the next unit tomorrow, please begin with track number two. 
+This is the end of today's lesson. When you continue with the next unit tomorrow, please begin with track number two.

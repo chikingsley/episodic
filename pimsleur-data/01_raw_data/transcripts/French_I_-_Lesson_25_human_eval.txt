@@ -167,10 +167,10 @@ Est-ce que je peux?
 Demandez "Can I buy something?"
 
 [Male Speaker]
-Est-ce que je peux acheter quelque chose? 
+Est-ce que je peux achèter quelque chose? 
 
 [Male Speaker]
-Est-ce que je peux acheter quelque chose? 
+Est-ce que je peux achèter quelque chose? 
 
 [Narrator]
 "In Paris."
@@ -575,7 +575,7 @@ Quatre-vingt-cinq kilomètres et les magasins sont fermés.
 Maintenant, écoutez cette conversation. 
 
 [Male Speaker]
-Est-ce que je peux acheter quelque chose à Paris? 
+Est-ce que je peux achèter quelque chose à Paris? 
 
 [Female Speaker]
 Non, vous ne pouvez pas. 
@@ -584,7 +584,7 @@ Non, vous ne pouvez pas.
 Pourquoi pas? 
 
 [Female Speaker]
-Parce que... 
+Parce que. 
 
 [Male Speaker]
 Oui? 
@@ -608,7 +608,7 @@ Parce qu'il est tard.
 Il n'est pas tard. 
 
 [Female Speaker]
-Si, si, il est tard. Trop tard pour acheter quelque chose aujourd'hui. 
+Si, si, il est tard. Trop tard pour achèter quelque chose aujourd'hui. 
 
 [Male Speaker]
 Quatre-vingts kilomètres. 
@@ -647,19 +647,19 @@ Pourquoi?
 "Because I would like to buy something."
 
 [Male Speaker]
-Parce que je voudrais acheter quelque chose. 
+Parce que je voudrais achèter quelque chose. 
 
 [Male Speaker]
-Parce que je voudrais acheter quelque chose. 
+Parce que je voudrais achèter quelque chose. 
 
 [French Narrator]
 Dites, "I want to buy something."
 
 [Male Speaker]
-Je veux acheter quelque chose. 
+Je veux achèter quelque chose. 
 
 [Male Speaker]
-Je veux acheter quelque chose. 
+Je veux achèter quelque chose. 
 
 [Narrator]
 Ask, "Where?"
@@ -668,10 +668,10 @@ Ask, "Where?"
 Où? 
 
 [Female Speaker]
-Où voudriez-vous acheter quelque chose? 
+Où voudriez-vous achèter quelque chose? 
 
 [Female Speaker]
-Où voudriez-vous acheter quelque chose? 
+Où voudriez-vous achèter quelque chose? 
 
 [French Narrator]
 Répondez "In a big store."
@@ -734,10 +734,10 @@ Demain, ils sont fermés.
 Ask him what he would like to buy? 
 
 [Female Speaker]
-Qu'est-ce que vous voudriez acheter? 
+Qu'est-ce que vous voudriez achèter? 
 
 [Female Speaker]
-Qu'est-ce que vous voudriez acheter? 
+Qu'est-ce que vous voudriez achèter? 
 
 [Narrator]
 "Something for my wife."
@@ -801,96 +801,6 @@ Mais pas pour moi.
 
 [Female Speaker]
 Pas pour moi. 
-
-[Narrator]
-This lesson of Speak & Read Essential French One provides reading practice. If you're doing the readings now, take your reading booklet. 
-
-[French Narrator]
-Maintenant, prenez votre livre de lecture. Ouvrez à la page pour la leçon vingt-cinq. Regardez la première phrase. Lisez-la. 
-
-[Male Speaker]
-On l'a nommé représentant. 
-
-[Male Speaker]
-On l'a nommé représentant. 
-
-[French Narrator]
-Deux. 
-
-[Male Speaker]
-Et on l'a envoyé à Rome. 
-
-[French Narrator]
-Trois. 
-
-[Male Speaker]
-Il faut manger des pommes. 
-
-[French Narrator]
-Quatre. 
-
-[Male Speaker]
-Vous portez une très belle robe. 
-
-[French Narrator]
-Cinq. 
-
-[Male Speaker]
-Quel journal lisez-vous d'habitude? 
-
-[French Narrator]
-Six. 
-
-[Male Speaker]
-En général, je ne lis pas moi. 
-
-[French Narrator]
-Sept. 
-
-[Male Speaker]
-Il aime beaucoup cette montagne. 
-
-[French Narrator]
-Huit. 
-
-[Male Speaker]
-Il aime aussi la vigne. 
-
-[French Narrator]
-Neuf. 
-
-[Male Speaker]
-La vigne et la montagne vont souvent ensemble. 
-
-[Male Speaker]
-La vigne et la montagne vont souvent ensemble.
-
-[French Narrator]
-Dix. 
-
-[Male Speaker]
-Elle attend le prochain train. 
-
-[French Narrator]
-Onze. 
-
-[Male Speaker]
-Nous lisons en attendant. 
-
-[French Narrator]
-Douze. 
-
-[Male Speaker]
-Ce monsieur se conduit dignement. 
-
-[French Narrator]
-Treize. 
-
-[Male Speaker]
-C'est sans doute un homme noble. 
-
-[Male Speaker]
-Un homme noble. 
 
 [Narrator]
 This is the end of today's lesson. When you continue with the next unit tomorrow, please begin with track number two.

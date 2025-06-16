@@ -560,25 +560,25 @@ Qu'est-ce que vous voudriez faire?
 Listen and repeat the answer, "I would like to buy something."
 
 [Male Speaker]
-Je voudrais acheter quelque chose. 
+Je voudrais achèter quelque chose. 
 
 [Male Speaker]
-Acheter. 
+Achèter. 
 
 [Male Speaker]
-Acheter. 
+Achèter. 
 
 [Male Speaker]
-Acheter. 
+Achèter. 
 
 [Male Speaker]
-Je voudrais acheter quelque chose. 
+Je voudrais achèter quelque chose. 
 
 [Narrator]
 How do you say "to buy" in French? 
 
 [Male Speaker]
-Acheter. 
+Achèter. 
 
 [Narrator]
 And "to do"? 
@@ -593,19 +593,19 @@ Faire.
 Ask me what I would like to buy? 
 
 [Male Speaker]
-Qu'est-ce que vous voudriez acheter? 
+Qu'est-ce que vous voudriez achèter? 
 
 [Male Speaker]
-Qu'est-ce que vous voudriez acheter? 
+Qu'est-ce que vous voudriez achèter? 
 
 [Narrator]
 Say, "I would like to buy something." 
 
 [Female Speaker]
-Je voudrais acheter quelque chose. 
+Je voudrais achèter quelque chose. 
 
 [Female Speaker]
-Je voudrais acheter quelque chose. 
+Je voudrais achèter quelque chose. 
 
 [Narrator]
 Say, "At the hotel."
@@ -686,10 +686,10 @@ Je voudrais faire quelque chose.
 Ask, "To buy something?"
 
 [Female Speaker]
-Acheter quelque chose? 
+Achèter quelque chose? 
 
 [Female Speaker]
-Acheter quelque chose? 
+Achèter quelque chose? 
 
 [Narrator]
 Say, "No, now I would like to eat something."
@@ -851,13 +851,13 @@ D'accord, un peu plus tard.
 Tell her you would like to buy something. 
 
 [Male Speaker]
-Je voudrais acheter quelque chose, Mademoiselle. 
+Je voudrais achèter quelque chose, Mademoiselle. 
 
 [Male Speaker]
-Je voudrais acheter quelque chose, Mademoiselle. 
+Je voudrais achèter quelque chose, Mademoiselle. 
 
 [Female Speaker]
-Qu'est-ce que vous voudriez acheter? 
+Qu'est-ce que vous voudriez achèter? 
 
 [Narrator]
 Tell her, "Some wine or some beer."
@@ -989,10 +989,10 @@ D'accord. Un peu plus tard.
 Tell her you would like to buy something. 
 
 [Male Speaker]
-Je voudrais acheter quelque chose, Mademoiselle. 
+Je voudrais achèter quelque chose, Mademoiselle. 
 
 [Female Speaker]
-Qu'est-ce que vous voudriez acheter? 
+Qu'est-ce que vous voudriez achèter? 
 
 [Narrator]
 Tell her, "Some wine or some beer."

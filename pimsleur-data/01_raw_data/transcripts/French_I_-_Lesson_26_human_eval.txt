@@ -50,10 +50,10 @@ Pourquoi?
 "Because I would like to buy something."
 
 [Female Speaker]
-Parce que je voudrais acheter quelque chose. 
+Parce que je voudrais achèter quelque chose. 
 
 [Female Speaker]
-Parce que je voudrais acheter quelque chose. 
+Parce que je voudrais achèter quelque chose. 
 
 [Narrator]
 "And I can't."
@@ -128,10 +128,10 @@ Demain.
 "Tomorrow, you can buy something."
 
 [Male Speaker]
-Demain, vous pouvez acheter quelque chose. 
+Demain, vous pouvez achèter quelque chose. 
 
 [Male Speaker]
-Demain, vous pouvez acheter quelque chose. 
+Demain, vous pouvez achèter quelque chose. 
 
 [Narrator]
 "In a good shop."
@@ -518,10 +518,10 @@ Et je vais voir mes amis.
 Je vais voir mes amis. 
 
 [Narrator]
-"You're going to spend..."
+"You're going to spend."
 
 [Male Speaker]
-Vous allez passer...
+Vous allez passer.
 
 [Narrator]
 "You're going to spend how many days?"
@@ -701,7 +701,7 @@ Je crois. Je ne sais pas.
 Je crois. Je ne sais pas. 
 
 [Narrator]
-"If he works there..."
+"If he works there."
 
 [Male Speaker]
 S'il travaille là-bas. 
@@ -800,16 +800,16 @@ Peut-être trois.
 Oui, je crois. 
 
 [Narrator]
-"I think that I'm going to spend..."
+"I think that I'm going to spend."
 
 [Female Speaker]
-Je crois que je vais passer... 
+Je crois que je vais passer. 
 
 [Female Speaker]
-Je crois que... 
+Je crois que. 
 
 [Female Speaker]
-Je crois que je vais passer... 
+Je crois que je vais passer. 
 
 [Narrator]
 I think that I'm going to spend a few days. 
@@ -854,16 +854,16 @@ Donnez-moi quelques francs.
 Donnez-moi quelques francs. 
 
 [French Narrator]
-Demandez ce qu'elle voudrait acheter. 
+Demandez ce qu'elle voudrait achèter. 
 
 [French Narrator]
-Demandez ce qu'elle voudrait acheter. 
+Demandez ce qu'elle voudrait achèter. 
 
 [Male Speaker]
-Qu'est-ce que vous voudriez acheter? 
+Qu'est-ce que vous voudriez achèter? 
 
 [Male Speaker]
-Qu'est-ce que vous voudriez acheter? 
+Qu'est-ce que vous voudriez achèter? 
 
 [Narrator]
 "I would like some money."
@@ -1037,4 +1037,4 @@ Alors, au revoir.
 Alors, au revoir. 
 
 [Narrator]
-This is the end of Unit Twenty-Six.
+This is the end of unit twenty-six.

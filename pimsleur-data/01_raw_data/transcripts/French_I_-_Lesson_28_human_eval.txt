@@ -590,10 +590,10 @@ That means "to stay."
 "Oh, I understand now."
 
 [Male Speaker]
-Oh! Je comprends maintenant. 
+Oh, je comprends maintenant. 
 
 [Male Speaker]
-Oh! Je comprends maintenant.
+Oh, je comprends maintenant.
 
 [Narrator]
 "You're going to stay?"
@@ -848,85 +848,4 @@ Voilà ce que zut veut dire.
 Ah zut alors! 
 
 [Narrator]
-This lesson of Speak & Read Essential French One provides reading practice. If you're doing the readings now, take your reading booklet. 
-
-[French Narrator]
-Maintenant, prenez votre livre de lecture. Ouvrez-le à la page où il y a les phrases pour la leçon vingt-huit. Regardez la première phrase. Lisez-la. 
-
-[Male Speaker]
-Quel numéro voulez-vous? 
-
-[Male Speaker]
-Numéro. 
-
-[French Narrator]
-Deux. 
-
-[Male Speaker]
-C'est une rose? Non, c'est un roseau. 
-
-[French Narrator]
-Trois. 
-
-[Male Speaker]
-De quelle couleur est l'automobile? 
-
-[French Narrator]
-Quatre. 
-
-[Male Speaker]
-Elle est toute noire. 
-
-[French Narrator]
-Cinq. 
-
-[Male Speaker]
-Et aussi très grande. 
-
-[French Narrator]
-Six. 
-
-[Male Speaker]
-Montrez-moi la photo. 
-
-[French Narrator]
-Sept. 
-
-[Male Speaker]
-Il n'aurait pas osé. 
-
-[French Narrator]
-Huit. 
-
-[Male Speaker]
-Est-ce que vous me recommandez cet hôtel? 
-
-[French Narrator]
-Neuf. 
-
-[Male Speaker]
-Il y fait chaud; c'est magnifique. 
-
-[Male Speaker]
-Magnifique. 
-
-[French Narrator]
-Dix. 
-
-[Male Speaker]
-Quel rôle pouvez-vous y jouer? 
-
-[Male Speaker]
-Quel rôle pouvez-vous y jouer? 
-
-[French Narrator]
-Onze. 
-
-[Male Speaker]
-Il n'y a pas grand-chose à dire.
-
-[Male Speaker]
-Il n'y a pas grand-chose à dire. 
-
-[French Narrator]
-Douze.
+This is the end of unit twenty-eight.

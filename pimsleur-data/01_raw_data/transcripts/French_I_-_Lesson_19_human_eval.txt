@@ -191,13 +191,13 @@ Soixante-huit, c'est trop cher.
 Soixante-huit, c'est trop cher. 
 
 [Narrator]
-Say, "I'm going to give you..."
+Say, "I'm going to give you."
 
 [Male Speaker]
-Je vais vous donner... 
+Je vais vous donner. 
 
 [Male Speaker]
-Je vais vous donner... 
+Je vais vous donner. 
 
 [Narrator]
 "I'm going to give you fifty-three francs."
@@ -810,120 +810,6 @@ Maintenant, nous pouvons boire quelque chose et parler.
 
 [Female Speaker]
 Maintenant, nous pouvons boire quelque chose et parler. 
-
-[Narrator]
-This lesson of Speak & Read Essential French One provides reading practice. If you're doing the readings now, take your reading booklet. 
-
-[French Narrator]
-Prenez votre livre de lecture maintenant. 
-
-[French Narrator]
-Prenez votre livre de lecture maintenant. 
-
-[French Narrator]
-Ouvrez à la page pour la leçon dix-neuf. 
-
-[French Narrator]
-Regardez la première phrase. 
-
-[French Narrator]
-Lisez-la. 
-
-[Male Speaker]
-Combien de francs avez-vous? 
-
-[Male Speaker]
-Combien de francs avez-vous? 
-
-[French Narrator]
-Deux. 
-
-[Male Speaker]
-Moi, j'ai quatorze francs. 
-
-[French Narrator]
-Trois. 
-
-[Male Speaker]
-Je veux des dollars. 
-
-[French Narrator]
-Quatre. 
-
-[Male Speaker]
-Vous en voulez combien? Quinze? 
-
-[French Narrator]
-Cinq. 
-
-[Male Speaker]
-Ce monsieur se répète. 
-
-[Male Speaker]
-Ce monsieur se répète. 
-
-[French Narrator]
-Six. 
-
-[Male Speaker]
-Aujourd'hui, à huit heures. 
-
-[Male Speaker]
-Huit. 
-
-[French Narrator]
-Sept. 
-
-[Male Speaker]
-Tu ne m'écoutes pas. 
-
-[Male Speaker]
-Tu ne m'écoutes pas. 
-
-[French Narrator]
-Huit. 
-
-[Male Speaker]
-C'est un inconvénient.
-
-[Male Speaker]
-Un inconvénient. 
-
-[French Narrator]
-Neuf. 
-
-[Male Speaker]
-Puis, ce soir il sera là. 
-
-[French Narrator]
-Dix. 
-
-[Male Speaker]
-Avant sept heures. D'accord? 
-
-[Male Speaker]
-Avant sept heures. D'accord? 
-
-[French Narrator]
-Onze. 
-
-[Male Speaker]
-Douze dollars, et je l'achéte. 
-
-[French Narrator]
-Douze. 
-
-[Male Speaker]
-Je vous dois treize francs, n'est-ce pas? 
-
-[Male Speaker]
-Je vous dois treize francs, n'est-ce pas? 
-
-[French Narrator]
-Treize. 
-
-[Male Speaker]
-Et les voilà. Au revoir. 
 
 [Narrator]
 This is the end of today's lesson. When you continue with the next unit tomorrow, please begin with track number two.

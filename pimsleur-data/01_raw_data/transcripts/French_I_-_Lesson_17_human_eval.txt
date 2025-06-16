@@ -17,7 +17,7 @@ They are in France.
 Alors? Qu'est-ce que vous allez faire aujourd'hui? 
 
 [Female Speaker]
-Moi, je vais acheter quelque chose aujourd'hui. 
+Moi, je vais achèter quelque chose aujourd'hui. 
 
 [Male Speaker]
 Mais est-ce que vous avez de l'argent? 
@@ -29,7 +29,7 @@ Non, je n'en ai pas beaucoup.
 Vous avez combien de francs? 
 
 [Female Speaker]
-Oh! Trente-cinq ou quarante. 
+Oh, trente-cinq ou quarante. 
 
 [Male Speaker]
 Et des dollars, vous en avez combien? 
@@ -53,7 +53,7 @@ One more time.
 Alors? Qu'est-ce que vous allez faire aujourd'hui? 
 
 [Female Speaker]
-Moi, je vais acheter quelque chose aujourd'hui. 
+Moi, je vais achèter quelque chose aujourd'hui. 
 
 [Male Speaker]
 Mais est-ce que vous avez de l'argent? 
@@ -65,7 +65,7 @@ Non, je n'en ai pas beaucoup.
 Vous avez combien de francs? 
 
 [Female Speaker]
-Oh! Trente-cinq ou quarante. 
+Oh, trente-cinq ou quarante. 
 
 [Male Speaker]
 Et des dollars, vous en avez combien? 
@@ -386,13 +386,13 @@ Je vous dois combien?
 Je vous dois combien? 
 
 [Narrator]
-Say, "You owe me..." 
+Say, "You owe me." 
 
 [Female Speaker]
-Vous me devez... 
+Vous me devez. 
 
 [Female Speaker]
-Vous me devez... 
+Vous me devez. 
 
 [Narrator]
 Say, "You owe me thirty-one francs." 
@@ -557,22 +557,22 @@ Here's how to say, "You speak too fast."
 Écoutez et répétez. 
 
 [Male Speaker]
-Vous parlez trop vite! 
+Vous parlez trop vite.
 
 [Male Speaker]
-Vite! 
+Vite.
 
 [Male Speaker]
-Vite! 
+Vite.
 
 [Male Speaker]
-Vous parlez trop vite! 
+Vous parlez trop vite.
 
 [Narrator]
 Tell me I talk too fast. 
 
 [Male Speaker]
-Vous parlez trop vite! 
+Vous parlez trop vite.
 
 [Narrator]
 Say, "I don't talk fast." 
@@ -611,13 +611,13 @@ Mais en français, je ne vous comprends pas.
 Mais en français, je ne vous comprends pas. 
 
 [Narrator]
-Try to say, "When you speak French..." 
+Try to say, "When you speak French." 
 
 [Male Speaker]
-Quand vous parlez français... 
+Quand vous parlez français. 
 
 [Male Speaker]
-Quand vous parlez français... 
+Quand vous parlez français. 
 
 [Narrator]
 Say, "You talk too fast for me." 
@@ -765,120 +765,6 @@ Merci et ça suffit.
 
 [Female Speaker]
 Merci et ça suffit. 
-
-[Narrator]
-This lesson of Speak & Read Essential French One provides reading practice. If you're doing the readings now, take your reading booklet. 
-
-[French Narrator]
-Maintenant, prenez votre livre de lecture. 
-
-[Narrator]
-Your reading booklet. 
-
-[French Narrator]
-Ouvrez à la page pour la leçon dix-sept. 
-
-[French Narrator]
-Ouvrez à la page pour la leçon dix-sept. 
-
-[French Narrator]
-Regardez la première phrase. 
-
-[French Narrator]
-Lisez-la. 
-
-[Male Speaker]
-Et l'ami de Charles? 
-
-[French Narrator]
-Deux. 
-
-[Male Speaker]
-Où? Au restaurant? 
-
-[French Narrator]
-Trois. 
-
-[Male Speaker]
-Et aussi au garage. 
-
-[French Narrator]
-Quatre. 
-
-[Male Speaker]
-Il fait chaud. 
-
-[French Narrator]
-Cinq. 
-
-[Male Speaker]
-Claude aussi veut partir. 
-
-[French Narrator]
-Six. 
-
-[Male Speaker]
-Il tend son filet. 
-
-[French Narrator]
-Sept. 
-
-[Male Speaker]
-Regardez les toits. 
-
-[French Narrator]
-Huit. 
-
-[Male Speaker]
-Je les ai vus. 
-
-[French Narrator]
-Neuf. 
-
-[Male Speaker]
-Quelle heure est-il? 
-
-[Male Speaker]
-Quelle heure est-il? 
-
-[French Narrator]
-Dix. 
-
-[Male Speaker]
-Maintenant? Une heure. 
-
-[French Narrator]
-Onze. 
-
-[Male Speaker]
-Merci, Madame, et merci, Monsieur. 
-
-[French Narrator]
-Douze. 
-
-[Male Speaker]
-Comment allez-vous? 
-
-[French Narrator]
-Treize. 
-
-[Male Speaker]
-Merci, pas ce soir. 
-
-[French Narrator]
-Quatorze. 
-
-[Male Speaker]
-Vous n'écoutez pas, Madame. 
-
-[French Narrator]
-Quinze. 
-
-[Male Speaker]
-Dites cela au monsieur. 
-
-[Male Speaker]
-Au monsieur. 
 
 [Narrator]
 This is the end of today's lesson. When you continue with the next unit tomorrow, please begin with track number two.

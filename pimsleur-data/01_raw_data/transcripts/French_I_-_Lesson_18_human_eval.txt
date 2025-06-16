@@ -17,13 +17,13 @@ Son ami.
 His friend. 
 
 [French Narrator]
-Elle veut acheter un chapeau. 
+Elle veut achèter un chapeau. 
 
 [Narrator]
 A hat. 
 
 [French Narrator]
-Elle veut acheter un chapeau. Écoutez. 
+Elle veut achèter un chapeau. Écoutez. 
 
 [Female Speaker]
 Charles. 
@@ -32,10 +32,10 @@ Charles.
 Oui. Qu'est-ce que vous voulez? 
 
 [Female Speaker]
-Je vais acheter quelque chose, Charles. 
+Je vais achèter quelque chose, Charles. 
 
 [Male Speaker]
-Ah! Qu'est-ce que vous allez acheter? 
+Ah, qu'est-ce que vous allez achèter? 
 
 [Female Speaker]
 Un chapeau, un très beau chapeau. Un chapeau magnifique. 
@@ -56,10 +56,10 @@ Alors donnez-moi de l'argent.
 D'accord. Voilà soixante francs. Est-ce que ça suffit? 
 
 [Female Speaker]
-Oui, ça suffit. Moi aussi, j'ai de l'argent. Merci, Charles. Je vais vite acheter ce chapeau. Au revoir. 
+Oui, ça suffit. Moi aussi, j'ai de l'argent. Merci, Charles. Je vais vite achèter ce chapeau. Au revoir. 
 
 [Male Speaker]
-Au revoir. Et achetez un chapeau, pas deux. 
+Au revoir. Et achètez un chapeau, pas deux. 
 
 [Narrator]
 It would be very nice if she could get her magnificent chapeau for one-hundred francs "cent francs." For this conversation, let's assume that she can. 
@@ -74,10 +74,10 @@ Charles?
 Oui, qu'est-ce que vous voulez? 
 
 [Female Speaker]
-Je vais acheter quelque chose, Charles. 
+Je vais achèter quelque chose, Charles. 
 
 [Male Speaker]
-Ah, qu'est-ce que vous allez acheter? 
+Ah, qu'est-ce que vous allez achèter? 
 
 [Female Speaker]
 Un chapeau, un très beau chapeau. Un chapeau magnifique. 
@@ -98,10 +98,10 @@ Alors, donnez-moi de l'argent.
 D'accord. Voilà soixante francs. Est-ce que ça suffit? 
 
 [Female Speaker]
-Oui, ça suffit. Moi aussi, j'ai de l'argent. Merci, Charles. Je vais vite acheter ce chapeau. Au revoir. 
+Oui, ça suffit. Moi aussi, j'ai de l'argent. Merci, Charles. Je vais vite achèter ce chapeau. Au revoir. 
 
 [Male Speaker]
-Au revoir. Et achetez un chapeau, pas deux. 
+Au revoir. Et achètez un chapeau, pas deux. 
 
 [Narrator]
 Do you recall the number fifty in French? 
@@ -578,7 +578,7 @@ Answer, "No, ma'am."
 Non, Madame. 
 
 [Narrator]
-How would you say, "No wine!"? 
+How would you say, "No wine."? 
 
 [Male Speaker]
 Pas de vin. 
@@ -776,10 +776,10 @@ Donnez-moi une Orangina, s'il vous plaît.
 He says, "But no, no Orangina." 
 
 [Male Speaker]
-Mais non! Pas d'Orangina. 
+Mais non, pas d'Orangina. 
 
 [Male Speaker]
-Mais non! Pas d'Orangina. 
+Mais non, pas d'Orangina. 
 
 [Narrator]
 She says, "Yes, yes, I'm going to drink Orangina." 
@@ -836,148 +836,4 @@ Et voilà mon mari.
 Et votre femme? 
 
 [Narrator]
-This lesson of Speak and Read Essential French One provides reading practice. If you're doing the readings now, take your reading booklet. 
-
-[French Narrator]
-Prenez maintenant votre livre de lecture. 
-
-[French Narrator]
-Maintenant, prenez votre livre de lecture. 
-
-[French Narrator]
-Ouvrez à la page pour la leçon dix-huit. 
-
-[French Narrator]
-Ouvrez à la page pour la leçon dix-huit. 
-
-[French Narrator]
-Regardez la première phrase. 
-
-[French Narrator]
-Regardez la première phrase. 
-
-[French Narrator]
-Lisez-la. 
-
-[Male Speaker]
-Il est quatre heures. 
-
-[Male Speaker]
-Quatre heures. 
-
-[French Narrator]
-Deux. 
-
-[Male Speaker]
-J'ai mangé à trois heures. 
-
-[French Narrator]
-Trois. 
-
-[Male Speaker]
-Venez demain, d'accord? 
-
-[Male Speaker]
-Venez demain. 
-
-[French Narrator]
-Quatre. 
-
-[Male Speaker]
-Qu'est-ce que je vous dois? 
-
-[Male Speaker]
-Qu'est-ce que je vous dois? 
-
-[French Narrator]
-Cinq. 
-
-[Male Speaker]
-Dix francs. 
-
-[Male Speaker]
-Dix. 
-
-[French Narrator]
-Six. 
-
-[Male Speaker]
-Onze dollars? C'est trop. 
-
-[French Narrator]
-Sept. 
-
-[Male Speaker]
-Il n'y en a plus. 
-
-[Male Speaker]
-Il n'y en a plus. 
-
-[French Narrator]
-Huit. 
-
-[Male Speaker]
-Aujourd'hui. 
-
-[Male Speaker]
-Aujourd'hui. 
-
-[French Narrator]
-Neuf. 
-
-[Male Speaker]
-Et aussi demain. 
-
-[French Narrator]
-Dix. 
-
-[Male Speaker]
-À six heures, s'il vous plaît. 
-
-[French Narrator]
-Onze. 
-
-[Male Speaker]
-Lui et moi. 
-
-[Male Speaker]
-Lui et moi. 
-
-[French Narrator]
-Douze. 
-
-[Male Speaker]
-Louis, Lui.
-
-[Male Speaker]
-Louis, Lui. 
-
-[French Narrator]
-Treize.
-
-[Male Speaker]
-Depuis cinq heures. 
-
-[Male Speaker]
-Depuis cinq heures. 
-
-[French Narrator]
-Quatorze.
-
-[Male Speaker]
-Quelle tuile, n'est-ce pas? 
-
-[Male Speaker]
-Quelle tuile, n'est-ce pas? 
-
-[French Narrator]
-Quinze.
-
-[Male Speaker]
-Voilà les douze dollars que je vous dois. 
-
-[Male Speaker]
-Voilà les douze dollars que je vous dois. 
-
-[Narrator]
-This is the end of Unit Eighteen.
+This is the end of unit eighteen.

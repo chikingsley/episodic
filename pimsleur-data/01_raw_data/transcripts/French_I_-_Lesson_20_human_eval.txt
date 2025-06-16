@@ -11,7 +11,7 @@ This is Unit Twenty of Pimsleur's Speak and Read Essential French One.
 Madame Dupont. 
 
 [Female Speaker]
-Ah, Monsieur Jones! Entrez, s'il vous plaît. Comment allez-vous? 
+Ah, Monsieur Jones. Entrez, s'il vous plaît. Comment allez-vous? 
 
 [Male Speaker]
 Bien, merci. Et vous? 
@@ -53,7 +53,7 @@ The expression "tiens tiens" means something like "well, well, well."
 Madame Dupont. 
 
 [Female Speaker]
-Ah, Monsieur Jones! Entrez, s'il vous plaît. Comment allez-vous? 
+Ah, Monsieur Jones. Entrez, s'il vous plaît. Comment allez-vous? 
 
 [Male Speaker]
 Bien, merci, et vous? 
@@ -428,7 +428,7 @@ Quatre enfants.
 Quatre enfants. 
 
 [Narrator]
-Say, "That's a lot!" 
+Say, "That's a lot." 
 
 [Male Speaker]
 C'est beaucoup. 
@@ -437,7 +437,7 @@ C'est beaucoup.
 C'est beaucoup. 
 
 [Narrator]
-Say, "Not in America!" 
+Say, "Not in America," 
 
 [Male Speaker]
 Pas en Amérique. 
@@ -857,121 +857,4 @@ Vous comprenez très bien le français, Monsieur.
 Non, Madame, pas très bien. Mais merci. 
 
 [Narrator]
-This lesson of Speak & Read Essential French One provides reading practice. If you're doing the readings now, take your reading bullet. 
-
-[French Narrator]
-Maintenant, prenez votre livre de lecture. 
-
-[French Narrator]
-Prenez votre livre de lecture maintenant. 
-
-[French Narrator]
-Ouvrez-le à la page pour la leçon vingt. 
-
-[French Narrator]
-Regardez la première phrase, lisez-la. 
-
-[Male Speaker]
-Écoutez l'élève. 
-
-[Male Speaker]
-Écoutez l'élève. 
-
-[French Narrator]
-Deux. 
-
-[Male Speaker]
-Oui, nous l'entendons. 
-
-[Male Speaker]
-Nous l'entendons. 
-
-[French Narrator]
-Trois. 
-
-[Male Speaker]
-Nous l'entendons bien. 
-
-[French Narrator]
-Quatre. 
-
-[Male Speaker]
-Il dit du mal du professeur. 
-
-[Male Speaker]
-Il dit du mal du professeur. 
-
-[French Narrator]
-Cinq. 
-
-[Male Speaker]
-Puis, il se tait. 
-
-[French Narrator]
-Six. 
-
-[Male Speaker]
-Avant huit heures, s'il vous plaît. 
-
-[Male Speaker]
-Avant huit heures, s'il vous plaît. 
-
-[French Narrator]
-Sept. 
-
-[Male Speaker]
-Je vous dois combien? 
-
-[French Narrator]
-Huit. 
-
-[Male Speaker]
-À quel lien pensez-vous? 
-
-[Male Speaker]
-À quel lien pensez-vous? 
-
-[French Narrator]
-Neuf. 
-
-[Male Speaker]
-Moi? Je ne dis rien. 
-
-[French Narrator]
-Dix. 
-
-[Male Speaker]
-Quelle bonne idée! 
-
-[French Narrator]
-Onze. 
-
-[Male Speaker]
-C'est bien lui! 
-
-[French Narrator]
-Douze. 
-
-[Male Speaker]
-Ce n'est pas une bête. 
-
-[Male Speaker]
-Une bête. 
-
-[French Narrator]
-Treize. 
-
-[Male Speaker]
-Je crois que c'est une brute. 
-
-[Male Speaker]
-Je crois que c'est une brute. 
-
-[French Narrator]
-Quatorze. 
-
-[Male Speaker]
-Et cela n'est pas très bien. 
-
-[Narrator]
-This is the end of Unit Twenty.
+This is the end of unit twenty.

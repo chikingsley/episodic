@@ -2,13 +2,13 @@
 This is Unit Fourteen of Pimsleur's Speak and Read Essential French One. 
 
 [French Narrator]
-Écoutez cette conversation française. Un monsieur américain veut acheter un journal "A newspaper." 
+Écoutez cette conversation française. Un monsieur américain veut achèter un journal "A newspaper." 
 
 [French Narrator]
 Un journal. Le monsieur parle avec la vendeuse. 
 
 [French Narrator]
-Écoutez cette conversation française. Un monsieur américain veut acheter un journal. Le monsieur parle avec la vendeuse. 
+Écoutez cette conversation française. Un monsieur américain veut achèter un journal. Le monsieur parle avec la vendeuse. 
 
 [Male Speaker]
 Madame, avez-vous un journal américain, s'il vous plaît? 
@@ -458,13 +458,13 @@ Pas de bière.
 Say, "I would like to buy some beer."
 
 [Male Speaker]
-Je voudrais acheter de la bière. 
+Je voudrais achèter de la bière. 
 
 [Male Speaker]
 De la bière. 
 
 [Male Speaker]
-Je voudrais acheter de la bière. 
+Je voudrais achèter de la bière. 
 
 [Narrator]
 Say again, "I have no beer."
@@ -512,7 +512,7 @@ Maintenant, donnez-moi dix-sept francs.
 Say, "I would like to buy some wine."
 
 [Male Speaker]
-Je voudrais acheter du vin. 
+Je voudrais achèter du vin. 
 
 [Narrator]
 How do you say sixteen? 
@@ -674,7 +674,7 @@ Merci beaucoup.
 An American woman is talking to her husband. They are in France. How does she say, "I would like to buy something."
 
 [Female Speaker]
-Je voudrais acheter quelque chose. 
+Je voudrais achèter quelque chose. 
 
 [Narrator]
 Say, "Give me fifteen dollars."
@@ -791,10 +791,10 @@ Vous n'avez pas de francs.
 Say, "Well then I'm going to buy some francs."
 
 [Female Speaker]
-Alors, je vais acheter des francs. 
+Alors, je vais achèter des francs. 
 
 [Female Speaker]
-Alors, je vais acheter des francs. 
+Alors, je vais achèter des francs. 
 
 [Narrator]
 Say, "Give me some dollars, please."
@@ -854,115 +854,4 @@ Mais chez moi, c'est beaucoup.
 Mais chez moi, c'est beaucoup. 
 
 [Narrator]
-This lesson of Speak & Read Essential French One provides reading practice. If you're doing the readings now, take your reading booklet and open it to the page containing the words for lesson fourteen. 
-
-[Narrator]
-Look at number one. Read it aloud. 
-
-[Male Speaker]
-Le bout. 
-
-[French Narrator]
-Deux. 
-
-[French Narrator]
-Écoutez et répétez. 
-
-[Male Speaker]
-Le but. 
-
-[Male Speaker]
-But. 
-
-[Male Speaker]
-But. 
-
-[French Narrator]
-Trois. 
-
-[Male Speaker]
-Regardez la lune. 
-
-[Male Speaker]
-La lune. 
-
-[French Narrator]
-Quatre. 
-
-[Male Speaker]
-Allez, debout!
-
-[Male Speaker]
-Debout. 
-
-[French Narrator]
-Cinq.
-
-[Male Speaker]
-Mais, c'est le début. 
-
-[Male Speaker]
-Le début. 
-
-[French Narrator]
-Six. 
-
-[Male Speaker]
-Qui l'a vu? 
-
-[French Narrator]
-Sept. 
-
-[Male Speaker]
-C'est vous, Mademoiselle? 
-
-[French Narrator]
-Huit. 
-
-[Male Speaker]
-Pas moi, mon neveu. 
-
-[French Narrator]
-Neuf. 
-
-[Male Speaker]
-Demain matin, Madame. 
-
-[French Narrator]
-Dix. 
-
-[Male Speaker]
-Elle est douce, tu sais. 
-
-[Male Speaker]
-Elle est douce, tu sais. 
-
-[French Narrator]
-Onze. 
-
-[Male Speaker]
-Non, pas du tout. 
-
-[Male Speaker]
-Pas du tout. 
-
-[French Narrator]
-Douze. 
-
-[Male Speaker]
-Donnez-moi du vin. 
-
-[French Narrator]
-Treize. 
-
-[Male Speaker]
-Non, pas de pain. 
-
-[French Narrator]
-Quatorze. 
-
-[Male Speaker]
-Ce lait n'est pas bon. 
-
-[Narrator]
-This is the end of Unit Fourteen.
+This is the end of Unit 14.

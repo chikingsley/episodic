@@ -12,9 +12,8 @@ from collections import defaultdict, Counter
 from typing import Dict, List, Any
 from alive_progress import alive_bar  # type: ignore
 
-# Add path for database writer
-sys.path.append(str(pathlib.Path(__file__).parent.parent))
-from db.database_writer import DatabaseWriter
+# Import database writer
+from database_writer import DatabaseWriter
 
 def normalize_utterance_text(text: str) -> str:
     """Normalize utterance text for comparison (case-insensitive, minimal cleanup)."""
@@ -145,7 +144,11 @@ def analyze_utterance_patterns(lessons: List[int]) -> int:
             """)
             
             for text, total_lessons, persistence, lesson_counts_json in cur.fetchall():
-                lesson_counts = json.loads(lesson_counts_json)
+                # Handle both JSON string and dict formats
+                if isinstance(lesson_counts_json, str):
+                    lesson_counts = json.loads(lesson_counts_json)
+                else:
+                    lesson_counts = lesson_counts_json
                 lessons_str = ", ".join([f"L{k}:{v}" for k, v in sorted(lesson_counts.items())])
                 print(f"   '{text[:50]}...' - {total_lessons} lessons ({persistence:.2f})")
                 print(f"     Distribution: {lessons_str}")
@@ -175,7 +178,11 @@ def analyze_utterance_patterns(lessons: List[int]) -> int:
             """)
             
             for text, lesson_counts_json, total_lessons in cur.fetchall():
-                lesson_counts = json.loads(lesson_counts_json)
+                # Handle both JSON string and dict formats
+                if isinstance(lesson_counts_json, str):
+                    lesson_counts = json.loads(lesson_counts_json)
+                else:
+                    lesson_counts = lesson_counts_json
                 lessons_str = ", ".join([f"L{k}:{v}" for k, v in sorted(lesson_counts.items())])
                 print(f"   '{text[:40]}...' ({total_lessons} lessons)")
                 print(f"     Pattern: {lessons_str}")
@@ -205,7 +212,6 @@ def main():
     total_patterns = analyze_utterance_patterns(args.lessons)
     
     print(f"\n✅ Analysis complete! Generated {total_patterns} utterance patterns.")
-    print("🎯 Next steps: Review pattern data in utterance_patterns table")
 
 if __name__ == "__main__":
     main()

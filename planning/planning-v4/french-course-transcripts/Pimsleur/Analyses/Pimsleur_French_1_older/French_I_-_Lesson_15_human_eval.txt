@@ -857,7 +857,7 @@ Oui, je peux.
 Vous pouvez à sept heures? 
 
 [Male Speaker]
-Oui, à cette heure, je peux. 
+Oui, à sept heure, je peux. 
 
 [Female Speaker]
 Voulez-vous faire quelque chose pour moi? 
