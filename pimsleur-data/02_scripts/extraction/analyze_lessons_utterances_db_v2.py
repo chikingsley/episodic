@@ -10,7 +10,7 @@ import pathlib
 import sys
 import time
 import re
-from typing import List, Dict, Optional, Any
+from typing import List, Optional, TypedDict
 from dataclasses import dataclass
 
 from dotenv import load_dotenv
@@ -60,12 +60,20 @@ MISTRAL_CLIENT = MistralClient(
 
 
 # ----- Data Structures -----------------------------------------------------
+class Utterance(TypedDict):
+    """Represents a single utterance with its metadata."""
+
+    speaker: str
+    text: str
+    position: int
+
+
 @dataclass
 class UtteranceBatch:
     """Represents a batch of utterances to process."""
 
     batch_id: int
-    utterances: List[Dict[str, Any]]
+    utterances: List[Utterance]
     start_position: int
     end_position: int
 
@@ -91,7 +99,7 @@ def parse_transcript_to_batches(
     transcript: str, batch_size: int = BATCH_SIZE
 ) -> List[UtteranceBatch]:
     """Parse transcript into batches of utterances."""
-    utterances = []
+    utterances: List[Utterance] = []
     current_speaker = None
     current_text: List[str] = []
 
@@ -106,16 +114,20 @@ def parse_transcript_to_batches(
 
         if speaker_match:
             # Save previous utterance if it's from Male/Female Speaker
-            if current_speaker in ["Male Speaker", "Female Speaker"] and current_text:
+            if (
+                current_speaker in ["Male Speaker", "Female Speaker"]
+                and current_text
+                and current_speaker is not None
+            ):
                 utterance_text = " ".join(current_text).strip()
                 if utterance_text and any(char.isalpha() for char in utterance_text):
                     position += 1
                     utterances.append(
-                        {
-                            "speaker": current_speaker,
-                            "text": utterance_text,
-                            "position": position,
-                        }
+                        Utterance(
+                            speaker=current_speaker,
+                            text=utterance_text,
+                            position=position,
+                        )
                     )
 
             # Update current speaker
@@ -127,16 +139,20 @@ def parse_transcript_to_batches(
                 current_text.append(line)
 
     # Don't forget the last utterance
-    if current_speaker in ["Male Speaker", "Female Speaker"] and current_text:
+    if (
+        current_speaker in ["Male Speaker", "Female Speaker"]
+        and current_text
+        and current_speaker is not None
+    ):
         utterance_text = " ".join(current_text).strip()
         if utterance_text and any(char.isalpha() for char in utterance_text):
             position += 1
             utterances.append(
-                {
-                    "speaker": current_speaker,
-                    "text": utterance_text,
-                    "position": position,
-                }
+                Utterance(
+                    speaker=current_speaker,
+                    text=utterance_text,
+                    position=position,
+                )
             )
 
     # Create batches
@@ -317,7 +333,7 @@ def process_lesson_chunked(file_path: pathlib.Path) -> int:
                 # Handle results
                 if success and batch_utterances:
                     # Save to database immediately
-                    count = db.write_utterances(batch_utterances)
+                    db.write_utterances(batch_utterances)
                     all_utterances.extend(batch_utterances)
 
                     status.completed_batches += 1
