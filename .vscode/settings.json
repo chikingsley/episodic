@@ -1,0 +1,13 @@
+{
+  // Tell Cursor/VS Code to use the Poetry venv that lives in pimsleur-data/.venv
+  "python.defaultInterpreterPath": "${workspaceFolder}/pimsleur-data/.venv/bin/python",
+  "python.poetryPath": "poetry",
+  "python-envs.pythonProjects": [],
+  "[python]": {
+    "editor.defaultFormatter": "charliermarsh.ruff",
+    "editor.codeActionsOnSave": {
+      "source.fixAll": "explicit"
+    }
+  },
+  "editor.formatOnSave": true
+}
