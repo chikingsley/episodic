@@ -27,8 +27,14 @@ load_dotenv()
 
 # ----- Configuration -------------------------------------------------------
 BATCH_SIZE = 8  # Number of utterances per batch
-FALLBACK_MODEL = "mistral-small-latest"  # Fallback after failures
-MAX_RETRIES_PER_BATCH = 3
+MODEL_CASCADE = [
+    "mistral-medium-latest",
+    "mistral-large-latest",
+    "magistral-medium-latest",
+    "magistral-medium-latest",  # Re-trying can be effective
+    "magistral-small-latest",
+    "mistral-small-latest",
+]
 RETRY_DELAY = 5  # seconds
 
 # ----- NLP and API Setup ---------------------------------------------------
@@ -194,12 +200,26 @@ Return a JSON object with key "analyzed_utterances" containing a list of utteran
         )
 
         data = json.loads(response.choices[0].message.content)
+        analyzed_utterances = data.get("analyzed_utterances")
+
+        # Validate the structure of the response
+        if not isinstance(analyzed_utterances, list):
+            print(
+                f"\n⚠️  'analyzed_utterances' is not a list in batch {batch.batch_id}. Content: {str(analyzed_utterances)[:100]}"
+            )
+            return []
 
         # Convert to UtteranceRecord objects
         utterances = []
         for idx, (item, original) in enumerate(
-            zip(data.get("analyzed_utterances", []), batch.utterances)
+            zip(analyzed_utterances, batch.utterances)
         ):
+            if not isinstance(item, dict):
+                print(
+                    f"\n⚠️  Item {idx} in batch {batch.batch_id} is not a dictionary. Skipping."
+                )
+                continue
+
             utterances.append(
                 UtteranceRecord(
                     lesson_number=lesson_number,
@@ -220,7 +240,7 @@ Return a JSON object with key "analyzed_utterances" containing a list of utteran
 
 
 # ----- Main Processing Function --------------------------------------------
-def process_lesson_chunked(file_path: pathlib.Path, model_name: str) -> int:
+def process_lesson_chunked(file_path: pathlib.Path) -> int:
     """Process a lesson file using chunked batch processing with alive_progress."""
 
     # Extract lesson number
@@ -242,12 +262,11 @@ def process_lesson_chunked(file_path: pathlib.Path, model_name: str) -> int:
         total_batches=len(batches),
         total_utterances=sum(len(b.utterances) for b in batches),
         start_time=time.time(),
-        current_model=model_name,
+        current_model=MODEL_CASCADE[0],
     )
 
     # Process each batch with alive progress bar
     all_utterances = []
-    current_model = model_name
 
     print(f"\n📖 Processing {lesson_name}")
     print(
@@ -267,32 +286,33 @@ def process_lesson_chunked(file_path: pathlib.Path, model_name: str) -> int:
             for batch in batches:
                 status.current_batch = batch.batch_id
 
-                # Update bar text with current batch info
-                bar.text = f"📦 Batch {batch.batch_id}/{status.total_batches} | ✅ {status.processed_utterances} | ❌ {status.failed_utterances} | 🎯 {current_model}"
-
-                # Try processing with retries and model fallback
+                # Try processing with model cascade
                 success = False
                 batch_utterances = []
 
-                for attempt in range(MAX_RETRIES_PER_BATCH):
-                    # Switch to fallback model after 2 failures
-                    if attempt >= 2 and current_model != FALLBACK_MODEL:
-                        current_model = FALLBACK_MODEL
-                        status.current_model = current_model
-                        bar.text = f"🔄 Switched to {FALLBACK_MODEL} | Batch {batch.batch_id}/{status.total_batches}"
+                for attempt, model_to_try in enumerate(MODEL_CASCADE):
+                    status.current_model = model_to_try
+                    bar.text = f"📦 Batch {batch.batch_id}/{status.total_batches} | ✅ {status.processed_utterances} | ❌ {status.failed_utterances} | 🎯 {model_to_try}"
 
                     # Process batch
                     batch_utterances = process_batch_with_llm(
-                        batch, lesson_number, current_model
+                        batch, lesson_number, model_to_try
                     )
 
                     if batch_utterances:
                         success = True
-                        break
+                        break  # Success, exit the model cascade loop
                     else:
-                        if attempt < MAX_RETRIES_PER_BATCH - 1:
-                            bar.text = f"🔁 Retrying batch {batch.batch_id} (attempt {attempt + 2}/{MAX_RETRIES_PER_BATCH})"
+                        if attempt < len(MODEL_CASCADE) - 1:
+                            next_model = MODEL_CASCADE[attempt + 1]
+                            print(
+                                f"\n🔁 Batch {batch.batch_id} failed with {model_to_try}. Retrying with {next_model}..."
+                            )
                             time.sleep(RETRY_DELAY)
+                        else:
+                            print(
+                                f"\n❌ All models in cascade failed for batch {batch.batch_id}"
+                            )
 
                 # Handle results
                 if success and batch_utterances:
@@ -364,7 +384,10 @@ def main():
         help=f"Utterances per batch (default: {BATCH_SIZE})",
     )
     parser.add_argument(
-        "--model", type=str, default=None, help="Override Mistral model from env"
+        "--model",
+        type=str,
+        default=None,
+        help="This argument is ignored. The script uses a hardcoded model cascade.",
     )
 
     args = parser.parse_args()
@@ -377,11 +400,14 @@ def main():
     project_root = pathlib.Path(__file__).parent.parent.parent
     source_dir = project_root / "01_raw_data" / "transcripts"
 
-    model_name = args.model or os.getenv("MISTRAL_MODEL", "mistral-medium-latest")
+    if args.model:
+        print(
+            "⚠️  Warning: The --model argument is ignored. Using the built-in MODEL_CASCADE."
+        )
 
     print("🚀 Pimsleur Utterance Extraction V2 - Chunked Processing")
     print("=" * 60)
-    print(f"📊 Model: {model_name}")
+    print(f"📖 Using model cascade: {', '.join(MODEL_CASCADE)}")
     print(f"📦 Batch size: {BATCH_SIZE} utterances")
     print(f"📚 Lessons: {args.lessons}")
     print("=" * 60)
@@ -396,7 +422,7 @@ def main():
             print(f"\n❌ File not found: {file_path}")
             continue
 
-        count = process_lesson_chunked(file_path, model_name)
+        count = process_lesson_chunked(file_path)
         total_processed += count
 
     # Final summary
