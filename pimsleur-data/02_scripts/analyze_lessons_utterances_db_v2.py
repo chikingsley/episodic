@@ -25,12 +25,12 @@ from database_writer import DatabaseWriter, UtteranceRecord  # type: ignore
 load_dotenv()
 
 # ----- Configuration -------------------------------------------------------
-BATCH_SIZE = 8  # Number of utterances per batch
+BATCH_SIZE = 8
 MODEL_CASCADE = [
     "mistral-medium-latest",
     "mistral-large-latest",
     "magistral-medium-latest",
-    "magistral-medium-latest",  # Re-trying can be effective
+    "magistral-medium-latest",
     "magistral-small-latest",
     "mistral-small-latest",
 ]
@@ -288,7 +288,7 @@ def process_lesson_chunked(file_path: pathlib.Path) -> int:
         f"📊 Total utterances: {status.total_utterances} in {status.total_batches} batches"
     )
 
-    # Use alive_bar with wave style
+    # Use alive_bar with optimized settings for smooth performance
     with alive_bar(
         status.total_batches,
         title="🚀 Extracting utterances",
@@ -296,6 +296,7 @@ def process_lesson_chunked(file_path: pathlib.Path) -> int:
         dual_line=True,
         length=40,
         force_tty=True,
+        refresh_secs=0.05,  # Faster refresh for smoother animation
     ) as bar:
         with DatabaseWriter() as db:
             # Clear existing data for this lesson once at the start
@@ -313,7 +314,9 @@ def process_lesson_chunked(file_path: pathlib.Path) -> int:
 
                 for attempt, model_to_try in enumerate(MODEL_CASCADE):
                     status.current_model = model_to_try
-                    bar.text = f"📦 Batch {batch.batch_id}/{status.total_batches} | ✅ {status.processed_utterances} | ❌ {status.failed_utterances} | 🎯 {model_to_try}"
+                    # Only update text once per batch, not per model attempt
+                    if attempt == 0:
+                        bar.text = f"📦 Batch {batch.batch_id}/{status.total_batches} | ✅ {status.processed_utterances} | ❌ {status.failed_utterances}"
 
                     # Process batch
                     batch_utterances = process_batch_with_llm(
@@ -347,17 +350,12 @@ def process_lesson_chunked(file_path: pathlib.Path) -> int:
                         batch_utterances[-1].text if batch_utterances else ""
                     )
 
-                    # Show last utterance in bar text
-                    last_text = (
-                        status.last_utterance[:40] + "..."
-                        if len(status.last_utterance) > 40
-                        else status.last_utterance
-                    )
-                    bar.text = f'📝 "{last_text}" | ✅ {status.processed_utterances}/{status.total_utterances}'
+                    # Simplified success text (less frequent updates)
+                    bar.text = f'✅ {status.processed_utterances}/{status.total_utterances} utterances'
                 else:
                     status.failed_batches += 1
                     status.failed_utterances += len(batch.utterances)
-                    bar.text = f"❌ Failed batch {batch.batch_id} | ✅ {status.processed_utterances} | ❌ {status.failed_utterances}"
+                    bar.text = f"❌ Failed: {status.failed_utterances} | ✅ Success: {status.processed_utterances}"
 
                 # Update progress bar
                 bar()
