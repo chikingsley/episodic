@@ -1,0 +1,90 @@
+phrase,teaching_cue,context,speaker_response
+Comment allez-vous?,"Now, ask me how I am.",question,Male Speaker
+Est-ce que vous comprenez le français?,Ask me if I understand French.,question,Male Speaker
+Où est la rue Saint-Jacques?,Ask me where Saint-Jacques Street is.,question,Female Speaker
+Est-ce que vous savez où est la rue Saint-Jacques?,Do you know where Saint-Jacques Street is?,question,Female Speaker
+Savez-vous où est la rue Saint-Jacques?,Do you know where Saint-Jacques Street is?,question,Female Speaker
+Pardon?,Excuse me.,vocabulary_introduction,Female Speaker
+Dites-moi.,"Say, ""Tell me.""",vocabulary_introduction,Female Speaker
+Où est le restaurant Chez Jacques?,"""Where is the restaurant Chez Jacques?""",question,Female Speaker
+Je voudrais déjeuner maintenant.,Tell me that you'd like to eat lunch now.,vocabulary_introduction,Male Speaker
+Est-ce que vous voudriez aussi déjeuner?,Ask me if I would like to eat lunch too.,question,Male Speaker
+"Non, pas moi.","Say, ""No, not me.""",negation,Female Speaker
+Je voudrais acheter quelque chose.,"Say, ""I'd like to buy something.""",vocabulary_introduction,Female Speaker
+Quand?,"Ask her, ""When?""",question,Male Speaker
+Qu'est-ce que vous voudriez acheter?,Ask her what she would like to buy.,question,Male Speaker
+Avec qui?,"Ask her, ""With whom?""",question,Male Speaker
+Je voudrais acheter du vin.,"How does she say, ""I would like to buy some wine""?",vocabulary_introduction,Female Speaker
+Ou de la bière.,"Say, ""Or some beer.""",vocabulary_introduction,Female Speaker
+Je voudrais boire quelque chose avec vous.,"Say, ""I'd like to drink something with you.""",vocabulary_introduction,Female Speaker
+Mais pas ici.,"Say, ""But not here.""",negation,Male Speaker
+"Et pas là-bas, à l'hôtel.","Say, ""And not down there, at the hotel.""",negation,Female Speaker
+"Non, pas à l'hôtel.","Say, ""No, not at the hotel.""",negation,Male Speaker
+Qu'est-ce que vous voulez faire?,Ask her what she wants to do.,question,Male Speaker
+Je voudrais boire quelque chose chez vous.,"How does she say, ""I'd like to drink something at your place""?",vocabulary_introduction,Female Speaker
+D'accord?,"Ask, ""Okay?""",question,Female Speaker
+"D'accord, mais je voudrais aussi déjeuner.","Say, ""Okay, but I'd like to have lunch too.""",vocabulary_introduction,Male Speaker
+À quelle heure?,"Here's how to ask, ""At what time."" Listen and repeat.",question,Female Speaker
+"À quelle heure, Monsieur?","Ask me, ""At what time?""",question,Female Speaker
+Une heure.,"The answer is ""one o'clock."" Listen and repeat.",vocabulary_introduction,Male Speaker
+À une heure.,"And now try to say, ""At one o'clock.""",vocabulary_introduction,Male Speaker
+Neuf heures.,"Listen for this change as you learn to say, ""Nine o'clock."" Listen and repeat.",vocabulary_introduction,Male Speaker
+À neuf heures.,"Say, ""At nine o'clock.""",vocabulary_introduction,Male Speaker
+Huit.,"Now, listen and repeat the number eight.",vocabulary_introduction,Male Speaker
+Huit heures.,"Say, ""Eight o'clock.""",vocabulary_introduction,Male Speaker
+À huit heures?,"Ask, ""At eight o'clock?""",question,Male Speaker
+"Non, à neuf heures.","Say, ""No, at nine o'clock.""",negation,Male Speaker
+Deux.,Do you remember how to say the number two?,vocabulary_introduction,Male Speaker
+Deux heures.,"So try to say, ""Two o'clock.""",vocabulary_introduction,Male Speaker
+À deux heures.,"Say, ""At two o'clock.""",vocabulary_introduction,Male Speaker
+À une heure ou à deux heures?,"Ask, ""At one o'clock or at two o'clock?""",question,Female Speaker
+"D'accord, mais je voudrais déjeuner chez vous.","Say, ""Okay, but I'd like to have lunch at your place.""",vocabulary_introduction,Male Speaker
+À huit heures.,"Say, ""At eight o'clock.""",vocabulary_introduction,Female Speaker
+Je ne sais pas à quelle heure.,"Say, ""I don't know at what time.""",vocabulary_introduction,Female Speaker
+"À deux heures, d'accord?","Say, ""At two o'clock, okay?""",question,Male Speaker
+D'accord. Chez moi.,"Say, ""Okay, at my place.""",vocabulary_introduction,Female Speaker
+"Où est l'Hôtel Saint-Jacques, s'il vous plaît?","Do you remember how to ask, ""Where's the Hotel Saint-Jacques?""",question,Male Speaker
+"C'est là-bas, rue Saint-Jacques.","Answer, ""It's down there, on the ""rue Saint-Jacques.""""",vocabulary_introduction,Female Speaker
+Est-ce que vous voudriez boire quelque chose avec moi?,How would you ask her if she would like to drink something with you?,question,Male Speaker
+"Est-ce que vous voudriez boire quelque chose avec moi, Mademoiselle?",How would you ask her if she would like to drink something with you?,question,Male Speaker
+Pas Mademoiselle. Madame.,"How does she correct you saying, ""Not ""Mademoiselle. Madame.""""",vocabulary_introduction,Female Speaker
+"Pardon, Madame.","Say, ""Sorry, ma'am.""",vocabulary_introduction,Male Speaker
+Mais est-ce que vous voudriez boire quelque chose avec moi?,"Say, ""But would you like to drink something with me?""",question,Male Speaker
+"Non, merci, Monsieur.","How does she say, ""No, thank you, sir""?",vocabulary_introduction,Female Speaker
+Pas maintenant.,"Say, ""Not now.""",negation,Male Speaker
+Et pas plus tard.,"How does she say, ""And not later""?",negation,Female Speaker
+"Mais à une heure, d'accord?","Ask, ""But at one o'clock, okay?""",question,Male Speaker
+Pas d'accord.,"She says, ""Not okay.""",negation,Female Speaker
+À deux heures?,"Ask, ""At two o'clock?""",question,Male Speaker
+"Non merci, je ne veux pas.","She says, ""No, thank you. I do not want to.""",negation,Female Speaker
+"Plus tard, à huit heures.","Say, ""Later at eight o'clock"".",vocabulary_introduction,Male Speaker
+"Non, Monsieur.","She says, ""No sir"".",vocabulary_introduction,Female Speaker
+Ou à neuf heures.,"Say, ""Or at nine o'clock"".",vocabulary_introduction,Male Speaker
+Absolument pas.,"She answers, ""Certainly not"". Listen and repeat.",negation,Female Speaker
+"Non, Monsieur, je ne veux pas boire quelque chose avec vous.","How does she answer, ""No sir, I do not want to drink something with you""?",negation,Female Speaker
+Je comprends maintenant.,"Say, ""Ah, I understand now.""",vocabulary_introduction,Male Speaker
+Oui. Vous ne voulez pas boire quelque chose avec moi.,"Say, ""Yes, you don't want to drink something with me.""",vocabulary_introduction,Male Speaker
+Mais vous voudriez manger quelque chose avec moi.,"""But you would like to eat something with me.""",vocabulary_introduction,Male Speaker
+Au restaurant.,"Add, ""In a restaurant.""",vocabulary_introduction,Male Speaker
+À huit heures ou à neuf heures?,"Ask, ""At eight o'clock or at nine o'clock?""",question,Male Speaker
+Pas à une heure et pas à deux heures.,"She says, ""Not at one o'clock and not at two o'clock.""",negation,Female Speaker
+Pas à huit heures et pas à neuf heures.,"She adds for good measure, ""Not at eight o'clock and not at nine o'clock.""",negation,Female Speaker
+"Vous ne comprenez pas, Monsieur.","She says, ""You don't understand, sir.""",vocabulary_introduction,Female Speaker
+Qu'est-ce que je ne comprends pas?,"Ask her, ""What don't I understand?""",question,Male Speaker
+"Vous ne comprenez pas le français, Monsieur.","She answers, ""You don't understand French, sir.""",vocabulary_introduction,Female Speaker
+Comment allez-vous?,Look at number one. Read it aloud.,reading_practice,Male Speaker
+"Bonjour, Monsieur.",Read number two.,reading_practice,Male Speaker
+Vous savez.,Three.,reading_practice,Male Speaker
+Vous avez.,Four.,reading_practice,Male Speaker
+"Vous savez, vous avez.",Read three and four together.,reading_practice,Male Speaker
+Vous n'avez pas de vin.,Five.,reading_practice,Male Speaker
+Vous ne comprenez pas.,Six.,reading_practice,Male Speaker
+Est-ce que vous comprenez?,Seven.,reading_practice,Male Speaker
+"Ici, on parle français.",Eight.,reading_practice,Male Speaker
+Saint-Michel.,Nine.,reading_practice,Male Speaker
+Où est le boulevard?,Ten.,reading_practice,Male Speaker
+Est-ce que le boulevard est ici?,Eleven.,reading_practice,Male Speaker
+Où est Jacques?,Twelve.,reading_practice,Male Speaker
+Jacques n'est pas ici.,Thirteen.,reading_practice,Male Speaker
+Il est là-bas.,Fourteen.,reading_practice,Male Speaker
+"Non, il n'est pas là-bas.",Fifteen.,reading_practice,Male Speaker

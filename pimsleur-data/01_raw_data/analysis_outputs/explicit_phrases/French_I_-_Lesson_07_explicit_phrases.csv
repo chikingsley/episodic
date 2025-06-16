@@ -1,0 +1,96 @@
+phrase,teaching_cue,context,speaker_response
+Où est-ce que vous voudriez manger?,"Ask, ""Where would you like to eat?""",question,Female Speaker
+Chez moi.,"Do you remember how to say, ""At my place""?",vocabulary_introduction,Male Speaker
+Pas chez vous.,"And how do you say, ""Not at your place""?",negation,Male Speaker
+Je voudrais manger.,Tell me that you would like to eat.,vocabulary_introduction,Male Speaker
+Moi aussi.,"Say, ""Me too.""",vocabulary_introduction,Female Speaker
+Quand?,"Ask, ""When?""",question,Female Speaker
+Quand est-ce que vous voudriez manger?,"Ask, ""When would you like to eat?""",question,Female Speaker
+Maintenant.,"Say, ""Now.""",vocabulary_introduction,Male Speaker
+Je voudrais manger maintenant.,"""I would like to eat now.""",vocabulary_introduction,Male Speaker
+Est-ce que vous voudriez boire quelque chose?,Ask me if I would like to drink something.,question,Male Speaker
+"Oui, je veux bien.","How do you say, ""Yes, I want to""?",vocabulary_introduction,Female Speaker
+"Non, merci.","Say, ""No, thank you.""",vocabulary_introduction,Female Speaker
+Mais je voudrais manger quelque chose.,"Say, ""But I would like to eat something.""",vocabulary_introduction,Female Speaker
+Moi aussi.,"Say, ""Me too.""",vocabulary_introduction,Male Speaker
+Plus tard.,"Say, ""Later.""",vocabulary_introduction,Male Speaker
+Pas ici.,"Try to answer, ""Not here.""",negation,Female Speaker
+Où?,"Ask, ""Where?""",question,Female Speaker
+Là-bas?,"Ask, ""Down there?""",question,Female Speaker
+"Non, pas là-bas.","Answer, ""No, not down there.""",negation,Male Speaker
+"Chez vous, s'il vous plaît.","Say, ""At your place, please.""",vocabulary_introduction,Male Speaker
+D'accord.,"Now listen and repeat ""All right"" or ""okay"" or ""agreed"".",vocabulary_introduction,Female Speaker
+Pas d'accord.,"Say, ""Not okay.""",negation,Male Speaker
+Je voudrais manger ici.,"Say, ""I would like to eat here.""",vocabulary_introduction,Male Speaker
+Au restaurant.,"His answer is ""at the restaurant"". Listen and repeat.",vocabulary_introduction,Male Speaker
+D'accord?,"Say, ""Agreed?""",question,Male Speaker
+"Oui, très bien.","Say, ""Yes, very good.""",vocabulary_introduction,Female Speaker
+Qu'est-ce que vous voudriez manger?,"Now keeping these last two sentences in mind, listen and repeat the question, ""What would you like to eat?""",question,Male Speaker
+Je ne sais pas.,"Answer, ""I don't know.""",vocabulary_introduction,Female Speaker
+Au restaurant?,"Ask, ""At the restaurant?""",question,Female Speaker
+Je voudrais boire quelque chose.,"Say, ""I would like to drink something.""",vocabulary_introduction,Female Speaker
+Qu'est-ce que vous voudriez boire?,"And now ask, ""What would you like to drink?""",question,Male Speaker
+Du vin.,"Here's how to say ""some wine.""",vocabulary_introduction,Male Speaker
+Je voudrais boire du vin.,"And now try to say, ""I would like to drink some wine.""",vocabulary_introduction,Female Speaker
+De la bière.,"""I would like to drink some beer."" Here's how to say ""some beer."" Listen and repeat.",vocabulary_introduction,Female Speaker
+"Say, ""Some beer.""","Say, ""Some beer.""",vocabulary_introduction,Female Speaker
+Du vin.,"Say, ""Some wine.""",vocabulary_introduction,Female Speaker
+Je voudrais du vin.,"Say, ""I would like some wine.""",vocabulary_introduction,Female Speaker
+Je voudrais de la bière.,"Say, ""I would like some beer.""",vocabulary_introduction,Male Speaker
+"Moi, je voudrais du vin.","Say, ""Me, I would like some wine.""",vocabulary_introduction,Female Speaker
+Où est-ce que vous voudriez boire du vin?,"Try to ask, ""Where would you like to drink wine?""",question,Male Speaker
+"Au restaurant, s'il vous plaît.","Say, ""At the restaurant, please.""",vocabulary_introduction,Female Speaker
+Mais plus tard.,"Say, ""But later.""",vocabulary_introduction,Female Speaker
+Pas maintenant.,"Say, ""Not now.""",negation,Female Speaker
+Je voudrais manger quelque chose.,Do you remember how to tell someone that you would like to eat something?,vocabulary_introduction,Male Speaker
+Moi aussi.,"Say, ""Me too.""",vocabulary_introduction,Female Speaker
+Je voudrais manger aussi.,"""I would like to eat too.""",vocabulary_introduction,Female Speaker
+Je voudrais boire quelque chose.,Tell her you would like to drink something.,vocabulary_introduction,Male Speaker
+Est-ce que vous voudriez boire quelque chose?,Ask her if she would like to drink something.,question,Male Speaker
+"Non, merci.","Say, ""No, thank you.""",vocabulary_introduction,Female Speaker
+"Pas maintenant, plus tard.","How does she say, ""Not now, later?""",vocabulary_introduction,Female Speaker
+Mais je voudrais manger quelque chose.,"How would she say, ""But I would like to eat something""?",vocabulary_introduction,Female Speaker
+Est-ce que vous voudriez manger maintenant?,Ask her if she would like to eat now.,question,Male Speaker
+Je veux bien.,"How does she say, ""I really want to"" or ""yes, I'd like to""?",vocabulary_introduction,Female Speaker
+"Oui, je veux bien.","How does she say, ""I really want to"" or ""yes, I'd like to""?",vocabulary_introduction,Female Speaker
+Au restaurant.,"How did she say, ""At the restaurant""?",vocabulary_introduction,Female Speaker
+"D'accord, quand?","Say, ""Okay, when?""",question,Male Speaker
+"Maintenant, s'il vous plaît?","How does she say, ""Now, please?""",vocabulary_introduction,Female Speaker
+"Au restaurant, Chez Pierre.","How do you say, ""At the restaurant Chez Pierre.""",vocabulary_introduction,Female Speaker
+Où est le restaurant?,Ask her where the restaurant is.,question,Male Speaker
+C'est là-bas.,"How did she tell you, ""It's down there""?",vocabulary_introduction,Female Speaker
+Rue Saint-Jacques.,"Listen to how she says, ""On Saint-Jacques Street.""",vocabulary_introduction,Female Speaker
+Très bien. Qu'est-ce que vous voudriez boire?,"Say, ""Very well. What would you like to drink?""",vocabulary_introduction,Male Speaker
+Quelque chose.,"How did she say, ""Something""?",vocabulary_introduction,Female Speaker
+Du vin?,"Ask, ""Some wine?""",question,Male Speaker
+De la bière?,"""Some beer?""",question,Male Speaker
+Est-ce que vous voudriez boire de la bière?,"""Would you like to drink some beer?""",question,Male Speaker
+Non merci. Pas maintenant.,"How did she say, ""No, thank you. Not now""?",vocabulary_introduction,Female Speaker
+Vous ne voudriez pas boire quelque chose?,"Say, ""You wouldn't like to drink something?""",question,Male Speaker
+"Pas maintenant, merci.","How did she say, ""Not now, thanks""?",vocabulary_introduction,Female Speaker
+Je voudrais boire du vin.,"How did she say, ""I would like to drink some wine""?",vocabulary_introduction,Female Speaker
+Mais plus tard.,"How did she say, ""But later""?",vocabulary_introduction,Female Speaker
+"Mais moi, je voudrais boire quelque chose maintenant.","Say, ""But me, I would like to drink something now.""",vocabulary_introduction,Male Speaker
+Est-ce que vous voudriez manger maintenant?,Ask her if she would like to eat now.,question,Male Speaker
+"Oui, je veux bien.","How did she say, ""Yes, I really want to""?",vocabulary_introduction,Female Speaker
+Où est-ce que vous voudriez manger?,Ask her where she would like to eat.,question,Male Speaker
+Au restaurant.,"She answers, ""At the restaurant.""",vocabulary_introduction,Female Speaker
+"D'accord, quand?","Say, ""Okay, when?""",question,Male Speaker
+"Maintenant, s'il vous plaît.","She answers, ""Now, please.""",vocabulary_introduction,Female Speaker
+"Au restaurant, Chez Pierre.","""At the restaurant Chez Pierre.""",vocabulary_introduction,Female Speaker
+Où est le restaurant Chez Pierre?,Ask her where the restaurant Chez Pierre is.,question,Male Speaker
+C'est là-bas.,"She tells you, ""It's down there.""",vocabulary_introduction,Female Speaker
+Rue Saint-Jacques.,"""On Saint-Jacques Street.""",vocabulary_introduction,Female Speaker
+Qu'est-ce que vous voudriez manger?,"When you get to the restaurant, you ask her, ""What would you like to eat?""",question,Male Speaker
+Je ne sais pas.,"She answers, ""I don't know.""",vocabulary_introduction,Female Speaker
+Très bien. Qu'est-ce que vous voudriez boire?,"Say, ""Very well. What would you like to drink?""",vocabulary_introduction,Male Speaker
+Quelque chose.,"She says, ""Something.""",vocabulary_introduction,Female Speaker
+Du vin?,"Ask, ""Some wine?""",question,Male Speaker
+De la bière?,"""Some beer?""",question,Male Speaker
+Est-ce que vous voudriez boire de la bière?,"""Would you like to drink some beer?""",question,Male Speaker
+Non merci. Pas maintenant.,"She answers, ""No, thank you. Not now.""",vocabulary_introduction,Female Speaker
+Vous ne voudriez pas boire quelque chose?,"Say, ""You wouldn't like to drink something?""",question,Male Speaker
+Non merci.,"She says, ""No, thanks.""",vocabulary_introduction,Female Speaker
+"Pas maintenant, merci.","She says, ""Not now, thanks.""",vocabulary_introduction,Female Speaker
+Je voudrais boire du vin.,"She says, ""I would like to drink some wine.""",vocabulary_introduction,Female Speaker
+Mais plus tard.,"She says, ""But later.""",vocabulary_introduction,Female Speaker

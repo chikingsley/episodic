@@ -1,0 +1,109 @@
+phrase,teaching_cue,context,speaker_response
+Je suis américain.,Dites-moi que vous êtes américain.,vocabulary_introduction,Male Speaker
+Je suis américaine.,Dites-moi que vous êtes américain.,vocabulary_introduction,Female Speaker
+Je vais en France.,Dites-moi que vous allez en France.,vocabulary_introduction,Female Speaker
+J'ai une voiture.,Dites-moi que vous avez une voiture.,vocabulary_introduction,Male Speaker
+Je vais en France avec ma famille.,Dites-moi que vous allez en France avec votre famille.,vocabulary_introduction,Male Speaker
+Est-ce que l'essence est chère en France?,Demandez-moi si l'essence est chère en France.,question,Male Speaker
+"Oui, l'essence est chère en France.","Oui, l'essence est chère en France.",response,Female Speaker
+C'est combien?,Demandez combien?,question,Male Speaker
+Six francs le litre.,Le litre.,vocabulary_introduction,Female Speaker
+Vous voulez combien de litres?,Demandez-moi combien de litres je veux.,question,Female Speaker
+Combien de litres voulez-vous?,Demandez-moi combien de litres je veux.,question,Female Speaker
+Mettez quarante litres.,"Dites, ""Put in forty liters"".",vocabulary_introduction,Male Speaker
+Attendez!,"Dites, ""Wait!""",vocabulary_introduction,Female Speaker
+C'est trop.,"""That's too much.""",vocabulary_introduction,Male Speaker
+Est-ce que Paris est loin?,"""Is Paris far?""",question,Male Speaker
+Pas très loin.,"""Not very far.""",response,Female Speaker
+Soixante-cinq kilomètres.,"""Sixty-five kilometers.""",vocabulary_introduction,Female Speaker
+Quelle est la route pour aller à Paris?,"""Which is the route to go to Paris?""",question,Male Speaker
+Pour aller à Paris.,"""Which is the route to go to Paris?""",vocabulary_introduction,Male Speaker
+Quelle est la route?,"""Which is the route to go to Paris?""",question,Male Speaker
+Tout droit.,"""Straight ahead.""",vocabulary_introduction,Female Speaker
+C'est tout droit.,"""Straight ahead.""",vocabulary_introduction,Female Speaker
+Loin.,"Comment dit-on ""Far away"" en français?",vocabulary_introduction,Female Speaker
+Tout droit.,"Comment dit-on ""Straight ahead.""",vocabulary_introduction,Female Speaker
+Il y a soixante-dix kilomètres.,"Dites, ""There are seventy kilometers.""",vocabulary_introduction,Female Speaker
+Soixante-dix.,"Dites, ""There are seventy kilometers.""",vocabulary_introduction,Female Speaker
+"Non, soixante-quinze.","""No, seventy-five.""",response,Female Speaker
+Soixante-quinze.,"""No, seventy-five.""",vocabulary_introduction,Female Speaker
+Mettez de l'essence.,"Comment dit-on ""Put in some gas.""",vocabulary_introduction,Male Speaker
+"Merci, c'est assez.","""Thank you, that's enough.""",vocabulary_introduction,Male Speaker
+"Merci, ça suffit.","""Thank you, that's enough.""",vocabulary_introduction,Male Speaker
+Je vous dois combien?,"""How much do I owe you?""",question,Male Speaker
+La route de Paris.,"Comment dit-on ""The Paris route.""",vocabulary_introduction,Female Speaker
+Prenez la route de Paris.,"""Take the Paris route.""",vocabulary_introduction,Female Speaker
+Prenez.,"""Take the Paris route.""",pronunciation_practice,Female Speaker
+Vous prenez.,"Comment dit-on ""You take.""",vocabulary_introduction,Female Speaker
+Quelle est la route de Paris?,"Demandez ""Which is the Paris route?""",question,Male Speaker
+C'est tout droit.,"Dites, ""It's straight ahead.""",vocabulary_introduction,Female Speaker
+C'est à droite.,"""It's to the right.""",vocabulary_introduction,Female Speaker
+Droite.,"""It's to the right.""",pronunciation_practice,Female Speaker
+À droite.,"""It's to the right.""",pronunciation_practice,Female Speaker
+À droite.,"Dites, ""To the right.""",vocabulary_introduction,Female Speaker
+C'est à droite.,"Dites, ""It's to the right.""",vocabulary_introduction,Female Speaker
+Ce n'est pas tout droit.,"Dites, ""It's not straight ahead.""",negation,Female Speaker
+La bonne route.,"""The correct route"", literally, ""the good route.""",vocabulary_introduction,Female Speaker
+Bonne.,"""The correct route"", literally, ""the good route.""",pronunciation_practice,Female Speaker
+La bonne route est à droite.,"Dites, ""The correct route is to the right.""",vocabulary_introduction,Female Speaker
+Quelle est la bonne route?,"Demandez ""Which is the correct route?""",question,Male Speaker
+À droite?,"Demandez ""To the right?""",question,Male Speaker
+Ou tout droit?,"""Or straight ahead?""",question,Male Speaker
+À gauche ou tout droit?,"""Or straight ahead?""",question,Male Speaker
+Prenez tout droit.,"""Take straight ahead.""",vocabulary_introduction,Female Speaker
+Attendez.,"""Wait a minute.""",vocabulary_introduction,Female Speaker
+La bonne route est à gauche.,"""The correct route is to the left.""",vocabulary_introduction,Female Speaker
+Gauche.,"""The correct route is to the left.""",pronunciation_practice,Female Speaker
+À gauche.,"""The correct route is to the left.""",pronunciation_practice,Female Speaker
+À gauche.,"Dites, ""To the left.""",vocabulary_introduction,Female Speaker
+À droite.,"""To the right.""",vocabulary_introduction,Female Speaker
+Est-ce que la bonne route est à gauche?,Demandez si la bonne route est à gauche.,question,Male Speaker
+"Non, c'est tout droit.","Répondez ""No, it's straight ahead.""",response,Female Speaker
+Pas à gauche.,"Dites, ""Not to the left.""",negation,Female Speaker
+Prenez la route à gauche.,"Comment dites-vous ""Take the route to the left.""",vocabulary_introduction,Female Speaker
+C'est la bonne route.,"""It's the correct route.""",vocabulary_introduction,Female Speaker
+Bon.,Répétez.,pronunciation_practice,Male Speaker
+Bonjour.,Répétez.,pronunciation_practice,Male Speaker
+Un bon vin.,Répétez.,pronunciation_practice,Male Speaker
+Une bonne bière.,Répétez.,pronunciation_practice,Male Speaker
+Bon. Bonne.,Répétez.,pronunciation_practice,Male Speaker
+Prenez la route à droite.,"Dites, ""Take the route to the right.""",vocabulary_introduction,Female Speaker
+Prenez à gauche.,"""Take to the left.""",vocabulary_introduction,Female Speaker
+Et puis tout droit.,"""And then straight ahead.""",vocabulary_introduction,Female Speaker
+Puis.,"""And then straight ahead.""",pronunciation_practice,Female Speaker
+Et puis.,"Demandez ""And then.""",vocabulary_introduction,Female Speaker
+Et puis tout droit.,"Répondez ""And then straight ahead.""",vocabulary_introduction,Female Speaker
+C'est la route de Paris.,"""That's the Paris route.""",vocabulary_introduction,Female Speaker
+Il y a soixante-dix kilomètres.,"""There are seventy kilometres.""",vocabulary_introduction,Female Speaker
+Mais prenez la bonne route.,"""But take the correct route.""",vocabulary_introduction,Female Speaker
+Prenez la route à droite.,"""Take the route to the right.""",vocabulary_introduction,Female Speaker
+Et puis.,"""And then.""",vocabulary_introduction,Male Speaker
+Puis à gauche.,"""Then to the left.""",vocabulary_introduction,Male Speaker
+Prenez à gauche.,"""Then to the left.""",vocabulary_introduction,Male Speaker
+Attendez.,"Comment dit-on ""Wait a minute.""",vocabulary_introduction,Male Speaker
+Je ne comprends pas.,"""I don't understand.""",vocabulary_introduction,Male Speaker
+Vous parlez trop vite.,"""You speak too fast.""",vocabulary_introduction,Male Speaker
+"Répétez, s'il vous plaît.","""Repeat, please.""",vocabulary_introduction,Male Speaker
+Et ne parlez pas trop vite.,"""And don't speak too fast.""",vocabulary_introduction,Male Speaker
+"Maintenant, quelle est la route de Paris?","""Now, which is the Paris route?""",question,Male Speaker
+Il y a une route là-bas.,"""There is a route over there.""",vocabulary_introduction,Female Speaker
+À gauche.,"""To the left.""",vocabulary_introduction,Female Speaker
+Mais ce n'est pas la bonne.,"""But it's not the good one.""",negation,Female Speaker
+Ce n'est pas la bonne.,"""But it's not the good one.""",negation,Female Speaker
+La bonne route est ici.,"""The good route is here.""",vocabulary_introduction,Female Speaker
+Prenez à droite.,"""Take to the right.""",vocabulary_introduction,Female Speaker
+Quinze kilomètres plus loin.,"""Fifteen kilometres farther.""",vocabulary_introduction,Female Speaker
+Prenez à gauche.,"""Take to the left.""",vocabulary_introduction,Female Speaker
+Paris n'est pas loin.,"""Paris isn't far.""",vocabulary_introduction,Female Speaker
+Il y a combien de kilomètres?,"""How many kilometres are there?""",question,Male Speaker
+Il y a soixante-quinze kilomètres.,"""There are seventy-five kilometres.""",vocabulary_introduction,Female Speaker
+Si vous prenez la bonne route...,"""If you take the good route...""",vocabulary_introduction,Female Speaker
+Je comprends maintenant.,"""I understand now.""",vocabulary_introduction,Male Speaker
+Mais dites-moi.,"""But tell me.""",vocabulary_introduction,Male Speaker
+Quelle est la route de Paris?,"""Which is the Paris route?""",question,Male Speaker
+À gauche ou à droite?,"""To the left or to the right?""",question,Male Speaker
+Ou tout droit?,"""Or straight ahead?""",question,Male Speaker
+Je ne sais pas.,"Répondez, ""I don't know.""",response,Female Speaker
+"Vraiment, je ne sais pas.","""Really, I don't know.""",vocabulary_introduction,Female Speaker
+Et maintenant?,"""And now?""",question,Female Speaker
+"Au revoir, Monsieur.","""Goodbye, sir.""",vocabulary_introduction,Female Speaker

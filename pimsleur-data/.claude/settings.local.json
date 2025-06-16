@@ -5,7 +5,24 @@
       "Bash(grep:*)",
       "Bash(rg:*)",
       "Bash(python:*)",
-      "Bash(sed:*)"
+      "Bash(sed:*)",
+      "Bash(chmod:*)",
+      "Bash(./reorganize_files.sh)",
+      "Bash(bash:*)",
+      "Bash(mv:*)",
+      "Bash(rmdir:*)",
+      "Bash(ls:*)",
+      "Bash(poetry install:*)",
+      "Bash(timeout 60 poetry run python 02_scripts/extraction/analyze_lessons_utterances.py)",
+      "Bash(gtimeout 30 poetry run python 02_scripts/extraction/analyze_lessons_utterances.py)",
+      "Bash(poetry add:*)",
+      "Bash(mkdir:*)",
+      "Bash(__NEW_LINE__ echo -e \"\\n📁 Active Production Scripts:\")",
+      "Bash(__NEW_LINE__ echo -e \"\\n📁 Database Utilities:\")",
+      "Bash(__NEW_LINE__ echo -e \"\\n📁 Extraction (Database-First):\")",
+      "Bash(__NEW_LINE__ echo -e \"\\n📁 Analysis (Database-First):\")",
+      "Bash(__NEW_LINE__ echo -e \"\\n📁 Archive (Preserved for Reference):\")",
+      "Bash(__NEW_LINE__ echo -e \"\\n✅ Project Structure Cleaned Up!\")"
     ],
     "deny": []
   }

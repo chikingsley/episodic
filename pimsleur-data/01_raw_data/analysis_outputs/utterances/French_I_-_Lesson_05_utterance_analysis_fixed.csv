@@ -1,0 +1,235 @@
+lesson_number,position_in_lesson,utterance_text,speaker,utterance_type,narrator_cue,core_lemmas
+5,1,Mademoiselle.,Male Speaker,ConversationalExchange,,mademoiselle
+5,2,Mademoiselle.,Male Speaker,ConversationalExchange,,mademoiselle
+5,3,"Oui, Monsieur.",Female Speaker,SimpleResponse,,oui monsieur
+5,4,"Où est la rue Saint-Jacques, s'il vous plaît?",Male Speaker,ConversationalExchange,,où être la rue saint-jacques s'il vous plaître
+5,5,C'est là-bas.,Female Speaker,ConversationalExchange,,ce être là-bas
+5,6,Et le boulevard Saint-Michel?,Male Speaker,ConversationalExchange,,et le boulevard saint-michel
+5,7,"C'est ici, Monsieur.",Female Speaker,ConversationalExchange,,ce être ici monsieur
+5,8,"Mademoiselle, comment allez-vous?",Male Speaker,ConversationalExchange,,mademoiselle comment aller vous
+5,9,"Moi? Très bien, merci. Au revoir, Monsieur.",Female Speaker,ConversationalExchange,,moi très bien merci au revoir monsieur
+5,10,Au revoir.,Male Speaker,SimpleResponse,,au revoir
+5,11,Mademoiselle?,Male Speaker,ConversationalExchange,,mademoiselle
+5,12,Mademoiselle?,Male Speaker,ConversationalExchange,,mademoiselle
+5,13,"Oui, Monsieur?",Female Speaker,SimpleResponse,,oui monsieur
+5,14,"Où est la rue Saint-Jacques, s'il vous plaît?",Male Speaker,ConversationalExchange,,où être la rue saint-jacques s'il vous plaître
+5,15,C'est là-bas.,Female Speaker,ConversationalExchange,,ce être là-bas
+5,16,Et le boulevard Saint-Michel?,Male Speaker,ConversationalExchange,,et le boulevard saint-michel
+5,17,"C'est ici, Monsieur.",Female Speaker,ConversationalExchange,,ce être ici monsieur
+5,18,"Mademoiselle, comment allez-vous?",Male Speaker,ConversationalExchange,,mademoiselle comment aller vous
+5,19,"Moi? Très bien, merci. Au revoir, Monsieur.",Female Speaker,ConversationalExchange,,moi très bien merci au revoir monsieur
+5,20,Au revoir.,Male Speaker,SimpleResponse,,au revoir
+5,21,Bonjour.,Male Speaker,PromptedRecall,"Do you remember how to say ""hello"" in French?",bonjour
+5,22,Bonjour.,Male Speaker,DirectRepetition,,bonjour
+5,23,Est-ce que vous comprenez l'anglais?,Male Speaker,PromptedRecall,"Ask, ""Do you understand English?""",est-ce que vous comprendre l'anglais
+5,24,Je comprends un peu.,Female Speaker,PromptedRecall,"Answer, ""I understand a little.""",je comprendre un peu
+5,25,Je comprends un peu.,Female Speaker,DirectRepetition,,je comprendre un peu
+5,26,Et je parle un peu.,Female Speaker,PromptedRecall,"""And I speak a little.""",et je parler un peu
+5,27,Et je parle un peu.,Female Speaker,DirectRepetition,,et je parler un peu
+5,28,Et vous?,Female Speaker,PromptedRecall,"""And you?""",et vous
+5,29,Est-ce que vous comprenez le français?,Female Speaker,PromptedRecall,"""Do you understand French?""",est-ce que vous comprendre le français
+5,30,"Oui, je comprends bien le français.",Male Speaker,PromptedRecall,"Say, ""Yes, I understand French well.""",oui je comprendre bien le français
+5,31,Je comprends bien.,Male Speaker,DirectRepetition,,je comprendre bien
+5,32,Je comprends bien le français.,Male Speaker,DirectRepetition,,je comprendre bien le français
+5,33,Mais.,Male Speaker,PromptedRecall,"""But.""",mais
+5,34,Je ne parle pas bien.,Male Speaker,PromptedRecall,"""I don't speak well.""",je ne parler pas bien
+5,35,Je ne parle pas bien.,Male Speaker,DirectRepetition,,je ne parler pas bien
+5,36,Comment allez-vous?,Male Speaker,PromptedRecall,How do you ask someone how she's feeling?,comment aller vous
+5,37,Comment allez-vous?,Male Speaker,DirectRepetition,,comment aller vous
+5,38,Moi? Très bien.,Female Speaker,DirectRepetition,Listen to the answer and repeat after the speaker.,moi très bien
+5,39,Moi? Très bien.,Female Speaker,DirectRepetition,,moi très bien
+5,40,Et vous?,Female Speaker,PromptedRecall,"Ask, ""And you?""",et vous
+5,41,Moi? Pas très bien.,Male Speaker,PromptedRecall,"Now you say, ""Me? Not very well.""",moi pas très bien
+5,42,Moi? Pas très bien.,Male Speaker,DirectRepetition,,moi pas très bien
+5,43,La rue Saint-Jacques.,Male Speaker,PromptedRecall,Do you remember how to say Saint-Jacques Street in French?,la rue saint-jacques
+5,44,La rue Saint-Jacques.,Male Speaker,DirectRepetition,,la rue saint-jacques
+5,45,Le boulevard Saint-Michel.,Male Speaker,PromptedRecall,"And now say, ""Saint-Michel Boulevard.""",le boulevard saint-michel
+5,46,Boulevard.,Male Speaker,DirectRepetition,,boulevard
+5,47,Le boulevard Saint-Michel.,Male Speaker,DirectRepetition,,le boulevard saint-michel
+5,48,Où est le boulevard Saint-Michel?,Male Speaker,PromptedRecall,Ask me where the boulevard Saint-Michel is.,où être le boulevard saint-michel
+5,49,Où est le boulevard Saint-Michel?,Male Speaker,DirectRepetition,,où être le boulevard saint-michel
+5,50,Le boulevard Saint-Michel est ici.,Female Speaker,PromptedRecall,"Say, ""Saint Michael Boulevard is here.""",le boulevard saint-michel être ici
+5,51,Le boulevard Saint-Michel est ici.,Female Speaker,DirectRepetition,,le boulevard saint-michel être ici
+5,52,S'il vous plaît.,Male Speaker,PromptedRecall,"Say, ""Please.""",s'il vous plaît
+5,53,S'il vous plaît.,Male Speaker,DirectRepetition,,s'il vous plaît
+5,54,"Où est la rue Saint-Jacques, s'il vous plaît?",Male Speaker,PromptedRecall,Ask me where Saint-Jacques Street is.,où être la rue saint-jacques s'il vous plaître
+5,55,"Où est la rue Saint-Jacques, s'il vous plaît?",Male Speaker,DirectRepetition,,où être la rue saint-jacques s'il vous plaître
+5,56,C'est ici.,Female Speaker,PromptedRecall,"Say, ""It's here.""",ce être ici
+5,57,C'est ici.,Female Speaker,DirectRepetition,,ce être ici
+5,58,La rue Saint-Jacques est ici.,Female Speaker,PromptedRecall,And now say Saint-Jacques Street is here.,la rue saint-jacques être ici
+5,59,La rue Saint-Jacques est ici.,Female Speaker,DirectRepetition,,la rue saint-jacques être ici
+5,60,Est-ce que c'est ici?,Male Speaker,PromptedRecall,Ask me if it's here.,est-ce que ce être ici
+5,61,Est-ce que c'est ici?,Male Speaker,DirectRepetition,,est-ce que ce être ici
+5,62,"Non, c'est là-bas.",Female Speaker,PromptedRecall,"Answer, ""No, it's down there.""",non ce être là-bas
+5,63,"Non, c'est là-bas.",Female Speaker,DirectRepetition,,non ce être là-bas
+5,64,Ce n'est pas là-bas.,Male Speaker,PromptedRecall,"Say, ""It's not down there.""",ce ne être pas là-bas
+5,65,Ce n'est pas là-bas.,Male Speaker,DirectRepetition,,ce ne être pas là-bas
+5,66,Ce n'est pas ici.,Female Speaker,PromptedRecall,"Now say, ""It's not here.""",ce ne être pas ici
+5,67,Ce n'est pas ici.,Female Speaker,DirectRepetition,,ce ne être pas ici
+5,68,La rue Saint-Jacques n'est pas ici.,Female Speaker,PromptedRecall,"Say, ""Saint-Jacques Street is not here.""",la rue saint-jacques ne être pas ici
+5,69,La rue Saint-Jacques n'est pas ici.,Female Speaker,DirectRepetition,,la rue saint-jacques ne être pas ici
+5,70,Mais le boulevard Saint-Michel est ici.,Female Speaker,PromptedRecall,"Say, ""But the boulevard Saint-Michel is here.""",mais le boulevard saint-michel être ici
+5,71,Mais le boulevard Saint-Michel est ici.,Female Speaker,DirectRepetition,,mais le boulevard saint-michel être ici
+5,72,"Où est la rue Saint-Jacques, s'il vous plaît?",Male Speaker,PromptedRecall,"Ask, ""Where is Saint-Jacques Street, please?""",où être la rue saint-jacques s'il vous plaître
+5,73,"Où est la rue Saint-Jacques, s'il vous plaît?",Male Speaker,DirectRepetition,,où être la rue saint-jacques s'il vous plaître
+5,74,Je ne sais pas.,Female Speaker,DirectRepetition,"Listen to the answer, ""I don't know.""",je ne savoir pas
+5,75,Je ne sais pas.,Female Speaker,PromptedRecall,Repeat after the speaker.,je ne savoir pas
+5,76,C'est pas.,Female Speaker,DirectRepetition,,ce être pas
+5,77,C'est pas.,Female Speaker,DirectRepetition,,ce être pas
+5,78,Je n-.,Female Speaker,DirectRepetition,,je ne
+5,79,Je n-.,Female Speaker,DirectRepetition,,je ne
+5,80,Je ne sais pas.,Female Speaker,DirectRepetition,,je ne savoir pas
+5,81,Je ne sais pas.,Female Speaker,DirectRepetition,,je ne savoir pas
+5,82,Je ne sais pas.,Female Speaker,PromptedRecall,"Say, ""I don't know.""",je ne savoir pas
+5,83,Je sais.,Male Speaker,PromptedRecall,"How would you say, ""I know?""",je savoir
+5,84,Je sais.,Male Speaker,DirectRepetition,,je savoir
+5,85,"Moi, je sais.",Male Speaker,PromptedRecall,"Say, ""Me, I know.""",moi je savoir
+5,86,"Moi, je sais.",Male Speaker,DirectRepetition,,moi je savoir
+5,87,"Où est la rue Lafayette, s'il vous plaît?",Male Speaker,PromptedRecall,Try to ask me where Lafayette Street is.,où être la rue lafayette s'il vous plaître
+5,88,"Où est la rue Lafayette, s'il vous plaît?",Male Speaker,DirectRepetition,,où être la rue lafayette s'il vous plaître
+5,89,Je ne sais pas.,Male Speaker,PromptedRecall,"Answer, ""I don't know.""",je ne savoir pas
+5,90,Je ne sais pas.,Male Speaker,DirectRepetition,,je ne savoir pas
+5,91,"Moi, je sais.",Female Speaker,PromptedRecall,"Say, ""Me? I know.""",moi je savoir
+5,92,"Moi, je sais.",Female Speaker,DirectRepetition,,moi je savoir
+5,93,C'est là-bas.,Male Speaker,PromptedRecall,"Say, ""It's down there.""",ce être là-bas
+5,94,Vous savez.,Male Speaker,DirectRepetition,"Here's ""You know."" Listen and repeat.",vous savoir
+5,95,Vous savez.,Male Speaker,DirectRepetition,,vous savoir
+5,96,Je sais.,Female Speaker,PromptedRecall,"And how do you say, ""I know""?",je savoir
+5,97,Je sais.,Female Speaker,DirectRepetition,,je savoir
+5,98,Est-ce que vous savez?,Male Speaker,PromptedRecall,"Try to ask, ""Do you know?""",est-ce que vous savoir
+5,99,Est-ce que vous savez?,Male Speaker,DirectRepetition,,est-ce que vous savoir
+5,100,Vous savez.,Male Speaker,PromptedRecall,"Say again, ""You know.""",vous savoir
+5,101,Vous savez.,Male Speaker,DirectRepetition,,vous savoir
+5,102,Savez-vous?,Male Speaker,DirectRepetition,"Here's another way of asking, ""Do you know?"" Listen and repeat.",savoir vous
+5,103,Savez-vous?,Male Speaker,DirectRepetition,,savoir vous
+5,104,Savez-vous?,Male Speaker,PromptedRecall,"Now ask, ""Do you know?"" using both ways.",savoir vous
+5,105,Est-ce que vous savez?,Male Speaker,PromptedRecall,,est-ce que vous savoir
+5,106,Savez-vous?,Male Speaker,DirectRepetition,,savoir vous
+5,107,Est-ce que vous savez?,Male Speaker,DirectRepetition,,est-ce que vous savoir
+5,108,"Non, je ne sais pas.",Female Speaker,PromptedRecall,"Answer, ""No, I don't know.""",non je ne savoir pas
+5,109,"Non, je ne sais pas.",Female Speaker,DirectRepetition,,non je ne savoir pas
+5,110,Ce n'est pas là-bas.,Female Speaker,PromptedRecall,"""It's not down there.""",ce ne être pas là-bas
+5,111,Je veux.,Female Speaker,DirectRepetition,Listen and repeat.,je vouloir
+5,112,Veux.,Female Speaker,DirectRepetition,,vouloir
+5,113,Veux.,Female Speaker,DirectRepetition,,vouloir
+5,114,Je veux.,Female Speaker,DirectRepetition,,je vouloir
+5,115,Je veux.,Female Speaker,DirectRepetition,,je vouloir
+5,116,Je veux.,Male Speaker,PromptedRecall,"Say, ""I want.""",je vouloir
+5,117,Vous voulez.,Female Speaker,DirectRepetition,"Here's how to say, ""You want.""",vous vouloir
+5,118,Voulez.,Female Speaker,DirectRepetition,,vouloir
+5,119,Voulez.,Female Speaker,DirectRepetition,,vouloir
+5,120,Vous voulez.,Female Speaker,DirectRepetition,,vous vouloir
+5,121,Vous voulez.,Female Speaker,DirectRepetition,,vous vouloir
+5,122,Vous voulez.,Male Speaker,PromptedRecall,"Say, ""You want.""",vous vouloir
+5,123,Je veux.,Male Speaker,PromptedRecall,"Say, ""I want.""",je vouloir
+5,124,Je sais.,Male Speaker,PromptedRecall,"Say, ""I know.""",je savoir
+5,125,Je ne sais pas.,Male Speaker,PromptedRecall,"Say, ""I don't know.""",je ne savoir pas
+5,126,Je ne veux pas.,Male Speaker,PromptedRecall,"Now try to say, ""I don't want.""",je ne vouloir pas
+5,127,Je ne veux pas.,Male Speaker,DirectRepetition,"Again, say, ""I don't want.""",je ne vouloir pas
+5,128,"Je ne veux pas, moi.",Male Speaker,PromptedRecall,"And now say the same thing with ""moi"" at the end.",je ne vouloir pas moi
+5,129,"Je ne veux pas, moi.",Male Speaker,DirectRepetition,,je ne vouloir pas moi
+5,130,Vous voulez?,Male Speaker,PromptedRecall,"How did you say, ""You want""?",vous vouloir
+5,131,Est-ce que vous voulez?,Male Speaker,PromptedRecall,"How would you ask, ""Do you want?""",est-ce que vous vouloir
+5,132,Est-ce que vous voulez?,Male Speaker,DirectRepetition,,est-ce que vous vouloir
+5,133,Vous voudriez.,Female Speaker,DirectRepetition,"Generally, however, when you ask for something, you are more polite and you say, ""You would like,"" rather than, ""You want."" Listen and repeat.",vous vouloir
+5,134,Voudriez.,Female Speaker,DirectRepetition,,vouloir
+5,135,Voudriez.,Female Speaker,DirectRepetition,,vouloir
+5,136,Vous voudriez.,Female Speaker,DirectRepetition,,vous vouloir
+5,137,Vous voudriez.,Female Speaker,PromptedRecall,"Say, ""You would like.""",vous vouloir
+5,138,Vous voudriez.,Female Speaker,DirectRepetition,,vous vouloir
+5,139,Vous voudriez manger quelque chose.,Female Speaker,DirectRepetition,"Here's how to say, ""You would like to eat something.""",vous vouloir manger quelque chose
+5,140,Manger.,Male Speaker,DirectRepetition,"Listen and repeat the word ""to eat.""",manger
+5,141,Manger.,Male Speaker,DirectRepetition,,manger
+5,142,Manger.,Male Speaker,DirectRepetition,,manger
+5,143,Manger.,Male Speaker,PromptedRecall,"Say, ""to eat.""",manger
+5,144,Quelque chose.,Female Speaker,DirectRepetition,"Listen and repeat how the French say ""something.""",quelque chose
+5,145,Chose.,Female Speaker,DirectRepetition,,chose
+5,146,Chose.,Female Speaker,DirectRepetition,,chose
+5,147,Quelque.,Female Speaker,DirectRepetition,,quelque
+5,148,Quelque.,Female Speaker,DirectRepetition,,quelque
+5,149,Quelque chose.,Female Speaker,DirectRepetition,,quelque chose
+5,150,Quelque chose.,Female Speaker,DirectRepetition,,quelque chose
+5,151,Quelque chose.,Female Speaker,PromptedRecall,"Say ""something"" in French.",quelque chose
+5,152,Vous voudriez manger quelque chose.,Male Speaker,PromptedRecall,"Say, ""You would like to eat something.""",vous vouloir manger quelque chose
+5,153,Vous voudriez manger quelque chose.,Male Speaker,DirectRepetition,,vous vouloir manger quelque chose
+5,154,Est-ce que vous voudriez manger quelque chose?,Male Speaker,PromptedRecall,"Now try to ask, ""Would you like to eat something?""",est-ce que vous vouloir manger quelque chose
+5,155,Est-ce que vous voudriez manger quelque chose?,Male Speaker,DirectRepetition,,est-ce que vous vouloir manger quelque chose
+5,156,Je voudrais.,Female Speaker,DirectRepetition,"Listen and repeat, ""I would like.""",je vouloir
+5,157,Voudrais.,Female Speaker,DirectRepetition,,vouloir
+5,158,Je voudrais.,Female Speaker,DirectRepetition,,je vouloir
+5,159,Je voudrais.,Female Speaker,PromptedRecall,"Say, ""I would like.""",je vouloir
+5,160,"Oui, je voudrais manger.",Female Speaker,PromptedRecall,"Say, ""Yes, I would like to eat.""",oui je vouloir manger
+5,161,"Oui, je voudrais manger quelque chose.",Female Speaker,PromptedRecall,"Now say, ""Yes, I would like to eat something.""",oui je vouloir manger quelque chose
+5,162,"Oui, je voudrais manger quelque chose.",Female Speaker,DirectRepetition,,oui je vouloir manger quelque chose
+5,163,Est-ce que vous voudriez manger quelque chose?,Male Speaker,PromptedRecall,Ask me if I would like to eat something.,est-ce que vous vouloir manger quelque chose
+5,164,Est-ce que vous voudriez manger quelque chose?,Male Speaker,DirectRepetition,,est-ce que vous vouloir manger quelque chose
+5,165,"Moi? Oui, je voudrais manger quelque chose.",Female Speaker,PromptedRecall,"Answer, ""Me? Yes, I would like to eat something.""",moi oui je vouloir manger quelque chose
+5,166,"Moi? Oui, je voudrais manger quelque chose.",Female Speaker,DirectRepetition,,moi oui je vouloir manger quelque chose
+5,167,Je voudrais boire quelque chose.,Female Speaker,DirectRepetition,"Here's how to say, ""I would like to drink something."" Just listen.",je vouloir boire quelque chose
+5,168,Boire.,Male Speaker,DirectRepetition,"Listen and repeat the word, ""to drink.""",boire
+5,169,Boire.,Male Speaker,DirectRepetition,,boire
+5,170,Boire.,Male Speaker,DirectRepetition,,boire
+5,171,Je voudrais boire quelque chose.,Female Speaker,PromptedRecall,"Say, ""I would like to drink something.""",je vouloir boire quelque chose
+5,172,Est-ce que vous voudriez boire quelque chose?,Male Speaker,PromptedRecall,"Now try to ask, ""Would you like to drink something?""",est-ce que vous vouloir boire quelque chose
+5,173,Est-ce que vous voudriez boire quelque chose?,Male Speaker,DirectRepetition,,est-ce que vous vouloir boire quelque chose
+5,174,Je ne sais pas.,Female Speaker,PromptedRecall,"How does she say, ""I don't know.""",je ne savoir pas
+5,175,Je voudrais manger quelque chose.,Female Speaker,PromptedRecall,"Say, ""I would like to eat something.""",je vouloir manger quelque chose
+5,176,Je voudrais manger quelque chose.,Female Speaker,DirectRepetition,,je vouloir manger quelque chose
+5,177,Est-ce que vous voudriez boire quelque chose?,Male Speaker,PromptedRecall,Ask her if she would like to drink something.,est-ce que vous vouloir boire quelque chose
+5,178,Est-ce que vous voudriez boire quelque chose?,Male Speaker,DirectRepetition,,est-ce que vous vouloir boire quelque chose
+5,179,"Non, merci.",Female Speaker,PromptedRecall,"Say, ""No, thank you.""",non merci
+5,180,"Non, merci.",Female Speaker,DirectRepetition,,non merci
+5,181,Mais je voudrais manger quelque chose.,Female Speaker,PromptedRecall,"How does she add, ""But I would like to eat something""?",mais je vouloir manger quelque chose
+5,182,Mais je voudrais manger quelque chose.,Female Speaker,DirectRepetition,,mais je vouloir manger quelque chose
+5,183,Est-ce que vous voudriez boire quelque chose?,Male Speaker,PromptedRecall,Ask her if she would like to drink something.,est-ce que vous vouloir boire quelque chose
+5,184,"Non, merci.",Female Speaker,PromptedRecall,"How does she say, ""No, thank you""?",non merci
+5,185,Mais je voudrais manger quelque chose.,Female Speaker,PromptedRecall,"How does she add, ""But I would like to eat something""?",mais je vouloir manger quelque chose
+5,186,"Ah, très bien.",Male Speaker,PromptedRecall,"Say, ""Ah, very well.""",ah très bien
+5,187,"Ah, très bien.",Male Speaker,DirectRepetition,,ah très bien
+5,188,"Mais moi, je ne veux pas manger.",Male Speaker,DirectRepetition,"He says emphatically, ""But me, I don't want to eat."" Listen and repeat.",mais moi je ne vouloir pas manger
+5,189,"Mais moi, je ne veux pas manger.",Male Speaker,DirectRepetition,,mais moi je ne vouloir pas manger
+5,190,"Au revoir, Monsieur.",Female Speaker,PromptedRecall,How does she take leave of you?,au revoir monsieur
+5,191,Au revoir.,Female Speaker,DirectRepetition,,au revoir
+5,192,Où est la rue Saint-Jacques?,Male Speaker,PromptedRecall,Ask her where Saint-Jacques Street is.,où être la rue saint-jacques
+5,193,Est-ce que c'est ici?,Male Speaker,PromptedRecall,Ask if it's here.,est-ce que ce être ici
+5,194,"Ce n'est pas ici, c'est là-bas.",Female Speaker,PromptedRecall,"How does she tell you, ""It's not here, it's down there""?",ce ne être pas ici ce être là-bas
+5,195,"Ce n'est pas ici, c'est là-bas.",Female Speaker,DirectRepetition,,ce ne être pas ici ce être là-bas
+5,196,"Où est le boulevard Saint-Michel, s'il vous plaît?",Male Speaker,PromptedRecall,Ask her where the boulevard Saint-Michel is.,où être le boulevard saint-michel s'il vous plaître
+5,197,"Où est le boulevard Saint-Michel, s'il vous plaît?",Male Speaker,DirectRepetition,,où être le boulevard saint-michel s'il vous plaître
+5,198,Je ne sais pas.,Female Speaker,PromptedRecall,"How does she say, ""I don't know""?",je ne savoir pas
+5,199,"Je ne sais pas, moi.",Female Speaker,DirectRepetition,,je ne savoir pas moi
+5,200,"Ah oui, je sais.",Female Speaker,PromptedRecall,"How does she say, ""Ah, yes, I know""?",ah oui je savoir
+5,201,"Ah oui, je sais.",Female Speaker,DirectRepetition,,ah oui je savoir
+5,202,Je voudrais manger quelque chose.,Female Speaker,PromptedRecall,How does she tell you she would like to eat something?,je vouloir manger quelque chose
+5,203,Où?,Male Speaker,PromptedRecall,"Ask her, ""Where""?",où
+5,204,Où?,Male Speaker,DirectRepetition,,où
+5,205,Mais je ne sais pas.,Female Speaker,PromptedRecall,"How does she say, ""But I don't know""?",mais je ne savoir pas
+5,206,Est-ce que vous voudriez boire quelque chose?,Male Speaker,PromptedRecall,Ask her if she would like to drink something.,est-ce que vous vouloir boire quelque chose
+5,207,Oh non.,Female Speaker,PromptedRecall,"How does she say, ""Oh, no""?",oh non
+5,208,"Non, merci.",Female Speaker,PromptedRecall,"How do she say, ""No, thank you""?",non merci
+5,209,"Non, merci, Monsieur.",Female Speaker,DirectRepetition,,non merci monsieur
+5,210,Mais je voudrais manger quelque chose.,Female Speaker,PromptedRecall,"How does she add, ""But I would like to eat something""?",mais je vouloir manger quelque chose
+5,211,"Mais je voudrais manger quelque chose, Monsieur.",Female Speaker,DirectRepetition,,mais je vouloir manger quelque chose monsieur
+5,212,Bonjour.,Female Speaker,PromptedRecall,Do you remember how to greet a man in French?,bonjour
+5,213,"Bonjour, Monsieur.",Female Speaker,DirectRepetition,,bonjour monsieur
+5,214,Bonjour.,Male Speaker,PromptedRecall,And how would you greet a woman?,bonjour
+5,215,"Bonjour, Madame.",Male Speaker,DirectRepetition,,bonjour madame
+5,216,"Bonjour, Mademoiselle.",Male Speaker,DirectRepetition,,bonjour mademoiselle
+5,217,Comment allez-vous?,Female Speaker,PromptedRecall,"Ask, ""How are you?""",comment aller vous
+5,218,Comment allez-vous?,Female Speaker,DirectRepetition,,comment aller vous
+5,219,"Très bien, merci.",Male Speaker,PromptedRecall,"Answer, ""Fine, thanks.""",très bien merci
+5,220,Je vais bien.,Male Speaker,PromptedRecall,"""I am well.""",je aller bien
+5,221,Je vais bien.,Male Speaker,DirectRepetition,,je aller bien
+5,222,Et vous?,Male Speaker,PromptedRecall,"""And you?""",et vous
+5,223,Est-ce que vous allez bien?,Male Speaker,PromptedRecall,"""Are you well?""",est-ce que vous aller bien
+5,224,Est-ce que vous allez bien?,Male Speaker,DirectRepetition,,est-ce que vous aller bien
+5,225,Moi?,Female Speaker,PromptedRecall,"Ask, ""Me?""",moi
+5,226,"Non, je ne vais pas très bien.",Female Speaker,PromptedRecall,"""No, I'm not very well.""",non je ne aller pas très bien
+5,227,Je ne vais pas très bien.,Female Speaker,DirectRepetition,,je ne aller pas très bien
+5,228,Pardon.,Male Speaker,PromptedRecall,"Say, ""Pardon me.""",pardon
+5,229,S'il vous plaît.,Male Speaker,PromptedRecall,"Say, ""Please.""",s'il vous plaît
+5,230,La rue Saint-Jacques.,Male Speaker,PromptedRecall,"Say, ""Saint-Jacques Street.""",la rue saint-jacques
+5,231,"Où est la rue Saint-Jacques, s'il vous plaît?",Male Speaker,PromptedRecall,Ask where this street is.,où être la rue saint-jacques s'il vous plaître
+5,232,"Où est la rue Saint-Jacques, s'il vous plaît?",Male Speaker,DirectRepetition,,où être la rue saint-jacques s'il vous plaître
+5,233,Est-ce que c'est ici?,Male Speaker,PromptedRecall,Ask if it's here.,est-ce que ce être ici
+5,234,Est-ce que c'est ici?,Male Speaker,DirectRepetition,,est-ce que ce être ici

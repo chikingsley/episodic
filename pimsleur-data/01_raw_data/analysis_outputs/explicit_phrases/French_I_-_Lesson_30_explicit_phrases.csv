@@ -1,0 +1,105 @@
+phrase,teaching_cue,context,speaker_response
+Mot.,"Comment dit-on ""word"" en français?",vocabulary_introduction,Male Speaker
+Le mot.,"Comment dit-on ""word"" en français?",vocabulary_introduction,Male Speaker
+Ce mot.,"Comment dit-on, ""This word.""",vocabulary_introduction,Male Speaker
+Qu'est-ce que ce mot veut dire?,"Demandez ""What does this word mean?""",question,Male Speaker
+Comment dit-on?,"Demandez ""How does one say?""",question,Male Speaker
+Ce mot?,"""This word?""",question,Male Speaker
+En anglais.,"""In English.""",vocabulary_introduction,Male Speaker
+Comment dit-on ce mot en français?,"Demandez ""How does one say this word in French?""",question,Female Speaker
+Nous sommes américains.,"Dites, ""We are american.""",vocabulary_introduction,Female Speaker
+Nous sommes ici.,"""We are here.""",vocabulary_introduction,Female Speaker
+Depuis combien de temps?,"Demandez ""Since how long?""",question,Male Speaker
+Depuis quelques semaines.,"Répondez ""Since a few weeks.""",vocabulary_introduction,Female Speaker
+Nous allons rester.,"""We are going to stay.""",vocabulary_introduction,Female Speaker
+Quelques jours.,"""A few days.""",vocabulary_introduction,Female Speaker
+J'aime la France.,"Dites, ""I like France.""",vocabulary_introduction,Female Speaker
+Est-ce que vous aimez Paris?,Demandez si elle aime Paris.,question,Male Speaker
+"Oui, j'aime Paris.","""Yes, I like Paris.""",vocabulary_introduction,Female Speaker
+J'aime bien Paris.,"""Yes, I like Paris.""",vocabulary_introduction,Female Speaker
+Vous allez rester...,"""You are going to remain...""",vocabulary_introduction,Male Speaker
+Combien de temps?,"""How long?""",question,Male Speaker
+Qu'est-ce que vous avez acheté?,"""What have you bought?""",question,Male Speaker
+J'ai acheté.,"Répondez ""I have bought.""",vocabulary_introduction,Female Speaker
+Beaucoup de choses.,"""Lots of things.""",vocabulary_introduction,Female Speaker
+Et vous?,"""And you?""",question,Female Speaker
+Je ne veux rien.,"""I want nothing.""",negation,Male Speaker
+"Moi, je ne veux rien.","""I want nothing.""",negation,Male Speaker
+J'achète.,"Essayez de dire ""I am buying.""",vocabulary_introduction,Male Speaker
+Je n'achète rien.,"""I am buying nothing.""",negation,Male Speaker
+Nous n'avons rien acheté.,"Et comment dit-on ""We have bought nothing?""",negation,Male Speaker
+Et nous n'allons rien acheter.,"Essayer de dire ""And we're going to buy nothing.""",negation,Male Speaker
+Nous ne voulons rien acheter.,"""We want to buy nothing.""",negation,Male Speaker
+Est-ce que vous avez acheté quelque chose?,"""Did you buy something?""",question,Male Speaker
+Avez-vous acheté quelque chose?,"""Did you buy something?""",question,Male Speaker
+Nous avons acheté beaucoup de choses.,"Essayez de dire ""We have bought lots of things.""",vocabulary_introduction,Female Speaker
+Nous avons mangé.,"""We have eaten.""",vocabulary_introduction,Female Speaker
+Et nous avons acheté beaucoup de choses.,"""And we have bought lots of things.""",vocabulary_introduction,Female Speaker
+Est-ce que vous avez parlé français?,Here is how to ask if she spoke French.,question,Male Speaker
+Un peu.,"""A little.""",vocabulary_introduction,Female Speaker
+Nous avons parlé français.,"""We spoke French.""",vocabulary_introduction,Female Speaker
+Quand?,"""When?""",question,Female Speaker
+Hier.,"""Yesterday.""",vocabulary_introduction,Female Speaker
+Vous êtes arrivés?,"Here's how to say, ""You arrived.""",vocabulary_introduction,Male Speaker
+Arrivé.,"Here's how to say, ""You arrived.""",vocabulary_introduction,Male Speaker
+Êtes arrivé.,"Here's how to say, ""You arrived.""",vocabulary_introduction,Male Speaker
+Vous êtes arrivés.,"Here's how to say, ""You arrived.""",vocabulary_introduction,Male Speaker
+Est-ce que vous êtes arrivés?,"Ask, ""Did you arrive?""",question,Male Speaker
+Quand est-ce que vous êtes arrivés?,"Now try to ask, ""When did you arrive?""",question,Male Speaker
+Hier matin.,"Here's the answer, ""Yesterday morning.""",vocabulary_introduction,Female Speaker
+Matin.,"How do you say, ""Morning?""",vocabulary_introduction,Female Speaker
+Le matin.,"How do you say, ""Morning?""",vocabulary_introduction,Female Speaker
+Hier matin.,"Say, ""Yesterday morning.""",vocabulary_introduction,Female Speaker
+Ce matin.,"And how do you say, ""This morning""?",vocabulary_introduction,Female Speaker
+Quand est-ce que vous êtes arrivés?,"How did he ask, ""When did you arrive?""",question,Male Speaker
+Vous êtes arrivés.,"How do you say, ""You arrived?""",vocabulary_introduction,Male Speaker
+Quand est-ce que vous êtes arrivés à Paris?,"Ask, ""When did you arrive in Paris?""",question,Male Speaker
+Nous sommes arrivés hier.,"Now try to say, ""We arrived yesterday.""",vocabulary_introduction,Female Speaker
+Nous sommes arrivés hier matin.,"Say, ""We arrived yesterday morning.""",vocabulary_introduction,Female Speaker
+Je suis arrivée.,"Try to say, ""I arrived.""",vocabulary_introduction,Female Speaker
+Avec ma famille.,"""With my family.""",vocabulary_introduction,Female Speaker
+Avec mes trois enfants.,"""With my three children.""",vocabulary_introduction,Female Speaker
+Avec mes deux garçons.,"Comment dit-on ""With my two boys.""",vocabulary_introduction,Female Speaker
+Ma fille.,"""My girl.""",vocabulary_introduction,Female Speaker
+Et mon mari.,"""And my husband.""",vocabulary_introduction,Female Speaker
+Nous sommes arrivés ensemble.,"""We arrive together.""",vocabulary_introduction,Female Speaker
+À quelle heure?,"Demandez ""At what time?""",question,Male Speaker
+Nous sommes arrivés à huit heures.,"Dites, ""We arrived at eight o'clock.""",vocabulary_introduction,Female Speaker
+Je suis arrivé hier matin.,"Dites, ""I arrived yesterday morning.""",vocabulary_introduction,Female Speaker
+Je suis arrivé à neuf heures.,"""I arrived at nine o'clock.""",vocabulary_introduction,Female Speaker
+"Et vous, quand est-ce que vous êtes arrivés à Paris?","Demandez ""and you, when did you arrive in Paris?""",question,Female Speaker
+Hier soir.,"Répondez ""Yesterday evening.""",vocabulary_introduction,Male Speaker
+Je suis arrivé hier soir.,"Répondez ""Yesterday evening.""",vocabulary_introduction,Male Speaker
+Est-ce que vous êtes allés?,"Here's how to ask, ""Did you go?""",question,Male Speaker
+Vous êtes allés?,"Here's how to ask, ""Did you go?""",question,Male Speaker
+Quand est-ce que vous êtes allés?,"Demandez ""When did you go?""",question,Male Speaker
+Quand est-ce que vous êtes allés à Nice?,"""When did you go to Nice?""",question,Male Speaker
+Vous êtes allé à Nice?,"How do you say? ""You went to Nice?""",question,Male Speaker
+Quand est-ce que vous êtes allé à Nice?,"Ask her, ""When did you go to Nice?""",question,Male Speaker
+Nous sommes allés à Nice.,"Essayer de dire ""We went to Nice.""",vocabulary_introduction,Female Speaker
+Nous sommes allés à Nice ce matin.,"""We went to Nice this morning.""",vocabulary_introduction,Female Speaker
+Ce matin.,"Say again, ""This morning.""",vocabulary_introduction,Female Speaker
+Nous sommes allés à Nice ce matin.,"Dites, ""We went to Nice this morning.""",vocabulary_introduction,Female Speaker
+Nous sommes allés à Paris hier matin.,"Dites, ""We went to Paris yesterday morning.""",vocabulary_introduction,Female Speaker
+Je suis allé à Nice.,"Essayez de dire ""I went to Nice.""",vocabulary_introduction,Male Speaker
+Et je suis allé à Marseille hier.,"""And I went to Marseille yesterday.""",vocabulary_introduction,Female Speaker
+Est-ce que vous êtes allé à Nice ce matin?,Demandez-lui si elle est allée à Nice ce matin.,question,Male Speaker
+Et quand est-ce que vous êtes arrivé?,"And how does he ask, ""and when did you arrive?""",question,Male Speaker
+Vous êtes arrivé quand?,"And how does he ask, ""and when did you arrive?""",question,Male Speaker
+Quand est-ce que vous êtes arrivé en France?,"""When did you arrive in France?""",question,Male Speaker
+Nous sommes arrivés hier.,"""We arrived yesterday.""",vocabulary_introduction,Female Speaker
+Nous allons rester.,"""We are going to remain.""",vocabulary_introduction,Female Speaker
+Une semaine.,"""One week.""",vocabulary_introduction,Female Speaker
+Et nous allons partir.,"""And we're going to leave.""",vocabulary_introduction,Female Speaker
+Nous allons partir demain matin.,"""We are going to leave tomorrow morning.""",vocabulary_introduction,Female Speaker
+Nous avons parlé français.,"""We spoke French.""",vocabulary_introduction,Female Speaker
+Nous sommes allés à Paris.,"""We went to Paris.""",vocabulary_introduction,Female Speaker
+Nous sommes allés à Notre-Dame hier.,"""We went to Notre-Dame yesterday.""",vocabulary_introduction,Male Speaker
+Je suis allé à Notre-Dame.,"""I went to Notre Dame.""",vocabulary_introduction,Female Speaker
+Avec mon mari.,"""With my husband.""",vocabulary_introduction,Female Speaker
+Nous sommes allés à Notre Dame ensemble.,"""We went to Notre Dame together.""",vocabulary_introduction,Male Speaker
+Et nous avons mangé dans un bon restaurant.,"Essayez de dire ""And we ate in a good restaurant.""",vocabulary_introduction,Female Speaker
+Nous avons mangé au restaurant Chez Pierre.,"Dites, ""We ate at the restaurant Chez Pierre.""",vocabulary_introduction,Female Speaker
+C'est un très bon restaurant.,"""It's a very good restaurant.""",vocabulary_introduction,Female Speaker
+Où est Chez Pierre?,"Demandez ""Where is Chez Pierre?""",question,Male Speaker
+Rue Saint-Jacques.,"""On Saint-Jacques Street.""",vocabulary_introduction,Female Speaker

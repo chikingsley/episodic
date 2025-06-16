@@ -1,0 +1,93 @@
+phrase,teaching_cue,context,speaker_response
+Pas très bien.,"""Not very well.""",vocabulary_introduction,Female Speaker
+Parce que je voudrais acheter quelque chose.,"""Because I would like to buy something.""",vocabulary_introduction,Female Speaker
+Et je ne peux pas.,"""And I can't.""",vocabulary_introduction,Female Speaker
+Parce que les magasins sont fermés.,"""Because the shops are closed.""",vocabulary_introduction,Female Speaker
+Vraiment?,"""Really?""",vocabulary_introduction,Male Speaker
+"Oui, ils sont fermés.","""Yes, they're closed.""",vocabulary_introduction,Female Speaker
+Il est tard.,"""It's late.""",vocabulary_introduction,Male Speaker
+Mais ils sont ouverts.,"""But they are open.""",vocabulary_introduction,Male Speaker
+Quand?,"""When?""",vocabulary_introduction,Female Speaker
+Demain.,"""Tomorrow.""",vocabulary_introduction,Male Speaker
+"Demain, vous pouvez acheter quelque chose.","""Tomorrow, you can buy something.""",vocabulary_introduction,Male Speaker
+Dans un bon magasin.,"""In a good shop.""",vocabulary_introduction,Male Speaker
+Prenez beaucoup d'argent.,"""Take lots of money.""",vocabulary_introduction,Male Speaker
+Ne prenez pas votre voiture.,"""Don't take your car.""",vocabulary_introduction,Male Speaker
+Prenez un taxi.,"Try to say, ""Take a taxi.""",vocabulary_introduction,Male Speaker
+Je vais prendre ma voiture.,"""I'm going to take my car.""",vocabulary_introduction,Female Speaker
+Parce que je vais à Marseille.,"""Because I'm going to Marseille.""",vocabulary_introduction,Female Speaker
+Vous allez à Marseille?,"""You're going to Marseille?""",vocabulary_introduction,Male Speaker
+Qu'est-ce que vous allez faire là-bas?,"""What are you going to do there?""",vocabulary_introduction,Male Speaker
+Je vais voir des amis.,"""I'm going to see some friends.""",vocabulary_introduction,Female Speaker
+Amis.,"Comment dit-on ""friend"" en français?",vocabulary_introduction,Female Speaker
+Des amis.,"Dites, ""Some friends.""",vocabulary_introduction,Female Speaker
+Voir.,"Comment dit-on ""To see.""",vocabulary_introduction,Female Speaker
+Je vais voir.,"Dites, ""I'm going to see.""",vocabulary_introduction,Female Speaker
+"Non, mais pas loin.","""No, but not far.""",vocabulary_introduction,Female Speaker
+Quelques kilomètres.,"""A few kilometers.""",vocabulary_introduction,Female Speaker
+Quelques amis.,"""A few friends.""",vocabulary_introduction,Female Speaker
+J'ai quelques amis là-bas.,"Dites, ""I have a few friends down there.""",vocabulary_introduction,Female Speaker
+Et je vais travailler.,"""And I'm going to work.""",vocabulary_introduction,Female Speaker
+Travailler.,"""To work.""",vocabulary_introduction,Female Speaker
+Est-ce que vous allez travailler?,Demandez si elle va travailler.,vocabulary_introduction,Male Speaker
+Un peu.,"""A little.""",vocabulary_introduction,Female Speaker
+Pas beaucoup.,"""Not much.""",vocabulary_introduction,Female Speaker
+Mes amis.,"""My friends.""",vocabulary_introduction,Female Speaker
+Je vais voir mes amis.,"""I'm going to see my friends.""",vocabulary_introduction,Female Speaker
+Je vais passer trois jours là-bas.,"""I'm going to spend three days there.""",vocabulary_introduction,Female Speaker
+Passer.,"""To spend (time).""",vocabulary_introduction,Female Speaker
+Jour.,"""Day.""",vocabulary_introduction,Female Speaker
+Je vais passer deux jours.,"Dites, ""I'm going to spend two days.""",vocabulary_introduction,Female Speaker
+Deux.,"""Two.""",vocabulary_introduction,Female Speaker
+Je vais travailler un peu.,"""I'm going to work a little.""",vocabulary_introduction,Female Speaker
+Vous allez passer combien de jours?,"""You're going to spend how many days?""",vocabulary_introduction,Male Speaker
+Combien de jours?,"""How many days?""",vocabulary_introduction,Male Speaker
+Quelques jours.,"""A few days.""",vocabulary_introduction,Female Speaker
+Trois jours peut-être.,"""Three days, maybe.""",vocabulary_introduction,Female Speaker
+Peut-être.,"Dites, ""maybe"" or ""perhaps.""",vocabulary_introduction,Female Speaker
+Je vais voir Jacques.,"Dites, ""I'm going to see Jacques.""",vocabulary_introduction,Female Speaker
+Pour quelques jours.,"""For a few days.""",vocabulary_introduction,Female Speaker
+Est-ce que vous allez travailler?,"""Are you going to work?""",vocabulary_introduction,Male Speaker
+"Oui, je crois.","""Yes, I believe so.""",vocabulary_introduction,Female Speaker
+Je crois.,"Comment dit-on ""I believe"" or ""I think so."" en français.",vocabulary_introduction,Female Speaker
+Je ne crois pas.,"Comment dit-on ""I don't believe?""",vocabulary_introduction,Female Speaker
+Est-ce que vous allez voir Georges?,Demandez à mademoiselle si elle va voir Georges.,vocabulary_introduction,Male Speaker
+Est-ce que Georges travaille à Marseille?,Demandez si Georges travaille à Marseille.,vocabulary_introduction,Male Speaker
+Je crois. Je ne sais pas.,"""I think so, I don't know.""",vocabulary_introduction,Female Speaker
+S'il travaille là-bas.,"""If he works there...""",vocabulary_introduction,Male Speaker
+Est-ce que vous allez le voir?,"Demandez ""Are you going to see him?""",vocabulary_introduction,Male Speaker
+Le voir.,"""To see him.""",vocabulary_introduction,Male Speaker
+Je vais le voir.,"Répondez, ""I'm going to see him.""",vocabulary_introduction,Female Speaker
+Mais je vais aussi travailler.,"""But I'm going to work too.""",vocabulary_introduction,Female Speaker
+Et voir quelques amis.,"""And see a few friends.""",vocabulary_introduction,Female Speaker
+Et passez deux jours.,"""And spend two days.""",vocabulary_introduction,Female Speaker
+Et passez deux jours à Marseille.,"""And spend two days at Marseille.""",vocabulary_introduction,Female Speaker
+Trois peut-être.,"""Three, maybe.""",vocabulary_introduction,Female Speaker
+"Oui, je crois.","""Yes, I think.""",vocabulary_introduction,Female Speaker
+Je crois que je vais passer...,"""I think that I'm going to spend...""",vocabulary_introduction,Female Speaker
+Je crois que je vais passer quelques jours.,"""I think that I'm going to spend a few days.""",vocabulary_introduction,Female Speaker
+"À Marseille, avec Georges.","""At Marseille, with George.""",vocabulary_introduction,Female Speaker
+"Mon ami, Georges.","""My friend, George.""",vocabulary_introduction,Female Speaker
+Donnez-moi?,"Comment dit-on en français ""Give me.""",vocabulary_introduction,Female Speaker
+Donnez-moi quelques francs.,"""Give me a few francs.""",vocabulary_introduction,Female Speaker
+Qu'est-ce que vous voudriez acheter?,Demandez ce qu'elle voudrait acheter.,vocabulary_introduction,Male Speaker
+Je voudrais de l'argent.,"""I would like some money.""",vocabulary_introduction,Female Speaker
+Parce que je vais passer quelques jours.,"""Because I'm going to spend a few days.""",vocabulary_introduction,Female Speaker
+À Nice.,"""At Nice.""",vocabulary_introduction,Female Speaker
+Je vais passer quelques jours à Nice.,"""I'm going to spend a few days at Nice.""",vocabulary_introduction,Female Speaker
+C'est loin.,"""That's far away.""",vocabulary_introduction,Male Speaker
+Quatre-vingts kilomètres.,"""Eighty kilometres.""",vocabulary_introduction,Female Speaker
+Je crois que je vais prendre ma voiture.,"""I think that I'm going to take my car.""",vocabulary_introduction,Female Speaker
+Et pas un taxi.,"""And not a taxi.""",vocabulary_introduction,Female Speaker
+Parce que c'est très loin.,"""Because it's very far.""",vocabulary_introduction,Female Speaker
+Et je veux aller vite.,"""And I want to go fast.""",vocabulary_introduction,Female Speaker
+Est-ce que vous voulez aller là-bas?,"""Do you want to go down there?""",vocabulary_introduction,Female Speaker
+"Non, je vais travailler.","""No, I'm going to work.""",vocabulary_introduction,Male Speaker
+Je vais travailler aujourd'hui.,"""I'm going to work today.""",vocabulary_introduction,Male Speaker
+Et demain?,"""And tomorrow?""",vocabulary_introduction,Female Speaker
+"Je ne sais pas, peut-être.","""I don't know, maybe.""",vocabulary_introduction,Male Speaker
+"Non, je ne crois pas.","""No, I don't believe so.""",vocabulary_introduction,Male Speaker
+Je voudrais voir Nice.,"""I would like to see Nice.""",vocabulary_introduction,Male Speaker
+Et j'ai des amis là-bas.,"""And I have friends there.""",vocabulary_introduction,Male Speaker
+Mais je vais travailler demain.,"""But I'm going to work tomorrow.""",vocabulary_introduction,Male Speaker
+"Alors, au revoir.","""Well then, goodbye.""",vocabulary_introduction,Female Speaker

@@ -1,0 +1,56 @@
+phrase,teaching_cue,context,speaker_response
+Je voudrais manger quelque chose.,"Do you remember how to say ""I'd like to eat something""?",vocabulary_review,Male Speaker
+Je voudrais faire quelque chose.,"Say, ""I'd like to do something.""",vocabulary_introduction,Male Speaker
+Qu'est-ce que vous voulez faire?,"Now ask, ""What do you want to do?""",question,Male Speaker
+Je voudrais acheter quelque chose.,"Say, ""I'd like to buy something.""",vocabulary_introduction,Male Speaker
+À quelle heure?,"Ask, ""At what time?""",question,Male Speaker
+À une heure.,"Say, ""At one o'clock.""",vocabulary_introduction,Male Speaker
+À neuf heures?,"Ask, ""At nine o'clock?""",question,Male Speaker
+"Mais non, à huit heures.","Say, ""But no, at eight o'clock.""",negation,Male Speaker
+"D'accord, à deux heures.","Say, ""Okay, at two o'clock.""",vocabulary_introduction,Male Speaker
+"Non, Mademoiselle, vous ne comprenez pas.","Say, ""No miss, you don't understand.""",negation,Male Speaker
+Qu'est-ce que je ne comprends pas?,"Ask, ""What don't I understand?""",question,Male Speaker
+Qu'est-ce que vous voudriez boire?,Ask her what she would like to drink.,question,Male Speaker
+Non merci. Je voudrais manger quelque chose.,"Answer, ""No thank you. I would like to eat something.""",vocabulary_introduction,Male Speaker
+Je ne comprends pas.,"Say, ""I don't understand.""",vocabulary_introduction,Male Speaker
+Est-ce que vous voudriez boire quelque chose?,"Ask, ""Would you like to drink something?""",question,Male Speaker
+Où est-ce que vous voudriez manger?,"""Or would you like to eat?""",question,Male Speaker
+Je ne sais pas.,"Say, ""I don't know.""",vocabulary_introduction,Female Speaker
+Avec moi?,"Ask, ""With me?""",question,Male Speaker
+"Oui, chez vous.","Say, ""Yes, at your place.""",vocabulary_introduction,Female Speaker
+Quelle heure est-il?,"Now, here's how to ask, ""What time is it?"" Listen and repeat.",question,Female Speaker
+Il est.,"If the form ""est-il"" makes a question, how would you make a statement out of it?",grammar_explanation,Female Speaker
+Il est neuf heures.,"And now try to say, ""It's nine o'clock.""",vocabulary_introduction,Male Speaker
+Il est deux heures.,"Answer, ""It's two o'clock.""",vocabulary_introduction,Male Speaker
+Il est cinq heures.,"Here's how to say, ""It's five o'clock."" Listen and repeat.",vocabulary_introduction,Male Speaker
+Il est trois heures.,"Listen and repeat the answer, ""It's three o'clock.""",vocabulary_introduction,Male Speaker
+Il est quatre heures.,"Listen and repeat, ""It's four o'clock.""",vocabulary_introduction,Male Speaker
+Est-ce qu'il est quatre heures?,Ask me if it's four o'clock.,question,Female Speaker
+"Non, il est trois heures.","Say, ""No, it's three o'clock.""",negation,Male Speaker
+Il est huit heures.,"Tell me, ""It's eight o'clock.""",vocabulary_introduction,Male Speaker
+Quatre heures.,"Say, ""Four o'clock.""",vocabulary_introduction,Male Speaker
+Cinq heures.,"Say, ""Five o'clock.""",vocabulary_introduction,Male Speaker
+Neuf heures.,"""Nine o'clock.""",vocabulary_introduction,Male Speaker
+Trois heures.,"""Three o'clock.""",vocabulary_introduction,Male Speaker
+"Je ne sais pas, mais je voudrais manger quelque chose.","Say ""I don't know, but I'd like to eat something.""",vocabulary_introduction,Male Speaker
+"Pas maintenant, plus tard.","Say, ""Not now, later.""",vocabulary_introduction,Female Speaker
+"Non, je vais déjeuner maintenant.","""No, I'm going to have lunch now."" Listen and repeat.",vocabulary_introduction,Male Speaker
+Vous allez.,"Now, think back to the question ""how are you?"" and tell me how to say ""you are going.""",grammar_explanation,Male Speaker
+Vous allez manger.,"Say, ""You are going to eat.""",vocabulary_introduction,Male Speaker
+Est-ce que vous allez manger?,"Ask, ""Are you going to eat?""",question,Female Speaker
+"Oui, je vais manger maintenant.","Say, ""Yes, I'm going to eat now.""",vocabulary_introduction,Male Speaker
+Je vais. Je veux.,"Now, listen and repeat the contrast between ""I am going"" and ""I want.""",grammar_explanation,Female Speaker
+Je vais manger à cinq heures.,"Say, ""I'm going to eat at five o'clock.""",vocabulary_introduction,Male Speaker
+Est-ce que vous allez manger à cinq heures?,Ask me if I'm going to eat at five o'clock.,question,Female Speaker
+Mais je vais boire quelque chose.,"Say, ""But I'm going to drink something.""",vocabulary_introduction,Male Speaker
+Quand?,"Ask, ""When?""",question,Female Speaker
+À trois heures ou à quatre heures?,"Say, ""At three o'clock or at four o'clock?""",question,Male Speaker
+"Moi, je vais boire quelque chose à neuf heures.","Say, ""Me, I'm going to drink something at nine o'clock.""",vocabulary_introduction,Female Speaker
+Quelle heure est-il maintenant?,"Ask, ""What time is it now?""",question,Male Speaker
+Il est une heure maintenant.,"Say, ""It's one o'clock now.""",vocabulary_introduction,Female Speaker
+"Merci, je vais déjeuner.","Say, ""Thank you, I'm going to have lunch.""",vocabulary_introduction,Male Speaker
+Je vais bien. Je veux bien.,"Listen and repeat the contrast between ""I'm feeling fine"" and ""I really want to.""",grammar_explanation,Female Speaker
+Quand est-ce que vous voudriez déjeuner?,Ask her when she would like to have lunch.,question,Male Speaker
+"Est-ce que vous voudriez déjeuner, oui ou non?","Ask her if she would like to have lunch, yes or no.",question,Male Speaker
+Est-ce que vous allez déjeuner avec moi?,Ask her if she is going to have lunch with you.,question,Male Speaker
+"Mais quand, Mademoiselle?","Ask, ""But when, Miss?""",question,Male Speaker

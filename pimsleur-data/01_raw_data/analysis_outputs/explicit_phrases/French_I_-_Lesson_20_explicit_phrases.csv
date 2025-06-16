@@ -1,0 +1,56 @@
+phrase,teaching_cue,context,speaker_response
+Enchanté.,"Suppose that you are introduced to someone, what would you say?",vocabulary_introduction,Male Speaker
+Entrez.,Tell the person to come right in.,command,Male Speaker
+Voudriez-vous boire quelque chose?,Ask the person if he would like something to drink.,question,Male Speaker
+Qu'est-ce que vous avez?,Ask him what he has.,question,Female Speaker
+J'ai de l'Orangina.,"Say, ""I have Orangina.""",statement,Male Speaker
+Ou de l'eau.,"Say, ""Or water.""",statement,Male Speaker
+Où est votre mari?,Ask the woman where her husband is.,question,Male Speaker
+Mon mari?,"Say, ""My husband?""",question,Female Speaker
+Je ne sais pas où il est.,"Say, ""I don't know where he is.""",statement,Female Speaker
+"Où est votre femme, Monsieur?",Ask the man where his wife is.,question,Female Speaker
+Elle est avec votre mari.,"Say, ""She's with your husband.""",statement,Male Speaker
+Et où est-il?,"""And where is he?""",question,Male Speaker
+Il est en Amérique.,"Say, ""He is in America.""",statement,Female Speaker
+Nous habitons en Amérique.,"Say, ""We live in America.""",statement,Female Speaker
+Est-ce que vous avez des enfants?,Ask someone if he has children.,question,Female Speaker
+Nous avons des enfants.,And now try to say we have children.,statement,Male Speaker
+Combien d'enfants avez-vous?,"""How many children do you have?""",question,Female Speaker
+Nous avons trois enfants.,"Say, ""We have three children.""",statement,Male Speaker
+Deux garçons.,"""Two boys.""",statement,Male Speaker
+Nous avons deux garçons.,"Say, ""We have two boys.""",statement,Male Speaker
+Et une fille.,"""And one girl.""",statement,Male Speaker
+Nous avons une fille.,"Say, ""We have one girl.""",statement,Male Speaker
+Pas de garçons.,"Say, ""No boys.""",statement,Male Speaker
+Vous voudriez.,"Do you remember how to say, ""You would like""?",vocabulary_introduction,Female Speaker
+Nous voudrions.,"Now, say, ""We would like.""",statement,Male Speaker
+Nous voudrions un garçon.,"Say, ""We would like a boy.""",statement,Male Speaker
+Mais nous avons.,"Say, ""But we have.""",statement,Male Speaker
+Mais nous avons quatre filles.,"""But we have four girls.""",statement,Male Speaker
+Combien d'enfants?,"Ask, ""How many children?""",question,Female Speaker
+Quatre enfants.,"""Four children.""",statement,Female Speaker
+C'est beaucoup.,"Say, ""That's a lot!""",statement,Male Speaker
+Pas en Amérique.,"Say, ""Not in America!""",statement,Male Speaker
+Nous avons cinq enfants.,"Say, ""We have five children.""",statement,Male Speaker
+Trois garçons.,"Say, ""Three boys.""",statement,Male Speaker
+Et deux filles.,"""And two girls.""",statement,Male Speaker
+Nous avons une fille.,"Say, ""We have one girl.""",statement,Male Speaker
+Et un garçon.,"""And one boy.""",statement,Male Speaker
+Le garçon est grand.,Tell me the boy is big.,statement,Male Speaker
+La fille est grande.,Tell me the girl is big.,statement,Male Speaker
+Est-ce que le garçon est grand?,Ask him if the boy is big.,question,Female Speaker
+"Oui, il est grand.","Say, ""Yes, he's big.""",statement,Male Speaker
+Il n'est pas grand.,"Say, ""He's not big.""",statement,Male Speaker
+Est-ce que la fille est grande?,Ask her if the girl is big.,question,Female Speaker
+Elle n'est pas grande.,"Say, ""She's not big.""",statement,Male Speaker
+Le garçon est très grand.,"Say, ""The boy is very big.""",statement,Male Speaker
+J'ai quatre enfants.,"Say, ""I have four children.""",statement,Male Speaker
+"Non, nous avons quatre enfants.","Say, ""No, we have four children.""",statement,Male Speaker
+Ils sont grands.,"Say, ""They are big.""",statement,Male Speaker
+Ils sont ici.,"Say, ""They're here.""",statement,Male Speaker
+Ils ne sont pas là-bas.,"Say, ""They're not over there.""",statement,Male Speaker
+Nous avons trois enfants.,"Say, ""We have three children.""",statement,Male Speaker
+Nous avons deux garçons.,"Say, ""We have two boys.""",statement,Male Speaker
+Est-ce qu'elle est grande?,"Ask, ""Is she big?""",question,Female Speaker
+Les garçons sont très grands.,"Say, ""The boys are very big.""",statement,Male Speaker
+Ma femme aussi est grande.,"Say, ""My wife is big, too.""",statement,Male Speaker

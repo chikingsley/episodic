@@ -1,0 +1,60 @@
+phrase,teaching_cue,context,speaker_response
+Ensemble,"Comment dit-on ""together"" en français?",vocabulary_introduction,Male Speaker
+Rien,"Comment dit-on ""Nothing.""",vocabulary_introduction,Male Speaker
+"Combien d'argent avez-vous, Mademoiselle?",Demandez à mademoiselle combien d'argent elle a.,question,Male Speaker
+J'ai cent francs.,"Répondez, ""I have one hundred francs.""",question,Female Speaker
+Donnez-moi quatre-vingt-dix francs.,Ask her to give you ninety francs.,question,Male Speaker
+Je ne veux pas.,"""I don't want to.""",negation,Female Speaker
+Je veux partir.,"""I want to go away.""",vocabulary_introduction,Female Speaker
+Où voulez-vous aller?,Demandez où elle veut aller.,question,Male Speaker
+Je vais travailler.,"""I'm going to work.""",vocabulary_introduction,Female Speaker
+Avec mes amis.,"""With my friends.""",vocabulary_introduction,Female Speaker
+Je vais voir Paris.,"""I'm going to see Paris.""",vocabulary_introduction,Female Speaker
+Je vais passer quelques jours à Paris.,"""I'm going to spend a few days in Paris.""",vocabulary_introduction,Female Speaker
+Peut-être.,"""Perhaps.""",vocabulary_introduction,Female Speaker
+Je ne crois pas.,"""I don't think so.""",negation,Male Speaker
+Je suis seul.,"""I am alone.""",vocabulary_introduction,Male Speaker
+Je n'ai rien.,"""I have nothing.""",negation,Male Speaker
+Donnez-moi quatre-vingt-quinze francs.,"""Give me ninety-five francs.""",question,Male Speaker
+Voilà cent francs.,"""There's a hundred francs.""",vocabulary_introduction,Female Speaker
+"Maintenant, vous pouvez partir.","""Now you can leave.""",vocabulary_introduction,Male Speaker
+Qu'est-ce que ça veut dire?,Écoutez et répétez.,question,Male Speaker
+Le mot zut.,Écoutez et répétez.,vocabulary_introduction,Male Speaker
+Un mot.,"Dites en français, ""One word.""",vocabulary_introduction,Male Speaker
+C'est un mot français.,"Répondez, ""It's a French word.""",vocabulary_introduction,Female Speaker
+Est-ce que c'est un mot français?,Demandez si c'est un mot français.,question,Male Speaker
+"Oui, je crois.","""Yes, I think so.""",vocabulary_introduction,Female Speaker
+Je crois que c'est français.,"""I think that it's French.""",vocabulary_introduction,Female Speaker
+"Oui, nous sommes américains.",Écoutez et répétez.,vocabulary_introduction,Male Speaker
+Mot,"Comment dit-on ""word"" en français?",vocabulary_introduction,Male Speaker
+Zut,Dites le mot zut.,vocabulary_introduction,Female Speaker
+Nous sommes ici.,"Dites, ""We are here.""",vocabulary_introduction,Male Speaker
+Depuis quelques jours.,Écoutez et répétez.,vocabulary_introduction,Male Speaker
+Nous sommes ici depuis quelques jours.,Dites-moi que vous êtes ici depuis quelques jours.,vocabulary_introduction,Male Speaker
+Depuis combien de temps?,Écoutez et répétez.,question,Female Speaker
+Combien de temps?,"""Time. How much time?""",question,Female Speaker
+Depuis combien de temps?,"""Since how long?""",question,Male Speaker
+Depuis quelques jours.,"""Since a few days.""",vocabulary_introduction,Female Speaker
+"Le mot ""rester.""","The word ""rester.""",vocabulary_introduction,Male Speaker
+Oh! Je comprends maintenant.,"""Oh, I understand now.""",vocabulary_introduction,Male Speaker
+Vous allez rester?,"""You're going to stay?""",question,Female Speaker
+Quelques jours.,"""A few days.""",vocabulary_introduction,Male Speaker
+Parce que.,"""Because.""",vocabulary_introduction,Male Speaker
+Parce que nous n'avons pas.,"""Because we don't have.""",vocabulary_introduction,Male Speaker
+Beaucoup de temps.,"""Much time.""",vocabulary_introduction,Male Speaker
+Depuis quand?,"""Since when?""",question,Female Speaker
+Depuis huit jours.,"""Since eight days.""",vocabulary_introduction,Male Speaker
+Ce n'est pas beaucoup.,"""That's not much.""",vocabulary_introduction,Female Speaker
+Nous voulons rester.,"""We want to stay.""",vocabulary_introduction,Male Speaker
+Nous sommes ici depuis deux jours.,"""We are here since two days.""",vocabulary_introduction,Male Speaker
+Nous n'avons pas beaucoup de temps.,"""We don't have much time.""",negation,Male Speaker
+Nous ne pouvons pas rester.,"""We can't stay.""",negation,Male Speaker
+Je ne sais pas ce que ça veut dire.,"""I don't know what that means.""",negation,Female Speaker
+Beaucoup de temps.,"Dites, ""Lots of time.""",vocabulary_introduction,Male Speaker
+Nous voudrions rester.,"Dites, ""We would like to stay.""",vocabulary_introduction,Male Speaker
+Nous voudrions rester en France.,"Dites, ""We would like to stay in France.""",vocabulary_introduction,Male Speaker
+Mais nous n'avons pas de temps.,"""But we have no time.""",negation,Male Speaker
+Depuis combien de temps êtes-vous ici?,"Demandez, ""Depuis combien de temps il est ici?""",question,Female Speaker
+Est-ce que vous êtes seuls?,Demandez s'il est seul.,question,Female Speaker
+Nous sommes ici ensemble.,"""We are here together.""",vocabulary_introduction,Male Speaker
+Voilà ce que zut veut dire.,"""That means?""",vocabulary_introduction,Female Speaker

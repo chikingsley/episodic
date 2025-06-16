@@ -1,0 +1,98 @@
+phrase,teaching_cue,context,speaker_response
+"Bonjour, Monsieur.","Say, ""Good morning, sir.""",greeting,Female Speaker
+Au revoir.,"And how do you say, ""Goodbye?""",farewell,Male Speaker
+"Au revoir, Madame.","Say, ""Goodbye, ma'am.""",farewell,Male Speaker
+Bonjour.,"Say again, ""Hello.""",greeting,Female Speaker
+"Bonjour, Monsieur.","Say again, ""Hello.""",greeting,Female Speaker
+Comment allez-vous?,How do you ask someone how he is?,question,Female Speaker
+"Très bien, merci.","Answer, ""Very well, thanks.""",response,Male Speaker
+"Je vais bien, merci.","""I'm well, thanks.""",response,Male Speaker
+Pas très bien.,"Now say, ""Not very well.""",response,Male Speaker
+Je ne comprends pas le français.,"""I don't understand French.""",negation,Male Speaker
+Mais si.,"Say emphatically, ""But yes.""",emphasis,Female Speaker
+Vous comprenez très bien.,"""You understand very well.""",affirmation,Female Speaker
+Est-ce que vous êtes américain?,"How did she ask, ""Are you American?""",question,Female Speaker
+"Oui, Mademoiselle.","Answer, ""Yes, Miss.""",response,Male Speaker
+Est-ce que vous êtes américaine?,Ask the young woman if she is American.,question,Male Speaker
+"Est-ce que vous êtes américaine, Mademoiselle?",Ask the young woman if she is American.,question,Male Speaker
+Vous n'êtes pas américaine.,"Say to a woman, ""You are not American.""",negation,Male Speaker
+Je suis.,"Say, ""I am.""",affirmation,Male Speaker
+Je suis américain.,Say that you are American.,affirmation,Male Speaker
+"Américain, Américaine.",Practice the distinction between masculine and feminine.,grammar,Male Speaker
+Est-ce que vous êtes français?,Ask me if I am French.,question,Male Speaker
+Je ne suis pas américain.,"Now say, ""I'm not American.""",negation,Male Speaker
+Vous n'êtes pas français.,"Say to a man, ""You are not French.""",negation,Female Speaker
+Est-ce que vous êtes française?,Ask the young woman if she is French.,question,Male Speaker
+Est-ce que vous comprenez l'anglais?,Ask her if she understands English.,question,Male Speaker
+"Non, Monsieur.","Answer, ""No, sir.""",response,Female Speaker
+Je ne comprends pas l'anglais.,How does she tell you she doesn't understand English?,negation,Female Speaker
+Vous comprenez.,"How do you say, ""You understand?""",question,Male Speaker
+Vous parlez.,"Here's how to say, ""You speak."" Listen and repeat.",vocabulary_introduction,Male Speaker
+Parlez.,"Here's how to say, ""You speak."" Listen and repeat.",vocabulary_introduction,Male Speaker
+Vous parlez bien.,"""You speak well.""",affirmation,Male Speaker
+Je parle.,"Try to say, ""I speak.""",affirmation,Male Speaker
+Parle.,"Try to say, ""I speak.""",affirmation,Male Speaker
+Je parle un peu.,"Try to say, ""I speak a little.""",affirmation,Male Speaker
+Mais.,"""But.""",conjunction,Male Speaker
+Je ne comprends pas.,"Say, ""I don't understand.""",negation,Male Speaker
+Mais je ne parle pas.,"Try to say, ""But I don't speak.""",negation,Male Speaker
+Je ne parle pas bien.,"""I don't speak well.""",negation,Male Speaker
+Si.,"Answer emphatically, ""Yes.""",emphasis,Female Speaker
+Je comprends un peu.,"""I understand a little.""",affirmation,Female Speaker
+Et je parle un peu.,"""And I speak a little.""",affirmation,Female Speaker
+Pas très bien.,"""Not very well.""",negation,Female Speaker
+Je comprends un peu l'anglais.,"""I understand English a little.""",affirmation,Female Speaker
+Je ne parle pas bien.,"""I don't speak well.""",negation,Female Speaker
+Je comprends le français.,"""I understand French.""",affirmation,Female Speaker
+Je ne suis pas français.,"Now, referring to yourself, say, ""I'm not French.""",negation,Male Speaker
+Je ne suis pas française.,"Now, referring to yourself, say, ""I'm not French.""",negation,Female Speaker
+Et vous?,"Ask, ""And you?""",question,Female Speaker
+Mais oui.,"Say, ""But yes.""",emphasis,Male Speaker
+S'il vous plaît.,"Say, ""Please.""",politeness,Male Speaker
+Jacques.,"""Jacques"" is a common name in French. Practice saying it.",vocabulary_introduction,Male Speaker
+Saint.,"And now the word ""saint"".",vocabulary_introduction,Male Speaker
+Saint-Jacques.,"Say, ""Saint-Jacques.""",vocabulary_introduction,Male Speaker
+Michel.,"Now here's another common French name, ""Michael.""",vocabulary_introduction,Male Speaker
+Saint-Michel.,"Say, ""Saint Michael.""",vocabulary_introduction,Male Speaker
+La rue.,"And now, ""the street"". Listen and repeat.",vocabulary_introduction,Male Speaker
+Rue.,"And now, ""the street"". Listen and repeat.",vocabulary_introduction,Male Speaker
+La rue Saint-Jacques.,"Again, say, ""The street.""",vocabulary_introduction,Male Speaker
+La rue Saint-Michel.,"And now, try to say, ""Saint Michael Street.""",vocabulary_introduction,Male Speaker
+Où.,"Now, here's how to ask, ""Where is such and such?"" First the word ""where.""",vocabulary_introduction,Male Speaker
+Est.,"And now the word ""is.""",vocabulary_introduction,Male Speaker
+Où est...,"Now you try to ask, ""Where is...""",question,Male Speaker
+Où est la rue?,"And now try to ask, ""Where is the street?""",question,Male Speaker
+Où est la rue Saint-Jacques?,"Ask, ""Where is Saint-Jacques Street?""",question,Male Speaker
+S'il vous plait.,"Say, ""Please.""",politeness,Male Speaker
+Le boulevard.,"Here's the word for ""boulevard"" in French. Listen and repeat, being sure you imitate the French pronunciation in every way.",vocabulary_introduction,Male Speaker
+Boulevard.,"Here's the word for ""boulevard"" in French. Listen and repeat, being sure you imitate the French pronunciation in every way.",vocabulary_introduction,Male Speaker
+Le boulevard Saint-Michel.,"And now try to say, ""Saint Michael Boulevard.""",vocabulary_introduction,Male Speaker
+Où est le boulevard Saint-Michel?,Now ask where this boulevard is.,question,Male Speaker
+Ici.,"Well, the answer is, ""It's here."" Practice the word ""here"".",vocabulary_introduction,Male Speaker
+C'est.,"And now, ""it is.""",vocabulary_introduction,Male Speaker
+Ce.,"Well, the first sound is what means ""it.""",vocabulary_introduction,Female Speaker
+C'est ici.,"Now try to say, ""It's here."" Let me give you the clue that the word ""c'est"" has a disappearing ""T"" on the end of it.",affirmation,Female Speaker
+"C'est ici, Monsieur.","Answer, ""It's here, sir.""",affirmation,Female Speaker
+Est-ce que c'est ici?,"Now try to ask, ""Is it here?""",question,Male Speaker
+"Oui, c'est ici.","Reply, ""Yes, it's here.""",response,Female Speaker
+"Non, ce n'est pas ici.","And now try to say, ""No, it's not here.""",negation,Female Speaker
+Ce n'est pas ici.,"Say again, ""It's not here.""",negation,Female Speaker
+C'est là-bas.,"Here's how to say, ""It's over there."" Practice the expression meaning ""over there"" or ""down there.""",affirmation,Female Speaker
+Là-bas.,"Here's how to say, ""It's over there."" Practice the expression meaning ""over there"" or ""down there.""",vocabulary_introduction,Female Speaker
+Ce n'est pas là-bas.,"""It's not down there.""",negation,Male Speaker
+Le boulevard Saint-Michel est ici.,"Say, ""Saint Michael Boulevard is here.""",affirmation,Female Speaker
+"Où est la rue Saint-Jacques, s'il vous plaît?",Ask where Saint-Jacques street is.,question,Male Speaker
+"Non, Monsieur.","""No, sir.""",response,Female Speaker
+C'est là-bas.,"Say, ""It's down there.""",affirmation,Female Speaker
+"Bonjour, Mademoiselle.",Bonjour.,greeting,Male Speaker
+"Très bien, merci. Et vous?","Très bien, merci.",response,Male Speaker
+"Oui, Mademoiselle, je suis américain.","Oui, Mademoiselle.",response,Male Speaker
+Un peu.,"Say, ""A little.""",response,Male Speaker
+Je comprends un peu le français.,"Say, ""I understand French a little.""",affirmation,Male Speaker
+Je parle un peu.,"""I speak a little.""",affirmation,Male Speaker
+"C'est ici, Mademoiselle.","Tell her, ""It's here.""",affirmation,Male Speaker
+La rue Saint-Jacques n'est pas là-bas.,Tell her that Saint-Jacques street is not down there.,negation,Male Speaker
+Le boulevard Saint-Michel est là-bas.,Tell her Saint Michael Boulevard is down there.,affirmation,Male Speaker
+Mais la rue Saint-Jacques est ici.,Tell her but Saint-Jacques Street is here.,affirmation,Male Speaker
+"Je ne comprends pas, Mademoiselle.","Je ne comprends pas, Mademoiselle.",negation,Male Speaker
+"Au revoir, Mademoiselle.",Say goodbye to her.,farewell,Male Speaker

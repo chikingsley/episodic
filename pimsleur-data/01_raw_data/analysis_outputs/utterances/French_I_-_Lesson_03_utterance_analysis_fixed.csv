@@ -1,0 +1,232 @@
+lesson_number,position_in_lesson,utterance_text,speaker,utterance_type,narrator_cue,core_lemmas
+3,1,"Bonjour, Monsieur. Comment allez-vous?",Female Speaker,ConversationalExchange,,bonjour monsieur comment aller vous
+3,2,"Bien, Madame. Merci.",Male Speaker,ConversationalExchange,,bien madame merci
+3,3,Ah! Vous comprenez le français?,Female Speaker,ConversationalExchange,,ah vous comprendre le français
+3,4,"Oui, Madame, un peu. Pas très bien.",Male Speaker,ConversationalExchange,,oui madame un peu pas très bien
+3,5,"Vous êtes américain, Monsieur?",Female Speaker,ConversationalExchange,,vous être américain monsieur
+3,6,Oui.,Male Speaker,ConversationalExchange,,oui
+3,7,Mais vous comprenez très bien le français.,Female Speaker,ConversationalExchange,,mais vous comprendre très bien le français
+3,8,Le français.,Male Speaker,PromptedRecall,Tell me the name of the French language in French.,le français
+3,9,Le français.,Male Speaker,DirectRepetition,,le français
+3,10,Je comprends.,Male Speaker,PromptedRecall,"Say, 'I understand.'",je comprendre
+3,11,Je comprends le français.,Male Speaker,PromptedRecall,"Say, 'I understand French.'",je comprendre le français
+3,12,Je comprends le français.,Male Speaker,DirectRepetition,Repeat again after the speaker.,je comprendre le français
+3,13,Je comprends le français.,Male Speaker,DirectRepetition,,je comprendre le français
+3,14,Un peu.,Male Speaker,PromptedRecall,"Now, say, 'A little.'",un peu
+3,15,Je comprends un peu.,Male Speaker,PromptedRecall,"Say, 'I understand a little.'",je comprendre un peu
+3,16,Je comprends un peu le français.,Male Speaker,PromptedRecall,"Say, 'I understand French a little.'",je comprendre un peu le français
+3,17,Je comprends un peu le français.,Male Speaker,DirectRepetition,,je comprendre un peu le français
+3,18,Je comprends un peu le français.,Male Speaker,DirectRepetition,Repeat again after the speaker.,je comprendre un peu le français
+3,19,Je comprends un peu le français.,Male Speaker,DirectRepetition,,je comprendre un peu le français
+3,20,Je ne comprends pas.,Male Speaker,PromptedRecall,Suppose someone said something to you in French and you didn't understand what was being said. How would you tell the person that you don't understand?,je ne comprendre pas
+3,21,Je ne comprends pas.,Male Speaker,DirectRepetition,,je ne comprendre pas
+3,22,Pardon.,Male Speaker,PromptedRecall,"You might add, 'Pardon me.'",pardon
+3,23,"Comment allez-vous, Monsieur?",Female Speaker,PromptedRecall,Ask me how I'm feeling.,comment aller vous monsieur
+3,24,Comment allez-vous?,Female Speaker,DirectRepetition,,comment aller vous
+3,25,Vous allez.,Male Speaker,PromptedRecall,Do you remember what this means literally?,vous aller
+3,26,"Très bien, merci.",Male Speaker,PromptedRecall,"Now answer, 'Fine, thanks.'",très bien merci
+3,27,"Très bien, merci.",Male Speaker,DirectRepetition,,très bien merci
+3,28,"Merci, Madame.",Male Speaker,PromptedRecall,"Say, 'Thank you, madam.'",merci madame
+3,29,"Merci, Madame.",Male Speaker,DirectRepetition,,merci madame
+3,30,Je vais bien.,Male Speaker,PromptedRecall,'I am well.',je aller bien
+3,31,Bonjour.,Male Speaker,PromptedRecall,"How do you say, 'Hello' in French?",bonjour
+3,32,Bonjour.,Male Speaker,DirectRepetition,,bonjour
+3,33,"Bonjour, Madame.",Male Speaker,PromptedRecall,"Say, 'Good morning, ma'am.'",bonjour madame
+3,34,"Bonjour, Madame.",Male Speaker,DirectRepetition,,bonjour madame
+3,35,Au revoir.,Male Speaker,PromptedRecall,"And how do you say, 'Goodbye?'",au revoir
+3,36,Au revoir.,Male Speaker,DirectRepetition,,au revoir
+3,37,"Au revoir, Madame.",Male Speaker,PromptedRecall,"Say, 'Goodbye, ma'am.'",au revoir madame
+3,38,"Au revoir, Madame.",Male Speaker,DirectRepetition,,au revoir madame
+3,39,Comment allez-vous?,Female Speaker,PromptedRecall,Ask me again how I am.,comment aller vous
+3,40,Pas très bien.,Male Speaker,PromptedRecall,"How would I answer, 'Not very well?'",pas très bien
+3,41,Pas très bien.,Male Speaker,DirectRepetition,,pas très bien
+3,42,Je ne comprends pas le français.,Male Speaker,PromptedRecall,How would I tell you that I don't understand French?,je ne comprendre pas le français
+3,43,Je ne comprends pas le français.,Male Speaker,DirectRepetition,,je ne comprendre pas le français
+3,44,Je comprends un peu le français.,Male Speaker,PromptedRecall,'I understand French a little.',je comprendre un peu le français
+3,45,Je comprends un peu le français.,Male Speaker,DirectRepetition,,je comprendre un peu le français
+3,46,Est-ce que vous êtes américain?,Female Speaker,PromptedRecall,'Do you understand French?',est-ce que vous être américain
+3,47,Est-ce que vous comprenez le français?,Female Speaker,DirectRepetition,,est-ce que vous comprendre le français
+3,48,Est-ce que vous comprenez le français?,Female Speaker,DirectRepetition,,est-ce que vous comprendre le français
+3,49,"Est-ce que vous êtes américain, Monsieur?",Female Speaker,PromptedRecall,Now ask me if I'm American.,est-ce que vous être américain monsieur
+3,50,Est-ce que vous êtes américain?,Female Speaker,DirectRepetition,,est-ce que vous être américain
+3,51,"Est-ce que vous êtes américaine, Mademoiselle?",Male Speaker,PromptedRecall,Now listen to how you would ask a young woman the same question.,est-ce que vous être américaine mademoiselle
+3,52,Américaine.,Male Speaker,PromptedRecall,"Practice the feminine form of the word, 'American.' Listen and repeat.",américaine
+3,53,Caine.,Male Speaker,DirectRepetition,,caine
+3,54,Caine.,Male Speaker,DirectRepetition,,caine
+3,55,Américaine.,Male Speaker,DirectRepetition,,américaine
+3,56,Américaine.,Male Speaker,DirectRepetition,,américaine
+3,57,"Cain, Caine.",Male Speaker,PromptedRecall,Now practice distinguishing between the masculine and feminine forms. Listen and repeat the two endings.,cain caine
+3,58,"Cain, Caine.",Male Speaker,DirectRepetition,,cain caine
+3,59,"Cain, Caine.",Male Speaker,DirectRepetition,,cain caine
+3,60,"Américain, Américaine.",Male Speaker,DirectRepetition,,américain américaine
+3,61,"Américain, Américaine.",Male Speaker,DirectRepetition,,américain américaine
+3,62,Américain.,Male Speaker,PromptedRecall,"Say, 'American,' to a man.",américain
+3,63,Américaine.,Male Speaker,PromptedRecall,Now to a woman.,américaine
+3,64,Vous êtes.,Female Speaker,PromptedRecall,"Say, 'You are.'",vous être
+3,65,Est-ce que vous êtes américaine?,Male Speaker,PromptedRecall,Ask the young woman if she is American.,est-ce que vous être américaine
+3,66,"Est-ce que vous êtes américaine, Mademoiselle?",Male Speaker,DirectRepetition,,est-ce que vous être américaine mademoiselle
+3,67,Est-ce que vous êtes américain?,Female Speaker,PromptedRecall,Now ask the man the same question.,est-ce que vous être américain
+3,68,"Est-ce que vous êtes américain, Monsieur?",Female Speaker,DirectRepetition,,est-ce que vous être américain monsieur
+3,69,Je suis.,Male Speaker,PromptedRecall,"Now, here's how to say, 'I am.' Listen and repeat.",je suis
+3,70,Suis.,Male Speaker,DirectRepetition,,suis
+3,71,Suis.,Male Speaker,DirectRepetition,Continue repeating.,suis
+3,72,Suis.,Male Speaker,DirectRepetition,,suis
+3,73,Suis.,Male Speaker,DirectRepetition,,suis
+3,74,Je.,Male Speaker,PromptedRecall,Now the word 'I.',je
+3,75,Je.,Male Speaker,DirectRepetition,,je
+3,76,Je suis.,Male Speaker,DirectRepetition,,je suis
+3,77,Je suis.,Male Speaker,DirectRepetition,,je suis
+3,78,Je suis.,Male Speaker,DirectRepetition,,je suis
+3,79,Je suis.,Male Speaker,PromptedRecall,"Say, 'I am.'",je suis
+3,80,Je suis américain.,Male Speaker,DirectRepetition,Now listen to the whole answer and repeat it.,je suis américain
+3,81,Je suis américain.,Male Speaker,DirectRepetition,,je suis américain
+3,82,Je suis.,Male Speaker,PromptedRecall,"Once again, say, 'I am.'",je suis
+3,83,Vous êtes.,Female Speaker,PromptedRecall,"Say, 'You are.'",vous être
+3,84,Je suis américain.,Male Speaker,PromptedRecall,"Now say, 'I am American.'",je suis américain
+3,85,Je suis américaine.,Female Speaker,PromptedRecall,How would you say that if you were a woman?,je suis américaine
+3,86,Je suis américaine.,Female Speaker,DirectRepetition,,je suis américaine
+3,87,Je suis français.,Male Speaker,PromptedRecall,"Guess how the man would say, 'I am French.'",je suis français
+3,88,Suis.,Male Speaker,DirectRepetition,,suis
+3,89,Je suis.,Male Speaker,DirectRepetition,,je suis
+3,90,Je suis français.,Male Speaker,DirectRepetition,,je suis français
+3,91,Je suis française.,Female Speaker,PromptedRecall,And now listen and repeat how the woman would say this.,je suis française
+3,92,française.,Female Speaker,DirectRepetition,,française
+3,93,française.,Female Speaker,DirectRepetition,,française
+3,94,"français, française.",Female Speaker,PromptedRecall,Practice the contrast.,français française
+3,95,"français, française.",Female Speaker,DirectRepetition,,français française
+3,96,Est-ce que vous êtes français?,Female Speaker,PromptedRecall,"Now, ask me if I am French.",est-ce que vous être français
+3,97,Je suis américain.,Male Speaker,PromptedRecall,"How would I answer, 'I am American'?",je suis américain
+3,98,Je suis américain.,Male Speaker,DirectRepetition,,je suis américain
+3,99,Est-ce que vous êtes française?,Male Speaker,PromptedRecall,And now ask the woman if she is French.,est-ce que vous être française
+3,100,"Est-ce que vous êtes française, Mademoiselle?",Male Speaker,DirectRepetition,,est-ce que vous être française mademoiselle
+3,101,Je suis américaine.,Female Speaker,PromptedRecall,"Now, you answer for her, 'I am American.'",je suis américaine
+3,102,Je ne suis pas française.,Male Speaker,PromptedRecall,"And now say for her, 'I am not French.'",je ne suis pas française
+3,103,Je ne suis pas française.,Male Speaker,DirectRepetition,,je ne suis pas française
+3,104,Je ne suis pas français.,Male Speaker,PromptedRecall,"Now, speaking for yourself, tell me that you're not French. If you're a man, you'll say it one way, and if you're a woman, you'll say it another.",je ne suis pas français
+3,105,Je ne suis pas française.,Female Speaker,PromptedRecall,,je ne suis pas française
+3,106,Je ne suis pas français.,Male Speaker,DirectRepetition,,je ne suis pas français
+3,107,Je ne suis pas française.,Female Speaker,DirectRepetition,,je ne suis pas française
+3,108,Et vous?,Female Speaker,PromptedRecall,"Suppose you wanted to ask, 'And you?' Listen and repeat.",et vous
+3,109,Et.,Female Speaker,DirectRepetition,,et
+3,110,Et.,Female Speaker,DirectRepetition,,et
+3,111,Et vous?,Female Speaker,DirectRepetition,,et vous
+3,112,Et.,Female Speaker,PromptedRecall,"Now, what is the word for 'And' in French?",et
+3,113,Et.,Female Speaker,DirectRepetition,,et
+3,114,"Je suis américain, et vous?",Male Speaker,PromptedRecall,"Now say, 'I'm American, and you?'",je suis américain et vous
+3,115,"Je suis américaine, et vous?",Female Speaker,PromptedRecall,,je suis américaine et vous
+3,116,Vous êtes américaine.,Male Speaker,PromptedRecall,"Say to the woman, 'You are American.'",vous être américaine
+3,117,Vous êtes américain.,Female Speaker,PromptedRecall,And to the man.,vous être américain
+3,118,Vous n'êtes pas américaine.,Male Speaker,PromptedRecall,"And now say, 'You're not American.'",vous ne être pas américaine
+3,119,Pas américaine.,Male Speaker,DirectRepetition,,pas américaine
+3,120,Vous n'êtes pas américaine.,Male Speaker,DirectRepetition,,vous ne être pas américaine
+3,121,Vous n'êtes pas américain.,Female Speaker,PromptedRecall,,vous ne être pas américain
+3,122,Vous n'êtes pas américain.,Female Speaker,DirectRepetition,,vous ne être pas américain
+3,123,"Vous n'êtes pas américaine, Madame.",Male Speaker,PromptedRecall,"Again, say, 'You're not American.'",vous ne être pas américaine madame
+3,124,"Vous n'êtes pas américain, Monsieur.",Female Speaker,PromptedRecall,,vous ne être pas américain monsieur
+3,125,Et vous?,Male Speaker,PromptedRecall,"Ask, 'And you?'",et vous
+3,126,Je ne suis pas français.,Male Speaker,PromptedRecall,"Say, 'I'm not French.'",je ne suis pas français
+3,127,Je ne suis pas française.,Male Speaker,PromptedRecall,,je ne suis pas française
+3,128,Mais.,Male Speaker,PromptedRecall,"Now you want to say, 'But I understand French.' Listen and repeat the word 'but.'",mais
+3,129,Mais.,Male Speaker,DirectRepetition,,mais
+3,130,Mais.,Male Speaker,DirectRepetition,,mais
+3,131,Mais.,Male Speaker,PromptedRecall,"Now you say, 'But.'",mais
+3,132,Et.,Male Speaker,PromptedRecall,"And now say, 'And.'",et
+3,133,Et.,Male Speaker,DirectRepetition,,et
+3,134,Mais je comprends.,Male Speaker,PromptedRecall,"Say, 'But I understand.'",mais je comprendre
+3,135,Mais je comprends.,Male Speaker,DirectRepetition,,mais je comprendre
+3,136,Mais je comprends le français.,Male Speaker,PromptedRecall,"Say, 'But I understand French.'",mais je comprendre le français
+3,137,Mais je comprends le français.,Male Speaker,DirectRepetition,,mais je comprendre le français
+3,138,Je comprends un peu le français.,Male Speaker,PromptedRecall,'I understand French a little.',je comprendre un peu le français
+3,139,Et vous?,Male Speaker,PromptedRecall,"Ask, 'And you?'",et vous
+3,140,Est-ce que vous êtes française?,Male Speaker,PromptedRecall,"Ask her, 'Are you French?'",est-ce que vous être française
+3,141,Est-ce que vous êtes français?,Female Speaker,PromptedRecall,"Ask a man the same question, 'Are you French?'",est-ce que vous être français
+3,142,"Non, Madame, je suis américain.",Male Speaker,PromptedRecall,"Answer, 'No, ma'am. I'm American.'",non madame je suis américain
+3,143,Je suis américain.,Male Speaker,DirectRepetition,,je suis américain
+3,144,Est-ce que vous comprenez le français?,Female Speaker,PromptedRecall,"Ask, 'Do you understand French?'",est-ce que vous comprendre le français
+3,145,"Est-ce que vous comprenez le français, Monsieur?",Female Speaker,DirectRepetition,,est-ce que vous comprendre le français monsieur
+3,146,"Oui, un peu.",Male Speaker,PromptedRecall,"'Yes, a little.'",oui un peu
+3,147,Je comprends un peu le français.,Male Speaker,PromptedRecall,"Say, 'I understand French a little.'",je comprendre un peu le français
+3,148,Je comprends un peu le français.,Male Speaker,DirectRepetition,,je comprendre un peu le français
+3,149,Pas très bien.,Male Speaker,PromptedRecall,'Not very well.',pas très bien
+3,150,Pas très bien.,Male Speaker,DirectRepetition,,pas très bien
+3,151,S'il vous plaît.,Male Speaker,PromptedRecall,"Now, let's learn how to say 'please' in French. Listen and repeat.",s'il vous plaît
+3,152,Plaît.,Male Speaker,DirectRepetition,,plaît
+3,153,Plaît.,Male Speaker,DirectRepetition,,plaît
+3,154,Vous plaît.,Male Speaker,DirectRepetition,,vous plaît
+3,155,Vous plaît.,Male Speaker,DirectRepetition,,vous plaît
+3,156,S'il.,Male Speaker,DirectRepetition,,s'il
+3,157,S'il.,Male Speaker,DirectRepetition,,s'il
+3,158,S'il vous plaît.,Male Speaker,DirectRepetition,,s'il vous plaît
+3,159,S'il vous plaît.,Male Speaker,DirectRepetition,,s'il vous plaît
+3,160,S'il vous plaît.,Male Speaker,PromptedRecall,How do you say 'please'?,s'il vous plaît
+3,161,Pardon.,Male Speaker,PromptedRecall,"Say, 'Excuse me.'",pardon
+3,162,Vous êtes.,Male Speaker,PromptedRecall,"Say, 'You are.'",vous être
+3,163,Vous êtes.,Male Speaker,DirectRepetition,,vous être
+3,164,Je suis.,Male Speaker,PromptedRecall,"Say, 'I am.'",je suis
+3,165,Je ne comprends pas.,Male Speaker,PromptedRecall,"Say, 'I don't understand.'",je ne comprendre pas
+3,166,"Non, Mademoiselle.",Male Speaker,PromptedRecall,"'No, miss.'",non mademoiselle
+3,167,Je ne comprends pas le français.,Male Speaker,PromptedRecall,"Say, 'I don't understand French.'",je ne comprendre pas le français
+3,168,Je ne suis pas américain.,Male Speaker,PromptedRecall,"Now say, 'I'm not American.'",je ne suis pas américain
+3,169,Je ne suis pas américain.,Male Speaker,DirectRepetition,,je ne suis pas américain
+3,170,Vous ne comprenez pas l'anglais.,Female Speaker,PromptedRecall,"Say, 'You don't understand English.'",vous ne comprendre pas l' anglais
+3,171,Vous n'êtes pas américaine.,Male Speaker,PromptedRecall,"Say to a woman, 'You're not American.'",vous ne être pas américaine
+3,172,Vous n'êtes pas français.,Female Speaker,PromptedRecall,"Say to a man, 'You're not french'",vous ne être pas français
+3,173,"Je suis américain, et vous?",Male Speaker,PromptedRecall,"Say, 'I'm American, and you?'",je suis américain et vous
+3,174,"Je suis américain, et vous?",Female Speaker,PromptedRecall,,je suis américain et vous
+3,175,Est-ce que vous êtes français?,Female Speaker,PromptedRecall,"Ask a man, 'Are you French?'",est-ce que vous être français
+3,176,français.,Female Speaker,DirectRepetition,,français
+3,177,Est-ce que vous êtes française?,Male Speaker,PromptedRecall,How would you ask a woman the same question?,est-ce que vous être française
+3,178,Comment allez-vous?,Male Speaker,PromptedRecall,"Ask, 'How are you?'",comment aller vous
+3,179,Est-ce que vous allez bien?,Male Speaker,PromptedRecall,"Ask, 'Are you well?'",est-ce que vous aller bien
+3,180,Est-ce que vous allez bien?,Male Speaker,DirectRepetition,,est-ce que vous aller bien
+3,181,"Oui, merci.",Female Speaker,PromptedRecall,"Say, 'Yes, thank you.'",oui merci
+3,182,Je vais bien.,Female Speaker,PromptedRecall,'I am well.',je vais bien
+3,183,Je vais bien.,Female Speaker,DirectRepetition,,je vais bien
+3,184,Est-ce que vous allez bien?,Male Speaker,PromptedRecall,"Ask again, 'Are you well?'",est-ce que vous aller bien
+3,185,Est-ce que vous allez bien?,Male Speaker,DirectRepetition,,est-ce que vous aller bien
+3,186,"Non, je ne vais pas bien.",Female Speaker,PromptedRecall,"How would you say, 'No, I'm not well.'",non je ne vais pas bien
+3,187,"Non, je ne vais pas bien.",Female Speaker,DirectRepetition,,non je ne vais pas bien
+3,188,"S'il vous plaît, Monsieur.",Female Speaker,PromptedRecall,"Say, 'Please, sir.'",s'il vous plaît monsieur
+3,189,"S'il vous plaît, Monsieur.",Female Speaker,DirectRepetition,,s'il vous plaît monsieur
+3,190,Est-ce que vous êtes américain?,Female Speaker,PromptedRecall,"Ask, 'Are you American?'",est-ce que vous être américain
+3,191,Est-ce que vous êtes américain?,Female Speaker,DirectRepetition,,est-ce que vous être américain
+3,192,Mais oui.,Male Speaker,PromptedRecall,"Say, 'But yes'. This is a common expression in French.",mais oui
+3,193,Mais oui.,Male Speaker,DirectRepetition,,mais oui
+3,194,"Mais oui, Mademoiselle.",Male Speaker,DirectRepetition,,mais oui mademoiselle
+3,195,Je ne comprends pas l'anglais.,Female Speaker,PromptedRecall,"Say, 'I don't understand English.'",je ne comprendre pas l' anglais
+3,196,Je ne comprends pas l'anglais.,Female Speaker,DirectRepetition,,je ne comprendre pas l' anglais
+3,197,Je ne comprends pas très bien.,Female Speaker,PromptedRecall,'I don't understand very well.',je ne comprendre pas très bien
+3,198,Pas très bien.,Female Speaker,DirectRepetition,,pas très bien
+3,199,Je ne comprends pas très bien.,Female Speaker,DirectRepetition,,je ne comprendre pas très bien
+3,200,Je comprends un peu le français.,Male Speaker,PromptedRecall,"Say, 'I understand French a little.'",je comprendre un peu le français
+3,201,Je ne comprends pas très bien.,Male Speaker,DirectRepetition,,je ne comprendre pas très bien
+3,202,Mademoiselle! Mademoiselle!,Male Speaker,PromptedRecall,Imagine that you see a young woman you know. She's some distance away so you want to call to her. How would you do it?,mademoiselle mademoiselle
+3,203,"Oui, Monsieur.",Female Speaker,ConversationalExchange,,oui monsieur
+3,204,"Bonjour, Mademoiselle.",Male Speaker,PromptedRecall,Greet her.,bonjour mademoiselle
+3,205,"Bonjour, Monsieur.",Female Speaker,ConversationalExchange,,bonjour monsieur
+3,206,Comment allez-vous?,Male Speaker,PromptedRecall,Ask her how she is.,comment aller vous
+3,207,"Très bien, merci. Et vous, Monsieur?",Female Speaker,ConversationalExchange,,très bien merci et vous monsieur
+3,208,Très bien.,Male Speaker,ConversationalExchange,,très bien
+3,209,"Pardon, Mademoiselle.",Male Speaker,PromptedRecall,"Say, 'Excuse me, miss.'",pardon mademoiselle
+3,210,Oui?,Female Speaker,ConversationalExchange,,oui
+3,211,Est-ce que vous comprenez l'anglais?,Male Speaker,PromptedRecall,Ask her if she understands English.,est-ce que vous comprendre l' anglais
+3,212,Est-ce que vous comprenez l'anglais?,Male Speaker,DirectRepetition,,est-ce que vous comprendre l' anglais
+3,213,"Non, Monsieur.",Female Speaker,ConversationalExchange,,non monsieur
+3,214,Je ne comprends pas l'anglais.,Female Speaker,PromptedRecall,How did she tell you that she doesn't understand English?,je ne comprendre pas l' anglais
+3,215,Je ne comprends pas l'anglais.,Female Speaker,DirectRepetition,,je ne comprendre pas l' anglais
+3,216,"Oui, Mademoiselle. Je suis américain.",Male Speaker,PromptedRecall,Now she's going to ask you a question which you are to answer.,oui mademoiselle je suis américain
+3,217,Mais je comprends le français.,Male Speaker,PromptedRecall,"And now say, 'But I understand French.'",mais je comprendre le français
+3,218,Mais je comprends le français.,Male Speaker,DirectRepetition,,mais je comprendre le français
+3,219,Un peu.,Male Speaker,PromptedRecall,"You'd better add, 'A little.'",un peu
+3,220,Je comprends un peu.,Male Speaker,PromptedRecall,"Say, 'I understand a little.'",je comprendre un peu
+3,221,Je comprends un peu le français.,Male Speaker,PromptedRecall,"Say, 'I understand French, a little.'",je comprendre un peu le français
+3,222,Pas très bien.,Male Speaker,PromptedRecall,"Maybe, you'd better say, 'Not very well.'",pas très bien
+3,223,Pas très bien.,Male Speaker,DirectRepetition,,pas très bien
+3,224,"Merci, Mademoiselle.",Male Speaker,ConversationalExchange,Listen to her reaction and respond to it.,merci mademoiselle
+3,225,Merci bien.,Male Speaker,DirectRepetition,,merci bien
+3,226,Pardon? Je ne comprends pas.,Male Speaker,PromptedRecall,"Now, she'll say something to you. If you don't understand, tell her so.",pardon je ne comprendre pas
+3,227,"S’il vous plaît, Mademoiselle.",Male Speaker,PromptedRecall,"Now say, 'Please, miss.'",s'il vous plaît mademoiselle
+3,228,"S’il vous plaît, Mademoiselle.",Male Speaker,DirectRepetition,,s'il vous plaît mademoiselle
+3,229,Oui?,Female Speaker,ConversationalExchange,,oui
+3,230,"Au revoir, Monsieur.",Female Speaker,ConversationalExchange,,au revoir monsieur
+3,231,"Au revoir, Mademoiselle. Au revoir.",Male Speaker,ConversationalExchange,Respond to her.,au revoir mademoiselle au revoir

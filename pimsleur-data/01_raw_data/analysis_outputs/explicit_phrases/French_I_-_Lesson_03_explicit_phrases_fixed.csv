@@ -1,0 +1,59 @@
+lesson_number,position_in_lesson,phrase,teaching_cue,context,speaker_response
+3,1,Le français,Tell me the name of the French language in French.,vocabulary_introduction,Male Speaker
+3,2,Je comprends,"Say, ""I understand.""",vocabulary_introduction,Male Speaker
+3,3,Je comprends le français,"Say, ""I understand French.""",vocabulary_introduction,Male Speaker
+3,4,Un peu,"Now, say, ""A little.""",vocabulary_introduction,Male Speaker
+3,5,Je comprends un peu,"Say, ""I understand a little.""",vocabulary_introduction,Male Speaker
+3,6,Je comprends un peu le français,"Say, ""I understand French a little.""",vocabulary_introduction,Male Speaker
+3,7,Je ne comprends pas,Suppose someone said something to you in French and you didn't understand what was being said. How would you tell the person that you don't understand?,negation,Male Speaker
+3,8,Pardon,"You might add, ""Pardon me.""",vocabulary_introduction,Male Speaker
+3,9,"Très bien, merci","Now answer, ""Fine, thanks.""",vocabulary_introduction,Male Speaker
+3,10,"Merci, Madame","Say, ""Thank you, madam.""",vocabulary_introduction,Male Speaker
+3,11,Je vais bien,"""I am well.""",vocabulary_introduction,Male Speaker
+3,12,Bonjour,"How do you say, ""Hello"" in French?",vocabulary_introduction,Male Speaker
+3,13,"Bonjour, Madame","Say, ""Good morning, ma'am.""",vocabulary_introduction,Male Speaker
+3,14,Au revoir,"And how do you say, ""Goodbye?""",vocabulary_introduction,Male Speaker
+3,15,"Au revoir, Madame","Say, ""Goodbye, ma'am.""",vocabulary_introduction,Male Speaker
+3,16,Pas très bien,"How would I answer, ""Not very well?""",vocabulary_introduction,Male Speaker
+3,17,Je ne comprends pas le français,How would I tell you that I don't understand French?,negation,Male Speaker
+3,18,Est-ce que vous comprenez le français?,"""Do you understand French?""",question,Female Speaker
+3,19,Est-ce que vous êtes américain?,"Now, ask me if I'm American.",question,Female Speaker
+3,20,Américaine,"Practice the feminine form of the word, ""American."" Listen and repeat.",vocabulary_introduction,Male Speaker
+3,21,"Cain, Caine",Now practice distinguishing between the masculine and feminine forms. Listen and repeat the two endings.,pronunciation_practice,Male Speaker
+3,22,Américain,"Say, ""American,"" to a man.",vocabulary_introduction,Male Speaker
+3,23,Vous êtes,"Say, ""You are.""",vocabulary_introduction,Female Speaker
+3,24,Est-ce que vous êtes américaine?,Ask the young woman if she is American.,question,Male Speaker
+3,25,Je suis,"Now, here's how to say, ""I am."" Listen and repeat.",vocabulary_introduction,Male Speaker
+3,26,Je suis américain,Now listen to the whole answer and repeat it.,vocabulary_introduction,Male Speaker
+3,27,Je suis française,How would you say that if you were a woman?,vocabulary_introduction,Female Speaker
+3,28,Je suis français,"Guess how the man would say, ""I am French.""",vocabulary_introduction,Male Speaker
+3,29,Et vous?,"Suppose you wanted to ask, ""And you?"" Listen and repeat.",vocabulary_introduction,Female Speaker
+3,30,"Je suis américain, et vous?","Now, say, ""I'm American, and you?""",vocabulary_introduction,Male Speaker
+3,31,Vous êtes américaine,"Say to the woman, ""You are American.""",vocabulary_introduction,Male Speaker
+3,32,Vous n'êtes pas américaine,"And now say, ""You're not American.""",negation,Male Speaker
+3,33,Mais,"Now you say, ""But.""",vocabulary_introduction,Male Speaker
+3,34,Mais je comprends,"Say, ""But I understand.""",vocabulary_introduction,Male Speaker
+3,35,Mais je comprends le français,"Say, ""But I understand French.""",vocabulary_introduction,Male Speaker
+3,36,S'il vous plaît,"Now, let's learn how to say ""please"" in French. Listen and repeat.",vocabulary_introduction,Male Speaker
+3,37,Pardon,"Say, ""Excuse me.""",vocabulary_introduction,Male Speaker
+3,38,Je ne comprends pas,"Say, ""I don't understand.""",negation,Male Speaker
+3,39,"Non, Mademoiselle","""No, miss.""",vocabulary_introduction,Male Speaker
+3,40,Je ne comprends pas le français,"Say, ""I don't understand French.""",negation,Male Speaker
+3,41,Je ne suis pas américain,"Now say, ""I'm not American.""",negation,Male Speaker
+3,42,Vous ne comprenez pas l'anglais,"Say, ""You don't understand English.""",negation,Female Speaker
+3,43,Vous n'êtes pas américaine,"Say to a woman, ""You're not American.""",negation,Male Speaker
+3,44,Vous n'êtes pas français,"Say to a man, ""You're not french""",negation,Female Speaker
+3,45,Est-ce que vous êtes français?,"Ask a man, ""Are you French?""",question,Female Speaker
+3,46,Est-ce que vous êtes française?,How would you ask a woman the same question?,question,Male Speaker
+3,47,Est-ce que vous allez bien?,"Ask, ""Are you well?""",question,Male Speaker
+3,48,"Oui, merci","Say, ""Yes, thank you.""",vocabulary_introduction,Female Speaker
+3,49,"Non, je ne vais pas bien","How would you say, ""No, I'm not well.""",negation,Female Speaker
+3,50,"S'il vous plaît, Monsieur","Say, ""Please sir.""",vocabulary_introduction,Female Speaker
+3,51,Mais oui,"Say, ""But yes"". This is a common expression in French.",vocabulary_introduction,Male Speaker
+3,52,Je ne comprends pas l'anglais,"Say, ""I don't understand English.""",negation,Female Speaker
+3,53,Je ne comprends pas très bien,"""I don't understand very well.""",negation,Female Speaker
+3,54,Mademoiselle! Mademoiselle!,Imagine that you see a young woman you know. She's some distance away so you want to call to her. How would you do it?,vocabulary_introduction,Male Speaker
+3,55,"Pardon, Mademoiselle","Say, ""Excuse me, miss.""",vocabulary_introduction,Male Speaker
+3,56,Est-ce que vous comprenez l'anglais?,Ask her if she understands English.,question,Male Speaker
+3,57,Mais je comprends le français,"And now say, ""But I understand French.""",vocabulary_introduction,Male Speaker
+3,58,"S’il vous plaît, Mademoiselle","Now say, ""Please, miss.""",vocabulary_introduction,Male Speaker

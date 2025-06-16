@@ -1,0 +1,76 @@
+phrase,teaching_cue,context,speaker_response
+Bonjour.,"Do you remember how to say ""hello"" in French?",vocabulary_introduction,Male Speaker
+Est-ce que vous comprenez l'anglais?,"Ask, ""Do you understand English?""",question,Male Speaker
+Je comprends un peu.,"Answer, ""I understand a little.""",vocabulary_introduction,Female Speaker
+Et je parle un peu.,"""And I speak a little.""",vocabulary_introduction,Female Speaker
+Et vous?,"""And you?""",vocabulary_introduction,Female Speaker
+Est-ce que vous comprenez le français?,"""Do you understand French?""",question,Female Speaker
+"Oui, je comprends bien le français.","Say, ""Yes, I understand French well.""",vocabulary_introduction,Male Speaker
+Mais.,"""But.""",vocabulary_introduction,Male Speaker
+Je ne parle pas bien.,"""I don't speak well.""",negation,Male Speaker
+Comment allez-vous?,How do you ask someone how she's feeling?,question,Male Speaker
+Moi? Très bien.,Listen to the answer and repeat after the speaker.,vocabulary_introduction,Female Speaker
+Et vous?,"Ask, ""And you?""",vocabulary_introduction,Female Speaker
+Moi? Pas très bien.,"Now you say, ""Me? Not very well.""",vocabulary_introduction,Male Speaker
+La rue Saint-Jacques.,Do you remember how to say Saint-Jacques Street in French?,vocabulary_introduction,Male Speaker
+Le boulevard Saint-Michel.,"And now say, ""Saint-Michel Boulevard.""",vocabulary_introduction,Male Speaker
+Où est le boulevard Saint-Michel?,Ask me where the boulevard Saint-Michel is.,question,Male Speaker
+Le boulevard Saint-Michel est ici.,"Say, ""Saint Michael Boulevard is here.""",vocabulary_introduction,Female Speaker
+S'il vous plaît.,"Say, ""Please.""",vocabulary_introduction,Male Speaker
+"Où est la rue Saint-Jacques, s'il vous plaît?",Ask me where Saint-Jacques Street is.,question,Male Speaker
+C'est ici.,"Say, ""It's here.""",vocabulary_introduction,Female Speaker
+La rue Saint-Jacques est ici.,And now say Saint-Jacques Street is here.,vocabulary_introduction,Female Speaker
+Est-ce que c'est ici?,Ask me if it's here.,question,Male Speaker
+"Non, c'est là-bas.","Answer, ""No, it's down there.""",vocabulary_introduction,Female Speaker
+Ce n'est pas là-bas.,"Say, ""It's not down there.""",negation,Male Speaker
+Ce n'est pas ici.,"Now say, ""It's not here.""",negation,Female Speaker
+La rue Saint-Jacques n'est pas ici.,"Say, ""Saint-Jacques Street is not here.""",negation,Female Speaker
+Mais le boulevard Saint-Michel est ici.,"Say, ""But the boulevard Saint-Michel is here.""",vocabulary_introduction,Female Speaker
+Je ne sais pas.,"Listen to the answer, ""I don't know.""",vocabulary_introduction,Female Speaker
+Je sais.,"How would you say, ""I know?""",vocabulary_introduction,Male Speaker
+"Moi, je sais.","Say, ""Me, I know.""",vocabulary_introduction,Male Speaker
+C'est là-bas.,"Say, ""It's down there.""",vocabulary_introduction,Male Speaker
+Vous savez.,"Here's ""You know."" Listen and repeat.",vocabulary_introduction,Male Speaker
+Je sais.,"And how do you say, ""I know""?",vocabulary_introduction,Female Speaker
+Est-ce que vous savez?,"Try to ask, ""Do you know?""",question,Male Speaker
+Savez-vous?,"Here's another way of asking, ""Do you know?"" Listen and repeat.",question,Male Speaker
+"Non, je ne sais pas.","Answer, ""No, I don't know.""",vocabulary_introduction,Female Speaker
+Je veux.,"Say, ""I want.""",vocabulary_introduction,Male Speaker
+Vous voulez.,"Here's how to say, ""You want.""",vocabulary_introduction,Female Speaker
+Je ne veux pas.,"Now try to say, ""I don't want.""",negation,Male Speaker
+"Je ne veux pas, moi.","And now say the same thing with ""moi"" at the end.",negation,Male Speaker
+Est-ce que vous voulez?,"How would you ask, ""Do you want?""",question,Male Speaker
+Vous voudriez.,Listen and repeat.,vocabulary_introduction,Female Speaker
+Vous voudriez manger quelque chose.,"Here's how to say, ""You would like to eat something.""",vocabulary_introduction,Female Speaker
+Manger.,"Listen and repeat the word ""to eat.""",vocabulary_introduction,Male Speaker
+Quelque chose.,"Listen and repeat how the French say ""something.""",vocabulary_introduction,Female Speaker
+Est-ce que vous voudriez manger quelque chose?,"Now try to ask, ""Would you like to eat something?""",question,Male Speaker
+Je voudrais.,"Listen and repeat, ""I would like.""",vocabulary_introduction,Female Speaker
+"Oui, je voudrais manger.","Say, ""Yes, I would like to eat.""",vocabulary_introduction,Female Speaker
+"Oui, je voudrais manger quelque chose.","Now say, ""Yes, I would like to eat something.""",vocabulary_introduction,Female Speaker
+Je voudrais boire quelque chose.,"Here's how to say, ""I would like to drink something."" Just listen.",vocabulary_introduction,Female Speaker
+Boire.,"Listen and repeat the word, ""to drink.""",vocabulary_introduction,Male Speaker
+Est-ce que vous voudriez boire quelque chose?,"Now try to ask, ""Would you like to drink something?""",question,Male Speaker
+"Non, merci.","Say, ""No, thank you.""",vocabulary_introduction,Female Speaker
+Mais je voudrais manger quelque chose.,"How does she add, ""But I would like to eat something""?",vocabulary_introduction,Female Speaker
+"Bonjour, Monsieur.",Do you remember how to greet a man in French?,vocabulary_introduction,Female Speaker
+"Bonjour, Madame.",And how would you greet a woman?,vocabulary_introduction,Male Speaker
+"Bonjour, Mademoiselle.",And how would you greet a woman?,vocabulary_introduction,Male Speaker
+Comment allez-vous?,"Ask, ""How are you?""",question,Female Speaker
+"Très bien, merci.","Answer, ""Fine, thanks.""",vocabulary_introduction,Male Speaker
+Je vais bien.,"""I am well.""",vocabulary_introduction,Male Speaker
+Est-ce que vous allez bien?,"""Are you well?""",question,Male Speaker
+Moi?,"Ask, ""Me?""",vocabulary_introduction,Female Speaker
+"Non, je ne vais pas très bien.","""No, I'm not very well.""",vocabulary_introduction,Female Speaker
+Pardon.,"Say, ""Pardon me.""",vocabulary_introduction,Male Speaker
+"Ce n'est pas ici, c'est là-bas.","How does she tell you, ""It's not here, it's down there""?",vocabulary_introduction,Female Speaker
+"Je ne sais pas, moi.","How does she say, ""I don't know""?",vocabulary_introduction,Female Speaker
+"Ah oui, je sais.","How does she say, ""Ah, yes, I know""?",vocabulary_introduction,Female Speaker
+Où?,"Ask her, ""Where?""",question,Male Speaker
+Mais je ne sais pas.,"How does she say, ""But I don't know""?",vocabulary_introduction,Female Speaker
+Oh non.,"How does she say, ""Oh, no""?",vocabulary_introduction,Female Speaker
+"Non, merci, Monsieur.","How do she say, ""No, thank you""?",vocabulary_introduction,Female Speaker
+"Ah, très bien.","Say, ""Ah, very well.""",vocabulary_introduction,Male Speaker
+"Mais moi, je ne veux pas manger.","He says emphatically, ""But me, I don't want to eat."" Listen and repeat.",negation,Male Speaker
+"Au revoir, Monsieur.",How does she take leave of you?,vocabulary_introduction,Female Speaker
+Au revoir.,How does she take leave of you?,vocabulary_introduction,Female Speaker

@@ -1,0 +1,279 @@
+phrase,normalized_form,first_lesson,first_position,total_occurrences,num_lessons,lessons,lifecycle_stage,template_pattern,teaching_contexts
+Je comprends un peu le français.,je comprends un peu le français,1,3,45,4,"1,2,3,4",consolidation,je + [VERB],vocabulary_introduction|phrase_construction|affirmation
+Est-ce que vous êtes américain?,est-ce que vous êtes américain,1,4,32,4,"1,2,3,4",consolidation,est-ce que + [PRONOUN] + [VERB],question
+Je comprends le français.,je comprends le français,1,80,27,4,"1,2,3,4",consolidation,je + [VERB],vocabulary_introduction|phrase_construction|question|affirmation
+Est-ce que vous comprenez le français?,est-ce que vous comprenez le français,1,90,27,5,"1,2,3,4,5",consolidation,est-ce que + [PRONOUN] + [VERB],question
+Je ne comprends pas.,je ne comprends pas,1,64,24,4,"1,2,3,4",consolidation,je + [VERB],negation
+Comment allez-vous?,comment allez-vous,2,107,24,4,"2,3,4,5",consolidation,comment + [VERB]-[PRONOUN],question
+Est-ce que vous comprenez l'anglais?,est-ce que vous comprenez l'anglais,1,38,23,5,"1,2,3,4,5",consolidation,est-ce que + [PRONOUN] + [VERB],question
+Un peu.,un peu,1,91,22,4,"1,2,3,4",consolidation,,vocabulary_introduction|response
+Pas très bien.,pas très bien,2,200,20,3,"2,3,4",intensive_practice,,vocabulary_introduction|negation|response
+Je ne comprends pas l'anglais.,je ne comprends pas l'anglais,1,71,19,4,"1,2,3,4",consolidation,je + [VERB],negation
+Au revoir.,au revoir,2,141,19,4,"2,3,4,5",consolidation,,vocabulary_introduction|farewell
+Pardon.,pardon,1,6,18,4,"1,2,3,5",consolidation,,vocabulary_introduction
+"Non, Monsieur.",non monsieur,1,40,17,4,"1,2,3,4",consolidation,,vocabulary_introduction|phrase_construction|response
+Bonjour.,bonjour,2,82,17,4,"2,3,4,5",consolidation,,vocabulary_introduction|greeting
+"Très bien, merci.",très bien merci,2,116,16,4,"2,3,4,5",consolidation,,vocabulary_introduction|response
+"Bonjour, Monsieur.",bonjour monsieur,2,98,15,4,"2,3,4,5",consolidation,,vocabulary_introduction|greeting
+"Oui, Mademoiselle.",oui mademoiselle,1,5,14,3,"1,2,4",consolidation,,vocabulary_introduction|phrase_construction|response
+Est-ce que vous comprenez?,est-ce que vous comprenez,1,35,14,2,"1,2",intensive_practice,est-ce que + [PRONOUN] + [VERB],question
+Je ne comprends pas le français.,je ne comprends pas le français,1,87,14,4,"1,2,3,4",consolidation,je + [VERB],negation
+Vous comprenez.,vous comprenez,1,25,13,3,"1,2,4",consolidation,vous + [VERB],vocabulary_introduction|question
+Je comprends un peu.,je comprends un peu,1,95,12,5,"1,2,3,4,5",consolidation,je + [VERB],vocabulary_introduction|phrase_construction|affirmation
+Je suis américain.,je suis américain,3,80,12,2,"3,4",intensive_practice,je + [VERB],vocabulary_introduction|affirmation
+Je comprends.,je comprends,1,53,11,3,"1,2,3",intensive_practice,je + [VERB],vocabulary_introduction
+"Bonjour, Mademoiselle.",bonjour mademoiselle,2,91,11,4,"2,3,4,5",consolidation,,vocabulary_introduction|greeting
+"Bonjour, Madame.",bonjour madame,2,96,11,3,"2,3,5",consolidation,,vocabulary_introduction
+Je vais bien.,je vais bien,2,135,11,3,"2,3,5",consolidation,je + [VERB],vocabulary_introduction
+Je suis.,je suis,3,69,11,2,"3,4",intensive_practice,je + [VERB],vocabulary_introduction|affirmation
+L'anglais.,l'anglais,1,11,10,2,"1,2",intensive_practice,,vocabulary_introduction
+Vous êtes.,vous êtes,1,108,10,3,"1,2,3",intensive_practice,vous + [VERB],vocabulary_introduction
+Le français.,le français,1,76,9,3,"1,2,3",intensive_practice,,vocabulary_introduction
+"Au revoir, Madame.",au revoir madame,2,171,9,3,"2,3,4",intensive_practice,,vocabulary_introduction|farewell
+Et vous?,et vous,3,108,9,3,"3,4,5",intensive_practice,,vocabulary_introduction|question
+S'il vous plaît.,s'il vous plaît,3,151,9,3,"3,4,5",intensive_practice,vous + [VERB],vocabulary_introduction|politeness
+C'est là-bas.,c'est là-bas,4,179,9,2,"4,5",intensive_practice,,vocabulary_introduction|affirmation
+Je comprends un peu l'anglais.,je comprends un peu l'anglais,2,43,8,2,"2,4",intensive_practice,je + [VERB],vocabulary_introduction|affirmation
+Comment.,comment,2,99,8,1,2,introduction,,vocabulary_introduction
+Mais.,mais,3,128,8,3,"3,4,5",intensive_practice,,vocabulary_introduction|conjunction
+Est-ce que c'est ici?,est-ce que c'est ici,4,172,8,2,"4,5",intensive_practice,,question
+"Pardon, Mademoiselle?",pardon mademoiselle,1,133,7,3,"1,2,3",intensive_practice,,vocabulary_introduction|phrase_construction
+Je ne comprends pas très bien.,je ne comprends pas très bien,2,209,7,2,"2,3",intensive_practice,je + [VERB],negation
+Je ne suis pas française.,je ne suis pas française,3,102,7,2,"3,4",intensive_practice,je + [VERB],negation
+Vous n'êtes pas américaine.,vous n'êtes pas américaine,3,118,7,2,"3,4",intensive_practice,vous + [VERB],negation
+Je ne parle pas bien.,je ne parle pas bien,4,77,7,2,"4,5",intensive_practice,je + [VERB],negation
+Américain.,américain,1,103,6,2,"1,3",intensive_practice,,vocabulary_introduction
+Vous êtes américain.,vous êtes américain,1,110,6,3,"1,2,3",intensive_practice,vous + [VERB],vocabulary_introduction|phrase_construction
+Mademoiselle.,mademoiselle,1,119,6,2,"1,2",intensive_practice,,vocabulary_introduction
+Vous allez.,vous allez,2,103,6,2,"2,3",intensive_practice,vous + [VERB],vocabulary_introduction
+Merci.,merci,2,117,6,1,2,introduction,,vocabulary_introduction
+"Je vais bien, merci.",je vais bien merci,2,153,6,2,"2,4",intensive_practice,je + [VERB],vocabulary_introduction|response
+"Au revoir, Monsieur.",au revoir monsieur,2,173,6,3,"2,3,5",active,,vocabulary_introduction
+Très bien.,très bien,2,182,6,3,"2,3,4",intensive_practice,,vocabulary_introduction
+Je suis américaine.,je suis américaine,3,85,6,2,"3,4",intensive_practice,je + [VERB],
+Est-ce que vous êtes française?,est-ce que vous êtes française,3,99,6,2,"3,4",intensive_practice,est-ce que + [PRONOUN] + [VERB],question
+Je ne suis pas français.,je ne suis pas français,3,104,6,2,"3,4",intensive_practice,je + [VERB],negation
+Et.,et,3,109,6,1,3,introduction,,
+Mais je comprends le français.,mais je comprends le français,3,136,6,1,3,introduction,je + [VERB],vocabulary_introduction
+Je ne suis pas américain.,je ne suis pas américain,3,168,6,2,"3,4",intensive_practice,je + [VERB],negation
+Est-ce que vous allez bien?,est-ce que vous allez bien,3,179,6,2,"3,5",intensive_practice,est-ce que + [PRONOUN] + [VERB],question
+Mais oui.,mais oui,3,192,6,2,"3,4",intensive_practice,,vocabulary_introduction|emphasis
+La rue.,la rue,4,114,6,1,4,introduction,,vocabulary_introduction
+Est.,est,4,130,6,1,4,introduction,,vocabulary_introduction
+Où est la rue Saint-Jacques?,où est la rue saint-jacques,4,137,6,1,4,introduction,où est + [NOUN],question
+Où est le boulevard Saint-Michel?,où est le boulevard saint-michel,4,148,6,2,"4,5",intensive_practice,où est + [NOUN],question
+C'est.,c'est,4,154,6,1,4,introduction,,vocabulary_introduction
+Monsieur.,monsieur,1,43,5,2,"1,2",intensive_practice,,vocabulary_introduction
+Oui.,oui,1,116,5,2,"1,3",intensive_practice,,vocabulary_introduction
+"Très bien, Mademoiselle.",très bien mademoiselle,2,134,5,1,2,introduction,,vocabulary_introduction
+Vous comprenez très bien.,vous comprenez très bien,2,227,5,2,"2,4",intensive_practice,vous + [VERB],affirmation
+"Au revoir, Mademoiselle.",au revoir mademoiselle,2,230,5,2,"2,4",intensive_practice,,farewell
+Américaine.,américaine,3,52,5,1,3,introduction,,vocabulary_introduction
+"Américain, Américaine.",américain américaine,3,60,5,2,"3,4",intensive_practice,,grammar
+Suis.,suis,3,70,5,1,3,introduction,,
+Est-ce que vous êtes français?,est-ce que vous êtes français,3,96,5,2,"3,4",intensive_practice,est-ce que + [PRONOUN] + [VERB],question
+Mais si.,mais si,4,34,5,1,4,introduction,,emphasis
+Je parle un peu.,je parle un peu,4,73,5,1,4,introduction,je + [VERB],affirmation
+La rue Saint-Jacques.,la rue saint-jacques,4,122,5,2,"4,5",intensive_practice,,vocabulary_introduction
+Le boulevard.,le boulevard,4,140,5,1,4,introduction,,vocabulary_introduction
+Ici.,ici,4,151,5,1,4,introduction,,vocabulary_introduction
+Ce n'est pas ici.,ce n'est pas ici,4,178,5,2,"4,5",intensive_practice,,negation
+Comprenez.,comprenez,1,19,4,1,1,introduction,,vocabulary_introduction
+Je comprends l'anglais.,je comprends l'anglais,1,55,4,2,"1,2",active,je + [VERB],vocabulary_introduction|phrase_construction
+Bon.,bon,2,83,4,1,2,introduction,,vocabulary_introduction
+Jour.,jour,2,86,4,1,2,introduction,,vocabulary_introduction
+Madame.,madame,2,93,4,1,2,introduction,,vocabulary_introduction
+Bien.,bien,2,120,4,1,2,introduction,,vocabulary_introduction
+Très.,très,2,123,4,1,2,introduction,,vocabulary_introduction
+"Comment allez-vous, Monsieur?",comment allez-vous monsieur,2,132,4,2,"2,3",active,comment + [VERB]-[PRONOUN],
+"Ah, vous comprenez le français?",ah vous comprenez le français,2,179,4,2,"2,3",active,vous + [VERB],question
+"Est-ce que vous êtes américaine, Mademoiselle?",est-ce que vous êtes américaine mademoiselle,3,51,4,2,"3,4",active,est-ce que + [PRONOUN] + [VERB],question
+"Cain, Caine.",cain caine,3,57,4,1,3,introduction,,pronunciation_practice
+Est-ce que vous êtes américaine?,est-ce que vous êtes américaine,3,65,4,2,"3,4",active,est-ce que + [PRONOUN] + [VERB],question
+Je suis française.,je suis française,3,91,4,2,"3,4",active,je + [VERB],vocabulary_introduction
+"Je suis américain, et vous?",je suis américain et vous,3,114,4,1,3,introduction,je + [VERB],vocabulary_introduction
+Vous n'êtes pas français.,vous n'êtes pas français,3,172,4,2,"3,4",active,vous + [VERB],negation
+"Oui, Mademoiselle. Je suis américain.",oui mademoiselle je suis américain,3,216,4,2,"3,4",active,je + [VERB],response
+Vous parlez.,vous parlez,4,62,4,1,4,introduction,vous + [VERB],vocabulary_introduction
+Et je parle un peu.,et je parle un peu,4,84,4,2,"4,5",active,je + [VERB],vocabulary_introduction|affirmation
+Jacques.,jacques,4,99,4,1,4,introduction,,vocabulary_introduction
+Saint.,saint,4,102,4,1,4,introduction,,vocabulary_introduction
+Saint-Jacques.,saint-jacques,4,105,4,1,4,introduction,,vocabulary_introduction
+Michel.,michel,4,108,4,1,4,introduction,,vocabulary_introduction
+Saint-Michel.,saint-michel,4,111,4,1,4,introduction,,vocabulary_introduction
+Rue.,rue,4,115,4,1,4,introduction,,vocabulary_introduction
+Le boulevard Saint-Michel.,le boulevard saint-michel,4,146,4,2,"4,5",active,,vocabulary_introduction
+C'est ici.,c'est ici,4,164,4,2,"4,5",active,,vocabulary_introduction|affirmation
+"Où est la rue Saint-Jacques, s'il vous plaît?",où est la rue saint-jacques s'il vous plaît,4,169,4,2,"4,5",active,où est + [NOUN],question
+Le boulevard Saint-Michel est ici.,le boulevard saint-michel est ici,4,189,4,2,"4,5",active,,vocabulary_introduction|affirmation
+La rue Saint-Jacques n'est pas là-bas.,la rue saint-jacques n'est pas là-bas,4,216,4,1,4,introduction,,negation
+Le boulevard Saint-Michel est là-bas.,le boulevard saint-michel est là-bas,4,218,4,1,4,introduction,,affirmation
+Mais la rue Saint-Jacques est ici.,mais la rue saint-jacques est ici,4,220,4,1,4,introduction,,affirmation
+"Non, Monsieur. Je ne comprends pas l'anglais.",non monsieur je ne comprends pas l'anglais,1,2,3,2,"1,2",active,je + [VERB],
+Vous comprenez l'anglais.,vous comprenez l'anglais,1,31,3,2,"1,2",active,vous + [VERB],phrase_construction
+Est-ce que.,est-ce que,1,32,3,1,1,introduction,,question_formation
+Non.,non,1,39,3,1,1,introduction,,vocabulary_introduction
+Je.,je,1,48,3,2,"1,3",active,,
+"Non, je ne comprends pas.",non je ne comprends pas,1,74,3,1,1,introduction,je + [VERB],negation
+français.,français,1,77,3,2,"1,3",active,,
+Vous comprenez le français?,vous comprenez le français,1,88,3,2,"1,2",active,vous + [VERB],question
+Moiselle.,moiselle,1,118,3,2,"1,2",active,,
+Moi.,moi,2,58,3,2,"2,5",maintenance,,vocabulary_introduction
+"Oui, vous êtes américain.",oui vous êtes américain,2,73,3,1,2,introduction,vous + [VERB],vocabulary_introduction
+"Pardon, Madame.",pardon madame,2,174,3,1,2,introduction,,vocabulary_introduction
+"Comment allez-vous, Madame?",comment allez-vous madame,2,184,3,1,2,introduction,comment + [VERB]-[PRONOUN],question
+"Très bien, Monsieur, merci.",très bien monsieur merci,2,186,3,1,2,introduction,,vocabulary_introduction
+"Je ne comprends pas, Madame.",je ne comprends pas madame,2,190,3,1,2,introduction,je + [VERB],negation
+"Merci, Mademoiselle.",merci mademoiselle,2,228,3,2,"2,3",active,,
+"Merci, Madame.",merci madame,3,28,3,1,3,introduction,,vocabulary_introduction
+Je suis français.,je suis français,3,87,3,1,3,introduction,je + [VERB],vocabulary_introduction
+Mais je comprends.,mais je comprends,3,134,3,1,3,introduction,je + [VERB],vocabulary_introduction
+Vous ne comprenez pas l'anglais.,vous ne comprenez pas l'anglais,3,170,3,2,"3,4",active,vous + [VERB],negation
+"Non, je ne vais pas bien.",non je ne vais pas bien,3,186,3,1,3,introduction,je + [VERB],negation
+"S'il vous plaît, Monsieur.",s'il vous plaît monsieur,3,188,3,1,3,introduction,vous + [VERB],vocabulary_introduction
+"S’il vous plaît, Mademoiselle.",sil vous plaît mademoiselle,3,227,3,1,3,introduction,vous + [VERB],vocabulary_introduction
+Vous parlez bien.,vous parlez bien,4,68,3,1,4,introduction,vous + [VERB],affirmation
+Je parle.,je parle,4,70,3,1,4,introduction,je + [VERB],affirmation
+La rue Saint-Michel.,la rue saint-michel,4,125,3,1,4,introduction,,vocabulary_introduction
+Ou.,ou,4,127,3,1,4,introduction,,
+Où est...,où est,4,133,3,1,4,introduction,,question
+Où est la rue?,où est la rue,4,135,3,1,4,introduction,où est + [NOUN],question
+Boulevard.,boulevard,4,141,3,1,4,introduction,,vocabulary_introduction
+Ce.,ce,4,159,3,1,4,introduction,,vocabulary_introduction
+"C'est ici, Monsieur.",c'est ici monsieur,4,170,3,1,4,introduction,,affirmation
+"Non, ce n'est pas ici.",non ce n'est pas ici,4,176,3,1,4,introduction,,negation
+Là-bas.,là-bas,4,180,3,1,4,introduction,,vocabulary_introduction
+Ce n'est pas là-bas.,ce n'est pas là-bas,4,185,3,2,"4,5",active,,negation
+"Très bien, merci. Et vous?",très bien merci et vous,4,201,3,1,4,introduction,,response
+"C'est ici, Mademoiselle.",c'est ici mademoiselle,4,213,3,1,4,introduction,,affirmation
+"Je ne comprends pas, Mademoiselle.",je ne comprends pas mademoiselle,4,222,3,1,4,introduction,je + [VERB],negation
+Ça ne fait rien.,ça ne fait rien,4,223,3,1,4,introduction,,
+"Pardon, est-ce que vous comprenez l'anglais?",pardon est-ce que vous comprenez l'anglais,1,1,2,1,1,introduction,est-ce que + [PRONOUN] + [VERB],
+anglais.,anglais,1,13,2,1,1,introduction,,pronunciation_practice
+Com.,com,1,22,2,1,1,introduction,,
+Comprends.,comprends,1,49,2,1,1,introduction,,
+"Est-ce que vous comprenez l'anglais, Monsieur?",est-ce que vous comprenez l'anglais monsieur,1,144,2,1,1,introduction,est-ce que + [PRONOUN] + [VERB],
+"Oui, Mademoiselle. Je comprends l'anglais.",oui mademoiselle je comprends l'anglais,1,145,2,1,1,introduction,je + [VERB],
+Prends le.,prends le,2,16,2,1,2,introduction,,
+Peu l'anglais.,peu l'anglais,2,44,2,1,2,introduction,,
+Selle.,selle,2,56,2,1,2,introduction,,
+Mad.,mad,2,62,2,1,2,introduction,,
+Voir.,voir,2,142,2,1,2,introduction,,
+"Non, Madame.",non madame,2,163,2,1,2,introduction,,vocabulary_introduction
+"Oui, Madame.",oui madame,2,167,2,1,2,introduction,,vocabulary_introduction
+"Est-ce que vous comprenez, Madame?",est-ce que vous comprenez madame,2,177,2,1,2,introduction,est-ce que + [PRONOUN] + [VERB],question
+"Oui, je comprends le français.",oui je comprends le français,2,181,2,1,2,introduction,je + [VERB],vocabulary_introduction
+"Oui, je comprends l'anglais.",oui je comprends l'anglais,2,194,2,1,2,introduction,je + [VERB],vocabulary_introduction
+"Est-ce que vous êtes américain, Monsieur?",est-ce que vous êtes américain monsieur,3,49,2,1,3,introduction,est-ce que + [PRONOUN] + [VERB],
+Caine.,caine,3,53,2,1,3,introduction,,
+française.,française,3,92,2,1,3,introduction,,
+"français, française.",français française,3,94,2,1,3,introduction,,
+"Est-ce que vous êtes française, Mademoiselle?",est-ce que vous êtes française mademoiselle,3,100,2,2,"3,4",active,est-ce que + [PRONOUN] + [VERB],
+Vous êtes américaine.,vous êtes américaine,3,116,2,1,3,introduction,vous + [VERB],vocabulary_introduction
+Vous n'êtes pas américain.,vous n'êtes pas américain,3,121,2,1,3,introduction,vous + [VERB],
+Plaît.,plaît,3,152,2,1,3,introduction,,
+Vous plaît.,vous plaît,3,154,2,1,3,introduction,vous + [VERB],
+S'il.,s'il,3,156,2,1,3,introduction,,
+"Non, Mademoiselle.",non mademoiselle,3,166,2,1,3,introduction,,vocabulary_introduction
+"Oui, merci.",oui merci,3,181,2,1,3,introduction,,vocabulary_introduction
+Mademoiselle! Mademoiselle!,mademoiselle mademoiselle,3,202,2,1,3,introduction,,vocabulary_introduction
+"Pardon, Monsieur, est-ce que vous êtes français?",pardon monsieur est-ce que vous êtes français,4,1,2,1,4,introduction,est-ce que + [PRONOUN] + [VERB],
+"Oui, Mademoiselle, je suis français. Et vous?",oui mademoiselle je suis français et vous,4,2,2,1,4,introduction,je + [VERB],
+Mais vous comprenez le français?,mais vous comprenez le français,4,4,2,1,4,introduction,vous + [VERB],
+"Oh, un peu. Je ne comprends pas très bien.",oh un peu je ne comprends pas très bien,4,5,2,1,4,introduction,je + [VERB],
+"Mais si, mais si, vous parlez très bien.",mais si mais si vous parlez très bien,4,6,2,1,4,introduction,vous + [VERB],
+"Merci, Monsieur.",merci monsieur,4,7,2,1,4,introduction,,
+Je ne vais pas bien.,je ne vais pas bien,4,31,2,1,4,introduction,je + [VERB],
+Parlez.,parlez,4,63,2,1,4,introduction,,vocabulary_introduction
+Parle.,parle,4,71,2,1,4,introduction,,affirmation
+Mais je ne parle pas.,mais je ne parle pas,4,76,2,1,4,introduction,je + [VERB],negation
+Si.,si,4,82,2,1,4,introduction,,emphasis
+"Oui, c'est ici.",oui c'est ici,4,174,2,1,4,introduction,,response
+"Pardon, où est la rue Saint-Jacques, s'il vous plaît?",pardon où est la rue saint-jacques s'il vous plaît,4,212,2,1,4,introduction,où est + [NOUN],
+Et le boulevard Saint-Michel?,et le boulevard saint-michel,4,214,2,1,4,introduction,,
+Où.,où,4,60,2,2,"4,5",active,,vocabulary_introduction|question
+Je sais.,je sais,5,29,2,1,5,introduction,je + [VERB],vocabulary_introduction
+Don.,don,1,7,1,1,1,introduction,,
+Par.,par,1,8,1,1,1,introduction,,
+Ne.,ne,1,20,1,1,1,introduction,,
+Prenez.,prenez,1,21,1,1,1,introduction,,
+Vous.,vous,1,26,1,1,1,introduction,,
+Sieur.,sieur,1,41,1,1,1,introduction,,
+Mon.,mon,1,42,1,1,1,introduction,,
+Prends.,prends,1,50,1,1,1,introduction,,
+Je comprends. Vous comprenez.,je comprends vous comprenez,1,56,1,1,1,introduction,je + [VERB],
+Pas.,pas,1,65,1,1,1,introduction,,
+Comprends pas.,comprends pas,1,66,1,1,1,introduction,,
+Je ne.,je ne,1,67,1,1,1,introduction,je + [VERB],
+Prends le français.,prends le français,1,83,1,1,1,introduction,,
+Comprends le français.,comprends le français,1,84,1,1,1,introduction,,
+Peu.,peu,1,92,1,1,1,introduction,,
+Un peu le français.,un peu le français,1,100,1,1,1,introduction,,
+Cain.,cain,1,104,1,1,1,introduction,,
+Amer.,amer,1,105,1,1,1,introduction,,
+"Pardon, Monsieur?",pardon monsieur,2,1,1,1,2,introduction,,
+"Oui. Est-ce que vous comprenez l'anglais, Mademoiselle?",oui est-ce que vous comprenez l'anglais mademoiselle,2,5,1,1,2,introduction,est-ce que + [PRONOUN] + [VERB],
+"Oui, Monsieur, je comprends.",oui monsieur je comprends,2,178,1,1,2,introduction,je + [VERB],
+"Bonjour, Monsieur. Comment allez-vous?",bonjour monsieur comment allez-vous,3,1,1,1,3,introduction,comment + [VERB]-[PRONOUN],
+"Bien, Madame. Merci.",bien madame merci,3,2,1,1,3,introduction,,
+"Oui, Madame, un peu. Pas très bien.",oui madame un peu pas très bien,3,4,1,1,3,introduction,,
+"Vous êtes américain, Monsieur?",vous êtes américain monsieur,3,5,1,1,3,introduction,vous + [VERB],
+Mais vous comprenez très bien le français.,mais vous comprenez très bien le français,3,7,1,1,3,introduction,vous + [VERB],
+"Je suis américaine, et vous?",je suis américaine et vous,3,115,1,1,3,introduction,je + [VERB],
+Pas américaine.,pas américaine,3,119,1,1,3,introduction,,
+"Vous n'êtes pas américaine, Madame.",vous n'êtes pas américaine madame,3,123,1,1,3,introduction,vous + [VERB],
+"Vous n'êtes pas américain, Monsieur.",vous n'êtes pas américain monsieur,3,124,1,1,3,introduction,vous + [VERB],
+"Non, Madame, je suis américain.",non madame je suis américain,3,142,1,1,3,introduction,je + [VERB],
+"Est-ce que vous comprenez le français, Monsieur?",est-ce que vous comprenez le français monsieur,3,145,1,1,3,introduction,est-ce que + [PRONOUN] + [VERB],
+"Oui, un peu.",oui un peu,3,146,1,1,3,introduction,,
+"Mais oui, Mademoiselle.",mais oui mademoiselle,3,194,1,1,3,introduction,,
+"Oui, Monsieur.",oui monsieur,3,203,1,1,3,introduction,,
+"Très bien, merci. Et vous, Monsieur?",très bien merci et vous monsieur,3,207,1,1,3,introduction,,
+Merci bien.,merci bien,3,225,1,1,3,introduction,,
+Pardon? Je ne comprends pas.,pardon je ne comprends pas,3,226,1,1,3,introduction,je + [VERB],
+"Au revoir, Mademoiselle. Au revoir.",au revoir mademoiselle au revoir,3,231,1,1,3,introduction,,
+Sil vous plait.,sil vous plait,4,139,1,1,4,introduction,vous + [VERB],
+"Où est le boulevard Saint-Michel, s'il vous plait?",où est le boulevard saint-michel s'il vous plait,4,150,1,1,4,introduction,où est + [NOUN],
+"Oui, c'est ici, Monsieur.",oui c'est ici monsieur,4,188,1,1,4,introduction,,
+"Monsieur, savez-vous où il y a un bon restaurant?",monsieur savez-vous où il y a un bon restaurant,4,246,1,1,4,introduction,vous + [VERB],
+S'il vous plait.,s'il vous plait,4,65,1,1,4,introduction,vous + [VERB],politeness
+"Oui, je comprends bien le français.",oui je comprends bien le français,5,7,1,1,5,introduction,je + [VERB],vocabulary_introduction
+Moi? Très bien.,moi très bien,5,11,1,1,5,introduction,,vocabulary_introduction
+Moi? Pas très bien.,moi pas très bien,5,13,1,1,5,introduction,,vocabulary_introduction
+La rue Saint-Jacques est ici.,la rue saint-jacques est ici,5,21,1,1,5,introduction,,vocabulary_introduction
+"Non, c'est là-bas.",non c'est là-bas,5,23,1,1,5,introduction,,vocabulary_introduction
+La rue Saint-Jacques n'est pas ici.,la rue saint-jacques n'est pas ici,5,26,1,1,5,introduction,,negation
+Mais le boulevard Saint-Michel est ici.,mais le boulevard saint-michel est ici,5,27,1,1,5,introduction,,vocabulary_introduction
+Je ne sais pas.,je ne sais pas,5,28,1,1,5,introduction,je + [VERB],vocabulary_introduction
+"Moi, je sais.",moi je sais,5,30,1,1,5,introduction,je + [VERB],vocabulary_introduction
+Vous savez.,vous savez,5,32,1,1,5,introduction,vous + [VERB],vocabulary_introduction
+Est-ce que vous savez?,est-ce que vous savez,5,34,1,1,5,introduction,est-ce que + [PRONOUN] + [VERB],question
+Savez-vous?,savez-vous,5,35,1,1,5,introduction,,question
+"Non, je ne sais pas.",non je ne sais pas,5,36,1,1,5,introduction,je + [VERB],vocabulary_introduction
+Je veux.,je veux,5,37,1,1,5,introduction,je + [VERB],vocabulary_introduction
+Vous voulez.,vous voulez,5,38,1,1,5,introduction,vous + [VERB],vocabulary_introduction
+Je ne veux pas.,je ne veux pas,5,39,1,1,5,introduction,je + [VERB],negation
+"Je ne veux pas, moi.",je ne veux pas moi,5,40,1,1,5,introduction,je + [VERB],negation
+Est-ce que vous voulez?,est-ce que vous voulez,5,41,1,1,5,introduction,est-ce que + [PRONOUN] + [VERB],question
+Vous voudriez.,vous voudriez,5,42,1,1,5,introduction,vous + [VERB],vocabulary_introduction
+Vous voudriez manger quelque chose.,vous voudriez manger quelque chose,5,43,1,1,5,introduction,vous + [VERB],vocabulary_introduction
+Manger.,manger,5,44,1,1,5,introduction,,vocabulary_introduction
+Quelque chose.,quelque chose,5,45,1,1,5,introduction,,vocabulary_introduction
+Est-ce que vous voudriez manger quelque chose?,est-ce que vous voudriez manger quelque chose,5,46,1,1,5,introduction,est-ce que + [PRONOUN] + [VERB],question
+Je voudrais.,je voudrais,5,47,1,1,5,introduction,je + [VERB],vocabulary_introduction
+"Oui, je voudrais manger.",oui je voudrais manger,5,48,1,1,5,introduction,je + [VERB],vocabulary_introduction
+"Oui, je voudrais manger quelque chose.",oui je voudrais manger quelque chose,5,49,1,1,5,introduction,je + [VERB],vocabulary_introduction
+Je voudrais boire quelque chose.,je voudrais boire quelque chose,5,50,1,1,5,introduction,je + [VERB],vocabulary_introduction
+Boire.,boire,5,51,1,1,5,introduction,,vocabulary_introduction
+Est-ce que vous voudriez boire quelque chose?,est-ce que vous voudriez boire quelque chose,5,52,1,1,5,introduction,est-ce que + [PRONOUN] + [VERB],question
+"Non, merci.",non merci,5,53,1,1,5,introduction,,vocabulary_introduction
+Mais je voudrais manger quelque chose.,mais je voudrais manger quelque chose,5,54,1,1,5,introduction,je + [VERB],vocabulary_introduction
+"Non, je ne vais pas très bien.",non je ne vais pas très bien,5,63,1,1,5,introduction,je + [VERB],vocabulary_introduction
+"Ce n'est pas ici, c'est là-bas.",ce n'est pas ici c'est là-bas,5,65,1,1,5,introduction,,vocabulary_introduction
+"Je ne sais pas, moi.",je ne sais pas moi,5,66,1,1,5,introduction,je + [VERB],vocabulary_introduction
+"Ah oui, je sais.",ah oui je sais,5,67,1,1,5,introduction,je + [VERB],vocabulary_introduction
+Mais je ne sais pas.,mais je ne sais pas,5,69,1,1,5,introduction,je + [VERB],vocabulary_introduction
+Oh non.,oh non,5,70,1,1,5,introduction,,vocabulary_introduction
+"Non, merci, Monsieur.",non merci monsieur,5,71,1,1,5,introduction,,vocabulary_introduction
+"Ah, très bien.",ah très bien,5,72,1,1,5,introduction,,vocabulary_introduction
+"Mais moi, je ne veux pas manger.",mais moi je ne veux pas manger,5,73,1,1,5,introduction,je + [VERB],negation

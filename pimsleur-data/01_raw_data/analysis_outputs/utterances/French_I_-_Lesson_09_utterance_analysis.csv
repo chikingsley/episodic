@@ -1,0 +1,218 @@
+utterance_text,speaker,utterance_type,narrator_cue,core_lemmas
+"Bonjour, Marie. Comment allez-vous?",Male Speaker,ConversationalExchange,,bonjour marie comment aller vous
+"Dites-moi, Marie, qu'est-ce que vous voulez faire maintenant?",Male Speaker,ConversationalExchange,,dire moi marie quoi être vous vouloir faire maintenant
+"Moi, je voudrais déjeuner maintenant.",Male Speaker,ConversationalExchange,,moi vouloir déjeuner maintenant
+Est-ce que vous voudriez déjeuner avec moi?,Male Speaker,ConversationalExchange,,être vous vouloir déjeuner avec moi
+Où est le restaurant Chez Jacques?,Male Speaker,ConversationalExchange,,où être le restaurant chez jacques
+"Ah oui, je sais.",Male Speaker,ConversationalExchange,,ah oui je savoir
+"Oui, d'accord.",Male Speaker,SimpleResponse,,oui d'accord
+"Bien, Michel, merci.",Female Speaker,ConversationalExchange,,bien michel merci
+"Moi? Oh, je ne sais pas. Et vous?",Female Speaker,ConversationalExchange,,moi oh je ne savoir pas et vous
+"Oui, mais je voudrais déjeuner au restaurant chez Jacques. D'accord?",Female Speaker,ConversationalExchange,,oui mais je vouloir déjeuner au restaurant chez jacques d'accord
+"C'est là-bas, boulevard Saint-Michel.",Female Speaker,ConversationalExchange,,être là-bas boulevard saint-michel
+Et je voudrais aussi boire du vin. D'accord?,Female Speaker,ConversationalExchange,,et je vouloir aussi boire du vin d'accord
+Comment allez-vous?,Male Speaker,PromptedRecall,"Now, ask me how I am.",comment aller vous
+Est-ce que vous comprenez le français?,Male Speaker,PromptedRecall,Ask me if I understand French.,être vous comprendre le français
+Où est la rue Saint-Jacques?,Female Speaker,PromptedRecall,Ask me where Saint-Jacques Street is.,où être la rue saint-jacques
+Est-ce que vous savez où est la rue Saint-Jacques?,Female Speaker,PromptedRecall,Do you know where Saint-Jacques Street is?,être vous savoir où être la rue saint-jacques
+Savez-vous où est la rue Saint-Jacques?,Female Speaker,PromptedRecall,,savoir vous où être la rue saint-jacques
+Pardon?,Female Speaker,SimpleResponse,"""Excuse me.""",pardon
+Dites-moi.,Female Speaker,PromptedRecall,"Say, ""Tell me.""",dire moi
+Où est le restaurant Chez Jacques?,Female Speaker,PromptedRecall,"""Where is the restaurant Chez Jacques?""",où être le restaurant chez jacques
+Je voudrais déjeuner maintenant.,Male Speaker,PromptedRecall,Tell me that you'd like to eat lunch now.,je vouloir déjeuner maintenant
+Je voudrais déjeuner maintenant.,Male Speaker,DirectRepetition,,je vouloir déjeuner maintenant
+Est-ce que vous voudriez aussi déjeuner?,Male Speaker,PromptedRecall,Ask me if I would like to eat lunch too.,être vous vouloir aussi déjeuner
+Est-ce que vous voudriez aussi déjeuner?,Male Speaker,DirectRepetition,,être vous vouloir aussi déjeuner
+"Non, pas moi.",Female Speaker,PromptedRecall,"Say, ""No, not me.""",non pas moi
+"Non, pas moi.",Female Speaker,DirectRepetition,,non pas moi
+Je voudrais acheter quelque chose.,Female Speaker,PromptedRecall,"Say, ""I'd like to buy something.""",je vouloir acheter quelque chose
+Je voudrais acheter quelque chose.,Female Speaker,DirectRepetition,,je vouloir acheter quelque chose
+Quand?,Male Speaker,PromptedRecall,"Ask her, ""When?""",quand
+Qu'est-ce que vous voudriez acheter?,Male Speaker,PromptedRecall,Ask her what she would like to buy.,quoi être vous vouloir acheter
+Qu'est-ce que vous voudriez acheter?,Male Speaker,DirectRepetition,,quoi être vous vouloir acheter
+Avec qui?,Male Speaker,PromptedRecall,"Ask her, ""With whom?""",avec qui
+Avec qui?,Male Speaker,DirectRepetition,,avec qui
+Je voudrais acheter du vin.,Female Speaker,PromptedRecall,"How does she say, ""I would like to buy some wine""?",je vouloir acheter du vin
+Je voudrais acheter du vin.,Female Speaker,DirectRepetition,,je vouloir acheter du vin
+Ou de la bière.,Female Speaker,PromptedRecall,"Say, ""Or some beer.""",ou de la bière
+Ou de la bière.,Female Speaker,DirectRepetition,,ou de la bière
+Je voudrais boire quelque chose avec vous.,Female Speaker,PromptedRecall,"Say, ""I'd like to drink something with you.""",je vouloir boire quelque chose avec vous
+Je voudrais boire quelque chose avec vous.,Female Speaker,DirectRepetition,,je vouloir boire quelque chose avec vous
+Mais pas ici.,Male Speaker,PromptedRecall,"Say, ""But not here.""",mais pas ici
+Mais pas ici.,Male Speaker,DirectRepetition,,mais pas ici
+"Et pas là-bas, à l'hôtel.",Female Speaker,PromptedRecall,"Say, ""And not down there, at the hotel.""",et pas là-bas à l' hôtel
+"Et pas là-bas, à l'hôtel.",Female Speaker,DirectRepetition,,et pas là-bas à l' hôtel
+"Non, pas à l'hôtel.",Male Speaker,PromptedRecall,"Say, ""No, not at the hotel.""",non pas à l' hôtel
+"Non, pas à l'hôtel.",Male Speaker,DirectRepetition,,non pas à l' hôtel
+Qu'est-ce que vous voulez faire?,Male Speaker,PromptedRecall,Ask her what she wants to do.,quoi être vous vouloir faire
+Qu'est-ce que vous voulez faire?,Male Speaker,DirectRepetition,,quoi être vous vouloir faire
+Je voudrais boire quelque chose chez vous.,Female Speaker,PromptedRecall,"How does she say, ""I'd like to drink something at your place""?",je vouloir boire quelque chose chez vous
+Je voudrais boire quelque chose chez vous.,Female Speaker,DirectRepetition,,je vouloir boire quelque chose chez vous
+D'accord?,Female Speaker,PromptedRecall,"Ask, ""Okay?""",d'accord
+D'accord?,Female Speaker,DirectRepetition,,d'accord
+"D'accord, mais je voudrais aussi déjeuner.",Male Speaker,PromptedRecall,"Say, ""Okay, but I'd like to have lunch too.""",d'accord mais je vouloir aussi déjeuner
+"D'accord, mais je voudrais aussi déjeuner.",Male Speaker,DirectRepetition,,d'accord mais je vouloir aussi déjeuner
+À quelle heure?,Female Speaker,DirectRepetition,,à quelle heure
+Heure.,Female Speaker,DirectRepetition,,heure
+Heure.,Female Speaker,DirectRepetition,,heure
+Quelle.,Female Speaker,DirectRepetition,,quelle
+Quelle.,Female Speaker,DirectRepetition,,quelle
+Quelle heure?,Female Speaker,DirectRepetition,,quelle heure
+Quelle heure?,Female Speaker,DirectRepetition,,quelle heure
+À quelle heure?,Female Speaker,DirectRepetition,,à quelle heure
+À quelle heure?,Female Speaker,DirectRepetition,,à quelle heure
+"À quelle heure, Monsieur?",Female Speaker,PromptedRecall,"Ask me, ""At what time?""",à quelle heure monsieur
+Une heure.,Male Speaker,DirectRepetition,,une heure
+Une.,Male Speaker,DirectRepetition,,une
+Une.,Male Speaker,DirectRepetition,,une
+Une heure.,Male Speaker,DirectRepetition,,une heure
+Une heure.,Male Speaker,DirectRepetition,,une heure
+À une heure.,Male Speaker,PromptedRecall,"And now try to say, ""At one o'clock.""",à une heure
+À une heure.,Male Speaker,DirectRepetition,,à une heure
+À une heure.,Male Speaker,PromptedRecall,"Now say, ""At one o'clock.""",à une heure
+Neuf heures.,Male Speaker,DirectRepetition,,neuf heures
+Neuf heures.,Male Speaker,DirectRepetition,,neuf heures
+Neuf.,Male Speaker,DirectRepetition,,neuf
+Neuf.,Male Speaker,DirectRepetition,,neuf
+Neuf heures.,Male Speaker,DirectRepetition,,neuf heures
+Neuf heures.,Male Speaker,DirectRepetition,,neuf heures
+À neuf heures.,Male Speaker,PromptedRecall,"Say, ""At nine o'clock.""",à neuf heures
+À quelle heure?,Female Speaker,PromptedRecall,"Ask, ""At what time?""",à quelle heure
+À quelle heure?,Female Speaker,DirectRepetition,,à quelle heure
+À une heure.,Male Speaker,PromptedRecall,"Answer, ""At one o'clock.""",à une heure
+À une heure.,Male Speaker,DirectRepetition,,à une heure
+À neuf heures.,Male Speaker,PromptedRecall,"Say, ""At nine o'clock.""",à neuf heures
+À neuf heures.,Male Speaker,DirectRepetition,,à neuf heures
+Huit.,Male Speaker,DirectRepetition,,huit
+Huit.,Male Speaker,DirectRepetition,,huit
+Huit.,Male Speaker,DirectRepetition,,huit
+Huit.,Male Speaker,DirectRepetition,,huit
+Huit heures.,Male Speaker,PromptedRecall,"Say, ""Eight o'clock.""",huit heures
+Huit heures.,Male Speaker,DirectRepetition,,huit heures
+À huit heures?,Male Speaker,PromptedRecall,"Ask, ""At eight o'clock?""",à huit heures
+À huit heures?,Male Speaker,DirectRepetition,,à huit heures
+"Non, à neuf heures.",Male Speaker,PromptedRecall,"Say, ""No, at nine o'clock.""",non à neuf heures
+"Non, à neuf heures.",Male Speaker,DirectRepetition,,non à neuf heures
+Deux.,Male Speaker,PromptedRecall,Do you remember how to say the number two?,deux
+Deux.,Male Speaker,DirectRepetition,,deux
+Je veux.,Male Speaker,PromptedRecall,"This rhymes with ""I want.""",je vouloir
+Deux.,Male Speaker,DirectRepetition,,deux
+Deux.,Male Speaker,DirectRepetition,,deux
+Deux.,Male Speaker,DirectRepetition,,deux
+Deux heures.,Male Speaker,PromptedRecall,"So try to say, ""Two o'clock.""",deux heures
+Deux heures.,Male Speaker,DirectRepetition,,deux heures
+Huit heures.,Male Speaker,PromptedRecall,"Say, ""Eight o'clock.""",huit heures
+Huit heures.,Male Speaker,DirectRepetition,,huit heures
+Une heure.,Male Speaker,PromptedRecall,"Say, ""One o'clock.""",une heure
+Une heure.,Male Speaker,DirectRepetition,,une heure
+Neuf heures.,Male Speaker,PromptedRecall,"Say, ""Nine o'clock.""",neuf heures
+Neuf heures.,Male Speaker,DirectRepetition,,neuf heures
+À deux heures.,Male Speaker,PromptedRecall,"Say, ""At two o'clock.""",à deux heures
+À deux heures.,Male Speaker,DirectRepetition,,à deux heures
+À quelle heure?,Female Speaker,PromptedRecall,"Ask, ""At what time?""",à quelle heure
+À quelle heure?,Female Speaker,DirectRepetition,,à quelle heure
+À une heure ou à deux heures?,Female Speaker,PromptedRecall,"Ask, ""At one o'clock or at two o'clock?""",à une heure ou à deux heures
+À une heure ou à deux heures?,Female Speaker,DirectRepetition,,à une heure ou à deux heures
+"D'accord, mais je voudrais aussi déjeuner.",Male Speaker,DirectRepetition,,d'accord mais je vouloir aussi déjeuner
+"D'accord, mais je voudrais aussi déjeuner.",Male Speaker,DirectRepetition,,d'accord mais je vouloir aussi déjeuner
+À huit heures.,Female Speaker,PromptedRecall,"Say, ""At eight o'clock.""",à huit heures
+Huit.,Female Speaker,DirectRepetition,,huit
+Huit.,Female Speaker,DirectRepetition,,huit
+À huit heures.,Female Speaker,DirectRepetition,,à huit heures
+"Non, à neuf heures.",Male Speaker,DirectRepetition,,non à neuf heures
+"Non, à neuf heures.",Male Speaker,DirectRepetition,,non à neuf heures
+À quelle heure?,Male Speaker,PromptedRecall,"Ask, ""At what time?""",à quelle heure
+À quelle heure?,Male Speaker,DirectRepetition,,à quelle heure
+Je ne sais pas à quelle heure.,Female Speaker,PromptedRecall,"Say, ""I don't know at what time.""",je ne savoir pas à quelle heure
+"À deux heures, d'accord?",Male Speaker,PromptedRecall,"Say, ""At two o'clock, okay?""",à deux heures d'accord
+"À deux heures, d'accord?",Male Speaker,DirectRepetition,,à deux heures d'accord
+D'accord. Chez moi.,Female Speaker,PromptedRecall,"Say, ""Okay, at my place.""",d'accord chez moi
+D'accord. Chez moi.,Female Speaker,DirectRepetition,,d'accord chez moi
+"Où est l'Hôtel Saint-Jacques, s'il vous plaît?",Male Speaker,PromptedRecall,"Do you remember how to ask, ""Where's the Hotel Saint-Jacques?""",où être l' hôtel saint-jacques s'il vous plaître
+"Où est l'Hôtel Saint-Jacques, s'il vous plaît?",Male Speaker,DirectRepetition,,où être l' hôtel saint-jacques s'il vous plaître
+"C'est là-bas, rue Saint-Jacques.",Female Speaker,PromptedRecall,"Answer, ""It's down there, on the ""rue Saint-Jacques.""""",être là-bas rue saint-jacques
+"C'est là-bas, rue Saint-Jacques.",Female Speaker,DirectRepetition,,être là-bas rue saint-jacques
+Est-ce que vous voudriez boire quelque chose avec moi?,Male Speaker,PromptedRecall,How would you ask her if she would like to drink something with you?,être vous vouloir boire quelque chose avec moi
+"Est-ce que vous voudriez boire quelque chose avec moi, Mademoiselle?",Male Speaker,DirectRepetition,,être vous vouloir boire quelque chose avec moi mademoiselle
+Pas Mademoiselle. Madame.,Female Speaker,PromptedRecall,"How does she correct you saying, ""Not ""Mademoiselle. Madame.""""",pas mademoiselle madame
+"Pardon, Madame.",Male Speaker,PromptedRecall,"Say, ""Sorry, ma'am.""",pardon madame
+"Pardon, Madame.",Male Speaker,DirectRepetition,,pardon madame
+Mais est-ce que vous voudriez boire quelque chose avec moi?,Male Speaker,PromptedRecall,"Say, ""But would you like to drink something with me?""",mais être vous vouloir boire quelque chose avec moi
+"Non, merci, Monsieur.",Female Speaker,PromptedRecall,"How does she say, ""No, thank you, sir""?",non merci monsieur
+Merci.,Female Speaker,DirectRepetition,,merci
+Merci.,Female Speaker,DirectRepetition,,merci
+"Non merci, Monsieur.",Female Speaker,DirectRepetition,,non merci monsieur
+"Non merci, Monsieur.",Female Speaker,DirectRepetition,,non merci monsieur
+Pas maintenant.,Male Speaker,PromptedRecall,"Say, ""Not now.""",pas maintenant
+Et pas plus tard.,Female Speaker,PromptedRecall,"How does she say, ""And not later""?",et pas plus tard
+Et pas plus tard.,Female Speaker,DirectRepetition,,et pas plus tard
+"Mais à une heure, d'accord?",Male Speaker,PromptedRecall,"Ask, ""But at one o'clock, okay?""",mais à une heure d'accord
+À une heure.,Male Speaker,DirectRepetition,,à une heure
+À une heure.,Male Speaker,DirectRepetition,,à une heure
+"Mais à une heure, d'accord?",Male Speaker,DirectRepetition,,mais à une heure d'accord
+Pas d'accord.,Female Speaker,PromptedRecall,"She says, ""Not okay.""",pas d'accord
+À deux heures?,Male Speaker,PromptedRecall,"Ask, ""At two o'clock?""",à deux heures
+Deux.,Male Speaker,DirectRepetition,,deux
+Deux.,Male Speaker,DirectRepetition,,deux
+À deux heures?,Male Speaker,DirectRepetition,,à deux heures
+"Non merci, je ne veux pas.",Female Speaker,PromptedRecall,"She says, ""No, thank you. I do not want to.""",non merci je ne vouloir pas
+"Plus tard, à huit heures.",Male Speaker,PromptedRecall,"Say, ""Later at eight o'clock"".",plus tard à huit heures
+Huit.,Male Speaker,DirectRepetition,,huit
+Huit.,Male Speaker,DirectRepetition,,huit
+"Plus tard, à huit heures.",Male Speaker,DirectRepetition,,plus tard à huit heures
+"Non, Monsieur.",Female Speaker,PromptedRecall,"She says, ""No sir"".",non monsieur
+"Non, Monsieur.",Female Speaker,DirectRepetition,,non monsieur
+Ou à neuf heures.,Male Speaker,PromptedRecall,"Say, ""Or at nine o'clock"".",ou à neuf heures
+Ou à neuf heures.,Male Speaker,DirectRepetition,,ou à neuf heures
+Absolument pas.,Female Speaker,DirectRepetition,,absolument pas
+Absolument.,Female Speaker,DirectRepetition,,absolument
+Absolument pas.,Female Speaker,DirectRepetition,,absolument pas
+À quelle heure?,Male Speaker,PromptedRecall,"Ask, ""At what time?""",à quelle heure
+À quelle heure?,Male Speaker,DirectRepetition,,à quelle heure
+"Non, Monsieur, je ne veux pas boire quelque chose avec vous.",Female Speaker,PromptedRecall,"How does she answer, ""No sir, I do not want to drink something with you""?",non monsieur je ne vouloir pas boire quelque chose avec vous
+"Non, Monsieur, je ne veux pas boire quelque chose avec vous.",Female Speaker,DirectRepetition,,non monsieur je ne vouloir pas boire quelque chose avec vous
+Je comprends maintenant.,Male Speaker,PromptedRecall,"Say, ""Ah, I understand now.""",je comprendre maintenant
+"Ah, je comprends maintenant.",Male Speaker,DirectRepetition,,ah je comprendre maintenant
+"Très bien, vous comprenez maintenant.",Female Speaker,ConversationalExchange,,très bien vous comprendre maintenant
+Oui. Vous ne voulez pas boire quelque chose avec moi.,Male Speaker,PromptedRecall,"Say, ""Yes, you don't want to drink something with me.""",oui vous ne vouloir pas boire quelque chose avec moi
+Oui. Vous ne voulez pas boire quelque chose avec moi.,Male Speaker,DirectRepetition,,oui vous ne vouloir pas boire quelque chose avec moi
+Mais vous voudriez manger quelque chose avec moi.,Male Speaker,PromptedRecall,"""But you would like to eat something with me.""",mais vous vouloir manger quelque chose avec moi
+Mais vous voudriez manger quelque chose avec moi.,Male Speaker,DirectRepetition,,mais vous vouloir manger quelque chose avec moi
+Au restaurant.,Male Speaker,PromptedRecall,"Add, ""In a restaurant.""",au restaurant
+Au restaurant.,Male Speaker,DirectRepetition,,au restaurant
+À huit heures ou à neuf heures?,Male Speaker,PromptedRecall,"Ask, ""At eight o'clock or at nine o'clock?""",à huit heures ou à neuf heures
+À huit heures ou à neuf heures?,Male Speaker,DirectRepetition,,à huit heures ou à neuf heures
+Pas à une heure et pas à deux heures.,Female Speaker,PromptedRecall,"She says, ""Not at one o'clock and not at two o'clock.""",pas à une heure et pas à deux heures
+Pas à une heure et pas à deux heures.,Female Speaker,DirectRepetition,,pas à une heure et pas à deux heures
+Pas à huit heures et pas à neuf heures.,Female Speaker,PromptedRecall,"She adds for good measure, ""Not at eight o'clock and not at nine o'clock.""",pas à huit heures et pas à neuf heures
+Pas à huit heures et pas à neuf heures.,Female Speaker,DirectRepetition,,pas à huit heures et pas à neuf heures
+À quelle heure?,Male Speaker,PromptedRecall,"Ask, ""At what time?""",à quelle heure
+À quelle heure?,Male Speaker,DirectRepetition,,à quelle heure
+"Vous ne comprenez pas, Monsieur.",Female Speaker,PromptedRecall,"She says, ""You don't understand, sir.""",vous ne comprendre pas monsieur
+"Vous ne comprenez pas, Monsieur.",Female Speaker,DirectRepetition,,vous ne comprendre pas monsieur
+Qu'est-ce que je ne comprends pas?,Male Speaker,PromptedRecall,"Ask her, ""What don't I understand?""",quoi être je ne comprendre pas
+Qu'est-ce que je ne comprends pas?,Male Speaker,DirectRepetition,,quoi être je ne comprendre pas
+"Vous ne comprenez pas le français, Monsieur.",Female Speaker,PromptedRecall,"She answers, ""You don't understand French, sir.""",vous ne comprendre pas le français monsieur
+"Vous ne comprenez pas le français, Monsieur.",Female Speaker,DirectRepetition,,vous ne comprendre pas le français monsieur
+Comment allez-vous?,Male Speaker,PromptedRecall,Read it aloud.,comment aller vous
+"Bonjour, Monsieur.",Male Speaker,PromptedRecall,Read number two.,bonjour monsieur
+Vous savez.,Male Speaker,PromptedRecall,Three.,vous savoir
+Vous avez.,Male Speaker,PromptedRecall,Four.,vous avoir
+"Vous savez, vous avez.",Male Speaker,PromptedRecall,Read three and four together.,vous savoir vous avoir
+"Vous savez, vous avez.",Male Speaker,DirectRepetition,,vous savoir vous avoir
+Vous n'avez pas de vin.,Male Speaker,PromptedRecall,Five.,vous ne avoir pas de vin
+Vous ne comprenez pas.,Male Speaker,PromptedRecall,Six.,vous ne comprendre pas
+Vous ne comprenez pas.,Male Speaker,DirectRepetition,,vous ne comprendre pas
+Est-ce que vous comprenez?,Male Speaker,PromptedRecall,Seven.,être vous comprendre
+Est-ce que vous comprenez?,Male Speaker,DirectRepetition,,être vous comprendre
+"Ici, on parle français.",Male Speaker,PromptedRecall,Eight.,ici on parler français
+Saint-Michel.,Male Speaker,PromptedRecall,Nine.,saint-michel
+Où est le boulevard?,Male Speaker,PromptedRecall,Ten.,où être le boulevard
+Où est le boulevard?,Male Speaker,DirectRepetition,,où être le boulevard
+Est-ce que le boulevard est ici?,Male Speaker,PromptedRecall,Eleven.,être le boulevard être ici
+Est-ce que le boulevard est ici?,Male Speaker,DirectRepetition,,être le boulevard être ici
+Où est Jacques?,Male Speaker,PromptedRecall,Twelve.,où être jacques
+Jacques n'est pas ici.,Male Speaker,PromptedRecall,Thirteen.,jacques ne être pas ici
+Pas ici.,Male Speaker,DirectRepetition,,pas ici
+Il est là-bas.,Male Speaker,PromptedRecall,Fourteen.,il être là-bas
+"Non, il n'est pas là-bas.",Male Speaker,PromptedRecall,Fifteen.,non il ne être pas là-bas

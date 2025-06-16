@@ -1,0 +1,79 @@
+phrase,teaching_cue,context,speaker_response
+Kilomètres,"Comment dit-on ""kilometer"" en français?",vocabulary_introduction,Male Speaker
+Combien de kilomètres?,"Demandez ""How many kilometers?""",question,Male Speaker
+Quelle est la route de Paris?,Demandez la route de Paris.,question,Male Speaker
+Est-ce que c'est la bonne route?,Demandez si c'est la bonne route.,question,Male Speaker
+À droite,"Dites, ""To the right.""",vocabulary_introduction,Female Speaker
+Est-ce que c'est à droite?,Demandez si c'est à droite.,question,Male Speaker
+À gauche,"""To the left.""",vocabulary_introduction,Female Speaker
+Est-ce que c'est à gauche?,Demandez si c'est à gauche.,question,Male Speaker
+Prenez la bonne route,"""Take the correct route.""",vocabulary_introduction,Female Speaker
+Prenez à droite,"""Take to the right.""",vocabulary_introduction,Female Speaker
+Et puis?,"""And then?""",vocabulary_introduction,Female Speaker
+Et puis tout droit,"""And then straight ahead.""",vocabulary_introduction,Female Speaker
+Est-ce que c'est loin?,Demandez si c'est loin.,question,Male Speaker
+Ce n'est pas loin,"""It's not far.""",vocabulary_introduction,Female Speaker
+Il y a soixante-dix kilomètres,"""There are seventy kilometers.""",vocabulary_introduction,Female Speaker
+Il y a quatre-vingts kilomètres,"""There are eighty kilometers.""",vocabulary_introduction,Female Speaker
+Quatre-vingts,Écoutez et répétez.,pronunciation_practice,Female Speaker
+Quatre-vingts kilomètres,"Dites, ""Eighty kilometers.""",vocabulary_introduction,Female Speaker
+C'est une bonne route,"Dites, ""It's a good road.""",vocabulary_introduction,Female Speaker
+Je peux,"Comment dit-on ""I can.""",vocabulary_introduction,Male Speaker
+Est-ce que je peux?,"Demandez ""Can I.""",question,Male Speaker
+Est-ce que je peux acheter quelque chose?,"Demandez ""Can I buy something?""",question,Male Speaker
+À Paris,"""In Paris.""",vocabulary_introduction,Female Speaker
+"Non, vous ne pouvez pas","""No, you can't.""",vocabulary_introduction,Female Speaker
+Pourquoi?,Écoutez et répétez.,pronunciation_practice,Male Speaker
+Parce que,Écoutez et répétez.,pronunciation_practice,Female Speaker
+Parce que,"Dites, ""Because.""",vocabulary_introduction,Male Speaker
+Pourquoi? Parce que,"Dites, ""Why? Because.""",vocabulary_introduction,Male Speaker
+Quatre-vingts,"Dites, ""Eighty.""",vocabulary_introduction,Male Speaker
+Les magasins,"""The stores.""",vocabulary_introduction,Female Speaker
+Un magasin,"Try to say, ""One store.""",vocabulary_introduction,Female Speaker
+Le magasin,"Say, ""The store.""",vocabulary_introduction,Female Speaker
+Un grand magasin,"And now, ""A department store.""",vocabulary_introduction,Female Speaker
+Le grand magasin,"Say, ""The department store.""",vocabulary_introduction,Female Speaker
+Les magasins sont fermés,Écoutez et répétez.,pronunciation_practice,Female Speaker
+Fermé,Écoutez et répétez.,pronunciation_practice,Female Speaker
+Les magasins sont fermés,Dites que les magasins sont fermés.,vocabulary_introduction,Female Speaker
+Les grands magasins sont fermés,Dites que les grands magasins sont fermés.,vocabulary_introduction,Female Speaker
+Parce que les magasins sont fermés,"""Because the stores are closed.""",vocabulary_introduction,Female Speaker
+Est-ce que les magasins sont fermés?,Demandez si les magasins sont fermés.,question,Male Speaker
+"Non, ils sont ouverts","""No, they are open.""",vocabulary_introduction,Female Speaker
+Ouverts,Écoutez et répétez.,pronunciation_practice,Female Speaker
+Ouvert,"Comment dit-on ""Open.""",vocabulary_introduction,Male Speaker
+Fermé,"Et comment dit-on ""Closed.""",vocabulary_introduction,Male Speaker
+Ils sont fermés maintenant,"Dites, ""They are closed now.""",vocabulary_introduction,Male Speaker
+Est-ce que les grands magasins sont ouverts?,Demandez si les grands magasins sont ouverts.,question,Narrator
+Les grands magasins sont ouverts maintenant,"Dites, ""The department stores are open now.""",vocabulary_introduction,Male Speaker
+Quelle heure est-il?,"Comment est-ce qu'on demande ""What time is it?""",vocabulary_introduction,Male Speaker
+Il est huit heures,"Répondez ""It's eight o'clock.""",vocabulary_introduction,Female Speaker
+Est-ce que les magasins sont ouverts?,Demandez si les magasins sont ouverts.,question,Male Speaker
+"Non, ils sont fermés","Répondez ""No, they are closed.""",vocabulary_introduction,Female Speaker
+Parce qu'il est tard,"""Because it's late."" Try to say that.",vocabulary_introduction,Female Speaker
+Il n'est pas tard,"Dites, ""It's not late.""",vocabulary_introduction,Male Speaker
+Il est neuf heures,"""It's nine o'clock.""",vocabulary_introduction,Male Speaker
+Et les magasins sont fermés,"""And the stores are closed.""",vocabulary_introduction,Male Speaker
+Quatre-vingts kilomètres,"Dites, ""Eighty kilometers.""",vocabulary_introduction,Male Speaker
+Quatre-vingt-deux,"Dites, ""Eighty-two.""",vocabulary_introduction,Male Speaker
+Quatre-vingt-cinq,"Dites, ""Eighty-five.""",vocabulary_introduction,Male Speaker
+Quatre-vingt-cinq kilomètres et les magasins sont fermés,"Dites, ""Eighty-five kilometers, and the stores are closed.""",vocabulary_introduction,Male Speaker
+Quelle heure est-il?,"Comment est-ce qu'on demande ""What time is it?""",vocabulary_introduction,Male Speaker
+Il est sept heures,"Répondez ""It's seven o'clock.""",vocabulary_introduction,Female Speaker
+Pourquoi?,"Ask, ""Why?""",vocabulary_introduction,Female Speaker
+Parce que je voudrais acheter quelque chose,"""Because I would like to buy something.""",vocabulary_introduction,Male Speaker
+Je veux acheter quelque chose,"Dites, ""I want to buy something.""",vocabulary_introduction,Male Speaker
+Où?,"Ask, ""Where?""",vocabulary_introduction,Female Speaker
+Où voudriez-vous acheter quelque chose?,"Ask, ""Where?""",vocabulary_introduction,Female Speaker
+Dans un grand magasin,"Répondez ""In a big store.""",vocabulary_introduction,Male Speaker
+"Oui, ils sont ouverts maintenant","Répondez ""Yes, they're open now.""",vocabulary_introduction,Female Speaker
+Parce qu'ils sont ouverts ce soir,"""Because they are open this evening.""",vocabulary_introduction,Female Speaker
+"Demain, ils sont fermés","""Tomorrow, they're closed.""",vocabulary_introduction,Female Speaker
+Qu'est-ce que vous voudriez acheter?,Ask him what he would like to buy?,vocabulary_introduction,Female Speaker
+Quelque chose pour ma femme,"""Something for my wife.""",vocabulary_introduction,Male Speaker
+Combien d'argent avez-vous?,Ask him how much money he has?,vocabulary_introduction,Female Speaker
+Est-ce que vous avez de l'argent?,Demandez-lui s'il a de l'argent.,vocabulary_introduction,Female Speaker
+"Oui, j'ai quatre-vingts francs","""Yes, I have eighty francs.""",vocabulary_introduction,Male Speaker
+Ce n'est pas beaucoup,"""That's not a lot.""",vocabulary_introduction,Female Speaker
+"Pour ma femme, ça suffit","""For my wife, it's enough.""",vocabulary_introduction,Male Speaker
+Mais pas pour moi,"""But not for me.""",vocabulary_introduction,Female Speaker

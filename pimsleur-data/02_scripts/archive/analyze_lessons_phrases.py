@@ -62,6 +62,8 @@ MISTRAL_CLIENT = MistralClient(api_key=MISTRAL_API_KEY)
 class ExplicitPhrase:
     """Represents a phrase explicitly taught by the narrator."""
 
+    lesson_number: int  # NEW: Track which lesson this is from
+    position_in_lesson: int  # NEW: Track position within the lesson
     phrase: str
     teaching_cue: str
     context: str
@@ -69,7 +71,7 @@ class ExplicitPhrase:
 
 
 # ----- LLM-based Phrase Extraction -----------------------------------------
-def extract_phrases_with_llm(transcript: str, model_name: str) -> List[ExplicitPhrase]:
+def extract_phrases_with_llm(transcript: str, model_name: str, lesson_number: int) -> List[ExplicitPhrase]:
     """
     Uses a Mistral model to extract explicitly taught phrases from a transcript.
     """
@@ -97,7 +99,17 @@ Return your findings as a JSON object containing a single key "explicit_phrases"
         )
         response_content = response.choices[0].message.content
         data = json.loads(response_content)
-        return [ExplicitPhrase(**item) for item in data.get("explicit_phrases", [])]
+        # Add lesson number and position to each phrase
+        phrases = []
+        for idx, item in enumerate(data.get("explicit_phrases", []), 1):
+            phrases.append(
+                ExplicitPhrase(
+                    lesson_number=lesson_number,
+                    position_in_lesson=idx,
+                    **item
+                )
+            )
+        return phrases
 
     except Exception as e:
         print(f"An error occurred while calling the Mistral API: {e}")
@@ -141,10 +153,12 @@ def write_analysis_files(lesson_stem, output_dir, counters):
         phrases_file = output_dir / f"{lesson_stem}_explicit_phrases.csv"
         with open(phrases_file, "w", newline="", encoding="utf-8") as f_phrases:
             writer = csv.writer(f_phrases)
-            writer.writerow(["phrase", "teaching_cue", "context", "speaker_response"])
+            writer.writerow(["lesson_number", "position_in_lesson", "phrase", "teaching_cue", "context", "speaker_response"])
             for phrase_obj in counters["explicit_phrases"]:
                 writer.writerow(
                     [
+                        phrase_obj.lesson_number,
+                        phrase_obj.position_in_lesson,
                         phrase_obj.phrase,
                         phrase_obj.teaching_cue,
                         phrase_obj.context,
@@ -198,11 +212,15 @@ def parse_raw_lines(raw_lines: List[str]) -> List[dict]:
 def process_lesson(file_path, output_dir, model_name):
     """Analyzes a single lesson file and saves the results to CSVs."""
     lesson_stem = file_path.stem.replace("_human_eval", "")
+    
+    # Extract lesson number from filename (e.g., "French_I_-_Lesson_05_human_eval" -> 5)  
+    lesson_number = int(file_path.stem.split("_")[4])
+    
     transcript = file_path.read_text("utf-8")
     speaker_events = parse_raw_lines(transcript.splitlines())
 
     # Extract phrases using the LLM
-    explicit_phrases = extract_phrases_with_llm(transcript, model_name)
+    explicit_phrases = extract_phrases_with_llm(transcript, model_name, lesson_number)
 
     counters = {
         "breakdowns": set(),
@@ -227,9 +245,10 @@ def process_lesson(file_path, output_dir, model_name):
 
 def main():
     """Main function to run the analysis on all lesson files."""
-    script_dir = pathlib.Path(__file__).parent
-    source_dir = script_dir / "pimsleur-01-lessons"
-    output_dir = script_dir / "analysis_results"
+    # Use project structure paths
+    project_root = pathlib.Path(__file__).parent.parent.parent
+    source_dir = project_root / "01_raw_data" / "transcripts"
+    output_dir = project_root / "01_raw_data" / "analysis_outputs" / "explicit_phrases"
     output_dir.mkdir(exist_ok=True)
 
     # Allow model selection via environment variable
@@ -237,9 +256,13 @@ def main():
     model_name = os.getenv("MISTRAL_MODEL", "mistral-medium-latest")
     print(f"Using Mistral model: {model_name}")
 
+    # Process first 5 lessons for Phase 1.5
     lesson_files = [
         source_dir / "French_I_-_Lesson_01_human_eval.txt",
         source_dir / "French_I_-_Lesson_02_human_eval.txt",
+        source_dir / "French_I_-_Lesson_03_human_eval.txt",
+        source_dir / "French_I_-_Lesson_04_human_eval.txt",
+        source_dir / "French_I_-_Lesson_05_human_eval.txt",
     ]
 
     # Check if files exist and provide a clear error message

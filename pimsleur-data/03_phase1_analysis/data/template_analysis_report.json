@@ -1,0 +1,570 @@
+{
+  "template_patterns": {
+    "est-ce que vous [VERB:êtes]": {
+      "count": 7,
+      "examples": [
+        "Est-ce que vous êtes américain?",
+        "Est-ce que vous êtes française?",
+        "Est-ce que vous êtes français?"
+      ],
+      "first_introduced": 1,
+      "structure_type": "question",
+      "avg_complexity": 4.428571428571429
+    },
+    "je [VERB:ne]": {
+      "count": 7,
+      "examples": [
+        "Je ne comprends pas.",
+        "Je ne comprends pas, Madame.",
+        "Je ne comprends pas, Mademoiselle."
+      ],
+      "first_introduced": 1,
+      "structure_type": "declarative",
+      "avg_complexity": 1.0
+    },
+    "je [ÊTRE]": {
+      "count": 6,
+      "examples": [
+        "Je suis américain.",
+        "Je suis américaine.",
+        "Je suis française."
+      ],
+      "first_introduced": 3,
+      "structure_type": "declarative",
+      "avg_complexity": 1.0
+    },
+    "je ne comprends pas [COMPLEMENT]": {
+      "count": 5,
+      "examples": [
+        "Je ne comprends pas l'anglais.",
+        "Je ne comprends pas le français.",
+        "Je ne comprends pas très bien."
+      ],
+      "first_introduced": 1,
+      "structure_type": "negation",
+      "avg_complexity": 4.0
+    },
+    "vous [VERB:n'êtes]": {
+      "count": 5,
+      "examples": [
+        "Vous n'êtes pas américaine.",
+        "Vous n'êtes pas français.",
+        "Vous n'êtes pas américain."
+      ],
+      "first_introduced": 3,
+      "structure_type": "declarative",
+      "avg_complexity": 1.0
+    },
+    "où est [NOUN_PHRASE]": {
+      "count": 5,
+      "examples": [
+        "Où est la rue Saint-Jacques?",
+        "Où est le boulevard Saint-Michel?",
+        "Où est la rue Saint-Jacques, s'il vous plaît?"
+      ],
+      "first_introduced": 4,
+      "structure_type": "question",
+      "avg_complexity": 2.6
+    },
+    "je [COMPRENDRE] [DET] [NOUN]": {
+      "count": 4,
+      "examples": [
+        "Je comprends un peu le français.",
+        "Je comprends le français.",
+        "Je comprends un peu."
+      ],
+      "first_introduced": 1,
+      "structure_type": "declarative",
+      "avg_complexity": 1.5
+    },
+    "est-ce que vous [VERB:comprenez]": {
+      "count": 4,
+      "examples": [
+        "Est-ce que vous comprenez le français?",
+        "Est-ce que vous comprenez l'anglais?",
+        "Est-ce que vous comprenez l'anglais, Monsieur?"
+      ],
+      "first_introduced": 1,
+      "structure_type": "question",
+      "avg_complexity": 4.75
+    },
+    "comment allez-vous": {
+      "count": 3,
+      "examples": [
+        "Comment allez-vous?",
+        "Comment allez-vous, Monsieur?",
+        "Comment allez-vous, Madame?"
+      ],
+      "first_introduced": 2,
+      "structure_type": "question",
+      "avg_complexity": 1.6666666666666667
+    },
+    "je ne suis pas [COMPLEMENT]": {
+      "count": 3,
+      "examples": [
+        "Je ne suis pas française.",
+        "Je ne suis pas français.",
+        "Je ne suis pas américain."
+      ],
+      "first_introduced": 3,
+      "structure_type": "negation",
+      "avg_complexity": 3.0
+    },
+    "vous [ÊTRE]": {
+      "count": 3,
+      "examples": [
+        "Vous êtes américain.",
+        "Vous êtes américaine.",
+        "Vous êtes américain, Monsieur?"
+      ],
+      "first_introduced": 1,
+      "structure_type": "declarative",
+      "avg_complexity": 1.0
+    },
+    "je ne vais pas [COMPLEMENT]": {
+      "count": 3,
+      "examples": [
+        "Non, je ne vais pas bien.",
+        "Je ne vais pas bien.",
+        "Non, je ne vais pas très bien."
+      ],
+      "first_introduced": 3,
+      "structure_type": "negation",
+      "avg_complexity": 4.0
+    },
+    "je [VERB:comprends.]": {
+      "count": 2,
+      "examples": [
+        "Je comprends.",
+        "Je comprends. Vous comprenez."
+      ],
+      "first_introduced": 1,
+      "structure_type": "declarative",
+      "avg_complexity": 0.5
+    },
+    "je [ALLER]": {
+      "count": 2,
+      "examples": [
+        "Je vais bien.",
+        "Je vais bien, merci."
+      ],
+      "first_introduced": 2,
+      "structure_type": "declarative",
+      "avg_complexity": 1.0
+    },
+    "est-ce que [SUBJECT] [VERB]": {
+      "count": 2,
+      "examples": [
+        "Est-ce que c'est ici?",
+        "Est-ce que."
+      ],
+      "first_introduced": 1,
+      "structure_type": "question",
+      "avg_complexity": 2.5
+    },
+    "où [VERB] [SUBJECT]": {
+      "count": 2,
+      "examples": [
+        "Où est...",
+        "Où."
+      ],
+      "first_introduced": 4,
+      "structure_type": "question",
+      "avg_complexity": 1.0
+    },
+    "est-ce que vous [VERB:voudriez]": {
+      "count": 2,
+      "examples": [
+        "Est-ce que vous voudriez manger quelque chose?",
+        "Est-ce que vous voudriez boire quelque chose?"
+      ],
+      "first_introduced": 5,
+      "structure_type": "question",
+      "avg_complexity": 5.0
+    }
+  },
+  "structure_progression": {
+    "1": {
+      "declarative": 50,
+      "question": 7,
+      "negation": 3
+    },
+    "2": {
+      "declarative": 62,
+      "question": 10,
+      "negation": 4
+    },
+    "3": {
+      "declarative": 80,
+      "question": 14,
+      "negation": 8
+    },
+    "4": {
+      "declarative": 78,
+      "question": 25,
+      "negation": 9
+    },
+    "5": {
+      "question": 20,
+      "declarative": 49,
+      "negation": 3
+    }
+  },
+  "complexity_progression": {
+    "1": {
+      "avg_complexity": 0.9166666666666666,
+      "max_complexity": 5,
+      "num_introductions": 60
+    },
+    "2": {
+      "avg_complexity": 0.7708333333333334,
+      "max_complexity": 5,
+      "num_introductions": 48
+    },
+    "3": {
+      "avg_complexity": 1.359375,
+      "max_complexity": 5,
+      "num_introductions": 64
+    },
+    "4": {
+      "avg_complexity": 1.3076923076923077,
+      "max_complexity": 6,
+      "num_introductions": 65
+    },
+    "5": {
+      "avg_complexity": 1.5609756097560976,
+      "max_complexity": 5,
+      "num_introductions": 41
+    }
+  },
+  "grammatical_feature_distribution": {
+    "numerical": 4,
+    "polite_request": 1,
+    "future_proche": 5,
+    "conditional": 2
+  },
+  "template_introduction_sequence": [
+    {
+      "lesson": 1,
+      "template": "je [COMPRENDRE] [DET] [NOUN]",
+      "example": "Je comprends un peu le français.",
+      "type": "declarative",
+      "complexity": 2
+    },
+    {
+      "lesson": 1,
+      "template": "est-ce que vous [VERB:êtes]",
+      "example": "Est-ce que vous êtes américain?",
+      "type": "question",
+      "complexity": 4
+    },
+    {
+      "lesson": 1,
+      "template": "est-ce que vous [VERB:comprenez]",
+      "example": "Est-ce que vous comprenez le français?",
+      "type": "question",
+      "complexity": 5
+    },
+    {
+      "lesson": 1,
+      "template": "je [VERB:ne]",
+      "example": "Je ne comprends pas.",
+      "type": "declarative",
+      "complexity": 1
+    },
+    {
+      "lesson": 1,
+      "template": "je ne comprends pas [COMPLEMENT]",
+      "example": "Je ne comprends pas l'anglais.",
+      "type": "negation",
+      "complexity": 3
+    },
+    {
+      "lesson": 1,
+      "template": "est-ce que vous [VERB:comprenez?]",
+      "example": "Est-ce que vous comprenez?",
+      "type": "question",
+      "complexity": 4
+    },
+    {
+      "lesson": 1,
+      "template": "vous [VERB:comprenez.]",
+      "example": "Vous comprenez.",
+      "type": "declarative",
+      "complexity": 0
+    },
+    {
+      "lesson": 1,
+      "template": "je [VERB:comprends.]",
+      "example": "Je comprends.",
+      "type": "declarative",
+      "complexity": 0
+    },
+    {
+      "lesson": 1,
+      "template": "vous [VERB:êtes.]",
+      "example": "Vous êtes.",
+      "type": "declarative",
+      "complexity": 0
+    },
+    {
+      "lesson": 1,
+      "template": "est-ce que [SUBJECT] [VERB]",
+      "example": "Est-ce que.",
+      "type": "question",
+      "complexity": 1
+    },
+    {
+      "lesson": 1,
+      "template": "vous [ÊTRE]",
+      "example": "Vous êtes américain.",
+      "type": "declarative",
+      "complexity": 1
+    },
+    {
+      "lesson": 1,
+      "template": "je [COMPRENDRE]",
+      "example": "Je comprends l'anglais.",
+      "type": "declarative",
+      "complexity": 1
+    },
+    {
+      "lesson": 1,
+      "template": "vous [COMPRENDRE]",
+      "example": "Vous comprenez l'anglais.",
+      "type": "declarative",
+      "complexity": 1
+    },
+    {
+      "lesson": 1,
+      "template": "vous [COMPRENDRE] [DET] [NOUN]",
+      "example": "Vous comprenez le français?",
+      "type": "declarative",
+      "complexity": 1
+    },
+    {
+      "lesson": 1,
+      "template": "je [VERB:ne.]",
+      "example": "Je ne.",
+      "type": "declarative",
+      "complexity": 0
+    },
+    {
+      "lesson": 2,
+      "template": "comment allez-vous",
+      "example": "Comment allez-vous?",
+      "type": "question",
+      "complexity": 1
+    },
+    {
+      "lesson": 2,
+      "template": "je [ALLER]",
+      "example": "Je vais bien.",
+      "type": "declarative",
+      "complexity": 1
+    },
+    {
+      "lesson": 2,
+      "template": "comment [VERB_PHRASE]",
+      "example": "Comment.",
+      "type": "question",
+      "complexity": 1
+    },
+    {
+      "lesson": 2,
+      "template": "vous [VERB:allez.]",
+      "example": "Vous allez.",
+      "type": "declarative",
+      "complexity": 0
+    },
+    {
+      "lesson": 2,
+      "template": "vous [COMPRENDRE] [ADVERB]",
+      "example": "Vous comprenez très bien.",
+      "type": "declarative",
+      "complexity": 1
+    },
+    {
+      "lesson": 2,
+      "template": "est-ce que vous [VERB:comprenez,]",
+      "example": "Est-ce que vous comprenez, Madame?",
+      "type": "question",
+      "complexity": 4
+    },
+    {
+      "lesson": 3,
+      "template": "je [ÊTRE]",
+      "example": "Je suis américain.",
+      "type": "declarative",
+      "complexity": 1
+    },
+    {
+      "lesson": 3,
+      "template": "je [VERB:suis.]",
+      "example": "Je suis.",
+      "type": "declarative",
+      "complexity": 0
+    },
+    {
+      "lesson": 3,
+      "template": "je ne suis pas [COMPLEMENT]",
+      "example": "Je ne suis pas française.",
+      "type": "negation",
+      "complexity": 3
+    },
+    {
+      "lesson": 3,
+      "template": "vous [VERB:n'êtes]",
+      "example": "Vous n'êtes pas américaine.",
+      "type": "declarative",
+      "complexity": 1
+    },
+    {
+      "lesson": 3,
+      "template": "est-ce que vous [VERB:allez]",
+      "example": "Est-ce que vous allez bien?",
+      "type": "question",
+      "complexity": 5
+    },
+    {
+      "lesson": 3,
+      "template": "vous ne comprenez pas [COMPLEMENT]",
+      "example": "Vous ne comprenez pas l'anglais.",
+      "type": "negation",
+      "complexity": 3
+    },
+    {
+      "lesson": 3,
+      "template": "je ne vais pas [COMPLEMENT]",
+      "example": "Non, je ne vais pas bien.",
+      "type": "negation",
+      "complexity": 4
+    },
+    {
+      "lesson": 3,
+      "template": "vous [VERB:plaît.]",
+      "example": "Vous plaît.",
+      "type": "declarative",
+      "complexity": 0
+    },
+    {
+      "lesson": 4,
+      "template": "je ne parle pas [COMPLEMENT]",
+      "example": "Je ne parle pas bien.",
+      "type": "negation",
+      "complexity": 3
+    },
+    {
+      "lesson": 4,
+      "template": "où est [NOUN_PHRASE]",
+      "example": "Où est la rue Saint-Jacques?",
+      "type": "question",
+      "complexity": 2
+    },
+    {
+      "lesson": 4,
+      "template": "je [PARLER] [DET] [NOUN]",
+      "example": "Je parle un peu.",
+      "type": "declarative",
+      "complexity": 1
+    },
+    {
+      "lesson": 4,
+      "template": "vous [VERB:parlez.]",
+      "example": "Vous parlez.",
+      "type": "declarative",
+      "complexity": 0
+    },
+    {
+      "lesson": 4,
+      "template": "vous [PARLER]",
+      "example": "Vous parlez bien.",
+      "type": "declarative",
+      "complexity": 1
+    },
+    {
+      "lesson": 4,
+      "template": "je [VERB:parle.]",
+      "example": "Je parle.",
+      "type": "declarative",
+      "complexity": 0
+    },
+    {
+      "lesson": 4,
+      "template": "où [VERB] [SUBJECT]",
+      "example": "Où est...",
+      "type": "question",
+      "complexity": 1
+    },
+    {
+      "lesson": 5,
+      "template": "je [VERB:sais.]",
+      "example": "Je sais.",
+      "type": "declarative",
+      "complexity": 0
+    },
+    {
+      "lesson": 5,
+      "template": "vous [VERB:savez.]",
+      "example": "Vous savez.",
+      "type": "declarative",
+      "complexity": 0
+    },
+    {
+      "lesson": 5,
+      "template": "est-ce que vous [VERB:savez?]",
+      "example": "Est-ce que vous savez?",
+      "type": "question",
+      "complexity": 4
+    },
+    {
+      "lesson": 5,
+      "template": "je [VERB:veux.]",
+      "example": "Je veux.",
+      "type": "declarative",
+      "complexity": 0
+    },
+    {
+      "lesson": 5,
+      "template": "vous [VERB:voulez.]",
+      "example": "Vous voulez.",
+      "type": "declarative",
+      "complexity": 0
+    },
+    {
+      "lesson": 5,
+      "template": "est-ce que vous [VERB:voulez?]",
+      "example": "Est-ce que vous voulez?",
+      "type": "question",
+      "complexity": 4
+    },
+    {
+      "lesson": 5,
+      "template": "vous [VERB:voudriez.]",
+      "example": "Vous voudriez.",
+      "type": "declarative",
+      "complexity": 0
+    },
+    {
+      "lesson": 5,
+      "template": "est-ce que vous [VERB:voudriez]",
+      "example": "Est-ce que vous voudriez manger quelque chose?",
+      "type": "question",
+      "complexity": 5
+    },
+    {
+      "lesson": 5,
+      "template": "je [VERB:voudrais.]",
+      "example": "Je voudrais.",
+      "type": "declarative",
+      "complexity": 0
+    },
+    {
+      "lesson": 5,
+      "template": "je ne veux pas [COMPLEMENT]",
+      "example": "Mais moi, je ne veux pas manger.",
+      "type": "negation",
+      "complexity": 4
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+phrase,teaching_cue,context,speaker_response
+Trente-trois,How would you say the number thirty-three in French?,vocabulary_introduction,Male Speaker
+Quarante-quatre,How about forty-four?,vocabulary_introduction,Female Speaker
+Vingt-trois,Twenty-three.,vocabulary_introduction,Female Speaker
+Treize,Thirteen.,vocabulary_introduction,Male Speaker
+Trente-sept,Thirty-seven.,vocabulary_introduction,Female Speaker
+Est-ce que vous avez de l'argent?,Ask me if I have any money.,question,Female Speaker
+Je n'en ai pas,"Answer, ""I haven't any.""",negation,Male Speaker
+"Moi, j'en ai","Say, ""Me, I've got some.""",vocabulary_introduction,Female Speaker
+J'en ai beaucoup,"""I have a lot.""",vocabulary_introduction,Female Speaker
+Je peux,"How do you say, ""I can""?",vocabulary_introduction,Female Speaker
+Je peux vous donner,"Say, ""I can give you.""",vocabulary_introduction,Female Speaker
+Je peux vous donner de l'argent,"Say, ""I can give you some money.""",vocabulary_introduction,Female Speaker
+Je peux vous en donner,"Say, ""I can give you some.""",vocabulary_introduction,Female Speaker
+D'accord,"Say, ""Agreed.""",vocabulary_introduction,Male Speaker
+Est-ce que vous avez des francs pour moi?,"Ask, ""Have you any francs for me?""",question,Male Speaker
+"Oui, j'ai assez de francs","Say, ""Yes, I have enough francs.""",vocabulary_introduction,Female Speaker
+J'en ai assez,"""I have enough.""",vocabulary_introduction,Female Speaker
+Voilà quarante-cinq francs,"Say, ""Here are forty-five francs.""",vocabulary_introduction,Female Speaker
+C'est trop,"Say, ""That's too much.""",vocabulary_introduction,Male Speaker
+C'est trop d'argent,"Say, ""That's too much money.""",vocabulary_introduction,Male Speaker
+Donnez-moi quatre francs,"Say, ""Give me four francs.""",vocabulary_introduction,Male Speaker
+"Maintenant, j'ai quarante-et-un francs","""Now I have forty-one francs.""",vocabulary_introduction,Male Speaker
+Vingt-et-un,"Say, ""Twenty-one.""",vocabulary_introduction,Male Speaker
+Vingt-trois,"Say, ""Twenty-three.""",vocabulary_introduction,Male Speaker
+Trente-et-un,"Say, ""thirty-one.""",vocabulary_introduction,Male Speaker
+Cinquante-et-un,And now fifty-one.,vocabulary_introduction,Male Speaker
+Cinquante,What's the number fifty in French?,vocabulary_introduction,Male Speaker
+Soixante,Now the number sixty.,vocabulary_introduction,Male Speaker
+Soixante-et-un,"Say, ""Sixty-one.""",vocabulary_introduction,Male Speaker
+Cinquante-sept,"Say, ""Fifty-seven.""",vocabulary_introduction,Male Speaker
+Je vous dois combien?,Ask how much you owe.,question,Male Speaker
+Vous me devez...,"Say, ""You owe me...""",vocabulary_introduction,Female Speaker
+Vous me devez trente-et-un francs,"Say, ""You owe me thirty-one francs.""",vocabulary_introduction,Female Speaker
+Cinquante-trois francs,"Say, ""Fifty-three francs.""",vocabulary_introduction,Female Speaker
+C'est trop cher,"""That's too expensive.""",vocabulary_introduction,Male Speaker
+Ce n'est pas trop cher,"Say, ""It's not too expensive.""",negation,Female Speaker
+Soixante-et-un francs,"Now you say, ""Sixty-one francs.""",vocabulary_introduction,Male Speaker
+Je vous donne soixante-et-un francs,"Say, ""I'm giving you sixty-one francs.""",vocabulary_introduction,Male Speaker
+"Non, donnez-moi des dollars","Say, ""No, give me dollars.""",vocabulary_introduction,Female Speaker
+Je n'en ai pas,"Say, ""I haven't any.""",negation,Male Speaker
+"En dollars, ce n'est pas cher","Say, ""In dollars, it's not expensive.""",vocabulary_introduction,Female Speaker
+"Si, c'est cher","Say, ""Yes, it's expensive.""",vocabulary_introduction,Male Speaker
+Est-ce que vous comprenez l'anglais?,"How do you ask, ""Do you understand English?""",question,Male Speaker
+Vous comprenez très bien,"Say, ""You understand very well.""",vocabulary_introduction,Male Speaker
+Je parle français,"Do you remember how to say, ""I speak French""?",vocabulary_introduction,Female Speaker
+Vous parlez français,"Say, ""You speak French.""",vocabulary_introduction,Male Speaker
+Vous parlez trop vite!,"Here's how to say, ""You speak too fast.""",vocabulary_introduction,Male Speaker
+Je ne parle pas vite,"Say, ""I don't talk fast.""",negation,Female Speaker
+"Si, vous parlez très vite","Say, ""Yes, you speak very fast"".",vocabulary_introduction,Male Speaker
+"En anglais, je ne parle pas vite","Say, ""In English, I don't talk fast.""",vocabulary_introduction,Female Speaker
+"Mais en français, je ne vous comprends pas","Say, ""But in French, I don't understand you.""",vocabulary_introduction,Male Speaker
+Quand vous parlez français...,"Try to say, ""When you speak French...""",vocabulary_introduction,Male Speaker
+Vous parlez trop vite pour moi,"Say, ""You talk too fast for me.""",vocabulary_introduction,Male Speaker
+Cher,"Do you remember how to say ""expensive""?",vocabulary_introduction,Male Speaker
+Le vin est trop cher,Tell me the wine is too expensive.,vocabulary_introduction,Male Speaker
+Et vous parlez trop vite,"Say, ""And you speak too fast.""",vocabulary_introduction,Female Speaker
+Merci et ça suffit,"Say, ""Thank you and that's enough.""",vocabulary_introduction,Female Speaker

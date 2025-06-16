@@ -1,0 +1,101 @@
+lesson_number,position_in_lesson,phrase,teaching_cue,context,speaker_response
+2,1,L'anglais,"Say the word ""English"" in French.",vocabulary_introduction,Female Speaker
+2,2,Le français,"Say ""French"", meaning the French language.",vocabulary_introduction,Female Speaker
+2,3,Je comprends,"Say ""I understand.""",vocabulary_introduction,Female Speaker
+2,4,Je comprends le français,"And now say ""I understand French.""",vocabulary_introduction,Female Speaker
+2,5,Je comprends le français,Tell me that you understand French.,question,Male Speaker
+2,6,Un peu,"""A little"".",vocabulary_introduction,Male Speaker
+2,7,Je comprends un peu le français,Now tell me that you understand French a little.,vocabulary_introduction,Male Speaker
+2,8,Est-ce que vous comprenez?,Ask me if I understand.,question,Male Speaker
+2,9,Est-ce que vous comprenez le français?,Ask me if I understand French.,question,Female Speaker
+2,10,Est-ce que vous comprenez l'anglais?,"Ask, ""Do you understand English?""",question,Male Speaker
+2,11,"Non, Monsieur","Say, ""No, sir.""",vocabulary_introduction,Female Speaker
+2,12,Je ne comprends pas,"Say, ""I don't understand.""",negation,Female Speaker
+2,13,Je ne comprends pas l'anglais,"Say, ""I don't understand English.""",negation,Female Speaker
+2,14,Je ne comprends pas le français,"And now say, ""I don't understand French.""",negation,Female Speaker
+2,15,Je comprends un peu,"And how would you say, ""I understand a little.""",vocabulary_introduction,Female Speaker
+2,16,Je comprends l'anglais,"""I understand English.""",vocabulary_introduction,Female Speaker
+2,17,Je comprends un peu l'anglais,"""I understand English a little.""",vocabulary_introduction,Female Speaker
+2,18,Vous êtes,"Say, ""You are.""",vocabulary_introduction,Female Speaker
+2,19,Vous êtes américain,"Say, ""You are American.""",vocabulary_introduction,Female Speaker
+2,20,Est-ce que vous êtes américain?,"Ask, ""Are you American?""",question,Female Speaker
+2,21,"Oui, Mademoiselle","Say, ""Yes, Miss.""",vocabulary_introduction,Female Speaker
+2,22,Monsieur,"How do you say, ""Sir,"" or ""Mr.""?",vocabulary_introduction,Female Speaker
+2,23,"Non, Monsieur","Say, ""No, sir.""",vocabulary_introduction,Female Speaker
+2,24,Mademoiselle,"Say, ""Miss.""",vocabulary_introduction,Male Speaker
+2,25,"Pardon, Mademoiselle","Say, ""Excuse me, miss.""",vocabulary_introduction,Male Speaker
+2,26,Je comprends le français,"Say, ""I understand French.""",vocabulary_introduction,Male Speaker
+2,27,Je comprends un peu le français,"Say, ""I understand French a little.""",vocabulary_introduction,Male Speaker
+2,28,Est-ce que vous êtes américain?,"Do you remember how to ask, ""Are you American?""",question,Female Speaker
+2,29,"Oui, vous êtes américain","How would she say to him, ""Yes, you're American?""",vocabulary_introduction,Female Speaker
+2,30,Vous comprenez,"Say, ""You understand.""",vocabulary_introduction,Male Speaker
+2,31,Est-ce que vous comprenez?,"Ask, ""Do you understand?""",question,Male Speaker
+2,32,Est-ce que vous comprenez l'anglais?,"Ask the woman, ""Do you understand English?""",question,Male Speaker
+2,33,"Non, Monsieur","Say, ""No, Sir.""",vocabulary_introduction,Female Speaker
+2,34,Je ne comprends pas,"Say, ""I don't understand.""",negation,Female Speaker
+2,35,Bonjour,"Here's how the French say, ""Hello, good morning,"" or, ""Hi.""",vocabulary_introduction,Male Speaker
+2,36,Bon,"First, the word ""good"". Listen and repeat.",vocabulary_introduction,Male Speaker
+2,37,Jour,"Now, the word ""day.""",vocabulary_introduction,Male Speaker
+2,38,Bonjour,"Say, ""Hello, Miss.""",vocabulary_introduction,Male Speaker
+2,39,Madame,"If the woman were married, here's how you would address her. Listen and repeat.",vocabulary_introduction,Male Speaker
+2,40,"Bonjour, Madame","Say, ""Good morning, ma'am.""",vocabulary_introduction,Male Speaker
+2,41,"Bonjour, Monsieur","Say, ""Good morning, sir.""",vocabulary_introduction,Female Speaker
+2,42,Comment,"Say, ""How.""",vocabulary_introduction,Male Speaker
+2,43,Vous allez,"Say, ""You go.""",vocabulary_introduction,Male Speaker
+2,44,Comment allez-vous?,"Now ask, ""How are you?""",question,Male Speaker
+2,45,Comment?,"Say the word ""how"" alone.",vocabulary_introduction,Male Speaker
+2,46,"Très bien, merci","Her answer is ""Very well, thanks.""",vocabulary_introduction,Female Speaker
+2,47,Merci,"Practice the word ""Thanks.""",vocabulary_introduction,Female Speaker
+2,48,Bien,"Now the word ""Well.""",vocabulary_introduction,Male Speaker
+2,49,Très,"And now the word ""Very.""",vocabulary_introduction,Female Speaker
+2,50,"Très bien, merci","Now say, ""Very well, thanks.""",vocabulary_introduction,Female Speaker
+2,51,Comment allez-vous?,Ask the man how he is.,question,Female Speaker
+2,52,"Très bien, merci","Answer, ""Very well, thanks.""",vocabulary_introduction,Male Speaker
+2,53,"Très bien, Mademoiselle","Say, ""Very well, miss.""",vocabulary_introduction,Male Speaker
+2,54,Je vais bien,"""I'm well."" Listen and repeat.",vocabulary_introduction,Male Speaker
+2,55,Au revoir,"Here's how to say ""goodbye"" in French. Listen and repeat.",vocabulary_introduction,Male Speaker
+2,56,Bonjour,"And how do you say, ""Hello""?",vocabulary_introduction,Female Speaker
+2,57,"Bonjour, Monsieur","Say, ""Hello, sir.""",vocabulary_introduction,Female Speaker
+2,58,Comment allez-vous?,"Ask, ""How are you?""",question,Female Speaker
+2,59,"Très bien, Mademoiselle","Say, ""Very well, miss.""",vocabulary_introduction,Male Speaker
+2,60,Merci,"""Thank you.""",vocabulary_introduction,Male Speaker
+2,61,"Je vais bien, merci","""I'm well, thanks.""",vocabulary_introduction,Male Speaker
+2,62,Au revoir,"Say, ""Goodbye.""",vocabulary_introduction,Male Speaker
+2,63,Je ne comprends pas,"Say, ""I don't understand.""",negation,Female Speaker
+2,64,"Bonjour, Madame","Say, ""Good morning, ma'am.""",vocabulary_introduction,Male Speaker
+2,65,"Bonjour, Monsieur","Say, ""Good morning, sir.""",vocabulary_introduction,Female Speaker
+2,66,Est-ce que vous êtes américain?,Ask me if I'm American.,question,Female Speaker
+2,67,"Non, Madame","Say, ""No, ma'am.""",vocabulary_introduction,Male Speaker
+2,68,Je ne comprends pas,"Say, ""I don't understand.""",negation,Female Speaker
+2,69,Est-ce que vous comprenez le français?,"""Do you understand French?""",question,Female Speaker
+2,70,"Oui, Madame","""Yes, ma'am.""",vocabulary_introduction,Male Speaker
+2,71,Je comprends le français,"""I understand French.""",vocabulary_introduction,Male Speaker
+2,72,Je comprends un peu le français,"""I understand French a little.""",vocabulary_introduction,Male Speaker
+2,73,"Au revoir, Madame","Say, ""Goodbye, ma'am.""",vocabulary_introduction,Male Speaker
+2,74,"Au revoir, Monsieur","""Goodbye, sir.""",vocabulary_introduction,Female Speaker
+2,75,"Pardon, Madame","Do you remember how to say, ""Excuse me, ma'am?""",vocabulary_introduction,Male Speaker
+2,76,"Est-ce que vous comprenez, Madame?",Ask her if she understands.,question,Male Speaker
+2,77,"Ah, vous comprenez le français?","Now say, ""Ah, you understand French.""",question,Male Speaker
+2,78,"Oui, je comprends le français","""Yes, I understand French.""",vocabulary_introduction,Female Speaker
+2,79,Très bien,"Say, ""Very well.""",vocabulary_introduction,Male Speaker
+2,80,"Comment allez-vous, Madame?",Ask her how she is.,question,Male Speaker
+2,81,"Très bien, Monsieur, merci","""Very well, sir, thank you.""",vocabulary_introduction,Female Speaker
+2,82,Je vais bien,"""I'm well.""",vocabulary_introduction,Female Speaker
+2,83,Pardon,"Say, ""Excuse me.""",vocabulary_introduction,Male Speaker
+2,84,"Je ne comprends pas, Madame",Tell her you don't understand.,negation,Male Speaker
+2,85,Est-ce que vous comprenez l'anglais?,How would she ask you if you understand English?,question,Female Speaker
+2,86,"Oui, je comprends l'anglais","Tell her, ""Yes, I understand English.""",vocabulary_introduction,Male Speaker
+2,87,Je comprends le français,Tell her you understand French.,vocabulary_introduction,Male Speaker
+2,88,Je comprends un peu le français,Tell her you understand French a little.,vocabulary_introduction,Male Speaker
+2,89,Pas très bien,"Here's how you might say, ""Not very well."" Listen and repeat.",vocabulary_introduction,Male Speaker
+2,90,Je comprends un peu le français,"Say, ""I understand French a little.""",vocabulary_introduction,Male Speaker
+2,91,Pas très bien,"Say, ""Not very well.""",vocabulary_introduction,Male Speaker
+2,92,Je comprends un peu l'anglais,How does she say that she understands English a little?,vocabulary_introduction,Female Speaker
+2,93,Pas très bien,"""Not very well.""",vocabulary_introduction,Female Speaker
+2,94,Je ne comprends pas,"Say, ""I don't understand.""",negation,Female Speaker
+2,95,Je ne comprends pas très bien,"Try to say, ""I don't understand very well.""",negation,Female Speaker
+2,96,Vous comprenez le français?,Say you understand French?,question,Female Speaker
+2,97,Un peu,"Say, ""A little.""",vocabulary_introduction,Male Speaker
+2,98,Je comprends un peu le français,"""I understand French a little.""",vocabulary_introduction,Male Speaker
+2,99,Je ne comprends pas l'anglais,"""I don't understand English.""",negation,Female Speaker
+2,100,Au revoir,"Now say, ""Goodbye.""",vocabulary_introduction,Male Speaker

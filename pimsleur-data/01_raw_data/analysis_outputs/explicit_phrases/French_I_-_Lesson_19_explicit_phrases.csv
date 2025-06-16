@@ -1,0 +1,65 @@
+phrase,teaching_cue,context,speaker_response
+Vous parlez trop vite.,Tell me I talk too fast.,question,Male Speaker
+Beaucoup trop vite.,"Try to say, ""Much too fast.""",question,Male Speaker
+C'est trop cher.,Do you remember how to say that something is too expensive?,vocabulary_introduction,Female Speaker
+Cinquante francs.,"Say, ""Fifty francs.""",vocabulary_introduction,Male Speaker
+Soixante francs.,"Say, ""Sixty francs.""",vocabulary_introduction,Male Speaker
+Quarante-cinq francs.,"Say, ""Forty-five francs.""",vocabulary_introduction,Male Speaker
+Soixante-et-un francs.,"Say, ""Sixty-one francs.""",vocabulary_introduction,Male Speaker
+Cinquante-six francs.,"Say, ""Fifty-six francs.""",vocabulary_introduction,Male Speaker
+Vingt-et-un.,Say the number twenty-one.,vocabulary_introduction,Female Speaker
+"Soixante-huit, c'est trop cher.","Say, ""Sixty-eight, that's too expensive.""",vocabulary_introduction,Female Speaker
+Je vais vous donner...,"Say, ""I'm going to give you...""",vocabulary_introduction,Male Speaker
+Je vais vous donner cinquante-trois francs.,"""I'm going to give you fifty-three francs.""",vocabulary_introduction,Female Speaker
+Où est votre femme?,Ask me where my wife is.,question,Female Speaker
+Ma femme? Je ne sais pas.,"Say, ""My wife? I don't know.""",question,Male Speaker
+Où est votre mari?,Ask her where her husband is.,question,Male Speaker
+Mon mari est là-bas.,"Say, ""My husband is over there.""",vocabulary_introduction,Female Speaker
+Il est là-bas.,"""He's over there.""",vocabulary_introduction,Female Speaker
+Mon mari? Il est là-bas.,"Say, ""My husband? He is over there.""",vocabulary_introduction,Female Speaker
+Elle est là-bas.,"""She's over there.""",vocabulary_introduction,Male Speaker
+"Ma femme, elle est là-bas.","Say, ""My wife, she's over there.""",vocabulary_introduction,Male Speaker
+Est-ce qu'elle est là-bas?,Ask me if she's over there.,question,Male Speaker
+"Elle n'est pas là-bas, elle est ici.","Say, ""She's not over there, she's here.""",negation,Male Speaker
+Qu'est-ce que votre mari voudrait boire?,Ask the woman what her husband would like to drink.,question,Male Speaker
+Qu'est-ce qu'il voudrait boire?,"""What would he like to drink?""",question,Male Speaker
+Il voudrait boire de l'Orangina.,"Answer, ""He would like to drink some Orangina.""",vocabulary_introduction,Female Speaker
+Ou de l'eau.,"Say, ""Or water.""",vocabulary_introduction,Male Speaker
+Entrez.,"Here's how you say, ""Come in.""",vocabulary_introduction,Female Speaker
+Enchanté.,"Say, ""Pleased to meet you.""",vocabulary_introduction,Female Speaker
+"Entrez, s'il vous plaît.","Say, ""Come in, please.""",vocabulary_introduction,Female Speaker
+Qu'est-ce que vous voudriez boire?,Ask the person what he would like to drink.,question,Female Speaker
+Et votre femme?,"Say, ""And your wife?""",vocabulary_introduction,Female Speaker
+Qu'est-ce qu'elle voudrait boire?,"Ask, ""What would she like to drink?""",question,Female Speaker
+Je suis Madame Jones.,"Say, ""I'm Mrs. Jones.""",vocabulary_introduction,Female Speaker
+Où habitez-vous?,"""Where do you live?""",question,Male Speaker
+Habiter.,"What's the word ""to live"" in French?",vocabulary_introduction,Male Speaker
+Vous habitez.,"Say, ""You live.""",vocabulary_introduction,Male Speaker
+J'habite.,"Try to say, ""I live.""",vocabulary_introduction,Male Speaker
+Où habitez-vous?,"Ask, ""Where do you live?""",question,Male Speaker
+Rue Saint-Jacques.,"Say, ""On the 'rue Saint-Jacques.'""",vocabulary_introduction,Female Speaker
+Est-ce que vous habitez ici?,Ask the man if he lives here.,question,Female Speaker
+"Oui, avec ma femme.","Answer, ""Yes, with my wife.""",vocabulary_introduction,Male Speaker
+Nous habitons ici.,"""We live here.""",vocabulary_introduction,Male Speaker
+Nous habitons.,"How do you say ""we live"" in French?",vocabulary_introduction,Male Speaker
+Voulez-vous?,"Do you remember how to say, ""Do you want?""",vocabulary_introduction,Male Speaker
+Nous voulons.,"Now try to say, ""We want.""",vocabulary_introduction,Female Speaker
+Nous habitons ici.,"Say, ""We live here.""",vocabulary_introduction,Female Speaker
+Et nous voudrions boire quelque chose.,"Try to say, ""And we would like to drink something.""",vocabulary_introduction,Female Speaker
+Mon mari et moi.,"Say, ""My husband and I.""",vocabulary_introduction,Female Speaker
+Nous voudrions boire de l'Orangina.,"Say, ""We'd like to drink some Orangina.""",vocabulary_introduction,Female Speaker
+Est-ce que vous voudriez aussi de l'Orangina?,"Ask the man, ""Would you like Orangina too?""",question,Female Speaker
+Ma femme et moi.,"Say, ""My wife and I.""",vocabulary_introduction,Male Speaker
+Nous n'habitons pas ici.,"Say, ""We don't live here.""",negation,Male Speaker
+Nous voudrions boire de l'eau.,"Say, ""We'd like to drink water.""",vocabulary_introduction,Male Speaker
+Il voudrait boire de l'eau.,"Say, ""He would like to drink water.""",vocabulary_introduction,Male Speaker
+Mais nous voudrions du vin.,"Say, ""But we'd like wine.""",vocabulary_introduction,Female Speaker
+Il n'est pas ici.,Tell him he's not here.,negation,Female Speaker
+Je ne sais pas.,"Tell him, ""I don't know.""",vocabulary_introduction,Female Speaker
+Nous habitons à Washington.,Use this information in replying to his next question.,vocabulary_introduction,Female Speaker
+"Et vous, Monsieur? Où habitez-vous?",Ask him where he lives.,question,Female Speaker
+Avec votre femme?,"Ask him, ""With your wife?""",question,Female Speaker
+C'est mon mari.,"Say, ""It's my husband.""",vocabulary_introduction,Female Speaker
+"Jacques, voilà Monsieur Durand.","Say, ""Jack, there is Mister Durand.""",vocabulary_introduction,Female Speaker
+"Monsieur Durand, mon mari, Jacques.","Say, ""Mister Durand, my husband Jack.""",vocabulary_introduction,Female Speaker
+"Maintenant, nous pouvons boire quelque chose et parler.","Say, ""Now we can drink something and talk.""",vocabulary_introduction,Female Speaker

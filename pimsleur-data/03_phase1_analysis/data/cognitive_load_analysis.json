@@ -1,0 +1,166 @@
+{
+  "lesson_metrics": {
+    "1": {
+      "total_items": 60,
+      "unique_items": 60,
+      "new_items": 60,
+      "familiar_items": 0,
+      "review_items": 0,
+      "novelty_ratio": 1.0,
+      "review_ratio": 0.0,
+      "cognitive_load_score": 10,
+      "lifecycle_distribution": {
+        "introduction": 60,
+        "intensive_practice": 0,
+        "consolidation": 0,
+        "maintenance": 0,
+        "reactivation": 0
+      },
+      "repetition_density": 1.0
+    },
+    "2": {
+      "total_items": 76,
+      "unique_items": 76,
+      "new_items": 48,
+      "familiar_items": 28,
+      "review_items": 0,
+      "novelty_ratio": 0.632,
+      "review_ratio": 0.0,
+      "cognitive_load_score": 9.99,
+      "lifecycle_distribution": {
+        "introduction": 48,
+        "intensive_practice": 22,
+        "consolidation": 0,
+        "maintenance": 0,
+        "reactivation": 0
+      },
+      "repetition_density": 1.0
+    },
+    "3": {
+      "total_items": 102,
+      "unique_items": 102,
+      "new_items": 64,
+      "familiar_items": 38,
+      "review_items": 4,
+      "novelty_ratio": 0.627,
+      "review_ratio": 0.039,
+      "cognitive_load_score": 9.89,
+      "lifecycle_distribution": {
+        "introduction": 64,
+        "intensive_practice": 14,
+        "consolidation": 21,
+        "maintenance": 0,
+        "reactivation": 0
+      },
+      "repetition_density": 1.0
+    },
+    "4": {
+      "total_items": 112,
+      "unique_items": 112,
+      "new_items": 65,
+      "familiar_items": 47,
+      "review_items": 6,
+      "novelty_ratio": 0.58,
+      "review_ratio": 0.054,
+      "cognitive_load_score": 9.57,
+      "lifecycle_distribution": {
+        "introduction": 65,
+        "intensive_practice": 12,
+        "consolidation": 26,
+        "maintenance": 0,
+        "reactivation": 0
+      },
+      "repetition_density": 1.0
+    },
+    "5": {
+      "total_items": 72,
+      "unique_items": 72,
+      "new_items": 41,
+      "familiar_items": 31,
+      "review_items": 6,
+      "novelty_ratio": 0.569,
+      "review_ratio": 0.083,
+      "cognitive_load_score": 9.45,
+      "lifecycle_distribution": {
+        "introduction": 41,
+        "intensive_practice": 4,
+        "consolidation": 17,
+        "maintenance": 0,
+        "reactivation": 1
+      },
+      "repetition_density": 1.0
+    }
+  },
+  "progression_analysis": {
+    "novelty_curve": [
+      {
+        "lesson": 1,
+        "novelty_ratio": 1.0
+      },
+      {
+        "lesson": 2,
+        "novelty_ratio": 0.632
+      },
+      {
+        "lesson": 3,
+        "novelty_ratio": 0.627
+      },
+      {
+        "lesson": 4,
+        "novelty_ratio": 0.58
+      },
+      {
+        "lesson": 5,
+        "novelty_ratio": 0.569
+      }
+    ],
+    "complexity_curve": [
+      {
+        "lesson": 1,
+        "avg_complexity": 8
+      },
+      {
+        "lesson": 2,
+        "avg_complexity": 8
+      },
+      {
+        "lesson": 3,
+        "avg_complexity": 8
+      },
+      {
+        "lesson": 4,
+        "avg_complexity": 8
+      },
+      {
+        "lesson": 5,
+        "avg_complexity": 8
+      }
+    ],
+    "cognitive_load_curve": [
+      {
+        "lesson": 1,
+        "load_score": 10
+      },
+      {
+        "lesson": 2,
+        "load_score": 9.99
+      },
+      {
+        "lesson": 3,
+        "load_score": 9.89
+      },
+      {
+        "lesson": 4,
+        "load_score": 9.57
+      },
+      {
+        "lesson": 5,
+        "load_score": 9.45
+      }
+    ],
+    "lifecycle_distribution": []
+  },
+  "insights": [
+    "Lesson 1 has high novelty (>70% new items) - true beginner start"
+  ]
+}

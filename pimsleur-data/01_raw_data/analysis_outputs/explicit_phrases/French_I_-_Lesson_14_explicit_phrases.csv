@@ -1,0 +1,66 @@
+phrase,teaching_cue,context,speaker_response
+Voilà.,Suppose that you are handing someone some money to pay for a purchase. What word would you use to accompany the gesture of handing the money to him?,vocabulary_introduction,Male Speaker
+Voilà treize francs.,"Say, ""Here are thirteen francs.""",vocabulary_introduction,Male Speaker
+Je veux douze francs.,"Say, ""I want twelve francs.""",vocabulary_introduction,Female Speaker
+Voilà quatorze francs.,"Say, ""Here are fourteen francs.""",vocabulary_introduction,Male Speaker
+"Est-ce que vous avez un franc, Monsieur?","Ask, ""Do you have one franc, sir?""",question,Female Speaker
+Avez-vous un franc?,"Ask again, ""Have you one franc?""",question,Female Speaker
+Voulez-vous un franc?,"Now ask, ""Do you want one franc?""",question,Female Speaker
+Je veux seize francs.,"Say, ""I want sixteen francs.""",vocabulary_introduction,Male Speaker
+Pas quinze.,"Say, not fifteen.",negation,Male Speaker
+Vous avez combien de dollars?,"Ask, ""How many dollars have you?""",question,Female Speaker
+Je n'ai pas de dollars.,"Here's how to say, ""I have no dollars.""",negation,Male Speaker
+J'ai beaucoup de francs.,"""I have many francs.""",vocabulary_introduction,Male Speaker
+Mais je n'ai pas de dollars.,"Say, ""But I haven't any dollars.""",negation,Male Speaker
+Vous n'avez pas de dollars?,"Ask, ""You haven't any dollars?""",question,Female Speaker
+Vous n'êtes pas américain.,"Say, ""You're not American.""",negation,Female Speaker
+Je suis américain.,"Say, ""I'm American.""",vocabulary_introduction,Male Speaker
+J'ai des francs.,"""I have some francs.""",vocabulary_introduction,Male Speaker
+J'ai des dollars.,Tell me you have some dollars.,vocabulary_introduction,Male Speaker
+Mais pas de francs.,"Say, ""But no francs.""",negation,Male Speaker
+Donnez-moi des francs.,Give me some francs.,vocabulary_introduction,Male Speaker
+Donnez-moi des dollars.,Ask me to give you some dollars.,vocabulary_introduction,Male Speaker
+"D'accord, voilà trois dollars.","Say, ""Okay, here are three dollars.""",vocabulary_introduction,Female Speaker
+Est-ce que vous avez des francs?,Ask her if she has some francs.,question,Male Speaker
+J'ai dix-sept francs.,"""I have seventeen francs.""",vocabulary_introduction,Female Speaker
+J'ai dix-neuf dollars.,"Say, ""I have nineteen dollars.""",vocabulary_introduction,Female Speaker
+Et j'ai aussi beaucoup de francs.,"Say, ""And I also have a lot of francs.""",vocabulary_introduction,Female Speaker
+Combien de francs avez-vous?,Ask her how many francs she has.,question,Male Speaker
+Je n'ai pas de bière.,"Say, ""I have no beer.""",negation,Male Speaker
+Je voudrais acheter de la bière.,"Say, ""I would like to buy some beer.""",vocabulary_introduction,Male Speaker
+"Moi, j'ai de la bière.","Say, ""Me, I've got some beer""",vocabulary_introduction,Female Speaker
+Voilà une bière.,"How does she say, ""Here's a beer""?",vocabulary_introduction,Female Speaker
+"Maintenant, donnez-moi dix-sept francs.","Say, ""Now give me seventeen francs.""",vocabulary_introduction,Male Speaker
+Je voudrais acheter du vin.,"Say, ""I would like to buy some wine.""",vocabulary_introduction,Male Speaker
+Est-ce que vous avez des dollars?,Ask me if I have any dollars.,question,Female Speaker
+"Non, je n'ai pas de dollars.","Say, ""No, I haven't any dollars.""",negation,Male Speaker
+Et des francs?,"Ask, ""And francs?""",question,Female Speaker
+Combien?,"Ask, ""How many?""",question,Female Speaker
+Ce n'est pas beaucoup.,"Say, ""It's not many.""",negation,Female Speaker
+"Pardon, Madame.","Now let's review how to ask for directions. Say, ""excuse me, ma'am.""",vocabulary_introduction,Male Speaker
+Où est le boulevard Saint-Michel?,"""Where is Saint Michael Boulevard?""",question,Male Speaker
+Est-ce que vous savez où est le boulevard?,"""Do you know where the boulevard is?""",question,Male Speaker
+Est-ce que c'est là-bas?,"""Is it down there?""",question,Male Speaker
+Ou est-ce que c'est ici?,"""Or is it here?""",question,Male Speaker
+"Merci, Madame.",Thank her.,vocabulary_introduction,Male Speaker
+Merci beaucoup.,"""Thank you very much.""",vocabulary_introduction,Male Speaker
+Je voudrais acheter quelque chose.,"An American woman is talking to her husband. They are in France. How does she say, ""I would like to buy something.""",vocabulary_introduction,Female Speaker
+Donnez-moi quinze dollars.,"Say, ""Give me fifteen dollars.""",vocabulary_introduction,Female Speaker
+"Non, donnez-moi dix-sept ou dix-huit dollars.","Say, ""No, give me seventeen or eighteen dollars.""",vocabulary_introduction,Female Speaker
+Est-ce que vous avez des francs?,How does she ask him if he has any francs?,question,Female Speaker
+"J'ai beaucoup de dollars, mais pas de francs.","How does she tell him that she has a lot of dollars, but no francs.",vocabulary_introduction,Male Speaker
+Combien de francs voulez-vous?,Ask her how many francs she wants?,question,Male Speaker
+"Oh, dix-huit ou dix-neuf?","Say, ""Oh, eighteen or nineteen.""",vocabulary_introduction,Female Speaker
+Je donne.,"He wants to say, ""I'm giving you ten dollars. Remembering that ""you give"" is ""vous donnez"" try to figure out how to say, ""I give.""",vocabulary_introduction,Male Speaker
+Je vous donne.,"Now try to say, ""I give you.""",vocabulary_introduction,Male Speaker
+Je vous donne dix dollars.,"""I'm giving you ten dollars.""",vocabulary_introduction,Male Speaker
+Mais je n'ai pas de francs.,"Say, ""But I haven't any francs.""",negation,Female Speaker
+Qu'est-ce que vous allez faire?,"Ask, ""What are you going to do?""",question,Female Speaker
+Vous n'avez pas de francs.,"Say, ""You haven't any francs.""",negation,Female Speaker
+"Alors, je vais acheter des francs.","Say, ""Well then I'm going to buy some francs.""",vocabulary_introduction,Female Speaker
+"Donnez-moi des dollars, s'il vous plaît.","Say, ""Give me some dollars, please.""",vocabulary_introduction,Female Speaker
+Voilà seize dollars.,"He says, ""Here are sixteen dollars.""",vocabulary_introduction,Female Speaker
+C'est beaucoup.,"How did she say, ""That's a lot""?",vocabulary_introduction,Female Speaker
+"Non, ce n'est pas beaucoup.","How did she say, ""No, it's not a lot""?",negation,Female Speaker
+"Ici, ce n'est pas beaucoup.","She says here, ""it's not a lot.""",negation,Female Speaker
+"Mais chez moi, c'est beaucoup.","She says, ""But in my place"", meaning in America, ""it's a lot.""",vocabulary_introduction,Female Speaker

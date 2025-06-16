@@ -1,0 +1,750 @@
+{
+  "summary": {
+    "total_utterances": 888,
+    "total_explicit_phrases": 359,
+    "unique_phrases": 278,
+    "lessons_analyzed": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ]
+  },
+  "lifecycle_distribution": {
+    "introduction": 189,
+    "active": 25,
+    "consolidation": 22,
+    "intensive_practice": 41,
+    "maintenance": 1
+  },
+  "template_patterns": {
+    "est-ce que + [PRONOUN] + [VERB]": 21,
+    "je + [VERB]": 64,
+    "vous + [VERB]": 33,
+    "comment + [VERB]-[PRONOUN]": 4,
+    "où est + [NOUN]": 6
+  },
+  "high_frequency_phrases": [
+    {
+      "phrase": "Je comprends un peu le français.",
+      "occurrences": 45,
+      "lessons": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "lifecycle": "consolidation",
+      "template": "je + [VERB]"
+    },
+    {
+      "phrase": "Est-ce que vous êtes américain?",
+      "occurrences": 32,
+      "lessons": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "lifecycle": "consolidation",
+      "template": "est-ce que + [PRONOUN] + [VERB]"
+    },
+    {
+      "phrase": "Je comprends le français.",
+      "occurrences": 27,
+      "lessons": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "lifecycle": "consolidation",
+      "template": "je + [VERB]"
+    },
+    {
+      "phrase": "Est-ce que vous comprenez le français?",
+      "occurrences": 27,
+      "lessons": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "lifecycle": "consolidation",
+      "template": "est-ce que + [PRONOUN] + [VERB]"
+    },
+    {
+      "phrase": "Je ne comprends pas.",
+      "occurrences": 24,
+      "lessons": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "lifecycle": "consolidation",
+      "template": "je + [VERB]"
+    },
+    {
+      "phrase": "Comment allez-vous?",
+      "occurrences": 24,
+      "lessons": [
+        2,
+        3,
+        4,
+        5
+      ],
+      "lifecycle": "consolidation",
+      "template": "comment + [VERB]-[PRONOUN]"
+    },
+    {
+      "phrase": "Est-ce que vous comprenez l'anglais?",
+      "occurrences": 23,
+      "lessons": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "lifecycle": "consolidation",
+      "template": "est-ce que + [PRONOUN] + [VERB]"
+    },
+    {
+      "phrase": "Un peu.",
+      "occurrences": 22,
+      "lessons": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "lifecycle": "consolidation",
+      "template": null
+    },
+    {
+      "phrase": "Pas très bien.",
+      "occurrences": 20,
+      "lessons": [
+        2,
+        3,
+        4
+      ],
+      "lifecycle": "intensive_practice",
+      "template": null
+    },
+    {
+      "phrase": "Je ne comprends pas l'anglais.",
+      "occurrences": 19,
+      "lessons": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "lifecycle": "consolidation",
+      "template": "je + [VERB]"
+    },
+    {
+      "phrase": "Au revoir.",
+      "occurrences": 19,
+      "lessons": [
+        2,
+        3,
+        4,
+        5
+      ],
+      "lifecycle": "consolidation",
+      "template": null
+    },
+    {
+      "phrase": "Pardon.",
+      "occurrences": 18,
+      "lessons": [
+        1,
+        2,
+        3,
+        5
+      ],
+      "lifecycle": "consolidation",
+      "template": null
+    },
+    {
+      "phrase": "Non, Monsieur.",
+      "occurrences": 17,
+      "lessons": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "lifecycle": "consolidation",
+      "template": null
+    },
+    {
+      "phrase": "Bonjour.",
+      "occurrences": 17,
+      "lessons": [
+        2,
+        3,
+        4,
+        5
+      ],
+      "lifecycle": "consolidation",
+      "template": null
+    },
+    {
+      "phrase": "Très bien, merci.",
+      "occurrences": 16,
+      "lessons": [
+        2,
+        3,
+        4,
+        5
+      ],
+      "lifecycle": "consolidation",
+      "template": null
+    },
+    {
+      "phrase": "Bonjour, Monsieur.",
+      "occurrences": 15,
+      "lessons": [
+        2,
+        3,
+        4,
+        5
+      ],
+      "lifecycle": "consolidation",
+      "template": null
+    },
+    {
+      "phrase": "Oui, Mademoiselle.",
+      "occurrences": 14,
+      "lessons": [
+        1,
+        2,
+        4
+      ],
+      "lifecycle": "consolidation",
+      "template": null
+    },
+    {
+      "phrase": "Est-ce que vous comprenez?",
+      "occurrences": 14,
+      "lessons": [
+        1,
+        2
+      ],
+      "lifecycle": "intensive_practice",
+      "template": "est-ce que + [PRONOUN] + [VERB]"
+    },
+    {
+      "phrase": "Je ne comprends pas le français.",
+      "occurrences": 14,
+      "lessons": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "lifecycle": "consolidation",
+      "template": "je + [VERB]"
+    },
+    {
+      "phrase": "Vous comprenez.",
+      "occurrences": 13,
+      "lessons": [
+        1,
+        2,
+        4
+      ],
+      "lifecycle": "consolidation",
+      "template": "vous + [VERB]"
+    }
+  ],
+  "cross_lesson_phrases": [
+    {
+      "phrase": "Est-ce que vous comprenez l'anglais?",
+      "num_lessons": 5,
+      "lessons": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "total_occurrences": 23,
+      "contexts": [
+        "question"
+      ]
+    },
+    {
+      "phrase": "Est-ce que vous comprenez le français?",
+      "num_lessons": 5,
+      "lessons": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "total_occurrences": 27,
+      "contexts": [
+        "question"
+      ]
+    },
+    {
+      "phrase": "Je comprends un peu.",
+      "num_lessons": 5,
+      "lessons": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "total_occurrences": 12,
+      "contexts": [
+        "vocabulary_introduction",
+        "phrase_construction",
+        "affirmation"
+      ]
+    },
+    {
+      "phrase": "Je comprends un peu le français.",
+      "num_lessons": 4,
+      "lessons": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "total_occurrences": 45,
+      "contexts": [
+        "vocabulary_introduction",
+        "phrase_construction",
+        "affirmation"
+      ]
+    },
+    {
+      "phrase": "Est-ce que vous êtes américain?",
+      "num_lessons": 4,
+      "lessons": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "total_occurrences": 32,
+      "contexts": [
+        "question"
+      ]
+    },
+    {
+      "phrase": "Pardon.",
+      "num_lessons": 4,
+      "lessons": [
+        1,
+        2,
+        3,
+        5
+      ],
+      "total_occurrences": 18,
+      "contexts": [
+        "vocabulary_introduction"
+      ]
+    },
+    {
+      "phrase": "Non, Monsieur.",
+      "num_lessons": 4,
+      "lessons": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "total_occurrences": 17,
+      "contexts": [
+        "vocabulary_introduction",
+        "phrase_construction",
+        "response"
+      ]
+    },
+    {
+      "phrase": "Je ne comprends pas.",
+      "num_lessons": 4,
+      "lessons": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "total_occurrences": 24,
+      "contexts": [
+        "negation"
+      ]
+    },
+    {
+      "phrase": "Je ne comprends pas l'anglais.",
+      "num_lessons": 4,
+      "lessons": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "total_occurrences": 19,
+      "contexts": [
+        "negation"
+      ]
+    },
+    {
+      "phrase": "Je comprends le français.",
+      "num_lessons": 4,
+      "lessons": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "total_occurrences": 27,
+      "contexts": [
+        "vocabulary_introduction",
+        "phrase_construction",
+        "question",
+        "affirmation"
+      ]
+    },
+    {
+      "phrase": "Je ne comprends pas le français.",
+      "num_lessons": 4,
+      "lessons": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "total_occurrences": 14,
+      "contexts": [
+        "negation"
+      ]
+    },
+    {
+      "phrase": "Un peu.",
+      "num_lessons": 4,
+      "lessons": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "total_occurrences": 22,
+      "contexts": [
+        "vocabulary_introduction",
+        "response"
+      ]
+    },
+    {
+      "phrase": "Bonjour.",
+      "num_lessons": 4,
+      "lessons": [
+        2,
+        3,
+        4,
+        5
+      ],
+      "total_occurrences": 17,
+      "contexts": [
+        "vocabulary_introduction",
+        "greeting"
+      ]
+    },
+    {
+      "phrase": "Bonjour, Mademoiselle.",
+      "num_lessons": 4,
+      "lessons": [
+        2,
+        3,
+        4,
+        5
+      ],
+      "total_occurrences": 11,
+      "contexts": [
+        "vocabulary_introduction",
+        "greeting"
+      ]
+    },
+    {
+      "phrase": "Bonjour, Monsieur.",
+      "num_lessons": 4,
+      "lessons": [
+        2,
+        3,
+        4,
+        5
+      ],
+      "total_occurrences": 15,
+      "contexts": [
+        "vocabulary_introduction",
+        "greeting"
+      ]
+    },
+    {
+      "phrase": "Comment allez-vous?",
+      "num_lessons": 4,
+      "lessons": [
+        2,
+        3,
+        4,
+        5
+      ],
+      "total_occurrences": 24,
+      "contexts": [
+        "question"
+      ]
+    },
+    {
+      "phrase": "Très bien, merci.",
+      "num_lessons": 4,
+      "lessons": [
+        2,
+        3,
+        4,
+        5
+      ],
+      "total_occurrences": 16,
+      "contexts": [
+        "vocabulary_introduction",
+        "response"
+      ]
+    },
+    {
+      "phrase": "Au revoir.",
+      "num_lessons": 4,
+      "lessons": [
+        2,
+        3,
+        4,
+        5
+      ],
+      "total_occurrences": 19,
+      "contexts": [
+        "vocabulary_introduction",
+        "farewell"
+      ]
+    },
+    {
+      "phrase": "Oui, Mademoiselle.",
+      "num_lessons": 3,
+      "lessons": [
+        1,
+        2,
+        4
+      ],
+      "total_occurrences": 14,
+      "contexts": [
+        "vocabulary_introduction",
+        "phrase_construction",
+        "response"
+      ]
+    },
+    {
+      "phrase": "Vous comprenez.",
+      "num_lessons": 3,
+      "lessons": [
+        1,
+        2,
+        4
+      ],
+      "total_occurrences": 13,
+      "contexts": [
+        "vocabulary_introduction",
+        "question"
+      ]
+    }
+  ],
+  "introduction_sequence": [
+    {
+      "lesson": 1,
+      "position": 1,
+      "phrase": "Pardon, est-ce que vous comprenez l'anglais?",
+      "template": "est-ce que + [PRONOUN] + [VERB]"
+    },
+    {
+      "lesson": 1,
+      "position": 7,
+      "phrase": "Don.",
+      "template": null
+    },
+    {
+      "lesson": 1,
+      "position": 8,
+      "phrase": "Par.",
+      "template": null
+    },
+    {
+      "lesson": 1,
+      "position": 13,
+      "phrase": "anglais.",
+      "template": null
+    },
+    {
+      "lesson": 1,
+      "position": 19,
+      "phrase": "Comprenez.",
+      "template": null
+    },
+    {
+      "lesson": 1,
+      "position": 20,
+      "phrase": "Ne.",
+      "template": null
+    },
+    {
+      "lesson": 1,
+      "position": 21,
+      "phrase": "Prenez.",
+      "template": null
+    },
+    {
+      "lesson": 1,
+      "position": 22,
+      "phrase": "Com.",
+      "template": null
+    },
+    {
+      "lesson": 1,
+      "position": 26,
+      "phrase": "Vous.",
+      "template": null
+    },
+    {
+      "lesson": 1,
+      "position": 32,
+      "phrase": "Est-ce que.",
+      "template": null
+    },
+    {
+      "lesson": 1,
+      "position": 39,
+      "phrase": "Non.",
+      "template": null
+    },
+    {
+      "lesson": 1,
+      "position": 41,
+      "phrase": "Sieur.",
+      "template": null
+    },
+    {
+      "lesson": 1,
+      "position": 42,
+      "phrase": "Mon.",
+      "template": null
+    },
+    {
+      "lesson": 1,
+      "position": 49,
+      "phrase": "Comprends.",
+      "template": null
+    },
+    {
+      "lesson": 1,
+      "position": 50,
+      "phrase": "Prends.",
+      "template": null
+    },
+    {
+      "lesson": 1,
+      "position": 56,
+      "phrase": "Je comprends. Vous comprenez.",
+      "template": "je + [VERB]"
+    },
+    {
+      "lesson": 1,
+      "position": 65,
+      "phrase": "Pas.",
+      "template": null
+    },
+    {
+      "lesson": 1,
+      "position": 66,
+      "phrase": "Comprends pas.",
+      "template": null
+    },
+    {
+      "lesson": 1,
+      "position": 67,
+      "phrase": "Je ne.",
+      "template": "je + [VERB]"
+    },
+    {
+      "lesson": 1,
+      "position": 74,
+      "phrase": "Non, je ne comprends pas.",
+      "template": "je + [VERB]"
+    },
+    {
+      "lesson": 1,
+      "position": 83,
+      "phrase": "Prends le français.",
+      "template": null
+    },
+    {
+      "lesson": 1,
+      "position": 84,
+      "phrase": "Comprends le français.",
+      "template": null
+    },
+    {
+      "lesson": 1,
+      "position": 92,
+      "phrase": "Peu.",
+      "template": null
+    },
+    {
+      "lesson": 1,
+      "position": 100,
+      "phrase": "Un peu le français.",
+      "template": null
+    },
+    {
+      "lesson": 1,
+      "position": 104,
+      "phrase": "Cain.",
+      "template": null
+    },
+    {
+      "lesson": 1,
+      "position": 105,
+      "phrase": "Amer.",
+      "template": null
+    },
+    {
+      "lesson": 1,
+      "position": 144,
+      "phrase": "Est-ce que vous comprenez l'anglais, Monsieur?",
+      "template": "est-ce que + [PRONOUN] + [VERB]"
+    },
+    {
+      "lesson": 1,
+      "position": 145,
+      "phrase": "Oui, Mademoiselle. Je comprends l'anglais.",
+      "template": "je + [VERB]"
+    },
+    {
+      "lesson": 2,
+      "position": 1,
+      "phrase": "Pardon, Monsieur?",
+      "template": null
+    },
+    {
+      "lesson": 2,
+      "position": 5,
+      "phrase": "Oui. Est-ce que vous comprenez l'anglais, Mademoiselle?",
+      "template": "est-ce que + [PRONOUN] + [VERB]"
+    }
+  ]
+}

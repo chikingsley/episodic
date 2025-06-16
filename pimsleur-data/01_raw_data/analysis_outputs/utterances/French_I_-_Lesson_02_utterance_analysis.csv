@@ -1,0 +1,244 @@
+utterance_text,speaker,utterance_type,narrator_cue,core_lemmas
+"Pardon, Monsieur?",Female Speaker,ConversationalExchange,,pardon monsieur
+Est-ce que vous comprenez le français?,Female Speaker,ConversationalExchange,,est-ce que vous comprendre le français
+Un peu.,Male Speaker,ConversationalExchange,,un peu
+Est-ce que vous êtes américain?,Female Speaker,ConversationalExchange,,est-ce que vous être américain
+"Oui. Est-ce que vous comprenez l'anglais, Mademoiselle?",Male Speaker,ConversationalExchange,,oui est-ce que vous comprendre l' anglais mademoiselle
+"Non, Monsieur, je ne comprends pas l'anglais.",Female Speaker,ConversationalExchange,,non monsieur je ne comprendre pas l' anglais
+L'anglais.,Female Speaker,PromptedRecall,"Say the word ""English"" in French.",l' anglais
+Le français.,Female Speaker,PromptedRecall,"Say ""French"", meaning the French language.",le français
+Le français.,Female Speaker,DirectRepetition,Le français.,le français
+Je comprends.,Female Speaker,PromptedRecall,"Say ""I understand.""",je comprendre
+Je comprends.,Female Speaker,DirectRepetition,Je comprends.,je comprendre
+Je comprends le français.,Female Speaker,PromptedRecall,"And now say ""I understand French.""",je comprendre le français
+Je comprends le français.,Female Speaker,DirectRepetition,Je comprends le français.,je comprendre le français
+Je comprends le français.,Female Speaker,DirectRepetition,Je comprends le français.,je comprendre le français
+Je comprends le français.,Female Speaker,DirectRepetition,Je comprends le français.,je comprendre le français
+Prends le.,Female Speaker,DirectRepetition,Prends le.,prendre le
+Prends le.,Female Speaker,DirectRepetition,Prends le.,prendre le
+Je comprends le français.,Female Speaker,DirectRepetition,Je comprends le français.,je comprendre le français
+Je comprends le français.,Female Speaker,DirectRepetition,Je comprends le français.,je comprendre le français
+Je comprends le français.,Male Speaker,PromptedRecall,Tell me that you understand French.,je comprendre le français
+Un peu.,Male Speaker,PromptedRecall,"""A little"".",un peu
+Je comprends un peu le français.,Male Speaker,PromptedRecall,Now tell me that you understand French a little.,je comprendre un peu le français
+Je comprends un peu le français.,Male Speaker,DirectRepetition,Je comprends un peu le français.,je comprendre un peu le français
+Est-ce que vous comprenez?,Male Speaker,PromptedRecall,Ask me if I understand.,est-ce que vous comprendre
+Est-ce que vous comprenez?,Male Speaker,DirectRepetition,Est-ce que vous comprenez?,est-ce que vous comprendre
+Est-ce que vous comprenez le français?,Female Speaker,PromptedRecall,Ask me if I understand French.,est-ce que vous comprendre le français
+Est-ce que vous comprenez le français?,Male Speaker,PromptedRecall,Listen and repeat.,est-ce que vous comprendre le français
+Est-ce que vous comprenez le français?,Male Speaker,DirectRepetition,Est-ce que vous comprenez le français?,est-ce que vous comprendre le français
+Est-ce que vous comprenez l'anglais?,Male Speaker,PromptedRecall,"Ask, ""Do you understand English?""",est-ce que vous comprendre l' anglais
+"Non, Monsieur.",Female Speaker,PromptedRecall,"Say, ""No, sir.""",non monsieur
+Je ne comprends pas.,Female Speaker,PromptedRecall,"Say, ""I don't understand.""",je ne comprendre pas
+Je ne comprends pas.,Female Speaker,DirectRepetition,Je ne comprends pas.,je ne comprendre pas
+Je ne comprends pas.,Female Speaker,DirectRepetition,Je ne comprends pas.,je ne comprendre pas
+Je ne comprends pas l'anglais.,Female Speaker,PromptedRecall,"Say, ""I don't understand English.""",je ne comprendre pas l' anglais
+Je ne comprends pas l'anglais.,Female Speaker,DirectRepetition,Je ne comprends pas l'anglais.,je ne comprendre pas l' anglais
+Je ne comprends pas le français.,Female Speaker,PromptedRecall,"And now say, ""I don't understand French.""",je ne comprendre pas le français
+Je ne comprends pas le français.,Female Speaker,DirectRepetition,Je ne comprends pas le français.,je ne comprendre pas le français
+Je ne comprends pas le français.,Female Speaker,DirectRepetition,Je ne comprends pas le français.,je ne comprendre pas le français
+Je ne comprends pas le français.,Female Speaker,DirectRepetition,Repeat again after the speaker.,je ne comprendre pas le français
+Je comprends un peu.,Female Speaker,PromptedRecall,"And how would you say, ""I understand a little.""",je comprendre un peu
+Je ne comprends pas le français.,Female Speaker,PromptedRecall,"Say again, ""I don't understand French.""",je ne comprendre pas le français
+Je comprends l'anglais.,Female Speaker,PromptedRecall,"""I understand English.""",je comprendre l' anglais
+Je comprends un peu l'anglais.,Female Speaker,PromptedRecall,"""I understand English a little.""",je comprendre un peu l' anglais
+Peu l'anglais.,Female Speaker,DirectRepetition,Peu l'anglais.,peu l' anglais
+Peu l'anglais.,Female Speaker,DirectRepetition,Peu l'anglais.,peu l' anglais
+Je comprends un peu l'anglais.,Female Speaker,DirectRepetition,Je comprends un peu l'anglais.,je comprendre un peu l' anglais
+Vous êtes.,Female Speaker,PromptedRecall,"Say, ""You are.""",vous être
+Vous êtes américain.,Female Speaker,PromptedRecall,"Say, ""You are American.""",vous être américain
+Vous êtes américain.,Female Speaker,DirectRepetition,Vous êtes américain.,vous être américain
+Est-ce que vous êtes américain?,Female Speaker,PromptedRecall,"Ask, ""Are you American?""",est-ce que vous être américain
+Est-ce que vous êtes américain?,Female Speaker,DirectRepetition,Est-ce que vous êtes américain?,est-ce que vous être américain
+"Oui, Mademoiselle.",Female Speaker,PromptedRecall,"Say, ""Yes, Miss.""",oui mademoiselle
+Monsieur.,Female Speaker,PromptedRecall,"How do you say, ""Sir,"" or ""Mr.""?",monsieur
+"Non, Monsieur.",Female Speaker,PromptedRecall,"Say, ""No, sir.""",non monsieur
+Mademoiselle.,Male Speaker,PromptedRecall,"Say, ""Miss.""",mademoiselle
+Selle.,Male Speaker,DirectRepetition,Selle.,selle
+Selle.,Male Speaker,DirectRepetition,Selle.,selle
+Moi.,Male Speaker,DirectRepetition,Moi.,moi
+Moi.,Male Speaker,DirectRepetition,Moi.,moi
+Moiselle.,Male Speaker,DirectRepetition,Moiselle.,moiselle
+Moiselle.,Male Speaker,DirectRepetition,Moiselle.,moiselle
+Mad.,Male Speaker,DirectRepetition,Mad.,mad
+Mad.,Male Speaker,DirectRepetition,Mad.,mad
+Mademoiselle.,Male Speaker,DirectRepetition,Mademoiselle.,mademoiselle
+Mademoiselle.,Male Speaker,DirectRepetition,Mademoiselle.,mademoiselle
+"Pardon, Mademoiselle.",Male Speaker,PromptedRecall,"Say, ""Excuse me, miss.""",pardon mademoiselle
+Je comprends le français.,Male Speaker,PromptedRecall,"Say, ""I understand French.""",je comprendre le français
+Un peu.,Male Speaker,PromptedRecall,"Say, ""A little.""",un peu
+Je comprends un peu le français.,Male Speaker,PromptedRecall,"Say, ""I understand French a little.""",je comprendre un peu le français
+Je comprends un peu le français.,Male Speaker,DirectRepetition,Je comprends un peu le français.,je comprendre un peu le français
+Est-ce que vous êtes américain?,Female Speaker,PromptedRecall,"Do you remember how to ask, ""Are you American?""",est-ce que vous être américain
+Est-ce que vous êtes américain?,Female Speaker,DirectRepetition,Est-ce que vous êtes américain?,est-ce que vous être américain
+"Oui, vous êtes américain.",Female Speaker,PromptedRecall,"How would she say to him, ""Yes, you're American?""",oui vous être américain
+"Oui, vous êtes américain.",Female Speaker,DirectRepetition,"Oui, vous êtes américain.",oui vous être américain
+Vous comprenez l'anglais.,Female Speaker,PromptedRecall,"""You understand English.""",vous comprendre l' anglais
+Vous comprenez.,Male Speaker,PromptedRecall,"Say, ""You understand.""",vous comprendre
+Est-ce que vous comprenez?,Male Speaker,PromptedRecall,"Ask, ""Do you understand?""",est-ce que vous comprendre
+Est-ce que vous comprenez l'anglais?,Male Speaker,PromptedRecall,"Ask the woman, ""Do you understand English?""",est-ce que vous comprendre l' anglais
+Est-ce que vous comprenez l'anglais?,Male Speaker,DirectRepetition,Est-ce que vous comprenez l'anglais?,est-ce que vous comprendre l' anglais
+"Non, Monsieur.",Female Speaker,PromptedRecall,"Say, ""No, Sir.""",non monsieur
+Je ne comprends pas.,Female Speaker,PromptedRecall,"Say, ""I don't understand.""",je ne comprendre pas
+Bonjour.,Male Speaker,PromptedRecall,"Here's how the French say, ""Hello, good morning,"" or, ""Hi.""",bonjour
+Bon.,Male Speaker,DirectRepetition,Bon.,bon
+Bon.,Male Speaker,DirectRepetition,Bon.,bon
+Bon.,Male Speaker,DirectRepetition,Bon.,bon
+Jour.,Male Speaker,DirectRepetition,Jour.,jour
+Jour.,Male Speaker,DirectRepetition,Jour.,jour
+Jour.,Male Speaker,DirectRepetition,Jour.,jour
+Bonjour.,Male Speaker,DirectRepetition,Bonjour.,bonjour
+Bonjour.,Male Speaker,DirectRepetition,Bonjour.,bonjour
+"Bonjour, Mademoiselle.",Male Speaker,PromptedRecall,"Say, ""Hello, Miss.""",bonjour mademoiselle
+"Bonjour, Mademoiselle.",Male Speaker,DirectRepetition,"Bonjour, Mademoiselle.",bonjour mademoiselle
+Madame.,Male Speaker,DirectRepetition,Madame.,madame
+Madame.,Male Speaker,DirectRepetition,Madame.,madame
+Madame.,Male Speaker,DirectRepetition,Madame.,madame
+"Bonjour, Madame.",Male Speaker,PromptedRecall,"Say, ""Good morning, ma'am.""",bonjour madame
+"Bonjour, Madame.",Male Speaker,DirectRepetition,"Bonjour, Madame.",bonjour madame
+"Bonjour, Monsieur.",Female Speaker,PromptedRecall,"Say, ""Good morning, sir.""",bonjour monsieur
+Comment.,Male Speaker,DirectRepetition,Comment.,comment
+Comment.,Male Speaker,DirectRepetition,Comment.,comment
+Comment.,Male Speaker,DirectRepetition,Comment.,comment
+Comment.,Male Speaker,PromptedRecall,"Say, ""How.""",comment
+Vous allez.,Male Speaker,DirectRepetition,Vous allez.,vous aller
+Vous allez.,Male Speaker,DirectRepetition,Vous allez.,vous aller
+Vous allez.,Male Speaker,DirectRepetition,Vous allez.,vous aller
+Vous allez.,Male Speaker,PromptedRecall,"Say, ""You go.""",vous aller
+Comment allez-vous?,Male Speaker,DirectRepetition,Comment allez-vous?,comment aller vous
+Comment allez-vous?,Male Speaker,DirectRepetition,Comment allez-vous?,comment aller vous
+Comment?,Male Speaker,PromptedRecall,"Say the word ""how"" alone.",comment
+Comment?,Male Speaker,DirectRepetition,Comment?,comment
+Comment allez-vous?,Male Speaker,PromptedRecall,"Now ask, ""How are you?""",comment aller vous
+Comment allez-vous?,Male Speaker,DirectRepetition,Comment allez-vous?,comment aller vous
+"Bonjour, Madame.",Male Speaker,PromptedRecall,"Say, ""Good morning, ma'am.""",bonjour madame
+"Bonjour, Mademoiselle.",Male Speaker,PromptedRecall,"How would you say, ""Good morning, miss?""",bonjour mademoiselle
+Comment allez-vous?,Male Speaker,PromptedRecall,"Ask her, ""How are you?""",comment aller vous
+"Très bien, merci.",Female Speaker,ConversationalExchange,,très bien merci
+Merci.,Female Speaker,DirectRepetition,Merci.,merci
+Merci.,Female Speaker,DirectRepetition,Merci.,merci
+Merci.,Female Speaker,DirectRepetition,Merci.,merci
+Bien.,Male Speaker,DirectRepetition,Bien.,bien
+Bien.,Male Speaker,DirectRepetition,Bien.,bien
+Bien.,Male Speaker,DirectRepetition,Bien.,bien
+Très.,Female Speaker,DirectRepetition,Très.,très
+Très.,Female Speaker,DirectRepetition,Très.,très
+Très.,Female Speaker,DirectRepetition,Très.,très
+"Très bien, merci.",Female Speaker,PromptedRecall,"Now say, ""Very well, thanks.""",très bien merci
+"Très bien, merci.",Female Speaker,DirectRepetition,"Très bien, merci.",très bien merci
+"Bonjour, Monsieur.",Female Speaker,PromptedRecall,"Say, ""Good morning, sir.""",bonjour monsieur
+"Bonjour, Mademoiselle.",Male Speaker,PromptedRecall,"""Good morning, miss.""",bonjour mademoiselle
+Mademoiselle.,Male Speaker,DirectRepetition,Mademoiselle.,mademoiselle
+Comment allez-vous?,Female Speaker,PromptedRecall,Ask the man how he is.,comment aller vous
+"Comment allez-vous, Monsieur?",Female Speaker,DirectRepetition,"Comment allez-vous, Monsieur?",comment aller vous monsieur
+"Très bien, merci.",Male Speaker,PromptedRecall,"Answer, ""Very well, thanks.""",très bien merci
+"Très bien, Mademoiselle.",Male Speaker,PromptedRecall,"Say, ""Very well, miss.""",très bien mademoiselle
+Je vais bien.,Male Speaker,DirectRepetition,Je vais bien.,je aller bien
+Je vais bien.,Male Speaker,DirectRepetition,Je vais bien.,je aller bien
+Comment allez-vous?,Female Speaker,PromptedRecall,"Ask again, ""How are you?""",comment aller vous
+Comment allez-vous?,Female Speaker,DirectRepetition,Comment allez-vous?,comment aller vous
+"Très bien, merci.",Male Speaker,PromptedRecall,"Answer, ""Very well, thanks.""",très bien merci
+Je vais bien.,Male Speaker,PromptedRecall,"""I'm well.""",je aller bien
+Au revoir.,Male Speaker,DirectRepetition,Au revoir.,au revoir
+Voir.,Male Speaker,DirectRepetition,Voir.,voir
+Voir.,Male Speaker,DirectRepetition,Voir.,voir
+Au revoir.,Male Speaker,DirectRepetition,Au revoir.,au revoir
+Au revoir.,Male Speaker,DirectRepetition,Au revoir.,au revoir
+Au revoir.,Male Speaker,PromptedRecall,"Say, ""Goodbye.""",au revoir
+Bonjour.,Female Speaker,PromptedRecall,"And how do you say, ""Hello""?",bonjour
+"Bonjour, Monsieur.",Female Speaker,PromptedRecall,"Say, ""Hello, sir.""",bonjour monsieur
+Comment allez-vous?,Female Speaker,PromptedRecall,"Ask, ""How are you?""",comment aller vous
+"Très bien, Mademoiselle.",Male Speaker,PromptedRecall,"Say, ""Very well, miss.""",très bien mademoiselle
+"Très bien, Mademoiselle.",Male Speaker,DirectRepetition,"Très bien, Mademoiselle.",très bien mademoiselle
+Merci.,Male Speaker,PromptedRecall,"""Thank you.""",merci
+"Je vais bien, merci.",Male Speaker,PromptedRecall,"""I'm well, thanks.""",je aller bien merci
+"Je vais bien, merci.",Male Speaker,DirectRepetition,"Je vais bien, merci.",je aller bien merci
+Au revoir.,Male Speaker,PromptedRecall,"Say, ""Goodbye.""",au revoir
+Je ne comprends pas.,Female Speaker,PromptedRecall,"Say, ""I don't understand.""",je ne comprendre pas
+Je ne comprends pas.,Female Speaker,DirectRepetition,Je ne comprends pas.,je ne comprendre pas
+"Bonjour, Madame.",Male Speaker,PromptedRecall,"Say, ""Good morning, ma'am.""",bonjour madame
+"Bonjour, Madame.",Male Speaker,DirectRepetition,"Bonjour, Madame.",bonjour madame
+"Bonjour, Monsieur.",Female Speaker,PromptedRecall,"Say, ""Good morning, sir.""",bonjour monsieur
+Est-ce que vous êtes américain?,Female Speaker,PromptedRecall,Ask me if I'm American.,est-ce que vous être américain
+Est-ce que vous êtes américain?,Female Speaker,DirectRepetition,Est-ce que vous êtes américain?,est-ce que vous être américain
+"Non, Madame.",Male Speaker,PromptedRecall,"Say, ""No, ma'am.""",non madame
+Je ne comprends pas.,Female Speaker,PromptedRecall,"Say, ""I don't understand.""",je ne comprendre pas
+Est-ce que vous comprenez le français?,Female Speaker,PromptedRecall,"""Do you understand French?""",est-ce que vous comprendre le français
+Est-ce que vous comprenez le français?,Female Speaker,DirectRepetition,Est-ce que vous comprenez le français?,est-ce que vous comprendre le français
+"Oui, Madame.",Male Speaker,PromptedRecall,"""Yes, ma'am.""",oui madame
+Je comprends le français.,Male Speaker,PromptedRecall,"""I understand French.""",je comprendre le français
+Je comprends un peu le français.,Male Speaker,PromptedRecall,"""I understand French a little.""",je comprendre un peu le français
+Je comprends un peu le français.,Male Speaker,DirectRepetition,Je comprends un peu le français.,je comprendre un peu le français
+"Au revoir, Madame.",Male Speaker,PromptedRecall,"Say, ""Goodbye, ma'am.""",au revoir madame
+"Au revoir, Madame.",Male Speaker,DirectRepetition,"Au revoir, Madame.",au revoir madame
+"Au revoir, Monsieur.",Female Speaker,PromptedRecall,"""Goodbye, sir.""",au revoir monsieur
+"Pardon, Madame.",Male Speaker,PromptedRecall,"Do you remember how to say, ""Excuse me, ma'am?""",pardon madame
+"Pardon, Madame.",Male Speaker,DirectRepetition,"Pardon, Madame.",pardon madame
+Est-ce que vous comprenez?,Male Speaker,PromptedRecall,Ask her if she understands.,est-ce que vous comprendre
+"Est-ce que vous comprenez, Madame?",Male Speaker,DirectRepetition,"Est-ce que vous comprenez, Madame?",est-ce que vous comprendre madame
+"Oui, Monsieur, je comprends.",Female Speaker,ConversationalExchange,,oui monsieur je comprendre
+"Ah, vous comprenez le français?",Male Speaker,PromptedRecall,"Now say, ""Ah, you understand French.""",ah vous comprendre le français
+"Ah, vous comprenez le français?",Male Speaker,DirectRepetition,"Ah, vous comprenez le français?",ah vous comprendre le français
+"Oui, je comprends le français.",Female Speaker,ConversationalExchange,,oui je comprendre le français
+Très bien.,Male Speaker,DirectRepetition,Très bien.,très bien
+Très bien.,Male Speaker,DirectRepetition,Très bien.,très bien
+"Comment allez-vous, Madame?",Male Speaker,PromptedRecall,Ask her how she is.,comment aller vous madame
+"Comment allez-vous, Madame?",Male Speaker,DirectRepetition,"Comment allez-vous, Madame?",comment aller vous madame
+"Très bien, Monsieur, merci.",Female Speaker,ConversationalExchange,,très bien monsieur merci
+"Très bien, Monsieur, merci.",Female Speaker,DirectRepetition,"Très bien, Monsieur, merci.",très bien monsieur merci
+Je vais bien.,Female Speaker,PromptedRecall,"""I'm well.""",je aller bien
+Pardon.,Male Speaker,PromptedRecall,"Say, ""Excuse me.""",pardon
+"Je ne comprends pas, Madame.",Male Speaker,PromptedRecall,Tell her you don't understand.,je ne comprendre pas madame
+"Je ne comprends pas, Madame.",Male Speaker,DirectRepetition,"Je ne comprends pas, Madame.",je ne comprendre pas madame
+Est-ce que vous comprenez l'anglais?,Female Speaker,PromptedRecall,How would she ask you if you understand English?,est-ce que vous comprendre l' anglais
+Est-ce que vous comprenez l'anglais?,Female Speaker,DirectRepetition,Est-ce que vous comprenez l'anglais?,est-ce que vous comprendre l' anglais
+"Oui, je comprends l'anglais.",Male Speaker,PromptedRecall,"Tell her, ""Yes, I understand English.""",oui je comprendre l' anglais
+Est-ce que vous comprenez le français?,Female Speaker,PromptedRecall,"""Do you understand French?""",est-ce que vous comprendre le français
+Est-ce que vous comprenez le français?,Female Speaker,DirectRepetition,Est-ce que vous comprenez le français?,est-ce que vous comprendre le français
+Je comprends le français.,Male Speaker,PromptedRecall,Tell her you understand French.,je comprendre le français
+Je comprends un peu le français.,Male Speaker,PromptedRecall,Tell her you understand French a little.,je comprendre un peu le français
+Je comprends un peu le français.,Male Speaker,DirectRepetition,Je comprends un peu le français.,je comprendre un peu le français
+Pas très bien.,Male Speaker,DirectRepetition,Pas très bien.,pas très bien
+Pas très bien.,Male Speaker,DirectRepetition,Pas très bien.,pas très bien
+Je comprends un peu le français.,Male Speaker,PromptedRecall,"Say, ""I understand French a little.""",je comprendre un peu le français
+Je comprends un peu le français.,Male Speaker,DirectRepetition,Je comprends un peu le français.,je comprendre un peu le français
+Pas très bien.,Male Speaker,PromptedRecall,"Say, ""Not very well.""",pas très bien
+Je comprends un peu l'anglais.,Female Speaker,PromptedRecall,How does she say that she understands English a little?,je comprendre un peu l' anglais
+Je comprends un peu l'anglais.,Female Speaker,DirectRepetition,Je comprends un peu l'anglais.,je comprendre un peu l' anglais
+Pas très bien.,Female Speaker,PromptedRecall,"""Not very well.""",pas très bien
+Je ne comprends pas.,Female Speaker,PromptedRecall,"Say, ""I don't understand.""",je ne comprendre pas
+Je ne comprends pas très bien.,Female Speaker,PromptedRecall,"Try to say, ""I don't understand very well.""",je ne comprendre pas très bien
+Pas très bien.,Female Speaker,DirectRepetition,Pas très bien.,pas très bien
+Je ne comprends pas très bien.,Female Speaker,DirectRepetition,Je ne comprends pas très bien.,je ne comprendre pas très bien
+Vous comprenez le français?,Female Speaker,PromptedRecall,Say you understand French?,vous comprendre le français
+Un peu.,Male Speaker,PromptedRecall,"Say, ""A little.""",un peu
+Je comprends un peu le français.,Male Speaker,PromptedRecall,"""I understand French a little.""",je comprendre un peu le français
+Je ne comprends pas l'anglais.,Female Speaker,PromptedRecall,"""I don't understand English.""",je ne comprendre pas l' anglais
+Au revoir.,Male Speaker,PromptedRecall,"Now say, ""Goodbye.""",au revoir
+Au revoir.,Female Speaker,PromptedRecall,"""Goodbye.""",au revoir
+"Bonjour, Monsieur.",Female Speaker,ConversationalExchange,,bonjour monsieur
+"Bonjour, Mademoiselle.",Male Speaker,ConversationalExchange,,bonjour mademoiselle
+"Comment allez-vous, Monsieur?",Female Speaker,ConversationalExchange,,comment aller vous monsieur
+"Très bien, merci.",Male Speaker,ConversationalExchange,,très bien merci
+Est-ce que vous êtes américain?,Female Speaker,ConversationalExchange,,est-ce que vous être américain
+"Oui, Mademoiselle.",Male Speaker,ConversationalExchange,,oui mademoiselle
+Est-ce que vous comprenez le français?,Female Speaker,ConversationalExchange,,est-ce que vous comprendre le français
+Un peu.,Male Speaker,SimpleResponse,,un peu
+Je comprends un peu le français.,Male Speaker,ConversationalExchange,,je comprendre un peu le français
+Vous comprenez très bien.,Female Speaker,ConversationalExchange,,vous comprendre très bien
+"Merci, Mademoiselle.",Male Speaker,ConversationalExchange,,merci mademoiselle
+"Au revoir, Monsieur.",Female Speaker,ConversationalExchange,,au revoir monsieur
+"Au revoir, Mademoiselle.",Male Speaker,ConversationalExchange,,au revoir mademoiselle
+"Bonjour, Monsieur.",Female Speaker,ConversationalExchange,,bonjour monsieur
+"Bonjour, Mademoiselle.",Male Speaker,ConversationalExchange,,bonjour mademoiselle
+"Comment allez-vous, Monsieur?",Female Speaker,ConversationalExchange,,comment aller vous monsieur
+"Très bien, merci.",Male Speaker,ConversationalExchange,,très bien merci
+Est-ce que vous êtes américain?,Female Speaker,ConversationalExchange,,est-ce que vous être américain
+"Oui, Mademoiselle.",Male Speaker,ConversationalExchange,,oui mademoiselle
+Est-ce que vous comprenez le français?,Female Speaker,ConversationalExchange,,est-ce que vous comprendre le français
+Un peu.,Male Speaker,SimpleResponse,,un peu
+Je comprends un peu le français.,Male Speaker,ConversationalExchange,,je comprendre un peu le français
+Vous comprenez très bien.,Female Speaker,ConversationalExchange,,vous comprendre très bien
+"Merci, Mademoiselle.",Male Speaker,ConversationalExchange,,merci mademoiselle
+"Au revoir, Monsieur.",Female Speaker,ConversationalExchange,,au revoir monsieur
+"Au revoir, Mademoiselle.",Male Speaker,ConversationalExchange,,au revoir mademoiselle

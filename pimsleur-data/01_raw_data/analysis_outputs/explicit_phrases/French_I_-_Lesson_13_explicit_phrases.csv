@@ -1,0 +1,63 @@
+phrase,teaching_cue,context,speaker_response
+Quelle heure est-il?,Ask me what time it is.,question,Male Speaker
+Quelle heure est-il s'il vous plaît?,Ask me what time it is.,question,Male Speaker
+Il est onze heures.,Tell me it's eleven o'clock.,vocabulary_introduction,Female Speaker
+"Mais non, il est huit heures.","Say, ""But no, it's eight o'clock.""",negation,Male Speaker
+Je vous dois combien?,Ask how much you owe me.,question,Female Speaker
+Treize francs.,"Say, ""Thirteen francs.""",vocabulary_introduction,Male Speaker
+"Non, douze.","Say, ""No, twelve.""",negation,Female Speaker
+Deux ou douze?,"Ask, ""Two or twelve?""",question,Male Speaker
+Je ne vous comprends pas.,"Say, ""I don't understand you.""",negation,Male Speaker
+"Écoutez, s'il vous plaît.","Say, ""Listen please.""",vocabulary_introduction,Female Speaker
+J'écoute.,"Now take a guess at how to say, ""I'm listening.""",pronunciation_practice,Male Speaker
+Répétez s'il vous plaît.,"Now say, ""Repeat please.""",vocabulary_introduction,Male Speaker
+Je répète.,"Try to say, ""I'm repeating.""",pronunciation_practice,Female Speaker
+Quand? Aujourd'hui?,"Ask, ""When, today?""",question,Male Speaker
+Ou demain?,"Ask, ""Or tomorrow?""",question,Male Speaker
+Ce soir.,"Say, ""This evening.""",vocabulary_introduction,Female Speaker
+Demain soir.,"Say, ""Tomorrow evening.""",vocabulary_introduction,Male Speaker
+À quelle heure?,"Ask, ""At what time?""",question,Female Speaker
+Six heures ou sept heures.,"Say, ""Six o'clock or seven o'clock.""",vocabulary_introduction,Male Speaker
+Aujourd'hui?,"Ask, ""Today?""",question,Female Speaker
+Pas demain soir.,"Say, ""Not tomorrow evening.""",negation,Female Speaker
+Bonjour.,"How do you say ""hello"" in French?",vocabulary_introduction,Male Speaker
+Bonsoir.,"Now, guess how you would say ""good evening.""",vocabulary_introduction,Male Speaker
+Je vais bien aujourd'hui.,How would you tell someone you're feeling okay today?,vocabulary_introduction,Male Speaker
+Vous avez combien de francs?,"Here is how to ask, ""How many francs do you have?""",question,Female Speaker
+Vous avez.,"How do you say, ""You have,"" in French?",vocabulary_introduction,Female Speaker
+Combien de francs?,Continue repeating.,pronunciation_practice,Female Speaker
+J'ai quatorze francs.,"""I have fourteen francs.""",vocabulary_introduction,Male Speaker
+Quatorze.,"What's the number ""fourteen"" in French?",vocabulary_introduction,Male Speaker
+J'ai.,"And how do you say ""I have""?",vocabulary_introduction,Male Speaker
+Vous avez combien de francs?,Ask me how many francs I have.,question,Female Speaker
+Vous avez combien de dollars?,How many dollars do you have?,question,Female Speaker
+J'ai quatorze dollars.,"Answer, ""I have fourteen dollars.""",vocabulary_introduction,Male Speaker
+J'ai quinze dollars.,"""I have fifteen dollars.""",vocabulary_introduction,Male Speaker
+Est-ce que vous avez seize francs?,"""Have you got sixteen francs?""",question,Female Speaker
+"Non, j'ai treize francs.","Say, ""No, I have thirteen francs.""",negation,Male Speaker
+Mais j'ai quinze dollars.,"Say, ""But I have fifteen dollars.""",vocabulary_introduction,Male Speaker
+Vous n'avez pas seize dollars?,"Ask, ""You haven't got sixteen dollars?""",question,Female Speaker
+"Je vous dois combien, Madame?",Ask the saleswoman how much you owe.,question,Male Speaker
+En dollars?,And in dollars?,question,Male Speaker
+En dollars.,"Say, ""In dollars.""",vocabulary_introduction,Female Speaker
+En francs.,"Now say, ""In francs.""",vocabulary_introduction,Female Speaker
+"Quatorze francs, s'il vous plaît.","Say, ""Fourteen francs, please.""",vocabulary_introduction,Female Speaker
+J'ai dix dollars.,"Say, ""I have ten dollars.""",vocabulary_introduction,Male Speaker
+Est-ce que vous avez cinq dollars?,"Ask, ""Have you got five dollars?""",question,Female Speaker
+Je vous dois combien?,Ask how much you owe.,question,Male Speaker
+"En francs, c'est quinze francs.","Say, ""In francs, it's fifteen francs.""",vocabulary_introduction,Female Speaker
+Et en dollars?,"Ask, ""And in dollars?""",question,Male Speaker
+"C'est cinq dollars, Monsieur.","Say,""It's five dollars sir.""",vocabulary_introduction,Female Speaker
+Je n'ai pas seize francs.,"Say, ""I don't have sixteen francs.""",negation,Male Speaker
+J'ai quatorze francs.,"Say, ""I have fourteen francs.""",vocabulary_introduction,Male Speaker
+Mais pas quinze.,"Say, ""But not fifteen.""",negation,Male Speaker
+"Alors, c'est quatorze francs.","Say, ""Well then, it's fourteen francs.""",vocabulary_introduction,Female Speaker
+"Merci, Madame. Bonsoir.","Say, ""Thank you, ma'am. Good evening.""",vocabulary_introduction,Male Speaker
+Je vous dois combien?,Ask her how much you owe her.,question,Male Speaker
+Je dois.,"How do you say ""I owe"" in French?",vocabulary_introduction,Male Speaker
+Vous devez.,"And how do you say ""You owe""?",vocabulary_introduction,Female Speaker
+Je n'ai pas de francs.,Tell her you don't have any francs.,negation,Male Speaker
+"En dollars, c'est combien?",Ask him how much it is in dollars.,question,Female Speaker
+"Moi, je sais.",Tell him that you know.,vocabulary_introduction,Female Speaker
+J'ai quinze dollars.,Tell him you have fifteen dollars.,vocabulary_introduction,Female Speaker
+Et je voudrais cinq bières.,And tell him you'd like five beers.,vocabulary_introduction,Female Speaker

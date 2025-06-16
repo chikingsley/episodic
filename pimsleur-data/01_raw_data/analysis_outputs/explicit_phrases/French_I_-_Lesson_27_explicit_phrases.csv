@@ -1,0 +1,94 @@
+phrase,teaching_cue,context,speaker_response
+Bonjour.,"Dites-moi, ""hello"" en français.",vocabulary_introduction,Male Speaker
+Comment allez-vous?,Demandez-moi comment je vais.,question,Male Speaker
+Je vais bien.,Répondez que vous allez bien.,response,Female Speaker
+Est-ce que les magasins sont ouverts?,Demandez-moi si les magasins sont ouverts.,question,Male Speaker
+Ils sont fermés.,Répondez qu'ils sont fermés.,response,Male Speaker
+Pourquoi?,Demandez pourquoi?,question,Male Speaker
+Parce qu'il est tard.,Répondez parce qu'il est tard.,response,Female Speaker
+Est-ce que vous allez travailler?,Demandez-moi si je vais travailler.,question,Female Speaker
+Je ne crois pas.,Répondez que vous ne croyez pas.,negation,Male Speaker
+Vous croyez?,"Dites, ""You believe.""",vocabulary_introduction,Female Speaker
+Vous ne croyez pas?,"Dites, ""You don't believe.""",negation,Female Speaker
+Je vais à Nice.,Dites que vous allez à Nice.,vocabulary_introduction,Male Speaker
+Peut-être.,"Dites, ""Perhaps.""",vocabulary_introduction,Male Speaker
+Qu'est-ce que vous allez faire là-bas?,Demandez ce qu'il va faire là-bas.,question,Female Speaker
+Je vais voir des amis.,Dites que vous allez voir des amis.,vocabulary_introduction,Male Speaker
+Mes amis.,"""My friends.""",vocabulary_introduction,Male Speaker
+J'ai quelques amis là-bas.,Dites que vous avez quelques amis là-bas.,vocabulary_introduction,Male Speaker
+Je vais les voir.,Dites que vous allez les voir.,vocabulary_introduction,Male Speaker
+Vous allez passer combien de jours à Nice?,Demandez combien de jours il va passer à Nice.,question,Female Speaker
+Combien de jours allez-vous passer là-bas?,Demandez combien de jours il va passer à Nice.,question,Female Speaker
+Je vais passer quelques jours.,"Dites que vous allez passer, ""A few days.""",vocabulary_introduction,Male Speaker
+Je vais voir mes amis.,"""I'm going to see my friends.""",vocabulary_introduction,Male Speaker
+Quatre-vingts.,"Comment dit-on en français le numéro ""Eighty.""",vocabulary_introduction,Male Speaker
+Quatre-vingt-cinq.,"""Eighty-five.""",vocabulary_introduction,Male Speaker
+Quatre-vingt-dix.,"Écoutez maintenant comment on dit ""Ninety.""",vocabulary_introduction,Female Speaker
+Quatre-vingt-quinze.,"Essayez de dire ""Ninety-five.""",vocabulary_introduction,Male Speaker
+Quatre-vingt-douze.,"""Ninety-two.""",vocabulary_introduction,Male Speaker
+Quatre-vingt-dix-neuf.,"Essayez de dire ""Ninety-nine.""",vocabulary_introduction,Male Speaker
+Quatre-vingt-neuf.,"Dites maintenant, ""Eighty-nine.""",vocabulary_introduction,Male Speaker
+Je vous dois combien?,Ask how much you owe.,question,Female Speaker
+Quatre-vingt-dix francs.,"Répondez ""Ninety francs.""",response,Male Speaker
+Voilà cent francs.,Écoutez et répétez.,pronunciation_practice,Female Speaker
+Cent.,Écoutez et répétez.,pronunciation_practice,Female Speaker
+Cent dollars.,"Dites, ""A hundred dollars.""",vocabulary_introduction,Female Speaker
+Cent cinquante dollars.,"Dites, ""One hundred fifty dollars.""",vocabulary_introduction,Female Speaker
+Cent quatre-vingts.,"Maintenant, dites, ""One hundred eighty.""",vocabulary_introduction,Male Speaker
+Cent quatre-vingt-dix.,"""A hundred ninety.""",vocabulary_introduction,Male Speaker
+C'est trop.,"""It's too much.""",vocabulary_introduction,Female Speaker
+Cent soixante-dix.,"""A hundred seventy.""",vocabulary_introduction,Male Speaker
+Cent soixante-cinq.,"""A hundred sixty-five.""",vocabulary_introduction,Male Speaker
+Cent quarante-sept.,"""A hundred forty-seven.""",vocabulary_introduction,Male Speaker
+Rien.,Écoutez et répétez.,pronunciation_practice,Male Speaker
+Rien.,"Dites, ""Nothing"".",vocabulary_introduction,Male Speaker
+Cent francs.,"Dites, ""One hundred francs"".",vocabulary_introduction,Male Speaker
+Quatre-vingt-dix francs.,"Dites, ""Ninety francs.""",vocabulary_introduction,Male Speaker
+Pourquoi?,"""Why?""",vocabulary_introduction,Female Speaker
+Parce que.,"""Because.""",vocabulary_introduction,Male Speaker
+Qu'est-ce que vous voulez?,Demandez-moi ce que je veux.,question,Female Speaker
+Je ne veux rien.,Écoutez et répétez.,pronunciation_practice,Male Speaker
+Je n'ai rien.,"Try to say ""I don't have anything"" or ""I have nothing.""",negation,Female Speaker
+Qu'est-ce que vous avez?,"""What do you have?""",question,Female Speaker
+Et je ne veux rien.,"""And I don't want anything.""",negation,Male Speaker
+Je ne veux rien.,"Dites, ""I want nothing.""",negation,Male Speaker
+Je veux cent francs.,"Dites, ""I want one hundred francs.""",vocabulary_introduction,Male Speaker
+Je veux partir.,Écoutez et répétez.,pronunciation_practice,Male Speaker
+Je veux partir.,Dites que vous voulez partir.,vocabulary_introduction,Male Speaker
+Je ne veux pas partir.,"Comment dit-on ""I don't want to leave""?",negation,Female Speaker
+Je ne veux pas.,"Dites, ""I don't want to.""",negation,Female Speaker
+Je vais partir demain.,"Dites, ""I'm going to leave tomorrow.""",vocabulary_introduction,Male Speaker
+Moi aussi.,"Dites, ""Me too.""",vocabulary_introduction,Female Speaker
+Nous allons partir.,"Dites, ""We're going to leave.""",vocabulary_introduction,Female Speaker
+Nous allons partir ensemble.,Écoutez et répétez.,pronunciation_practice,Female Speaker
+Ensemble.,"Comment dit-on ""Together.""",vocabulary_introduction,Female Speaker
+Rien.,"Comment dit-on ""Nothing.""",vocabulary_introduction,Male Speaker
+Je veux partir avec vous.,"""I want to leave with you.""",vocabulary_introduction,Male Speaker
+"Non, je ne peux pas.","""No, I can't.""",negation,Female Speaker
+Parce que je ne veux pas.,"""Because I don't want to.""",response,Female Speaker
+Je ne veux pas partir.,"""I don't want to leave.""",negation,Female Speaker
+Je veux passer quelques jours.,"""I want to spend a few days.""",vocabulary_introduction,Female Speaker
+Je veux passer quelques jours ici.,"""I want to spend a few days here.""",vocabulary_introduction,Female Speaker
+J'ai cent dollars.,"""I have one hundred dollars.""",vocabulary_introduction,Male Speaker
+Et j'ai quatre-vingt-dix francs.,"""And i have ninety francs.""",vocabulary_introduction,Male Speaker
+Je n'ai rien.,"""I have nothing.""",negation,Female Speaker
+J'ai beaucoup d'argent.,"""I have a lot of money.""",vocabulary_introduction,Male Speaker
+J'en ai beaucoup.,"""I have a lot.""",vocabulary_introduction,Male Speaker
+Je n'ai pas d'argent.,"""I have no money.""",negation,Female Speaker
+Je n'en ai pas.,"""I have none.""",negation,Female Speaker
+Je vais partir.,"""I am going to leave.""",vocabulary_introduction,Male Speaker
+Si vous voulez.,"""If you wish.""",vocabulary_introduction,Female Speaker
+Mais je suis seule.,Écoutez et répétez.,pronunciation_practice,Female Speaker
+Seule.,Écoutez et répétez.,pronunciation_practice,Female Speaker
+Seul.,"Dites, ""Alone.""",vocabulary_introduction,Male Speaker
+Ensemble.,"Dites, ""Together.""",vocabulary_introduction,Male Speaker
+Est-ce que vous êtes seule?,Ask the young woman if she's alone.,question,Male Speaker
+"Est-ce que vous êtes seule, Mademoiselle?",Ask the young woman if she's alone.,question,Male Speaker
+"Non, je suis avec mon mari.","""No, I'm with my husband.""",response,Female Speaker
+Alors...,"""Well then...""",vocabulary_introduction,Male Speaker
+Si vous n'êtes pas seul...,"""If you're not alone...""",vocabulary_introduction,Male Speaker
+Je vais partir seul.,"""I'm going to leave alone.""",vocabulary_introduction,Male Speaker
+Attendez!,"""Wait!""",vocabulary_introduction,Female Speaker
+Est-ce que vous allez partir seul?,"Ask ""Are you going to leave alone?""",question,Female Speaker
+Allez-vous partir seul?,"Ask ""Are you going to leave alone?""",question,Female Speaker
+Nous pouvons partir.,"""We can leave.""",vocabulary_introduction,Female Speaker

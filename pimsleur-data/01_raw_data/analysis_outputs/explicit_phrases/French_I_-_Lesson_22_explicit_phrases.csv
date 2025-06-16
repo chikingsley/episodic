@@ -1,0 +1,81 @@
+phrase,teaching_cue,context,speaker_response
+Bonjour.,"Dites-moi, ""Hello.""",vocabulary_introduction,Male Speaker
+Enchanté.,"Dites-moi, ""Glad to meet you.""",vocabulary_introduction,Male Speaker
+Comment allez-vous?,Demandez-moi comment je vais.,question,Male Speaker
+Un grand garçon.,"Dites en français, ""A big boy.""",vocabulary_introduction,Male Speaker
+Nous avons un grand garçon.,"Dites, ""We have a big boy.""",vocabulary_introduction,Male Speaker
+Une petite fille.,"Dites, ""A little girl.""",vocabulary_introduction,Male Speaker
+Vous avez combien d'enfants?,Demandez-moi combien d'enfants j'ai.,question,Female Speaker
+Combien d'enfants avez-vous?,Demandez-moi encore.,question,Female Speaker
+J'ai trois enfants.,Dites que vous avez trois enfants.,vocabulary_introduction,Male Speaker
+"Oui, ils sont grands.",Répondez affirmativement.,affirmative_response,Male Speaker
+Où sont les toilettes?,"Demandez-moi, ""Where is the bathroom?""",question,Male Speaker
+Les toilettes sont là-bas.,Dites que les toilettes sont là-bas.,vocabulary_introduction,Female Speaker
+Elles sont là-bas.,Dites que les toilettes sont là-bas.,vocabulary_introduction,Female Speaker
+Vraiment?,"Dites en français, ""Really?""",vocabulary_introduction,Male Speaker
+Ma famille est en Amérique.,Dites que votre famille est en Amérique.,vocabulary_introduction,Male Speaker
+Ma famille est en France.,Dites que votre famille est en France.,vocabulary_introduction,Male Speaker
+Elle est avec moi.,Dites qu'elle est avec vous.,vocabulary_introduction,Male Speaker
+Combien de personnes?,Écoutez et répétez.,pronunciation_practice,Female Speaker
+Personne.,Écoutez et répétez.,pronunciation_practice,Female Speaker
+Il y a combien de personnes?,Écoutez et répétez.,pronunciation_practice,Female Speaker
+Il y a.,Écoutez et répétez.,pronunciation_practice,Female Speaker
+Dans votre famille.,Écoutez et répétez.,pronunciation_practice,Female Speaker
+Dans.,Écoutez et répétez.,pronunciation_practice,Female Speaker
+Il y a combien de personnes dans votre famille?,Demandez,question,Female Speaker
+Il y a quatre personnes.,Dites qu'il y a quatre personnes.,vocabulary_introduction,Male Speaker
+Dans ma famille.,Dites : « In my family ».,vocabulary_introduction,Male Speaker
+Dans ma voiture.,Écoutez et répétez.,pronunciation_practice,Male Speaker
+Voiture.,Écoutez et répétez.,pronunciation_practice,Male Speaker
+La voiture.,Est-ce que c'est le ou la voiture?,grammar,Male Speaker
+Ma voiture.,Est-ce que c'est le ou la voiture?,grammar,Male Speaker
+Une voiture.,Est-ce que c'est le ou la voiture?,grammar,Male Speaker
+J'ai une voiture.,Dites-moi que vous avez une voiture. Dites-moi que vous avez une voiture.,vocabulary_introduction,Male Speaker
+Si.,"Comment dites-vous ""if"" en français?",vocabulary_introduction,Male Speaker
+Est-ce que vous avez une voiture?,Demandez si j'ai une voiture.,question,Female Speaker
+Avez-vous une voiture?,Demandez si j'ai une voiture.,question,Female Speaker
+Est-ce que votre voiture est ici?,Demandez-moi si ma voiture est ici.,question,Female Speaker
+Est-ce que votre famille est en France?,Demandez-moi si ma famille est en France.,question,Female Speaker
+Il y a cinq personnes dans ma famille.,"Dites, ""There are five people in my family.""",vocabulary_introduction,Male Speaker
+Nous avons une voiture.,"Dites, ""We have a car.""",vocabulary_introduction,Male Speaker
+Nous avons une voiture française.,Dites-moi que vous avez une voiture française.,vocabulary_introduction,Male Speaker
+Est-ce qu'elle est grande ou petite?,Demandez si elle est grande ou petite.,question,Female Speaker
+Elle n'est pas grande.,Dites qu'elle n'est pas grande.,negation,Male Speaker
+Elle n'est pas vraiment petite.,Dites qu'elle n'est pas vraiment petite.,negation,Male Speaker
+Assez.,"Dites, ""Enough.""",vocabulary_introduction,Male Speaker
+Assez grande.,"Dites, ""Big enough.""",vocabulary_introduction,Male Speaker
+Ma voiture est assez grande.,"Dites-moi, ""My car is big enough.""",vocabulary_introduction,Male Speaker
+Pour notre famille.,"Dites, ""For our family.""",vocabulary_introduction,Male Speaker
+Si vous voulez.,"Dites, ""If you wish"", en français.",vocabulary_introduction,Male Speaker
+"Est-ce que vous parlez français, Monsieur?",Demandez-moi si je parle français.,question,Female Speaker
+Pas vraiment.,"Répondez, ""Not really.""",negation,Male Speaker
+Je parle un peu le français.,Écoutez et répétez.,pronunciation_practice,Male Speaker
+Un peu.,Écoutez et répétez.,pronunciation_practice,Male Speaker
+Je peux comprendre.,Dites que vous pouvez comprendre.,vocabulary_introduction,Male Speaker
+Trois personnes.,"Dites, ""Three people.""",vocabulary_introduction,Male Speaker
+Il y a cinq personnes.,"Dites, ""There are five people.""",vocabulary_introduction,Male Speaker
+Dans notre famille.,"""In our family.""",vocabulary_introduction,Male Speaker
+"Oui, nous avons une voiture.",Répondez affirmativement à la question.,affirmative_response,Male Speaker
+Nous voulons.,"Dites, ""We want.""",vocabulary_introduction,Male Speaker
+Nous voulons de l'essence.,Écoutez et répétez.,pronunciation_practice,Male Speaker
+Essence.,Écoutez et répétez.,pronunciation_practice,Male Speaker
+De l'essence.,Écoutez et répétez.,pronunciation_practice,Male Speaker
+Donnez-moi de l'essence.,"Dites, ""Give me gas.""",vocabulary_introduction,Male Speaker
+Kilomètre.,Écoutez et répétez.,pronunciation_practice,Male Speaker
+Combien de kilomètres?,"Demandez, ""How many kilometers?""",question,Female Speaker
+Cinquante kilomètres.,"Répondez, ""Fifty kilometers.""",vocabulary_introduction,Male Speaker
+Cinquante.,"Répondez, ""Fifty kilometers.""",vocabulary_introduction,Male Speaker
+Donnez-moi vingt-cinq litres.,"Dites, ""Give me twenty-five liters.""",vocabulary_introduction,Female Speaker
+Donnez-moi vingt-cinq litres d'essence.,"""Give me twenty-five liters of gas.""",vocabulary_introduction,Male Speaker
+Il y a beaucoup d'essence.,"Dites, ""There's a lot of gas.""",vocabulary_introduction,Male Speaker
+Dans notre voiture.,"""In our car.""",vocabulary_introduction,Male Speaker
+Ça suffit pour cinquante kilomètres.,"Dites, ""It's enough for fifty kilometers.""",vocabulary_introduction,Male Speaker
+Je voudrais aller à Paris.,Dites que vous voudriez aller à Paris.,vocabulary_introduction,Male Speaker
+Nous voudrions aller à Paris.,Dites que vous voudriez aller à Paris.,vocabulary_introduction,Male Speaker
+Il y a combien de kilomètres?,Demandez combien de kilomètres il y a.,question,Male Speaker
+"Il y a combien de kilomètres, s'il vous plaît?",Demandez combien de kilomètres il y a.,question,Male Speaker
+Il y a soixante kilomètres.,"Répondez, ""There are sixty kilometers.""",vocabulary_introduction,Female Speaker
+Très bien.,"Dites, ""Fine.""",vocabulary_introduction,Male Speaker
+Il y a beaucoup d'essence dans la voiture.,"Dites, ""There is a lot of gas in the car.""",vocabulary_introduction,Male Speaker
+Dans la voiture.,"Dites, ""There is a lot of gas in the car.""",vocabulary_introduction,Male Speaker
+Et nous allons à Paris.,"Dites, ""And we are going to Paris.""",vocabulary_introduction,Male Speaker

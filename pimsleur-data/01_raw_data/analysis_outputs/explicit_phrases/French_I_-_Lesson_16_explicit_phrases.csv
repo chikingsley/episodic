@@ -1,0 +1,75 @@
+phrase,teaching_cue,context,speaker_response
+Voilà.,Do you remember the word the postman might use in handing you something?,vocabulary_introduction,Male Speaker
+C'est pour vous.,"Say, ""It's for you.""",vocabulary_introduction,Male Speaker
+Qu'est-ce que c'est?,Ask what it is.,question,Female Speaker
+Je ne sais pas.,"Say, ""I don't know.""",vocabulary_introduction,Male Speaker
+Je vous dois combien?,Ask him how much you owe.,question,Female Speaker
+Vous me devez dix francs.,"Say, ""You owe me ten francs.""",vocabulary_introduction,Male Speaker
+Je n'ai pas de francs.,"Say, ""I have no francs.""",negation,Female Speaker
+"En dollars, c'est combien?","Ask, ""In dollars, it's how much?""",question,Female Speaker
+Donnez-moi des francs.,"He says, ""Give me francs.""",vocabulary_introduction,Male Speaker
+Je n'en ai pas.,Tell him you haven't any.,negation,Female Speaker
+Je peux vous donner des dollars.,"Say, ""I can give you dollars.""",vocabulary_introduction,Female Speaker
+Je n'en veux pas.,"He says, I don't want any.",negation,Male Speaker
+Pas de dollars.,"Say, ""No dollars.""",negation,Female Speaker
+"Non, je ne peux pas.","He says, ""No, I can't.""",negation,Male Speaker
+Voilà dix-sept dollars.,"Say, ""Here's seventeen dollars.""",vocabulary_introduction,Female Speaker
+C'est beaucoup.,"""That's a lot.""",vocabulary_introduction,Male Speaker
+C'est beaucoup d'argent.,"Tell me, ""It's a lot of money.""",vocabulary_introduction,Male Speaker
+"Dix-huit dollars, c'est beaucoup d'argent.","Say, ""Eighteen dollars, It's a lot of money.""",vocabulary_introduction,Male Speaker
+C'est trop.,"He says, ""It's too much.""",vocabulary_introduction,Male Speaker
+C'est trop d'argent.,"Try to say, ""It's too much money.""",vocabulary_introduction,Male Speaker
+Combien d'argent avez-vous?,Ask me how much money I have.,question,Female Speaker
+J'ai vingt dollars.,"""I have twenty dollars.""",vocabulary_introduction,Male Speaker
+Vous avez vingt dollars.,"Say, ""You have twenty dollars.""",vocabulary_introduction,Female Speaker
+J'ai vingt-cinq dollars.,Tell me you have twenty-five dollars.,vocabulary_introduction,Male Speaker
+Vingt-huit.,"Now say, ""The number twenty-eight.""",vocabulary_introduction,Male Speaker
+Vous avez trop d'argent.,Tell me that I have too much money.,vocabulary_introduction,Female Speaker
+J'ai trente francs.,Tell me you have thirty francs.,vocabulary_introduction,Male Speaker
+J'ai trente-neuf francs.,Tell me you have thirty-nine francs.,vocabulary_introduction,Male Speaker
+"Non, vingt-neuf.","Say, ""No, twenty-nine.""",negation,Male Speaker
+C'est trop?,"Ask, ""Is it too much?""",question,Male Speaker
+"Non, mais ça suffit.","""No, but it's enough.""",vocabulary_introduction,Female Speaker
+Ça suffit.,"Say, ""it's enough in French.""",vocabulary_introduction,Female Speaker
+Ça ne suffit pas.,"Say, ""It's not enough.""",negation,Female Speaker
+"Trente-cinq, ça suffit.","Say, ""Thirty-five, that's enough.""",vocabulary_introduction,Female Speaker
+Donnez-moi quarante francs.,"""Give me forty francs.""",vocabulary_introduction,Female Speaker
+Quarante dollars.,"Say, ""Forty dollars.""",vocabulary_introduction,Male Speaker
+Quatorze dollars.,And now say fourteen dollars.,vocabulary_introduction,Male Speaker
+Donnez-moi quarante-sept francs.,"Say, ""Give me forty-seven francs.""",vocabulary_introduction,Female Speaker
+Quarante-six. Ça suffit.,"Say, ""Forty-six, that's enough.""",vocabulary_introduction,Male Speaker
+Je voudrais quarante-huit francs.,"Say, ""I would like forty-eight francs.""",vocabulary_introduction,Female Speaker
+"Non, trente-huit.","Say, ""No thirty-eight.""",negation,Male Speaker
+Combien de dollars voulez-vous?,"Ask, ""How many dollars do you want?""",question,Male Speaker
+Donnez-moi des dollars.,"Say, ""Give me some dollars.""",vocabulary_introduction,Female Speaker
+Je n'ai pas de dollars.,"Say, ""I have no dollars.""",negation,Male Speaker
+Je n'en ai pas.,"Say, ""I haven't any.""",negation,Male Speaker
+Est-ce que vous avez de l'argent?,"Try to say, ""Do you have some money?""",question,Female Speaker
+Je voudrais de l'argent.,"Say, ""I would like some money.""",vocabulary_introduction,Female Speaker
+Je n'ai pas d'argent.,"Answer, ""I have no money.""",negation,Male Speaker
+Donnez-moi de l'argent.,"Say, ""Give me some money.""",vocabulary_introduction,Female Speaker
+Vous en avez.,"Say, ""You do have some.""",vocabulary_introduction,Female Speaker
+Vous en avez beaucoup.,"Say, ""You have a lot.""",vocabulary_introduction,Female Speaker
+"D'accord, voilà vingt-cinq francs.","Say, ""Okay, here's twenty-five francs.""",vocabulary_introduction,Male Speaker
+"Merci, ça suffit.","Say, ""Thanks, that's enough.""",vocabulary_introduction,Female Speaker
+Deux et trois font cinq.,Combien font deux et trois?,vocabulary_introduction,Male Speaker
+Cinq et trois font huit.,Cinq et trois font combien?,vocabulary_introduction,Male Speaker
+Huit et cinq font treize.,Huit et cinq font combien?,vocabulary_introduction,Male Speaker
+Onze et quatre font quinze.,Onze et quatre font combien?,vocabulary_introduction,Male Speaker
+Treize et quatre font dix-sept.,Treize et quatre font combien?,vocabulary_introduction,Male Speaker
+Seize et quatre font vingt.,Seize et quatre font combien?,vocabulary_introduction,Male Speaker
+Vingt et six font vingt-six.,Vingt et six font combien?,vocabulary_introduction,Male Speaker
+Vingt-huit et quatre font trente-deux.,Vingt-huit et quatre font combien?,vocabulary_introduction,Male Speaker
+Trente-deux et deux font trente-quatre.,Trente-deux et deux font combien?,vocabulary_introduction,Male Speaker
+Trente-quatre et douze font quarante-six.,Trente-quatre et douze font combien?,vocabulary_introduction,Male Speaker
+Trente-trois et dix font quarante-trois.,Trente-trois et dix font combien?,vocabulary_introduction,Male Speaker
+Vingt-cinq et onze font trente-six.,Vingt-cinq et onze font combien?,vocabulary_introduction,Male Speaker
+Arrêtez! Ça suffit!,"""Hey, stop! Stop! That's enough.""",vocabulary_introduction,Male Speaker
+"Oui, j'ai de l'argent.",Répondez affirmativement.,vocabulary_introduction,Female Speaker
+"Oui, j'en ai beaucoup.",Vous en avez beaucoup?,vocabulary_introduction,Female Speaker
+"Oui, j'ai des dollars.",Vous avez des dollars?,vocabulary_introduction,Female Speaker
+"Oui, je voudrais bien.",Est-ce que vous voudriez faire quelque chose maintenant?,vocabulary_introduction,Female Speaker
+"Oui, je veux bien.",Est-ce que vous voudriez boire une bière avec moi?,vocabulary_introduction,Female Speaker
+"Oui, je peux.",Est-ce que vous pouvez en acheter pour moi?,vocabulary_introduction,Female Speaker
+"Oui, je peux aussi en acheter.",Est-ce que vous pouvez aussi acheter du vin?,vocabulary_introduction,Female Speaker
+"Oui, d'accord.","Alors, je vais avec vous, d'accord?",vocabulary_introduction,Female Speaker

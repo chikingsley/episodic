@@ -1,0 +1,86 @@
+phrase,teaching_cue,context,speaker_response
+Cinquante,Do you recall the number fifty in French?,vocabulary_introduction,Male Speaker
+Soixante,How about sixty?,vocabulary_introduction,Male Speaker
+Soixante-et-un,Try sixty-one.,vocabulary_introduction,Male Speaker
+Ce n'est pas cher,"Say, ""That's not expensive.""",phrase_construction,Male Speaker
+"Si, c'est cher","Say, ""Yes, it's expensive.""",phrase_construction,Female Speaker
+Vous parlez trop vite,How would you tell someone that he's talking too quickly?,phrase_construction,Male Speaker
+Je ne vous comprends pas,Tell him you don't understand him.,phrase_construction,Male Speaker
+Est-ce que vous avez assez d'argent?,Ask me if I have enough money.,question,Female Speaker
+J'ai quarante-et-un francs,Tell me that you have forty-one francs.,phrase_construction,Female Speaker
+C'est trop,"How would you say, ""It's too much""?",phrase_construction,Male Speaker
+"Non, mais ça suffit","Say, ""No, but it's enough.""",phrase_construction,Female Speaker
+Ce n'est pas trop cher,"Tell me, ""It's not expensive.""",phrase_construction,Female Speaker
+"Là-bas, ce n'est pas cher","Say, ""Down there, it's not expensive.""",phrase_construction,Female Speaker
+Plus tard,"Do you remember how to say ""Later""?",vocabulary_introduction,Male Speaker
+Plus cher,"Now, try to say, ""More expensive.""",vocabulary_introduction,Female Speaker
+"Ici, c'est plus cher","Try to say, ""Here, it's more expensive.""",phrase_construction,Female Speaker
+Plus vite,"Try to say ""more quickly"" or ""quicker.""",vocabulary_introduction,Female Speaker
+Parlez plus vite,"Say, ""Speak more quickly.""",phrase_construction,Female Speaker
+"Maintenant, vous parlez trop vite","Say, ""Now, you're speaking too quickly.""",phrase_construction,Female Speaker
+Mon mari parle vite,"""My husband speaks quickly.""",phrase_construction,Female Speaker
+Mari,"How do you say ""husband""?",vocabulary_introduction,Female Speaker
+Mon,"And what is the word meaning ""my""?",vocabulary_introduction,Female Speaker
+Ma femme,"""My wife.""",vocabulary_introduction,Male Speaker
+Mon mari,"Say ""My husband"".",vocabulary_introduction,Female Speaker
+Ma femme est là-bas,"Say, ""My wife is over there.""",phrase_construction,Male Speaker
+Ma femme voudrait boire quelque chose,"Say, ""My wife would like to drink something.""",phrase_construction,Male Speaker
+Je voudrais boire quelque chose,"Say, ""I would like to drink something.""",phrase_construction,Male Speaker
+Mon mari voudrait boire quelque chose,"Say, ""My husband would like to drink something"".",phrase_construction,Female Speaker
+Mon mari peut boire quelque chose,"Say, ""My husband can drink something.""",phrase_construction,Female Speaker
+Mon mari peut boire du vin,"Say, ""My husband can drink wine.""",phrase_construction,Female Speaker
+Mon mari peut boire de l'Orangina,"""My husband can drink Orangina.""",phrase_construction,Female Speaker
+Orangina,"Say, ""Orangina.""",vocabulary_introduction,Female Speaker
+Je voudrais boire de l'Orangina,"Say, ""I would like to drink some Orangina.""",phrase_construction,Female Speaker
+Ma femme voudrait boire de l'Orangina,"Say, ""My wife would like to drink some Orangina.""",phrase_construction,Male Speaker
+Je voudrais boire de l'eau,"""I would like to drink some water.""",phrase_construction,Male Speaker
+"De l'eau, s'il vous plaît","Say, ""Water, please.""",phrase_construction,Male Speaker
+Mon mari voudrait de l'eau,"Say, ""My husband would like some water.""",phrase_construction,Female Speaker
+De l'Orangina pour moi,"Say, ""Orangina for me.""",phrase_construction,Female Speaker
+Votre femme,"""Your wife.""",vocabulary_introduction,Male Speaker
+Votre femme est ici,"Say, ""Your wife is here.""",phrase_construction,Male Speaker
+Votre mari est ici,"Say, ""Your husband's here.""",phrase_construction,Male Speaker
+Où est mon mari?,"Ask, ""Where's my husband?""",question,Female Speaker
+Où est ma femme?,"Ask, ""Where's my wife?""",question,Male Speaker
+Votre femme n'est pas ici,"Say, ""Your wife isn't here.""",phrase_construction,Female Speaker
+Votre mari voudrait manger quelque chose maintenant,"Say, ""Your husband would like to eat something now.""",phrase_construction,Male Speaker
+Mon mari?,"Ask, ""My husband?""",question,Female Speaker
+Ma femme voudrait boire de l'eau,"Say, ""My wife would like to drink some water.""",phrase_construction,Male Speaker
+Mon mari voudrait boire de l'Orangina,"Say, ""My husband would like to drink some Orangina.""",phrase_construction,Female Speaker
+Est-ce que vous avez du vin?,"Ask, ""Do you have wine?""",question,Female Speaker
+"Non, Madame","Answer, ""No, ma'am.""",phrase_construction,Male Speaker
+Pas de vin,"How would you say, ""No wine!""?",phrase_construction,Male Speaker
+Qui est là-bas?,"Try to ask, ""Who is over there?""",question,Male Speaker
+C'est votre femme,"Say, ""That's your wife.""",phrase_construction,Female Speaker
+Qu'est-ce que votre femme veut faire?,"Ask, ""What does your wife want to do?""",question,Female Speaker
+Je ne sais pas,"Say, ""I don't know.""",phrase_construction,Male Speaker
+Ma femme voudrait manger quelque chose,"Say, ""My wife would like to eat something.""",phrase_construction,Male Speaker
+Qu'est-ce que vous voudriez boire?,"Ask, ""What would you like to drink?""",question,Female Speaker
+"De l'Orangina, ou de l'eau?","Say, ""Orangina or water.""",phrase_construction,Male Speaker
+Votre femme peut boire de l'eau,"Say, ""Your wife can drink water.""",phrase_construction,Female Speaker
+Et vous pouvez boire de l'Orangina,"Say, ""And you can drink Orangina.""",phrase_construction,Female Speaker
+Merci bien,"Say, ""Thanks a lot.""",phrase_construction,Male Speaker
+Où est votre femme?,Ask me where my wife is.,question,Female Speaker
+Ma femme? Je ne sais pas,"Say, ""My wife? I don't know.""",phrase_construction,Male Speaker
+Est-ce que vous voudriez dîner avec moi?,Ask the young woman if she would like to have dinner with you.,question,Male Speaker
+Je veux bien,How does she accept?,phrase_construction,Female Speaker
+Je voudrais bien,"How would she say, ""I would like to""?",phrase_construction,Female Speaker
+Mais je ne peux pas,"""But I can't.""",phrase_construction,Female Speaker
+Je vais dîner avec mon mari,"Say, ""I'm going to have dinner with my husband.""",phrase_construction,Female Speaker
+"Je vais dîner avec mon mari, ce soir","Now say, ""I'm going to have dinner with my husband this evening.""",phrase_construction,Female Speaker
+"Alors, voudriez-vous boire quelque chose?","Say, ""Well then, would you like to drink something?""",phrase_construction,Male Speaker
+"D'accord, je veux bien",How does she accept?,phrase_construction,Female Speaker
+Qu'est-ce que vous voudriez boire?,Ask her what she would like to drink.,question,Male Speaker
+De l'eau,"How does she say ""water""?",vocabulary_introduction,Female Speaker
+Vous pouvez boire du vin,"Say, ""You can drink wine.""",phrase_construction,Male Speaker
+"Non, c'est trop cher","She says, ""No, it's too expensive.""",phrase_construction,Female Speaker
+"Alors, de la bière?","Ask, ""Well then, beer?""",question,Male Speaker
+"Donnez-moi une Orangina, s'il vous plaît","She says, ""Give me an Orangina, please.""",phrase_construction,Female Speaker
+Mais non! Pas d'Orangina,"He says, ""But no, no Orangina.""",phrase_construction,Male Speaker
+"Si, si, je vais boire de l'Orangina","She says, ""Yes, yes, I'm going to drink Orangina.""",phrase_construction,Female Speaker
+"Une Orangina, s'il vous plaît","Order the Orangina for her. Say, ""One Orangina, please.""",phrase_construction,Male Speaker
+Vite,"Say, ""Quickly.""",vocabulary_introduction,Male Speaker
+Plus vite,"Now say, ""More quickly.""",vocabulary_introduction,Male Speaker
+"Voilà votre Orangina, madame","Say, ""Here's your Orangina, ma'am.""",phrase_construction,Male Speaker
+Et voilà mon mari,"She says, ""And there's my husband.""",phrase_construction,Female Speaker
+Et votre femme?,"""And your wife?""",question,Female Speaker

@@ -1,0 +1,469 @@
+{
+  "summary": {
+    "total_utterances": 1472,
+    "unique_phrases": 288,
+    "lessons_analyzed": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "fixes_applied": [
+      "Added position tracking",
+      "Fixed repetition density calculation",
+      "Implemented sequential new/review tracking",
+      "Corrected cognitive load formula"
+    ]
+  },
+  "lesson_metrics": {
+    "1": {
+      "lesson": 1,
+      "total_utterances": 183,
+      "unique_phrases": 57,
+      "repetition_density": 3.21,
+      "repetition_rate": 0.63,
+      "phrases_with_practice": 36,
+      "new_items": 181,
+      "repetition_items": 0,
+      "reinforcement_items": 0,
+      "review_items": 0,
+      "total_items": 181,
+      "novelty_ratio": 1.0,
+      "review_ratio": 0.0,
+      "raw_load_score": 181.0,
+      "cognitive_load_score": 7.2
+    },
+    "2": {
+      "lesson": 2,
+      "total_utterances": 343,
+      "unique_phrases": 76,
+      "repetition_density": 4.51,
+      "repetition_rate": 0.93,
+      "phrases_with_practice": 71,
+      "new_items": 193,
+      "repetition_items": 0,
+      "reinforcement_items": 150,
+      "review_items": 0,
+      "total_items": 343,
+      "novelty_ratio": 0.563,
+      "review_ratio": 0.0,
+      "raw_load_score": 238.0,
+      "cognitive_load_score": 9.5
+    },
+    "3": {
+      "lesson": 3,
+      "total_utterances": 289,
+      "unique_phrases": 100,
+      "repetition_density": 2.89,
+      "repetition_rate": 0.69,
+      "phrases_with_practice": 69,
+      "new_items": 164,
+      "repetition_items": 0,
+      "reinforcement_items": 43,
+      "review_items": 74,
+      "total_items": 281,
+      "novelty_ratio": 0.584,
+      "review_ratio": 0.263,
+      "raw_load_score": 191.7,
+      "cognitive_load_score": 7.7
+    },
+    "4": {
+      "lesson": 4,
+      "total_utterances": 348,
+      "unique_phrases": 108,
+      "repetition_density": 3.22,
+      "repetition_rate": 0.93,
+      "phrases_with_practice": 100,
+      "new_items": 205,
+      "repetition_items": 0,
+      "reinforcement_items": 49,
+      "review_items": 85,
+      "total_items": 339,
+      "novelty_ratio": 0.605,
+      "review_ratio": 0.251,
+      "raw_load_score": 236.7,
+      "cognitive_load_score": 9.5
+    },
+    "5": {
+      "lesson": 5,
+      "total_utterances": 309,
+      "unique_phrases": 95,
+      "repetition_density": 3.25,
+      "repetition_rate": 0.93,
+      "phrases_with_practice": 88,
+      "new_items": 193,
+      "repetition_items": 0,
+      "reinforcement_items": 54,
+      "review_items": 59,
+      "total_items": 306,
+      "novelty_ratio": 0.631,
+      "review_ratio": 0.193,
+      "raw_load_score": 221.0,
+      "cognitive_load_score": 8.8
+    }
+  },
+  "phrase_progression": [
+    {
+      "phrase": "je comprends un peu le français",
+      "first_lesson": 1,
+      "total_occurrences": 44,
+      "lessons_appeared": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "lesson_counts": {
+        "1": 8,
+        "2": 19,
+        "3": 12,
+        "4": 5
+      }
+    },
+    {
+      "phrase": "est-ce que vous êtes américain",
+      "first_lesson": 1,
+      "total_occurrences": 32,
+      "lessons_appeared": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "lesson_counts": {
+        "1": 8,
+        "2": 12,
+        "3": 6,
+        "4": 6
+      }
+    },
+    {
+      "phrase": "est-ce que vous comprenez le français",
+      "first_lesson": 1,
+      "total_occurrences": 28,
+      "lessons_appeared": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "lesson_counts": {
+        "1": 8,
+        "2": 12,
+        "3": 4,
+        "4": 2,
+        "5": 2
+      }
+    },
+    {
+      "phrase": "comment allez-vous",
+      "first_lesson": 2,
+      "total_occurrences": 28,
+      "lessons_appeared": [
+        2,
+        3,
+        4,
+        5
+      ],
+      "lesson_counts": {
+        "2": 12,
+        "3": 4,
+        "4": 6,
+        "5": 6
+      }
+    },
+    {
+      "phrase": "je comprends le français",
+      "first_lesson": 1,
+      "total_occurrences": 26,
+      "lessons_appeared": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "lesson_counts": {
+        "1": 5,
+        "2": 15,
+        "3": 4,
+        "4": 2
+      }
+    },
+    {
+      "phrase": "est-ce que vous comprenez l'anglais",
+      "first_lesson": 1,
+      "total_occurrences": 24,
+      "lessons_appeared": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "lesson_counts": {
+        "1": 9,
+        "2": 8,
+        "3": 3,
+        "4": 2,
+        "5": 2
+      }
+    },
+    {
+      "phrase": "je ne comprends pas",
+      "first_lesson": 1,
+      "total_occurrences": 24,
+      "lessons_appeared": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "lesson_counts": {
+        "1": 4,
+        "2": 13,
+        "3": 5,
+        "4": 2
+      }
+    },
+    {
+      "phrase": "au revoir",
+      "first_lesson": 2,
+      "total_occurrences": 22,
+      "lessons_appeared": [
+        2,
+        3,
+        4,
+        5
+      ],
+      "lesson_counts": {
+        "2": 10,
+        "3": 3,
+        "4": 5,
+        "5": 4
+      }
+    },
+    {
+      "phrase": "un peu",
+      "first_lesson": 1,
+      "total_occurrences": 21,
+      "lessons_appeared": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "lesson_counts": {
+        "1": 7,
+        "2": 8,
+        "3": 3,
+        "4": 3
+      }
+    },
+    {
+      "phrase": "bonjour",
+      "first_lesson": 2,
+      "total_occurrences": 21,
+      "lessons_appeared": [
+        2,
+        3,
+        4,
+        5
+      ],
+      "lesson_counts": {
+        "2": 7,
+        "3": 3,
+        "4": 6,
+        "5": 5
+      }
+    },
+    {
+      "phrase": "pas très bien",
+      "first_lesson": 2,
+      "total_occurrences": 20,
+      "lessons_appeared": [
+        2,
+        3,
+        4
+      ],
+      "lesson_counts": {
+        "2": 8,
+        "3": 8,
+        "4": 4
+      }
+    },
+    {
+      "phrase": "pardon",
+      "first_lesson": 1,
+      "total_occurrences": 19,
+      "lessons_appeared": [
+        1,
+        2,
+        3,
+        5
+      ],
+      "lesson_counts": {
+        "1": 11,
+        "2": 2,
+        "3": 4,
+        "5": 2
+      }
+    },
+    {
+      "phrase": "je ne comprends pas l'anglais",
+      "first_lesson": 1,
+      "total_occurrences": 19,
+      "lessons_appeared": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "lesson_counts": {
+        "1": 6,
+        "2": 5,
+        "3": 5,
+        "4": 3
+      }
+    },
+    {
+      "phrase": "très bien merci",
+      "first_lesson": 2,
+      "total_occurrences": 17,
+      "lessons_appeared": [
+        2,
+        3,
+        4,
+        5
+      ],
+      "lesson_counts": {
+        "2": 10,
+        "3": 3,
+        "4": 2,
+        "5": 2
+      }
+    },
+    {
+      "phrase": "non monsieur",
+      "first_lesson": 1,
+      "total_occurrences": 16,
+      "lessons_appeared": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "lesson_counts": {
+        "1": 5,
+        "2": 6,
+        "3": 1,
+        "4": 4
+      }
+    },
+    {
+      "phrase": "bonjour monsieur",
+      "first_lesson": 2,
+      "total_occurrences": 16,
+      "lessons_appeared": [
+        2,
+        3,
+        4,
+        5
+      ],
+      "lesson_counts": {
+        "2": 9,
+        "3": 1,
+        "4": 4,
+        "5": 2
+      }
+    },
+    {
+      "phrase": "est-ce que vous comprenez",
+      "first_lesson": 1,
+      "total_occurrences": 14,
+      "lessons_appeared": [
+        1,
+        2
+      ],
+      "lesson_counts": {
+        "1": 8,
+        "2": 6
+      }
+    },
+    {
+      "phrase": "je comprends un peu",
+      "first_lesson": 1,
+      "total_occurrences": 14,
+      "lessons_appeared": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "lesson_counts": {
+        "1": 4,
+        "2": 2,
+        "3": 3,
+        "4": 2,
+        "5": 3
+      }
+    },
+    {
+      "phrase": "je ne comprends pas le français",
+      "first_lesson": 1,
+      "total_occurrences": 14,
+      "lessons_appeared": [
+        1,
+        2,
+        3,
+        4
+      ],
+      "lesson_counts": {
+        "1": 1,
+        "2": 6,
+        "3": 5,
+        "4": 2
+      }
+    },
+    {
+      "phrase": "oui mademoiselle",
+      "first_lesson": 1,
+      "total_occurrences": 13,
+      "lessons_appeared": [
+        1,
+        2,
+        4
+      ],
+      "lesson_counts": {
+        "1": 7,
+        "2": 4,
+        "4": 2
+      }
+    }
+  ],
+  "validation_tests": {
+    "repetition_density_test": {
+      "passed": true,
+      "densities": [
+        3.21,
+        4.51,
+        2.89,
+        3.22,
+        3.25
+      ],
+      "message": "At least 50% of lessons should have repetition density > 1.0"
+    },
+    "novelty_reduction_test": {
+      "passed": true,
+      "lesson_3_novelty": 0.5836298932384342,
+      "message": "Lesson 3 should have < 80% new items"
+    },
+    "review_items_test": {
+      "passed": true,
+      "total_review_items_l4_l5": 144,
+      "message": "Should have some review items in lessons 4-5"
+    }
+  }
+}

@@ -4,27 +4,27 @@ L'anglais,"Now he wants to ask her if she understands English. First the word ""
 anglais,"Now, say the same word leaving off the ""L"" sound at the beginning.",pronunciation_practice,Male Speaker
 Comprenez,"Now, he wants to ask, ""Do you understand?"" Here's the word, ""Understand.""",vocabulary_introduction,Male Speaker
 Vous comprenez,"Here's how to say, ""You understand."" Listen and repeat.",vocabulary_introduction,Male Speaker
-Vous comprenez l'anglais,"And now try to say, ""You understand English.""",vocabulary_introduction,Male Speaker
+Vous comprenez l'anglais,"And now try to say, ""You understand English.""",phrase_construction,Male Speaker
 Est-ce que,Here's the phrase that makes a question in French. Listen and repeat.,question_formation,Male Speaker
 Est-ce que vous comprenez?,"And now try to ask, ""Do you understand?""",question,Male Speaker
 Est-ce que vous comprenez l'anglais?,Ask me if I understand English.,question,Male Speaker
 Non,"The woman answers, ""No."" Listen and repeat.",vocabulary_introduction,Female Speaker
-"Non, Monsieur","""No, sir."" Listen and repeat.",vocabulary_introduction,Female Speaker
+"Non, Monsieur","""No, sir."" Listen and repeat.",phrase_construction,Female Speaker
 Monsieur,"How do you say ""sir"" or ""mister""?",vocabulary_introduction,Female Speaker
 Je comprends,"The man says, ""I understand."" First, the word ""I"" alone. Listen and repeat.",vocabulary_introduction,Male Speaker
-Je comprends l'anglais,"Try to say, ""I understand English.""",vocabulary_introduction,Male Speaker
+Je comprends l'anglais,"Try to say, ""I understand English.""",phrase_construction,Male Speaker
 Je ne comprends pas,"Now, she wants to say, ""I don't understand"". Listen and repeat.",negation,Female Speaker
 Je ne comprends pas l'anglais,"Say, ""I don't understand English.""",negation,Female Speaker
 Le français,"Now, here is the name of the French language. Listen and repeat.",vocabulary_introduction,Male Speaker
-Je comprends le français,"Say, ""I understand French.""",vocabulary_introduction,Male Speaker
+Je comprends le français,"Say, ""I understand French.""",phrase_construction,Male Speaker
 Un peu,"Here's how to say, ""A little."" Listen and repeat.",vocabulary_introduction,Male Speaker
-Je comprends un peu,"Say, ""I understand a little.""",vocabulary_introduction,Male Speaker
-Je comprends un peu le français,"""I understand French a little"". Listen and repeat.",vocabulary_introduction,Male Speaker
+Je comprends un peu,"Say, ""I understand a little.""",phrase_construction,Male Speaker
+Je comprends un peu le français,"""I understand French a little"". Listen and repeat.",phrase_construction,Male Speaker
 Américain,"Now, the woman wants to ask him, ""Are you American?"" Listen and repeat the word, ""American.""",vocabulary_introduction,Female Speaker
 Vous êtes,"Here's how to say, ""You are."" Listen and repeat.",vocabulary_introduction,Female Speaker
-Vous êtes américain,"Say, ""You are American.""",vocabulary_introduction,Female Speaker
+Vous êtes américain,"Say, ""You are American.""",phrase_construction,Female Speaker
 Est-ce que vous êtes américain?,"And now try to ask, ""Are you American?""",question,Female Speaker
 Oui,"Here's how to say ""yes"". Listen and repeat.",vocabulary_introduction,Male Speaker
-"Oui, Mademoiselle","""Yes, miss."" Listen and repeat.",vocabulary_introduction,Male Speaker
-Est-ce que vous comprenez le français?,Ask me if I understand French.,question,Male Speaker
-Je comprends un peu le français,"Say, ""I understand French a little.""",vocabulary_introduction,Female Speaker
+"Oui, Mademoiselle","""Yes, miss."" Listen and repeat.",phrase_construction,Male Speaker
+"Non, je ne comprends pas","Answer, ""No, I don't understand.""",negation,Female Speaker
+"Pardon, Mademoiselle","Now imagine that you're the person sitting next to the French woman. You want to begin a conversation, so what do you say?",phrase_construction,Male Speaker

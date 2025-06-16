@@ -1,0 +1,125 @@
+phrase,teaching_cue,context,speaker_response
+Qu'est-ce que ça veut dire?,"Et maintenant, demandez ce que ça veut dire.",question,Female Speaker
+Le mot mal.,"The word ""mal.""",vocabulary_introduction,Female Speaker
+Pas mal.,"And here is how you say, ""Not bad."" Écoutez et répétez.",vocabulary_introduction,Male Speaker
+Je comprends maintenant.,Dites que vous comprenez maintenant.,vocabulary_introduction,Female Speaker
+Je ne comprends pas.,And how would you tell me that you don't understand?,negation,Female Speaker
+Qu'est-ce que vous ne comprenez pas?,"Demandez ""what don't you understand?""",question,Male Speaker
+Ça.,"""That.""",vocabulary_introduction,Female Speaker
+Nous sommes ici.,"Maintenant, dites, ""We are here.""",vocabulary_introduction,Male Speaker
+Depuis trois jours.,"""Since three days.""",vocabulary_introduction,Female Speaker
+Depuis.,"""Since three days.""",vocabulary_introduction,Female Speaker
+Nous sommes ici depuis trois jours.,Tell me you've been here for three days.,vocabulary_introduction,Female Speaker
+Vous êtes ici depuis combien de temps?,Ask me how long I've been here.,question,Male Speaker
+Temps.,Ask me how long I've been here.,vocabulary_introduction,Male Speaker
+Combien de temps?,Ask me how long I've been here.,question,Male Speaker
+Depuis combien de temps?,Ask me how long I've been here.,question,Male Speaker
+Je suis ici depuis deux jours.,"Dites, ""I've been here for two days.""",vocabulary_introduction,Male Speaker
+Nous allons rester.,"Dites, ""We're going to stay.""",vocabulary_introduction,Male Speaker
+Combien de temps?,"Demandez ""How long?""",question,Male Speaker
+Quelques jours.,"""A few days.""",vocabulary_introduction,Female Speaker
+Quelques semaines.,"""A few weeks.""",vocabulary_introduction,Male Speaker
+Qu'est-ce que ça veut dire?,"Demandez, ""Qu'est-ce que ça veut dire?""",question,Female Speaker
+Le mot semaine.,"The word ""semaine.""",vocabulary_introduction,Female Speaker
+Une semaine.,"Dites, ""One week.""",vocabulary_introduction,Male Speaker
+Depuis combien de temps?,"Demandez ""Since how long?""",question,Male Speaker
+Depuis une semaine.,"""Since one week.""",vocabulary_introduction,Female Speaker
+Nous sommes ici depuis une semaine.,"""We've been here a week.""",vocabulary_introduction,Female Speaker
+Nous allons rester.,"""We're going to stay.""",vocabulary_introduction,Female Speaker
+Quelques semaines.,"""A few weeks.""",vocabulary_introduction,Female Speaker
+Ensemble.,"""Together.""",vocabulary_introduction,Female Speaker
+Et puis.,"""And then.""",vocabulary_introduction,Female Speaker
+Je vais rester.,"""I'm going to stay.""",vocabulary_introduction,Female Speaker
+Seul.,"""Alone.""",vocabulary_introduction,Female Speaker
+Seule.,"""Alone.""",vocabulary_introduction,Female Speaker
+Je vais partir.,"""I'm going to leave.""",vocabulary_introduction,Female Speaker
+Plus tard.,"""Later.""",vocabulary_introduction,Female Speaker
+Quatre-vingt-dix jours.,"""Ninety days.""",vocabulary_introduction,Female Speaker
+"Puis, je vais partir.","""Then I'm going to leave.""",vocabulary_introduction,Female Speaker
+Depuis quelques semaines.,"""Since a few weeks.""",vocabulary_introduction,Female Speaker
+Depuis hier.,Écoutez et répétez.,vocabulary_introduction,Female Speaker
+Hier.,Écoutez et répétez.,vocabulary_introduction,Female Speaker
+Hier.,"Dites, ""Yesterday.""",vocabulary_introduction,Female Speaker
+Nous sommes ici depuis hier.,"""We've been here since yesterday.""",vocabulary_introduction,Female Speaker
+Qu'est-ce que vous avez acheté hier?,"""What did you buy yesterday?"" Écoutez et répétez.",question,Male Speaker
+J'ai acheté quelque chose.,"""I bought something."" Écoutez et répétez.",vocabulary_introduction,Female Speaker
+Qu'est-ce que vous avez acheté?,Ask her what she bought.,question,Male Speaker
+Quelque chose à boire.,"""Something to drink."" Écoutez et répétez.",vocabulary_introduction,Female Speaker
+J'ai acheté quelque chose à boire.,"""I bought something to drink.""",vocabulary_introduction,Female Speaker
+Du bon vin.,"""Some good wine.""",vocabulary_introduction,Female Speaker
+J'ai acheté du vin.,"""I bought some wine.""",vocabulary_introduction,Female Speaker
+Et du lait.,"""And some milk."" Écoutez et répétez.",vocabulary_introduction,Female Speaker
+Lait.,"Say, ""Milk.""",vocabulary_introduction,Female Speaker
+Le lait.,"Say, ""Milk.""",vocabulary_introduction,Female Speaker
+Du lait.,"Say, ""Milk.""",vocabulary_introduction,Female Speaker
+J'ai acheté du lait.,"""I bought some milk.""",vocabulary_introduction,Female Speaker
+J'ai acheté aussi un chapeau.,Répétez.,vocabulary_introduction,Female Speaker
+Un chapeau.,Répétez.,vocabulary_introduction,Female Speaker
+Le chapeau.,Répétez.,vocabulary_introduction,Female Speaker
+J'ai acheté un chapeau hier.,"""I bought a hat yesterday.""",vocabulary_introduction,Female Speaker
+Un beau chapeau.,"""A beautiful hat."" Écoutez et répétez.",vocabulary_introduction,Female Speaker
+Beau.,"""A beautiful hat."" Écoutez et répétez.",vocabulary_introduction,Female Speaker
+Un beau chapeau.,"Dites, ""A beautiful hat.""",vocabulary_introduction,Female Speaker
+Et pas cher.,"""And not expensive.""",vocabulary_introduction,Female Speaker
+Est-ce que vous avez mangé quelque chose?,Here's how to ask if she has eaten something. Écoutez et répétez.,question,Male Speaker
+"Oui, j'ai mangé quelque chose.","""Yes, I ate something.""",vocabulary_introduction,Female Speaker
+J'ai mangé hier.,"""I ate yesterday.""",vocabulary_introduction,Female Speaker
+Je mange.,"Comment dit-on ""I'm eating.""",vocabulary_introduction,Male Speaker
+J'ai mangé.,"Comment dit-on ""I ate.""",vocabulary_introduction,Male Speaker
+Je mange. J'ai mangé.,"""I am eating"", ""I ate.""",vocabulary_introduction,Male Speaker
+Vous mangez. Vous avez mangé.,"Maintenant, dites, ""You're eating"", ""you ate.""",vocabulary_introduction,Female Speaker
+Vous allez manger aujourd'hui.,"Dites, ""You're going to eat today.""",vocabulary_introduction,Male Speaker
+N'est-ce pas?,"""Right?""",vocabulary_introduction,Male Speaker
+Je ne sais pas.,"Dites, ""I don't know.""",vocabulary_introduction,Male Speaker
+Vous avez mangé hier.,"""You ate yesterday.""",vocabulary_introduction,Male Speaker
+Vous mangez maintenant?,"""You're eating now.""",vocabulary_introduction,Male Speaker
+Qu'est-ce que vous avez acheté?,Ask her what she bought.,question,Male Speaker
+J'ai acheté du lait.,"She answers, ""I bought some milk.""",vocabulary_introduction,Female Speaker
+Du lait et du vin.,"""Some milk and some wine.""",vocabulary_introduction,Female Speaker
+J'ai acheté aussi un chapeau.,"She says, ""I bought also a hat.""",vocabulary_introduction,Female Speaker
+Un beau chapeau.,"""A beautiful hat.""",vocabulary_introduction,Female Speaker
+Qu'est-ce que vous allez boire?,Ask him what he's going to drink.,question,Male Speaker
+Est-ce que vous allez boire du lait?,"""Are you going to drink milk?""",question,Male Speaker
+Du lait? Non.,"""Milk? No.""",vocabulary_introduction,Female Speaker
+Je vais boire du vin.,"""I'm going to drink wine.""",vocabulary_introduction,Female Speaker
+Du bon vin.,"""Some good wine.""",vocabulary_introduction,Female Speaker
+Est-ce que vous aimez le vin?,"Here's how to ask, ""Do you like wine?"" Écoutez et répétez.",question,Male Speaker
+Vous aimez?,"Here's how to ask, ""Do you like wine?"" Écoutez et répétez.",question,Male Speaker
+Aimez-vous le vin?,"Here's how to ask, ""Do you like wine?"" Écoutez et répétez.",question,Male Speaker
+Vous aimez?,"Comment dit-on ""You like.""",vocabulary_introduction,Male Speaker
+Est-ce que vous aimez le lait?,"""Do you like milk?""",question,Male Speaker
+J'aime.,"Now, try to say, ""I like.""",vocabulary_introduction,Female Speaker
+J'aime manger.,"""I like to eat.""",vocabulary_introduction,Female Speaker
+Je voudrais manger.,"And how do you say, ""I would like to eat""?",vocabulary_introduction,Female Speaker
+Est-ce que vous voudriez manger maintenant?,"Demandez ""Would you like to eat now?""",question,Male Speaker
+Est-ce que vous aimez manger?,"""Do you like to eat?""",question,Male Speaker
+Est-ce que vous voudriez déjeuner maintenant?,"""Would you like to have lunch now?""",question,Male Speaker
+Est-ce que vous aimez le vin français?,"""Do you like French wine?""",question,Female Speaker
+Qu'est-ce que vous avez mangé?,Ask her what she ate.,question,Male Speaker
+Hier?,"""Yesterday?""",vocabulary_introduction,Male Speaker
+Rien.,"""Nothing.""",vocabulary_introduction,Female Speaker
+Je n'ai pas mangé hier.,"""I didn't eat yesterday."" Écoutez et répétez.",vocabulary_introduction,Female Speaker
+Pourquoi?,"""Why?""",vocabulary_introduction,Male Speaker
+Je n'aime pas manger.,"""I don't like to eat.""",vocabulary_introduction,Female Speaker
+Mais vous allez manger quelque chose.,"""But you're going to eat something.""",vocabulary_introduction,Male Speaker
+Avec moi?,"""With me?""",vocabulary_introduction,Male Speaker
+"Oui, nous allons manger ensemble.","""Yes, we're going to eat together.""",vocabulary_introduction,Male Speaker
+D'accord.,"""Okay.""",vocabulary_introduction,Female Speaker
+Hier.,"Comment dit-on ""Yesterday.""",vocabulary_introduction,Male Speaker
+J'ai mangé hier.,Dites-moi ce que vous avez mangé hier.,vocabulary_introduction,Male Speaker
+Qu'est-ce que vous avez acheté?,Demandez ce qu'elle a acheté.,question,Male Speaker
+Qu'est-ce que vous aimez boire?,"""What do you like to drink?""",question,Male Speaker
+Qu'est-ce que vous voudrez manger?,"""What would you like to eat?""",question,Female Speaker
+Qu'est-ce que vous avez acheté?,"""What did you buy?""",question,Male Speaker
+Est-ce que vous avez acheté un chapeau?,"""Did you buy a hat?""",question,Male Speaker
+"Oui, un beau chapeau.","""Yes, a beautiful hat.""",vocabulary_introduction,Female Speaker
+Un beau chapeau.,"""Yes, a beautiful hat.""",vocabulary_introduction,Female Speaker
+Une semaine.,"Comment dit-on ""one week"" en français?",vocabulary_introduction,Male Speaker
+Depuis hier.,"""Since yesterday.""",vocabulary_introduction,Female Speaker
+Depuis quelques semaines.,"""Since a few weeks.""",vocabulary_introduction,Female Speaker
+Pas mal.,"""Not bad.""",vocabulary_introduction,Female Speaker
+Beaucoup de choses.,"""Lots of things."" Écoutez et répétez.",vocabulary_introduction,Female Speaker
+J'ai mangé.,"""I ate.""",vocabulary_introduction,Female Speaker
+Et j'ai acheté beaucoup de choses.,"""And I bought lots of things.""",vocabulary_introduction,Female Speaker
+J'aime ça.,"Écoutez, répétez.",vocabulary_introduction,Female Speaker
+"Moi, j'aime ça.","Écoutez, répétez.",vocabulary_introduction,Female Speaker

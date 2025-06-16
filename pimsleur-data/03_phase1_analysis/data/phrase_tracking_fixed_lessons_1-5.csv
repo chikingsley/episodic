@@ -1,0 +1,289 @@
+phrase,first_lesson,first_position,total_occurrences,lessons_appeared,is_new,is_review,is_reinforcement,lessons_since_introduction
+je comprends un peu le français,1,3,44,"1,2,3,4",False,True,False,3
+est-ce que vous êtes américain,1,4,32,"1,2,3,4",False,True,False,3
+est-ce que vous comprenez le français,1,83,28,"1,2,3,4,5",False,True,False,4
+comment allez-vous,2,44,28,"2,3,4,5",False,True,False,3
+je comprends le français,1,18,26,"1,2,3,4",False,True,False,3
+est-ce que vous comprenez l'anglais,1,9,24,"1,2,3,4,5",False,True,False,4
+je ne comprends pas,1,15,24,"1,2,3,4",False,True,False,3
+au revoir,2,55,22,"2,3,4,5",False,True,False,3
+un peu,1,19,21,"1,2,3,4",False,True,False,3
+bonjour,2,35,21,"2,3,4,5",False,True,False,3
+pas très bien,2,89,20,"2,3,4",False,True,False,2
+pardon,1,1,19,"1,2,3,5",False,True,False,4
+je ne comprends pas l'anglais,1,16,19,"1,2,3,4",False,True,False,3
+très bien merci,2,46,17,"2,3,4,5",False,True,False,3
+non monsieur,1,11,16,"1,2,3,4",False,True,False,3
+bonjour monsieur,2,41,16,"2,3,4,5",False,True,False,3
+est-ce que vous comprenez,1,8,14,"1,2",False,False,True,1
+je comprends un peu,1,20,14,"1,2,3,4,5",False,True,False,4
+je ne comprends pas le français,1,80,14,"1,2,3,4",False,True,False,3
+oui mademoiselle,1,5,13,"1,2,4",False,True,False,3
+je vais bien,2,54,13,"2,3,5",False,True,False,3
+est-ce que c'est ici,4,75,13,"4,5",False,False,True,1
+vous comprenez,1,5,12,"1,2,4",False,True,False,3
+bonjour madame,2,40,12,"2,3,5",False,True,False,3
+bonjour mademoiselle,2,91,12,"2,3,4,5",False,True,False,3
+je suis américain,3,26,12,"3,4",False,False,True,1
+et vous,3,29,12,"3,4,5",False,True,False,2
+s'il vous plaît,3,36,12,"3,4,5",False,True,False,2
+c'est là-bas,4,79,12,"4,5",False,False,True,1
+où est la rue saint-jacques s'il vous plaît,4,83,12,"4,5",False,False,True,1
+je comprends,1,13,11,"1,2,3",False,True,False,2
+je suis,3,25,11,"3,4",False,False,True,1
+je ne sais pas,5,28,11,5,True,False,False,0
+l'anglais,1,2,10,"1,2",False,False,True,1
+vous êtes,1,23,10,"1,2,3",False,True,False,2
+mademoiselle,1,110,10,"1,2,5",False,True,False,4
+le français,1,17,9,"1,2,3",False,True,False,2
+au revoir madame,2,73,9,"2,3,4",False,True,False,2
+mais,3,33,9,"3,4,5",False,True,False,2
+je ne parle pas bien,4,38,9,"4,5",False,False,True,1
+je comprends un peu l'anglais,2,17,8,"2,4",False,True,False,2
+comment,2,42,8,2,True,False,False,0
+est-ce que vous allez bien,3,47,8,"3,5",False,True,False,2
+la rue saint-jacques,4,58,8,"4,5",False,False,True,1
+où est le boulevard saint-michel,4,69,8,"4,5",False,False,True,1
+pardon mademoiselle,1,29,7,"1,2,3",False,True,False,2
+au revoir monsieur,2,74,7,"2,3,5",False,True,False,3
+je ne comprends pas très bien,2,95,7,"2,3",False,False,True,1
+vous n'êtes pas américaine,3,32,7,"3,4",False,False,True,1
+je ne suis pas française,3,102,7,"3,4",False,False,True,1
+où est la rue saint-jacques,4,64,7,"4,5",False,False,True,1
+ce n'est pas ici,4,78,7,"4,5",False,False,True,1
+je sais,5,29,7,5,True,False,False,0
+est-ce que vous voudriez boire quelque chose,5,52,7,5,True,False,False,0
+américain,1,22,6,"1,3",False,True,False,2
+vous êtes américain,1,24,6,"1,2,3",False,True,False,2
+oui,1,26,6,"1,3",False,True,False,2
+vous allez,2,43,6,"2,3",False,False,True,1
+merci,2,47,6,2,True,False,False,0
+je vais bien merci,2,61,6,"2,4",False,True,False,2
+très bien,2,79,6,"2,3,4",False,True,False,2
+mais je comprends le français,3,35,6,3,True,False,False,0
+je ne suis pas américain,3,41,6,"3,4",False,False,True,1
+est-ce que vous êtes française,3,46,6,"3,4",False,False,True,1
+mais oui,3,51,6,"3,4",False,False,True,1
+je suis américaine,3,85,6,"3,4",False,False,True,1
+je ne suis pas français,3,104,6,"3,4",False,False,True,1
+et je parle un peu,4,41,6,"4,5",False,False,True,1
+la rue,4,56,6,4,True,False,False,0
+est,4,61,6,4,True,False,False,0
+le boulevard saint-michel,4,68,6,"4,5",False,False,True,1
+c'est,4,71,6,4,True,False,False,0
+c'est ici,4,73,6,"4,5",False,False,True,1
+ce n'est pas là-bas,4,81,6,"4,5",False,False,True,1
+le boulevard saint-michel est ici,4,82,6,"4,5",False,False,True,1
+je veux,5,37,6,5,True,False,False,0
+vous voulez,5,38,6,5,True,False,False,0
+très bien mademoiselle,2,53,5,2,True,False,False,0
+vous comprenez très bien,2,227,5,"2,4",False,True,False,2
+au revoir mademoiselle,2,230,5,"2,4",False,True,False,2
+américaine,3,20,5,3,True,False,False,0
+est-ce que vous êtes français,3,45,5,"3,4",False,False,True,1
+américain américaine,3,60,5,"3,4",False,False,True,1
+suis,3,70,5,3,True,False,False,0
+mais si,4,11,5,4,True,False,False,0
+je parle un peu,4,34,5,4,True,False,False,0
+le boulevard,4,66,5,4,True,False,False,0
+ici,4,70,5,4,True,False,False,0
+c'est ici monsieur,4,74,5,"4,5",False,False,True,1
+moi je sais,5,30,5,5,True,False,False,0
+vous savez,5,32,5,5,True,False,False,0
+est-ce que vous savez,5,34,5,5,True,False,False,0
+savez-vous,5,35,5,5,True,False,False,0
+vous voudriez,5,42,5,5,True,False,False,0
+manger,5,44,5,5,True,False,False,0
+quelque chose,5,45,5,5,True,False,False,0
+est-ce que vous voudriez manger quelque chose,5,46,5,5,True,False,False,0
+non merci,5,53,5,5,True,False,False,0
+mais je voudrais manger quelque chose,5,54,5,5,True,False,False,0
+comprenez,1,4,4,1,True,False,False,0
+monsieur,1,12,4,"1,2",False,False,True,1
+je comprends l'anglais,1,14,4,"1,2",False,False,True,1
+bon,2,36,4,2,True,False,False,0
+jour,2,37,4,2,True,False,False,0
+madame,2,39,4,2,True,False,False,0
+bien,2,48,4,2,True,False,False,0
+très,2,49,4,2,True,False,False,0
+moi,2,58,4,"2,5",False,True,False,3
+ah vous comprenez le français,2,77,4,"2,3",False,False,True,1
+comment allez-vous monsieur,2,132,4,"2,3",False,False,True,1
+cain caine,3,21,4,3,True,False,False,0
+est-ce que vous êtes américaine,3,24,4,"3,4",False,False,True,1
+je suis française,3,27,4,"3,4",False,False,True,1
+je suis américain et vous,3,30,4,3,True,False,False,0
+vous n'êtes pas français,3,44,4,"3,4",False,False,True,1
+est-ce que vous êtes américaine mademoiselle,3,51,4,"3,4",False,False,True,1
+oui mademoiselle je suis américain,3,216,4,"3,4",False,False,True,1
+vous parlez,4,29,4,4,True,False,False,0
+jacques,4,51,4,4,True,False,False,0
+saint,4,52,4,4,True,False,False,0
+saint-jacques,4,53,4,4,True,False,False,0
+michel,4,54,4,4,True,False,False,0
+saint-michel,4,55,4,4,True,False,False,0
+rue,4,57,4,4,True,False,False,0
+boulevard,4,67,4,"4,5",False,False,True,1
+la rue saint-jacques n'est pas là-bas,4,93,4,4,True,False,False,0
+le boulevard saint-michel est là-bas,4,94,4,4,True,False,False,0
+mais la rue saint-jacques est ici,4,95,4,4,True,False,False,0
+et le boulevard saint-michel,4,214,4,"4,5",False,False,True,1
+vous voudriez manger quelque chose,5,43,4,5,True,False,False,0
+je voudrais,5,47,4,5,True,False,False,0
+boire,5,51,4,5,True,False,False,0
+non monsieur je ne comprends pas l'anglais,1,2,3,"1,2",False,False,True,1
+vous comprenez l'anglais,1,6,3,"1,2",False,False,True,1
+non,1,10,3,1,True,False,False,0
+non je ne comprends pas,1,28,3,1,True,False,False,0
+français,1,71,3,"1,3",False,True,False,2
+vous comprenez le français,1,81,3,"1,2",False,False,True,1
+moiselle,1,109,3,"1,2",False,False,True,1
+oui vous êtes américain,2,29,3,2,True,False,False,0
+pardon madame,2,75,3,2,True,False,False,0
+comment allez-vous madame,2,80,3,2,True,False,False,0
+très bien monsieur merci,2,81,3,2,True,False,False,0
+je ne comprends pas madame,2,84,3,2,True,False,False,0
+merci mademoiselle,2,228,3,"2,3",False,False,True,1
+merci madame,3,10,3,3,True,False,False,0
+je suis français,3,28,3,3,True,False,False,0
+mais je comprends,3,34,3,3,True,False,False,0
+vous ne comprenez pas l'anglais,3,42,3,"3,4",False,False,True,1
+non je ne vais pas bien,3,49,3,3,True,False,False,0
+s'il vous plaît monsieur,3,50,3,3,True,False,False,0
+sil vous plaît mademoiselle,3,58,3,3,True,False,False,0
+oui monsieur,3,203,3,"3,5",False,True,False,2
+vous parlez bien,4,31,3,4,True,False,False,0
+je parle,4,32,3,4,True,False,False,0
+la rue saint-michel,4,59,3,4,True,False,False,0
+où est,4,62,3,4,True,False,False,0
+où est la rue,4,63,3,4,True,False,False,0
+non ce n'est pas ici,4,77,3,4,True,False,False,0
+là-bas,4,80,3,4,True,False,False,0
+très bien merci et vous,4,87,3,4,True,False,False,0
+c'est ici mademoiselle,4,92,3,4,True,False,False,0
+je ne comprends pas mademoiselle,4,96,3,4,True,False,False,0
+ça ne fait rien,4,223,3,4,True,False,False,0
+moi très bien,5,11,3,5,True,False,False,0
+moi pas très bien,5,13,3,5,True,False,False,0
+la rue saint-jacques est ici,5,21,3,5,True,False,False,0
+non c'est là-bas,5,23,3,5,True,False,False,0
+la rue saint-jacques n'est pas ici,5,26,3,5,True,False,False,0
+mais le boulevard saint-michel est ici,5,27,3,5,True,False,False,0
+non je ne sais pas,5,36,3,5,True,False,False,0
+je ne veux pas,5,39,3,5,True,False,False,0
+je ne veux pas moi,5,40,3,5,True,False,False,0
+est-ce que vous voulez,5,41,3,5,True,False,False,0
+oui je voudrais manger quelque chose,5,49,3,5,True,False,False,0
+je voudrais boire quelque chose,5,50,3,5,True,False,False,0
+ce n'est pas ici c'est là-bas,5,65,3,5,True,False,False,0
+ah oui je sais,5,67,3,5,True,False,False,0
+ah très bien,5,72,3,5,True,False,False,0
+mais moi je ne veux pas manger,5,73,3,5,True,False,False,0
+je voudrais manger quelque chose,5,175,3,5,True,False,False,0
+pardon est-ce que vous comprenez l'anglais,1,1,2,1,True,False,False,0
+anglais,1,3,2,1,True,False,False,0
+est-ce que,1,7,2,1,True,False,False,0
+comprends,1,45,2,1,True,False,False,0
+est-ce que vous comprenez l'anglais monsieur,1,135,2,1,True,False,False,0
+oui mademoiselle je comprends l'anglais,1,136,2,1,True,False,False,0
+prends le,2,16,2,2,True,False,False,0
+peu l'anglais,2,44,2,2,True,False,False,0
+selle,2,56,2,2,True,False,False,0
+mad,2,62,2,2,True,False,False,0
+non madame,2,67,2,2,True,False,False,0
+oui madame,2,70,2,2,True,False,False,0
+est-ce que vous comprenez madame,2,76,2,2,True,False,False,0
+oui je comprends le français,2,78,2,2,True,False,False,0
+oui je comprends l'anglais,2,86,2,2,True,False,False,0
+voir,2,142,2,2,True,False,False,0
+vous êtes américaine,3,31,2,3,True,False,False,0
+non mademoiselle,3,39,2,3,True,False,False,0
+oui merci,3,48,2,3,True,False,False,0
+est-ce que vous êtes américain monsieur,3,49,2,3,True,False,False,0
+caine,3,53,2,3,True,False,False,0
+mademoiselle mademoiselle,3,54,2,3,True,False,False,0
+française,3,92,2,3,True,False,False,0
+français française,3,94,2,3,True,False,False,0
+est-ce que vous êtes française mademoiselle,3,100,2,"3,4",False,False,True,1
+vous n'êtes pas américain,3,121,2,3,True,False,False,0
+plaît,3,152,2,3,True,False,False,0
+vous plaît,3,154,2,3,True,False,False,0
+s'il,3,156,2,3,True,False,False,0
+pardon monsieur est-ce que vous êtes français,4,1,2,4,True,False,False,0
+oui mademoiselle je suis français et vous,4,2,2,4,True,False,False,0
+mais vous comprenez le français,4,4,2,4,True,False,False,0
+oh un peu je ne comprends pas très bien,4,5,2,4,True,False,False,0
+mais si mais si vous parlez très bien,4,6,2,4,True,False,False,0
+merci monsieur,4,7,2,4,True,False,False,0
+parlez,4,30,2,4,True,False,False,0
+je ne vais pas bien,4,31,2,4,True,False,False,0
+parle,4,33,2,4,True,False,False,0
+mais je ne parle pas,4,37,2,4,True,False,False,0
+oui c'est ici,4,76,2,4,True,False,False,0
+pardon où est la rue saint-jacques s'il vous plaît,4,212,2,4,True,False,False,0
+oui je comprends bien le français,5,7,2,5,True,False,False,0
+mademoiselle comment allez-vous,5,8,2,5,True,False,False,0
+moi très bien merci au revoir monsieur,5,9,2,5,True,False,False,0
+oui je voudrais manger,5,48,2,5,True,False,False,0
+non je ne vais pas très bien,5,63,2,5,True,False,False,0
+je ne sais pas moi,5,66,2,5,True,False,False,0
+mais je ne sais pas,5,69,2,5,True,False,False,0
+oh non,5,70,2,5,True,False,False,0
+non merci monsieur,5,71,2,5,True,False,False,0
+c'est pas,5,76,2,5,True,False,False,0
+je n-,5,78,2,5,True,False,False,0
+où est la rue lafayette s'il vous plaît,5,87,2,5,True,False,False,0
+veux,5,112,2,5,True,False,False,0
+voulez,5,118,2,5,True,False,False,0
+voudriez,5,134,2,5,True,False,False,0
+chose,5,145,2,5,True,False,False,0
+quelque,5,147,2,5,True,False,False,0
+moi oui je voudrais manger quelque chose,5,165,2,5,True,False,False,0
+où est le boulevard saint-michel s'il vous plaît,5,196,2,5,True,False,False,0
+don,1,7,1,1,True,False,False,0
+par,1,8,1,1,True,False,False,0
+prenez,1,21,1,1,True,False,False,0
+com,1,22,1,1,True,False,False,0
+vous,1,26,1,1,True,False,False,0
+sieur,1,38,1,1,True,False,False,0
+mon,1,39,1,1,True,False,False,0
+je comprends vous comprenez,1,49,1,1,True,False,False,0
+pas,1,59,1,1,True,False,False,0
+comprends pas,1,60,1,1,True,False,False,0
+je ne,1,61,1,1,True,False,False,0
+prends le français,1,76,1,1,True,False,False,0
+comprends le français,1,77,1,1,True,False,False,0
+peu,1,85,1,1,True,False,False,0
+un peu le français,1,91,1,1,True,False,False,0
+cain,1,95,1,1,True,False,False,0
+amer,1,96,1,1,True,False,False,0
+pardon monsieur,2,1,1,2,True,False,False,0
+oui est-ce que vous comprenez l'anglais mademoiselle,2,5,1,2,True,False,False,0
+oui monsieur je comprends,2,178,1,2,True,False,False,0
+bonjour monsieur comment allez-vous,3,1,1,3,True,False,False,0
+bien madame merci,3,2,1,3,True,False,False,0
+oui madame un peu pas très bien,3,4,1,3,True,False,False,0
+vous êtes américain monsieur,3,5,1,3,True,False,False,0
+mais vous comprenez très bien le français,3,7,1,3,True,False,False,0
+je suis américaine et vous,3,115,1,3,True,False,False,0
+pas américaine,3,119,1,3,True,False,False,0
+vous n'êtes pas américaine madame,3,123,1,3,True,False,False,0
+vous n'êtes pas américain monsieur,3,124,1,3,True,False,False,0
+non madame je suis américain,3,142,1,3,True,False,False,0
+est-ce que vous comprenez le français monsieur,3,145,1,3,True,False,False,0
+oui un peu,3,146,1,3,True,False,False,0
+mais oui mademoiselle,3,194,1,3,True,False,False,0
+très bien merci et vous monsieur,3,207,1,3,True,False,False,0
+merci bien,3,225,1,3,True,False,False,0
+pardon je ne comprends pas,3,226,1,3,True,False,False,0
+au revoir mademoiselle au revoir,3,231,1,3,True,False,False,0
+s'il vous plait,4,65,1,4,True,False,False,0
+sil vous plait,4,139,1,4,True,False,False,0
+où est le boulevard saint-michel s'il vous plait,4,150,1,4,True,False,False,0
+oui c'est ici monsieur,4,188,1,4,True,False,False,0
+monsieur savez-vous où il y a un bon restaurant,4,246,1,4,True,False,False,0
+je comprends bien,5,31,1,5,True,False,False,0
+je comprends bien le français,5,32,1,5,True,False,False,0
+voudrais,5,157,1,5,True,False,False,0
+mais je voudrais manger quelque chose monsieur,5,211,1,5,True,False,False,0
+je ne vais pas très bien,5,227,1,5,True,False,False,0

@@ -1,0 +1,101 @@
+phrase,teaching_cue,context,speaker_response
+Quelle heure est-il?,Do you remember how to ask someone what time it is?,question,Male Speaker
+"Quelle heure est-il, s'il vous plaît?",Do you remember how to ask someone what time it is?,question,Male Speaker
+Est-ce que vous savez?,"Ask, ""Do you know?""",question,Male Speaker
+Savez-vous?,"Ask, ""Do you know?""",question,Male Speaker
+Je ne sais pas.,"Answer, ""I don't know.""",vocabulary_introduction,French Narrator
+"Ah oui, je sais.","""Ah yes, I know.""",vocabulary_introduction,Female Speaker
+Il est trois heures.,Tell him it's three o'clock.,vocabulary_introduction,Female Speaker
+Il est cinq heures.,Tell him it's five o'clock.,vocabulary_introduction,Female Speaker
+Est-ce que vous allez déjeuner maintenant?,Ask him if he's going to have lunch now.,question,Female Speaker
+"Non, je vais manger plus tard.","How does he reply, ""No, I'm going to eat later.""",negation,Male Speaker
+Je vais.,"How does he reply, ""No, I'm going to eat later.""",vocabulary_introduction,Male Speaker
+Je vais manger.,"How does he reply, ""No, I'm going to eat later.""",vocabulary_introduction,Male Speaker
+Je vais manger plus tard.,"How does he reply, ""No, I'm going to eat later.""",vocabulary_introduction,Male Speaker
+À huit heures.,"He adds, ""At eight o'clock.""",vocabulary_introduction,Male Speaker
+Huit.,"""Huit"" and ""une"" begin with somewhat different sounds. Practice the contrast.",pronunciation_practice,Male Speaker
+Une.,"""Huit"" and ""une"" begin with somewhat different sounds. Practice the contrast.",pronunciation_practice,Male Speaker
+Une heure.,"""Huit"" and ""une"" begin with somewhat different sounds. Practice the contrast.",pronunciation_practice,Male Speaker
+Huit heures.,"""Huit"" and ""une"" begin with somewhat different sounds. Practice the contrast.",pronunciation_practice,Male Speaker
+Plus.,"""Huit"" and ""une"" begin with somewhat different sounds. Practice the contrast.",pronunciation_practice,Male Speaker
+Du.,"""Huit"" and ""une"" begin with somewhat different sounds. Practice the contrast.",pronunciation_practice,Male Speaker
+Je vais boire du vin plus tard.,"Say, ""I'm going to drink wine later.""",vocabulary_introduction,Male Speaker
+À neuf heures.,"Say, ""At nine o'clock.""",vocabulary_introduction,Male Speaker
+À quelle heure?,"Ask, ""At what time?""",question,Female Speaker
+Quelle heure est-il maintenant?,Ask her what time it is now.,question,Male Speaker
+Il est quatre heures maintenant.,"How do she answer, ""It's four o'clock now.""",vocabulary_introduction,Female Speaker
+Je vais déjeuner à deux heures.,"Say, ""I'm going to have lunch at two o'clock.""",vocabulary_introduction,Male Speaker
+Est-ce que vous voudriez déjeuner avec moi?,Ask her if she would like to have lunch with you.,question,Male Speaker
+Quand?,"How did she ask ""when?""",question,Female Speaker
+Où?,"How would she ask ""where?""",question,Female Speaker
+Quand? Maintenant?,"Ask, ""When, now?""",question,Female Speaker
+"Mais non, pas maintenant.","Answer, ""No, no, not now.""",negation,Male Speaker
+Écoutez et répétez.,"Here is how to say, ""At six o'clock.""",instruction,French Narrator
+À six heures.,"Here is how to say, ""At six o'clock.""",vocabulary_introduction,Male Speaker
+"À six heures, Mademoiselle.","Say, ""At six o'clock, Miss.""",vocabulary_introduction,Male Speaker
+Écoutez et répétez.,"Here is how to say ""or at seven o'clock.""",instruction,French Narrator
+Ou à sept heures.,"Here is how to say ""or at seven o'clock.""",vocabulary_introduction,Male Speaker
+À sept heures.,"Say, ""At seven o'clock.""",vocabulary_introduction,Male Speaker
+À six heures ou à sept heures.,"Say, ""At six o'clock or at seven o'clock.""",vocabulary_introduction,Male Speaker
+Pas à six heures.,"Say, ""Not at six o'clock.""",negation,Female Speaker
+Plus tard.,"""Later.""",vocabulary_introduction,Female Speaker
+Très bien.,"Answer, ""Very well.""",vocabulary_introduction,Male Speaker
+Écoutez et répétez.,"""In that case"" or ""then, at seven o'clock.""",instruction,French Narrator
+"Alors, à cette heure.","""In that case"" or ""then, at seven o'clock.""",vocabulary_introduction,Male Speaker
+Alors.,"What is the French word for ""then"" or ""in that case""?",vocabulary_introduction,Male Speaker
+"Alors, à huit heures.","Say, ""Then, at eight o'clock.""",vocabulary_introduction,Male Speaker
+Écoutez et répétez.,"Here is how to say ""this evening.""",instruction,French Narrator
+Ce soir.,"Here is how to say ""this evening.""",vocabulary_introduction,Male Speaker
+Écoutez et répétez.,"And here is how to say ""to have dinner.""",instruction,French Narrator
+Dîner.,"And here is how to say ""to have dinner.""",vocabulary_introduction,Female Speaker
+Je vais dîner ce soir.,"Say, ""I'm going to have dinner this evening.""",vocabulary_introduction,Male Speaker
+Je voudrais dîner ce soir.,"And now, say, ""I would like to have dinner this evening.""",vocabulary_introduction,Male Speaker
+"Alors, à sept heures.","Say, ""Then at seven o'clock.""",vocabulary_introduction,Male Speaker
+Écoutez et répétez.,"The young woman says, ""At ten o'clock.""",instruction,French Narrator
+À dix heures.,"The young woman says, ""At ten o'clock.""",vocabulary_introduction,Female Speaker
+Écoutez et répétez.,"Here's how to say ""tomorrow.""",instruction,French Narrator
+Demain.,"Here's how to say ""tomorrow.""",vocabulary_introduction,Male Speaker
+Et demain?,"Ask, ""And tomorrow?""",question,Male Speaker
+"Demain, je vais dîner avec vous.","Answer, ""Tomorrow, I'm going to have dinner with you.""",vocabulary_introduction,Female Speaker
+À quatre heures.,"Say, ""At four o'clock.""",vocabulary_introduction,Female Speaker
+"Non, à six heures ou à sept heures.","Say, ""No, at six o'clock or at seven o'clock.""",negation,Male Speaker
+Pas à neuf heures.,"Say, ""Not at nine o'clock.""",negation,Male Speaker
+"Alors, à dix heures.","Say, ""Then, at ten o' clock.""",vocabulary_introduction,Male Speaker
+Demain.,"How do you say ""tomorrow""?",vocabulary_introduction,Male Speaker
+Ce soir.,"And how do you say ""this evening""?",vocabulary_introduction,Male Speaker
+Soir.,"Which part of that means ""evening""?",vocabulary_introduction,Male Speaker
+Demain soir.,"Now try to say, ""Tomorrow evening"".",vocabulary_introduction,Male Speaker
+Demain soir à sept heures.,"Say, ""Tomorrow evening at seven o'clock.""",vocabulary_introduction,Male Speaker
+"Non, à dix heures.","Say, ""No, at ten o'clock.""",negation,Female Speaker
+Écoutez et répétez.,"Here's the word for ""today.""",instruction,French Narrator
+Aujourd'hui.,"Here's the word for ""today.""",vocabulary_introduction,Male Speaker
+Écouter.,"How do you say ""listen"" in French?",vocabulary_introduction,Male Speaker
+Répéter.,"And ""repeat""?",vocabulary_introduction,Male Speaker
+Aujourd'hui.,"Say, ""Today.""",vocabulary_introduction,Male Speaker
+Demain.,"Say, ""Tomorrow.""",vocabulary_introduction,Male Speaker
+Demain soir.,"Say, ""Tomorrow evening.""",vocabulary_introduction,Male Speaker
+Ce soir.,"Say, ""This evening.""",vocabulary_introduction,Male Speaker
+Est-ce que vous voudriez dîner avec moi aujourd'hui?,Ask the young woman if she would like to have dinner with you today.,question,Male Speaker
+"Pas aujourd'hui, demain.","Answer, ""Not today, tomorrow.""",negation,Female Speaker
+À quelle heure?,"Ask, ""At what time?""",question,Male Speaker
+À six heures ou à sept heures.,"Answer, ""At six o'clock or at seven o'clock.""",vocabulary_introduction,Female Speaker
+"Moi, je vais dîner maintenant.","Say, ""Me, I'm going to have dinner now.""",vocabulary_introduction,Male Speaker
+Aujourd'hui et aussi demain.,"Say, ""Today and tomorrow also.""",vocabulary_introduction,Male Speaker
+Quelle heure est-il maintenant?,"Ask, ""What time is it now?""",question,Female Speaker
+"Il est dix heures, Mademoiselle.",Tell her it's ten o'clock.,vocabulary_introduction,Male Speaker
+Je voudrais dîner avec vous ce soir.,"Say, ""I would like to have dinner with you this evening.""",vocabulary_introduction,Female Speaker
+"Pas ce soir, mais demain soir.","Say, ""Not this evening, but tomorrow evening.""",negation,Male Speaker
+"Alors, à huit heures chez moi.","Say, ""Then at eight o'clock at my place.""",vocabulary_introduction,Male Speaker
+D'accord.,"Answer, ""Agreed.""",vocabulary_introduction,Female Speaker
+Comment allez-vous aujourd'hui?,"First, ask him how he is today.",question,Female Speaker
+Qu'est-ce que vous voulez faire?,Ask him what he wants to do.,question,Female Speaker
+Qu'est-ce que vous voulez faire ce soir?,Ask him what he wants to do this evening.,question,Female Speaker
+Est-ce que vous voudriez boire quelque chose chez moi?,Ask him if you'd like to have a drink at your place.,question,Female Speaker
+"Alors, demain soir?","Ask, ""Then tomorrow evening?""",question,Female Speaker
+Je vais dîner à six heures.,"He will ask you a question. Answer him using the time ""six o'clock"" in your answer.",vocabulary_introduction,Female Speaker
+À sept heures.,"Use the time ""seven o'clock"" in answer to his next question.",vocabulary_introduction,Female Speaker
+À dix heures.,"Use ""ten o'clock"" in your next answer.",vocabulary_introduction,Female Speaker
+"Je voudrais du vin, s'il vous plaît.",Answer his next question on your own.,vocabulary_introduction,Female Speaker
+"Répétez, s'il vous plaît.","Suppose you didn't understand. How would you say, ""Repeat please""?",instruction,Female Speaker
+"D'accord, mais écoutez.","Say, ""All right, but listen.""",vocabulary_introduction,Male Speaker
+À demain.,"Now, he will use the expression which means ""See you tomorrow."" Answer him the same way.",vocabulary_introduction,Female Speaker

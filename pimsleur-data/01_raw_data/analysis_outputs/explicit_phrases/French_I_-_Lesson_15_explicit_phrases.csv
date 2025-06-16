@@ -1,0 +1,74 @@
+phrase,teaching_cue,context,speaker_response
+Comment?,"Suppose you didn't understand what was said. How would you ask something like ""how's that?"" or ""what?""",question,Female Speaker
+Est-ce que vous avez des dollars?,Ask someone if he has some dollars.,question,Female Speaker
+Est-ce que vous avez du vin?,Ask him if he has some wine.,question,Female Speaker
+Je n'ai pas de vin.,How does he tell you he has no wine?,negation,Male Speaker
+Mais j'ai de la bière.,"Say, ""But I have beer.""",vocabulary_introduction,Male Speaker
+"Alors, donnez-moi de la bière.","Say, ""Well then, give me beer.""",vocabulary_introduction,Female Speaker
+Voilà cinq dollars.,"Say, ""Here are five dollars.""",vocabulary_introduction,Female Speaker
+Vous n'avez pas de francs?,"Say, ""You haven't any francs?""",question,Male Speaker
+J'ai aussi des francs.,"Say, ""I have francs too.""",vocabulary_introduction,Female Speaker
+Donnez-moi dix-sept francs.,"Say, ""Give me seventeen francs.""",vocabulary_introduction,Male Speaker
+Combien? Dix-huit?,"Ask, ""How many? Eighteen?""",question,Female Speaker
+"Non, Madame, seize.","Say, ""No ma'am, sixteen.""",vocabulary_introduction,Male Speaker
+Voilà quinze francs.,"Say, ""Here are fifteen francs.""",vocabulary_introduction,Female Speaker
+"C'est quatorze, Madame.","Say, ""It's fourteen, ma'am.""",vocabulary_introduction,Male Speaker
+"Alors, donnez-moi un franc.","Say, ""Well then, give me one franc.""",vocabulary_introduction,Female Speaker
+Je vous dois combien?,"Ask, ""How much you owe.""",question,Female Speaker
+Pas beaucoup.,"Say, ""Not much.""",vocabulary_introduction,Male Speaker
+"Pour vous, Madame.","""For you, madam.""",vocabulary_introduction,Male Speaker
+Pour moi?,"Ask, ""For me?""",question,Female Speaker
+Le vin est pour vous.,"Say, ""The wine is for you.""",vocabulary_introduction,Male Speaker
+Mais la bière est pour Georges.,"Say, ""But the beer is for Georges.""",vocabulary_introduction,Male Speaker
+C'est combien une bière?,"""How much is a beer?""",question,Female Speaker
+"Une bière, un franc.","Say, ""One beer, one franc.""",vocabulary_introduction,Male Speaker
+"Et le vin, deux francs.","Say, ""And the wine, two francs.""",vocabulary_introduction,Male Speaker
+Donnez-moi trois francs.,"Say, ""Give me three francs.""",vocabulary_introduction,Male Speaker
+Je ne peux pas.,"""I can't.""",negation,Female Speaker
+Je peux.,"Say, ""I can.""",vocabulary_introduction,Female Speaker
+Vous pouvez.,"Here is how to say, ""You can.""",vocabulary_introduction,Male Speaker
+Est-ce que vous pouvez?,"Ask, ""Can you?""",question,Male Speaker
+Est-ce que vous pouvez manger maintenant?,"Ask, ""Can you eat now?""",question,Female Speaker
+"Oui, je peux.","Answer, ""Yes, I can.""",vocabulary_introduction,Female Speaker
+Je ne veux pas.,Tell him you don't want to.,negation,Female Speaker
+Est-ce que vous avez du vin?,Ask the young woman if she has some wine.,question,Male Speaker
+"Oui, j'en ai.","Say, ""I have some.""",vocabulary_introduction,Female Speaker
+Est-ce que vous avez de la bière?,Ask her if she has any beer.,question,Male Speaker
+Je n'en ai pas.,"Try to say, ""I haven't any.""",negation,Female Speaker
+Est-ce que vous avez des dollars?,Ask her if she has any dollars.,question,Male Speaker
+J'en ai beaucoup.,"How does she say, ""I have many""?",vocabulary_introduction,Female Speaker
+"Non, je n'en ai pas.","Suppose she doesn't have any, what would she say?",negation,Female Speaker
+Je n'en ai pas beaucoup.,How would she say she doesn't have many?,negation,Female Speaker
+J'en veux.,"Now, try to say, ""I want some.""",vocabulary_introduction,Female Speaker
+Vous en voulez.,"Now, try to say, ""You want some.""",vocabulary_introduction,Female Speaker
+Des dollars?,"Ask, ""Dollars?""",question,Female Speaker
+Vous voulez des dollars?,"Again, inquire, ""You want dollars?""",question,Female Speaker
+Vous ne pouvez pas?,"Ask, ""You can't?""",question,Male Speaker
+Je n'ai pas de dollars.,"Say, ""I haven't any dollars.""",negation,Female Speaker
+Je n'en ai pas.,"And now just say, ""I haven't any.""",negation,Female Speaker
+J'en veux.,"Say, ""I want some.""",vocabulary_introduction,Male Speaker
+Je n'en ai pas beaucoup.,"Say, ""I haven't many.""",negation,Female Speaker
+"Alors, donnez-moi des francs.","Say, ""Well, give me francs.""",vocabulary_introduction,Male Speaker
+Je ne peux pas.,"Say, ""I can't.""",negation,Female Speaker
+Vous ne pouvez pas?,"Ask, ""You can't?""",question,Male Speaker
+Je peux.,"Say, ""I can.""",vocabulary_introduction,Female Speaker
+Mais je ne veux pas.,"Say, ""But I don't want to.""",negation,Female Speaker
+Vous avez des francs.,"Say, ""You have francs.""",vocabulary_introduction,Male Speaker
+Mais je n'en veux pas.,"Say, ""But I don't want any.""",negation,Male Speaker
+Deux et deux font combien?,Écoutez et répétez.,question,Male Speaker
+Je veux manger!,Écoutez et répétez.,vocabulary_introduction,Male Speaker
+Qu'est-ce que vous allez acheter?,Deux.,question,Male Speaker
+Je vais acheter une flûte.,Trois.,vocabulary_introduction,Male Speaker
+En France et en Italie.,"Look at number four. The word in the middle, E-T, is also pronounced ""É.""",vocabulary_introduction,Male Speaker
+"Vous et moi, ensemble.",Cinq.,vocabulary_introduction,Male Speaker
+Et qui est Jacques?,Six.,question,Male Speaker
+Je l'ai vu assez souvent.,Sept.,vocabulary_introduction,Male Speaker
+"Cependant, il ne répond pas.",Huit.,vocabulary_introduction,Male Speaker
+Qu'est-ce qu'il peut donner?,Neuf.,question,Male Speaker
+Elle est devenue blanche.,Dix.,vocabulary_introduction,Male Speaker
+Jacques est indépendant.,Onze.,vocabulary_introduction,Male Speaker
+Je n'en ai plus.,Douze.,negation,Male Speaker
+Est-ce que Paris est loin?,Treize.,question,Male Speaker
+Écoutez! Je vais répéter.,Quatorze.,vocabulary_introduction,Male Speaker
+Comment? Vous avez tout vu?,Quinze.,question,Male Speaker
+"Non, mais j'ai tout entendu.",Seize.,vocabulary_introduction,Male Speaker

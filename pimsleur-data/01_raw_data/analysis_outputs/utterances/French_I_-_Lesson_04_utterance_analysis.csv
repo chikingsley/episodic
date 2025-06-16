@@ -1,0 +1,252 @@
+utterance_text,speaker,utterance_type,narrator_cue,core_lemmas
+"Pardon, Monsieur, est-ce que vous êtes français?",Female Speaker,ConversationalExchange,,pardon monsieur être vous français
+"Oui, Mademoiselle, je suis français. Et vous?",Male Speaker,ConversationalExchange,,oui mademoiselle je être français et vous
+Je suis américaine.,Female Speaker,ConversationalExchange,,je être américaine
+Mais vous comprenez le français?,Male Speaker,ConversationalExchange,,mais vous comprendre le français
+"Oh, un peu. Je ne comprends pas très bien.",Female Speaker,ConversationalExchange,,oh un peu je ne comprendre pas très bien
+"Mais si, mais si, vous parlez très bien.",Male Speaker,ConversationalExchange,,mais si vous parler très bien
+"Merci, Monsieur.",Female Speaker,SimpleResponse,,merci monsieur
+"Pardon, Monsieur, est-ce que vous êtes français?",Female Speaker,ConversationalExchange,,pardon monsieur être vous français
+"Oui, Mademoiselle, je suis français. Et vous?",Male Speaker,ConversationalExchange,,oui mademoiselle je être français et vous
+Je suis américaine.,Female Speaker,ConversationalExchange,,je être américaine
+Mais vous comprenez le français?,Male Speaker,ConversationalExchange,,mais vous comprendre le français
+"Oh, un peu. Je ne comprends pas très bien.",Female Speaker,ConversationalExchange,,oh un peu je ne comprendre pas très bien
+"Mais si, mais si, vous parlez très bien.",Male Speaker,ConversationalExchange,,mais si vous parler très bien
+"Merci, Monsieur.",Female Speaker,SimpleResponse,,merci monsieur
+Bonjour.,Female Speaker,PromptedRecall,Do you remember how to greet someone in French?,bonjour
+Bonjour.,Female Speaker,DirectRepetition,Do you remember how to greet someone in French?,bonjour
+"Bonjour, Monsieur.",Female Speaker,PromptedRecall,"Say, ""Good morning, sir.""",bonjour monsieur
+Au revoir.,Male Speaker,PromptedRecall,"And how do you say, ""Goodbye?""",au revoir
+Au revoir.,Male Speaker,DirectRepetition,"And how do you say, ""Goodbye?""",au revoir
+"Au revoir, Madame.",Male Speaker,PromptedRecall,"Say, ""Goodbye, ma'am.""",au revoir madame
+"Au revoir, Madame.",Male Speaker,DirectRepetition,"Say, ""Goodbye, ma'am.""",au revoir madame
+Bonjour.,Female Speaker,PromptedRecall,"Say again, ""Hello.""",bonjour
+"Bonjour, Monsieur.",Female Speaker,PromptedRecall,"Say again, ""Hello.""",bonjour monsieur
+Comment allez-vous?,Female Speaker,PromptedRecall,How do you ask someone how he is?,comment aller vous
+Comment allez-vous?,Female Speaker,DirectRepetition,How do you ask someone how he is?,comment aller vous
+"Très bien, merci.",Male Speaker,PromptedRecall,"Answer, ""Very well, thanks.""",très bien merci
+"Je vais bien, merci.",Male Speaker,PromptedRecall,"""I'm well, thanks.""",je aller bien merci
+"Je vais bien, merci.",Male Speaker,DirectRepetition,"""I'm well, thanks.""",je aller bien merci
+Pas très bien.,Male Speaker,PromptedRecall,"Now say, ""Not very well.""",pas très bien
+Comment allez-vous?,Female Speaker,PromptedRecall,"Ask again, ""How are you?""",comment aller vous
+Je ne vais pas bien.,Male Speaker,PromptedRecall,"Try to say, ""I'm not well.""",je ne aller pas bien
+Je ne vais pas bien.,Male Speaker,DirectRepetition,"Try to say, ""I'm not well.""",je ne aller pas bien
+Je ne comprends pas le français.,Male Speaker,PromptedRecall,"""I don't understand French.""",je ne comprendre pas le français
+Mais si.,Female Speaker,PromptedRecall,"Say emphatically, ""But yes.""",mais si
+Mais si.,Female Speaker,DirectRepetition,"Say emphatically, ""But yes.""",mais si
+Vous comprenez très bien.,Female Speaker,PromptedRecall,"""You understand very well.""",vous comprendre très bien
+Vous comprenez très bien.,Female Speaker,DirectRepetition,"""You understand very well.""",vous comprendre très bien
+Est-ce que vous êtes américain?,Female Speaker,PromptedRecall,"How did she ask, ""Are you American?""",être vous américain
+Est-ce que vous êtes américain?,Female Speaker,DirectRepetition,"How did she ask, ""Are you American?""",être vous américain
+"Oui, Mademoiselle.",Male Speaker,PromptedRecall,"Answer, ""Yes, Miss.""",oui mademoiselle
+Est-ce que vous êtes américaine?,Male Speaker,PromptedRecall,Ask the young woman if she is American.,être vous américaine
+"Est-ce que vous êtes américaine, Mademoiselle?",Male Speaker,PromptedRecall,Ask the young woman if she is American.,être vous américaine mademoiselle
+Vous n'êtes pas américaine.,Male Speaker,PromptedRecall,"Say to a woman, ""You are not American.""",vous ne être pas américaine
+Je suis.,Male Speaker,PromptedRecall,"Say, ""I am.""",je être
+Je suis américain.,Male Speaker,PromptedRecall,Say that you are american.,je être américain
+Je suis américaine.,Female Speaker,PromptedRecall,Say that you are american.,je être américaine
+"Américain, Américaine.",Male Speaker,PromptedRecall,Practice the distinction between masculine and feminine.,américain américaine
+"Américain, Américaine.",Male Speaker,DirectRepetition,Practice the distinction between masculine and feminine.,américain américaine
+Est-ce que vous êtes américain?,Male Speaker,PromptedRecall,Ask me if I am American.,être vous américain
+Je suis américain.,Male Speaker,PromptedRecall,"How would I answer, ""I am American.""",je être américain
+Je suis américain.,Male Speaker,DirectRepetition,"How would I answer, ""I am American.""",je être américain
+Je ne suis pas américain.,Male Speaker,PromptedRecall,"Now say, ""I'm not American.""",je ne être pas américain
+Je ne suis pas américain.,Male Speaker,DirectRepetition,"Now say, ""I'm not American.""",je ne être pas américain
+Vous n'êtes pas français.,Female Speaker,PromptedRecall,"Say to a man, ""You are not French.""",vous ne être pas français
+Est-ce que vous êtes française?,Male Speaker,PromptedRecall,Ask the young woman if she is French.,être vous française
+"Est-ce que vous êtes française, Mademoiselle?",Male Speaker,PromptedRecall,Ask the young woman if she is French.,être vous française mademoiselle
+Est-ce que vous comprenez l'anglais?,Male Speaker,PromptedRecall,Ask her if she understands English.,être vous comprendre l'anglais
+"Non, Monsieur.",Female Speaker,PromptedRecall,"Answer, ""No, sir.""",non monsieur
+Je ne comprends pas l'anglais.,Female Speaker,PromptedRecall,How does she tell you she doesn't understand English?,je ne comprendre pas l'anglais
+Je ne comprends pas l'anglais.,Female Speaker,DirectRepetition,How does she tell you she doesn't understand English?,je ne comprendre pas l'anglais
+Vous comprenez.,Male Speaker,PromptedRecall,"How do you say, ""You understand""?",vous comprendre
+Vous parlez.,Male Speaker,DirectRepetition,"Here's how to say, ""You speak."" Listen and repeat.",vous parler
+Parlez.,Male Speaker,DirectRepetition,"Here's how to say, ""You speak."" Listen and repeat.",parler
+Vous parlez.,Male Speaker,DirectRepetition,"Here's how to say, ""You speak."" Listen and repeat.",vous parler
+Vous comprenez.,Male Speaker,PromptedRecall,"Say again, ""You understand.""",vous comprendre
+Vous comprenez.,Male Speaker,DirectRepetition,"Say again, ""You understand.""",vous comprendre
+Vous parlez.,Male Speaker,PromptedRecall,"Now say, ""You speak.""",vous parler
+Vous parlez bien.,Male Speaker,PromptedRecall,"""You speak well.""",vous parler bien
+Vous parlez bien.,Male Speaker,DirectRepetition,"""You speak well.""",vous parler bien
+Je parle.,Male Speaker,PromptedRecall,"Try to say, ""I speak.""",je parler
+Parle.,Male Speaker,DirectRepetition,"Try to say, ""I speak.""",parler
+Je parle.,Male Speaker,DirectRepetition,"Try to say, ""I speak.""",je parler
+Je parle un peu.,Male Speaker,PromptedRecall,"Try to say, ""I speak a little.""",je parler un peu
+Mais.,Male Speaker,PromptedRecall,"""But.""",mais
+Je ne comprends pas.,Male Speaker,PromptedRecall,"Say, ""I don't understand.""",je ne comprendre pas
+Mais je ne parle pas.,Male Speaker,PromptedRecall,"Try to say, ""But I don't speak.""",mais je ne parler pas
+Je ne parle pas bien.,Male Speaker,PromptedRecall,"""I don't speak well.""",je ne parler pas bien
+Je ne parle pas bien.,Male Speaker,DirectRepetition,"""I don't speak well.""",je ne parler pas bien
+Mais si.,Female Speaker,PromptedRecall,"Say emphatically, ""But yes.""",mais si
+Mais si.,Female Speaker,DirectRepetition,"Say emphatically, ""But yes.""",mais si
+Vous ne comprenez pas l'anglais?,Male Speaker,PromptedRecall,"Ask, ""You don't understand English?""",vous ne comprendre pas l'anglais
+Si.,Female Speaker,PromptedRecall,"Answer emphatically, ""Yes.""",si
+Je comprends un peu.,Female Speaker,PromptedRecall,"""I understand a little.""",je comprendre un peu
+Et je parle un peu.,Female Speaker,PromptedRecall,"""And I speak a little.""",et je parler un peu
+Et je parle un peu.,Female Speaker,DirectRepetition,"""And I speak a little.""",et je parler un peu
+Pas très bien.,Female Speaker,PromptedRecall,"""Not very well.""",pas très bien
+Je comprends un peu l'anglais.,Female Speaker,PromptedRecall,"""I understand English a little.""",je comprendre un peu l'anglais
+Je ne parle pas bien.,Female Speaker,PromptedRecall,"""I don't speak well.""",je ne parler pas bien
+Je ne parle pas bien.,Female Speaker,DirectRepetition,"""I don't speak well.""",je ne parler pas bien
+Je comprends le français.,Female Speaker,PromptedRecall,"""I understand French.""",je comprendre le français
+Je ne suis pas français.,Male Speaker,PromptedRecall,"Now, referring to yourself, say, ""I'm not French.""",je ne être pas français
+Je ne suis pas français.,Male Speaker,DirectRepetition,"Now, referring to yourself, say, ""I'm not French.""",je ne être pas français
+Je ne suis pas française.,Female Speaker,PromptedRecall,"Now, referring to yourself, say, ""I'm not French.""",je ne être pas française
+Et vous?,Female Speaker,PromptedRecall,"Ask, ""And you?""",et vous
+Mais oui.,Male Speaker,PromptedRecall,"Say, ""But yes.""",mais oui
+Mais oui.,Male Speaker,DirectRepetition,"Say, ""But yes.""",mais oui
+S'il vous plaît.,Male Speaker,PromptedRecall,"Say, ""Please.""",s'il vous plaît
+S'il vous plaît.,Male Speaker,DirectRepetition,"Say, ""Please.""",s'il vous plaît
+Jacques.,Male Speaker,DirectRepetition,"""Jacques"" is a common name in French. Practice saying it.",jacques
+Jacques.,Male Speaker,DirectRepetition,"""Jacques"" is a common name in French. Practice saying it.",jacques
+Jacques.,Male Speaker,DirectRepetition,"""Jacques"" is a common name in French. Practice saying it.",jacques
+Saint.,Male Speaker,DirectRepetition,"And now the word ""saint"".",saint
+Saint.,Male Speaker,DirectRepetition,"And now the word ""saint"".",saint
+Saint.,Male Speaker,DirectRepetition,"And now the word ""saint"".",saint
+Saint-Jacques.,Male Speaker,DirectRepetition,"And now the word ""saint"".",saint jacques
+Saint-Jacques.,Male Speaker,DirectRepetition,"And now the word ""saint"".",saint jacques
+Saint-Jacques.,Male Speaker,PromptedRecall,"Say, ""Saint-Jacques.""",saint jacques
+Michel.,Male Speaker,DirectRepetition,"Now here's another common French name, ""Michael.""",michel
+Michel.,Male Speaker,DirectRepetition,"Now here's another common French name, ""Michael.""",michel
+Michel.,Male Speaker,DirectRepetition,"Now here's another common French name, ""Michael.""",michel
+Saint-Michel.,Male Speaker,DirectRepetition,"Now here's another common French name, ""Michael.""",saint michel
+Saint-Michel.,Male Speaker,DirectRepetition,"Now here's another common French name, ""Michael.""",saint michel
+Saint-Michel.,Male Speaker,PromptedRecall,"Say, ""Saint Michael.""",saint michel
+La rue.,Male Speaker,DirectRepetition,"And now, ""the street"". Listen and repeat.",la rue
+Rue.,Male Speaker,DirectRepetition,"And now, ""the street"". Listen and repeat.",rue
+Rue.,Male Speaker,DirectRepetition,"And now, ""the street"". Listen and repeat.",rue
+Rue.,Male Speaker,DirectRepetition,"And now, ""the street"". Listen and repeat.",rue
+La rue.,Male Speaker,DirectRepetition,"And now, ""the street"". Listen and repeat.",la rue
+La rue.,Male Speaker,DirectRepetition,"And now, ""the street"". Listen and repeat.",la rue
+La rue.,Male Speaker,PromptedRecall,"Say, ""The street.""",la rue
+La rue.,Male Speaker,PromptedRecall,"Again, say, ""The street.""",la rue
+La rue Saint-Jacques.,Male Speaker,DirectRepetition,"And now, repeat after the speaker, ""Saint-Jacques Street.""",la rue saint jacques
+La rue Saint-Jacques.,Male Speaker,DirectRepetition,"And now, repeat after the speaker, ""Saint-Jacques Street.""",la rue saint jacques
+La rue Saint-Jacques.,Male Speaker,DirectRepetition,"And now, repeat after the speaker, ""Saint-Jacques Street.""",la rue saint jacques
+La rue Saint-Michel.,Male Speaker,PromptedRecall,"And now, you try to say, ""Saint Michael Street.""",la rue saint michel
+La rue Saint-Michel.,Male Speaker,DirectRepetition,"And now, you try to say, ""Saint Michael Street.""",la rue saint michel
+Ou.,Male Speaker,DirectRepetition,"Now, here's how to ask, ""Where is such and such?"" First the word ""where.""",ou
+Ou.,Male Speaker,DirectRepetition,"Now, here's how to ask, ""Where is such and such?"" First the word ""where.""",ou
+Ou.,Male Speaker,DirectRepetition,"Now, here's how to ask, ""Where is such and such?"" First the word ""where.""",ou
+Est.,Male Speaker,DirectRepetition,"And now the word ""is.""",être
+Est.,Male Speaker,DirectRepetition,"And now the word ""is.""",être
+Est.,Male Speaker,DirectRepetition,"And now the word ""is.""",être
+Où est...,Male Speaker,PromptedRecall,"Now you try to ask, ""Where is...""",où être
+Où est...,Male Speaker,DirectRepetition,"Now you try to ask, ""Where is...""",où être
+Où est la rue?,Male Speaker,PromptedRecall,"And now try to ask, ""Where is the street?""",où être la rue
+Où est la rue?,Male Speaker,DirectRepetition,"And now try to ask, ""Where is the street?""",où être la rue
+Où est la rue Saint-Jacques?,Male Speaker,PromptedRecall,"Ask, ""Where is Saint-Jacques Street?""",où être la rue saint jacques
+Où est la rue Saint-Jacques?,Male Speaker,DirectRepetition,"Ask, ""Where is Saint-Jacques Street?""",où être la rue saint jacques
+Sil vous plait.,Male Speaker,PromptedRecall,"Say, ""Please.""",s'il vous plaît
+Le boulevard.,Male Speaker,DirectRepetition,"Here's the word for ""boulevard"" in French. Listen and repeat, being sure you imitate the French pronunciation in every way.",le boulevard
+Boulevard.,Male Speaker,DirectRepetition,"Here's the word for ""boulevard"" in French. Listen and repeat, being sure you imitate the French pronunciation in every way.",boulevard
+Boulevard.,Male Speaker,DirectRepetition,"Here's the word for ""boulevard"" in French. Listen and repeat, being sure you imitate the French pronunciation in every way.",boulevard
+Le boulevard.,Male Speaker,DirectRepetition,"Here's the word for ""boulevard"" in French. Listen and repeat, being sure you imitate the French pronunciation in every way.",le boulevard
+Le boulevard.,Male Speaker,DirectRepetition,"Here's the word for ""boulevard"" in French. Listen and repeat, being sure you imitate the French pronunciation in every way.",le boulevard
+Le boulevard.,Male Speaker,PromptedRecall,"Say, ""The boulevard.""",le boulevard
+Le boulevard Saint-Michel.,Male Speaker,PromptedRecall,"And now try to say, ""Saint Michael Boulevard.""",le boulevard saint michel
+Le boulevard Saint-Michel.,Male Speaker,DirectRepetition,"And now try to say, ""Saint Michael Boulevard.""",le boulevard saint michel
+Où est le boulevard Saint-Michel?,Male Speaker,PromptedRecall,Now ask where this boulevard is.,où être le boulevard saint michel
+Où est le boulevard Saint-Michel?,Male Speaker,DirectRepetition,Now ask where this boulevard is.,où être le boulevard saint michel
+"Où est le boulevard Saint-Michel, s'il vous plait?",Male Speaker,PromptedRecall,Now ask where this boulevard is.,où être le boulevard saint michel s'il vous plaît
+Ici.,Male Speaker,DirectRepetition,"Well, the answer is, ""It's here."" Practice the word ""here"".",ici
+Ici.,Male Speaker,DirectRepetition,"Well, the answer is, ""It's here."" Practice the word ""here"".",ici
+Ici.,Male Speaker,DirectRepetition,"Well, the answer is, ""It's here."" Practice the word ""here"".",ici
+C'est.,Male Speaker,DirectRepetition,"And now, ""it is.""",c'est
+C'est.,Male Speaker,DirectRepetition,"And now, ""it is.""",c'est
+C'est.,Male Speaker,DirectRepetition,"And now, ""it is.""",c'est
+Est.,Female Speaker,PromptedRecall,"Which part of that means ""is""?",être
+Est.,Female Speaker,DirectRepetition,"Which part of that means ""is""?",être
+Ce.,Female Speaker,PromptedRecall,"Well, the first sound is what means ""it"".",ce
+Ce.,Female Speaker,DirectRepetition,"Well, the first sound is what means ""it"".",ce
+C'est.,Female Speaker,PromptedRecall,"Now say again, ""It is.""",c'est
+C'est.,Female Speaker,DirectRepetition,"Now say again, ""It is.""",c'est
+Ici.,Female Speaker,PromptedRecall,"Say, ""Here.""",ici
+C'est ici.,Female Speaker,PromptedRecall,"And now try to say, ""It's here."" Let me give you the clue that the word ""c'est"" has a disappearing ""T"" on the end of it.",c'est ici
+Où est le boulevard Saint-Michel?,Male Speaker,PromptedRecall,Ask where the Saint Michael Boulevard is.,où être le boulevard saint michel
+Où est le boulevard Saint-Michel?,Male Speaker,DirectRepetition,Ask where the Saint Michael Boulevard is.,où être le boulevard saint michel
+Où est la rue Saint-Jacques?,Male Speaker,PromptedRecall,Now ask where Saint-Jacques street is.,où être la rue saint jacques
+Où est la rue Saint-Jacques?,Male Speaker,DirectRepetition,Now ask where Saint-Jacques street is.,où être la rue saint jacques
+"Où est la rue Saint-Jacques, s'il vous plaît?",Male Speaker,PromptedRecall,Now ask where Saint-Jacques street is.,où être la rue saint jacques s'il vous plaît
+"C'est ici, Monsieur.",Female Speaker,PromptedRecall,"Answer, ""It's here, sir.""",c'est ici monsieur
+"C'est ici, Monsieur.",Female Speaker,DirectRepetition,"Answer, ""It's here, sir.""",c'est ici monsieur
+Est-ce que c'est ici?,Male Speaker,PromptedRecall,"And again ask, ""Is it here?""",être ce ici
+Est-ce que c'est ici?,Male Speaker,DirectRepetition,"And again ask, ""Is it here?""",être ce ici
+"Oui, c'est ici.",Female Speaker,PromptedRecall,"Reply, ""Yes, it's here.""",oui c'est ici
+Est-ce que c'est ici?,Male Speaker,PromptedRecall,"And again ask, ""Is it here?""",être ce ici
+"Non, ce n'est pas ici.",Female Speaker,PromptedRecall,"And now try to say, ""No, it's not here.""",non ce ne être pas ici
+"Non, ce n'est pas ici.",Female Speaker,DirectRepetition,"And now try to say, ""No, it's not here.""",non ce ne être pas ici
+Ce n'est pas ici.,Female Speaker,PromptedRecall,"Say again, ""It's not here.""",ce ne être pas ici
+C'est là-bas.,Female Speaker,DirectRepetition,"Here's how to say, ""It's over there."" Practice the expression meaning ""over there"" or ""down there.""",c'est là-bas
+Là-bas.,Female Speaker,DirectRepetition,"Here's how to say, ""It's over there."" Practice the expression meaning ""over there"" or ""down there.""",là-bas
+Là-bas.,Female Speaker,DirectRepetition,"Here's how to say, ""It's over there."" Practice the expression meaning ""over there"" or ""down there.""",là-bas
+C'est là-bas.,Female Speaker,DirectRepetition,"Here's how to say, ""It's over there."" Practice the expression meaning ""over there"" or ""down there.""",c'est là-bas
+C'est là-bas.,Male Speaker,PromptedRecall,"Say, ""It's down there.""",c'est là-bas
+C'est ici.,Male Speaker,PromptedRecall,"""It's here.""",c'est ici
+Ce n'est pas là-bas.,Male Speaker,PromptedRecall,"""It's not down there.""",ce ne être pas là-bas
+Est-ce que c'est ici?,Male Speaker,PromptedRecall,"Ask again, ""Is it here?""",être ce ici
+Est-ce que c'est ici?,Male Speaker,DirectRepetition,"Ask again, ""Is it here?""",être ce ici
+"Oui, c'est ici, Monsieur.",Female Speaker,PromptedRecall,"Say, ""Yes, it's here, sir.""",oui c'est ici monsieur
+Le boulevard Saint-Michel est ici.,Female Speaker,PromptedRecall,"Say, ""Saint Michael Boulevard is here.""",le boulevard saint michel être ici
+Le boulevard Saint-Michel est ici.,Female Speaker,DirectRepetition,"Say, ""Saint Michael Boulevard is here.""",le boulevard saint michel être ici
+Où est la rue Saint-Jacques?,Male Speaker,PromptedRecall,Ask where Saint-Jacques street is.,où être la rue saint jacques
+"Où est la rue Saint-Jacques, s'il vous plaît?",Male Speaker,PromptedRecall,Ask where Saint-Jacques street is.,où être la rue saint jacques s'il vous plaît
+Est-ce que c'est ici?,Male Speaker,PromptedRecall,"""Is it here?""",être ce ici
+"Non, Monsieur.",Female Speaker,PromptedRecall,"""No, sir.""",non monsieur
+Ce n'est pas ici.,Female Speaker,PromptedRecall,"Answer, ""It's not here.""",ce ne être pas ici
+Ce n'est pas ici.,Female Speaker,DirectRepetition,"Answer, ""It's not here.""",ce ne être pas ici
+C'est là-bas.,Female Speaker,PromptedRecall,"Say, ""It's down there.""",c'est là-bas
+Bonjour.,Female Speaker,ConversationalExchange,,bonjour
+"Bonjour, Mademoiselle.",Male Speaker,ConversationalExchange,,bonjour mademoiselle
+Comment allez-vous?,Female Speaker,ConversationalExchange,,comment aller vous
+"Très bien, merci. Et vous?",Male Speaker,ConversationalExchange,,très bien merci et vous
+Très bien.,Female Speaker,ConversationalExchange,,très bien
+Est-ce que vous êtes américain?,Female Speaker,ConversationalExchange,,être vous américain
+"Oui, Mademoiselle, je suis américain.",Male Speaker,ConversationalExchange,,oui mademoiselle je être américain
+Je suis américain.,Male Speaker,DirectRepetition,,je être américain
+Je suis française.,Female Speaker,ConversationalExchange,,je être française
+Est-ce que vous comprenez le français?,Female Speaker,ConversationalExchange,,être vous comprendre le français
+Un peu.,Male Speaker,PromptedRecall,"Say, ""A little.""",un peu
+Je comprends un peu le français.,Male Speaker,PromptedRecall,"Say, ""I understand French a little.""",je comprendre un peu le français
+Je comprends un peu le français.,Male Speaker,DirectRepetition,"Say, ""I understand French a little.""",je comprendre un peu le français
+Je parle un peu.,Male Speaker,PromptedRecall,"""I speak a little.""",je parler un peu
+"Pardon, où est la rue Saint-Jacques, s'il vous plaît?",Female Speaker,ConversationalExchange,,pardon où être la rue saint jacques s'il vous plaît
+"C'est ici, Mademoiselle.",Male Speaker,PromptedRecall,"Tell her, ""It's here.""",c'est ici mademoiselle
+Et le boulevard Saint-Michel?,Female Speaker,ConversationalExchange,,et le boulevard saint michel
+C'est là-bas.,Male Speaker,PromptedRecall,"Tell her, ""It's down there.""",c'est là-bas
+La rue Saint-Jacques n'est pas là-bas.,Male Speaker,PromptedRecall,Tell her that Saint-Jacques street is not down there.,la rue saint jacques ne être pas là-bas
+La rue Saint-Jacques n'est pas là-bas.,Male Speaker,DirectRepetition,Tell her that Saint-Jacques street is not down there.,la rue saint jacques ne être pas là-bas
+Le boulevard Saint-Michel est là-bas.,Male Speaker,PromptedRecall,Tell her Saint Michael Boulevard is down there.,le boulevard saint michel être là-bas
+Le boulevard Saint-Michel est là-bas.,Male Speaker,DirectRepetition,Tell her Saint Michael Boulevard is down there.,le boulevard saint michel être là-bas
+Mais la rue Saint-Jacques est ici.,Male Speaker,PromptedRecall,Tell her but Saint-Jacques Street is here.,mais la rue saint jacques être ici
+Mais la rue Saint-Jacques est ici.,Male Speaker,DirectRepetition,Tell her but Saint-Jacques Street is here.,mais la rue saint jacques être ici
+"Je ne comprends pas, Mademoiselle.",Male Speaker,ConversationalExchange,,je ne comprendre pas mademoiselle
+Ça ne fait rien.,Female Speaker,ConversationalExchange,,ça ne faire rien
+"Au revoir, Mademoiselle.",Male Speaker,PromptedRecall,Say goodbye to her.,au revoir mademoiselle
+Au revoir.,Female Speaker,ConversationalExchange,,au revoir
+Bonjour.,Female Speaker,ConversationalExchange,,bonjour
+"Bonjour, Mademoiselle.",Male Speaker,ConversationalExchange,,bonjour mademoiselle
+Comment allez-vous?,Female Speaker,ConversationalExchange,,comment aller vous
+"Très bien, merci et vous?",Male Speaker,ConversationalExchange,,très bien merci et vous
+Très bien.,Female Speaker,ConversationalExchange,,très bien
+Est-ce que vous êtes américain?,Female Speaker,ConversationalExchange,,être vous américain
+"Oui, Mademoiselle. Je suis américain.",Male Speaker,ConversationalExchange,,oui mademoiselle je être américain
+Je suis française.,Female Speaker,ConversationalExchange,,je être française
+Est-ce que vous comprenez le français?,Female Speaker,ConversationalExchange,,être vous comprendre le français
+Un peu.,Male Speaker,PromptedRecall,"Say, ""A little.""",un peu
+Je comprends un peu le français.,Male Speaker,PromptedRecall,"Say, ""I understand French a little.""",je comprendre un peu le français
+Je comprends un peu le français.,Male Speaker,DirectRepetition,"Say, ""I understand French a little.""",je comprendre un peu le français
+Je parle un peu.,Male Speaker,PromptedRecall,"""I speak a little.""",je parler un peu
+"Pardon, où est la rue Saint-Jacques, s'il vous plaît?",Female Speaker,ConversationalExchange,,pardon où être la rue saint jacques s'il vous plaît
+"C'est ici, Mademoiselle.",Male Speaker,PromptedRecall,Tell her it's here.,c'est ici mademoiselle
+Et le boulevard Saint-Michel?,Female Speaker,ConversationalExchange,,et le boulevard saint michel
+C'est là-bas.,Male Speaker,PromptedRecall,Tell her it's down there.,c'est là-bas
+La rue Saint-Jacques n'est pas là-bas.,Male Speaker,PromptedRecall,Tell her that Saint-Jacques Street is not down there.,la rue saint jacques ne être pas là-bas
+Le boulevard Saint-Michel est là-bas.,Male Speaker,PromptedRecall,Tell her Saint Michael Boulevard is down there.,le boulevard saint michel être là-bas
+Mais la rue Saint-Jacques est ici.,Male Speaker,PromptedRecall,Tell her but Saint-Jacques Street is here.,mais la rue saint jacques être ici
+"Monsieur, savez-vous où il y a un bon restaurant?",Female Speaker,ConversationalExchange,,monsieur savoir vous où il y avoir un bon restaurant
+"Je ne comprends pas, Mademoiselle.",Male Speaker,ConversationalExchange,,je ne comprendre pas mademoiselle
+Ça ne fait rien.,Female Speaker,ConversationalExchange,,ça ne faire rien
+Ça ne fait rien.,Female Speaker,DirectRepetition,,ça ne faire rien
+"Au revoir, Mademoiselle.",Male Speaker,PromptedRecall,"Say, ""Goodbye"" to her.",au revoir mademoiselle
+Au revoir.,Male Speaker,DirectRepetition,"Say, ""Goodbye"" to her.",au revoir

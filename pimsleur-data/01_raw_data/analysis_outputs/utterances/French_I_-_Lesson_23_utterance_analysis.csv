@@ -1,0 +1,154 @@
+utterance_text,speaker,utterance_type,narrator_cue,core_lemmas
+Voiture.,Male Speaker,PromptedRecall,"Comment dites-vous ""Automobile"" en français?",voiture
+La voiture.,Male Speaker,PromptedRecall,Le ou la?,la voiture
+Une voiture.,Male Speaker,DirectRepetition,,une voiture
+Dans la voiture.,Male Speaker,PromptedRecall,"Dites, ""In the car.""",dans la voiture
+Dans.,Male Speaker,SimpleResponse,,dans
+Dans la famille.,Male Speaker,PromptedRecall,"Dites, ""In the family.""",dans la famille
+Dans la famille.,Male Speaker,DirectRepetition,,dans la famille
+Deux grandes personnes.,Male Speaker,PromptedRecall,"Dites, ""Two big people.""",deux grand personne
+Et deux petites personnes.,Male Speaker,PromptedRecall,"""And two little people.""",et deux petit personne
+Deux enfants.,Male Speaker,PromptedRecall,"""Two children.""",deux enfant
+Un garçon et une fille.,Male Speaker,PromptedRecall,"""A boy and a girl.""",un garçon et une fille
+Un garçon et une fille.,Male Speaker,DirectRepetition,,un garçon et une fille
+"Où sont les toilettes, s'il vous plaît?",Male Speaker,PromptedRecall,Demandez les toilettes.,où être le toilette s'il vous plaire
+"Où sont les toilettes, s'il vous plaît?",Male Speaker,DirectRepetition,,où être le toilette s'il vous plaire
+Essence.,Male Speaker,PromptedRecall,"Comment dit-on ""gasoline"" en français?",essence
+De l'essence.,Male Speaker,DirectRepetition,,de l' essence
+"Vingt litres, s'il vous plaît.",Male Speaker,PromptedRecall,"Dites, ""Twenty liters, please.""",vingt litre s'il vous plaire
+Est-ce que votre voiture est américaine?,Male Speaker,PromptedRecall,Demandez si la voiture est américaine.,est-ce que votre voiture être américain
+Est-ce qu'il y a de l'essence dans la voiture?,Male Speaker,PromptedRecall,Demandez s'il y a de l'essence dans la voiture.,est-ce que il y avoir de l' essence dans la voiture
+Est-ce qu'il y a de l'essence dans la voiture?,Male Speaker,DirectRepetition,,est-ce que il y avoir de l' essence dans la voiture
+Mettez.,Female Speaker,DirectRepetition,,mettre
+Mettez.,Female Speaker,DirectRepetition,,mettre
+Vous mettez.,Female Speaker,PromptedRecall,"Comment dit-on, ""You put"" en français?",vous mettre
+"On dit, ""Vous mettez.""",Female Speaker,DirectRepetition,,on dire vous mettre
+Nous mettons.,Female Speaker,PromptedRecall,"Comment dit-on, ""We put?""",nous mettre
+"On dit, ""Nous mettons.""",Female Speaker,DirectRepetition,,on dire nous mettre
+Mettez dix litres.,Female Speaker,PromptedRecall,"Dites, ""Put in ten liters.""",mettre dix litre
+Attendez.,Male Speaker,DirectRepetition,Écoutez et répétez.,attendre
+Attendez.,Male Speaker,DirectRepetition,,attendre
+Attendez.,Male Speaker,DirectRepetition,,attendre
+Vous attendez.,Male Speaker,PromptedRecall,"Comment dit-on ""You wait"" en français?",vous attendre
+Nous attendons.,Male Speaker,PromptedRecall,"Comment dit-on ""We wait?""",nous attendre
+Nous attendons.,Male Speaker,DirectRepetition,,nous attendre
+Mettez quinze litres.,Female Speaker,PromptedRecall,"Dites, ""Put in fifteen liters.""",mettre quinze litre
+Quinze.,Female Speaker,SimpleResponse,,quinze
+"Où allez-vous, Mademoiselle?",Male Speaker,PromptedRecall,Demandez à la demoiselle où elle va.,où aller vous mademoiselle
+Où allez-vous?,Male Speaker,SimpleResponse,,où aller vous
+Je vais à Paris.,Female Speaker,PromptedRecall,"Comment dit-elle, ""I'm going to Paris?""",je aller à paris
+Je vais à Paris demain.,Female Speaker,PromptedRecall,"Comment dit-elle, ""I'm going to Paris tomorrow.""",je aller à paris demain
+Il y a combien de kilomètres?,Female Speaker,PromptedRecall,"Demandez, ""There are how many kilometers?""",il y avoir combien de kilomètre
+Il y a combien de kilomètres?,Female Speaker,DirectRepetition,,il y avoir combien de kilomètre
+Attendez.,Male Speaker,PromptedRecall,"Dites, ""Wait a minute.""",attendre
+C'est loin.,Male Speaker,DirectRepetition,Écoutez et répétez.,être loin
+Loin.,Male Speaker,SimpleResponse,,loin
+Loin.,Male Speaker,DirectRepetition,,loin
+Loin.,Male Speaker,DirectRepetition,,loin
+Paris est loin.,Male Speaker,PromptedRecall,Dites-moi que Paris est loin.,paris être loin
+Est-ce que Paris est loin?,Female Speaker,PromptedRecall,Demandez-moi si Paris est loin.,est-ce que paris être loin
+"Attendez, je ne sais pas.",Male Speaker,PromptedRecall,"Dites, ""Wait, I don't know.""",attendre je ne savoir pas
+Soixante-dix kilomètres.,Male Speaker,DirectRepetition,Écoutez et répétez.,soixante-dix kilomètre
+Soixante-dix.,Male Speaker,SimpleResponse,,soixante-dix
+Soixante-dix.,Male Speaker,DirectRepetition,,soixante-dix
+Soixante-dix.,Male Speaker,PromptedRecall,"Dites, ""Seventy.""",soixante-dix
+Soixante-douze.,Male Speaker,PromptedRecall,Dites-le.,soixante-douze
+Soixante-douze.,Male Speaker,DirectRepetition,,soixante-douze
+Soixante-treize.,Male Speaker,PromptedRecall,"Dites, ""Seventy-three.""",soixante-treize
+Soixante-quinze.,Male Speaker,PromptedRecall,"Dites, ""Seventy-five.""",soixante-quinze
+Soixante-et-onze.,Male Speaker,PromptedRecall,"Now, remembering that twenty-one, thirty-one and so forth always use the word ""and"" try to say seventy-one.",soixante-et-onze
+Soixante-quatorze kilomètres.,Male Speaker,PromptedRecall,"Dites, ""Seventy-four kilometers.""",soixante-quatorze kilomètre
+Soixante-quatorze kilomètres.,Male Speaker,DirectRepetition,,soixante-quatorze kilomètre
+"Non, soixante-et-onze.",Male Speaker,PromptedRecall,"Dites, ""No, seventy-one.""",non soixante-et-onze
+"Non, soixante-et-onze.",Male Speaker,DirectRepetition,,non soixante-et-onze
+Attendez.,Female Speaker,PromptedRecall,"Dites, ""wait.""",attendre
+C'est trop vite.,Female Speaker,PromptedRecall,"Dites, ""It's too fast.""",être trop vite
+C'est trop vite.,Female Speaker,DirectRepetition,,être trop vite
+Soixante-quatorze.,Male Speaker,PromptedRecall,"Dites, ""Seventy-four.""",soixante-quatorze
+Soixante-quatre.,Male Speaker,PromptedRecall,"Et maintenant, dites, ""Sixty-four.""",soixante-quatre
+Soixante-quatre.,Male Speaker,DirectRepetition,,soixante-quatre
+Soixante-cinq et soixante-quinze.,Male Speaker,PromptedRecall,"Dites, ""Sixty-five and seventy-five.""",soixante-cinq et soixante-quinze
+Soixante-cinq et soixante-quinze.,Male Speaker,DirectRepetition,,soixante-cinq et soixante-quinze
+C'est loin.,Female Speaker,PromptedRecall,"Dites, ""It's far away.""",être loin
+C'est loin.,Female Speaker,DirectRepetition,,être loin
+Mettez beaucoup d'essence.,Female Speaker,PromptedRecall,"Dites, ""Put in a lot of gas.""",mettre beaucoup de essence
+Mettez beaucoup d'essence.,Female Speaker,DirectRepetition,,mettre beaucoup de essence
+Il y a soixante-quinze kilomètres.,Female Speaker,PromptedRecall,"Dites, ""There are seventy-five kilometers.""",il y avoir soixante-quinze kilomètre
+C'est quelle route?,Female Speaker,DirectRepetition,Écoutez et répétez.,être quelle route
+Route.,Female Speaker,SimpleResponse,,route
+Route.,Female Speaker,DirectRepetition,,route
+Quelle route?,Female Speaker,SimpleResponse,,quelle route
+C'est quelle route?,Female Speaker,DirectRepetition,,être quelle route
+"C'est quelle route, s'il vous plaît?",Female Speaker,PromptedRecall,Demandez la route.,être quelle route s'il vous plaire
+Quelle est la route?,Female Speaker,PromptedRecall,"Maintenant, dites, ""Which is the route?""",quelle être la route
+Quelle est la route?,Female Speaker,DirectRepetition,,quelle être la route
+Quelle est la route de Paris?,Female Speaker,PromptedRecall,"Demandez, ""Which is the Paris route?""",quelle être la route de paris
+"Paris, c'est loin.",Male Speaker,PromptedRecall,"Dites, ""Paris, it's far.""",paris être loin
+C'est loin.,Male Speaker,SimpleResponse,,être loin
+Combien de kilomètres?,Female Speaker,PromptedRecall,"Demandez, ""How many kilometers?""",combien de kilomètre
+Soixante-quinze.,Male Speaker,PromptedRecall,"Répondez, ""Seventy-five.""",soixante-quinze
+Quelle est la route?,Female Speaker,PromptedRecall,"Demandez, ""Which is the route?""",quelle être la route
+Quelle est la route?,Female Speaker,DirectRepetition,,quelle être la route
+C'est tout droit.,Male Speaker,DirectRepetition,Écoutez et répétez.,être tout droit
+Droit.,Male Speaker,SimpleResponse,,droit
+Droit.,Male Speaker,DirectRepetition,,droit
+Droit.,Male Speaker,DirectRepetition,,droit
+Tout droit.,Male Speaker,SimpleResponse,,tout droit
+Tout droit.,Male Speaker,DirectRepetition,,tout droit
+Tout droit.,Male Speaker,PromptedRecall,"Dites, ""Straight ahead.""",tout droit
+C'est tout droit.,Male Speaker,PromptedRecall,"Dites, ""Straight ahead.""",être tout droit
+Attendez.,Female Speaker,PromptedRecall,"Dites, ""Wait a minute.""",attendre
+Ce n'est pas la route de Paris.,Female Speaker,PromptedRecall,"Dites, ""It's not the Paris route.""",ce ne être pas la route de paris
+Ce n'est pas la route de Paris.,Female Speaker,DirectRepetition,,ce ne être pas la route de paris
+La route est là-bas.,Female Speaker,PromptedRecall,"""The route is over there.""",la route être là-bas
+Tout droit.,Male Speaker,PromptedRecall,"Demandez, ""Straight ahead.""",tout droit
+Tout droit.,Male Speaker,DirectRepetition,,tout droit
+"Oui, c'est la route.",Female Speaker,PromptedRecall,"Dites, ""Yes, it's the route.""",oui être la route
+Quelle route?,Male Speaker,PromptedRecall,"Demandez, ""Which route?""",quelle route
+La route de Paris.,Female Speaker,PromptedRecall,"Répondre, ""The Paris route.""",la route de paris
+Combien de litres d'essence voulez-vous?,Female Speaker,PromptedRecall,Demandez combien de litres d'essence il veut.,combien de litre de essence vouloir vous
+Vous voulez combien de litres d'essence?,Female Speaker,DirectRepetition,,vous vouloir combien de litre de essence
+Pas trop.,Male Speaker,PromptedRecall,"Dites, ""Not too much.""",pas trop
+Mettez trente litres.,Male Speaker,PromptedRecall,"Dites, ""Put in thirty liters.""",mettre trente litre
+"Merci, Madame.",Male Speaker,PromptedRecall,"Dites, ""Thank you, ma'am.""",merci madame
+Attendez.,Male Speaker,PromptedRecall,"Comment dit-on en français, ""Wait a minute.""",attendre
+Soixante-dix.,Male Speaker,PromptedRecall,"Comment dit-on, ""Seventy.""",soixante-dix
+Soixante-dix-huit.,Male Speaker,PromptedRecall,Seventy-eight.,soixante-dix-huit
+Soixante-dix-huit.,Male Speaker,DirectRepetition,,soixante-dix-huit
+Ce n'est pas loin.,Male Speaker,PromptedRecall,"Comment dit-on ""It's not far.""",ce ne être pas loin
+"Est-ce que c'est la route de Paris, s'il vous plaît?",Female Speaker,PromptedRecall,"Comment est-ce qu'on demande, ""Is this the Paris route, please?""",est-ce que être la route de paris s'il vous plaire
+"Est-ce que c'est la route de Paris, s'il vous plaît?",Female Speaker,DirectRepetition,,est-ce que être la route de paris s'il vous plaire
+"Oui, tout droit.",Male Speaker,PromptedRecall,"Répondez, ""Yes, straight ahead.""",oui tout droit
+C'est tout droit.,Male Speaker,DirectRepetition,,être tout droit
+Il y a beaucoup d'essence.,Female Speaker,PromptedRecall,"Comment dit-on ""There's a lot of gas.""",il y avoir beaucoup de essence
+Il y a beaucoup d'essence.,Female Speaker,DirectRepetition,,il y avoir beaucoup de essence
+Assez pour soixante-quinze kilomètres?,Male Speaker,PromptedRecall,"Demandez, ""Enough for seventy-five kilometers?""",assez pour soixante-quinze kilomètre
+"Oui, si la voiture est petite.",Female Speaker,PromptedRecall,"""Yes, if the car is small.""",oui si la voiture être petit
+"Oui, si la voiture est petite.",Female Speaker,DirectRepetition,,oui si la voiture être petit
+Paris n'est pas très loin.,Male Speaker,PromptedRecall,"""Paris is not very far.""",paris ne être pas très loin
+Paris n'est pas très loin.,Male Speaker,DirectRepetition,,paris ne être pas très loin
+C'est quelle route?,Male Speaker,PromptedRecall,"Demandez, ""Which road is it?""",être quelle route
+"Tout droit, Monsieur.",Female Speaker,PromptedRecall,"Répondez, ""Straight ahead, sir.""",tout droit monsieur
+N'allez pas trop vite.,Female Speaker,PromptedRecall,"Dites, ""Don't go too fast.""",ne aller pas trop vite
+N'allez pas trop vite.,Female Speaker,DirectRepetition,,ne aller pas trop vite
+D'accord. Au revoir.,Male Speaker,PromptedRecall,"Dites, ""Okay, so long.""",d'accord au revoir
+Ce n'est vraiment pas beau.,Male Speaker,PromptedRecall,Lisez-la.,ce ne être vraiment pas beau
+Ce n'est vraiment pas beau.,Male Speaker,DirectRepetition,,ce ne être vraiment pas beau
+"Non, mais c'est joli.",Male Speaker,PromptedRecall,Deux.,non mais ce être joli
+Joli.,Male Speaker,SimpleResponse,,joli
+Aller à l'école.,Male Speaker,PromptedRecall,Trois.,aller à l' école
+Nous ne sortons pas aujourd'hui.,Male Speaker,PromptedRecall,Quatre.,nous ne sortir pas aujourd'hui
+Vendons tout ce qu'on voit.,Male Speaker,PromptedRecall,Cinq.,vendre tout ce que on voir
+Vendons tout ce qu'on voit.,Male Speaker,DirectRepetition,,vendre tout ce que on voir
+Ce qu'elle apprend n'est pas bien.,Male Speaker,PromptedRecall,Six.,ce que elle apprendre ne être pas bien
+Ce qu'elle apprend n'est pas bien.,Male Speaker,DirectRepetition,,ce que elle apprendre ne être pas bien
+"D'accord, mais ce que vous dites non plus.",Male Speaker,PromptedRecall,Sept.,d'accord mais ce que vous dire non plus
+"D'accord, mais ce que vous dites non plus.",Male Speaker,DirectRepetition,,d'accord mais ce que vous dire non plus
+Robert n'a pas tout à fait compris.,Male Speaker,PromptedRecall,Huit.,robert ne avoir pas tout à faire comprendre
+Encore le téléphone!,Male Speaker,PromptedRecall,Neuf.,encore le téléphone
+Qu'est-ce qui veut répondre?,Male Speaker,PromptedRecall,Dix.,qu'est-ce que vouloir répondre
+"Nouveau? Non, c'est vieux.",Male Speaker,PromptedRecall,Onze.,nouveau non ce être vieux
+Il y a beaucoup de monde.,Male Speaker,PromptedRecall,Douze.,il y avoir beaucoup de monde
+Elle les estime beaux.,Male Speaker,PromptedRecall,Treize.,elle le estimer beau
+"Au juste, la journée fut chaude.",Male Speaker,PromptedRecall,Quatorze.,au juste la journée être chaud
+Achetez-moi un nouveau manteau.,Male Speaker,PromptedRecall,Quinze.,acheter me un nouveau manteau

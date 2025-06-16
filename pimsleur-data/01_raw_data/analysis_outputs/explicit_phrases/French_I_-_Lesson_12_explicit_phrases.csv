@@ -1,0 +1,52 @@
+phrase,teaching_cue,context,speaker_response
+Ce soir.,"Do you remember how to say, ""This evening""?",vocabulary_introduction,Male Speaker
+Demain soir.,"Say, ""Tomorrow evening.""",vocabulary_introduction,Male Speaker
+À six heures.,"Say, ""At six o'clock.""",vocabulary_introduction,Male Speaker
+Pas plus tard?,"Ask, ""Not later?""",question,Female Speaker
+À huit heures.,"Say ""At eight o'clock.""",vocabulary_introduction,Male Speaker
+Quelle heure est-il maintenant?,"Ask, ""What time it is now?""",question,Female Speaker
+Il est dix heures maintenant.,"Tell her, ""It's ten o'clock now.""",vocabulary_introduction,Male Speaker
+"Non, il est quatre heures.","Say, ""No, it's four o'clock.""",negation,Female Speaker
+Cinq heures.,"Say, ""Five o'clock.""",vocabulary_introduction,Male Speaker
+"À cinq heures, je vais manger.","Say, ""At five o'clock, I'm going to eat.""",vocabulary_introduction,Male Speaker
+Vous allez manger?,"Ask, ""You're going to eat?""",question,Female Speaker
+"Oui, avec vous.","Say, ""Yes, with you.""",vocabulary_introduction,Male Speaker
+Je vais manger avec vous.,"""I'm going to eat with you.""",vocabulary_introduction,Male Speaker
+"Oui, je voudrais aussi manger.","Say, ""Yes, I would like to eat too.""",vocabulary_introduction,Female Speaker
+Est-ce que vous allez boire du vin?,"Ask, ""Are you going to drink wine?""",question,Male Speaker
+"Non, je vais boire de la bière.","Say, ""No, I'm going to drink beer.""",negation,Female Speaker
+Aujourd'hui.,"Say, ""Today.""",vocabulary_introduction,Male Speaker
+Je ne vais pas boire aujourd'hui.,"Say, ""I'm not going to drink today.""",negation,Male Speaker
+Vous n'allez pas boire?,"Say, ""You're not going to drink?""",question,Female Speaker
+"Non, pas aujourd'hui.","Say, ""No, not today.""",negation,Male Speaker
+"Aujourd'hui, je vais manger à trois heures.","Say, ""Today, I'm going to eat at three o'clock.""",vocabulary_introduction,Male Speaker
+Ou à deux heures.,"Say, ""Or at two o'clock.""",vocabulary_introduction,Male Speaker
+D'accord.,"Say, ""Okay.""",vocabulary_introduction,Male Speaker
+Combien?,"Here's how to ask, ""How much?"" in French?",question,Male Speaker
+Je vous dois combien?,"As in English, it would be too abrupt to simply say to someone, ""How much?"" So let's learn a more polite way of asking, ""How much do I owe you?""",question,Male Speaker
+Je dois.,"""I owe.""",vocabulary_introduction,Male Speaker
+Je vous dois.,"""I owe you.""",vocabulary_introduction,Male Speaker
+Je vous dois combien?,"""How much do I owe you?""",question,Male Speaker
+"Je vous dois combien, s'il vous plaît?",Ask how much you owe.,question,Male Speaker
+Un franc.,"Here's how to say, ""One franc.""",vocabulary_introduction,Female Speaker
+"Un franc, Monsieur.","Say, ""One franc.""",vocabulary_introduction,Female Speaker
+Je vous dois combien aujourd'hui?,"Ask, ""How much do I owe you today?""",question,Male Speaker
+Huit francs.,"Answer, ""Eight francs.""",vocabulary_introduction,Male Speaker
+Onze francs.,"Here is how to say ""eleven francs.""",vocabulary_introduction,Male Speaker
+Douze francs.,"Here's how to say ""twelve francs.""",vocabulary_introduction,Female Speaker
+Deux francs.,"Now say ""two francs.""",vocabulary_introduction,Female Speaker
+Treize francs.,"Now, ""Here is thirteen francs.""",vocabulary_introduction,Female Speaker
+Dix francs.,"Say, ""Ten francs.""",vocabulary_introduction,Female Speaker
+Six francs.,"Say, ""Six francs.""",vocabulary_introduction,Male Speaker
+Est-ce que je vous dois cinq francs?,"Ask, ""Do I owe you five francs?""",question,Male Speaker
+"Non, Madame, quatre francs.","Say, ""No ma'am, four francs.""",negation,Male Speaker
+Et sept francs?,"Say, ""And seven francs.""",vocabulary_introduction,Male Speaker
+Je vous dois treize francs.,"Say, ""I owe you thirteen francs.""",vocabulary_introduction,Male Speaker
+"Non, pas treize.","Say, ""No, not thirteen.""",negation,Male Speaker
+Est-ce que je vous dois douze francs?,"Ask, ""Do I owe you twelve francs?""",question,Male Speaker
+"Non, onze francs.","Say, ""No, eleven francs.""",negation,Male Speaker
+Est-ce que vous comprenez?,"Say, ""Do you understand?""",question,Male Speaker
+"Oui, je comprends maintenant.","Say, ""Yes, I understand now.""",vocabulary_introduction,Male Speaker
+Je vous comprends.,"Try to say, ""I understand you.""",vocabulary_introduction,Male Speaker
+Je vous comprends maintenant.,"Try to say, ""I understand you.""",vocabulary_introduction,Male Speaker
+Un franc.,"Do you remember how to say ""one franc""?",vocabulary_introduction,Male Speaker

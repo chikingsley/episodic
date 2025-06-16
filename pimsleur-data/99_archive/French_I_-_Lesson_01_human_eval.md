@@ -19,6 +19,7 @@ Est-ce que vous êtes américain?
 Oui, Mademoiselle.
 
 [Narrator]
+
 ### In the next few minutes, you'll learn not only to understand this conversation, but to take part in it yourself. Imagine an American man sitting next to a Frenchwoman. He wants to begin a conversation so he says, "Excuse me?"
 
 [Male Speaker]
@@ -52,7 +53,8 @@ How do you say "Excuse me" in French?
 Pardon.
 
 [Narrator]
-### Now he wants to ask her if she understands English. First the word "English". Listen and repeat.
+
+### Now he wants to ask her if she understands English. First the word "English". Listen and repeat
 
 [Male Speaker]
 L'anglais.
@@ -154,7 +156,8 @@ Say, "Understand."
 Comprenez.
 
 [Narrator]
-### Here's how to say, "You understand." Listen and repeat.
+
+### Here's how to say, "You understand." Listen and repeat
 
 [Male Speaker]
 Vous comprenez.
@@ -199,7 +202,8 @@ Vous comprenez l'anglais.
 Vous comprenez l'anglais.
 
 [Narrator]
-### Here's the phrase that makes a question in French. Listen and repeat.
+
+### Here's the phrase that makes a question in French. Listen and repeat
 
 [Male Speaker]
 Est-ce que.
@@ -217,6 +221,7 @@ Any statement can be made into a question just by putting this in front of it. O
 Vous comprenez.
 
 [Narrator]
+
 ### And now try to ask, "Do you understand?"
 
 [Male Speaker]
@@ -247,7 +252,8 @@ Est-ce que vous comprenez l'anglais?
 Est-ce que vous comprenez l'anglais?
 
 [Narrator]
-### The woman answers, "No." Listen and repeat.
+
+### The woman answers, "No." Listen and repeat
 
 [Female Speaker]
 Non.
@@ -259,7 +265,8 @@ Non.
 Non.
 
 [Narrator]
-### "No, sir." Listen and repeat.
+
+### "No, sir." Listen and repeat
 
 [Female Speaker]
 Non, Monsieur.
@@ -283,6 +290,7 @@ Monsieur.
 Monsieur.
 
 [Narrator]
+
 ### How do you say "sir" or "mister"?
 
 [Female Speaker]
@@ -313,7 +321,8 @@ Est-ce que vous comprenez l'anglais?
 Est-ce que vous comprenez l'anglais?
 
 [Narrator]
-### The man says, "I understand". First, the word "I" alone. Listen and repeat.
+
+### The man says, "I understand". First, the word "I" alone. Listen and repeat
 
 [Male Speaker]
 Je.

@@ -1,0 +1,235 @@
+utterance_text,speaker,utterance_type,narrator_cue,core_lemmas
+Mademoiselle.,Male Speaker,ConversationalExchange,,mademoiselle
+Mademoiselle.,Male Speaker,ConversationalExchange,,mademoiselle
+"Oui, Monsieur.",Female Speaker,SimpleResponse,,oui monsieur
+"Où est la rue Saint-Jacques, s'il vous plaît?",Male Speaker,ConversationalExchange,,où être la rue saint-jacques s'il vous plaître
+C'est là-bas.,Female Speaker,ConversationalExchange,,ce être là-bas
+Et le boulevard Saint-Michel?,Male Speaker,ConversationalExchange,,et le boulevard saint-michel
+"C'est ici, Monsieur.",Female Speaker,ConversationalExchange,,ce être ici monsieur
+"Mademoiselle, comment allez-vous?",Male Speaker,ConversationalExchange,,mademoiselle comment aller vous
+"Moi? Très bien, merci. Au revoir, Monsieur.",Female Speaker,ConversationalExchange,,moi très bien merci au revoir monsieur
+Au revoir.,Male Speaker,SimpleResponse,,au revoir
+Mademoiselle?,Male Speaker,ConversationalExchange,,mademoiselle
+Mademoiselle?,Male Speaker,ConversationalExchange,,mademoiselle
+"Oui, Monsieur?",Female Speaker,SimpleResponse,,oui monsieur
+"Où est la rue Saint-Jacques, s'il vous plaît?",Male Speaker,ConversationalExchange,,où être la rue saint-jacques s'il vous plaître
+C'est là-bas.,Female Speaker,ConversationalExchange,,ce être là-bas
+Et le boulevard Saint-Michel?,Male Speaker,ConversationalExchange,,et le boulevard saint-michel
+"C'est ici, Monsieur.",Female Speaker,ConversationalExchange,,ce être ici monsieur
+"Mademoiselle, comment allez-vous?",Male Speaker,ConversationalExchange,,mademoiselle comment aller vous
+"Moi? Très bien, merci. Au revoir, Monsieur.",Female Speaker,ConversationalExchange,,moi très bien merci au revoir monsieur
+Au revoir.,Male Speaker,SimpleResponse,,au revoir
+Bonjour.,Male Speaker,PromptedRecall,"Do you remember how to say ""hello"" in French?",bonjour
+Bonjour.,Male Speaker,DirectRepetition,,bonjour
+Est-ce que vous comprenez l'anglais?,Male Speaker,PromptedRecall,"Ask, ""Do you understand English?""",est-ce que vous comprendre l'anglais
+Je comprends un peu.,Female Speaker,PromptedRecall,"Answer, ""I understand a little.""",je comprendre un peu
+Je comprends un peu.,Female Speaker,DirectRepetition,,je comprendre un peu
+Et je parle un peu.,Female Speaker,PromptedRecall,"""And I speak a little.""",et je parler un peu
+Et je parle un peu.,Female Speaker,DirectRepetition,,et je parler un peu
+Et vous?,Female Speaker,PromptedRecall,"""And you?""",et vous
+Est-ce que vous comprenez le français?,Female Speaker,PromptedRecall,"""Do you understand French?""",est-ce que vous comprendre le français
+"Oui, je comprends bien le français.",Male Speaker,PromptedRecall,"Say, ""Yes, I understand French well.""",oui je comprendre bien le français
+Je comprends bien.,Male Speaker,DirectRepetition,,je comprendre bien
+Je comprends bien le français.,Male Speaker,DirectRepetition,,je comprendre bien le français
+Mais.,Male Speaker,PromptedRecall,"""But.""",mais
+Je ne parle pas bien.,Male Speaker,PromptedRecall,"""I don't speak well.""",je ne parler pas bien
+Je ne parle pas bien.,Male Speaker,DirectRepetition,,je ne parler pas bien
+Comment allez-vous?,Male Speaker,PromptedRecall,How do you ask someone how she's feeling?,comment aller vous
+Comment allez-vous?,Male Speaker,DirectRepetition,,comment aller vous
+Moi? Très bien.,Female Speaker,DirectRepetition,Listen to the answer and repeat after the speaker.,moi très bien
+Moi? Très bien.,Female Speaker,DirectRepetition,,moi très bien
+Et vous?,Female Speaker,PromptedRecall,"Ask, ""And you?""",et vous
+Moi? Pas très bien.,Male Speaker,PromptedRecall,"Now you say, ""Me? Not very well.""",moi pas très bien
+Moi? Pas très bien.,Male Speaker,DirectRepetition,,moi pas très bien
+La rue Saint-Jacques.,Male Speaker,PromptedRecall,Do you remember how to say Saint-Jacques Street in French?,la rue saint-jacques
+La rue Saint-Jacques.,Male Speaker,DirectRepetition,,la rue saint-jacques
+Le boulevard Saint-Michel.,Male Speaker,PromptedRecall,"And now say, ""Saint-Michel Boulevard.""",le boulevard saint-michel
+Boulevard.,Male Speaker,DirectRepetition,,boulevard
+Le boulevard Saint-Michel.,Male Speaker,DirectRepetition,,le boulevard saint-michel
+Où est le boulevard Saint-Michel?,Male Speaker,PromptedRecall,Ask me where the boulevard Saint-Michel is.,où être le boulevard saint-michel
+Où est le boulevard Saint-Michel?,Male Speaker,DirectRepetition,,où être le boulevard saint-michel
+Le boulevard Saint-Michel est ici.,Female Speaker,PromptedRecall,"Say, ""Saint Michael Boulevard is here.""",le boulevard saint-michel être ici
+Le boulevard Saint-Michel est ici.,Female Speaker,DirectRepetition,,le boulevard saint-michel être ici
+S'il vous plaît.,Male Speaker,PromptedRecall,"Say, ""Please.""",s'il vous plaît
+S'il vous plaît.,Male Speaker,DirectRepetition,,s'il vous plaît
+"Où est la rue Saint-Jacques, s'il vous plaît?",Male Speaker,PromptedRecall,Ask me where Saint-Jacques Street is.,où être la rue saint-jacques s'il vous plaître
+"Où est la rue Saint-Jacques, s'il vous plaît?",Male Speaker,DirectRepetition,,où être la rue saint-jacques s'il vous plaître
+C'est ici.,Female Speaker,PromptedRecall,"Say, ""It's here.""",ce être ici
+C'est ici.,Female Speaker,DirectRepetition,,ce être ici
+La rue Saint-Jacques est ici.,Female Speaker,PromptedRecall,And now say Saint-Jacques Street is here.,la rue saint-jacques être ici
+La rue Saint-Jacques est ici.,Female Speaker,DirectRepetition,,la rue saint-jacques être ici
+Est-ce que c'est ici?,Male Speaker,PromptedRecall,Ask me if it's here.,est-ce que ce être ici
+Est-ce que c'est ici?,Male Speaker,DirectRepetition,,est-ce que ce être ici
+"Non, c'est là-bas.",Female Speaker,PromptedRecall,"Answer, ""No, it's down there.""",non ce être là-bas
+"Non, c'est là-bas.",Female Speaker,DirectRepetition,,non ce être là-bas
+Ce n'est pas là-bas.,Male Speaker,PromptedRecall,"Say, ""It's not down there.""",ce ne être pas là-bas
+Ce n'est pas là-bas.,Male Speaker,DirectRepetition,,ce ne être pas là-bas
+Ce n'est pas ici.,Female Speaker,PromptedRecall,"Now say, ""It's not here.""",ce ne être pas ici
+Ce n'est pas ici.,Female Speaker,DirectRepetition,,ce ne être pas ici
+La rue Saint-Jacques n'est pas ici.,Female Speaker,PromptedRecall,"Say, ""Saint-Jacques Street is not here.""",la rue saint-jacques ne être pas ici
+La rue Saint-Jacques n'est pas ici.,Female Speaker,DirectRepetition,,la rue saint-jacques ne être pas ici
+Mais le boulevard Saint-Michel est ici.,Female Speaker,PromptedRecall,"Say, ""But the boulevard Saint-Michel is here.""",mais le boulevard saint-michel être ici
+Mais le boulevard Saint-Michel est ici.,Female Speaker,DirectRepetition,,mais le boulevard saint-michel être ici
+"Où est la rue Saint-Jacques, s'il vous plaît?",Male Speaker,PromptedRecall,"Ask, ""Where is Saint-Jacques Street, please?""",où être la rue saint-jacques s'il vous plaître
+"Où est la rue Saint-Jacques, s'il vous plaît?",Male Speaker,DirectRepetition,,où être la rue saint-jacques s'il vous plaître
+Je ne sais pas.,Female Speaker,DirectRepetition,"Listen to the answer, ""I don't know.""",je ne savoir pas
+Je ne sais pas.,Female Speaker,PromptedRecall,Repeat after the speaker.,je ne savoir pas
+C'est pas.,Female Speaker,DirectRepetition,,ce être pas
+C'est pas.,Female Speaker,DirectRepetition,,ce être pas
+Je n-.,Female Speaker,DirectRepetition,,je ne
+Je n-.,Female Speaker,DirectRepetition,,je ne
+Je ne sais pas.,Female Speaker,DirectRepetition,,je ne savoir pas
+Je ne sais pas.,Female Speaker,DirectRepetition,,je ne savoir pas
+Je ne sais pas.,Female Speaker,PromptedRecall,"Say, ""I don't know.""",je ne savoir pas
+Je sais.,Male Speaker,PromptedRecall,"How would you say, ""I know?""",je savoir
+Je sais.,Male Speaker,DirectRepetition,,je savoir
+"Moi, je sais.",Male Speaker,PromptedRecall,"Say, ""Me, I know.""",moi je savoir
+"Moi, je sais.",Male Speaker,DirectRepetition,,moi je savoir
+"Où est la rue Lafayette, s'il vous plaît?",Male Speaker,PromptedRecall,Try to ask me where Lafayette Street is.,où être la rue lafayette s'il vous plaître
+"Où est la rue Lafayette, s'il vous plaît?",Male Speaker,DirectRepetition,,où être la rue lafayette s'il vous plaître
+Je ne sais pas.,Male Speaker,PromptedRecall,"Answer, ""I don't know.""",je ne savoir pas
+Je ne sais pas.,Male Speaker,DirectRepetition,,je ne savoir pas
+"Moi, je sais.",Female Speaker,PromptedRecall,"Say, ""Me? I know.""",moi je savoir
+"Moi, je sais.",Female Speaker,DirectRepetition,,moi je savoir
+C'est là-bas.,Male Speaker,PromptedRecall,"Say, ""It's down there.""",ce être là-bas
+Vous savez.,Male Speaker,DirectRepetition,"Here's ""You know."" Listen and repeat.",vous savoir
+Vous savez.,Male Speaker,DirectRepetition,,vous savoir
+Je sais.,Female Speaker,PromptedRecall,"And how do you say, ""I know""?",je savoir
+Je sais.,Female Speaker,DirectRepetition,,je savoir
+Est-ce que vous savez?,Male Speaker,PromptedRecall,"Try to ask, ""Do you know?""",est-ce que vous savoir
+Est-ce que vous savez?,Male Speaker,DirectRepetition,,est-ce que vous savoir
+Vous savez.,Male Speaker,PromptedRecall,"Say again, ""You know.""",vous savoir
+Vous savez.,Male Speaker,DirectRepetition,,vous savoir
+Savez-vous?,Male Speaker,DirectRepetition,"Here's another way of asking, ""Do you know?"" Listen and repeat.",savoir vous
+Savez-vous?,Male Speaker,DirectRepetition,,savoir vous
+Savez-vous?,Male Speaker,PromptedRecall,"Now ask, ""Do you know?"" using both ways.",savoir vous
+Est-ce que vous savez?,Male Speaker,PromptedRecall,,est-ce que vous savoir
+Savez-vous?,Male Speaker,DirectRepetition,,savoir vous
+Est-ce que vous savez?,Male Speaker,DirectRepetition,,est-ce que vous savoir
+"Non, je ne sais pas.",Female Speaker,PromptedRecall,"Answer, ""No, I don't know.""",non je ne savoir pas
+"Non, je ne sais pas.",Female Speaker,DirectRepetition,,non je ne savoir pas
+Ce n'est pas là-bas.,Female Speaker,PromptedRecall,"""It's not down there.""",ce ne être pas là-bas
+Je veux.,Female Speaker,DirectRepetition,Listen and repeat.,je vouloir
+Veux.,Female Speaker,DirectRepetition,,vouloir
+Veux.,Female Speaker,DirectRepetition,,vouloir
+Je veux.,Female Speaker,DirectRepetition,,je vouloir
+Je veux.,Female Speaker,DirectRepetition,,je vouloir
+Je veux.,Male Speaker,PromptedRecall,"Say, ""I want.""",je vouloir
+Vous voulez.,Female Speaker,DirectRepetition,"Here's how to say, ""You want.""",vous vouloir
+Voulez.,Female Speaker,DirectRepetition,,vouloir
+Voulez.,Female Speaker,DirectRepetition,,vouloir
+Vous voulez.,Female Speaker,DirectRepetition,,vous vouloir
+Vous voulez.,Female Speaker,DirectRepetition,,vous vouloir
+Vous voulez.,Male Speaker,PromptedRecall,"Say, ""You want.""",vous vouloir
+Je veux.,Male Speaker,PromptedRecall,"Say, ""I want.""",je vouloir
+Je sais.,Male Speaker,PromptedRecall,"Say, ""I know.""",je savoir
+Je ne sais pas.,Male Speaker,PromptedRecall,"Say, ""I don't know.""",je ne savoir pas
+Je ne veux pas.,Male Speaker,PromptedRecall,"Now try to say, ""I don't want.""",je ne vouloir pas
+Je ne veux pas.,Male Speaker,DirectRepetition,"Again, say, ""I don't want.""",je ne vouloir pas
+"Je ne veux pas, moi.",Male Speaker,PromptedRecall,"And now say the same thing with ""moi"" at the end.",je ne vouloir pas moi
+"Je ne veux pas, moi.",Male Speaker,DirectRepetition,,je ne vouloir pas moi
+Vous voulez?,Male Speaker,PromptedRecall,"How did you say, ""You want""?",vous vouloir
+Est-ce que vous voulez?,Male Speaker,PromptedRecall,"How would you ask, ""Do you want?""",est-ce que vous vouloir
+Est-ce que vous voulez?,Male Speaker,DirectRepetition,,est-ce que vous vouloir
+Vous voudriez.,Female Speaker,DirectRepetition,"Generally, however, when you ask for something, you are more polite and you say, ""You would like,"" rather than, ""You want."" Listen and repeat.",vous vouloir
+Voudriez.,Female Speaker,DirectRepetition,,vouloir
+Voudriez.,Female Speaker,DirectRepetition,,vouloir
+Vous voudriez.,Female Speaker,DirectRepetition,,vous vouloir
+Vous voudriez.,Female Speaker,PromptedRecall,"Say, ""You would like.""",vous vouloir
+Vous voudriez.,Female Speaker,DirectRepetition,,vous vouloir
+Vous voudriez manger quelque chose.,Female Speaker,DirectRepetition,"Here's how to say, ""You would like to eat something.""",vous vouloir manger quelque chose
+Manger.,Male Speaker,DirectRepetition,"Listen and repeat the word ""to eat.""",manger
+Manger.,Male Speaker,DirectRepetition,,manger
+Manger.,Male Speaker,DirectRepetition,,manger
+Manger.,Male Speaker,PromptedRecall,"Say, ""to eat.""",manger
+Quelque chose.,Female Speaker,DirectRepetition,"Listen and repeat how the French say ""something.""",quelque chose
+Chose.,Female Speaker,DirectRepetition,,chose
+Chose.,Female Speaker,DirectRepetition,,chose
+Quelque.,Female Speaker,DirectRepetition,,quelque
+Quelque.,Female Speaker,DirectRepetition,,quelque
+Quelque chose.,Female Speaker,DirectRepetition,,quelque chose
+Quelque chose.,Female Speaker,DirectRepetition,,quelque chose
+Quelque chose.,Female Speaker,PromptedRecall,"Say ""something"" in French.",quelque chose
+Vous voudriez manger quelque chose.,Male Speaker,PromptedRecall,"Say, ""You would like to eat something.""",vous vouloir manger quelque chose
+Vous voudriez manger quelque chose.,Male Speaker,DirectRepetition,,vous vouloir manger quelque chose
+Est-ce que vous voudriez manger quelque chose?,Male Speaker,PromptedRecall,"Now try to ask, ""Would you like to eat something?""",est-ce que vous vouloir manger quelque chose
+Est-ce que vous voudriez manger quelque chose?,Male Speaker,DirectRepetition,,est-ce que vous vouloir manger quelque chose
+Je voudrais.,Female Speaker,DirectRepetition,"Listen and repeat, ""I would like.""",je vouloir
+Voudrais.,Female Speaker,DirectRepetition,,vouloir
+Je voudrais.,Female Speaker,DirectRepetition,,je vouloir
+Je voudrais.,Female Speaker,PromptedRecall,"Say, ""I would like.""",je vouloir
+"Oui, je voudrais manger.",Female Speaker,PromptedRecall,"Say, ""Yes, I would like to eat.""",oui je vouloir manger
+"Oui, je voudrais manger quelque chose.",Female Speaker,PromptedRecall,"Now say, ""Yes, I would like to eat something.""",oui je vouloir manger quelque chose
+"Oui, je voudrais manger quelque chose.",Female Speaker,DirectRepetition,,oui je vouloir manger quelque chose
+Est-ce que vous voudriez manger quelque chose?,Male Speaker,PromptedRecall,Ask me if I would like to eat something.,est-ce que vous vouloir manger quelque chose
+Est-ce que vous voudriez manger quelque chose?,Male Speaker,DirectRepetition,,est-ce que vous vouloir manger quelque chose
+"Moi? Oui, je voudrais manger quelque chose.",Female Speaker,PromptedRecall,"Answer, ""Me? Yes, I would like to eat something.""",moi oui je vouloir manger quelque chose
+"Moi? Oui, je voudrais manger quelque chose.",Female Speaker,DirectRepetition,,moi oui je vouloir manger quelque chose
+Je voudrais boire quelque chose.,Female Speaker,DirectRepetition,"Here's how to say, ""I would like to drink something."" Just listen.",je vouloir boire quelque chose
+Boire.,Male Speaker,DirectRepetition,"Listen and repeat the word, ""to drink.""",boire
+Boire.,Male Speaker,DirectRepetition,,boire
+Boire.,Male Speaker,DirectRepetition,,boire
+Je voudrais boire quelque chose.,Female Speaker,PromptedRecall,"Say, ""I would like to drink something.""",je vouloir boire quelque chose
+Est-ce que vous voudriez boire quelque chose?,Male Speaker,PromptedRecall,"Now try to ask, ""Would you like to drink something?""",est-ce que vous vouloir boire quelque chose
+Est-ce que vous voudriez boire quelque chose?,Male Speaker,DirectRepetition,,est-ce que vous vouloir boire quelque chose
+Je ne sais pas.,Female Speaker,PromptedRecall,"How does she say, ""I don't know.""",je ne savoir pas
+Je voudrais manger quelque chose.,Female Speaker,PromptedRecall,"Say, ""I would like to eat something.""",je vouloir manger quelque chose
+Je voudrais manger quelque chose.,Female Speaker,DirectRepetition,,je vouloir manger quelque chose
+Est-ce que vous voudriez boire quelque chose?,Male Speaker,PromptedRecall,Ask her if she would like to drink something.,est-ce que vous vouloir boire quelque chose
+Est-ce que vous voudriez boire quelque chose?,Male Speaker,DirectRepetition,,est-ce que vous vouloir boire quelque chose
+"Non, merci.",Female Speaker,PromptedRecall,"Say, ""No, thank you.""",non merci
+"Non, merci.",Female Speaker,DirectRepetition,,non merci
+Mais je voudrais manger quelque chose.,Female Speaker,PromptedRecall,"How does she add, ""But I would like to eat something""?",mais je vouloir manger quelque chose
+Mais je voudrais manger quelque chose.,Female Speaker,DirectRepetition,,mais je vouloir manger quelque chose
+Est-ce que vous voudriez boire quelque chose?,Male Speaker,PromptedRecall,Ask her if she would like to drink something.,est-ce que vous vouloir boire quelque chose
+"Non, merci.",Female Speaker,PromptedRecall,"How does she say, ""No, thank you""?",non merci
+Mais je voudrais manger quelque chose.,Female Speaker,PromptedRecall,"How does she add, ""But I would like to eat something""?",mais je vouloir manger quelque chose
+"Ah, très bien.",Male Speaker,PromptedRecall,"Say, ""Ah, very well.""",ah très bien
+"Ah, très bien.",Male Speaker,DirectRepetition,,ah très bien
+"Mais moi, je ne veux pas manger.",Male Speaker,DirectRepetition,"He says emphatically, ""But me, I don't want to eat."" Listen and repeat.",mais moi je ne vouloir pas manger
+"Mais moi, je ne veux pas manger.",Male Speaker,DirectRepetition,,mais moi je ne vouloir pas manger
+"Au revoir, Monsieur.",Female Speaker,PromptedRecall,How does she take leave of you?,au revoir monsieur
+Au revoir.,Female Speaker,DirectRepetition,,au revoir
+Où est la rue Saint-Jacques?,Male Speaker,PromptedRecall,Ask her where Saint-Jacques Street is.,où être la rue saint-jacques
+Est-ce que c'est ici?,Male Speaker,PromptedRecall,Ask if it's here.,est-ce que ce être ici
+"Ce n'est pas ici, c'est là-bas.",Female Speaker,PromptedRecall,"How does she tell you, ""It's not here, it's down there""?",ce ne être pas ici ce être là-bas
+"Ce n'est pas ici, c'est là-bas.",Female Speaker,DirectRepetition,,ce ne être pas ici ce être là-bas
+"Où est le boulevard Saint-Michel, s'il vous plaît?",Male Speaker,PromptedRecall,Ask her where the boulevard Saint-Michel is.,où être le boulevard saint-michel s'il vous plaître
+"Où est le boulevard Saint-Michel, s'il vous plaît?",Male Speaker,DirectRepetition,,où être le boulevard saint-michel s'il vous plaître
+Je ne sais pas.,Female Speaker,PromptedRecall,"How does she say, ""I don't know""?",je ne savoir pas
+"Je ne sais pas, moi.",Female Speaker,DirectRepetition,,je ne savoir pas moi
+"Ah oui, je sais.",Female Speaker,PromptedRecall,"How does she say, ""Ah, yes, I know""?",ah oui je savoir
+"Ah oui, je sais.",Female Speaker,DirectRepetition,,ah oui je savoir
+Je voudrais manger quelque chose.,Female Speaker,PromptedRecall,How does she tell you she would like to eat something?,je vouloir manger quelque chose
+Où?,Male Speaker,PromptedRecall,"Ask her, ""Where""?",où
+Où?,Male Speaker,DirectRepetition,,où
+Mais je ne sais pas.,Female Speaker,PromptedRecall,"How does she say, ""But I don't know""?",mais je ne savoir pas
+Est-ce que vous voudriez boire quelque chose?,Male Speaker,PromptedRecall,Ask her if she would like to drink something.,est-ce que vous vouloir boire quelque chose
+Oh non.,Female Speaker,PromptedRecall,"How does she say, ""Oh, no""?",oh non
+"Non, merci.",Female Speaker,PromptedRecall,"How do she say, ""No, thank you""?",non merci
+"Non, merci, Monsieur.",Female Speaker,DirectRepetition,,non merci monsieur
+Mais je voudrais manger quelque chose.,Female Speaker,PromptedRecall,"How does she add, ""But I would like to eat something""?",mais je vouloir manger quelque chose
+"Mais je voudrais manger quelque chose, Monsieur.",Female Speaker,DirectRepetition,,mais je vouloir manger quelque chose monsieur
+Bonjour.,Female Speaker,PromptedRecall,Do you remember how to greet a man in French?,bonjour
+"Bonjour, Monsieur.",Female Speaker,DirectRepetition,,bonjour monsieur
+Bonjour.,Male Speaker,PromptedRecall,And how would you greet a woman?,bonjour
+"Bonjour, Madame.",Male Speaker,DirectRepetition,,bonjour madame
+"Bonjour, Mademoiselle.",Male Speaker,DirectRepetition,,bonjour mademoiselle
+Comment allez-vous?,Female Speaker,PromptedRecall,"Ask, ""How are you?""",comment aller vous
+Comment allez-vous?,Female Speaker,DirectRepetition,,comment aller vous
+"Très bien, merci.",Male Speaker,PromptedRecall,"Answer, ""Fine, thanks.""",très bien merci
+Je vais bien.,Male Speaker,PromptedRecall,"""I am well.""",je aller bien
+Je vais bien.,Male Speaker,DirectRepetition,,je aller bien
+Et vous?,Male Speaker,PromptedRecall,"""And you?""",et vous
+Est-ce que vous allez bien?,Male Speaker,PromptedRecall,"""Are you well?""",est-ce que vous aller bien
+Est-ce que vous allez bien?,Male Speaker,DirectRepetition,,est-ce que vous aller bien
+Moi?,Female Speaker,PromptedRecall,"Ask, ""Me?""",moi
+"Non, je ne vais pas très bien.",Female Speaker,PromptedRecall,"""No, I'm not very well.""",non je ne aller pas très bien
+Je ne vais pas très bien.,Female Speaker,DirectRepetition,,je ne aller pas très bien
+Pardon.,Male Speaker,PromptedRecall,"Say, ""Pardon me.""",pardon
+S'il vous plaît.,Male Speaker,PromptedRecall,"Say, ""Please.""",s'il vous plaît
+La rue Saint-Jacques.,Male Speaker,PromptedRecall,"Say, ""Saint-Jacques Street.""",la rue saint-jacques
+"Où est la rue Saint-Jacques, s'il vous plaît?",Male Speaker,PromptedRecall,Ask where this street is.,où être la rue saint-jacques s'il vous plaître
+"Où est la rue Saint-Jacques, s'il vous plaît?",Male Speaker,DirectRepetition,,où être la rue saint-jacques s'il vous plaître
+Est-ce que c'est ici?,Male Speaker,PromptedRecall,Ask if it's here.,est-ce que ce être ici
+Est-ce que c'est ici?,Male Speaker,DirectRepetition,,est-ce que ce être ici

@@ -1,0 +1,74 @@
+phrase,teaching_cue,context,speaker_response
+Entrez!,"Do you remember how to say ""Come in""?",question,Male Speaker
+Enchanté.,"If you're introduced to someone, what do you say?",question,Male Speaker
+Un garçon.,"How do you say, ""A boy""?",vocabulary_introduction,Male Speaker
+Un grand garçon.,"Say, ""A big boy.""",vocabulary_introduction,Male Speaker
+Une grande fille.,"Say, ""A big girl.""",vocabulary_introduction,Male Speaker
+Nous avons une grande fille.,"Say, ""We have a big girl.""",vocabulary_introduction,Male Speaker
+Nous voulons.,"Say, ""We want.""",vocabulary_introduction,Male Speaker
+Nous pouvons.,"Say, ""We can.""",vocabulary_introduction,Male Speaker
+Nous pouvons attendre.,"Here's how to say, ""We can wait."" Écoutez et répétez.",vocabulary_introduction,Male Speaker
+Est-ce que vous pouvez attendre?,"How do you ask, ""Can you wait?""",question,Male Speaker
+Pouvez-vous attendre?,"How do you ask, ""Can you wait?""",question,Male Speaker
+Vous pouvez attendre.,"""You can wait.""",vocabulary_introduction,Female Speaker
+Nous voulons beaucoup d'enfants.,"Say, ""We want a lot of children.""",vocabulary_introduction,Male Speaker
+Nous habitons.,"Say, ""We live.""",vocabulary_introduction,Male Speaker
+Ma femme et moi...,"Say, ""My wife and I...""",vocabulary_introduction,Male Speaker
+Nous habitons en Amérique.,"""We live in America.""",vocabulary_introduction,Male Speaker
+Avec les enfants.,"Say, ""With the children.""",vocabulary_introduction,Male Speaker
+Les enfants sont en Amérique.,"Say, ""The children are in America.""",vocabulary_introduction,Male Speaker
+Ils sont en Amérique.,"Say, ""They are in America.""",vocabulary_introduction,Male Speaker
+Où sont-ils?,"Ask, ""Where are they?""",question,Female Speaker
+Les filles sont ici.,"Say, ""The girls are here.""",vocabulary_introduction,Male Speaker
+La grande fille est ici.,"Say, ""The big girl is here.""",vocabulary_introduction,Male Speaker
+Les grands garçons sont ici.,"Say, ""The big boys are here.""",vocabulary_introduction,Male Speaker
+Et la petite fille?,"Ask, ""And the little girl?"" Écoutez et répétez.",question,Female Speaker
+Le petit garçon.,"Try to say, ""The little boy.""",vocabulary_introduction,Male Speaker
+Le garçon est petit.,"Say, ""The boy is little.""",vocabulary_introduction,Male Speaker
+Mon garçon est petit.,"Say, ""My boy is little.""",vocabulary_introduction,Male Speaker
+Notre garçon est petit.,"""Our boy is little."" Écoutez et répétez.",vocabulary_introduction,Male Speaker
+Notre garçon.,"Say ""Our boy.""",vocabulary_introduction,Male Speaker
+Notre garçon n'est pas grand.,"Say, ""Our boy isn't big.""",negation,Male Speaker
+Il est petit.,"Say, ""He's little.""",vocabulary_introduction,Male Speaker
+Vraiment?,"""Really?"" Écoutez et répétez.",question,Female Speaker
+"Oui, vraiment.","Say, ""Yes, really.""",vocabulary_introduction,Male Speaker
+Il est vraiment petit.,"Say, ""He is really little.""",vocabulary_introduction,Male Speaker
+Où est votre fille?,"Ask, ""Where is your girl?""",question,Female Speaker
+Notre grande fille ou notre petite fille?,"Ask, ""Our big girl or our little girl?""",question,Male Speaker
+La grande.,"Say, ""The big one.""",vocabulary_introduction,Female Speaker
+Pas la petite.,"Say, ""Not the little one.""",negation,Female Speaker
+Vraiment.,"How do you say, ""Really"" or ""Truly""?",vocabulary_introduction,Female Speaker
+Où sont les enfants?,"Ask the man, ""Where the children are?""",question,Female Speaker
+"Les enfants, où sont-ils?","Ask the man, ""Where the children are?""",question,Female Speaker
+Où sont les toilettes?,Ask where the bathroom is.,question,Male Speaker
+"Les toilettes, où sont-elles?","Now try to ask, ""The toilets, where are they?""",question,Male Speaker
+Elles sont là-bas.,"Answer, ""They are over there.""",vocabulary_introduction,Female Speaker
+Vraiment?,"Ask, ""Truly?""",question,Male Speaker
+"Oui, elles sont vraiment là-bas.","Say, ""Yes, they are really over there.""",vocabulary_introduction,Female Speaker
+La petite fille.,"How do you say, ""The little girl""?",vocabulary_introduction,Male Speaker
+Le grand garçon.,"Say, ""The big boy.""",vocabulary_introduction,Male Speaker
+La grande fille.,"Say, ""The big girl.""",vocabulary_introduction,Male Speaker
+Notre grande fille.,"Say, ""Our big girl.""",vocabulary_introduction,Male Speaker
+Votre grande fille.,"Say, ""Your big girl.""",vocabulary_introduction,Male Speaker
+Les petites filles.,"Say, ""The little girls.""",vocabulary_introduction,Male Speaker
+La famille.,"""The family."" Écoutez et répétez.",vocabulary_introduction,Male Speaker
+Une famille.,"Say, ""One family.""",vocabulary_introduction,Male Speaker
+Notre famille.,"Say, ""Our family.""",vocabulary_introduction,Male Speaker
+Où est votre famille?,Ask the man where his family is.,question,Female Speaker
+"Votre famille, où est-elle?",Ask the man where his family is.,question,Female Speaker
+Ma famille?,"Ask, ""My family?""",question,Male Speaker
+Les petits sont en Amérique.,"Say, ""The little ones are in America.""",vocabulary_introduction,Male Speaker
+La grande fille est ici avec nous.,"Say, ""The big girl is here with us.""",vocabulary_introduction,Male Speaker
+Votre famille est grande.,"Say, ""Your family is big.""",vocabulary_introduction,Female Speaker
+Votre famille est vraiment grande.,"Say, ""Your family is really big.""",vocabulary_introduction,Female Speaker
+"Oui, Madame, c'est notre petit garçon.","Imaginez que vous êtes en France avec votre famille. Vous avez deux garçons et une fille. Vous allez parler avec Madame Durand. Quand vous répondez, ne dites pas ""je"", mais ""nous.""",conversation_practice,Male Speaker
+Nous avons deux garçons.,"Imaginez que vous êtes en France avec votre famille. Vous avez deux garçons et une fille. Vous allez parler avec Madame Durand. Quand vous répondez, ne dites pas ""je"", mais ""nous.""",conversation_practice,Male Speaker
+"Oui, nous avons une fille.","Imaginez que vous êtes en France avec votre famille. Vous avez deux garçons et une fille. Vous allez parler avec Madame Durand. Quand vous répondez, ne dites pas ""je"", mais ""nous.""",conversation_practice,Male Speaker
+Elle est grande.,Tell her she is big.,vocabulary_introduction,Male Speaker
+"Non, elle ne comprend pas le français.","Imaginez que vous êtes en France avec votre famille. Vous avez deux garçons et une fille. Vous allez parler avec Madame Durand. Quand vous répondez, ne dites pas ""je"", mais ""nous.""",conversation_practice,Male Speaker
+Où sont les toilettes?,Ask her where the bathroom is.,question,Male Speaker
+Nous allons là-bas.,"Now, start from the words ""vous allez"" which you know, and try to say, ""We are going down there.""",vocabulary_introduction,Male Speaker
+"Pardon, Madame.",Excuse yourself.,vocabulary_introduction,Male Speaker
+Pas vraiment.,"Say, ""Not really.""",negation,Male Speaker
+"Oui, nous avons beaucoup d'enfants.","Say, ""Yes, we have many children.""",vocabulary_introduction,Male Speaker
+Et beaucoup de toilettes.,"Say, ""And many bathrooms.""",vocabulary_introduction,Male Speaker
