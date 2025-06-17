@@ -57,4 +57,22 @@ CREATE TABLE templates (
     template_text TEXT NOT NULL,
     complexity_score INT,
     created_at TIMESTAMPTZ DEFAULT NOW()
+);
+
+-- A table for persistent pattern pedagogical analysis
+CREATE TABLE pattern_analysis (
+    id SERIAL PRIMARY KEY,
+    utterance_text TEXT NOT NULL,
+    vocabulary_words TEXT[],
+    multi_word_phrases TEXT[],
+    grammatical_pattern TEXT,
+    tier_category VARCHAR(50),
+    lifecycle_stage VARCHAR(50),
+    total_lessons INT,
+    lesson_distribution JSONB,
+    simple_structure TEXT,
+    functional_category VARCHAR(50),
+    template_pattern TEXT,
+    created_at TIMESTAMPTZ DEFAULT NOW(),
+    UNIQUE(utterance_text)
 ); 

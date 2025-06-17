@@ -1,0 +1,3426 @@
+{
+  "total_patterns_analyzed": 151,
+  "pedagogical_elements": [
+    {
+      "utterance_text": "Je ne sais pas.",
+      "vocabulary_words": [
+        "je",
+        "savoir"
+      ],
+      "multi_word_phrases": [
+        "je ne sais pas"
+      ],
+      "grammatical_pattern": "Subject Pronoun + Negation (ne ... pas) + Verb",
+      "tier_category": "scaffolding",
+      "lifecycle_stage": "maintenance",
+      "total_lessons": 11,
+      "lesson_distribution": {
+        "5": 11,
+        "6": 6,
+        "7": 6,
+        "8": 5,
+        "10": 1,
+        "16": 1,
+        "18": 1,
+        "19": 2,
+        "22": 1,
+        "24": 1,
+        "29": 1
+      }
+    },
+    {
+      "utterance_text": "D'accord.",
+      "vocabulary_words": [
+        "d'accord"
+      ],
+      "multi_word_phrases": [],
+      "grammatical_pattern": "Single word interjection",
+      "tier_category": "core_conversational",
+      "lifecycle_stage": "maintenance",
+      "total_lessons": 9,
+      "lesson_distribution": {
+        "7": 11,
+        "8": 4,
+        "11": 1,
+        "12": 1,
+        "16": 2,
+        "17": 1,
+        "27": 1,
+        "28": 2,
+        "29": 1
+      }
+    },
+    {
+      "utterance_text": "Je ne comprends pas.",
+      "vocabulary_words": [
+        "je",
+        "ne",
+        "comprendre",
+        "pas"
+      ],
+      "multi_word_phrases": [
+        "ne...pas"
+      ],
+      "grammatical_pattern": "[SUBJECT] + ne + [VERB] + pas",
+      "tier_category": "scaffolding",
+      "lifecycle_stage": "maintenance",
+      "total_lessons": 9,
+      "lesson_distribution": {
+        "1": 9,
+        "2": 8,
+        "3": 3,
+        "4": 1,
+        "6": 1,
+        "8": 2,
+        "10": 1,
+        "24": 1,
+        "29": 1
+      }
+    },
+    {
+      "utterance_text": "Bonjour.",
+      "vocabulary_words": [
+        "bonjour"
+      ],
+      "multi_word_phrases": [],
+      "grammatical_pattern": "Single word greeting",
+      "tier_category": "core_conversational",
+      "lifecycle_stage": "maintenance",
+      "total_lessons": 9,
+      "lesson_distribution": {
+        "2": 4,
+        "3": 2,
+        "4": 5,
+        "5": 4,
+        "10": 1,
+        "13": 1,
+        "22": 1,
+        "24": 1,
+        "27": 1
+      }
+    },
+    {
+      "utterance_text": "Comment allez-vous?",
+      "vocabulary_words": [
+        "comment",
+        "aller",
+        "vous"
+      ],
+      "multi_word_phrases": [
+        "Comment allez-vous"
+      ],
+      "grammatical_pattern": "Interrogative phrase with inversion: [INTERROGATIVE] + [VERB] + [PRONOUN]",
+      "tier_category": "core_conversational",
+      "lifecycle_stage": "maintenance",
+      "total_lessons": 7,
+      "lesson_distribution": {
+        "2": 10,
+        "3": 4,
+        "4": 5,
+        "5": 4,
+        "9": 1,
+        "22": 2,
+        "27": 1
+      }
+    },
+    {
+      "utterance_text": "Un peu.",
+      "vocabulary_words": [
+        "un",
+        "peu"
+      ],
+      "multi_word_phrases": [
+        "un peu"
+      ],
+      "grammatical_pattern": "[ARTICLE] + [NOUN]",
+      "tier_category": "scaffolding",
+      "lifecycle_stage": "maintenance",
+      "total_lessons": 7,
+      "lesson_distribution": {
+        "1": 8,
+        "2": 7,
+        "3": 2,
+        "4": 2,
+        "22": 1,
+        "26": 1,
+        "30": 1
+      }
+    },
+    {
+      "utterance_text": "Je vous dois combien?",
+      "vocabulary_words": [
+        "je",
+        "devoir",
+        "vous",
+        "combien"
+      ],
+      "multi_word_phrases": [
+        "je vous dois"
+      ],
+      "grammatical_pattern": "[PRONOUN] [VERB] [PRONOUN] [INTERROGATIVE]",
+      "tier_category": "core_conversational",
+      "lifecycle_stage": "maintenance",
+      "total_lessons": 7,
+      "lesson_distribution": {
+        "12": 10,
+        "13": 6,
+        "15": 2,
+        "16": 2,
+        "17": 2,
+        "24": 2,
+        "27": 3
+      }
+    },
+    {
+      "utterance_text": "Quand?",
+      "vocabulary_words": [
+        "quand"
+      ],
+      "multi_word_phrases": [],
+      "grammatical_pattern": "Interrogative word",
+      "tier_category": "scaffolding",
+      "lifecycle_stage": "maintenance",
+      "total_lessons": 7,
+      "lesson_distribution": {
+        "6": 8,
+        "7": 4,
+        "9": 1,
+        "10": 2,
+        "11": 1,
+        "26": 1,
+        "30": 1
+      }
+    },
+    {
+      "utterance_text": "Huit.",
+      "vocabulary_words": [
+        "huit"
+      ],
+      "multi_word_phrases": [],
+      "grammatical_pattern": "Single word utterance",
+      "tier_category": "spaced_repetition",
+      "lifecycle_stage": "maintenance",
+      "total_lessons": 7,
+      "lesson_distribution": {
+        "9": 6,
+        "10": 2,
+        "11": 1,
+        "12": 3,
+        "13": 1,
+        "15": 1,
+        "16": 2
+      }
+    },
+    {
+      "utterance_text": "Très bien.",
+      "vocabulary_words": [
+        "très",
+        "bien"
+      ],
+      "multi_word_phrases": [
+        "très bien"
+      ],
+      "grammatical_pattern": "[ADVERB] + [ADJECTIVE]",
+      "tier_category": "core_conversational",
+      "lifecycle_stage": "maintenance",
+      "total_lessons": 6,
+      "lesson_distribution": {
+        "2": 2,
+        "3": 2,
+        "6": 4,
+        "11": 1,
+        "20": 2,
+        "22": 1
+      }
+    },
+    {
+      "utterance_text": "Treize.",
+      "vocabulary_words": [
+        "treize"
+      ],
+      "multi_word_phrases": [],
+      "grammatical_pattern": "Single word utterance",
+      "tier_category": "spaced_repetition",
+      "lifecycle_stage": "maintenance",
+      "total_lessons": 6,
+      "lesson_distribution": {
+        "12": 3,
+        "13": 2,
+        "14": 2,
+        "15": 1,
+        "16": 2,
+        "17": 1
+      }
+    },
+    {
+      "utterance_text": "Qu'est-ce que vous voudriez boire?",
+      "vocabulary_words": [
+        "quoi",
+        "être",
+        "vous",
+        "vouloir",
+        "boire"
+      ],
+      "multi_word_phrases": [
+        "Qu'est-ce que",
+        "voudriez boire"
+      ],
+      "grammatical_pattern": "Qu'est-ce que + [SUBJECT] + [VERB]",
+      "tier_category": "core_conversational",
+      "lifecycle_stage": "maintenance",
+      "total_lessons": 6,
+      "lesson_distribution": {
+        "7": 4,
+        "8": 7,
+        "10": 2,
+        "11": 1,
+        "18": 2,
+        "19": 4
+      }
+    },
+    {
+      "utterance_text": "Où?",
+      "vocabulary_words": [
+        "où"
+      ],
+      "multi_word_phrases": [],
+      "grammatical_pattern": "Interrogative adverb",
+      "tier_category": "scaffolding",
+      "lifecycle_stage": "maintenance",
+      "total_lessons": 6,
+      "lesson_distribution": {
+        "5": 3,
+        "6": 6,
+        "7": 4,
+        "8": 1,
+        "11": 1,
+        "25": 1
+      }
+    },
+    {
+      "utterance_text": "Je ne veux pas.",
+      "vocabulary_words": [
+        "je",
+        "ne",
+        "vouloir",
+        "pas"
+      ],
+      "multi_word_phrases": [
+        "ne...pas"
+      ],
+      "grammatical_pattern": "[SUBJECT] + ne + [VERB] + pas",
+      "tier_category": "scaffolding",
+      "lifecycle_stage": "maintenance",
+      "total_lessons": 6,
+      "lesson_distribution": {
+        "5": 2,
+        "6": 2,
+        "8": 3,
+        "15": 2,
+        "27": 1,
+        "28": 2
+      }
+    },
+    {
+      "utterance_text": "Je comprends un peu.",
+      "vocabulary_words": [
+        "je",
+        "comprendre",
+        "un",
+        "peu"
+      ],
+      "multi_word_phrases": [
+        "un peu"
+      ],
+      "grammatical_pattern": "[SUBJECT] + [VERB] + [OBJECT]",
+      "tier_category": "scaffolding",
+      "lifecycle_stage": "maintenance",
+      "total_lessons": 6,
+      "lesson_distribution": {
+        "1": 4,
+        "2": 1,
+        "3": 2,
+        "4": 1,
+        "5": 2,
+        "6": 1
+      }
+    },
+    {
+      "utterance_text": "Bonjour, Mademoiselle.",
+      "vocabulary_words": [
+        "bonjour",
+        "mademoiselle"
+      ],
+      "multi_word_phrases": [
+        "Bonjour, Mademoiselle"
+      ],
+      "grammatical_pattern": "Interjection + Noun Phrase",
+      "tier_category": "core_conversational",
+      "lifecycle_stage": "maintenance",
+      "total_lessons": 6,
+      "lesson_distribution": {
+        "2": 6,
+        "3": 1,
+        "4": 2,
+        "5": 1,
+        "8": 2,
+        "10": 1
+      }
+    },
+    {
+      "utterance_text": "C'est trop.",
+      "vocabulary_words": [
+        "ce",
+        "être",
+        "trop"
+      ],
+      "multi_word_phrases": [
+        "c'est"
+      ],
+      "grammatical_pattern": "[PRONOUN] + [VERB] + [ADVERB]",
+      "tier_category": "scaffolding",
+      "lifecycle_stage": "maintenance",
+      "total_lessons": 6,
+      "lesson_distribution": {
+        "16": 5,
+        "17": 1,
+        "18": 1,
+        "22": 1,
+        "24": 2,
+        "27": 1
+      }
+    },
+    {
+      "utterance_text": "Est-ce que vous comprenez l'anglais?",
+      "vocabulary_words": [
+        "être",
+        "comprendre",
+        "anglais",
+        "vous"
+      ],
+      "multi_word_phrases": [
+        "Est-ce que"
+      ],
+      "grammatical_pattern": "Est-ce que + [PRONOUN] + [VERB] + [OBJECT]?",
+      "tier_category": "scaffolding",
+      "lifecycle_stage": "maintenance",
+      "total_lessons": 6,
+      "lesson_distribution": {
+        "1": 13,
+        "2": 5,
+        "3": 2,
+        "4": 1,
+        "5": 1,
+        "17": 2
+      }
+    },
+    {
+      "utterance_text": "Deux.",
+      "vocabulary_words": [
+        "deux"
+      ],
+      "multi_word_phrases": [],
+      "grammatical_pattern": "Single word utterance",
+      "tier_category": "scaffolding",
+      "lifecycle_stage": "maintenance",
+      "total_lessons": 5,
+      "lesson_distribution": {
+        "8": 2,
+        "9": 7,
+        "10": 3,
+        "20": 1,
+        "26": 1
+      }
+    },
+    {
+      "utterance_text": "Non, merci.",
+      "vocabulary_words": [
+        "non",
+        "merci"
+      ],
+      "multi_word_phrases": [
+        "Non, merci"
+      ],
+      "grammatical_pattern": "Single word or short phrase response",
+      "tier_category": "core_conversational",
+      "lifecycle_stage": "maintenance",
+      "total_lessons": 5,
+      "lesson_distribution": {
+        "5": 4,
+        "6": 2,
+        "7": 6,
+        "8": 1,
+        "12": 1
+      }
+    },
+    {
+      "utterance_text": "Je veux bien.",
+      "vocabulary_words": [
+        "je",
+        "vouloir",
+        "bien"
+      ],
+      "multi_word_phrases": [
+        "je veux bien"
+      ],
+      "grammatical_pattern": "[SUBJECT] + [VERB] + [ADVERB]",
+      "tier_category": "core_conversational",
+      "lifecycle_stage": "maintenance",
+      "total_lessons": 5,
+      "lesson_distribution": {
+        "6": 2,
+        "7": 2,
+        "8": 3,
+        "10": 1,
+        "18": 1
+      }
+    },
+    {
+      "utterance_text": "Oui, je veux bien.",
+      "vocabulary_words": [
+        "oui",
+        "je",
+        "vouloir",
+        "bien"
+      ],
+      "multi_word_phrases": [
+        "je veux bien"
+      ],
+      "grammatical_pattern": "[AFFIRMATION] + [PRONOUN] + [VERB] + [ADVERB]",
+      "tier_category": "core_conversational",
+      "lifecycle_stage": "maintenance",
+      "total_lessons": 5,
+      "lesson_distribution": {
+        "6": 4,
+        "7": 3,
+        "10": 1,
+        "15": 1,
+        "16": 3
+      }
+    },
+    {
+      "utterance_text": "Quinze.",
+      "vocabulary_words": [
+        "quinze"
+      ],
+      "multi_word_phrases": [],
+      "grammatical_pattern": "Single word utterance",
+      "tier_category": "spaced_repetition",
+      "lifecycle_stage": "maintenance",
+      "total_lessons": 5,
+      "lesson_distribution": {
+        "13": 3,
+        "14": 1,
+        "15": 2,
+        "16": 2,
+        "23": 1
+      }
+    },
+    {
+      "utterance_text": "Bonjour, Monsieur.",
+      "vocabulary_words": [
+        "bonjour",
+        "monsieur"
+      ],
+      "multi_word_phrases": [
+        "Bonjour, Monsieur"
+      ],
+      "grammatical_pattern": "Greeting + [Title of Address]",
+      "tier_category": "core_conversational",
+      "lifecycle_stage": "maintenance",
+      "total_lessons": 5,
+      "lesson_distribution": {
+        "2": 6,
+        "3": 1,
+        "4": 2,
+        "5": 1,
+        "19": 1
+      }
+    },
+    {
+      "utterance_text": "Plus tard.",
+      "vocabulary_words": [
+        "plus",
+        "tard"
+      ],
+      "multi_word_phrases": [
+        "plus tard"
+      ],
+      "grammatical_pattern": "Single phrase used as an adverbial expression of time",
+      "tier_category": "core_conversational",
+      "lifecycle_stage": "maintenance",
+      "total_lessons": 5,
+      "lesson_distribution": {
+        "6": 8,
+        "7": 3,
+        "11": 1,
+        "18": 2,
+        "29": 1
+      }
+    },
+    {
+      "utterance_text": "Je voudrais boire quelque chose.",
+      "vocabulary_words": [
+        "je",
+        "vouloir",
+        "boire",
+        "quelque",
+        "chose"
+      ],
+      "multi_word_phrases": [
+        "quelque chose"
+      ],
+      "grammatical_pattern": "[SUBJECT] + [VERB in conditional] + [INFINITIVE VERB] + [DIRECT OBJECT]",
+      "tier_category": "scaffolding",
+      "lifecycle_stage": "maintenance",
+      "total_lessons": 5,
+      "lesson_distribution": {
+        "5": 2,
+        "6": 3,
+        "7": 3,
+        "8": 1,
+        "18": 1
+      }
+    },
+    {
+      "utterance_text": "Est-ce que vous voudriez boire quelque chose?",
+      "vocabulary_words": [
+        "être",
+        "vous",
+        "vouloir",
+        "boire",
+        "chose"
+      ],
+      "multi_word_phrases": [
+        "quelque chose"
+      ],
+      "grammatical_pattern": "Est-ce que + [SUBJECT] + [VERB] + [INFINITIVE VERB] + [OBJECT]",
+      "tier_category": "core_conversational",
+      "lifecycle_stage": "consolidation",
+      "total_lessons": 5,
+      "lesson_distribution": {
+        "5": 8,
+        "6": 5,
+        "7": 6,
+        "8": 4,
+        "10": 1
+      }
+    },
+    {
+      "utterance_text": "C'est là-bas.",
+      "vocabulary_words": [
+        "ce",
+        "être",
+        "là-bas"
+      ],
+      "multi_word_phrases": [
+        "c'est",
+        "là-bas"
+      ],
+      "grammatical_pattern": "[PRONOUN] + [VERB] + [ADVERB]",
+      "tier_category": "scaffolding",
+      "lifecycle_stage": "maintenance",
+      "total_lessons": 5,
+      "lesson_distribution": {
+        "4": 6,
+        "5": 3,
+        "6": 2,
+        "7": 3,
+        "14": 1
+      }
+    },
+    {
+      "utterance_text": "Je voudrais.",
+      "vocabulary_words": [
+        "je",
+        "vouloir"
+      ],
+      "multi_word_phrases": [
+        "je voudrais"
+      ],
+      "grammatical_pattern": "[SUBJECT] + [VERB] in conditional tense",
+      "tier_category": "scaffolding",
+      "lifecycle_stage": "maintenance",
+      "total_lessons": 5,
+      "lesson_distribution": {
+        "5": 3,
+        "6": 4,
+        "7": 2,
+        "8": 2,
+        "12": 1
+      }
+    },
+    {
+      "utterance_text": "Est-ce que vous êtes américain?",
+      "vocabulary_words": [
+        "être",
+        "vous",
+        "américain"
+      ],
+      "multi_word_phrases": [
+        "Est-ce que"
+      ],
+      "grammatical_pattern": "Est-ce que + [PRONOUN] + [VERB] + [ADJECTIVE/NOUN]",
+      "tier_category": "scaffolding",
+      "lifecycle_stage": "dormant",
+      "total_lessons": 5,
+      "lesson_distribution": {
+        "1": 11,
+        "2": 10,
+        "3": 5,
+        "4": 3,
+        "28": 2
+      }
+    },
+    {
+      "utterance_text": "Est-ce que vous comprenez le français?",
+      "vocabulary_words": [
+        "être",
+        "vous",
+        "comprendre",
+        "le",
+        "français"
+      ],
+      "multi_word_phrases": [
+        "Est-ce que"
+      ],
+      "grammatical_pattern": "Est-ce que + [SUBJECT] + [VERB] + [OBJECT]",
+      "tier_category": "scaffolding",
+      "lifecycle_stage": "reactivation",
+      "total_lessons": 5,
+      "lesson_distribution": {
+        "1": 12,
+        "2": 9,
+        "3": 3,
+        "5": 1,
+        "9": 1
+      }
+    },
+    {
+      "utterance_text": "À quelle heure?",
+      "vocabulary_words": [
+        "à",
+        "quelle",
+        "heure"
+      ],
+      "multi_word_phrases": [
+        "À quelle heure"
+      ],
+      "grammatical_pattern": "Interrogative phrase with 'quelle' as interrogative adjective",
+      "tier_category": "core_conversational",
+      "lifecycle_stage": "maintenance",
+      "total_lessons": 5,
+      "lesson_distribution": {
+        "9": 6,
+        "10": 3,
+        "11": 3,
+        "13": 2,
+        "30": 3
+      }
+    },
+    {
+      "utterance_text": "Je vais bien.",
+      "vocabulary_words": [
+        "je",
+        "aller",
+        "bien"
+      ],
+      "multi_word_phrases": [
+        "je vais"
+      ],
+      "grammatical_pattern": "[PRONOUN] + [VERB] + [ADVERB]",
+      "tier_category": "scaffolding",
+      "lifecycle_stage": "maintenance",
+      "total_lessons": 5,
+      "lesson_distribution": {
+        "2": 4,
+        "3": 3,
+        "5": 2,
+        "20": 1,
+        "27": 1
+      }
+    },
+    {
+      "utterance_text": "Très bien, merci.",
+      "vocabulary_words": [
+        "très",
+        "bien",
+        "merci"
+      ],
+      "multi_word_phrases": [
+        "très bien"
+      ],
+      "grammatical_pattern": "[ADVERB] [ADJECTIVE], [INTERJECTION]",
+      "tier_category": "core_conversational",
+      "lifecycle_stage": "maintenance",
+      "total_lessons": 5,
+      "lesson_distribution": {
+        "2": 7,
+        "3": 2,
+        "4": 1,
+        "5": 1,
+        "20": 1
+      }
+    },
+    {
+      "utterance_text": "Non, Monsieur.",
+      "vocabulary_words": [
+        "non",
+        "monsieur"
+      ],
+      "multi_word_phrases": [
+        "Non, Monsieur"
+      ],
+      "grammatical_pattern": "Isolated phrase (no verb conjugation or complex structure)",
+      "tier_category": "core_conversational",
+      "lifecycle_stage": "maintenance",
+      "total_lessons": 5,
+      "lesson_distribution": {
+        "1": 6,
+        "2": 3,
+        "3": 1,
+        "4": 2,
+        "11": 1
+      }
+    },
+    {
+      "utterance_text": "Voudrais.",
+      "vocabulary_words": [
+        "vouloir"
+      ],
+      "multi_word_phrases": [],
+      "grammatical_pattern": "[SUBJECT] + [VERB] (Conditionnel Présent)",
+      "tier_category": "scaffolding",
+      "lifecycle_stage": "maintenance",
+      "total_lessons": 5,
+      "lesson_distribution": {
+        "5": 1,
+        "6": 1,
+        "7": 2,
+        "8": 2,
+        "18": 2
+      }
+    },
+    {
+      "utterance_text": "Vraiment?",
+      "vocabulary_words": [
+        "vraiment"
+      ],
+      "multi_word_phrases": [],
+      "grammatical_pattern": "Single-word interjection",
+      "tier_category": "core_conversational",
+      "lifecycle_stage": "active",
+      "total_lessons": 4,
+      "lesson_distribution": {
+        "21": 4,
+        "22": 2,
+        "23": 1,
+        "26": 1
+      }
+    },
+    {
+      "utterance_text": "Pardon, Madame.",
+      "vocabulary_words": [
+        "pardon",
+        "madame"
+      ],
+      "multi_word_phrases": [
+        "Pardon, Madame"
+      ],
+      "grammatical_pattern": "Interjection + [Noun of Address]",
+      "tier_category": "core_conversational",
+      "lifecycle_stage": "dormant",
+      "total_lessons": 4,
+      "lesson_distribution": {
+        "2": 2,
+        "9": 2,
+        "14": 1,
+        "21": 1
+      }
+    },
+    {
+      "utterance_text": "Pardon.",
+      "vocabulary_words": [
+        "pardon"
+      ],
+      "multi_word_phrases": [],
+      "grammatical_pattern": "Single word utterance",
+      "tier_category": "core_conversational",
+      "lifecycle_stage": "consolidation",
+      "total_lessons": 4,
+      "lesson_distribution": {
+        "1": 11,
+        "2": 1,
+        "3": 1,
+        "5": 1
+      }
+    },
+    {
+      "utterance_text": "À huit heures.",
+      "vocabulary_words": [
+        "à",
+        "heure"
+      ],
+      "multi_word_phrases": [
+        "À huit heures"
+      ],
+      "grammatical_pattern": "[PREPOSITION] + [NUMBER] + [NOUN]",
+      "tier_category": "spaced_repetition",
+      "lifecycle_stage": "dormant",
+      "total_lessons": 4,
+      "lesson_distribution": {
+        "10": 2,
+        "11": 1,
+        "12": 2,
+        "30": 3
+      }
+    },
+    {
+      "utterance_text": "Au revoir, Monsieur.",
+      "vocabulary_words": [
+        "au",
+        "revoir",
+        "monsieur"
+      ],
+      "multi_word_phrases": [
+        "Au revoir"
+      ],
+      "grammatical_pattern": "[PHRASE] + [VOCATIVE]",
+      "tier_category": "core_conversational",
+      "lifecycle_stage": "dormant",
+      "total_lessons": 4,
+      "lesson_distribution": {
+        "2": 3,
+        "3": 1,
+        "5": 1,
+        "24": 1
+      }
+    },
+    {
+      "utterance_text": "Au revoir.",
+      "vocabulary_words": [
+        "au",
+        "revoir"
+      ],
+      "multi_word_phrases": [
+        "au revoir"
+      ],
+      "grammatical_pattern": "Single phrase used as a farewell",
+      "tier_category": "core_conversational",
+      "lifecycle_stage": "consolidation",
+      "total_lessons": 4,
+      "lesson_distribution": {
+        "2": 7,
+        "3": 2,
+        "4": 4,
+        "5": 3
+      }
+    },
+    {
+      "utterance_text": "Bonjour, Madame.",
+      "vocabulary_words": [
+        "bonjour",
+        "madame"
+      ],
+      "multi_word_phrases": [
+        "Bonjour Madame"
+      ],
+      "grammatical_pattern": "[GREETING] + [TITLE/NAME]",
+      "tier_category": "core_conversational",
+      "lifecycle_stage": "dormant",
+      "total_lessons": 4,
+      "lesson_distribution": {
+        "2": 5,
+        "3": 2,
+        "5": 1,
+        "19": 1
+      }
+    },
+    {
+      "utterance_text": "Cinquante.",
+      "vocabulary_words": [
+        "cinquante"
+      ],
+      "multi_word_phrases": [],
+      "grammatical_pattern": "Single word utterance",
+      "tier_category": "spaced_repetition",
+      "lifecycle_stage": "active",
+      "total_lessons": 4,
+      "lesson_distribution": {
+        "17": 6,
+        "18": 2,
+        "19": 1,
+        "22": 1
+      }
+    },
+    {
+      "utterance_text": "Pas très bien.",
+      "vocabulary_words": [
+        "pas",
+        "très",
+        "bien"
+      ],
+      "multi_word_phrases": [
+        "pas très bien"
+      ],
+      "grammatical_pattern": "[NEGATION] + [ADVERB] + [ADJECTIVE]",
+      "tier_category": "core_conversational",
+      "lifecycle_stage": "dormant",
+      "total_lessons": 4,
+      "lesson_distribution": {
+        "2": 5,
+        "3": 7,
+        "4": 2,
+        "26": 2
+      }
+    },
+    {
+      "utterance_text": "Pourquoi?",
+      "vocabulary_words": [
+        "pourquoi"
+      ],
+      "multi_word_phrases": [],
+      "grammatical_pattern": "Interrogative word used to ask for a reason or explanation",
+      "tier_category": "scaffolding",
+      "lifecycle_stage": "consolidation",
+      "total_lessons": 4,
+      "lesson_distribution": {
+        "25": 10,
+        "26": 3,
+        "27": 4,
+        "29": 1
+      }
+    },
+    {
+      "utterance_text": "Qu'est-ce que vous voulez faire?",
+      "vocabulary_words": [
+        "que",
+        "être",
+        "vous",
+        "vouloir",
+        "faire"
+      ],
+      "multi_word_phrases": [
+        "Qu'est-ce que",
+        "vous voulez"
+      ],
+      "grammatical_pattern": "Qu'est-ce que + [SUBJECT] + [VERB]",
+      "tier_category": "scaffolding",
+      "lifecycle_stage": "consolidation",
+      "total_lessons": 4,
+      "lesson_distribution": {
+        "8": 3,
+        "9": 2,
+        "10": 2,
+        "11": 1
+      }
+    },
+    {
+      "utterance_text": "Quatorze.",
+      "vocabulary_words": [
+        "quatorze"
+      ],
+      "multi_word_phrases": [],
+      "grammatical_pattern": "N/A",
+      "tier_category": "spaced_repetition",
+      "lifecycle_stage": "consolidation",
+      "total_lessons": 4,
+      "lesson_distribution": {
+        "13": 3,
+        "14": 2,
+        "15": 1,
+        "16": 1
+      }
+    },
+    {
+      "utterance_text": "Quelle heure est-il?",
+      "vocabulary_words": [
+        "quelle",
+        "heure",
+        "être",
+        "il"
+      ],
+      "multi_word_phrases": [
+        "quelle heure",
+        "est-il"
+      ],
+      "grammatical_pattern": "Interrogative phrase with inversion: [Question word] + [Verb] + - + [Pronoun]",
+      "tier_category": "scaffolding",
+      "lifecycle_stage": "dormant",
+      "total_lessons": 4,
+      "lesson_distribution": {
+        "10": 10,
+        "11": 2,
+        "13": 1,
+        "25": 4
+      }
+    },
+    {
+      "utterance_text": "Quelques jours.",
+      "vocabulary_words": [
+        "quelque",
+        "jour"
+      ],
+      "multi_word_phrases": [
+        "quelques jours"
+      ],
+      "grammatical_pattern": "[DETERMINER] + [NOUN]",
+      "tier_category": "spaced_repetition",
+      "lifecycle_stage": "consolidation",
+      "total_lessons": 4,
+      "lesson_distribution": {
+        "26": 2,
+        "28": 1,
+        "29": 1,
+        "30": 2
+      }
+    },
+    {
+      "utterance_text": "S'il vous plaît.",
+      "vocabulary_words": [
+        "s'il",
+        "vous",
+        "plaît"
+      ],
+      "multi_word_phrases": [
+        "s'il vous plaît"
+      ],
+      "grammatical_pattern": "Fixed phrase (no internal grammatical variation)",
+      "tier_category": "core_conversational",
+      "lifecycle_stage": "consolidation",
+      "total_lessons": 4,
+      "lesson_distribution": {
+        "3": 4,
+        "4": 2,
+        "5": 3,
+        "6": 2
+      }
+    },
+    {
+      "utterance_text": "Une.",
+      "vocabulary_words": [
+        "un"
+      ],
+      "multi_word_phrases": [],
+      "grammatical_pattern": "None",
+      "tier_category": "scaffolding",
+      "lifecycle_stage": "dormant",
+      "total_lessons": 4,
+      "lesson_distribution": {
+        "9": 2,
+        "10": 2,
+        "11": 2,
+        "20": 2
+      }
+    },
+    {
+      "utterance_text": "Douze.",
+      "vocabulary_words": [
+        "douze"
+      ],
+      "multi_word_phrases": [],
+      "grammatical_pattern": "Single word utterance",
+      "tier_category": "spaced_repetition",
+      "lifecycle_stage": "consolidation",
+      "total_lessons": 4,
+      "lesson_distribution": {
+        "12": 3,
+        "13": 1,
+        "14": 1,
+        "15": 1
+      }
+    },
+    {
+      "utterance_text": "Enchanté.",
+      "vocabulary_words": [
+        "enchanter"
+      ],
+      "multi_word_phrases": [
+        "Enchanté"
+      ],
+      "grammatical_pattern": "Single word phrase used as a greeting or response",
+      "tier_category": "core_conversational",
+      "lifecycle_stage": "consolidation",
+      "total_lessons": 4,
+      "lesson_distribution": {
+        "19": 8,
+        "20": 2,
+        "21": 1,
+        "22": 1
+      }
+    },
+    {
+      "utterance_text": "Et vous?",
+      "vocabulary_words": [
+        "et",
+        "vous"
+      ],
+      "multi_word_phrases": [
+        "Et vous?"
+      ],
+      "grammatical_pattern": "Conjunction + Pronoun",
+      "tier_category": "core_conversational",
+      "lifecycle_stage": "dormant",
+      "total_lessons": 4,
+      "lesson_distribution": {
+        "3": 4,
+        "4": 1,
+        "5": 3,
+        "30": 2
+      }
+    },
+    {
+      "utterance_text": "Je comprends le français.",
+      "vocabulary_words": [
+        "je",
+        "comprendre",
+        "le",
+        "français"
+      ],
+      "multi_word_phrases": [],
+      "grammatical_pattern": "[SUBJECT] + [VERB] + [DIRECT OBJECT]",
+      "tier_category": "scaffolding",
+      "lifecycle_stage": "intensive_practice",
+      "total_lessons": 4,
+      "lesson_distribution": {
+        "1": 9,
+        "2": 10,
+        "3": 3,
+        "4": 1
+      }
+    },
+    {
+      "utterance_text": "Je comprends un peu le français.",
+      "vocabulary_words": [
+        "je",
+        "comprendre",
+        "un",
+        "peu",
+        "le",
+        "français"
+      ],
+      "multi_word_phrases": [
+        "un peu"
+      ],
+      "grammatical_pattern": "[SUBJECT] + [VERB] + [OBJECT]",
+      "tier_category": "scaffolding",
+      "lifecycle_stage": "intensive_practice",
+      "total_lessons": 4,
+      "lesson_distribution": {
+        "1": 9,
+        "2": 13,
+        "3": 11,
+        "4": 4
+      }
+    },
+    {
+      "utterance_text": "Je n'en ai pas.",
+      "vocabulary_words": [
+        "je",
+        "ne",
+        "en",
+        "avoir",
+        "pas"
+      ],
+      "multi_word_phrases": [
+        "n'en"
+      ],
+      "grammatical_pattern": "[SUBJECT] + ne + [PRONOUN] + [VERB] + pas",
+      "tier_category": "scaffolding",
+      "lifecycle_stage": "dormant",
+      "total_lessons": 4,
+      "lesson_distribution": {
+        "15": 6,
+        "16": 6,
+        "17": 4,
+        "27": 1
+      }
+    },
+    {
+      "utterance_text": "Je ne comprends pas l'anglais.",
+      "vocabulary_words": [
+        "je",
+        "ne",
+        "comprendre",
+        "pas",
+        "l'",
+        "anglais"
+      ],
+      "multi_word_phrases": [
+        "ne...pas",
+        "je ne comprends pas"
+      ],
+      "grammatical_pattern": "[SUBJECT] + ne + [VERB] + pas + [OBJECT]",
+      "tier_category": "scaffolding",
+      "lifecycle_stage": "consolidation",
+      "total_lessons": 4,
+      "lesson_distribution": {
+        "1": 7,
+        "2": 3,
+        "3": 4,
+        "4": 2
+      }
+    },
+    {
+      "utterance_text": "Je ne comprends pas le français.",
+      "vocabulary_words": [
+        "je",
+        "ne",
+        "comprendre",
+        "pas",
+        "le",
+        "français"
+      ],
+      "multi_word_phrases": [
+        "ne...pas",
+        "je ne comprends pas"
+      ],
+      "grammatical_pattern": "[SUBJECT] + ne + [VERB] + pas + [OBJECT]",
+      "tier_category": "scaffolding",
+      "lifecycle_stage": "consolidation",
+      "total_lessons": 4,
+      "lesson_distribution": {
+        "1": 2,
+        "2": 4,
+        "3": 3,
+        "4": 1
+      }
+    },
+    {
+      "utterance_text": "Je suis américain.",
+      "vocabulary_words": [
+        "je",
+        "être",
+        "américain"
+      ],
+      "multi_word_phrases": [
+        "je suis"
+      ],
+      "grammatical_pattern": "[PRONOUN] + [VERB] + [ADJECTIVE]",
+      "tier_category": "scaffolding",
+      "lifecycle_stage": "dormant",
+      "total_lessons": 4,
+      "lesson_distribution": {
+        "3": 6,
+        "4": 4,
+        "14": 2,
+        "24": 1
+      }
+    },
+    {
+      "utterance_text": "Je peux.",
+      "vocabulary_words": [
+        "je",
+        "pouvoir"
+      ],
+      "multi_word_phrases": [],
+      "grammatical_pattern": "[SUBJECT] + [VERB]",
+      "tier_category": "scaffolding",
+      "lifecycle_stage": "dormant",
+      "total_lessons": 4,
+      "lesson_distribution": {
+        "15": 5,
+        "16": 1,
+        "17": 1,
+        "25": 2
+      }
+    },
+    {
+      "utterance_text": "Je suis américaine.",
+      "vocabulary_words": [
+        "je",
+        "être",
+        "américain"
+      ],
+      "multi_word_phrases": [],
+      "grammatical_pattern": "[PRONOUN] + [VERB] + [ADJECTIVE]",
+      "tier_category": "scaffolding",
+      "lifecycle_stage": "dormant",
+      "total_lessons": 4,
+      "lesson_distribution": {
+        "3": 3,
+        "4": 3,
+        "14": 1,
+        "24": 1
+      }
+    },
+    {
+      "utterance_text": "Je voudrais manger quelque chose.",
+      "vocabulary_words": [
+        "je",
+        "vouloir",
+        "manger",
+        "quelque",
+        "chose"
+      ],
+      "multi_word_phrases": [
+        "quelque chose"
+      ],
+      "grammatical_pattern": "[SUBJECT] + [VERB (conditionnel présent)] + [INFINITIVE VERB] + [DIRECT OBJECT]",
+      "tier_category": "scaffolding",
+      "lifecycle_stage": "active",
+      "total_lessons": 4,
+      "lesson_distribution": {
+        "5": 4,
+        "6": 4,
+        "7": 2,
+        "10": 2
+      }
+    },
+    {
+      "utterance_text": "Moi aussi.",
+      "vocabulary_words": [
+        "moi",
+        "aussi"
+      ],
+      "multi_word_phrases": [
+        "Moi aussi"
+      ],
+      "grammatical_pattern": "[PRONOUN] [ADVERB]",
+      "tier_category": "scaffolding",
+      "lifecycle_stage": "dormant",
+      "total_lessons": 4,
+      "lesson_distribution": {
+        "6": 8,
+        "7": 5,
+        "8": 2,
+        "27": 1
+      }
+    },
+    {
+      "utterance_text": "Vous parlez trop vite.",
+      "vocabulary_words": [
+        "vous",
+        "parler",
+        "trop",
+        "vite"
+      ],
+      "multi_word_phrases": [
+        "trop vite"
+      ],
+      "grammatical_pattern": "[SUBJECT] + [VERB] + [ADVERBIAL PHRASE]",
+      "tier_category": "core_conversational",
+      "lifecycle_stage": "reactivation",
+      "total_lessons": 4,
+      "lesson_distribution": {
+        "17": 3,
+        "18": 2,
+        "19": 2,
+        "24": 1
+      }
+    },
+    {
+      "utterance_text": "Combien de temps?",
+      "vocabulary_words": [
+        "combien",
+        "temps"
+      ],
+      "multi_word_phrases": [
+        "combien de temps"
+      ],
+      "grammatical_pattern": "[INTERROGATIVE] + de + [NOUN]",
+      "tier_category": "core_conversational",
+      "lifecycle_stage": "consolidation",
+      "total_lessons": 3,
+      "lesson_distribution": {
+        "28": 6,
+        "29": 2,
+        "30": 2
+      }
+    },
+    {
+      "utterance_text": "Combien de kilomètres?",
+      "vocabulary_words": [
+        "combien",
+        "kilomètre"
+      ],
+      "multi_word_phrases": [
+        "combien de"
+      ],
+      "grammatical_pattern": "[QUESTION_WORD] de [NOUN]",
+      "tier_category": "spaced_repetition",
+      "lifecycle_stage": "consolidation",
+      "total_lessons": 3,
+      "lesson_distribution": {
+        "22": 2,
+        "23": 1,
+        "25": 1
+      }
+    },
+    {
+      "utterance_text": "Combien d'argent avez-vous?",
+      "vocabulary_words": [
+        "combien",
+        "argent",
+        "avoir",
+        "vous"
+      ],
+      "multi_word_phrases": [
+        "d'argent"
+      ],
+      "grammatical_pattern": "[QUESTION WORD] + [PREPOSITION] + [NOUN] + [VERB] + [PRONOUN]",
+      "tier_category": "spaced_repetition",
+      "lifecycle_stage": "dormant",
+      "total_lessons": 3,
+      "lesson_distribution": {
+        "16": 2,
+        "25": 1,
+        "28": 1
+      }
+    },
+    {
+      "utterance_text": "Cinq.",
+      "vocabulary_words": [
+        "cinq"
+      ],
+      "multi_word_phrases": [],
+      "grammatical_pattern": "Single word utterance",
+      "tier_category": "scaffolding",
+      "lifecycle_stage": "reactivation",
+      "total_lessons": 3,
+      "lesson_distribution": {
+        "10": 2,
+        "15": 2,
+        "16": 1
+      }
+    },
+    {
+      "utterance_text": "Une heure.",
+      "vocabulary_words": [
+        "une",
+        "heure"
+      ],
+      "multi_word_phrases": [
+        "une heure"
+      ],
+      "grammatical_pattern": "[ARTICLE] + [NOUN]",
+      "tier_category": "scaffolding",
+      "lifecycle_stage": "consolidation",
+      "total_lessons": 3,
+      "lesson_distribution": {
+        "9": 7,
+        "10": 2,
+        "11": 2
+      }
+    },
+    {
+      "utterance_text": "Vous comprenez très bien.",
+      "vocabulary_words": [
+        "vous",
+        "comprendre",
+        "très",
+        "bien"
+      ],
+      "multi_word_phrases": [
+        "très bien"
+      ],
+      "grammatical_pattern": "[SUBJECT] + [VERB] + [ADVERB] + [ADVERB]",
+      "tier_category": "scaffolding",
+      "lifecycle_stage": "dormant",
+      "total_lessons": 3,
+      "lesson_distribution": {
+        "2": 2,
+        "4": 2,
+        "17": 2
+      }
+    },
+    {
+      "utterance_text": "Veux.",
+      "vocabulary_words": [
+        "vouloir"
+      ],
+      "multi_word_phrases": [],
+      "grammatical_pattern": "[VERB]",
+      "tier_category": "scaffolding",
+      "lifecycle_stage": "consolidation",
+      "total_lessons": 3,
+      "lesson_distribution": {
+        "5": 2,
+        "6": 2,
+        "8": 2
+      }
+    },
+    {
+      "utterance_text": "De la bière.",
+      "vocabulary_words": [
+        "de",
+        "bière"
+      ],
+      "multi_word_phrases": [
+        "De la bière"
+      ],
+      "grammatical_pattern": "[ARTICLE] + [NOUN]",
+      "tier_category": "spaced_repetition",
+      "lifecycle_stage": "dormant",
+      "total_lessons": 3,
+      "lesson_distribution": {
+        "7": 4,
+        "14": 1,
+        "15": 2
+      }
+    },
+    {
+      "utterance_text": "Demain soir.",
+      "vocabulary_words": [
+        "demain",
+        "soir"
+      ],
+      "multi_word_phrases": [
+        "demain soir"
+      ],
+      "grammatical_pattern": "[TIME_ADVERB] [TIME_NOUN]",
+      "tier_category": "scaffolding",
+      "lifecycle_stage": "consolidation",
+      "total_lessons": 3,
+      "lesson_distribution": {
+        "11": 3,
+        "12": 2,
+        "13": 2
+      }
+    },
+    {
+      "utterance_text": "Demain.",
+      "vocabulary_words": [
+        "demain"
+      ],
+      "multi_word_phrases": [],
+      "grammatical_pattern": "Single word utterance",
+      "tier_category": "scaffolding",
+      "lifecycle_stage": "dormant",
+      "total_lessons": 3,
+      "lesson_distribution": {
+        "11": 5,
+        "12": 1,
+        "26": 1
+      }
+    },
+    {
+      "utterance_text": "Depuis combien de temps?",
+      "vocabulary_words": [
+        "depuis",
+        "combien",
+        "temps"
+      ],
+      "multi_word_phrases": [
+        "depuis combien de temps"
+      ],
+      "grammatical_pattern": "Depuis + [interrogative phrase]",
+      "tier_category": "core_conversational",
+      "lifecycle_stage": "consolidation",
+      "total_lessons": 3,
+      "lesson_distribution": {
+        "28": 3,
+        "29": 3,
+        "30": 2
+      }
+    },
+    {
+      "utterance_text": "Des francs.",
+      "vocabulary_words": [
+        "franc"
+      ],
+      "multi_word_phrases": [],
+      "grammatical_pattern": "Noun phrase with a partitive article",
+      "tier_category": "spaced_repetition",
+      "lifecycle_stage": "consolidation",
+      "total_lessons": 3,
+      "lesson_distribution": {
+        "14": 2,
+        "15": 1,
+        "16": 1
+      }
+    },
+    {
+      "utterance_text": "Ce soir.",
+      "vocabulary_words": [
+        "ce",
+        "soir"
+      ],
+      "multi_word_phrases": [
+        "ce soir"
+      ],
+      "grammatical_pattern": "[Demonstrative pronoun] + [Noun]",
+      "tier_category": "scaffolding",
+      "lifecycle_stage": "consolidation",
+      "total_lessons": 3,
+      "lesson_distribution": {
+        "11": 8,
+        "12": 2,
+        "13": 2
+      }
+    },
+    {
+      "utterance_text": "Dix-sept.",
+      "vocabulary_words": [
+        "dix",
+        "sept"
+      ],
+      "multi_word_phrases": [
+        "dix-sept"
+      ],
+      "grammatical_pattern": "NUMBER",
+      "tier_category": "scaffolding",
+      "lifecycle_stage": "consolidation",
+      "total_lessons": 3,
+      "lesson_distribution": {
+        "14": 6,
+        "15": 2,
+        "16": 3
+      }
+    },
+    {
+      "utterance_text": "Dix.",
+      "vocabulary_words": [
+        "dix"
+      ],
+      "multi_word_phrases": [],
+      "grammatical_pattern": "Single word utterance",
+      "tier_category": "scaffolding",
+      "lifecycle_stage": "active",
+      "total_lessons": 3,
+      "lesson_distribution": {
+        "11": 2,
+        "12": 3,
+        "15": 1
+      }
+    },
+    {
+      "utterance_text": "Vous avez combien de francs?",
+      "vocabulary_words": [
+        "vous",
+        "avoir",
+        "combien",
+        "franc"
+      ],
+      "multi_word_phrases": [
+        "combien de"
+      ],
+      "grammatical_pattern": "[SUBJECT] + [VERB] + [QUANTITY PHRASE] + [OBJECT]",
+      "tier_category": "scaffolding",
+      "lifecycle_stage": "active",
+      "total_lessons": 3,
+      "lesson_distribution": {
+        "13": 6,
+        "14": 1,
+        "17": 2
+      }
+    },
+    {
+      "utterance_text": "Du.",
+      "vocabulary_words": [
+        "de",
+        "le"
+      ],
+      "multi_word_phrases": [],
+      "grammatical_pattern": "Partitive article: [du]",
+      "tier_category": "scaffolding",
+      "lifecycle_stage": "active",
+      "total_lessons": 3,
+      "lesson_distribution": {
+        "7": 4,
+        "8": 2,
+        "11": 1
+      }
+    },
+    {
+      "utterance_text": "Elles sont là-bas.",
+      "vocabulary_words": [
+        "elle",
+        "être",
+        "là-bas"
+      ],
+      "multi_word_phrases": [
+        "là-bas"
+      ],
+      "grammatical_pattern": "[PRONOUN] + [VERB] + [ADVERB]",
+      "tier_category": "scaffolding",
+      "lifecycle_stage": "consolidation",
+      "total_lessons": 3,
+      "lesson_distribution": {
+        "21": 3,
+        "22": 1,
+        "23": 1
+      }
+    },
+    {
+      "utterance_text": "Nous sommes ici.",
+      "vocabulary_words": [
+        "nous",
+        "être",
+        "ici"
+      ],
+      "multi_word_phrases": [
+        "nous sommes"
+      ],
+      "grammatical_pattern": "[PRONOUN] + [VERB] + [ADVERB]",
+      "tier_category": "scaffolding",
+      "lifecycle_stage": "consolidation",
+      "total_lessons": 3,
+      "lesson_distribution": {
+        "28": 3,
+        "29": 1,
+        "30": 2
+      }
+    },
+    {
+      "utterance_text": "Ensemble.",
+      "vocabulary_words": [
+        "ensemble"
+      ],
+      "multi_word_phrases": [],
+      "grammatical_pattern": "Single word utterance",
+      "tier_category": "scaffolding",
+      "lifecycle_stage": "consolidation",
+      "total_lessons": 3,
+      "lesson_distribution": {
+        "27": 6,
+        "28": 2,
+        "29": 1
+      }
+    },
+    {
+      "utterance_text": "Entrez.",
+      "vocabulary_words": [
+        "entrer"
+      ],
+      "multi_word_phrases": [],
+      "grammatical_pattern": "[IMPERATIVE VERB]",
+      "tier_category": "scaffolding",
+      "lifecycle_stage": "consolidation",
+      "total_lessons": 3,
+      "lesson_distribution": {
+        "19": 6,
+        "20": 1,
+        "21": 1
+      }
+    },
+    {
+      "utterance_text": "Est-ce que c'est ici?",
+      "vocabulary_words": [
+        "être",
+        "ce",
+        "ici"
+      ],
+      "multi_word_phrases": [
+        "Est-ce que"
+      ],
+      "grammatical_pattern": "Est-ce que + [PRONOUN] + [VERB] + [ADVERB]",
+      "tier_category": "scaffolding",
+      "lifecycle_stage": "consolidation",
+      "total_lessons": 3,
+      "lesson_distribution": {
+        "4": 6,
+        "5": 5,
+        "6": 2
+      }
+    },
+    {
+      "utterance_text": "Est-ce que vous allez bien?",
+      "vocabulary_words": [
+        "être",
+        "vous",
+        "aller",
+        "bien"
+      ],
+      "multi_word_phrases": [
+        "Est-ce que"
+      ],
+      "grammatical_pattern": "Est-ce que + [SUBJECT] + [VERB] + [ADVERB]",
+      "tier_category": "core_conversational",
+      "lifecycle_stage": "dormant",
+      "total_lessons": 3,
+      "lesson_distribution": {
+        "3": 4,
+        "5": 2,
+        "10": 2
+      }
+    },
+    {
+      "utterance_text": "Est-ce que vous avez de l'argent?",
+      "vocabulary_words": [
+        "être",
+        "avoir",
+        "vous",
+        "argent",
+        "de",
+        "le"
+      ],
+      "multi_word_phrases": [
+        "Est-ce que"
+      ],
+      "grammatical_pattern": "Est-ce que + [SUBJECT] + [VERB] + [DIRECT OBJECT]",
+      "tier_category": "scaffolding",
+      "lifecycle_stage": "dormant",
+      "total_lessons": 3,
+      "lesson_distribution": {
+        "16": 3,
+        "17": 2,
+        "25": 1
+      }
+    },
+    {
+      "utterance_text": "Ce n'est pas ici.",
+      "vocabulary_words": [
+        "ce",
+        "ne",
+        "pas",
+        "être",
+        "ici"
+      ],
+      "multi_word_phrases": [
+        "ce n'est pas",
+        "n'est pas ici"
+      ],
+      "grammatical_pattern": "Ce ne pas [PRONOUN] [LOCATION]",
+      "tier_category": "scaffolding",
+      "lifecycle_stage": "consolidation",
+      "total_lessons": 3,
+      "lesson_distribution": {
+        "4": 3,
+        "5": 2,
+        "6": 2
+      }
+    },
+    {
+      "utterance_text": "Ce n'est pas beaucoup.",
+      "vocabulary_words": [
+        "ce",
+        "ne",
+        "être",
+        "pas",
+        "beaucoup"
+      ],
+      "multi_word_phrases": [
+        "ce n'est pas"
+      ],
+      "grammatical_pattern": "[PRONOUN] + ne + [VERB] + pas + [ADVERB/ADJECTIVE]",
+      "tier_category": "scaffolding",
+      "lifecycle_stage": "dormant",
+      "total_lessons": 3,
+      "lesson_distribution": {
+        "14": 4,
+        "25": 2,
+        "28": 1
+      }
+    },
+    {
+      "utterance_text": "Est-ce que vous comprenez?",
+      "vocabulary_words": [
+        "être",
+        "vous",
+        "comprendre"
+      ],
+      "multi_word_phrases": [
+        "Est-ce que"
+      ],
+      "grammatical_pattern": "Est-ce que + [SUBJECT] + [VERB]",
+      "tier_category": "scaffolding",
+      "lifecycle_stage": "dormant",
+      "total_lessons": 3,
+      "lesson_distribution": {
+        "1": 10,
+        "2": 4,
+        "12": 1
+      }
+    },
+    {
+      "utterance_text": "Ça suffit.",
+      "vocabulary_words": [
+        "ça",
+        "suffire"
+      ],
+      "multi_word_phrases": [
+        "Ça suffit"
+      ],
+      "grammatical_pattern": "[PRONOUN] + [VERB]",
+      "tier_category": "scaffolding",
+      "lifecycle_stage": "dormant",
+      "total_lessons": 3,
+      "lesson_distribution": {
+        "16": 4,
+        "22": 3,
+        "23": 1
+      }
+    },
+    {
+      "utterance_text": "C'est ici.",
+      "vocabulary_words": [
+        "ce",
+        "être",
+        "ici"
+      ],
+      "multi_word_phrases": [
+        "c'est"
+      ],
+      "grammatical_pattern": "[PRONOUN] + [VERB] + [ADVERB]",
+      "tier_category": "scaffolding",
+      "lifecycle_stage": "consolidation",
+      "total_lessons": 3,
+      "lesson_distribution": {
+        "4": 2,
+        "5": 2,
+        "6": 1
+      }
+    },
+    {
+      "utterance_text": "Est-ce que vous voudriez manger maintenant?",
+      "vocabulary_words": [
+        "être",
+        "vous",
+        "vouloir",
+        "manger",
+        "maintenant"
+      ],
+      "multi_word_phrases": [
+        "Est-ce que"
+      ],
+      "grammatical_pattern": "Est-ce que + [SUBJECT] + [VERB] + [INFINITIVE VERB] + [ADVERB]",
+      "tier_category": "scaffolding",
+      "lifecycle_stage": "dormant",
+      "total_lessons": 3,
+      "lesson_distribution": {
+        "7": 3,
+        "8": 2,
+        "29": 1
+      }
+    },
+    {
+      "utterance_text": "Est-ce que vous voudriez manger quelque chose?",
+      "vocabulary_words": [
+        "être",
+        "vous",
+        "vouloir",
+        "manger",
+        "quelque",
+        "chose"
+      ],
+      "multi_word_phrases": [
+        "Est-ce que",
+        "voudriez manger",
+        "quelque chose"
+      ],
+      "grammatical_pattern": "Est-ce que + [SUBJECT] + [VERB] + [INFINITIVE] + [OBJECT]",
+      "tier_category": "core_conversational",
+      "lifecycle_stage": "dormant",
+      "total_lessons": 3,
+      "lesson_distribution": {
+        "5": 4,
+        "6": 6,
+        "12": 1
+      }
+    },
+    {
+      "utterance_text": "Et je parle un peu.",
+      "vocabulary_words": [
+        "et",
+        "je",
+        "parler",
+        "un",
+        "peu"
+      ],
+      "multi_word_phrases": [
+        "un peu"
+      ],
+      "grammatical_pattern": "[CONJUNCTION] + [PRONOUN] + [VERB] + [ARTICLE] + [ADVERB]",
+      "tier_category": "scaffolding",
+      "lifecycle_stage": "consolidation",
+      "total_lessons": 3,
+      "lesson_distribution": {
+        "4": 2,
+        "5": 2,
+        "6": 2
+      }
+    },
+    {
+      "utterance_text": "Et le boulevard Saint-Michel?",
+      "vocabulary_words": [
+        "et",
+        "le",
+        "boulevard",
+        "Saint-Michel"
+      ],
+      "multi_word_phrases": [
+        "boulevard Saint-Michel"
+      ],
+      "grammatical_pattern": "[CONJUNCTION] + [DEFINITE_ARTICLE] + [NOUN_PHRASE]",
+      "tier_category": "spaced_repetition",
+      "lifecycle_stage": "consolidation",
+      "total_lessons": 3,
+      "lesson_distribution": {
+        "4": 2,
+        "5": 2,
+        "6": 2
+      }
+    },
+    {
+      "utterance_text": "Nous voulons.",
+      "vocabulary_words": [
+        "nous",
+        "vouloir"
+      ],
+      "multi_word_phrases": [],
+      "grammatical_pattern": "[PRONOUN] + [VERB]",
+      "tier_category": "scaffolding",
+      "lifecycle_stage": "consolidation",
+      "total_lessons": 3,
+      "lesson_distribution": {
+        "19": 2,
+        "21": 4,
+        "22": 2
+      }
+    },
+    {
+      "utterance_text": "C'est beaucoup.",
+      "vocabulary_words": [
+        "ce",
+        "être",
+        "beaucoup"
+      ],
+      "multi_word_phrases": [
+        "c'est"
+      ],
+      "grammatical_pattern": "[PRONOUN] + [VERB] + [ADVERB]",
+      "tier_category": "scaffolding",
+      "lifecycle_stage": "reactivation",
+      "total_lessons": 3,
+      "lesson_distribution": {
+        "14": 2,
+        "16": 2,
+        "20": 2
+      }
+    },
+    {
+      "utterance_text": "Il y a combien de kilomètres?",
+      "vocabulary_words": [
+        "il",
+        "y",
+        "avoir",
+        "combien",
+        "kilomètre"
+      ],
+      "multi_word_phrases": [
+        "il y a",
+        "combien de"
+      ],
+      "grammatical_pattern": "[Interrogative phrase] + [Quantity] + [Unit of measure]",
+      "tier_category": "spaced_repetition",
+      "lifecycle_stage": "consolidation",
+      "total_lessons": 3,
+      "lesson_distribution": {
+        "22": 1,
+        "23": 2,
+        "24": 2
+      }
+    },
+    {
+      "utterance_text": "J'en ai beaucoup.",
+      "vocabulary_words": [
+        "je",
+        "en",
+        "avoir",
+        "beaucoup"
+      ],
+      "multi_word_phrases": [
+        "j'en ai"
+      ],
+      "grammatical_pattern": "[PRONOUN] + [PRONOMINAL ADVERB] + [VERB] + [ADVERB]",
+      "tier_category": "scaffolding",
+      "lifecycle_stage": "dormant",
+      "total_lessons": 3,
+      "lesson_distribution": {
+        "15": 2,
+        "17": 2,
+        "27": 2
+      }
+    },
+    {
+      "utterance_text": "Où est la rue Saint-Jacques, s'il vous plaît?",
+      "vocabulary_words": [
+        "où",
+        "être",
+        "la",
+        "rue",
+        "Saint-Jacques",
+        "s'il",
+        "vous",
+        "plaire"
+      ],
+      "multi_word_phrases": [
+        "s'il vous plaît",
+        "rue Saint-Jacques"
+      ],
+      "grammatical_pattern": "[INTERROGATIVE] + [VERB] + [ARTICLE] + [NOUN] + [POLITE PHRASE]",
+      "tier_category": "core_conversational",
+      "lifecycle_stage": "consolidation",
+      "total_lessons": 3,
+      "lesson_distribution": {
+        "4": 1,
+        "5": 8,
+        "6": 2
+      }
+    },
+    {
+      "utterance_text": "Je comprends maintenant.",
+      "vocabulary_words": [
+        "je",
+        "comprendre",
+        "maintenant"
+      ],
+      "multi_word_phrases": [],
+      "grammatical_pattern": "[SUBJECT] + [VERB] + [ADVERB]",
+      "tier_category": "scaffolding",
+      "lifecycle_stage": "dormant",
+      "total_lessons": 3,
+      "lesson_distribution": {
+        "9": 1,
+        "24": 1,
+        "29": 1
+      }
+    },
+    {
+      "utterance_text": "Où est la rue Saint-Jacques?",
+      "vocabulary_words": [
+        "où",
+        "être",
+        "la",
+        "rue",
+        "Saint-Jacques"
+      ],
+      "multi_word_phrases": [
+        "rue Saint-Jacques"
+      ],
+      "grammatical_pattern": "[INTERROGATIVE] + [VERB] + [ARTICLE] + [NOUN]",
+      "tier_category": "spaced_repetition",
+      "lifecycle_stage": "consolidation",
+      "total_lessons": 3,
+      "lesson_distribution": {
+        "4": 5,
+        "5": 1,
+        "6": 2
+      }
+    },
+    {
+      "utterance_text": "Au revoir, Madame.",
+      "vocabulary_words": [
+        "au",
+        "revoir",
+        "madame"
+      ],
+      "multi_word_phrases": [
+        "Au revoir",
+        "Au revoir, Madame"
+      ],
+      "grammatical_pattern": "[POLITE PHRASE] + [TITLE/NAME]",
+      "tier_category": "core_conversational",
+      "lifecycle_stage": "consolidation",
+      "total_lessons": 3,
+      "lesson_distribution": {
+        "2": 2,
+        "3": 2,
+        "4": 2
+      }
+    },
+    {
+      "utterance_text": "Je comprends.",
+      "vocabulary_words": [
+        "je",
+        "comprendre"
+      ],
+      "multi_word_phrases": [],
+      "grammatical_pattern": "[PRONOUN] + [VERB]",
+      "tier_category": "scaffolding",
+      "lifecycle_stage": "consolidation",
+      "total_lessons": 3,
+      "lesson_distribution": {
+        "1": 6,
+        "2": 2,
+        "3": 1
+      }
+    },
+    {
+      "utterance_text": "Je n'ai pas de dollars.",
+      "vocabulary_words": [
+        "je",
+        "avoir",
+        "pas",
+        "de",
+        "dollar"
+      ],
+      "multi_word_phrases": [
+        "n'ai pas"
+      ],
+      "grammatical_pattern": "[SUBJECT] + [NEGATION] + [VERB] + [ARTICLE] + [NOUN]",
+      "tier_category": "scaffolding",
+      "lifecycle_stage": "consolidation",
+      "total_lessons": 3,
+      "lesson_distribution": {
+        "14": 3,
+        "15": 3,
+        "16": 3
+      }
+    },
+    {
+      "utterance_text": "Je n'ai pas de francs.",
+      "vocabulary_words": [
+        "je",
+        "avoir",
+        "pas",
+        "de",
+        "franc"
+      ],
+      "multi_word_phrases": [
+        "n'avoir pas de"
+      ],
+      "grammatical_pattern": "[SUBJECT] + ne + [VERB] + pas + de + [OBJECT]",
+      "tier_category": "scaffolding",
+      "lifecycle_stage": "consolidation",
+      "total_lessons": 3,
+      "lesson_distribution": {
+        "13": 3,
+        "14": 4,
+        "16": 2
+      }
+    },
+    {
+      "utterance_text": "Où est le boulevard Saint-Michel?",
+      "vocabulary_words": [
+        "où",
+        "être",
+        "le",
+        "boulevard",
+        "Saint-Michel"
+      ],
+      "multi_word_phrases": [
+        "boulevard Saint-Michel"
+      ],
+      "grammatical_pattern": "[INTERROGATIVE] + [VERB] + [ARTICLE] + [NOUN]",
+      "tier_category": "spaced_repetition",
+      "lifecycle_stage": "dormant",
+      "total_lessons": 3,
+      "lesson_distribution": {
+        "4": 4,
+        "5": 3,
+        "14": 1
+      }
+    },
+    {
+      "utterance_text": "Où est-ce que vous voudriez manger?",
+      "vocabulary_words": [
+        "où",
+        "être",
+        "vous",
+        "vouloir",
+        "manger"
+      ],
+      "multi_word_phrases": [
+        "est-ce que",
+        "voudriez manger"
+      ],
+      "grammatical_pattern": "Est-ce que + [SUBJECT] + [VERB]",
+      "tier_category": "scaffolding",
+      "lifecycle_stage": "intensive_practice",
+      "total_lessons": 3,
+      "lesson_distribution": {
+        "6": 11,
+        "7": 12,
+        "10": 2
+      }
+    },
+    {
+      "utterance_text": "Vite.",
+      "vocabulary_words": [
+        "vite"
+      ],
+      "multi_word_phrases": [],
+      "grammatical_pattern": "Single word utterance",
+      "tier_category": "scaffolding",
+      "lifecycle_stage": "consolidation",
+      "total_lessons": 3,
+      "lesson_distribution": {
+        "17": 2,
+        "18": 1,
+        "19": 1
+      }
+    },
+    {
+      "utterance_text": "Voilà.",
+      "vocabulary_words": [
+        "voilà"
+      ],
+      "multi_word_phrases": [],
+      "grammatical_pattern": "N/A",
+      "tier_category": "scaffolding",
+      "lifecycle_stage": "consolidation",
+      "total_lessons": 3,
+      "lesson_distribution": {
+        "13": 1,
+        "14": 4,
+        "16": 2
+      }
+    },
+    {
+      "utterance_text": "Au restaurant.",
+      "vocabulary_words": [
+        "le",
+        "restaurant"
+      ],
+      "multi_word_phrases": [
+        "au restaurant"
+      ],
+      "grammatical_pattern": "à + le = au [MASCULINE SINGULAR NOUN]",
+      "tier_category": "scaffolding",
+      "lifecycle_stage": "consolidation",
+      "total_lessons": 3,
+      "lesson_distribution": {
+        "7": 8,
+        "8": 2,
+        "9": 2
+      }
+    },
+    {
+      "utterance_text": "Je ne crois pas.",
+      "vocabulary_words": [
+        "je",
+        "ne",
+        "croire",
+        "pas"
+      ],
+      "multi_word_phrases": [
+        "ne... pas",
+        "je ne crois pas"
+      ],
+      "grammatical_pattern": "[SUBJECT] + ne + [VERB] + pas",
+      "tier_category": "scaffolding",
+      "lifecycle_stage": "consolidation",
+      "total_lessons": 3,
+      "lesson_distribution": {
+        "26": 4,
+        "27": 3,
+        "28": 2
+      }
+    },
+    {
+      "utterance_text": "Je ne sais pas, moi.",
+      "vocabulary_words": [
+        "je",
+        "savoir",
+        "pas",
+        "moi"
+      ],
+      "multi_word_phrases": [
+        "je ne sais pas",
+        "moi"
+      ],
+      "grammatical_pattern": "Je ne [VERB] pas, [PRONOUN]",
+      "tier_category": "core_conversational",
+      "lifecycle_stage": "dormant",
+      "total_lessons": 3,
+      "lesson_distribution": {
+        "5": 2,
+        "10": 2,
+        "16": 2
+      }
+    },
+    {
+      "utterance_text": "Attendez.",
+      "vocabulary_words": [
+        "attendre"
+      ],
+      "multi_word_phrases": [],
+      "grammatical_pattern": "[IMPERATIVE VERB]",
+      "tier_category": "scaffolding",
+      "lifecycle_stage": "active",
+      "total_lessons": 3,
+      "lesson_distribution": {
+        "23": 7,
+        "24": 4,
+        "27": 1
+      }
+    },
+    {
+      "utterance_text": "Alors.",
+      "vocabulary_words": [
+        "alors"
+      ],
+      "multi_word_phrases": [],
+      "grammatical_pattern": "N/A",
+      "tier_category": "core_conversational",
+      "lifecycle_stage": "dormant",
+      "total_lessons": 3,
+      "lesson_distribution": {
+        "11": 2,
+        "13": 2,
+        "27": 1
+      }
+    },
+    {
+      "utterance_text": "Vous êtes américain.",
+      "vocabulary_words": [
+        "vous",
+        "être",
+        "américain"
+      ],
+      "multi_word_phrases": [
+        "Vous êtes"
+      ],
+      "grammatical_pattern": "[PRONOUN] + [VERB] + [ADJECTIVE]",
+      "tier_category": "scaffolding",
+      "lifecycle_stage": "consolidation",
+      "total_lessons": 3,
+      "lesson_distribution": {
+        "1": 2,
+        "2": 2,
+        "3": 1
+      }
+    },
+    {
+      "utterance_text": "Vous êtes.",
+      "vocabulary_words": [
+        "vous",
+        "être"
+      ],
+      "multi_word_phrases": [
+        "Vous êtes"
+      ],
+      "grammatical_pattern": "[SUBJECT] + [VERB]",
+      "tier_category": "scaffolding",
+      "lifecycle_stage": "consolidation",
+      "total_lessons": 3,
+      "lesson_distribution": {
+        "1": 4,
+        "2": 1,
+        "3": 4
+      }
+    },
+    {
+      "utterance_text": "Ah oui, je sais.",
+      "vocabulary_words": [
+        "ah",
+        "oui",
+        "je",
+        "savoir"
+      ],
+      "multi_word_phrases": [
+        "ah oui"
+      ],
+      "grammatical_pattern": "[INTERJECTION] [PRONOUN] [VERB]",
+      "tier_category": "scaffolding",
+      "lifecycle_stage": "reactivation",
+      "total_lessons": 3,
+      "lesson_distribution": {
+        "5": 3,
+        "9": 2,
+        "11": 1
+      }
+    },
+    {
+      "utterance_text": "Parce que.",
+      "vocabulary_words": [
+        "parce",
+        "que"
+      ],
+      "multi_word_phrases": [
+        "parce que"
+      ],
+      "grammatical_pattern": "[SUBORDINATING CONJUNCTION] + [SUBJECT] + [VERB]",
+      "tier_category": "scaffolding",
+      "lifecycle_stage": "consolidation",
+      "total_lessons": 3,
+      "lesson_distribution": {
+        "25": 8,
+        "27": 2,
+        "28": 1
+      }
+    },
+    {
+      "utterance_text": "Je veux.",
+      "vocabulary_words": [
+        "je",
+        "vouloir"
+      ],
+      "multi_word_phrases": [],
+      "grammatical_pattern": "[SUBJECT] + [VERB]",
+      "tier_category": "scaffolding",
+      "lifecycle_stage": "active",
+      "total_lessons": 3,
+      "lesson_distribution": {
+        "5": 5,
+        "8": 1,
+        "9": 1
+      }
+    },
+    {
+      "utterance_text": "Oui, Monsieur.",
+      "vocabulary_words": [
+        "oui",
+        "monsieur"
+      ],
+      "multi_word_phrases": [
+        "Oui, Monsieur"
+      ],
+      "grammatical_pattern": "Affirmative response + [formal address]",
+      "tier_category": "core_conversational",
+      "lifecycle_stage": "active",
+      "total_lessons": 3,
+      "lesson_distribution": {
+        "3": 1,
+        "5": 1,
+        "7": 1
+      }
+    },
+    {
+      "utterance_text": "Vous allez.",
+      "vocabulary_words": [
+        "vous",
+        "aller"
+      ],
+      "multi_word_phrases": [
+        "vous allez"
+      ],
+      "grammatical_pattern": "[PRONOUN] [VERB]",
+      "tier_category": "scaffolding",
+      "lifecycle_stage": "dormant",
+      "total_lessons": 3,
+      "lesson_distribution": {
+        "2": 4,
+        "3": 1,
+        "10": 2
+      }
+    },
+    {
+      "utterance_text": "Oui, Mademoiselle.",
+      "vocabulary_words": [
+        "oui",
+        "mademoiselle"
+      ],
+      "multi_word_phrases": [
+        "Oui, Mademoiselle"
+      ],
+      "grammatical_pattern": "Affirmative response + honorific",
+      "tier_category": "scaffolding",
+      "lifecycle_stage": "consolidation",
+      "total_lessons": 3,
+      "lesson_distribution": {
+        "1": 8,
+        "2": 3,
+        "4": 1
+      }
+    },
+    {
+      "utterance_text": "Vous comprenez.",
+      "vocabulary_words": [
+        "vous",
+        "comprendre"
+      ],
+      "multi_word_phrases": [],
+      "grammatical_pattern": "[PRONOUN] + [VERB]",
+      "tier_category": "scaffolding",
+      "lifecycle_stage": "consolidation",
+      "total_lessons": 3,
+      "lesson_distribution": {
+        "1": 7,
+        "2": 1,
+        "4": 3
+      }
+    },
+    {
+      "utterance_text": "La rue Saint-Jacques.",
+      "vocabulary_words": [
+        "la",
+        "rue",
+        "Saint-Jacques"
+      ],
+      "multi_word_phrases": [
+        "La rue Saint-Jacques"
+      ],
+      "grammatical_pattern": "Definite article + noun + proper noun",
+      "tier_category": "contextual_building",
+      "lifecycle_stage": "consolidation",
+      "total_lessons": 3,
+      "lesson_distribution": {
+        "4": 3,
+        "5": 3,
+        "6": 1
+      }
+    },
+    {
+      "utterance_text": "Le français.",
+      "vocabulary_words": [
+        "le",
+        "français"
+      ],
+      "multi_word_phrases": [
+        "Le français"
+      ],
+      "grammatical_pattern": "Definite article + noun",
+      "tier_category": "scaffolding",
+      "lifecycle_stage": "consolidation",
+      "total_lessons": 3,
+      "lesson_distribution": {
+        "1": 4,
+        "2": 2,
+        "3": 2
+      }
+    },
+    {
+      "utterance_text": "Plus.",
+      "vocabulary_words": [
+        "plus"
+      ],
+      "multi_word_phrases": [],
+      "grammatical_pattern": "Single word utterance",
+      "tier_category": "scaffolding",
+      "lifecycle_stage": "reactivation",
+      "total_lessons": 3,
+      "lesson_distribution": {
+        "6": 2,
+        "8": 2,
+        "11": 1
+      }
+    },
+    {
+      "utterance_text": "Mademoiselle.",
+      "vocabulary_words": [
+        "mademoiselle"
+      ],
+      "multi_word_phrases": [],
+      "grammatical_pattern": "Isolated vocabulary word",
+      "tier_category": "scaffolding",
+      "lifecycle_stage": "reactivation",
+      "total_lessons": 3,
+      "lesson_distribution": {
+        "1": 2,
+        "2": 4,
+        "7": 2
+      }
+    },
+    {
+      "utterance_text": "Qu'est-ce que vous voudriez achèter?",
+      "vocabulary_words": [
+        "quoi",
+        "être",
+        "vous",
+        "vouloir",
+        "acheter"
+      ],
+      "multi_word_phrases": [
+        "Qu'est-ce que"
+      ],
+      "grammatical_pattern": "Qu'est-ce que + [SUBJECT] + [VERB]",
+      "tier_category": "scaffolding",
+      "lifecycle_stage": "dormant",
+      "total_lessons": 3,
+      "lesson_distribution": {
+        "8": 4,
+        "9": 2,
+        "25": 2
+      }
+    },
+    {
+      "utterance_text": "Peut-être.",
+      "vocabulary_words": [
+        "peut-être"
+      ],
+      "multi_word_phrases": [],
+      "grammatical_pattern": "Single word phrase",
+      "tier_category": "core_conversational",
+      "lifecycle_stage": "consolidation",
+      "total_lessons": 3,
+      "lesson_distribution": {
+        "26": 9,
+        "27": 2,
+        "28": 2
+      }
+    },
+    {
+      "utterance_text": "Maintenant.",
+      "vocabulary_words": [
+        "maintenant"
+      ],
+      "multi_word_phrases": [],
+      "grammatical_pattern": "Single word utterance",
+      "tier_category": "scaffolding",
+      "lifecycle_stage": "consolidation",
+      "total_lessons": 3,
+      "lesson_distribution": {
+        "6": 5,
+        "7": 2,
+        "8": 2
+      }
+    },
+    {
+      "utterance_text": "Pas maintenant.",
+      "vocabulary_words": [
+        "pas",
+        "maintenant"
+      ],
+      "multi_word_phrases": [
+        "pas maintenant"
+      ],
+      "grammatical_pattern": "[NEGATION] + [ADVERB]",
+      "tier_category": "core_conversational",
+      "lifecycle_stage": "consolidation",
+      "total_lessons": 3,
+      "lesson_distribution": {
+        "6": 6,
+        "7": 2,
+        "9": 1
+      }
+    },
+    {
+      "utterance_text": "Mais.",
+      "vocabulary_words": [
+        "mais"
+      ],
+      "multi_word_phrases": [],
+      "grammatical_pattern": "Single word utterance",
+      "tier_category": "scaffolding",
+      "lifecycle_stage": "consolidation",
+      "total_lessons": 3,
+      "lesson_distribution": {
+        "3": 4,
+        "4": 1,
+        "5": 1
+      }
+    },
+    {
+      "utterance_text": "Quelle est la route de Paris?",
+      "vocabulary_words": [
+        "quelle",
+        "être",
+        "la",
+        "route",
+        "de",
+        "Paris"
+      ],
+      "multi_word_phrases": [
+        "Quelle est",
+        "la route de"
+      ],
+      "grammatical_pattern": "Interrogative adjective + être + definite article + noun + de + proper noun",
+      "tier_category": "spaced_repetition",
+      "lifecycle_stage": "consolidation",
+      "total_lessons": 3,
+      "lesson_distribution": {
+        "23": 1,
+        "24": 3,
+        "25": 2
+      }
+    },
+    {
+      "utterance_text": "Quelle heure est-il maintenant?",
+      "vocabulary_words": [
+        "quelle",
+        "heure",
+        "être",
+        "maintenant"
+      ],
+      "multi_word_phrases": [
+        "quelle heure",
+        "est-il"
+      ],
+      "grammatical_pattern": "Interrogative phrase with inversion: 'Quelle heure est-il [time adverbial]?'",
+      "tier_category": "scaffolding",
+      "lifecycle_stage": "consolidation",
+      "total_lessons": 3,
+      "lesson_distribution": {
+        "10": 1,
+        "11": 4,
+        "12": 2
+      }
+    },
+    {
+      "utterance_text": "Merci, Madame.",
+      "vocabulary_words": [
+        "merci",
+        "madame"
+      ],
+      "multi_word_phrases": [
+        "Merci, Madame"
+      ],
+      "grammatical_pattern": "Isolated polite phrase",
+      "tier_category": "core_conversational",
+      "lifecycle_stage": "dormant",
+      "total_lessons": 3,
+      "lesson_distribution": {
+        "3": 2,
+        "14": 1,
+        "23": 1
+      }
+    },
+    {
+      "utterance_text": "Quelque chose.",
+      "vocabulary_words": [
+        "quelque",
+        "chose"
+      ],
+      "multi_word_phrases": [
+        "quelque chose"
+      ],
+      "grammatical_pattern": "Indefinite pronoun phrase: [INDEFINITE PRONOUN]",
+      "tier_category": "scaffolding",
+      "lifecycle_stage": "consolidation",
+      "total_lessons": 3,
+      "lesson_distribution": {
+        "5": 4,
+        "6": 2,
+        "7": 3
+      }
+    },
+    {
+      "utterance_text": "Merci, Mademoiselle.",
+      "vocabulary_words": [
+        "merci",
+        "mademoiselle"
+      ],
+      "multi_word_phrases": [
+        "Merci, Mademoiselle"
+      ],
+      "grammatical_pattern": "Interjection + Vocative",
+      "tier_category": "core_conversational",
+      "lifecycle_stage": "dormant",
+      "total_lessons": 3,
+      "lesson_distribution": {
+        "2": 2,
+        "3": 1,
+        "15": 1
+      }
+    },
+    {
+      "utterance_text": "Pas maintenant, plus tard.",
+      "vocabulary_words": [
+        "ne...pas",
+        "maintenant",
+        "plus",
+        "tard"
+      ],
+      "multi_word_phrases": [
+        "pas maintenant",
+        "plus tard"
+      ],
+      "grammatical_pattern": "[NEGATION] [ADVERB], [ADVERB PHRASE]",
+      "tier_category": "core_conversational",
+      "lifecycle_stage": "active",
+      "total_lessons": 3,
+      "lesson_distribution": {
+        "6": 1,
+        "7": 2,
+        "10": 1
+      }
+    },
+    {
+      "utterance_text": "Rien.",
+      "vocabulary_words": [
+        "rien"
+      ],
+      "multi_word_phrases": [],
+      "grammatical_pattern": "Single word response",
+      "tier_category": "scaffolding",
+      "lifecycle_stage": "consolidation",
+      "total_lessons": 3,
+      "lesson_distribution": {
+        "27": 10,
+        "28": 2,
+        "29": 2
+      }
+    },
+    {
+      "utterance_text": "Rue Saint-Jacques.",
+      "vocabulary_words": [
+        "rue",
+        "saint",
+        "jacques"
+      ],
+      "multi_word_phrases": [
+        "Rue Saint-Jacques"
+      ],
+      "grammatical_pattern": "Noun Phrase (Street Name)",
+      "tier_category": "spaced_repetition",
+      "lifecycle_stage": "dormant",
+      "total_lessons": 3,
+      "lesson_distribution": {
+        "7": 4,
+        "19": 2,
+        "30": 2
+      }
+    },
+    {
+      "utterance_text": "Vous voudriez.",
+      "vocabulary_words": [
+        "vous",
+        "vouloir"
+      ],
+      "multi_word_phrases": [
+        "vous voudriez"
+      ],
+      "grammatical_pattern": "[SUBJECT] + [VERB] (conditional tense)",
+      "tier_category": "scaffolding",
+      "lifecycle_stage": "dormant",
+      "total_lessons": 3,
+      "lesson_distribution": {
+        "5": 4,
+        "6": 2,
+        "20": 2
+      }
+    },
+    {
+      "utterance_text": "Seize.",
+      "vocabulary_words": [
+        "seize"
+      ],
+      "multi_word_phrases": [],
+      "grammatical_pattern": "Single word utterance",
+      "tier_category": "spaced_repetition",
+      "lifecycle_stage": "consolidation",
+      "total_lessons": 3,
+      "lesson_distribution": {
+        "13": 2,
+        "14": 2,
+        "15": 1
+      }
+    },
+    {
+      "utterance_text": "Seul.",
+      "vocabulary_words": [
+        "seul"
+      ],
+      "multi_word_phrases": [],
+      "grammatical_pattern": "Single adjective",
+      "tier_category": "spaced_repetition",
+      "lifecycle_stage": "consolidation",
+      "total_lessons": 3,
+      "lesson_distribution": {
+        "27": 3,
+        "28": 1,
+        "29": 1
+      }
+    },
+    {
+      "utterance_text": "Six.",
+      "vocabulary_words": [
+        "six"
+      ],
+      "multi_word_phrases": [],
+      "grammatical_pattern": "Single word utterance",
+      "tier_category": "scaffolding",
+      "lifecycle_stage": "active",
+      "total_lessons": 3,
+      "lesson_distribution": {
+        "11": 2,
+        "12": 2,
+        "15": 1
+      }
+    },
+    {
+      "utterance_text": "Soixante-et-un.",
+      "vocabulary_words": [
+        "soixante",
+        "un"
+      ],
+      "multi_word_phrases": [
+        "soixante-et-un"
+      ],
+      "grammatical_pattern": "[TENS]-et-[UNITS]",
+      "tier_category": "spaced_repetition",
+      "lifecycle_stage": "consolidation",
+      "total_lessons": 3,
+      "lesson_distribution": {
+        "17": 3,
+        "18": 2,
+        "19": 1
+      }
+    },
+    {
+      "utterance_text": "Soixante.",
+      "vocabulary_words": [
+        "soixante"
+      ],
+      "multi_word_phrases": [],
+      "grammatical_pattern": "N/A (Single word utterance)",
+      "tier_category": "spaced_repetition",
+      "lifecycle_stage": "consolidation",
+      "total_lessons": 3,
+      "lesson_distribution": {
+        "17": 4,
+        "18": 2,
+        "19": 1
+      }
+    }
+  ],
+  "grammatical_templates": {
+    "Subject Pronoun + Negation (ne ... pas) + Verb": [
+      "Je ne sais pas."
+    ],
+    "Single word interjection": [
+      "D'accord."
+    ],
+    "[SUBJECT] + ne + [VERB] + pas": [
+      "Je ne comprends pas.",
+      "Je ne veux pas.",
+      "Je ne crois pas."
+    ],
+    "Single word greeting": [
+      "Bonjour."
+    ],
+    "Interrogative phrase with inversion: [INTERROGATIVE] + [VERB] + [PRONOUN]": [
+      "Comment allez-vous?"
+    ],
+    "[ARTICLE] + [NOUN]": [
+      "Un peu.",
+      "Une heure.",
+      "De la bière."
+    ],
+    "[PRONOUN] [VERB] [PRONOUN] [INTERROGATIVE]": [
+      "Je vous dois combien?"
+    ],
+    "Interrogative word": [
+      "Quand?"
+    ],
+    "Single word utterance": [
+      "Huit.",
+      "Treize.",
+      "Deux.",
+      "Quinze.",
+      "Pardon.",
+      "Cinquante.",
+      "Douze.",
+      "Cinq.",
+      "Demain.",
+      "Dix.",
+      "Ensemble.",
+      "Vite.",
+      "Plus.",
+      "Maintenant.",
+      "Mais.",
+      "Seize.",
+      "Six."
+    ],
+    "[ADVERB] + [ADJECTIVE]": [
+      "Très bien."
+    ],
+    "Qu'est-ce que + [SUBJECT] + [VERB]": [
+      "Qu'est-ce que vous voudriez boire?",
+      "Qu'est-ce que vous voulez faire?",
+      "Qu'est-ce que vous voudriez achèter?"
+    ],
+    "Interrogative adverb": [
+      "Où?"
+    ],
+    "[SUBJECT] + [VERB] + [OBJECT]": [
+      "Je comprends un peu.",
+      "Je comprends un peu le français."
+    ],
+    "Interjection + Noun Phrase": [
+      "Bonjour, Mademoiselle."
+    ],
+    "[PRONOUN] + [VERB] + [ADVERB]": [
+      "C'est trop.",
+      "C'est là-bas.",
+      "Je vais bien.",
+      "Elles sont là-bas.",
+      "Nous sommes ici.",
+      "C'est ici.",
+      "C'est beaucoup."
+    ],
+    "Est-ce que + [PRONOUN] + [VERB] + [OBJECT]?": [
+      "Est-ce que vous comprenez l'anglais?"
+    ],
+    "Single word or short phrase response": [
+      "Non, merci."
+    ],
+    "[SUBJECT] + [VERB] + [ADVERB]": [
+      "Je veux bien.",
+      "Je comprends maintenant."
+    ],
+    "[AFFIRMATION] + [PRONOUN] + [VERB] + [ADVERB]": [
+      "Oui, je veux bien."
+    ],
+    "Greeting + [Title of Address]": [
+      "Bonjour, Monsieur."
+    ],
+    "Single phrase used as an adverbial expression of time": [
+      "Plus tard."
+    ],
+    "[SUBJECT] + [VERB in conditional] + [INFINITIVE VERB] + [DIRECT OBJECT]": [
+      "Je voudrais boire quelque chose."
+    ],
+    "Est-ce que + [SUBJECT] + [VERB] + [INFINITIVE VERB] + [OBJECT]": [
+      "Est-ce que vous voudriez boire quelque chose?"
+    ],
+    "[SUBJECT] + [VERB] in conditional tense": [
+      "Je voudrais."
+    ],
+    "Est-ce que + [PRONOUN] + [VERB] + [ADJECTIVE/NOUN]": [
+      "Est-ce que vous êtes américain?"
+    ],
+    "Est-ce que + [SUBJECT] + [VERB] + [OBJECT]": [
+      "Est-ce que vous comprenez le français?"
+    ],
+    "Interrogative phrase with 'quelle' as interrogative adjective": [
+      "À quelle heure?"
+    ],
+    "[ADVERB] [ADJECTIVE], [INTERJECTION]": [
+      "Très bien, merci."
+    ],
+    "Isolated phrase (no verb conjugation or complex structure)": [
+      "Non, Monsieur."
+    ],
+    "[SUBJECT] + [VERB] (Conditionnel Présent)": [
+      "Voudrais."
+    ],
+    "Single-word interjection": [
+      "Vraiment?"
+    ],
+    "Interjection + [Noun of Address]": [
+      "Pardon, Madame."
+    ],
+    "[PREPOSITION] + [NUMBER] + [NOUN]": [
+      "À huit heures."
+    ],
+    "[PHRASE] + [VOCATIVE]": [
+      "Au revoir, Monsieur."
+    ],
+    "Single phrase used as a farewell": [
+      "Au revoir."
+    ],
+    "[GREETING] + [TITLE/NAME]": [
+      "Bonjour, Madame."
+    ],
+    "[NEGATION] + [ADVERB] + [ADJECTIVE]": [
+      "Pas très bien."
+    ],
+    "Interrogative word used to ask for a reason or explanation": [
+      "Pourquoi?"
+    ],
+    "N/A": [
+      "Quatorze.",
+      "Voilà.",
+      "Alors."
+    ],
+    "Interrogative phrase with inversion: [Question word] + [Verb] + - + [Pronoun]": [
+      "Quelle heure est-il?"
+    ],
+    "[DETERMINER] + [NOUN]": [
+      "Quelques jours."
+    ],
+    "Fixed phrase (no internal grammatical variation)": [
+      "S'il vous plaît."
+    ],
+    "None": [
+      "Une."
+    ],
+    "Single word phrase used as a greeting or response": [
+      "Enchanté."
+    ],
+    "Conjunction + Pronoun": [
+      "Et vous?"
+    ],
+    "[SUBJECT] + [VERB] + [DIRECT OBJECT]": [
+      "Je comprends le français."
+    ],
+    "[SUBJECT] + ne + [PRONOUN] + [VERB] + pas": [
+      "Je n'en ai pas."
+    ],
+    "[SUBJECT] + ne + [VERB] + pas + [OBJECT]": [
+      "Je ne comprends pas l'anglais.",
+      "Je ne comprends pas le français."
+    ],
+    "[PRONOUN] + [VERB] + [ADJECTIVE]": [
+      "Je suis américain.",
+      "Je suis américaine.",
+      "Vous êtes américain."
+    ],
+    "[SUBJECT] + [VERB]": [
+      "Je peux.",
+      "Vous êtes.",
+      "Je veux."
+    ],
+    "[SUBJECT] + [VERB (conditionnel présent)] + [INFINITIVE VERB] + [DIRECT OBJECT]": [
+      "Je voudrais manger quelque chose."
+    ],
+    "[PRONOUN] [ADVERB]": [
+      "Moi aussi."
+    ],
+    "[SUBJECT] + [VERB] + [ADVERBIAL PHRASE]": [
+      "Vous parlez trop vite."
+    ],
+    "[INTERROGATIVE] + de + [NOUN]": [
+      "Combien de temps?"
+    ],
+    "[QUESTION_WORD] de [NOUN]": [
+      "Combien de kilomètres?"
+    ],
+    "[QUESTION WORD] + [PREPOSITION] + [NOUN] + [VERB] + [PRONOUN]": [
+      "Combien d'argent avez-vous?"
+    ],
+    "[SUBJECT] + [VERB] + [ADVERB] + [ADVERB]": [
+      "Vous comprenez très bien."
+    ],
+    "[VERB]": [
+      "Veux."
+    ],
+    "[TIME_ADVERB] [TIME_NOUN]": [
+      "Demain soir."
+    ],
+    "Depuis + [interrogative phrase]": [
+      "Depuis combien de temps?"
+    ],
+    "Noun phrase with a partitive article": [
+      "Des francs."
+    ],
+    "[Demonstrative pronoun] + [Noun]": [
+      "Ce soir."
+    ],
+    "NUMBER": [
+      "Dix-sept."
+    ],
+    "[SUBJECT] + [VERB] + [QUANTITY PHRASE] + [OBJECT]": [
+      "Vous avez combien de francs?"
+    ],
+    "Partitive article: [du]": [
+      "Du."
+    ],
+    "[IMPERATIVE VERB]": [
+      "Entrez.",
+      "Attendez."
+    ],
+    "Est-ce que + [PRONOUN] + [VERB] + [ADVERB]": [
+      "Est-ce que c'est ici?"
+    ],
+    "Est-ce que + [SUBJECT] + [VERB] + [ADVERB]": [
+      "Est-ce que vous allez bien?"
+    ],
+    "Est-ce que + [SUBJECT] + [VERB] + [DIRECT OBJECT]": [
+      "Est-ce que vous avez de l'argent?"
+    ],
+    "Ce ne pas [PRONOUN] [LOCATION]": [
+      "Ce n'est pas ici."
+    ],
+    "[PRONOUN] + ne + [VERB] + pas + [ADVERB/ADJECTIVE]": [
+      "Ce n'est pas beaucoup."
+    ],
+    "Est-ce que + [SUBJECT] + [VERB]": [
+      "Est-ce que vous comprenez?",
+      "Où est-ce que vous voudriez manger?"
+    ],
+    "[PRONOUN] + [VERB]": [
+      "Ça suffit.",
+      "Nous voulons.",
+      "Je comprends.",
+      "Vous comprenez."
+    ],
+    "Est-ce que + [SUBJECT] + [VERB] + [INFINITIVE VERB] + [ADVERB]": [
+      "Est-ce que vous voudriez manger maintenant?"
+    ],
+    "Est-ce que + [SUBJECT] + [VERB] + [INFINITIVE] + [OBJECT]": [
+      "Est-ce que vous voudriez manger quelque chose?"
+    ],
+    "[CONJUNCTION] + [PRONOUN] + [VERB] + [ARTICLE] + [ADVERB]": [
+      "Et je parle un peu."
+    ],
+    "[CONJUNCTION] + [DEFINITE_ARTICLE] + [NOUN_PHRASE]": [
+      "Et le boulevard Saint-Michel?"
+    ],
+    "[Interrogative phrase] + [Quantity] + [Unit of measure]": [
+      "Il y a combien de kilomètres?"
+    ],
+    "[PRONOUN] + [PRONOMINAL ADVERB] + [VERB] + [ADVERB]": [
+      "J'en ai beaucoup."
+    ],
+    "[INTERROGATIVE] + [VERB] + [ARTICLE] + [NOUN] + [POLITE PHRASE]": [
+      "Où est la rue Saint-Jacques, s'il vous plaît?"
+    ],
+    "[INTERROGATIVE] + [VERB] + [ARTICLE] + [NOUN]": [
+      "Où est la rue Saint-Jacques?",
+      "Où est le boulevard Saint-Michel?"
+    ],
+    "[POLITE PHRASE] + [TITLE/NAME]": [
+      "Au revoir, Madame."
+    ],
+    "[SUBJECT] + [NEGATION] + [VERB] + [ARTICLE] + [NOUN]": [
+      "Je n'ai pas de dollars."
+    ],
+    "[SUBJECT] + ne + [VERB] + pas + de + [OBJECT]": [
+      "Je n'ai pas de francs."
+    ],
+    "à + le = au [MASCULINE SINGULAR NOUN]": [
+      "Au restaurant."
+    ],
+    "Je ne [VERB] pas, [PRONOUN]": [
+      "Je ne sais pas, moi."
+    ],
+    "[INTERJECTION] [PRONOUN] [VERB]": [
+      "Ah oui, je sais."
+    ],
+    "[SUBORDINATING CONJUNCTION] + [SUBJECT] + [VERB]": [
+      "Parce que."
+    ],
+    "Affirmative response + [formal address]": [
+      "Oui, Monsieur."
+    ],
+    "[PRONOUN] [VERB]": [
+      "Vous allez."
+    ],
+    "Affirmative response + honorific": [
+      "Oui, Mademoiselle."
+    ],
+    "Definite article + noun + proper noun": [
+      "La rue Saint-Jacques."
+    ],
+    "Definite article + noun": [
+      "Le français."
+    ],
+    "Isolated vocabulary word": [
+      "Mademoiselle."
+    ],
+    "Single word phrase": [
+      "Peut-être."
+    ],
+    "[NEGATION] + [ADVERB]": [
+      "Pas maintenant."
+    ],
+    "Interrogative adjective + être + definite article + noun + de + proper noun": [
+      "Quelle est la route de Paris?"
+    ],
+    "Interrogative phrase with inversion: 'Quelle heure est-il [time adverbial]?'": [
+      "Quelle heure est-il maintenant?"
+    ],
+    "Isolated polite phrase": [
+      "Merci, Madame."
+    ],
+    "Indefinite pronoun phrase: [INDEFINITE PRONOUN]": [
+      "Quelque chose."
+    ],
+    "Interjection + Vocative": [
+      "Merci, Mademoiselle."
+    ],
+    "[NEGATION] [ADVERB], [ADVERB PHRASE]": [
+      "Pas maintenant, plus tard."
+    ],
+    "Single word response": [
+      "Rien."
+    ],
+    "Noun Phrase (Street Name)": [
+      "Rue Saint-Jacques."
+    ],
+    "[SUBJECT] + [VERB] (conditional tense)": [
+      "Vous voudriez."
+    ],
+    "Single adjective": [
+      "Seul."
+    ],
+    "[TENS]-et-[UNITS]": [
+      "Soixante-et-un."
+    ],
+    "N/A (Single word utterance)": [
+      "Soixante."
+    ]
+  },
+  "tier_distribution": {
+    "scaffolding": 87,
+    "core_conversational": 41,
+    "spaced_repetition": 22,
+    "contextual_building": 1,
+    "unknown": 0
+  }
+}

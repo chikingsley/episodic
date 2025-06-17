@@ -1,0 +1,65 @@
+lesson_number,position_in_lesson,speaker,text,utterance_type,narrator_cue,core_lemmas
+1,1,Male Speaker,"Pardon, est-ce que vous comprenez l'anglais?",ConversationalExchange,,pardon comprendre anglais
+1,2,Female Speaker,"Non, Monsieur. Je ne comprends pas l'anglais.",ConversationalExchange,,non monsieur comprendre anglais
+1,3,Male Speaker,Je comprends un peu le français.,ConversationalExchange,,comprendre français
+1,4,Female Speaker,Est-ce que vous êtes américain?,ConversationalExchange,,être américain
+1,5,Male Speaker,"Oui, Mademoiselle.",SimpleResponse,,oui mademoiselle
+1,6,Male Speaker,Pardon.,SimpleResponse,,pardon
+1,7,Male Speaker,Don.,SimpleResponse,,don
+1,9,Male Speaker,Par.,DirectRepetition,,par
+1,14,Male Speaker,L'anglais.,DirectRepetition,,anglais
+1,17,Male Speaker,anglais.,DirectRepetition,,anglais
+1,27,Male Speaker,Comprenez.,DirectRepetition,Répétez après moi.,comprendre
+1,28,Male Speaker,Ne.,DirectRepetition,Répétez.,ne
+1,30,Male Speaker,Prenez.,DirectRepetition,Répétez s'il vous plaît.,prendre
+1,32,Male Speaker,Com.,DirectRepetition,Répétez.,comprendre
+1,37,Male Speaker,Vous comprenez.,PromptedRecall,The narrator likely asked the speaker to form a sentence or complete a phrase using 'Vous comprenez'.,vous comprendre
+1,38,Male Speaker,Vous.,PromptedRecall,The narrator likely asked the speaker to say 'Vous'.,vous
+1,45,Male Speaker,Vous comprenez l'anglais.,PromptedRecall,,vous comprendre anglais
+1,47,Male Speaker,Est-ce que.,PromptedRecall,,être ce que
+1,51,Male Speaker,Est-ce que vous comprenez?,DirectRepetition,Listen and repeat.,être ce que vous comprendre
+1,55,Male Speaker,Est-ce que vous comprenez l'anglais?,DirectRepetition,Listen and repeat.,être ce que vous comprendre anglais
+1,57,Female Speaker,Non.,SimpleResponse,,non
+1,60,Female Speaker,"Non, Monsieur.",SimpleResponse,,non monsieur
+1,61,Female Speaker,Sieur.,SimpleResponse,,sieur
+1,63,Female Speaker,Mon.,SimpleResponse,,mon
+1,65,Female Speaker,Monsieur.,DirectRepetition,,monsieur
+1,73,Male Speaker,Je.,DirectRepetition,,je
+1,76,Male Speaker,Comprends.,DirectRepetition,,comprendre
+1,77,Male Speaker,Prends.,DirectRepetition,,prendre
+1,83,Male Speaker,Je comprends.,DirectRepetition,Implicit instruction to repeat after the narrator,je comprendre
+1,86,Male Speaker,Je comprends l'anglais.,DirectRepetition,Implicit instruction to repeat after the narrator,je comprendre anglais
+1,88,Male Speaker,Je comprends. Vous comprenez.,DirectRepetition,Implicit instruction to repeat after the narrator,je comprendre vous comprendre
+1,100,Female Speaker,Je ne comprends pas.,DirectRepetition,,je ne comprendre pas
+1,101,Female Speaker,Pas.,SimpleResponse,,pas
+1,103,Female Speaker,Comprends pas.,PromptedRecall,,comprendre pas
+1,105,Female Speaker,Je ne.,PromptedRecall,Try saying 'I do not',je ne
+1,113,Female Speaker,Je ne comprends pas l'anglais.,DirectRepetition,Listen and repeat.,je ne comprendre pas l'anglais
+1,117,Female Speaker,"Non, je ne comprends pas.",SimpleResponse,Respond that you don't understand.,non je ne comprendre pas
+1,120,Male Speaker,Le français.,SimpleResponse,Say 'French' in French.,le français
+1,121,Male Speaker,français.,DirectRepetition,,français
+1,127,Male Speaker,Je comprends le français.,DirectRepetition,,je comprendre le français
+1,131,Male Speaker,Français.,SimpleResponse,Say 'French.',français
+1,132,Male Speaker,Prends le français.,DirectRepetition,Listen and repeat.,prendre le français
+1,134,Male Speaker,Comprends le français.,DirectRepetition,Listen and repeat.,comprendre le français
+1,139,Male Speaker,Je ne comprends pas le français.,DirectRepetition,Listen and repeat.,je ne comprendre pas le français
+1,141,Male Speaker,Vous comprenez le français?,DirectRepetition,Listen and repeat.,vous comprendre le français
+1,144,Male Speaker,Est-ce que vous comprenez le français?,DirectRepetition,Listen and repeat.,est-ce que vous comprendre le français
+1,146,Male Speaker,Un peu.,SimpleResponse,,un peu
+1,147,Male Speaker,Peu.,SimpleResponse,,peu
+1,152,Male Speaker,Je comprends un peu.,PromptedRecall,,je comprendre un peu
+1,158,Male Speaker,Un peu le français.,PromptedRecall,Say 'a little French'.,un peu le français
+1,162,Female Speaker,Américain.,DirectRepetition,Listen and repeat.,américain
+1,163,Female Speaker,Cain.,DirectRepetition,Listen and repeat.,Cain
+1,165,Female Speaker,Amer.,DirectRepetition,Listen and repeat.,amer
+1,170,Female Speaker,Vous êtes.,DirectRepetition,Listen and repeat.,vous être
+1,174,Female Speaker,Vous êtes américain.,DirectRepetition,Listen and repeat.,vous être américain
+1,183,Male Speaker,Oui.,SimpleResponse,,oui
+1,186,Male Speaker,Moiselle.,DirectRepetition,,mademoiselle
+1,188,Male Speaker,Mademoiselle.,DirectRepetition,,mademoiselle
+1,202,Female Speaker,"Non, Monsieur, je ne comprends pas l'anglais.",ConversationalExchange,,non monsieur comprendre anglais
+1,203,Male Speaker,Je comprends un peu le français,ConversationalExchange,,comprendre français
+1,212,Male Speaker,"Pardon, Mademoiselle?",SimpleResponse,,pardon mademoiselle
+1,224,Female Speaker,"Est-ce que vous comprenez le français, Monsieur?",ConversationalExchange,,être vous comprendre le français Monsieur
+1,230,Female Speaker,"Est-ce que vous comprenez l'anglais, Monsieur?",DirectRepetition,,comprendre vous l'anglais monsieur
+1,232,Male Speaker,"Oui, Mademoiselle. Je comprends l'anglais.",ConversationalExchange,,oui mademoiselle je comprendre l'anglais

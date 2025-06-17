@@ -1,0 +1,18 @@
+[project]
+name = "z-test"
+version = "0.1.0"
+description = ""
+authors = [
+    {name = "Chi",email = "cheez2012@gmail.com"}
+]
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "pyannote-audio (>=3.3.2,<4.0.0)",
+    "whisperkit @ git+https://github.com/argmaxinc/whisperkittools.git"
+]
+
+
+[build-system]
+requires = ["poetry-core>=2.0.0,<3.0.0"]
+build-backend = "poetry.core.masonry.api"

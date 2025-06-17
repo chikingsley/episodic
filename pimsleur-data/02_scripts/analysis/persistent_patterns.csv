@@ -1,0 +1,33 @@
+utterance_text,vocabulary_words,tier_category,lifecycle_stage,total_lessons,lesson_distribution,simple_structure,functional_category,template_pattern
+Est-ce que vous comprenez l'anglais?,être; comprendre; anglais; vous,scaffolding,consolidation,5,"L1:13, L2:5, L3:2, L4:1, L5:1",QUESTION_PHRASE + PRONOUN + VERB + OBJECT,question,Est-ce que [PRONOUN] [VERB] [OBJECT]
+Je comprends un peu.,comprendre; je; un; peu,scaffolding,consolidation,5,"L1:4, L2:1, L3:2, L4:1, L5:2",PRONOUN + VERB + ADVERBIAL PHRASE,response,[PRONOUN] [VERB] [ADVERBIAL PHRASE]
+Je comprends un peu le français.,comprendre; un; peu; français,scaffolding,intensive_practice,4,"L1:9, L2:13, L3:11, L4:4",PRONOUN + VERB + ARTICLE + ADJECTIVE + NOUN,response,[PRONOUN] [VERB] [ARTICLE] [ADJECTIVE] [NOUN]
+Est-ce que vous êtes américain?,être; vous; américain,scaffolding,intensive_practice,4,"L1:11, L2:10, L3:5, L4:3",QUESTION PHRASE + PRONOUN + VERB + ADJECTIVE,question,Est-ce que [PRONOUN] [VERB] [ADJECTIVE/NOUN]?
+Pardon.,pardon,core_conversational,consolidation,4,"L1:11, L2:1, L3:1, L5:1",INTERJECTION,politeness/apology,[INTERJECTION]
+"Non, Monsieur.",non; monsieur,core_conversational,consolidation,4,"L1:6, L2:3, L3:1, L4:2",NEGATION + VOCATIVE,"negation, politeness","[NEGATION], [VOCATIVE]"
+Je ne comprends pas.,je; ne; comprendre; pas,scaffolding,intensive_practice,4,"L1:9, L2:8, L3:3, L4:1",PRONOUN + NEGATION + VERB + NEGATION,negation,[PRONOUN] [NEGATION] [VERB] [NEGATION]
+Je ne comprends pas l'anglais.,je; ne; comprendre; pas; anglais,scaffolding,consolidation,4,"L1:7, L2:3, L3:4, L4:2",PRONOUN + NEGATION + VERB + OBJECT,negation,[PRONOUN] [NEGATION] [VERB] [OBJECT]
+Je comprends le français.,je; comprendre; le; français,scaffolding,intensive_practice,4,"L1:9, L2:10, L3:3, L4:1",PRONOUN + VERB + ARTICLE + NOUN,response,[PRONOUN] [VERB] [ARTICLE] [NOUN]
+Je ne comprends pas le français.,je; ne; comprendre; pas; le; français,scaffolding,consolidation,4,"L1:2, L2:4, L3:3, L4:1",PRONOUN + NEGATION + VERB + ARTICLE + NOUN,negation,[PRONOUN] [NEGATION] [VERB] [ARTICLE] [OBJECT]
+Est-ce que vous comprenez le français?,être; comprendre; français; vous,scaffolding,intensive_practice,4,"L1:12, L2:9, L3:3, L5:1",QUESTION_PHRASE + PRONOUN + VERB + OBJECT,question,Est-ce que [PRONOUN] [VERB] [OBJECT]
+Un peu.,un; peu,scaffolding,consolidation,4,"L1:8, L2:7, L3:2, L4:2",ARTICLE + NOUN,response,[ARTICLE] [NOUN]
+Bonjour.,bonjour,core_conversational,consolidation,4,"L2:4, L3:2, L4:5, L5:4",GREETING,greeting,[GREETING]
+"Bonjour, Mademoiselle.",bonjour; mademoiselle,core_conversational,consolidation,4,"L2:6, L3:1, L4:2, L5:1",GREETING + TITLE,"greeting, politeness","[GREETING], [TITLE]"
+"Bonjour, Monsieur.",bonjour; monsieur,core_conversational,consolidation,4,"L2:6, L3:1, L4:2, L5:1",GREETING + TITLE,"greeting, politeness","[GREETING], [TITLE]"
+Comment allez-vous?,comment; aller,core_conversational,intensive_practice,4,"L2:10, L3:4, L4:5, L5:4",INTERROGATIVE + PRONOUN + VERB,"greeting, question, politeness",[INTERROGATIVE] [PRONOUN] [VERB]
+"Très bien, merci.",très; bien; merci,core_conversational,consolidation,4,"L2:7, L3:2, L4:1, L5:1",ADVERB + ADJECTIVE + NOUN,"response, politeness","[ADVERB] [ADJECTIVE], [NOUN]"
+Au revoir.,au; revoir,core_conversational,consolidation,4,"L2:7, L3:2, L4:4, L5:3",PREPOSITION + VERB,greeting,[PREPOSITION] [VERB]
+"Oui, Mademoiselle.",oui; mademoiselle,core_conversational,consolidation,3,"L1:8, L2:3, L4:1",AFFIRMATION + TITLE,"response, politeness","[AFFIRMATION], [TITLE]"
+Vous comprenez.,vous; comprendre,scaffolding,consolidation,3,"L1:7, L2:1, L4:3",PRONOUN + VERB,question,[PRONOUN] [VERB]
+Je comprends.,je; comprendre,scaffolding,consolidation,3,"L1:6, L2:2, L3:1",PRONOUN + VERB,response,[PRONOUN] [VERB]
+Le français.,le; français,scaffolding,consolidation,3,"L1:4, L2:2, L3:2",ARTICLE + NOUN,response,[DEFINITE ARTICLE] [NOUN]
+Vous êtes.,vous; être,scaffolding,consolidation,3,"L1:4, L2:1, L3:4",PRONOUN + VERB,response,[PRONOUN] [VERB]
+Vous êtes américain.,vous; être; américain,scaffolding,consolidation,3,"L1:2, L2:2, L3:1",PRONOUN + VERB + ADJECTIVE,statement,[PRONOUN] [VERB] [ADJECTIVE]
+"Bonjour, Madame.",bonjour; madame,core_conversational,consolidation,3,"L2:5, L3:2, L5:1",GREETING + TITLE,"greeting, politeness","[GREETING], [TITLE]"
+Je vais bien.,je; aller; bien,scaffolding,consolidation,3,"L2:4, L3:3, L5:2",PRONOUN + VERB + ADVERB,response,[PRONOUN] [VERB] [ADVERB]
+"Au revoir, Madame.",au; revoir; madame,core_conversational,consolidation,3,"L2:2, L3:2, L4:2",PHRASE + TITLE,"greeting, politeness","[PHRASE], [TITLE]"
+"Au revoir, Monsieur.",au revoir; monsieur,core_conversational,consolidation,3,"L2:3, L3:1, L5:1",PHRASE + TITLE,"greeting, politeness","[PHRASE], [TITLE]."
+Pas très bien.,pas; très; bien,core_conversational,consolidation,3,"L2:5, L3:7, L4:2",NEGATION + ADVERB + ADJECTIVE,"negation, response",[NEGATION] [ADVERB] [ADJECTIVE]
+Et vous?,et; vous,core_conversational,consolidation,3,"L3:4, L4:1, L5:3",CONJUNCTION + PRONOUN,question,[CONJUNCTION] [PRONOUN]
+Mais.,mais,scaffolding,consolidation,3,"L3:4, L4:1, L5:1",CONJUNCTION,response,[CONJUNCTION]
+S'il vous plaît.,s'il; vous; plaît,core_conversational,consolidation,3,"L3:4, L4:2, L5:3",POLITENESS_MARKER,politeness,[POLITENESS_MARKER]
