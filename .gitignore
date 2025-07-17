@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+poetry.lock
+
+# macOS
+.DS_Store
+
+# Large model files
+*.mlmodelc
+*.bin
+*.nemo
+*.safetensors
+*.npz
+
+# WhisperKit models
+z-test/whisperkit-coreml/
