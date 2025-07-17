@@ -23,7 +23,10 @@
       "Bash(__NEW_LINE__ echo -e \"\\n📁 Analysis (Database-First):\")",
       "Bash(__NEW_LINE__ echo -e \"\\n📁 Archive (Preserved for Reference):\")",
       "Bash(__NEW_LINE__ echo -e \"\\n✅ Project Structure Cleaned Up!\")",
-      "Bash(rm:*)"
+      "Bash(rm:*)",
+      "WebFetch(domain:github.com)",
+      "WebFetch(domain:pypi.org)",
+      "WebFetch(domain:alive-progress.readthedocs.io)"
     ],
     "deny": []
   }

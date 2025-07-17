@@ -9,5 +9,17 @@
       "source.fixAll": "explicit"
     }
   },
-  "editor.formatOnSave": true
+  "editor.formatOnSave": true,
+  "cSpell.words": [
+    "américain",
+    "comprends",
+    "comprenez",
+    "êtes",
+    "français",
+    "l'anglais",
+    "Pimsleur's",
+    "vous",
+    "whisperkit",
+    "WRONLY"
+  ]
 }
