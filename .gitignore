@@ -5,6 +5,7 @@ __pycache__/
 .venv/
 venv/
 poetry.lock
+.mypy_cache/
 
 # macOS
 .DS_Store
@@ -15,6 +16,11 @@ poetry.lock
 *.nemo
 *.safetensors
 *.npz
+*.mp3
 
-# WhisperKit models
-z-test/whisperkit-coreml/
+# IDE
+.vscode/
+.cursor/
+
+# Test/scratch
+z-test/
