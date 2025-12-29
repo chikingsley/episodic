@@ -20,36 +20,20 @@ dependencies = [
     "alive-progress>=3.2.0,<4.0.0",
 ]
 
+[dependency-groups]
+dev = [
+    "ruff>=0.14.10",
+    "ty>=0.0.8",
+    "pytest>=9.0.2",
+    "pytest-cov>=7.0.0",
+]
+
 [build-system]
-requires = ["poetry-core>=2.0.0"]
-build-backend = "poetry.core.masonry.api"
+requires = ["hatchling"]
+build-backend = "hatchling.build"
 
-[tool.poetry]
-name = "pimsleur-analyzer"
-version = "0.1.0"
-description = "Analysis scripts for Pimsleur lesson transcripts."
-authors = ["Simon <simon@simonpeacocks.com>"]
-readme = "README.md"
-package-mode = false
-
-[tool.poetry.dependencies]
-python = ">=3.10,<3.14"
-spacy = "^3.8.7"
-spacy-langdetect = "^0.1.2"
-lingua-language-detector = "^2.1.1"
-mistralai = "^1.2.0"
-python-dotenv = "^1.0.1"
-groq = "^0.28.0"
-supabase = "^2.15.3"
-psycopg2-binary = "^2.9.10"
-alive-progress = "^3.2.0"
-unidecode = "^1.4.0"
-
-[tool.poetry.group.dev.dependencies]
-ruff = "^0.8.6"
-ty = "^0.0.1a6"
-pytest = "^8.3.4"
-pytest-cov = "^6.0.0"
+[tool.hatch.build.targets.wheel]
+packages = ["02_scripts"]
 
 # ============================================================================
 # Ruff Configuration
@@ -105,4 +89,3 @@ exclude_lines = [
     "pragma: no cover",
     "if __name__ == .__main__.:",
 ]
-
