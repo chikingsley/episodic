@@ -5,20 +5,19 @@ Focuses on utterances appearing in 3+ lessons as these are the core learning tar
 CSV Version: Works on CSV files from analysis directory instead of database.
 """
 
-import os
-import json
 import argparse
-import time
 import csv
+import json
+import os
 import pathlib
-from typing import Dict, List, Any
-from dataclasses import dataclass
+import time
 from collections import defaultdict
-from alive_progress import alive_bar
+from dataclasses import dataclass
+from typing import Any
 
+from alive_progress import alive_bar
 from dotenv import load_dotenv
-from mistralai.client import MistralClient
-from mistralai.models.chat_completion import ChatMessage
+from mistralai import Mistral
 
 load_dotenv()
 
@@ -26,16 +25,13 @@ load_dotenv()
 MODEL_CASCADE = [
     "mistral-medium-latest",
     "mistral-large-latest",
-    "magistral-medium-latest",
-    "magistral-medium-latest",
-    "magistral-small-latest",
     "mistral-small-latest",
 ]
 RETRY_DELAY = 5  # seconds
 
 
 # ----- Lesson Range Parsing ------------------------------------------------
-def parse_lesson_range(lessons_arg: List[str]) -> List[int]:
+def parse_lesson_range(lessons_arg: list[str]) -> list[int]:
     """Parse lesson arguments supporting ranges like 1-5 or individual numbers."""
     lesson_numbers = []
 
@@ -48,7 +44,7 @@ def parse_lesson_range(lessons_arg: List[str]) -> List[int]:
             # Handle individual number
             lesson_numbers.append(int(arg))
 
-    return sorted(list(set(lesson_numbers)))  # Remove duplicates and sort
+    return sorted(set(lesson_numbers))  # Remove duplicates and sort
 
 
 # ----- CSV Reading ---------------------------------------------------------
@@ -65,9 +61,7 @@ class UtteranceData:
     core_lemmas: str
 
 
-def read_lesson_csvs(
-    lesson_numbers: List[int], analysis_dir: pathlib.Path
-) -> List[UtteranceData]:
+def read_lesson_csvs(lesson_numbers: list[int], analysis_dir: pathlib.Path) -> list[UtteranceData]:
     """Read utterance data from CSV files for specified lessons."""
     all_utterances = []
 
@@ -78,7 +72,7 @@ def read_lesson_csvs(
             print(f"⚠️  CSV file not found: {csv_path}")
             continue
 
-        with open(csv_path, "r", encoding="utf-8") as f:
+        with open(csv_path, encoding="utf-8") as f:
             reader = csv.DictReader(f)
 
             for row in reader:
@@ -98,8 +92,8 @@ def read_lesson_csvs(
 
 
 def find_persistent_patterns(
-    utterances: List[UtteranceData], min_lessons: int = 3
-) -> Dict[str, Dict]:
+    utterances: list[UtteranceData], min_lessons: int = 3
+) -> dict[str, dict]:
     """Find utterances that appear in multiple lessons."""
 
     # Group utterances by text
@@ -138,15 +132,13 @@ class PedagogicalElement:
     """Represents a pedagogical element extracted from utterances."""
 
     utterance_text: str
-    vocabulary_words: List[str]
-    multi_word_phrases: List[str]
+    vocabulary_words: list[str]
+    multi_word_phrases: list[str]
     grammatical_pattern: str
-    tier_category: (
-        str  # scaffolding, core_conversational, spaced_repetition, contextual_building
-    )
+    tier_category: str  # scaffolding, core_conversational, spaced_repetition, contextual_building
     lifecycle_stage: str
     total_lessons: int
-    lesson_distribution: Dict[int, int]
+    lesson_distribution: dict[int, int]
     # Experimental pattern columns
     simple_structure: str = ""  # Simple: PRONOUN + VERB + ADVERB
     functional_category: str = ""  # greeting, question, response, etc.
@@ -157,17 +149,15 @@ class PedagogicalElement:
 MISTRAL_API_KEY = os.getenv("MISTRAL_API_KEY")
 if not MISTRAL_API_KEY:
     print("MISTRAL_API_KEY not found.")
-    print(
-        "Please create a .env file in the 'pimsleur-data' directory and add your key:"
-    )
+    print("Please create a .env file in the 'pimsleur-data' directory and add your key:")
     print('MISTRAL_API_KEY="your_mistral_api_key"')
     exit(1)
 
-MISTRAL_CLIENT = MistralClient(api_key=MISTRAL_API_KEY, timeout=60)
+MISTRAL_CLIENT = Mistral(api_key=MISTRAL_API_KEY)
 
 
 def calculate_lifecycle_stage(
-    lesson_counts: Dict[int, int], first_lesson: int, last_lesson: int
+    lesson_counts: dict[int, int], first_lesson: int, last_lesson: int
 ) -> str:
     """Determine the lifecycle stage based on usage pattern."""
     lessons_list = sorted(lesson_counts.keys())
@@ -205,9 +195,7 @@ def calculate_lifecycle_stage(
     return "active"
 
 
-def analyze_utterance_with_llm(
-    utterance: str, lesson_counts: Dict[int, int]
-) -> Dict[str, Any]:
+def analyze_utterance_with_llm(utterance: str, lesson_counts: dict[int, int]) -> dict[str, Any]:
     """Use Mistral to analyze a persistent utterance for pedagogical elements with model cascade."""
 
     system_prompt = "You are an expert in language pedagogy and French linguistics. Be consistent with formatting."
@@ -237,12 +225,12 @@ Respond in JSON format with these exact keys."""
     # Try model cascade
     for attempt, model_name in enumerate(MODEL_CASCADE):
         try:
-            response = MISTRAL_CLIENT.chat(
+            response = MISTRAL_CLIENT.chat.complete(
                 model=model_name,
                 response_format={"type": "json_object"},
                 messages=[
-                    ChatMessage(role="system", content=system_prompt),
-                    ChatMessage(role="user", content=user_prompt),
+                    {"role": "system", "content": system_prompt},
+                    {"role": "user", "content": user_prompt},
                 ],
                 temperature=0.0,
             )
@@ -257,9 +245,7 @@ Respond in JSON format with these exact keys."""
                 )
                 time.sleep(RETRY_DELAY)
             else:
-                print(
-                    f"\n❌ All models failed for utterance '{utterance[:50]}...': {str(e)[:100]}"
-                )
+                print(f"\n❌ All models failed for utterance '{utterance[:50]}...': {str(e)[:100]}")
 
     # Return fallback if all models fail
     return {
@@ -274,8 +260,8 @@ Respond in JSON format with these exact keys."""
 
 
 def extract_templates_from_patterns(
-    elements: List[PedagogicalElement],
-) -> Dict[str, List[PedagogicalElement]]:
+    elements: list[PedagogicalElement],
+) -> dict[str, list[PedagogicalElement]]:
     """Group elements by their grammatical patterns to identify templates."""
     templates = defaultdict(list)
 
@@ -290,7 +276,7 @@ def extract_templates_from_patterns(
 
 
 def analyze_persistent_patterns_csv(
-    lesson_numbers: List[int], min_lessons: int = 3, max_utterances: int = None
+    lesson_numbers: list[int], min_lessons: int = 3, max_utterances: int | None = None
 ):
     """Analyze persistent utterance patterns from CSV files."""
 
@@ -340,9 +326,7 @@ def analyze_persistent_patterns_csv(
             total_lessons = pattern_data["total_lessons"]
 
             # Calculate lifecycle stage
-            lifecycle_stage = calculate_lifecycle_stage(
-                lesson_counts, first_lesson, last_lesson
-            )
+            lifecycle_stage = calculate_lifecycle_stage(lesson_counts, first_lesson, last_lesson)
 
             # Analyze with LLM
             analysis = analyze_utterance_with_llm(text, lesson_counts)
@@ -368,17 +352,17 @@ def analyze_persistent_patterns_csv(
     return pedagogical_elements
 
 
-def generate_analysis_report(elements: List[PedagogicalElement]):
+def generate_analysis_report(elements: list[PedagogicalElement]):
     """Generate a comprehensive analysis report."""
 
     # Extract templates
     templates = extract_templates_from_patterns(elements)
 
     # Quick summary to terminal
-    print(f"\n📊 Analysis Summary:")
+    print("\n📊 Analysis Summary:")
     print(f"   Total patterns: {len(elements)}")
     print(f"   Template types: {len(templates)}")
-    
+
     # Vocabulary analysis
     all_vocab = set()
     multi_word_phrases = set()
@@ -394,13 +378,11 @@ def generate_analysis_report(elements: List[PedagogicalElement]):
     save_analysis_results(elements, templates)
 
 
-def export_to_csv(elements: List[PedagogicalElement]):
+def export_to_csv(elements: list[PedagogicalElement]):
     """Export analysis results to CSV."""
     import csv
 
-    output_dir = (
-        "/Volumes/simons-enjoyment/GitHub/episodic/pimsleur-data/02_scripts/analysis"
-    )
+    output_dir = "/Volumes/simons-enjoyment/GitHub/episodic/pimsleur-data/02_scripts/analysis"
     os.makedirs(output_dir, exist_ok=True)
 
     csv_file = os.path.join(output_dir, "persistent_patterns.csv")
@@ -432,9 +414,7 @@ def export_to_csv(elements: List[PedagogicalElement]):
         for elem in sorted_elements:
             # Order lesson distribution from low to high lesson numbers
             ordered_distribution = dict(sorted(elem.lesson_distribution.items()))
-            distribution_str = ", ".join(
-                [f"L{k}:{v}" for k, v in ordered_distribution.items()]
-            )
+            distribution_str = ", ".join([f"L{k}:{v}" for k, v in ordered_distribution.items()])
 
             writer.writerow(
                 [
@@ -455,7 +435,7 @@ def export_to_csv(elements: List[PedagogicalElement]):
 
 
 def save_analysis_results(
-    elements: List[PedagogicalElement], templates: Dict[str, List[PedagogicalElement]]
+    elements: list[PedagogicalElement], templates: dict[str, list[PedagogicalElement]]
 ):
     """Save analysis results to markdown report."""
 
@@ -464,9 +444,7 @@ def save_analysis_results(
         elem.lesson_distribution = dict(sorted(elem.lesson_distribution.items()))
 
     # Generate markdown report
-    output_dir = (
-        "/Volumes/simons-enjoyment/GitHub/episodic/pimsleur-data/02_scripts/analysis"
-    )
+    output_dir = "/Volumes/simons-enjoyment/GitHub/episodic/pimsleur-data/02_scripts/analysis"
     os.makedirs(output_dir, exist_ok=True)
 
     md_file = os.path.join(output_dir, "persistent_pattern_analysis.md")
@@ -499,9 +477,7 @@ def save_analysis_results(
 
         # Top templates
         f.write("## Top Grammatical Templates\n\n")
-        sorted_templates = sorted(
-            templates.items(), key=lambda x: len(x[1]), reverse=True
-        )[:15]
+        sorted_templates = sorted(templates.items(), key=lambda x: len(x[1]), reverse=True)[:15]
         for template, examples in sorted_templates:
             f.write(f"### {template} ({len(examples)} instances)\n\n")
             for ex in examples:
@@ -511,7 +487,7 @@ def save_analysis_results(
         # Vocabulary analysis
         all_vocab = set()
         multi_word_phrases = set()
-        
+
         for element in elements:
             all_vocab.update(element.vocabulary_words)
             multi_word_phrases.update(element.multi_word_phrases)
@@ -526,14 +502,12 @@ def save_analysis_results(
             lifecycle_counts[elem.lifecycle_stage] += 1
 
         f.write("## Lifecycle Stage Distribution\n\n")
-        for stage, count in sorted(
-            lifecycle_counts.items(), key=lambda x: x[1], reverse=True
-        ):
+        for stage, count in sorted(lifecycle_counts.items(), key=lambda x: x[1], reverse=True):
             percentage = (count / len(elements)) * 100
             f.write(f"- **{stage}**: {count} ({percentage:.1f}%)\n")
 
     print(f"📄 Markdown report saved to: {md_file}")
-    print(f"💾 CSV data exported to: analysis/persistent_patterns.csv")
+    print("💾 CSV data exported to: analysis/persistent_patterns.csv")
 
 
 def main():

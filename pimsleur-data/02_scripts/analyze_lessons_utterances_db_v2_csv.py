@@ -4,23 +4,20 @@ Analyzes Pimsleur lesson transcripts with chunked batch processing and real-time
 V2: Robust, resumable extraction with state-of-the-art CLI visualization.
 """
 
-import os
+import csv
 import json
+import os
 import pathlib
+import re
 import sys
 import time
-import re
-from typing import List, Optional, TypedDict
-from dataclasses import dataclass, asdict
+from dataclasses import asdict, dataclass
+from typing import TypedDict
 
-from dotenv import load_dotenv
-from mistralai.client import MistralClient
-from mistralai.models.chat_completion import ChatMessage
 import spacy
-from alive_progress import alive_bar  # type: ignore
-
-import csv
-from dataclasses import asdict
+from alive_progress import alive_bar
+from dotenv import load_dotenv
+from mistralai import Mistral
 
 load_dotenv()
 
@@ -29,9 +26,6 @@ BATCH_SIZE = 8
 MODEL_CASCADE = [
     "mistral-medium-latest",
     "mistral-large-latest",
-    "magistral-medium-latest",
-    "magistral-medium-latest",
-    "magistral-small-latest",
     "mistral-small-latest",
 ]
 RETRY_DELAY = 5  # seconds
@@ -47,15 +41,11 @@ except OSError:
 MISTRAL_API_KEY = os.getenv("MISTRAL_API_KEY")
 if not MISTRAL_API_KEY:
     print("MISTRAL_API_KEY not found.")
-    print(
-        "Please create a .env file in the 'pimsleur-data' directory and add your key:"
-    )
+    print("Please create a .env file in the 'pimsleur-data' directory and add your key:")
     print('MISTRAL_API_KEY="your_mistral_api_key"')
     sys.exit(1)
 
-MISTRAL_CLIENT = MistralClient(
-    api_key=MISTRAL_API_KEY, timeout=60
-)  # Shorter timeout per batch
+MISTRAL_CLIENT = Mistral(api_key=MISTRAL_API_KEY)
 
 
 # ----- Data Structures -----------------------------------------------------
@@ -72,7 +62,7 @@ class UtteranceBatch:
     """Represents a batch of utterances to process."""
 
     batch_id: int
-    utterances: List[Utterance]
+    utterances: list[Utterance]
     start_position: int
     end_position: int
 
@@ -80,14 +70,14 @@ class UtteranceBatch:
 @dataclass
 class UtteranceRecord:
     """Represents a processed utterance record."""
-    
+
     lesson_number: int
     position_in_lesson: int
     speaker: str
     text: str
-    utterance_type: Optional[str]
-    narrator_cue: Optional[str]
-    core_lemmas: Optional[str]
+    utterance_type: str | None
+    narrator_cue: str | None
+    core_lemmas: str | None
 
 
 @dataclass
@@ -101,7 +91,7 @@ class ProcessingStatus:
     processed_utterances: int = 0
     failed_utterances: int = 0
     start_time: float = 0.0
-    current_batch: Optional[int] = None
+    current_batch: int | None = None
     current_model: str = ""
     last_utterance: str = ""
 
@@ -109,11 +99,11 @@ class ProcessingStatus:
 # ----- Transcript Parsing --------------------------------------------------
 def parse_transcript_to_batches(
     transcript: str, batch_size: int = BATCH_SIZE
-) -> List[UtteranceBatch]:
+) -> list[UtteranceBatch]:
     """Parse transcript into batches of utterances."""
-    utterances: List[Utterance] = []
+    utterances: list[Utterance] = []
     current_speaker = None
-    current_text: List[str] = []
+    current_text: list[str] = []
 
     lines = transcript.strip().split("\n")
     position = 0
@@ -168,7 +158,7 @@ def parse_transcript_to_batches(
             )
 
     # Create batches
-    batches: List[UtteranceBatch] = []
+    batches: list[UtteranceBatch] = []
     for i in range(0, len(utterances), batch_size):
         batch_utterances = utterances[i : i + batch_size]
         if batch_utterances:
@@ -186,7 +176,7 @@ def parse_transcript_to_batches(
 # ----- Batch Processing ----------------------------------------------------
 def process_batch_with_llm(
     batch: UtteranceBatch, lesson_number: int, model_name: str
-) -> List[UtteranceRecord]:
+) -> list[UtteranceRecord]:
     """Process a single batch of utterances with the LLM."""
 
     # Create a mini-transcript for this batch
@@ -217,12 +207,12 @@ Return a JSON object with key "analyzed_utterances" containing a list of utteran
     user_prompt = f"Analyze these utterances from positions {batch.start_position} to {batch.end_position}:\n\n{batch_text}"
 
     try:
-        response = MISTRAL_CLIENT.chat(
+        response = MISTRAL_CLIENT.chat.complete(
             model=model_name,
             response_format={"type": "json_object"},
             messages=[
-                ChatMessage(role="system", content=system_prompt),
-                ChatMessage(role="user", content=user_prompt),
+                {"role": "system", "content": system_prompt},
+                {"role": "user", "content": user_prompt},
             ],
             temperature=0.0,
         )
@@ -239,13 +229,9 @@ Return a JSON object with key "analyzed_utterances" containing a list of utteran
 
         # Convert to UtteranceRecord objects
         utterances = []
-        for idx, (item, original) in enumerate(
-            zip(analyzed_utterances, batch.utterances)
-        ):
+        for idx, (item, original) in enumerate(zip(analyzed_utterances, batch.utterances)):
             if not isinstance(item, dict):
-                print(
-                    f"\n⚠️  Item {idx} in batch {batch.batch_id} is not a dictionary. Skipping."
-                )
+                print(f"\n⚠️  Item {idx} in batch {batch.batch_id} is not a dictionary. Skipping.")
                 continue
 
             utterances.append(
@@ -268,20 +254,20 @@ Return a JSON object with key "analyzed_utterances" containing a list of utteran
 
 
 # ----- CSV Writer ----------------------------------------------------------
-def write_to_csv(utterances: List[UtteranceRecord], output_path: pathlib.Path):
+def write_to_csv(utterances: list[UtteranceRecord], output_path: pathlib.Path):
     """Write utterances to CSV file."""
-    with open(output_path, 'w', newline='', encoding='utf-8') as csvfile:
+    with open(output_path, "w", newline="", encoding="utf-8") as csvfile:
         fieldnames = [
-            'lesson_number',
-            'position_in_lesson',
-            'speaker',
-            'text',
-            'utterance_type',
-            'narrator_cue',
-            'core_lemmas'
+            "lesson_number",
+            "position_in_lesson",
+            "speaker",
+            "text",
+            "utterance_type",
+            "narrator_cue",
+            "core_lemmas",
         ]
         writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
-        
+
         writer.writeheader()
         for utterance in utterances:
             writer.writerow(asdict(utterance))
@@ -317,9 +303,7 @@ def process_lesson_chunked(file_path: pathlib.Path, output_dir: pathlib.Path) ->
     all_utterances = []
 
     print(f"\n📖 Processing {lesson_name}")
-    print(
-        f"📊 Total utterances: {status.total_utterances} in {status.total_batches} batches"
-    )
+    print(f"📊 Total utterances: {status.total_utterances} in {status.total_batches} batches")
 
     # Use alive_bar with optimized settings for smooth performance
     with alive_bar(
@@ -332,58 +316,52 @@ def process_lesson_chunked(file_path: pathlib.Path, output_dir: pathlib.Path) ->
         refresh_secs=0.05,  # Faster refresh for smoother animation
     ) as bar:
         for batch in batches:
-                status.current_batch = batch.batch_id
+            status.current_batch = batch.batch_id
 
-                # Try processing with model cascade
-                success = False
-                batch_utterances = []
+            # Try processing with model cascade
+            success = False
+            batch_utterances = []
 
-                for attempt, model_to_try in enumerate(MODEL_CASCADE):
-                    status.current_model = model_to_try
-                    # Only update text once per batch, not per model attempt
-                    if attempt == 0:
-                        bar.text = f"📦 Batch {batch.batch_id}/{status.total_batches} | ✅ {status.processed_utterances} | ❌ {status.failed_utterances}"
+            for attempt, model_to_try in enumerate(MODEL_CASCADE):
+                status.current_model = model_to_try
+                # Only update text once per batch, not per model attempt
+                if attempt == 0:
+                    bar.text = f"📦 Batch {batch.batch_id}/{status.total_batches} | ✅ {status.processed_utterances} | ❌ {status.failed_utterances}"
 
-                    # Process batch
-                    batch_utterances = process_batch_with_llm(
-                        batch, lesson_number, model_to_try
-                    )
+                # Process batch
+                batch_utterances = process_batch_with_llm(batch, lesson_number, model_to_try)
 
-                    if batch_utterances:
-                        success = True
-                        break  # Success, exit the model cascade loop
-                    else:
-                        if attempt < len(MODEL_CASCADE) - 1:
-                            next_model = MODEL_CASCADE[attempt + 1]
-                            print(
-                                f"\n🔁 Batch {batch.batch_id} failed with {model_to_try}. Retrying with {next_model}..."
-                            )
-                            time.sleep(RETRY_DELAY)
-                        else:
-                            print(
-                                f"\n❌ All models in cascade failed for batch {batch.batch_id}"
-                            )
-
-                # Handle results
-                if success and batch_utterances:
-                    # Add to our collection
-                    all_utterances.extend(batch_utterances)
-
-                    status.completed_batches += 1
-                    status.processed_utterances += len(batch_utterances)
-                    status.last_utterance = (
-                        batch_utterances[-1].text if batch_utterances else ""
-                    )
-
-                    # Simplified success text (less frequent updates)
-                    bar.text = f'✅ {status.processed_utterances}/{status.total_utterances} utterances'
+                if batch_utterances:
+                    success = True
+                    break  # Success, exit the model cascade loop
                 else:
-                    status.failed_batches += 1
-                    status.failed_utterances += len(batch.utterances)
-                    bar.text = f"❌ Failed: {status.failed_utterances} | ✅ Success: {status.processed_utterances}"
+                    if attempt < len(MODEL_CASCADE) - 1:
+                        next_model = MODEL_CASCADE[attempt + 1]
+                        print(
+                            f"\n🔁 Batch {batch.batch_id} failed with {model_to_try}. Retrying with {next_model}..."
+                        )
+                        time.sleep(RETRY_DELAY)
+                    else:
+                        print(f"\n❌ All models in cascade failed for batch {batch.batch_id}")
 
-                # Update progress bar
-                bar()
+            # Handle results
+            if success and batch_utterances:
+                # Add to our collection
+                all_utterances.extend(batch_utterances)
+
+                status.completed_batches += 1
+                status.processed_utterances += len(batch_utterances)
+                status.last_utterance = batch_utterances[-1].text if batch_utterances else ""
+
+                # Simplified success text (less frequent updates)
+                bar.text = f"✅ {status.processed_utterances}/{status.total_utterances} utterances"
+            else:
+                status.failed_batches += 1
+                status.failed_utterances += len(batch.utterances)
+                bar.text = f"❌ Failed: {status.failed_utterances} | ✅ Success: {status.processed_utterances}"
+
+            # Update progress bar
+            bar()
 
     # Write to CSV
     output_path = output_dir / f"lesson_{lesson_number:02d}_utterances.csv"
@@ -394,13 +372,9 @@ def process_lesson_chunked(file_path: pathlib.Path, output_dir: pathlib.Path) ->
 
     print(f"\n{'=' * 60}")
     print(f"✅ Completed: {lesson_name}")
-    print(
-        f"📊 Results: {status.processed_utterances}/{status.total_utterances} utterances"
-    )
+    print(f"📊 Results: {status.processed_utterances}/{status.total_utterances} utterances")
     print(f"⏱️  Time: {int(elapsed // 60)}m {int(elapsed % 60)}s")
-    print(
-        f"🎯 Success rate: {(status.processed_utterances / status.total_utterances * 100):.1f}%"
-    )
+    print(f"🎯 Success rate: {(status.processed_utterances / status.total_utterances * 100):.1f}%")
     if status.failed_batches > 0:
         print(f"⚠️  Failed batches: {status.failed_batches}/{status.total_batches}")
     print(f"💾 Saved to: {output_path}")
@@ -455,14 +429,12 @@ def main():
     project_root = pathlib.Path(__file__).parent.parent
     source_dir = project_root / "01_raw_data" / "transcripts"
     output_dir = project_root / "02_scripts" / args.output_dir
-    
+
     # Create output directory if it doesn't exist
     output_dir.mkdir(exist_ok=True)
 
     if args.model:
-        print(
-            "⚠️  Warning: The --model argument is ignored. Using the built-in MODEL_CASCADE."
-        )
+        print("⚠️  Warning: The --model argument is ignored. Using the built-in MODEL_CASCADE.")
 
     print("🚀 Pimsleur Utterance Extraction - CSV Output Version")
     print("=" * 60)
