@@ -1,0 +1,245 @@
+lesson_number,position_in_lesson,speaker,text,utterance_type,narrator_cue,core_lemmas
+7,1,Male Speaker,Mademoiselle.,ConversationalExchange,,mademoiselle
+7,2,Female Speaker,"Oui, Monsieur.",SimpleResponse,,oui monsieur
+7,3,Male Speaker,"Quand est-ce que vous voudriez manger, Mademoiselle? Maintenant?",ConversationalExchange,,quand être vous vouloir manger mademoiselle maintenant
+7,4,Female Speaker,"Non, Monsieur, pas maintenant. Plus tard, s'il vous plaît. Mais je voudrais boire quelque chose maintenant.",ConversationalExchange,,non monsieur pas maintenant plus tard s'il vous plaire mais je vouloir boire quelque chose maintenant
+7,5,Male Speaker,Où?,ConversationalExchange,,où
+7,6,Female Speaker,Je ne sais pas.,ConversationalExchange,,je ne savoir pas
+7,7,Male Speaker,Chez moi?,ConversationalExchange,,chez moi
+7,8,Female Speaker,"Oui, très bien.",ConversationalExchange,,oui très bien
+7,9,Male Speaker,Mademoiselle.,DirectRepetition,Listen again.,mademoiselle
+7,10,Female Speaker,"Oui, Monsieur?",DirectRepetition,Listen again.,oui monsieur
+7,11,Male Speaker,"Quand est-ce que vous voudriez manger, Mademoiselle? Maintenant?",DirectRepetition,Listen again.,quand être vous vouloir manger mademoiselle maintenant
+7,12,Female Speaker,"Non, Monsieur, pas maintenant. Plus tard, s'il vous plaît. Mais je voudrais boire quelque chose maintenant.",DirectRepetition,Listen again.,non monsieur pas maintenant plus tard s'il vous plaire mais je vouloir boire quelque chose maintenant
+7,13,Male Speaker,Où?,DirectRepetition,Listen again.,où
+7,14,Female Speaker,Je ne sais pas.,DirectRepetition,Listen again.,je ne savoir pas
+7,15,Male Speaker,Chez moi?,DirectRepetition,Listen again.,chez moi
+7,16,Female Speaker,"Oui, très bien.",DirectRepetition,Listen again.,oui très bien
+7,17,Female Speaker,Où est-ce que vous voudriez manger?,PromptedRecall,"Ask, ""Where would you like to eat?""",où être vous vouloir manger
+7,18,Female Speaker,Où est-ce que vous voudriez manger?,DirectRepetition,,où être vous vouloir manger
+7,19,Male Speaker,Chez moi.,PromptedRecall,"Do you remember how to say, ""At my place""?",chez moi
+7,20,Male Speaker,Chez moi.,DirectRepetition,,chez moi
+7,21,Male Speaker,Pas chez vous.,PromptedRecall,"And how do you say, ""Not at your place""?",pas chez vous
+7,22,Male Speaker,Je voudrais manger.,PromptedRecall,Tell me that you would like to eat.,je vouloir manger
+7,23,Male Speaker,Manger.,DirectRepetition,,manger
+7,24,Male Speaker,Je voudrais.,DirectRepetition,,je vouloir
+7,25,Male Speaker,Je voudrais.,DirectRepetition,,je vouloir
+7,26,Male Speaker,Je voudrais manger.,DirectRepetition,,je vouloir manger
+7,27,Female Speaker,Moi aussi.,PromptedRecall,"Say, ""Me too.""",moi aussi
+7,28,Female Speaker,Quand?,PromptedRecall,"Ask, ""When?""",quand
+7,29,Female Speaker,Quand?,DirectRepetition,,quand
+7,30,Female Speaker,Quand est-ce que vous voudriez manger?,PromptedRecall,"Ask, ""When would you like to eat?""",quand être vous vouloir manger
+7,31,Female Speaker,Quand est-ce que vous voudriez manger?,DirectRepetition,,quand être vous vouloir manger
+7,32,Male Speaker,Maintenant.,PromptedRecall,"Say, ""Now.""",maintenant
+7,33,Male Speaker,Maintenant.,DirectRepetition,,maintenant
+7,34,Male Speaker,Je voudrais manger maintenant.,PromptedRecall,"""I would like to eat now.""",je vouloir manger maintenant
+7,35,Male Speaker,Est-ce que vous voudriez boire quelque chose?,PromptedRecall,Ask me if I would like to drink something.,être vous vouloir boire quelque chose
+7,36,Male Speaker,Est-ce que vous voudriez boire quelque chose?,DirectRepetition,,être vous vouloir boire quelque chose
+7,37,Male Speaker,Est-ce que vous voudriez boire quelque chose?,DirectRepetition,,être vous vouloir boire quelque chose
+7,38,Female Speaker,"Oui, je veux bien.",PromptedRecall,"How do you say, ""Yes, I want to""?",oui je vouloir bien
+7,39,Female Speaker,Je veux bien.,DirectRepetition,,je vouloir bien
+7,40,Male Speaker,Est-ce que vous voudriez boire quelque chose?,PromptedRecall,"Ask again, ""Would you like to drink something?""",être vous vouloir boire quelque chose
+7,41,Female Speaker,"Non, merci.",PromptedRecall,"Say, ""No, thank you.""",non merci
+7,42,Female Speaker,"Non, merci.",DirectRepetition,,non merci
+7,43,Female Speaker,Mais je voudrais manger quelque chose.,PromptedRecall,"Say, ""But I would like to eat something.""",mais je vouloir manger quelque chose
+7,44,Female Speaker,Mais je voudrais manger quelque chose.,DirectRepetition,,mais je vouloir manger quelque chose
+7,45,Male Speaker,Moi aussi.,PromptedRecall,"Say, ""Me too.""",moi aussi
+7,46,Male Speaker,Moi aussi.,DirectRepetition,,moi aussi
+7,47,Female Speaker,Quand?,PromptedRecall,"Ask, ""When?""",quand
+7,48,Female Speaker,Quand?,DirectRepetition,,quand
+7,49,Male Speaker,Plus tard.,PromptedRecall,"Say, ""Later.""",plus tard
+7,50,Male Speaker,Plus tard.,DirectRepetition,,plus tard
+7,51,Male Speaker,Plus tard.,DirectRepetition,,plus tard
+7,52,Female Speaker,Où est-ce que vous voudriez manger?,PromptedRecall,"Ask, ""Where would you like to eat?""",où être vous vouloir manger
+7,53,Female Speaker,Où est-ce que vous voudriez manger?,DirectRepetition,,où être vous vouloir manger
+7,54,Female Speaker,Pas ici.,PromptedRecall,"Try to answer, ""Not here.""",pas ici
+7,55,Female Speaker,Ici.,DirectRepetition,,ici
+7,56,Female Speaker,Ici.,DirectRepetition,,ici
+7,57,Female Speaker,Pas.,DirectRepetition,,pas
+7,58,Female Speaker,Pas ici.,DirectRepetition,,pas ici
+7,59,Female Speaker,Pas ici.,DirectRepetition,,pas ici
+7,60,Female Speaker,Où?,PromptedRecall,"Ask, ""Where?""",où
+7,61,Female Speaker,Où?,DirectRepetition,,où
+7,62,Female Speaker,Là-bas?,PromptedRecall,"Ask, ""Down there?""",là-bas
+7,63,Female Speaker,Là-bas?,DirectRepetition,,là-bas
+7,64,Male Speaker,"Non, pas là-bas.",PromptedRecall,"Answer, ""No, not down there.""",non pas là-bas
+7,65,Male Speaker,"Non, pas là-bas.",DirectRepetition,,non pas là-bas
+7,66,Male Speaker,"Chez vous, s'il vous plaît.",PromptedRecall,"Say, ""At your place, please.""",chez vous s'il vous plaire
+7,67,Male Speaker,"Chez vous, s'il vous plaît.",DirectRepetition,,chez vous s'il vous plaire
+7,68,Female Speaker,D'accord.,PromptedRecall,"Now listen and repeat ""All right"" or ""okay"" or ""agreed"".",d'accord
+7,69,Female Speaker,D'accord.,DirectRepetition,,d'accord
+7,70,Female Speaker,D'accord.,DirectRepetition,,d'accord
+7,71,Female Speaker,D'accord.,PromptedRecall,"Say, ""Okay.""",d'accord
+7,72,Male Speaker,Pas d'accord.,PromptedRecall,"Say, ""Not okay.""",pas d'accord
+7,73,Male Speaker,Pas d'accord.,DirectRepetition,,pas d'accord
+7,74,Male Speaker,Je voudrais manger ici.,PromptedRecall,"Say, ""I would like to eat here.""",je vouloir manger ici
+7,75,Male Speaker,Je voudrais manger ici.,DirectRepetition,,je vouloir manger ici
+7,76,Female Speaker,Où est-ce que vous voudriez manger?,PromptedRecall,Ask her where she would like to eat.,où être vous vouloir manger
+7,77,Female Speaker,Où est-ce que vous voudriez manger?,DirectRepetition,,où être vous vouloir manger
+7,78,Male Speaker,Au restaurant.,PromptedRecall,"His answer is ""at the restaurant"". Listen and repeat.",au restaurant
+7,79,Male Speaker,Rant.,DirectRepetition,,rant
+7,80,Male Speaker,Rant.,DirectRepetition,,rant
+7,81,Male Speaker,Torrant.,DirectRepetition,,torrant
+7,82,Male Speaker,Torrant.,DirectRepetition,,torrant
+7,83,Male Speaker,Restaurant.,DirectRepetition,,restaurant
+7,84,Male Speaker,Restaurant.,DirectRepetition,,restaurant
+7,85,Male Speaker,Au.,PromptedRecall,"And now the part that means ""at the.""",au
+7,86,Male Speaker,Au.,DirectRepetition,,au
+7,87,Male Speaker,Au restaurant.,DirectRepetition,,au restaurant
+7,88,Male Speaker,Au restaurant.,DirectRepetition,,au restaurant
+7,89,Male Speaker,Au restaurant.,PromptedRecall,"Say, ""At the restaurant.""",au restaurant
+7,90,Male Speaker,D'accord?,PromptedRecall,"Say, ""Agreed?""",d'accord
+7,91,Male Speaker,D'accord?,DirectRepetition,,d'accord
+7,92,Female Speaker,"Oui, très bien.",PromptedRecall,"Say, ""Yes, very good.""",oui très bien
+7,93,Female Speaker,"Oui, très bien.",DirectRepetition,,oui très bien
+7,94,Male Speaker,Quand est-ce que vous voudriez manger?,PromptedRecall,"Do you remember how to ask, ""When would you like to eat?""",quand être vous vouloir manger
+7,95,Male Speaker,Quand est-ce que vous voudriez manger?,DirectRepetition,,quand être vous vouloir manger
+7,96,Male Speaker,Où est-ce que vous voudriez manger?,PromptedRecall,"Now ask, ""Where would you like to eat?""",où être vous vouloir manger
+7,97,Male Speaker,Où est-ce que vous voudriez manger?,DirectRepetition,,où être vous vouloir manger
+7,98,Male Speaker,Qu'est-ce que vous voudriez manger?,PromptedRecall,"Now, keeping these last two sentences in mind, listen and repeat the question, ""What would you like to eat?""",qu'est-ce vous vouloir manger
+7,99,Male Speaker,Qu'est-ce que...,DirectRepetition,,qu'est-ce
+7,100,Male Speaker,Qu'est-ce que...,DirectRepetition,,qu'est-ce
+7,101,Male Speaker,Qu'est-ce que vous voudriez manger?,DirectRepetition,,qu'est-ce vous vouloir manger
+7,102,Male Speaker,Qu'est-ce que vous voudriez manger?,DirectRepetition,,qu'est-ce vous vouloir manger
+7,103,Male Speaker,Qu'est-ce que vous voudriez manger?,PromptedRecall,Ask me what I would like to eat?,qu'est-ce vous vouloir manger
+7,104,Female Speaker,Je ne sais pas.,PromptedRecall,"Answer, ""I don't know.""",je ne savoir pas
+7,105,Male Speaker,Où est-ce que vous voudriez manger?,PromptedRecall,"Ask, ""Where would you like to eat?""",où être vous vouloir manger
+7,106,Female Speaker,Au restaurant?,PromptedRecall,"Ask, ""At the restaurant?""",au restaurant
+7,107,Female Speaker,Au restaurant?,DirectRepetition,,au restaurant
+7,108,Male Speaker,D'accord.,PromptedRecall,"Say, ""Okay.""",d'accord
+7,109,Male Speaker,D'accord.,DirectRepetition,,d'accord
+7,110,Female Speaker,Je voudrais boire quelque chose.,PromptedRecall,"Say, ""I would like to drink something.""",je vouloir boire quelque chose
+7,111,Male Speaker,Qu'est-ce que vous voudriez boire?,PromptedRecall,"And now ask, ""What would you like to drink?""",qu'est-ce vous vouloir boire
+7,112,Male Speaker,Qu'est-ce que vous voudriez boire?,DirectRepetition,,qu'est-ce vous vouloir boire
+7,113,Male Speaker,Du vin.,PromptedRecall,"Here's how to say ""some wine.""",du vin
+7,114,Male Speaker,Vin.,DirectRepetition,,vin
+7,115,Male Speaker,Vin.,DirectRepetition,,vin
+7,116,Male Speaker,Du.,DirectRepetition,,du
+7,117,Male Speaker,Du.,DirectRepetition,,du
+7,118,Male Speaker,Du vin.,DirectRepetition,,du vin
+7,119,Male Speaker,Du vin.,DirectRepetition,,du vin
+7,120,Male Speaker,Du vin.,PromptedRecall,"Say, ""Some wine.""",du vin
+7,121,Female Speaker,De la bière.,PromptedRecall,"""I would like to drink some beer."" Here's how to say ""some beer."" Listen and repeat.",de la bière
+7,122,Female Speaker,Bière.,DirectRepetition,,bière
+7,123,Female Speaker,Bière.,DirectRepetition,,bière
+7,124,Female Speaker,De la bière.,DirectRepetition,,de la bière
+7,125,Female Speaker,De la bière.,DirectRepetition,,de la bière
+7,126,Female Speaker,De la bière.,PromptedRecall,"Say, ""Some beer.""",de la bière
+7,127,Female Speaker,Du vin.,PromptedRecall,"Say, ""Some wine.""",du vin
+7,128,Female Speaker,Du vin.,DirectRepetition,,du vin
+7,129,Female Speaker,Du vin.,PromptedRecall,"Why do you suppose you said ""du vin"" but you said ""de la bière?"" It's because ""vin"" is a ""le"" word, while ""bière"" is a ""la"" word. Once again, say, ""Some wine.""",du vin
+7,130,Female Speaker,Du vin.,DirectRepetition,,du vin
+7,131,Female Speaker,D'accord?,PromptedRecall,"Ask, ""Okay?""",d'accord
+7,132,Female Speaker,D'accord?,DirectRepetition,,d'accord
+7,133,Female Speaker,Je voudrais du vin.,PromptedRecall,"Say, ""I would like some wine.""",je vouloir du vin
+7,134,Female Speaker,Voudrais.,DirectRepetition,,vouloir
+7,135,Female Speaker,Voudrais.,DirectRepetition,,vouloir
+7,136,Female Speaker,Du.,DirectRepetition,,du
+7,137,Female Speaker,Du.,DirectRepetition,,du
+7,138,Female Speaker,Je voudrais du vin.,DirectRepetition,,je vouloir du vin
+7,139,Female Speaker,Je voudrais du vin.,DirectRepetition,,je vouloir du vin
+7,140,Male Speaker,Je voudrais de la bière.,PromptedRecall,"Say, ""I would like some beer.""",je vouloir de la bière
+7,141,Male Speaker,Je voudrais de la bière.,DirectRepetition,,je vouloir de la bière
+7,142,Female Speaker,"Moi, je voudrais du vin.",PromptedRecall,"Say, ""Me, I would like some wine.""",moi je vouloir du vin
+7,143,Female Speaker,"Moi, je voudrais du vin.",DirectRepetition,,moi je vouloir du vin
+7,144,Male Speaker,Où est-ce que vous voudriez boire du vin?,PromptedRecall,"Try to ask, ""Where would you like to drink wine?""",où être vous vouloir boire du vin
+7,145,Male Speaker,Où est-ce que vous voudriez boire du vin?,DirectRepetition,,où être vous vouloir boire du vin
+7,146,Female Speaker,"Au restaurant, s'il vous plaît.",PromptedRecall,"Say, ""At the restaurant, please.""",au restaurant s'il vous plaire
+7,147,Female Speaker,"Au restaurant, s'il vous plaît.",DirectRepetition,,au restaurant s'il vous plaire
+7,148,Female Speaker,Mais plus tard.,PromptedRecall,"Say, ""But later.""",mais plus tard
+7,149,Female Speaker,Mais plus tard.,DirectRepetition,,mais plus tard
+7,150,Female Speaker,Pas maintenant.,PromptedRecall,"Say, ""Not now.""",pas maintenant
+7,151,Female Speaker,Pas maintenant.,DirectRepetition,,pas maintenant
+7,152,Male Speaker,D'accord.,PromptedRecall,"Say, ""Okay.""",d'accord
+7,153,Male Speaker,D'accord.,DirectRepetition,,d'accord
+7,154,Male Speaker,Je voudrais manger quelque chose.,PromptedRecall,Do you remember how to tell someone that you would like to eat something?,je vouloir manger quelque chose
+7,155,Male Speaker,Je voudrais manger quelque chose.,DirectRepetition,,je vouloir manger quelque chose
+7,156,Female Speaker,Moi aussi.,PromptedRecall,"Say, ""Me too.""",moi aussi
+7,157,Female Speaker,Moi aussi.,DirectRepetition,,moi aussi
+7,158,Female Speaker,Je voudrais manger aussi.,PromptedRecall,"""I would like to eat too.""",je vouloir manger aussi
+7,159,Female Speaker,Je voudrais manger aussi.,DirectRepetition,,je vouloir manger aussi
+7,160,Male Speaker,Je voudrais boire quelque chose.,PromptedRecall,Tell her you would like to drink something.,je vouloir boire quelque chose
+7,161,Male Speaker,Je voudrais boire quelque chose.,DirectRepetition,,je vouloir boire quelque chose
+7,162,Male Speaker,Est-ce que vous voudriez boire quelque chose?,PromptedRecall,Ask her if she would like to drink something.,être vous vouloir boire quelque chose
+7,163,Male Speaker,Est-ce que vous voudriez boire quelque chose?,DirectRepetition,,être vous vouloir boire quelque chose
+7,164,Female Speaker,"Non, merci.",PromptedRecall,"Say, ""No, thank you.""",non merci
+7,165,Female Speaker,"Non, merci.",DirectRepetition,,non merci
+7,166,Female Speaker,"Pas maintenant, plus tard.",PromptedRecall,"How does she say, ""Not now, later?""",pas maintenant plus tard
+7,167,Female Speaker,"Pas maintenant, plus tard.",DirectRepetition,,pas maintenant plus tard
+7,168,Female Speaker,Mais je voudrais manger quelque chose.,PromptedRecall,"How would she say, ""But I would like to eat something""?",mais je vouloir manger quelque chose
+7,169,Female Speaker,Mais je voudrais manger quelque chose.,DirectRepetition,,mais je vouloir manger quelque chose
+7,170,Male Speaker,Est-ce que vous voudriez manger maintenant?,PromptedRecall,Ask her if she would like to eat now.,être vous vouloir manger maintenant
+7,171,Male Speaker,Est-ce que vous voudriez manger maintenant?,DirectRepetition,,être vous vouloir manger maintenant
+7,172,Female Speaker,Je veux bien.,PromptedRecall,"How does she say, ""I really want to"" or ""yes, I'd like to""?",je vouloir bien
+7,173,Female Speaker,"Oui, je veux bien.",DirectRepetition,,oui je vouloir bien
+7,174,Male Speaker,Où est-ce que vous voudriez manger?,PromptedRecall,Ask her where she would like to eat.,où être vous vouloir manger
+7,175,Male Speaker,Où est-ce que vous voudriez manger?,DirectRepetition,,où être vous vouloir manger
+7,176,Female Speaker,Au restaurant.,PromptedRecall,"How did she say, ""At the restaurant""?",au restaurant
+7,177,Female Speaker,"Au restaurant, s'il vous plaît.",DirectRepetition,,au restaurant s'il vous plaire
+7,178,Male Speaker,"D'accord, quand?",PromptedRecall,"Say, ""Okay, when?""",d'accord quand
+7,179,Male Speaker,"D'accord, quand?",DirectRepetition,,d'accord quand
+7,180,Female Speaker,"Maintenant, s'il vous plaît?",PromptedRecall,"How does she say, ""Now, please?""",maintenant s'il vous plaire
+7,181,Female Speaker,"Au restaurant, Chez Pierre.",PromptedRecall,"How do you say, ""At the restaurant Chez Pierre.""",au restaurant chez pierre
+7,182,Female Speaker,"Au restaurant, Chez Pierre.",DirectRepetition,,au restaurant chez pierre
+7,183,Male Speaker,Où est le restaurant?,PromptedRecall,Ask her where the restaurant is.,où être le restaurant
+7,184,Male Speaker,Le restaurant.,DirectRepetition,,le restaurant
+7,185,Male Speaker,Le restaurant.,DirectRepetition,,le restaurant
+7,186,Male Speaker,"Où est le restaurant, Chez Pierre?",DirectRepetition,,où être le restaurant chez pierre
+7,187,Female Speaker,C'est là-bas.,PromptedRecall,"How did she tell you, ""It's down there""?",être là-bas
+7,188,Female Speaker,C'est là-bas.,DirectRepetition,,être là-bas
+7,189,Female Speaker,Rue Saint-Jacques.,PromptedRecall,"Listen to how she says, ""On Saint-Jacques Street.""",rue saint-jacques
+7,190,Female Speaker,Rue Saint-Jacques.,DirectRepetition,"Note that in French, on the is deleted in directions and simply the street is given. Listen again and repeat. ""On the ""rue Saint-Jacques.""",rue saint-jacques
+7,191,Female Speaker,Rue Saint-Jacques.,DirectRepetition,,rue saint-jacques
+7,192,Male Speaker,Qu'est-ce que vous voudriez manger?,PromptedRecall,"When you get to the restaurant, you ask her, ""What would you like to eat?""",qu'est-ce vous vouloir manger
+7,193,Female Speaker,Je ne sais pas.,PromptedRecall,"She answers, ""I don't know.""",je ne savoir pas
+7,194,Male Speaker,Très bien. Qu'est-ce que vous voudriez boire?,PromptedRecall,"Say, ""Very well. What would you like to drink?""",très bien qu'est-ce vous vouloir boire
+7,195,Male Speaker,Très bien. Qu'est-ce que vous voudriez boire?,DirectRepetition,,très bien qu'est-ce vous vouloir boire
+7,196,Female Speaker,Quelque chose.,PromptedRecall,"She says, ""Something.""",quelque chose
+7,197,Female Speaker,Quelque chose.,DirectRepetition,,quelque chose
+7,198,Male Speaker,Du vin?,PromptedRecall,"Ask, ""Some wine?""",du vin
+7,199,Male Speaker,Du vin?,DirectRepetition,,du vin
+7,200,Male Speaker,De la bière?,PromptedRecall,"""Some beer?""",de la bière
+7,201,Male Speaker,De la bière?,DirectRepetition,,de la bière
+7,202,Male Speaker,Est-ce que vous voudriez boire de la bière?,PromptedRecall,"""Would you like to drink some beer?""",être vous vouloir boire de la bière
+7,203,Male Speaker,Est-ce que vous voudriez boire de la bière?,DirectRepetition,,être vous vouloir boire de la bière
+7,204,Female Speaker,"Non, merci. Pas maintenant.",PromptedRecall,"She answers, ""No, thank you. Not now.""",non merci pas maintenant
+7,205,Female Speaker,"Non, merci. Pas maintenant.",DirectRepetition,,non merci pas maintenant
+7,206,Male Speaker,Vous ne voudriez pas boire quelque chose?,PromptedRecall,"Say, ""You wouldn't like to drink something?""",vous ne vouloir pas boire quelque chose
+7,207,Male Speaker,Vous ne voudriez pas boire quelque chose?,DirectRepetition,,vous ne vouloir pas boire quelque chose
+7,208,Male Speaker,Vous ne voudriez pas boire quelque chose?,DirectRepetition,,vous ne vouloir pas boire quelque chose
+7,209,Female Speaker,"Non, merci.",PromptedRecall,"She says, ""No, thanks.""",non merci
+7,210,Female Speaker,"Non, merci.",DirectRepetition,,non merci
+7,211,Female Speaker,"Pas maintenant, merci.",PromptedRecall,"How did she say, ""Not now, thanks""?",pas maintenant merci
+7,212,Female Speaker,"Pas maintenant, merci.",DirectRepetition,,pas maintenant merci
+7,213,Female Speaker,Je voudrais boire du vin.,PromptedRecall,"How did she say, ""I would like to drink some wine""?",je vouloir boire du vin
+7,214,Female Speaker,Je voudrais boire du vin.,DirectRepetition,,je vouloir boire du vin
+7,215,Female Speaker,Mais plus tard.,PromptedRecall,"How did she say, ""But later""?",mais plus tard
+7,216,Female Speaker,Mais plus tard.,DirectRepetition,,mais plus tard
+7,217,Male Speaker,D'accord.,PromptedRecall,"Say, ""All right.""",d'accord
+7,218,Male Speaker,D'accord.,DirectRepetition,,d'accord
+7,219,Male Speaker,"Mais moi, je voudrais boire quelque chose maintenant.",PromptedRecall,"Say, ""But me, I would like to drink something now.""",mais moi je vouloir boire quelque chose maintenant
+7,220,Male Speaker,"Mais moi, je voudrais boire quelque chose maintenant.",DirectRepetition,,mais moi je vouloir boire quelque chose maintenant
+7,221,Male Speaker,Est-ce que vous voudriez manger maintenant?,PromptedRecall,Now try this conversation. Ask your friend if she would like to eat now.,être vous vouloir manger maintenant
+7,222,Female Speaker,"Oui, je veux bien.",PromptedRecall,"How did she say, ""Yes, I really want to""?",oui je vouloir bien
+7,223,Male Speaker,Où est-ce que vous voudriez manger?,PromptedRecall,Ask her where she would like to eat.,où être vous vouloir manger
+7,224,Female Speaker,Au restaurant.,PromptedRecall,"She answers, ""At the restaurant.""",au restaurant
+7,225,Male Speaker,"D'accord, quand?",PromptedRecall,"Say, ""Okay, when?""",d'accord quand
+7,226,Female Speaker,"Maintenant, s'il vous plaît.",PromptedRecall,"She answers, ""Now, please.""",maintenant s'il vous plaire
+7,227,Female Speaker,"Au restaurant, Chez Pierre.",PromptedRecall,"""At the restaurant Chez Pierre.""",au restaurant chez pierre
+7,228,Male Speaker,Où est le restaurant Chez Pierre?,PromptedRecall,Ask her where the restaurant Chez Pierre is.,où être le restaurant chez pierre
+7,229,Female Speaker,C'est là-bas.,PromptedRecall,"She tells you, ""It's down there.""",être là-bas
+7,230,Female Speaker,Rue Saint-Jacques.,PromptedRecall,"""On Saint-Jacques Street.""",rue saint-jacques
+7,231,Male Speaker,Qu'est-ce que vous voudriez manger?,PromptedRecall,"When you get to the restaurant, you ask her, ""What would you like to eat?""",qu'est-ce vous vouloir manger
+7,232,Female Speaker,Je ne sais pas.,PromptedRecall,"She answers, ""I don't know.""",je ne savoir pas
+7,233,Female Speaker,Très bien. Qu'est-ce que vous voudriez boire?,PromptedRecall,"Say, ""Very well. What would you like to drink?""",très bien qu'est-ce vous vouloir boire
+7,234,Female Speaker,Quelque chose.,PromptedRecall,"She says, ""Something.""",quelque chose
+7,235,Female Speaker,Du vin?,PromptedRecall,"Ask, ""Some wine?""",du vin
+7,236,Male Speaker,De la bière?,PromptedRecall,"""Some beer?""",de la bière
+7,237,Male Speaker,Est-ce que vous voudriez boire de la bière?,PromptedRecall,"""Would you like to drink some beer?""",être vous vouloir boire de la bière
+7,238,Female Speaker,Non merci. Pas maintenant.,PromptedRecall,"She answers, ""No, thank you. Not now.""",non merci pas maintenant
+7,239,Male Speaker,Vous ne voudriez pas boire quelque chose?,PromptedRecall,"Say, ""You wouldn't like to drink something?""",vous ne vouloir pas boire quelque chose
+7,240,Female Speaker,Non merci.,PromptedRecall,"She says, ""No, thanks.""",non merci
+7,241,Female Speaker,"Pas maintenant, merci.",PromptedRecall,"""Not now, thanks.""",pas maintenant merci
+7,242,Female Speaker,Je voudrais boire du vin.,PromptedRecall,"""I would like to drink some wine.""",je vouloir boire du vin
+7,243,Female Speaker,Mais plus tard.,PromptedRecall,"""But later.""",mais plus tard
+7,244,Male Speaker,D'accord.,PromptedRecall,"Say, ""All right.""",d'accord

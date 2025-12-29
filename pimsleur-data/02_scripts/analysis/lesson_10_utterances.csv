@@ -1,0 +1,135 @@
+lesson_number,position_in_lesson,speaker,text,utterance_type,narrator_cue,core_lemmas
+10,1,Female Speaker,"Jacques, je voudrais manger avec vous. D'accord?",ConversationalExchange,,jacques je vouloir manger avec vous d'accord
+10,2,Male Speaker,"Oui, mais à quelle heure? À deux heures?",ConversationalExchange,,oui mais à quelle heure à deux heures
+10,3,Female Speaker,"Mais non, plus tard. Bien plus tard.",ConversationalExchange,,mais non plus tard bien plus tard
+10,4,Male Speaker,"Oh, je comprends. À huit heures ou à neuf heures?",ConversationalExchange,,oh je comprendre à huit heures ou à neuf heures
+10,5,Female Speaker,"Oui, à neuf heures.",ConversationalExchange,,oui à neuf heures
+10,6,Male Speaker,D'accord. Au revoir.,ConversationalExchange,,d'accord au revoir
+10,7,Male Speaker,Je voudrais manger quelque chose.,PromptedRecall,Do you remember how to say 'I'd like to eat something'?,je vouloir manger quelque chose
+10,8,Male Speaker,Je voudrais faire quelque chose.,PromptedRecall,"Say, 'I'd like to do something.'",je vouloir faire quelque chose
+10,9,Male Speaker,Qu'est-ce que vous voulez faire?,PromptedRecall,"Now ask, 'What do you want to do?'",qu'est-ce que vous vouloir faire
+10,10,Male Speaker,Je voudrais acheter quelque chose.,PromptedRecall,"Say, 'I'd like to buy something.'",je vouloir acheter quelque chose
+10,11,Male Speaker,Acheter.,PromptedRecall,,acheter
+10,12,Male Speaker,À quelle heure?,PromptedRecall,"Ask, 'At what time?'",à quelle heure
+10,13,Male Speaker,À une heure.,PromptedRecall,"Say, 'At one o'clock.'",à une heure
+10,14,Male Speaker,Une.,PromptedRecall,,une
+10,15,Male Speaker,Heure.,PromptedRecall,,heure
+10,16,Male Speaker,À neuf heures?,PromptedRecall,"Ask, 'At nine o'clock?'",à neuf heures
+10,17,Male Speaker,"Mais non, à huit heures.",PromptedRecall,"Say, 'But no, at eight o'clock.'",mais non à huit heures
+10,18,Male Speaker,Huit.,PromptedRecall,,huit
+10,19,Male Speaker,À huit heures.,PromptedRecall,,à huit heures
+10,20,Male Speaker,"D'accord, à deux heures.",PromptedRecall,"Say, 'Okay, at two o'clock.'",d'accord à deux heures
+10,21,Male Speaker,Deux.,PromptedRecall,,deux
+10,22,Male Speaker,"Non, Mademoiselle, vous ne comprenez pas.",PromptedRecall,"Say, 'No miss, you don't understand.'",non mademoiselle vous ne comprendre pas
+10,23,Male Speaker,Qu'est-ce que je ne comprends pas?,PromptedRecall,"Ask, 'What don't I understand?'",qu'est-ce que je ne comprendre pas
+10,24,Male Speaker,Qu'est-ce que vous voudriez boire?,PromptedRecall,Ask her what she would like to drink.,qu'est-ce que vous vouloir boire
+10,25,Male Speaker,Non merci. Je voudrais manger quelque chose.,PromptedRecall,"Answer, 'No thank you. I would like to eat something.'",non merci je vouloir manger quelque chose
+10,26,Male Speaker,Je ne comprends pas.,PromptedRecall,"Say, 'I don't understand.'",je ne comprendre pas
+10,27,Male Speaker,Est-ce que vous voudriez boire quelque chose?,PromptedRecall,"Ask, 'Would you like to drink something?'",est-ce que vous vouloir boire quelque chose
+10,28,Male Speaker,Où est-ce que vous voudriez manger?,PromptedRecall,'Or would you like to eat?',où est-ce que vous vouloir manger
+10,29,Female Speaker,Je ne sais pas.,PromptedRecall,"Say, 'I don't know.'",je ne savoir pas
+10,30,Female Speaker,"Je ne sais pas, moi.",PromptedRecall,,je ne savoir pas moi
+10,31,Male Speaker,Avec moi?,PromptedRecall,"Ask, 'With me?'",avec moi
+10,32,Female Speaker,"Oui, chez vous.",PromptedRecall,"Say, 'Yes, at your place.'",oui chez vous
+10,33,Male Speaker,À quelle heure?,PromptedRecall,"Ask, 'At what time?'",à quelle heure
+10,34,Female Speaker,Quelle heure est-il?,DirectRepetition,Listen and repeat.,quelle heure être il
+10,35,Female Speaker,Est-il?,PromptedRecall,,être il
+10,36,Female Speaker,Il est.,PromptedRecall,"If the form 'est-il' makes a question, how would you make a statement out of it?",il être
+10,37,Male Speaker,Il est neuf heures.,PromptedRecall,"And now try to say, 'It's nine o'clock.'",il être neuf heures
+10,38,Female Speaker,Quelle heure est-il?,PromptedRecall,"Ask me again, 'What time it is?'",quelle heure être il
+10,39,Male Speaker,Il est deux heures.,PromptedRecall,"Answer, 'It's two o'clock.'",il être deux heures
+10,40,Male Speaker,Il est cinq heures.,DirectRepetition,Listen and repeat.,il être cinq heures
+10,41,Male Speaker,Cinq.,PromptedRecall,,cinq
+10,42,Male Speaker,Il est cinq heures.,PromptedRecall,"Tell me, 'It's five o'clock.'",il être cinq heures
+10,43,Male Speaker,"Il est cinq heures, Monsieur.",PromptedRecall,"Tell me, 'It's five o'clock.'",il être cinq heures monsieur
+10,44,Female Speaker,Quelle heure est-il?,PromptedRecall,Ask me again what time it is.,quelle heure être il
+10,45,Female Speaker,"Quelle heure est-il, Monsieur?",PromptedRecall,,quelle heure être il monsieur
+10,46,Male Speaker,Il est trois heures.,DirectRepetition,"Listen and repeat the answer, 'It's three o'clock.'",il être trois heures
+10,47,Male Speaker,Trois.,PromptedRecall,,trois
+10,48,Male Speaker,Il est trois heures.,PromptedRecall,"Tell me, 'It's three o'clock.'",il être trois heures
+10,49,Male Speaker,Il est cinq heures.,PromptedRecall,"Now tell me, 'It's five o'clock.'",il être cinq heures
+10,50,Male Speaker,Il est quatre heures.,DirectRepetition,"Listen and repeat, 'It's four o'clock.'",il être quatre heures
+10,51,Male Speaker,Quatre.,PromptedRecall,,quatre
+10,52,Male Speaker,Il est quatre heures.,PromptedRecall,"Tell me, 'It's four o'clock.'",il être quatre heures
+10,53,Male Speaker,Il est cinq heures.,PromptedRecall,"Tell me, 'It's five o'clock.'",il être cinq heures
+10,54,Male Speaker,Il est deux heures.,PromptedRecall,"Tell me, 'It's two o'clock.'",il être deux heures
+10,55,Male Speaker,Deux.,PromptedRecall,,deux
+10,56,Male Speaker,Il est deux heures.,PromptedRecall,,il être deux heures
+10,57,Male Speaker,Il est quatre heures.,PromptedRecall,"Tell me, 'It's four o'clock.'",il être quatre heures
+10,58,Male Speaker,Quatre.,PromptedRecall,,quatre
+10,59,Male Speaker,Il est quatre heures.,PromptedRecall,,il être quatre heures
+10,60,Female Speaker,Est-ce qu'il est quatre heures?,PromptedRecall,Ask me if it's four o'clock.,est-ce que il être quatre heures
+10,61,Male Speaker,"Non, il est trois heures.",PromptedRecall,"Say, 'No, it's three o'clock.'",non il être trois heures
+10,62,Male Speaker,Il est huit heures.,PromptedRecall,"Tell me, 'It's eight o'clock.'",il être huit heures
+10,63,Male Speaker,Quatre heures.,PromptedRecall,"Say, 'Four o'clock.'",quatre heures
+10,64,Female Speaker,Quelle heure est-il?,PromptedRecall,Ask what time it is.,quelle heure être il
+10,65,Male Speaker,Cinq heures.,PromptedRecall,"Say, 'Five o'clock.'",cinq heures
+10,66,Male Speaker,Neuf heures.,PromptedRecall,'Nine o'clock.',neuf heures
+10,67,Male Speaker,Trois heures.,PromptedRecall,'Three o'clock.',trois heures
+10,68,Male Speaker,Cinq heures.,PromptedRecall,'Five o'clock.',cinq heures
+10,69,Male Speaker,Quatre heures.,PromptedRecall,'Four o'clock.',quatre heures
+10,70,Female Speaker,Quelle heure est-il?,PromptedRecall,Ask me what time it is.,quelle heure être il
+10,71,Female Speaker,"Quelle heure est-il, s'il vous plaît?",PromptedRecall,,quelle heure être il s'il vous plaître
+10,72,Male Speaker,"Je ne sais pas, mais je voudrais manger quelque chose.",PromptedRecall,"Say 'I don't know, but I'd like to eat something.'",je ne savoir pas mais je vouloir manger quelque chose
+10,73,Female Speaker,"Pas maintenant, plus tard.",PromptedRecall,"Say, 'Not now, later.'",pas maintenant plus tard
+10,74,Male Speaker,"Non, je vais déjeuner maintenant.",DirectRepetition,Listen and repeat.,non je vais déjeuner maintenant
+10,75,Male Speaker,Je vais.,PromptedRecall,,je vais
+10,76,Male Speaker,Vous allez.,PromptedRecall,"Now, think back to the question 'how are you?' and tell me how to say 'you are going.'",vous allez
+10,77,Male Speaker,Vous allez manger.,PromptedRecall,"Say, 'You are going to eat.'",vous allez manger
+10,78,Female Speaker,Est-ce que vous allez manger?,PromptedRecall,"Ask, 'Are you going to eat?'",est-ce que vous allez manger
+10,79,Male Speaker,"Oui, je vais manger maintenant.",PromptedRecall,"Say, 'Yes, I'm going to eat now.'",oui je vais manger maintenant
+10,80,Female Speaker,Je vais. Je veux.,DirectRepetition,Listen and repeat the contrast between 'I am going' and 'I want.',je vais je vouloir
+10,81,Male Speaker,Je vais manger à cinq heures.,PromptedRecall,"Say, 'I'm going to eat at five o'clock.'",je vais manger à cinq heures
+10,82,Female Speaker,Est-ce que vous allez manger à cinq heures?,PromptedRecall,Ask me if I'm going to eat at five o'clock.,est-ce que vous allez manger à cinq heures
+10,83,Male Speaker,"Non, à huit heures.",PromptedRecall,"Answer, 'No, at eight o'clock.'",non à huit heures
+10,84,Male Speaker,Mais je vais boire quelque chose.,PromptedRecall,"Say, 'But I'm going to drink something.'",mais je vais boire quelque chose
+10,85,Female Speaker,Quand?,PromptedRecall,"Ask, 'When?'",quand
+10,86,Male Speaker,À trois heures ou à quatre heures?,PromptedRecall,"Say, 'At three o'clock or at four o'clock?'",à trois heures ou à quatre heures
+10,87,Female Speaker,"Moi, je vais boire quelque chose à neuf heures.",PromptedRecall,"Say, 'Me, I'm going to drink something at nine o'clock.'",moi je vais boire quelque chose à neuf heures
+10,88,Male Speaker,Quelle heure est-il maintenant?,PromptedRecall,"Ask, 'What time is it now?'",quelle heure être il maintenant
+10,89,Female Speaker,Il est une heure maintenant.,PromptedRecall,"Say, 'It's one o'clock now.'",il être une heure maintenant
+10,90,Female Speaker,Une heure.,PromptedRecall,,une heure
+10,91,Female Speaker,Il est une heure maintenant.,PromptedRecall,,il être une heure maintenant
+10,92,Male Speaker,"Merci, je vais déjeuner.",PromptedRecall,"Say, 'Thank you, I'm going to have lunch.'",merci je vais déjeuner
+10,93,Female Speaker,Bonjour!,ConversationalExchange,,bonjour
+10,94,Male Speaker,"Bonjour, Mademoiselle.",ConversationalExchange,,bonjour mademoiselle
+10,95,Female Speaker,Est-ce que vous allez bien?,ConversationalExchange,,est-ce que vous allez bien
+10,96,Male Speaker,"Oui, je vais bien.",ConversationalExchange,,oui je vais bien
+10,97,Male Speaker,"Oui, je vais bien, merci.",ConversationalExchange,,oui je vais bien merci
+10,98,Female Speaker,"Pardon, est-ce que vous voudriez manger avec moi?",ConversationalExchange,,pardon est-ce que vous vouloir manger avec moi
+10,99,Male Speaker,"Oui, merci.",ConversationalExchange,,oui merci
+10,100,Male Speaker,"Oui, je veux bien.",ConversationalExchange,,oui je vouloir bien
+10,101,Male Speaker,Je veux bien.,ConversationalExchange,,je vouloir bien
+10,102,Female Speaker,Je vais bien. Je veux bien.,DirectRepetition,Listen and repeat the contrast between 'I'm feeling fine' and 'I really want to.',je vais bien je veux bien
+10,103,Female Speaker,"Je vais bien, je veux bien.",DirectRepetition,,je vais bien je veux bien
+10,104,Female Speaker,À quelle heure est-ce que vous voudriez manger? À huit heures?,ConversationalExchange,,à quelle heure est-ce que vous vouloir manger à huit heures
+10,105,Male Speaker,"Non, à neuf heures.",ConversationalExchange,,non à neuf heures
+10,106,Female Speaker,"Non, pas à neuf heures. À deux heures, voudriez-vous?",ConversationalExchange,,non pas à neuf heures à deux heures vouloir vous
+10,107,Male Speaker,"Non, pas à deux heures. À trois heures.",ConversationalExchange,,non pas à deux heures à trois heures
+10,108,Female Speaker,"Trois heures? Non, merci. Mais à quatre heures, d'accord?",ConversationalExchange,,trois heures non merci mais à quatre heures d'accord
+10,109,Male Speaker,"Non, pas à quatre heures, à cinq heures.",ConversationalExchange,,non pas à quatre heures à cinq heures
+10,110,Male Speaker,"Non, pas à quatre heures. À cinq heures.",ConversationalExchange,,non pas à quatre heures à cinq heures
+10,111,Female Speaker,"Non, pas moi, pas à cinq heures.",ConversationalExchange,,non pas moi pas à cinq heures
+10,112,Male Speaker,Quand est-ce que vous voudriez déjeuner?,PromptedRecall,Ask her when she would like to have lunch.,quand est-ce que vous vouloir déjeuner
+10,113,Female Speaker,"Je ne sais pas, moi.",ConversationalExchange,,je ne savoir pas moi
+10,114,Male Speaker,"Est-ce que vous voudriez déjeuner, oui ou non?",PromptedRecall,"Ask her if she would like to have lunch, yes or no.",est-ce que vous vouloir déjeuner oui ou non
+10,115,Female Speaker,"Oui, mais quand?",ConversationalExchange,,oui mais quand
+10,116,Male Speaker,Je vais déjeuner maintenant.,PromptedRecall,Tell her that you are going to have lunch now.,je vais déjeuner maintenant
+10,117,Male Speaker,Est-ce que vous allez déjeuner avec moi?,PromptedRecall,Ask her if she is going to have lunch with you.,est-ce que vous allez déjeuner avec moi
+10,118,Female Speaker,"Oui, je vais déjeuner avec vous.",ConversationalExchange,,oui je vais déjeuner avec vous
+10,119,Male Speaker,"Mais quand, Mademoiselle?",PromptedRecall,"Ask, 'But when, Miss?'",mais quand mademoiselle
+10,120,Female Speaker,"Plus tard, Monsieur. Plus tard.",ConversationalExchange,,plus tard monsieur plus tard
+10,121,Male Speaker,C'est cinq.,PromptedRecall,Read it aloud.,c'est cinq
+10,122,Male Speaker,Son pain.,PromptedRecall,Read number two.,son pain
+10,123,Male Speaker,Je garde ce nom.,PromptedRecall,Read three.,je garder ce nom
+10,124,Male Speaker,Je le garde.,PromptedRecall,Four.,je le garder
+10,125,Male Speaker,Je garde la place.,PromptedRecall,Five.,je garder la place
+10,126,Male Speaker,Je la garde.,PromptedRecall,Six.,je la garder
+10,127,Male Speaker,Je le veux.,DirectRepetition,Listen and repeat.,je le vouloir
+10,128,Male Speaker,Vous voulez?,PromptedRecall,Read eight.,vous vouloir
+10,129,Male Speaker,Est-ce que vous le voulez?,PromptedRecall,Nine.,est-ce que vous le vouloir
+10,130,Male Speaker,Je ne veux pas manger.,PromptedRecall,Ten.,je ne vouloir pas manger
+10,131,Male Speaker,Je le veux un peu.,PromptedRecall,Eleven.,je le vouloir un peu
+10,132,Male Speaker,Peu?,PromptedRecall,Twelve.,peu
+10,133,Male Speaker,Pou?,PromptedRecall,,pou
+10,134,Male Speaker,Est-ce que vous boudez?,PromptedRecall,Thirteen.,est-ce que vous bouder
