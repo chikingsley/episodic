@@ -3,47 +3,89 @@ name = "pimsleur-analyzer"
 version = "0.1.0"
 description = "Analysis scripts for Pimsleur lesson transcripts."
 authors = [
-    {name = "Simon",email = "simon@simonpeacocks.com"}
+    {name = "Simon", email = "simon@simonpeacocks.com"}
 ]
 readme = "README.md"
 requires-python = ">=3.10,<3.14"
 dependencies = [
-    "spacy (>=3.8.7,<4.0.0)",
-    "unidecode (>=1.4.0,<2.0.0)",
-    "spacy-langdetect (>=0.1.2,<0.2.0)",
-    "lingua-language-detector (>=2.1.1,<3.0.0)",
-    "mistralai (>=0.4.1,<0.5.0)",
-    "python-dotenv (>=1.0.1,<2.0.0)",
-    "groq (>=0.28.0,<0.29.0)",
-    "supabase (>=2.15.3,<3.0.0)",
-    "psycopg2-binary (>=2.9.10,<3.0.0)",
-    "alive-progress (>=3.2.0,<4.0.0)"
+    "spacy>=3.8.7,<4.0.0",
+    "unidecode>=1.4.0,<2.0.0",
+    "spacy-langdetect>=0.1.2,<0.2.0",
+    "lingua-language-detector>=2.1.1,<3.0.0",
+    "mistralai>=1.2.0",
+    "python-dotenv>=1.0.1,<2.0.0",
+    "groq>=0.28.0",
+    "supabase>=2.15.3,<3.0.0",
+    "psycopg2-binary>=2.9.10,<3.0.0",
+    "alive-progress>=3.2.0,<4.0.0",
 ]
 
+[dependency-groups]
+dev = [
+    "ruff>=0.14.10",
+    "ty>=0.0.8",
+    "pytest>=9.0.2",
+    "pytest-cov>=7.0.0",
+]
 
 [build-system]
-requires = ["poetry-core"]
-build-backend = "poetry.core.masonry.api"
+requires = ["hatchling"]
+build-backend = "hatchling.build"
 
-[tool.poetry]
-name = "pimsleur-analyzer"
-version = "0.1.0"
-description = "Analysis scripts for Pimsleur lesson transcripts."
-authors = ["Simon <simon@simonpeacocks.com>"]
-readme = "README.md"
-package-mode = false
+[tool.hatch.build.targets.wheel]
+packages = ["02_scripts"]
 
-[tool.poetry.dependencies]
-python = ">=3.10,<3.14"
-spacy = "^3.7.2"
-spacy-langdetect = "^0.1.2"
-lingua-language-detector = "^2.1.1"
-mistralai = "^0.4.2"
-python-dotenv = "^1.0.1"
+# ============================================================================
+# Ruff Configuration
+# ============================================================================
+[tool.ruff]
+target-version = "py311"
+line-length = 100
 
-[tool.poetry.group.dev.dependencies]
-black = "^24.4.2"
-ruff = "^0.11.13"
-mypy = "^1.10.0"
-types-psycopg2 = "^2.9.21.20250516"
+[tool.ruff.lint]
+select = [
+    "E",      # pycodestyle errors
+    "W",      # pycodestyle warnings
+    "F",      # pyflakes
+    "I",      # isort
+    "B",      # flake8-bugbear
+    "C4",     # flake8-comprehensions
+    "UP",     # pyupgrade
+    "ARG",    # flake8-unused-arguments
+    "SIM",    # flake8-simplify
+]
+ignore = [
+    "E501",   # line too long (handled by formatter)
+    "B008",   # function call in default argument
+    "B905",   # zip without strict
+    "SIM117", # nested with statements (kept for readability in our codebase)
+    "B007",   # unused loop control variable (intentional in some cases)
+    "ARG001", # unused function argument (kept for API consistency)
+]
 
+[tool.ruff.format]
+quote-style = "double"
+indent-style = "space"
+skip-magic-trailing-comma = false
+
+# ============================================================================
+# Pytest Configuration
+# ============================================================================
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+python_files = ["test_*.py"]
+python_functions = ["test_*"]
+addopts = "-v --tb=short"
+
+# ============================================================================
+# Coverage Configuration
+# ============================================================================
+[tool.coverage.run]
+source = ["02_scripts"]
+omit = ["*/tests/*", "*/__pycache__/*"]
+
+[tool.coverage.report]
+exclude_lines = [
+    "pragma: no cover",
+    "if __name__ == .__main__.:",
+]

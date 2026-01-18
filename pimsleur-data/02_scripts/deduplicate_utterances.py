@@ -4,11 +4,9 @@ Deduplicates utterances from lesson CSV files.
 Creates new files with _dedup.csv suffix containing unique utterances.
 """
 
+import argparse
 import csv
 import pathlib
-import argparse
-from typing import Dict, List, Set
-from collections import OrderedDict
 
 
 def deduplicate_utterances(input_path: pathlib.Path, output_path: pathlib.Path):
@@ -16,33 +14,33 @@ def deduplicate_utterances(input_path: pathlib.Path, output_path: pathlib.Path):
     Read CSV file and create deduplicated version.
     Keeps first occurrence of each unique utterance text.
     """
-    
+
     # Track unique utterances while preserving order
-    seen_texts: Set[str] = set()
-    unique_rows: List[Dict[str, str]] = []
-    
+    seen_texts: set[str] = set()
+    unique_rows: list[dict[str, str]] = []
+
     # Read the CSV file
-    with open(input_path, 'r', encoding='utf-8') as csvfile:
+    with open(input_path, encoding="utf-8") as csvfile:
         reader = csv.DictReader(csvfile)
-        
+
         for row in reader:
-            utterance_text = row['text']
-            
+            utterance_text = row["text"]
+
             # Only add if we haven't seen this text before
             if utterance_text not in seen_texts:
                 seen_texts.add(utterance_text)
                 unique_rows.append(row)
-    
+
     # Write deduplicated data to new CSV
-    with open(output_path, 'w', newline='', encoding='utf-8') as csvfile:
+    with open(output_path, "w", newline="", encoding="utf-8") as csvfile:
         if unique_rows:
             fieldnames = unique_rows[0].keys()
             writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
-            
+
             writer.writeheader()
             for row in unique_rows:
                 writer.writerow(row)
-    
+
     # Print statistics
     print(f"📊 Deduplication Statistics for {input_path.name}:")
     print(f"   Original utterances: {len(seen_texts) + (reader.line_num - len(unique_rows) - 1)}")
@@ -53,9 +51,7 @@ def deduplicate_utterances(input_path: pathlib.Path, output_path: pathlib.Path):
 
 def main():
     """Main function with argument parsing."""
-    parser = argparse.ArgumentParser(
-        description="Deduplicate utterances from lesson CSV files"
-    )
+    parser = argparse.ArgumentParser(description="Deduplicate utterances from lesson CSV files")
     parser.add_argument(
         "--input",
         type=str,
@@ -72,15 +68,15 @@ def main():
         action="store_true",
         help="Process all lesson files in the analysis directory",
     )
-    
+
     args = parser.parse_args()
-    
+
     project_root = pathlib.Path(__file__).parent.parent
     analysis_dir = project_root / "02_scripts" / "analysis"
-    
+
     # Determine which files to process
     files_to_process = []
-    
+
     if args.all:
         # Process all lesson files
         files_to_process = sorted(analysis_dir.glob("lesson_*_utterances.csv"))
@@ -103,19 +99,19 @@ def main():
             print(f"❌ File not found: {input_path}")
             return
         files_to_process = [input_path]
-    
+
     print("🚀 Deduplicating utterances")
     print("=" * 60)
-    
+
     # Process each file
     for input_path in files_to_process:
         # Create output filename
         output_filename = input_path.stem + "_dedup.csv"
         output_path = input_path.parent / output_filename
-        
+
         deduplicate_utterances(input_path, output_path)
         print()
-    
+
     print("=" * 60)
     print("🎉 Deduplication complete!")
 

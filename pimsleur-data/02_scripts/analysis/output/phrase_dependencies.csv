@@ -1,0 +1,1806 @@
+phrase,first_lesson,occurrences,word_count,parent_count,child_count,parents,children
+"Pardon, est-ce que vous comprenez l'anglais?",1,3,6,8,0,l'anglais|comprenez|vous comprenez|vous|vous comprenez l'anglais,
+"Non, Monsieur. Je ne comprends pas l'anglais.",1,2,7,12,0,l'anglais|ne|je|comprends|je comprends,
+Je comprends un peu le français.,1,38,6,11,0,je|comprends|je comprends|le français|français,
+Est-ce que vous êtes américain?,1,29,5,5,1,vous|est-ce que|américain|vous êtes|vous êtes américain,très bien. est-ce que vous êtes américain
+"Oui, Mademoiselle.",1,12,2,1,1,mademoiselle,"mais oui, mademoiselle"
+Pardon.,1,16,1,0,0,,
+Don.,1,2,1,0,0,,
+Par.,1,2,1,0,0,,
+L'anglais.,1,12,1,0,12,,"pardon, est-ce que vous comprenez l'anglais|non, monsieur. je ne comprends pas l'anglais|vous comprenez l'anglais|est-ce que vous comprenez l'anglais|je comprends l'anglais"
+anglais.,1,2,1,0,1,,en anglais
+Comprenez.,1,4,1,0,25,,"pardon, est-ce que vous comprenez l'anglais|vous comprenez|vous comprenez l'anglais|est-ce que vous comprenez|est-ce que vous comprenez l'anglais"
+Ne.,1,2,1,0,83,,"non, monsieur. je ne comprends pas l'anglais|je ne comprends pas|je ne|je ne comprends pas l'anglais|non, je ne comprends pas"
+Prenez.,1,3,1,0,13,,prenez la route de paris|vous prenez|prenez tout droit|prenez la route à gauche|prenez la route à droite
+Com.,1,4,1,0,0,,
+Vous comprenez.,1,11,2,2,24,comprenez|vous,"pardon, est-ce que vous comprenez l'anglais|vous comprenez l'anglais|est-ce que vous comprenez|est-ce que vous comprenez l'anglais|je comprends. vous comprenez"
+Vous.,1,2,1,0,329,,"pardon, est-ce que vous comprenez l'anglais|est-ce que vous êtes américain|vous comprenez|vous comprenez l'anglais|est-ce que vous comprenez"
+Vous comprenez l'anglais.,1,3,3,4,3,l'anglais|comprenez|vous comprenez|vous,"pardon, est-ce que vous comprenez l'anglais|est-ce que vous comprenez l'anglais|vous ne comprenez pas l'anglais"
+Est-ce que.,1,3,2,0,133,,"pardon, est-ce que vous comprenez l'anglais|est-ce que vous êtes américain|est-ce que vous comprenez|est-ce que vous comprenez l'anglais|est-ce que vous comprenez le français"
+Est-ce que vous comprenez?,1,17,4,4,8,comprenez|vous comprenez|vous|est-ce que,"pardon, est-ce que vous comprenez l'anglais|est-ce que vous comprenez l'anglais|est-ce que vous comprenez le français|est-ce que vous comprenez le français, monsieur|est-ce que vous comprenez l'anglais, monsieur"
+Est-ce que vous comprenez l'anglais?,1,23,5,7,1,l'anglais|comprenez|vous comprenez|vous|vous comprenez l'anglais,"pardon, est-ce que vous comprenez l'anglais"
+Non.,1,4,1,0,11,,"oh non|non merci, mais je voudrais boire quelque chose|non merci. pas maintenant|non merci|non merci, pierre, pas maintenant, mais je voudrais boire quelque chose"
+"Non, Monsieur.",1,14,2,1,1,monsieur,"non, merci, monsieur"
+Sieur.,1,2,1,0,0,,
+Mon.,1,3,1,0,22,,mon mari parle vite|mon mari|mon mari voudrait boire quelque chose|mon mari peut boire quelque chose|mon mari peut boire du vin
+Monsieur.,1,5,1,0,33,,"non, monsieur|est-ce que vous comprenez le français, monsieur|est-ce que vous comprenez l'anglais, monsieur|bonjour, monsieur|comment allez-vous, monsieur"
+Je.,1,5,1,0,334,,"non, monsieur. je ne comprends pas l'anglais|je comprends un peu le français|je comprends|je comprends l'anglais|je comprends. vous comprenez"
+Comprends.,1,4,1,0,37,,"non, monsieur. je ne comprends pas l'anglais|je comprends un peu le français|je comprends|je comprends l'anglais|je ne comprends pas"
+Prends.,1,2,1,0,2,,prends le français|prends le
+Je comprends.,1,9,2,2,34,je|comprends,"non, monsieur. je ne comprends pas l'anglais|je comprends un peu le français|je comprends l'anglais|je ne comprends pas|je ne comprends pas l'anglais"
+Je comprends l'anglais.,1,3,3,4,6,l'anglais|je|comprends|je comprends,"non, monsieur. je ne comprends pas l'anglais|je ne comprends pas l'anglais|non, monsieur, je ne comprends pas l'anglais|oui, mademoiselle. je comprends l'anglais|je comprends un peu l'anglais"
+Je comprends. Vous comprenez.,1,2,4,4,0,comprenez|vous comprenez|vous|je,
+Je ne comprends pas.,1,27,4,7,11,ne|je|comprends|je comprends|pas,"non, monsieur. je ne comprends pas l'anglais|je ne comprends pas l'anglais|non, je ne comprends pas|je ne comprends pas le français|non, monsieur, je ne comprends pas l'anglais"
+Pas.,1,3,1,0,198,,"non, monsieur. je ne comprends pas l'anglais|je ne comprends pas|comprends pas|je ne comprends pas l'anglais|non, je ne comprends pas"
+Comprends pas.,1,2,2,2,12,comprends|pas,"non, monsieur. je ne comprends pas l'anglais|je ne comprends pas|je ne comprends pas l'anglais|non, je ne comprends pas|je ne comprends pas le français"
+Je ne.,1,2,2,2,61,ne|je,"non, monsieur. je ne comprends pas l'anglais|je ne comprends pas|je ne comprends pas l'anglais|non, je ne comprends pas|je ne comprends pas le français"
+Je ne comprends pas l'anglais.,1,16,5,10,2,l'anglais|ne|je|comprends|je comprends,"non, monsieur. je ne comprends pas l'anglais|non, monsieur, je ne comprends pas l'anglais"
+"Non, je ne comprends pas.",1,2,5,8,2,ne|je|comprends|je comprends|je ne comprends pas,"non, monsieur. je ne comprends pas l'anglais|non, monsieur, je ne comprends pas l'anglais"
+Le français.,1,8,2,1,22,français,je comprends un peu le français|je comprends le français|prends le français|comprends le français|je ne comprends pas le français
+français.,1,4,1,0,38,,je comprends un peu le français|le français|je comprends le français|prends le français|comprends le français
+Je comprends le français.,1,23,4,6,6,je|comprends|je comprends|le français|français,"je comprends un peu le français|je ne comprends pas le français|oui, je comprends le français|mais je comprends le français|oui, je comprends bien le français"
+Prends le français.,1,2,3,4,0,prends|le français|français|prends le,
+Comprends le français.,1,2,3,3,7,comprends|le français|français,"je comprends un peu le français|je comprends le français|je ne comprends pas le français|oui, je comprends le français|mais je comprends le français"
+Je ne comprends pas le français.,1,10,6,12,0,ne|je|comprends|je comprends|je ne comprends pas,
+Vous comprenez le français?,1,3,4,5,7,comprenez|vous comprenez|vous|le français|français,"est-ce que vous comprenez le français|pardon, monsieur? est-ce que vous comprenez le français|ah, vous comprenez le français|mais vous comprenez très bien le français|mais monsieur, vous comprenez très bien le français"
+Est-ce que vous comprenez le français?,1,26,6,8,2,comprenez|vous comprenez|vous|est-ce que|est-ce que vous comprenez,"pardon, monsieur? est-ce que vous comprenez le français|je suis française. est-ce que vous comprenez le français"
+Un peu.,1,22,2,1,14,peu,"je comprends un peu le français|je comprends un peu|un peu le français|je comprends un peu l'anglais|oui, un peu"
+Peu.,1,3,1,0,16,,je comprends un peu le français|un peu|je comprends un peu|un peu le français|je comprends un peu l'anglais
+Je comprends un peu.,1,11,4,5,2,je|comprends|je comprends|un peu|peu,je comprends un peu le français|je comprends un peu l'anglais
+Un peu le français.,1,1,4,4,2,le français|français|un peu|peu,je comprends un peu le français|je parle un peu le français
+Américain.,1,5,1,0,12,,"est-ce que vous êtes américain|vous êtes américain|oui, vous êtes américain|oui, je suis américain|je suis américain"
+Cain.,1,2,1,0,0,,
+Amer.,1,2,1,0,0,,
+Vous êtes.,1,9,2,1,32,vous,"est-ce que vous êtes américain|vous êtes américain|oui, vous êtes américain|vous êtes américain, monsieur|est-ce que vous êtes américain, monsieur"
+Vous êtes américain.,1,5,3,3,3,vous|américain|vous êtes,"est-ce que vous êtes américain|oui, vous êtes américain|très bien. est-ce que vous êtes américain"
+Oui.,1,6,1,0,2,,"mais oui|est-ce que vous voudriez déjeuner, oui ou non"
+Moiselle.,1,4,1,0,0,,
+Mademoiselle.,1,8,1,0,28,,"oui, mademoiselle|pardon, mademoiselle|oui. est-ce que vous comprenez l'anglais, mademoiselle|bonjour, mademoiselle|très bien, mademoiselle"
+"Non, Monsieur, je ne comprends pas l'anglais.",1,3,7,12,0,l'anglais|ne|je|comprends|je comprends,
+"Pardon, Mademoiselle?",1,4,2,1,0,mademoiselle,
+"Est-ce que vous comprenez le français, Monsieur?",1,2,7,6,0,comprenez|vous comprenez|vous|est-ce que|est-ce que vous comprenez,
+"Est-ce que vous comprenez l'anglais, Monsieur?",1,3,6,6,0,comprenez|vous comprenez|vous|est-ce que|est-ce que vous comprenez,
+"Oui, Mademoiselle. Je comprends l'anglais.",1,2,5,6,0,l'anglais|je|comprends|je comprends|je comprends l'anglais,
+"Pardon, Monsieur? Est-ce que vous comprenez le français?",2,2,8,9,0,comprenez|vous comprenez|vous|est-ce que|est-ce que vous comprenez,
+"Oui. Est-ce que vous comprenez l'anglais, Mademoiselle?",2,2,7,6,0,comprenez|vous comprenez|vous|est-ce que|est-ce que vous comprenez,
+Prends le.,2,2,2,1,1,prends,prends le français
+Je comprends un peu l'anglais.,2,5,5,9,0,l'anglais|je|comprends|je comprends|je comprends l'anglais,
+Peu l'anglais.,2,2,2,2,1,l'anglais|peu,je comprends un peu l'anglais
+Selle.,2,2,1,0,0,,
+Moi.,2,3,1,0,31,,"je ne veux pas, moi|je ne sais pas, moi|oui, moi aussi, je voudrais manger quelque chose|chez moi|moi aussi"
+Mad.,2,2,1,0,0,,
+"Oui, vous êtes américain.",2,2,4,4,0,vous|américain|vous êtes|vous êtes américain,
+Bonjour.,2,20,1,0,0,,
+Bon.,2,4,1,0,7,,"savez-vous où il y a un bon restaurant|monsieur, savez-vous où il y a un bon restaurant|un bon vin|dans un bon magasin|du bon vin"
+Jour.,2,4,1,0,0,,
+"Bonjour, Mademoiselle.",2,13,2,1,0,mademoiselle,
+Madame.,2,3,1,0,16,,"bonjour, madame|non, madame|oui, madame|au revoir, madame|pardon, madame"
+"Bonjour, Madame.",2,8,2,1,0,madame,
+"Bonjour, Monsieur.",2,11,2,1,0,monsieur,
+Comment.,2,7,1,0,11,,"comment allez-vous|comment allez-vous, monsieur|comment allez-vous, madame|bonjour, monsieur. comment allez-vous|mademoiselle, comment allez-vous"
+Vous allez.,2,6,2,1,22,vous,est-ce que vous allez bien|vous allez manger|est-ce que vous allez manger|est-ce que vous allez manger à cinq heures|est-ce que vous allez déjeuner avec moi
+Comment allez-vous?,2,27,2,1,5,comment,"bonjour, monsieur. comment allez-vous|mademoiselle, comment allez-vous|bonjour, michel. comment allez-vous|bonjour, marie. comment allez-vous|comment allez-vous aujourd'hui"
+"Très bien, merci.",2,11,3,2,2,merci|très,"très bien, monsieur, merci|très bien, merci et vous"
+Merci.,2,6,1,0,15,,"très bien, merci|je vais bien, merci|très bien, monsieur, merci|bien, madame. merci|oui, merci"
+Bien.,2,4,1,0,43,,je vais bien|très bien|pas très bien|je ne comprends pas très bien|vous comprenez très bien
+Très.,2,3,1,0,36,,"très bien, merci|très bien, mademoiselle|très bien|très bien, monsieur, merci|pas très bien"
+"Comment allez-vous, Monsieur?",2,4,3,2,1,monsieur|comment,"bonjour. comment allez-vous, monsieur"
+"Très bien, Mademoiselle.",2,3,3,2,0,mademoiselle|très,
+Je vais bien.,2,10,3,3,8,je|bien|je vais,"non, je ne vais pas bien|je ne vais pas bien|non, je ne vais pas très bien|je ne vais pas très bien|oui, je vais bien"
+Au revoir.,2,16,2,1,3,au,"au revoir, mademoiselle. au revoir|d'accord. au revoir|alors, au revoir"
+Voir.,2,3,1,0,12,,je vais voir des amis|je vais voir|je vais voir mes amis|je vais voir jacques|est-ce que vous allez voir georges
+"Je vais bien, merci.",2,4,4,3,1,je|merci|je vais,"oui, je vais bien, merci"
+"Non, Madame.",2,2,2,1,0,madame,
+"Oui, Madame.",2,1,2,1,0,madame,
+"Au revoir, Madame.",2,6,3,2,0,madame|au,
+"Au revoir, Monsieur.",2,6,3,2,1,monsieur|au,"moi? très bien, merci. au revoir, monsieur"
+"Pardon, Madame.",2,6,2,1,0,madame,
+"Est-ce que vous comprenez, Madame?",2,1,5,3,0,vous|est-ce que|madame,
+"Oui, Monsieur, je comprends.",2,1,4,3,0,je|comprends|je comprends,
+"Ah, vous comprenez le français?",2,4,5,6,0,comprenez|vous comprenez|vous|le français|français,
+"Oui, je comprends le français.",2,1,5,7,1,je|comprends|je comprends|le français|français,"oui, je comprends bien le français"
+Très bien.,2,11,2,2,17,bien|très,"pas très bien|je ne comprends pas très bien|vous comprenez très bien|oui, madame, un peu. pas très bien|mais vous comprenez très bien le français"
+"Comment allez-vous, Madame?",2,2,3,2,0,madame|comment,
+"Très bien, Monsieur, merci.",2,2,4,4,0,"très bien, merci|merci|très|bien, très bien, merci",
+"Je ne comprends pas, Madame.",2,2,5,6,0,ne|je|comprends|je comprends|je ne,
+"Oui, je comprends l'anglais.",2,1,4,5,1,l'anglais|je|comprends|je comprends|je comprends l'anglais,"oui, mademoiselle. je comprends l'anglais"
+Pas très bien.,2,15,3,4,6,pas|bien|très|très bien,"je ne comprends pas très bien|oui, madame, un peu. pas très bien|oh, un peu. je ne comprends pas très bien|moi? pas très bien|non, je ne vais pas très bien"
+Je ne comprends pas très bien.,2,5,6,13,1,ne|je|comprends|je comprends|je ne comprends pas,"oh, un peu. je ne comprends pas très bien"
+Vous comprenez très bien.,2,5,4,6,2,comprenez|vous comprenez|vous|bien|très,"mais vous comprenez très bien le français|mais monsieur, vous comprenez très bien le français"
+"Merci, Mademoiselle.",2,3,2,1,0,mademoiselle,
+"Au revoir, Mademoiselle.",2,4,3,2,0,mademoiselle|au,
+"Bonjour, Monsieur. Comment allez-vous?",3,2,4,2,0,comment|comment allez-vous,
+"Bien, Madame. Merci.",3,2,3,1,0,merci,
+"Oui, Madame, un peu. Pas très bien.",3,2,7,6,0,pas|bien|très|très bien|pas très bien,
+"Vous êtes américain, Monsieur?",3,2,4,3,1,vous|monsieur|vous êtes,"est-ce que vous êtes américain, monsieur"
+Mais vous comprenez très bien le français.,3,2,7,12,1,comprenez|vous comprenez|vous|le français|français,"mais monsieur, vous comprenez très bien le français"
+"Merci, Madame.",3,4,2,1,0,madame,
+"Est-ce que vous êtes américain, Monsieur?",3,2,6,5,0,"vous|est-ce que|monsieur|vous êtes|vous êtes américain, monsieur",
+"Est-ce que vous êtes américaine, Mademoiselle?",3,3,6,4,0,vous|est-ce que|vous êtes|mademoiselle,
+Américaine.,3,4,1,0,7,,"américain, américaine|est-ce que vous êtes américaine|je suis américaine|vous êtes américaine|vous n'êtes pas américaine"
+Caine.,3,2,1,0,1,,"cain, caine"
+"Cain, Caine.",3,3,2,1,0,caine,
+"Américain, Américaine.",3,4,2,1,0,américaine,
+Est-ce que vous êtes américaine?,3,2,5,5,0,vous|est-ce que|vous êtes|américaine|vous êtes américaine,
+"Oui, je suis américain.",3,1,4,5,2,je|américain|je suis|suis|je suis américain,"oui, mademoiselle. je suis américain|oui, mademoiselle, je suis américain"
+Je suis.,3,9,2,2,28,je|suis,"oui, je suis américain|je suis américain|je suis américaine|je suis français|je suis française"
+Suis.,3,5,1,0,29,,"oui, je suis américain|je suis|je suis américain|je suis américaine|je suis français"
+Je suis américain.,3,12,3,4,6,je|américain|je suis|suis,"oui, je suis américain|non, madame, je suis américain|je ne suis pas américain|je suis américain et vous|oui, mademoiselle. je suis américain"
+Je suis américaine.,3,7,3,4,0,je|américaine|je suis|suis,
+Je suis français.,3,2,3,4,2,je|français|je suis|suis,je ne suis pas français|je suis française. est-ce que vous comprenez le français
+Je suis française.,3,1,3,4,1,je|je suis|suis|française,je ne suis pas française
+française.,3,2,1,0,5,,"je suis française|français, française|est-ce que vous êtes française|je ne suis pas française|nous avons une voiture française"
+"français, française.",3,2,2,1,0,française,
+Est-ce que vous êtes français?,3,3,5,4,1,vous|est-ce que|français|vous êtes,"pardon, monsieur, est-ce que vous êtes français"
+Est-ce que vous êtes française?,3,4,5,4,0,vous|est-ce que|vous êtes|française,
+"Est-ce que vous êtes française, Mademoiselle?",3,2,6,4,0,vous|est-ce que|vous êtes|mademoiselle,
+Je ne suis pas française.,3,6,5,8,0,ne|je|pas|je ne|je suis,
+Je ne suis pas français.,3,5,5,8,0,ne|je|pas|je ne|français,
+Et vous?,3,9,2,2,19,vous|et,"je suis américain, et vous|je suis américaine, et vous|je suis américain et vous|oui, mademoiselle, je suis français. et vous|très bien, merci. et vous"
+Et.,3,6,1,0,97,,"et vous|je suis américain, et vous|je suis américaine, et vous|je suis américain et vous|très bien, merci. et vous, monsieur"
+"Je suis américain, et vous?",3,1,5,6,0,vous|je|je suis|suis|et vous,
+"Je suis américaine, et vous?",3,1,5,6,0,vous|je|je suis|suis|et vous,
+Vous êtes américaine.,3,1,3,3,1,vous|vous êtes|américaine,est-ce que vous êtes américaine
+Vous n'êtes pas américaine.,3,4,4,4,0,vous|pas|américaine|pas américaine,
+Pas américaine.,3,1,2,2,1,pas|américaine,vous n'êtes pas américaine
+Vous n'êtes pas américain.,3,3,4,3,0,vous|pas|américain,
+"Vous n'êtes pas américaine, Madame.",3,1,5,3,0,vous|pas|madame,
+"Vous n'êtes pas américain, Monsieur.",3,1,5,3,0,vous|monsieur|pas,
+Mais.,3,6,1,0,79,,"mais vous comprenez très bien le français|mais je comprends|mais je comprends le français|mais oui|mais oui, mademoiselle"
+Mais je comprends.,3,2,3,4,2,je|comprends|je comprends|mais,"mais je comprends le français|mais en français, je ne vous comprends pas"
+Mais je comprends le français.,3,4,5,9,0,je|comprends|je comprends|le français|français,
+"Non, Madame, je suis américain.",3,1,5,5,0,je|américain|je suis|suis|je suis américain,
+"Oui, un peu.",3,1,3,2,0,un peu|peu,
+S'il vous plaît.,3,11,3,4,34,vous|plaît|vous plaît|s'il,"où est la rue saint-jacques s'il vous plaît|où est la rue saint-jacques, s'il vous plaît|pardon, où est la rue saint-jacques, s'il vous plaît|où est la rue lafayette, s'il vous plaît|où est le boulevard saint-michel, s'il vous plaît"
+Plaît.,3,2,1,0,36,,"s'il vous plaît|vous plaît|où est la rue saint-jacques s'il vous plaît|où est la rue saint-jacques, s'il vous plaît|pardon, où est la rue saint-jacques, s'il vous plaît"
+Vous plaît.,3,2,2,2,35,vous|plaît,"s'il vous plaît|où est la rue saint-jacques s'il vous plaît|où est la rue saint-jacques, s'il vous plaît|pardon, où est la rue saint-jacques, s'il vous plaît|où est la rue lafayette, s'il vous plaît"
+S'il.,3,4,1,0,41,,"s'il vous plaît|s'il vous plaît, monsieur|où est la rue saint-jacques s'il vous plaît|où est le boulevard saint-michel, s'il vous plait|où est la rue saint-jacques, s'il vous plait"
+"Non, Mademoiselle.",3,1,2,1,0,mademoiselle,
+Je ne suis pas américain.,3,4,5,8,0,ne|je|pas|je ne|américain,
+Vous ne comprenez pas l'anglais.,3,2,5,8,0,l'anglais|comprenez|ne|vous comprenez|vous,
+Vous n'êtes pas français.,3,2,4,3,0,vous|pas|français,
+Je suis américain et vous?,3,2,5,8,0,vous|je|américain|je suis|suis,
+Est-ce que vous allez bien?,3,7,5,4,0,vous|est-ce que|vous allez|bien,
+"Oui, merci.",3,2,2,1,1,merci,"oui, je vais bien, merci"
+"Non, je ne vais pas bien.",3,2,6,8,1,ne|je|pas|je ne|bien,"non, je ne vais pas très bien"
+"S'il vous plaît, Monsieur.",3,2,4,3,0,vous|monsieur|s'il,
+Mais oui.,3,4,2,2,0,oui|mais,
+"Mais oui, Mademoiselle.",3,1,3,3,0,"oui, mademoiselle|mademoiselle|mais",
+Mademoiselle! Mademoiselle!,3,1,2,1,0,mademoiselle,
+"Oui, Monsieur.",3,5,2,1,1,monsieur,"oui, c'est ici, monsieur"
+"Très bien, merci. Et vous, Monsieur?",3,1,6,3,0,monsieur|très|et,
+"Oui, Mademoiselle. Je suis américain.",3,2,5,6,0,"je|américain|oui, je suis américain|je suis|suis",
+"Mais Monsieur, vous comprenez très bien le français.",3,1,8,13,0,comprenez|vous comprenez|vous|le français|français,
+Merci bien.,3,2,2,2,0,merci|bien,
+"Je trouve que pour un américain, vous parlez très bien le français.",3,1,12,12,0,vous|je|le français|français|bien,
+Pardon? Je ne comprends pas.,3,1,5,8,0,ne|je|comprends|je comprends|je ne comprends pas,
+Vous parlez très bien.,3,3,4,7,2,vous|bien|très|très bien|vous parlez,"je trouve que pour un américain, vous parlez très bien le français|mais si, mais si, vous parlez très bien"
+"S’il vous plaît, Mademoiselle.",3,2,4,2,0,vous|mademoiselle,
+"Au revoir, Mademoiselle. Au revoir.",3,1,5,2,0,au revoir|au,
+"Pardon, Monsieur, est-ce que vous êtes français?",4,2,7,5,0,vous|est-ce que|français|vous êtes|est-ce que vous êtes français,
+"Oui, Mademoiselle, je suis français. Et vous?",4,2,7,6,0,vous|je|je suis|suis|et vous,
+Mais vous comprenez le français?,4,2,5,7,2,comprenez|vous comprenez|vous|le français|français,"mais vous comprenez très bien le français|mais monsieur, vous comprenez très bien le français"
+"Oh, un peu. Je ne comprends pas très bien.",4,2,9,14,0,ne|je|comprends|je comprends|je ne comprends pas,
+"Mais si, mais si, vous parlez très bien.",4,2,8,9,0,vous|bien|très|très bien|mais,
+"Merci, Monsieur.",4,3,2,1,2,monsieur,"non, merci, monsieur|non merci, monsieur"
+Je ne vais pas bien.,4,2,5,7,3,ne|je|pas|je ne|bien,"non, je ne vais pas bien|non, je ne vais pas très bien|je ne vais pas très bien"
+Mais si.,4,4,2,2,0,mais|si,
+Vous parlez.,4,4,2,2,12,vous|parlez,"je trouve que pour un américain, vous parlez très bien le français|vous parlez très bien|mais si, mais si, vous parlez très bien|vous parlez bien|vous parlez français"
+Parlez.,4,1,1,0,15,,"je trouve que pour un américain, vous parlez très bien le français|vous parlez très bien|mais si, mais si, vous parlez très bien|vous parlez|vous parlez bien"
+Vous parlez bien.,4,4,3,4,3,vous|bien|vous parlez|parlez,"je trouve que pour un américain, vous parlez très bien le français|vous parlez très bien|mais si, mais si, vous parlez très bien"
+Je parle.,4,2,2,2,8,je|parle,je parle un peu|mais je ne parle pas|je ne parle pas bien|et je parle un peu|je parle français
+Parle.,4,1,1,0,11,,je parle|je parle un peu|mais je ne parle pas|je ne parle pas bien|et je parle un peu
+Je parle un peu.,4,3,4,5,2,je|un peu|peu|je parle|parle,et je parle un peu|je parle un peu le français
+Mais je ne parle pas.,4,1,5,7,0,ne|je|pas|je ne|mais,
+Je ne parle pas bien.,4,6,5,7,0,ne|je|pas|je ne|bien,
+Si.,4,2,1,0,5,,"mais si|si vous voulez|oui, si la voiture est petite|si vous prenez la bonne route|si vous n'êtes pas seul"
+Et je parle un peu.,4,6,5,7,0,je|un peu|peu|et|je parle,
+Où est la rue Saint-Jacques s'il vous plaît?,4,1,8,15,0,vous|s'il vous plaît|plaît|vous plaît|s'il,
+Jacques.,4,3,1,0,7,,où est le restaurant chez jacques|où est jacques|jacques n'est pas ici|et qui est jacques|jacques est indépendant
+Saint.,4,3,1,0,0,,
+Saint-Jacques.,4,5,1,0,12,,où est la rue saint-jacques s'il vous plaît|la rue saint-jacques|où est la rue saint-jacques|la rue saint-jacques n'est pas là-bas|mais la rue saint-jacques est ici
+Michel.,4,3,1,0,1,,où est le restaurant chez michel
+Saint-Michel.,4,4,1,0,8,,la rue saint-michel|le boulevard saint-michel|où est le boulevard saint-michel|le boulevard saint-michel est ici|et le boulevard saint-michel
+La rue.,4,7,2,1,15,rue,où est la rue saint-jacques s'il vous plaît|la rue saint-jacques|la rue saint-michel|où est la rue|où est la rue saint-jacques
+Rue.,4,3,1,0,20,,où est la rue saint-jacques s'il vous plaît|la rue|la rue saint-jacques|la rue saint-michel|où est la rue
+La rue Saint-Jacques.,4,7,3,4,8,saint-jacques|la rue|rue|rue saint-jacques,où est la rue saint-jacques s'il vous plaît|où est la rue saint-jacques|la rue saint-jacques n'est pas là-bas|mais la rue saint-jacques est ici|la rue saint-jacques est ici
+La rue Saint-Michel.,4,2,3,3,0,saint-michel|la rue|rue,
+Ou.,4,6,1,0,28,,"ou du vin|du vin ou de la bière|qu'est-ce que vous voudriez boire? du vin ou de la bière|qu'est-ce que vous voudriez boire, du vin ou de la bière|ou de la bière"
+Est.,4,5,1,0,117,,où est la rue saint-jacques s'il vous plaît|où est|où est la rue|où est la rue saint-jacques|où est le boulevard saint-michel
+Où est.,4,2,2,2,30,est|où,"où est la rue saint-jacques s'il vous plaît|où est la rue|où est la rue saint-jacques|où est le boulevard saint-michel|où est le boulevard saint-michel, s'il vous plait"
+Où est la rue?,4,2,4,5,8,la rue|rue|est|où est|où,"où est la rue saint-jacques s'il vous plaît|où est la rue saint-jacques|où est la rue saint-jacques, s'il vous plait|où est la rue saint-jacques, s'il vous plaît|pardon, où est la rue saint-jacques, s'il vous plaît"
+Où est la rue Saint-Jacques?,4,9,5,9,3,saint-jacques|la rue|rue|la rue saint-jacques|est,où est la rue saint-jacques s'il vous plaît|est-ce que vous savez où est la rue saint-jacques|savez-vous où est la rue saint-jacques
+Sil vous plait.,4,1,3,1,0,vous,
+Le boulevard.,4,4,2,1,11,boulevard,"le boulevard saint-michel|où est le boulevard saint-michel|où est le boulevard saint-michel, s'il vous plait|le boulevard saint-michel est ici|et le boulevard saint-michel"
+Boulevard.,4,3,1,0,13,,"le boulevard|le boulevard saint-michel|où est le boulevard saint-michel|où est le boulevard saint-michel, s'il vous plait|le boulevard saint-michel est ici"
+Le boulevard Saint-Michel.,4,4,3,3,5,saint-michel|le boulevard|boulevard,où est le boulevard saint-michel|le boulevard saint-michel est ici|et le boulevard saint-michel|le boulevard saint-michel est là-bas|mais le boulevard saint-michel est ici
+Où est le boulevard Saint-Michel?,4,8,5,8,0,saint-michel|est|où est|le boulevard|boulevard,
+"Où est le boulevard Saint-Michel, s'il vous plait?",4,1,8,8,0,vous|s'il|est|où est|le boulevard,
+Ici.,4,6,1,0,42,,"c'est ici|est-ce que c'est ici|oui, c'est ici|non, ce n'est pas ici|ce n'est pas ici"
+C'est.,4,5,1,0,64,,"c'est ici|c'est ici, monsieur|est-ce que c'est ici|oui, c'est ici|c'est là-bas"
+Ce.,4,2,1,0,38,,"non, ce n'est pas ici|ce n'est pas ici|ce n'est pas là-bas|ce n'est pas ici, c'est là-bas|et ce n'est pas là-bas"
+C'est ici.,4,5,2,2,3,ici|c'est,"est-ce que c'est ici|oui, c'est ici|ou est-ce que c'est ici"
+"Où est la rue Saint-Jacques, s'il vous plait?",4,1,8,8,0,vous|s'il|la rue|rue|est,
+"C'est ici, Monsieur.",4,4,3,2,1,monsieur|c'est,"oui, c'est ici, monsieur"
+Est-ce que c'est ici?,4,13,4,4,1,est-ce que|ici|c'est|c'est ici,ou est-ce que c'est ici
+"Oui, c'est ici.",4,1,3,3,0,ici|c'est|c'est ici,
+"Non, ce n'est pas ici.",4,4,5,5,0,pas|ici|ce|ce n'est pas ici|pas ici,
+Ce n'est pas ici.,4,7,4,4,1,pas|ici|ce|pas ici,"non, ce n'est pas ici"
+C'est là-bas.,4,14,2,2,3,c'est|là-bas,"non, c'est là-bas|ce n'est pas ici, c'est là-bas|est-ce que c'est là-bas"
+Là-bas.,4,6,1,0,32,,"c'est là-bas|ce n'est pas là-bas|la rue saint-jacques n'est pas là-bas|le boulevard saint-michel est là-bas|non, c'est là-bas"
+Ce n'est pas là-bas.,4,4,4,3,2,pas|ce|là-bas,"ce n'est pas ici, c'est là-bas|et ce n'est pas là-bas"
+"Oui, c'est ici, Monsieur.",4,1,4,4,0,"monsieur|oui, monsieur|c'est|c'est ici, monsieur",
+Le boulevard Saint-Michel est ici.,4,4,5,6,1,saint-michel|est|le boulevard|boulevard|le boulevard saint-michel,mais le boulevard saint-michel est ici
+"Où est la rue Saint-Jacques, s'il vous plaît?",4,11,8,12,1,vous|s'il vous plaît|plaît|vous plaît|s'il,"pardon, où est la rue saint-jacques, s'il vous plaît"
+"Très bien, merci. Et vous?",4,1,5,4,0,vous|très|et vous|et,
+Très bien. Est-ce que vous êtes américain?,4,2,7,7,0,est-ce que vous êtes américain|vous|est-ce que|américain|vous êtes,
+"Oui, Mademoiselle, je suis américain.",4,1,5,6,0,"je|américain|oui, je suis américain|je suis|suis",
+Je suis française. Est-ce que vous comprenez le français?,4,2,9,13,0,comprenez|vous comprenez|vous|est-ce que|est-ce que vous comprenez,
+"Pardon, où est la rue Saint-Jacques, s'il vous plaît?",4,2,9,13,0,vous|s'il vous plaît|plaît|vous plaît|s'il,
+"C'est ici, Mademoiselle.",4,2,3,2,0,mademoiselle|c'est,
+Et le boulevard Saint-Michel?,4,6,4,5,0,et|saint-michel|le boulevard|boulevard|le boulevard saint-michel,
+La rue Saint-Jacques n'est pas là-bas.,4,5,6,7,0,pas|saint-jacques|la rue|rue|la rue saint-jacques,
+Le boulevard Saint-Michel est là-bas.,4,5,5,6,0,saint-michel|est|le boulevard|boulevard|le boulevard saint-michel,
+Mais la rue Saint-Jacques est ici.,4,3,6,9,0,mais|saint-jacques|la rue|rue|la rue saint-jacques,
+Savez-vous où il y a un bon restaurant?,4,1,8,5,1,bon|savez-vous|où|restaurant|il y a,"monsieur, savez-vous où il y a un bon restaurant"
+"Je ne comprends pas, Mademoiselle.",4,2,5,6,0,ne|je|comprends|je comprends|je ne,
+Ça ne fait rien.,4,3,4,3,0,ne|rien|ça,
+"Très bien, merci et vous?",4,1,5,7,0,"vous|très bien, merci|merci|très|et vous",
+"Monsieur, savez-vous où il y a un bon restaurant?",4,1,9,6,0,bon|savez-vous où il y a un bon restaurant|savez-vous|où|restaurant,
+Mademoiselle. Mademoiselle.,5,1,2,1,0,mademoiselle,
+"Mademoiselle, comment allez-vous?",5,2,3,2,0,comment|comment allez-vous,
+"Moi? Très bien, merci. Au revoir, Monsieur.",5,2,7,4,0,"monsieur|très|au revoir, monsieur|au",
+Mademoiselle? Mademoiselle?,5,1,2,1,0,mademoiselle,
+"Oui, je comprends bien le français.",5,1,6,11,0,je|comprends|je comprends|le français|français,
+Je comprends bien.,5,1,3,4,4,je|comprends|je comprends|bien,"je ne comprends pas très bien|oh, un peu. je ne comprends pas très bien|oui, je comprends bien le français|je comprends bien le français"
+Je comprends bien le français.,5,1,5,9,1,je|comprends|je comprends|le français|français,"oui, je comprends bien le français"
+Moi? Très bien.,5,2,3,3,1,bien|très|très bien,moi? pas très bien
+Moi? Pas très bien.,5,2,4,6,0,pas|bien|très|très bien|pas très bien,
+La rue Saint-Jacques est ici.,5,2,5,7,1,saint-jacques|la rue|rue|la rue saint-jacques|est,mais la rue saint-jacques est ici
+"Non, c'est là-bas.",5,2,3,3,0,c'est|c'est là-bas|là-bas,
+La rue Saint-Jacques n'est pas ici.,5,2,6,8,0,pas|saint-jacques|la rue|rue|la rue saint-jacques,
+Mais le boulevard Saint-Michel est ici.,5,2,6,8,0,mais|saint-michel|est|le boulevard|boulevard,
+Je ne sais pas.,5,32,4,5,9,ne|je|pas|je ne|je sais,"non, je ne sais pas|mais je ne sais pas|je ne sais pas à quelle heure|ma femme? je ne sais pas|je ne sais pas où il est"
+C'est pas.,5,2,2,2,1,pas|c'est,"ce n'est pas ici, c'est là-bas"
+Je n-.,5,2,2,1,0,je,
+Je sais.,5,5,2,1,20,je,"je ne sais pas|moi, je sais|non, je ne sais pas|je ne sais pas, moi|ah oui, je sais"
+"Moi, je sais.",5,5,3,2,0,je|je sais,
+"Où est la rue Lafayette, s'il vous plaît?",5,2,8,11,0,vous|s'il vous plaît|plaît|vous plaît|s'il,
+Vous savez.,5,5,2,1,3,vous,est-ce que vous savez|est-ce que vous savez où est la rue saint-jacques|est-ce que vous savez où est le boulevard
+Est-ce que vous savez?,5,5,4,3,2,vous|est-ce que|vous savez,est-ce que vous savez où est la rue saint-jacques|est-ce que vous savez où est le boulevard
+Savez-vous?,5,5,1,0,3,,"savez-vous où il y a un bon restaurant|monsieur, savez-vous où il y a un bon restaurant|savez-vous où est la rue saint-jacques"
+"Non, je ne sais pas.",5,2,5,6,0,ne|je|pas|je ne|je ne sais pas,
+Je veux.,5,7,2,2,34,je|veux,"je ne veux pas|je ne veux pas, moi|mais moi, je ne veux pas manger|oui, je veux bien|je veux bien"
+Veux.,5,4,1,0,37,,"je veux|je ne veux pas|je ne veux pas, moi|mais moi, je ne veux pas manger|oui, je veux bien"
+Vous voulez.,5,7,2,2,14,vous|voulez,"est-ce que vous voulez|qu'est-ce que vous voulez faire|qu'est-ce que vous voulez faire maintenant|dites-moi, marie, qu'est-ce que vous voulez faire maintenant|oui. vous ne voulez pas boire quelque chose avec moi"
+Voulez.,5,2,1,0,15,,"vous voulez|est-ce que vous voulez|qu'est-ce que vous voulez faire|qu'est-ce que vous voulez faire maintenant|dites-moi, marie, qu'est-ce que vous voulez faire maintenant"
+Je ne veux pas.,5,8,4,6,7,ne|je|pas|je ne|je veux,"mais moi, je ne veux pas manger|non merci, je ne veux pas|non, monsieur, je ne veux pas boire quelque chose avec vous|je ne veux pas manger|mais je ne veux pas"
+"Je ne veux pas, moi.",5,2,5,6,0,ne|je|je ne|moi|je veux,
+Est-ce que vous voulez?,5,2,4,4,2,vous|est-ce que|vous voulez|voulez,est-ce que vous le voulez|est-ce que vous voulez aller là-bas
+Vous voudriez.,5,8,2,2,42,vous|voudriez,vous voudriez manger quelque chose|est-ce que vous voudriez manger quelque chose|est-ce que vous voudriez boire quelque chose|où est-ce que vous voudriez manger|quand est-ce que vous voudriez manger
+Voudriez.,5,3,1,0,43,,vous voudriez|vous voudriez manger quelque chose|est-ce que vous voudriez manger quelque chose|est-ce que vous voudriez boire quelque chose|où est-ce que vous voudriez manger
+Vous voudriez manger quelque chose.,5,3,5,7,2,vous|vous voudriez|voudriez|manger|quelque chose,est-ce que vous voudriez manger quelque chose|mais vous voudriez manger quelque chose avec moi
+Manger.,5,5,1,0,59,,"vous voudriez manger quelque chose|est-ce que vous voudriez manger quelque chose|oui, je voudrais manger|oui, je voudrais manger quelque chose|moi? oui, je voudrais manger quelque chose"
+Quelque chose.,5,9,2,2,67,chose|quelque,"vous voudriez manger quelque chose|est-ce que vous voudriez manger quelque chose|oui, je voudrais manger quelque chose|moi? oui, je voudrais manger quelque chose|je voudrais boire quelque chose"
+Chose.,5,2,1,0,68,,"vous voudriez manger quelque chose|quelque chose|est-ce que vous voudriez manger quelque chose|oui, je voudrais manger quelque chose|moi? oui, je voudrais manger quelque chose"
+Quelque.,5,2,1,0,72,,"vous voudriez manger quelque chose|quelque chose|est-ce que vous voudriez manger quelque chose|oui, je voudrais manger quelque chose|moi? oui, je voudrais manger quelque chose"
+Est-ce que vous voudriez manger quelque chose?,5,10,7,9,0,vous|est-ce que|vous voudriez|voudriez|vous voudriez manger quelque chose,
+Je voudrais.,5,11,2,2,67,je|voudrais,"oui, je voudrais manger|oui, je voudrais manger quelque chose|moi? oui, je voudrais manger quelque chose|je voudrais boire quelque chose|je voudrais manger quelque chose"
+Voudrais.,5,6,1,0,68,,"je voudrais|oui, je voudrais manger|oui, je voudrais manger quelque chose|moi? oui, je voudrais manger quelque chose|je voudrais boire quelque chose"
+"Oui, je voudrais manger.",5,2,4,5,6,je|manger|je voudrais|voudrais|je voudrais manger,"oui, je voudrais manger quelque chose|moi? oui, je voudrais manger quelque chose|oui, moi aussi, je voudrais manger quelque chose|mais oui, et je voudrais manger quelque chose. vous aussi|oui, moi aussi. je voudrais manger quelque chose"
+"Oui, je voudrais manger quelque chose.",5,6,6,10,3,je|manger|quelque chose|chose|quelque,"moi? oui, je voudrais manger quelque chose|oui, moi aussi, je voudrais manger quelque chose|oui, moi aussi. je voudrais manger quelque chose"
+"Moi? Oui, je voudrais manger quelque chose.",5,2,7,11,0,je|manger|quelque chose|chose|quelque,
+Je voudrais boire quelque chose.,5,9,5,8,8,je|quelque chose|chose|quelque|je voudrais,"oui, je voudrais boire quelque chose aussi|oui, je voudrais boire quelque chose|non merci, mais je voudrais boire quelque chose|non, monsieur, pas maintenant. plus tard, s'il vous plaît. mais je voudrais boire quelque chose maintenant|mais moi, je voudrais boire quelque chose maintenant"
+Boire.,5,4,1,0,73,,"je voudrais boire quelque chose|est-ce que vous voudriez boire quelque chose|et boire|oui, je voudrais boire quelque chose aussi|oui, je voudrais boire quelque chose"
+Est-ce que vous voudriez boire quelque chose?,5,24,7,9,8,vous|est-ce que|vous voudriez|voudriez|quelque chose,et quand est-ce que vous voudriez boire quelque chose|quand est-ce que vous voudriez boire quelque chose|est-ce que vous voudriez boire quelque chose chez moi|est-ce que vous voudriez boire quelque chose maintenant|je ne sais pas. et vous? est-ce que vous voudriez boire quelque chose
+Je voudrais manger quelque chose.,5,11,5,8,12,je|manger|quelque chose|chose|quelque,"oui, je voudrais manger quelque chose|moi? oui, je voudrais manger quelque chose|mais je voudrais manger quelque chose|non, merci, mais je voudrais manger quelque chose|bien merci, mais je voudrais manger quelque chose et vous"
+"Non, merci.",5,13,2,1,0,merci,
+Mais je voudrais manger quelque chose.,5,8,6,10,5,je|mais|manger|quelque chose|chose,"non, merci, mais je voudrais manger quelque chose|bien merci, mais je voudrais manger quelque chose et vous|mais je voudrais aussi manger quelque chose|non, merci. mais je voudrais manger quelque chose|je ne sais pas, mais je voudrais manger quelque chose"
+"Non, merci, mais je voudrais manger quelque chose.",5,3,8,11,0,je|mais|manger|quelque chose|chose,
+"Non, je ne vais pas très bien.",5,1,7,13,0,ne|je|pas|je ne|bien,
+Je ne vais pas très bien.,5,1,6,11,1,ne|je|pas|je ne|bien,"non, je ne vais pas très bien"
+"Ce n'est pas ici, c'est là-bas.",5,3,6,7,0,pas|c'est|ce|c'est là-bas|là-bas,
+"Où est le boulevard Saint-Michel, s'il vous plaît?",5,2,8,11,0,vous|s'il vous plaît|plaît|vous plaît|s'il,
+"Je ne sais pas, moi.",5,4,5,5,0,ne|je|je ne|moi|je sais,
+"Ah oui, je sais.",5,5,4,3,0,"je|je sais|oui, je sais",
+Où?,5,16,1,0,50,,où est la rue saint-jacques s'il vous plaît|où est|où est la rue|où est la rue saint-jacques|où est le boulevard saint-michel
+Mais je ne sais pas.,5,2,5,7,0,ne|je|pas|je ne|mais,
+Oh non.,5,1,2,1,0,non,
+"Non, merci, Monsieur.",5,2,3,3,0,"non, monsieur|monsieur|merci, monsieur",
+"Mais je voudrais manger quelque chose, Monsieur.",5,1,7,8,0,monsieur|je|mais|manger|quelque,
+"Ah, très bien.",5,3,3,3,0,bien|très|très bien,
+"Mais moi, je ne veux pas manger.",5,2,7,12,0,ne|je|pas|je ne|mais,
+"Bonjour, Jacqueline.",6,2,2,0,0,,
+"Bonjour, Michel. Comment allez-vous?",6,2,4,2,0,comment|comment allez-vous,
+"Bien merci, mais je voudrais manger quelque chose et vous?",6,2,10,16,0,vous|je|bien|et vous|et,
+"Oui, moi aussi, je voudrais manger quelque chose.",6,2,8,12,0,je|moi|manger|quelque chose|chose,
+Et boire?,6,2,2,2,6,et|boire,et quand est-ce que vous voudriez boire quelque chose|je ne sais pas. et vous? est-ce que vous voudriez boire quelque chose|et je voudrais aussi boire du vin. d'accord|et vous pouvez boire de l'orangina|et nous voudrions boire quelque chose
+"Oui, je voudrais boire quelque chose aussi.",6,2,7,11,0,je|quelque chose|chose|quelque|je voudrais,
+"Rue Saint-Jacques, s'il vous plaît.",6,2,5,6,2,vous|s'il vous plaît|plaît|vous plaît|s'il,"où est la rue saint-jacques, s'il vous plaît|pardon, où est la rue saint-jacques, s'il vous plaît"
+"Oui, je voudrais boire quelque chose.",6,2,6,9,1,je|quelque chose|chose|quelque|je voudrais,"oui, je voudrais boire quelque chose aussi"
+"Non merci, mais je voudrais boire quelque chose.",6,2,8,11,1,non|je|mais|quelque chose|chose,"non merci, pierre, pas maintenant, mais je voudrais boire quelque chose"
+Et ce n'est pas là-bas.,6,2,5,5,0,pas|et|ce|là-bas|ce n'est pas là-bas,
+Où est-ce que vous voudriez manger?,6,22,6,6,0,vous|est-ce que|vous voudriez|voudriez|manger,
+Chez moi.,6,17,2,2,4,moi|chez,"pas chez vous. chez moi|est-ce que vous voudriez boire quelque chose chez moi|d'accord. chez moi|alors, à huit heures chez moi"
+Chez.,6,2,1,0,21,,"chez moi|chez vous|oui, chez vous|pas chez vous. chez moi|est-ce que vous voudriez boire quelque chose chez moi"
+Chez vous.,6,5,2,2,7,vous|chez,"oui, chez vous|est-ce que vous voudriez boire quelque chose chez moi|pas chez vous|chez vous, s'il vous plaît|non, chez vous"
+"Oui, chez vous.",6,4,3,3,0,vous|chez|chez vous,
+Moi aussi.,6,15,2,2,1,moi|aussi,moi aussi. je voudrais aussi manger avec vous
+Aussi.,6,2,1,0,20,,"oui, je voudrais boire quelque chose aussi|moi aussi|je voudrais manger aussi|mais je voudrais aussi manger quelque chose|est-ce que vous voudriez boire aussi de la bière"
+Je voudrais manger aussi.,6,4,4,6,5,je|manger|je voudrais|voudrais|aussi,"mais je voudrais aussi manger quelque chose|mais oui, et je voudrais manger quelque chose. vous aussi|moi aussi. je voudrais aussi manger avec vous|mais oui. et je voudrais manger quelque chose. vous aussi|oui, je voudrais aussi manger"
+Quand?,6,16,1,0,20,,"quand est-ce que vous voudriez manger|et quand est-ce que vous voudriez boire quelque chose|quand est-ce que vous voudriez manger, mademoiselle|quand est-ce que vous voudriez boire quelque chose|quand est-ce que vous voudriez manger, mademoiselle? maintenant"
+Maintenant.,6,9,1,0,40,,"pas maintenant|non, maintenant|quand est-ce que vous voudriez manger, mademoiselle? maintenant|non, monsieur, pas maintenant. plus tard, s'il vous plaît. mais je voudrais boire quelque chose maintenant|je voudrais manger maintenant"
+Nant.,6,2,1,0,0,,
+Mainte-,6,2,1,0,0,,
+Quand est-ce que vous voudriez manger?,6,13,6,6,0,vous|est-ce que|vous voudriez|voudriez|manger,
+Pas maintenant.,6,9,2,2,4,pas|maintenant,"non, monsieur, pas maintenant. plus tard, s'il vous plaît. mais je voudrais boire quelque chose maintenant|non, merci. pas maintenant|non merci. pas maintenant|mais non, pas maintenant"
+Plus tard.,6,16,2,2,14,tard|plus,"oui, mademoiselle. plus tard|pas maintenant, plus tard|oui, plus tard|mais plus tard|pas maintenant, je voudrais manger plus tard"
+Tard.,6,2,1,0,18,,"plus tard|oui, mademoiselle. plus tard|pas maintenant, plus tard|oui, plus tard|mais plus tard"
+Plus.,6,6,1,0,29,,"plus tard|plus tard, s'il vous plaît|oui, mademoiselle. plus tard|pas maintenant, plus tard|pas maintenant. plus tard, s'il vous plaît"
+Et quand est-ce que vous voudriez boire quelque chose?,6,3,9,15,0,vous|est-ce que|et vous|et|vous voudriez,
+Boire quelque chose?,6,1,3,4,33,quelque chose|chose|quelque|boire,"je voudrais boire quelque chose|est-ce que vous voudriez boire quelque chose|oui, je voudrais boire quelque chose aussi|oui, je voudrais boire quelque chose|non merci, mais je voudrais boire quelque chose"
+"Quand est-ce que vous voudriez manger, Mademoiselle?",6,1,7,6,0,vous|est-ce que|mademoiselle|vous voudriez|voudriez,
+"Plus tard, s'il vous plaît.",6,1,5,6,2,vous|s'il vous plaît|plaît|vous plaît|s'il,"pas maintenant. plus tard, s'il vous plaît|comment? manger? non, pas maintenant. plus tard, s'il vous plaît"
+Pas chez vous. Chez moi.,6,2,5,4,0,pas|moi|chez moi|chez,
+Quand est-ce que vous voudriez boire quelque chose?,6,4,8,11,1,vous|est-ce que|vous voudriez|voudriez|quelque chose,et quand est-ce que vous voudriez boire quelque chose
+"Non, maintenant.",6,3,2,1,4,maintenant,"non, monsieur, pas maintenant. plus tard, s'il vous plaît. mais je voudrais boire quelque chose maintenant|non, merci. pas maintenant|non, je vais déjeuner maintenant|mais non, pas maintenant"
+Est-ce que vous voudriez boire quelque chose chez moi?,6,5,9,14,0,vous|est-ce que|moi|vous voudriez|voudriez,
+"Oui, je veux bien.",6,10,4,6,1,je|bien|je veux|veux|veux bien,"oui, je veux bien boire quelque chose"
+Très bien. Très bien.,6,1,4,3,0,bien|très|très bien,
+Veux bien.,6,1,2,2,6,bien|veux,"oui, je veux bien|je veux bien|oui, je veux bien boire quelque chose|je vais bien. je veux bien|je vais bien, je veux bien"
+Je veux bien.,6,9,3,5,5,je|bien|je veux|veux|veux bien,"oui, je veux bien|oui, je veux bien boire quelque chose|je vais bien. je veux bien|je vais bien, je veux bien|d'accord, je veux bien"
+Mais je voudrais aussi manger quelque chose.,6,3,7,13,0,je|mais|manger|quelque chose|chose,
+"Oui, Mademoiselle. Plus tard.",6,1,4,4,0,"plus tard|tard|plus|oui, plus tard",
+"Non, merci. Mais je voudrais manger quelque chose.",6,1,8,11,0,je|mais|manger|quelque chose|chose,
+"Pas maintenant, plus tard.",6,4,4,5,1,pas|plus tard|tard|plus|pas plus tard,"pas maintenant, je voudrais manger plus tard"
+"Pas maintenant. Plus tard, s'il vous plaît.",6,1,7,8,1,vous|pas|s'il vous plaît|plaît|vous plaît,"comment? manger? non, pas maintenant. plus tard, s'il vous plaît"
+"Oui, plus tard.",6,1,3,3,1,plus tard|tard|plus,"oui, mademoiselle. plus tard"
+"Quand est-ce que vous voudriez manger, Mademoiselle? Maintenant?",7,2,8,6,0,vous|est-ce que|vous voudriez|voudriez|quand,
+"Non, Monsieur, pas maintenant. Plus tard, s'il vous plaît. Mais je voudrais boire quelque chose maintenant.",7,2,16,18,0,vous|je|pas|mais|s'il,
+"Oui, très bien.",7,4,3,3,1,bien|très|très bien,"oui, madame, un peu. pas très bien"
+Pas chez vous.,7,1,3,4,1,vous|pas|chez|chez vous,"non, pas à l'hôtel. au restaurant chez michel, s'il vous plaît"
+Je voudrais manger.,7,3,3,4,25,je|manger|je voudrais|voudrais,"oui, je voudrais manger|oui, je voudrais manger quelque chose|moi? oui, je voudrais manger quelque chose|je voudrais manger quelque chose|mais je voudrais manger quelque chose"
+Je voudrais manger maintenant.,7,1,4,6,0,je|manger|je voudrais|voudrais|maintenant,
+Pas ici.,7,4,2,2,9,pas|ici,"non, ce n'est pas ici|ce n'est pas ici|la rue saint-jacques n'est pas ici|mais pas ici|jacques n'est pas ici"
+"Non, pas là-bas.",7,2,3,2,1,pas|là-bas,"non, il n'est pas là-bas"
+"Chez vous, s'il vous plaît.",7,2,5,7,0,vous|s'il vous plaît|plaît|vous plaît|s'il,
+D'accord.,7,25,1,0,10,,"pas d'accord|bon, un peu plus tard. d'accord|bon, un peu plus tard, d'accord|oui, d'accord|oui, mais je voudrais déjeuner au restaurant chez jacques. d'accord"
+Pas d'accord.,7,3,2,2,0,pas|d'accord,
+Je voudrais manger ici.,7,2,4,6,0,je|ici|manger|je voudrais|voudrais,
+Au restaurant.,7,14,2,2,3,restaurant|au,"non, pas à l'hôtel. au restaurant chez michel, s'il vous plaît|oui, mais je voudrais déjeuner au restaurant chez jacques. d'accord|nous avons mangé au restaurant chez pierre"
+Rant.,7,2,1,0,0,,
+Torrant.,7,2,1,0,0,,
+Restaurant.,7,2,1,0,13,,"savez-vous où il y a un bon restaurant|monsieur, savez-vous où il y a un bon restaurant|au restaurant|où est le restaurant|le restaurant"
+Au.,7,2,1,0,15,,"au revoir|au revoir, madame|au revoir, monsieur|au revoir, mademoiselle|au revoir, mademoiselle. au revoir"
+Qu'est-ce que vous voudriez manger?,7,8,5,5,0,vous|vous voudriez|voudriez|manger|qu'est-ce que,
+Qu'est-ce que...,7,2,2,0,30,,qu'est-ce que vous voudriez manger|qu'est-ce que vous voudriez boire|très bien. qu'est-ce que vous voudriez boire|d'accord. qu'est-ce que vous voudriez boire|qu'est-ce que vous voulez faire
+Qu'est-ce que vous voudriez boire?,7,13,5,5,2,vous|vous voudriez|voudriez|boire|qu'est-ce que,très bien. qu'est-ce que vous voudriez boire|d'accord. qu'est-ce que vous voudriez boire
+Du vin.,7,14,2,2,20,vin|du,"je voudrais du vin|moi, je voudrais du vin|où est-ce que vous voudriez boire du vin|je voudrais boire du vin|ou du vin"
+Vin.,7,4,1,0,30,,"du vin|je voudrais du vin|moi, je voudrais du vin|où est-ce que vous voudriez boire du vin|je voudrais boire du vin"
+Du.,7,7,1,0,30,,"du vin|je voudrais du vin|moi, je voudrais du vin|où est-ce que vous voudriez boire du vin|je voudrais boire du vin"
+De la bière.,7,7,3,1,17,bière,"je voudrais de la bière|est-ce que vous voudriez boire de la bière|je ne sais pas. du vin? non, de la bière|est-ce que vous voudriez de la bière|je voudrais boire de la bière"
+Bière.,7,2,1,0,23,,"de la bière|je voudrais de la bière|est-ce que vous voudriez boire de la bière|je ne sais pas. du vin? non, de la bière|est-ce que vous voudriez de la bière"
+Je voudrais du vin.,7,3,4,6,4,je|je voudrais|voudrais|du vin|vin,"moi, je voudrais du vin|je voudrais boire du vin|moi, je voudrais boire du vin|je voudrais acheter du vin"
+Je voudrais de la bière.,7,2,5,5,2,je|je voudrais|voudrais|de la bière|bière,je voudrais boire de la bière|je voudrais acheter de la bière
+"Moi, je voudrais du vin.",7,2,5,7,1,je|je voudrais|voudrais|du vin|vin,"moi, je voudrais boire du vin"
+Où est-ce que vous voudriez boire du vin?,7,2,8,9,0,vous|est-ce que|vous voudriez|voudriez|boire,
+"Au restaurant, s'il vous plaît.",7,3,5,6,0,vous|s'il vous plaît|plaît|vous plaît|s'il,
+Mais plus tard.,7,7,3,4,1,mais|plus tard|tard|plus,"mais non, plus tard. bien plus tard"
+Est-ce que vous voudriez manger maintenant?,7,6,6,6,1,vous|est-ce que|vous voudriez|voudriez|manger,"jacqueline, est-ce que vous voudriez manger maintenant"
+"D'accord, quand?",7,3,2,1,0,quand,
+"Maintenant, s'il vous plaît?",7,2,4,5,0,vous|s'il vous plaît|plaît|vous plaît|s'il,
+"Au restaurant, Chez Pierre.",7,3,4,2,0,chez|au,
+Où est le restaurant?,7,1,4,5,3,est|où est|où|restaurant|le restaurant,où est le restaurant chez pierre|où est le restaurant chez michel|où est le restaurant chez jacques
+Le restaurant.,7,2,2,1,4,restaurant,où est le restaurant|où est le restaurant chez pierre|où est le restaurant chez michel|où est le restaurant chez jacques
+"Où est le restaurant, Chez Pierre?",7,1,6,5,0,est|où est|où|chez|où est chez pierre,
+Rue Saint-Jacques.,7,6,2,2,11,saint-jacques|rue,où est la rue saint-jacques s'il vous plaît|la rue saint-jacques|où est la rue saint-jacques|la rue saint-jacques n'est pas là-bas|mais la rue saint-jacques est ici
+Très bien. Qu'est-ce que vous voudriez boire?,7,3,7,7,0,vous|très|vous voudriez|voudriez|boire,
+Est-ce que vous voudriez boire de la bière?,7,5,8,8,1,vous|est-ce que|vous voudriez|voudriez|boire,est-ce que vous voudriez boire aussi de la bière
+"Non, merci. Pas maintenant.",7,2,4,4,0,"pas|maintenant|pas maintenant|non, maintenant",
+Vous ne voudriez pas boire quelque chose?,7,4,7,10,0,ne|vous|pas|vous voudriez|voudriez,
+"Pas maintenant, merci.",7,3,3,2,0,pas|merci,
+Je voudrais boire du vin.,7,7,5,8,1,je|je voudrais|voudrais|boire|du vin,"moi, je voudrais boire du vin"
+"Mais moi, je voudrais boire quelque chose maintenant.",7,2,8,11,0,je|mais|quelque chose|chose|quelque,
+Où est le restaurant Chez Pierre?,7,1,6,8,0,est|où est|où|chez|restaurant,
+Non merci. Pas maintenant.,7,1,4,4,0,non|pas|maintenant|pas maintenant,
+Non merci.,7,1,2,2,0,non|merci,
+"Jacqueline, est-ce que vous voudriez manger maintenant?",8,1,7,7,0,vous|est-ce que|vous voudriez|voudriez|manger,
+"Non merci, Pierre, pas maintenant, mais je voudrais boire quelque chose.",8,1,11,13,0,non|je|pas|mais|quelque chose,
+D'accord. Qu'est-ce que vous voudriez boire?,8,1,6,6,0,vous|vous voudriez|voudriez|boire|qu'est-ce que,
+"Je ne sais pas. Du vin? Non, de la bière.",8,1,10,7,0,ne|je|je ne|je sais|du,
+"Moi aussi, je voudrais boire de la bière. Mademoiselle, deux bières, s'il vous plaît.",8,1,14,12,0,vous|je|moi|s'il vous plaît|plaît,
+"Comment? Manger? Non, pas maintenant. Plus tard, s'il vous plaît.",8,1,10,9,0,vous|pas|s'il vous plaît|plaît|vous plaît,
+Déjeuner.,8,5,1,0,18,,"oui, je voudrais déjeuner|je voudrais déjeuner|je voudrais déjeuner maintenant|où est-ce que vous voudriez déjeuner|moi, je voudrais déjeuner maintenant"
+"Oui, je voudrais déjeuner.",8,1,4,5,1,je|je voudrais|voudrais|déjeuner|je voudrais déjeuner,"oui, mais je voudrais déjeuner au restaurant chez jacques. d'accord"
+Drais.,8,1,1,0,0,,
+Je voudrais déjeuner.,8,1,3,4,5,je|je voudrais|voudrais|déjeuner,"oui, je voudrais déjeuner|je voudrais déjeuner maintenant|moi, je voudrais déjeuner maintenant|oui, mais je voudrais déjeuner au restaurant chez jacques. d'accord|d'accord, mais je voudrais aussi déjeuner"
+Je voudrais déjeuner maintenant.,8,5,4,6,1,je|je voudrais|voudrais|maintenant|déjeuner,"moi, je voudrais déjeuner maintenant"
+Où est-ce que vous voudriez déjeuner?,8,2,6,6,0,vous|est-ce que|vous voudriez|voudriez|où,
+"Non, chez vous.",8,2,3,3,1,vous|chez|chez vous,"non, pas à l'hôtel. au restaurant chez michel, s'il vous plaît"
+Est-ce que vous voudriez boire quelque chose maintenant?,8,2,8,11,0,vous|est-ce que|vous voudriez|voudriez|quelque chose,
+"Deux bières, s'il vous plaît.",8,4,5,6,1,vous|s'il vous plaît|plaît|vous plaît|s'il,"moi aussi, je voudrais boire de la bière. mademoiselle, deux bières, s'il vous plaît"
+Deux.,8,12,1,0,33,,"moi aussi, je voudrais boire de la bière. mademoiselle, deux bières, s'il vous plaît|deux bières, s'il vous plaît|deux bières, s'il vous plaît, mademoiselle|deux heures|à deux heures"
+"Deux bières, s'il vous plaît, Mademoiselle.",8,2,6,4,0,vous|mademoiselle|s'il|deux,
+Est-ce que vous voudriez de la bière?,8,2,7,6,2,vous|est-ce que|vous voudriez|voudriez|de la bière,est-ce que vous voudriez boire de la bière|est-ce que vous voudriez boire aussi de la bière
+Ou du vin?,8,2,3,4,3,ou|du vin|vin|du,"du vin ou de la bière|qu'est-ce que vous voudriez boire? du vin ou de la bière|qu'est-ce que vous voudriez boire, du vin ou de la bière"
+"Plus, du.",8,2,2,1,0,du,
+Je voudrais boire de la bière.,8,3,6,7,0,je|je voudrais|voudrais|boire|de la bière,
+Du vin ou de la bière?,8,5,6,8,2,ou|du vin|vin|du|de la bière,"qu'est-ce que vous voudriez boire? du vin ou de la bière|qu'est-ce que vous voudriez boire, du vin ou de la bière"
+Qu'est-ce que vous voulez faire?,8,7,5,6,3,vous|vous voulez|voulez|qu'est-ce que|faire,"qu'est-ce que vous voulez faire maintenant|dites-moi, marie, qu'est-ce que vous voulez faire maintenant|qu'est-ce que vous voulez faire ce soir"
+Faire.,8,5,1,0,9,,"qu'est-ce que vous voulez faire|qu'est-ce que vous voudriez faire|je voudrais faire quelque chose|qu'est-ce que vous voulez faire maintenant|dites-moi, marie, qu'est-ce que vous voulez faire maintenant"
+Qu'est-ce que vous voudriez faire?,8,4,5,5,0,vous|vous voudriez|voudriez|qu'est-ce que|faire,
+À l'hôtel.,8,4,2,1,3,l'hôtel,"où? à l'hôtel|et pas là-bas, à l'hôtel|non, pas à l'hôtel"
+Hôtel.,8,2,1,0,0,,
+L'hôtel.,8,2,1,0,5,,"à l'hôtel|où? à l'hôtel|et pas là-bas, à l'hôtel|non, pas à l'hôtel|où est l'hôtel saint-jacques, s'il vous plaît"
+Je voudrais acheter quelque chose.,8,8,5,8,1,je|quelque chose|chose|quelque|je voudrais,parce que je voudrais acheter quelque chose
+Acheter.,8,5,1,0,17,,"je voudrais acheter quelque chose|qu'est-ce que vous voudriez acheter|acheter quelque chose|je voudrais acheter quelque chose, mademoiselle|je voudrais acheter du vin"
+Qu'est-ce que vous voudriez acheter?,8,6,5,5,0,vous|vous voudriez|voudriez|qu'est-ce que|acheter,
+Je voudrais faire quelque chose.,8,5,5,7,0,je|quelque chose|chose|quelque|je voudrais,
+Avec qui?,8,7,2,2,1,qui|avec,mais avec qui
+Qui?,8,4,1,0,5,,avec qui|mais avec qui|et qui est jacques|qui est là-bas|qu'est-ce qui veut répondre
+Avec?,8,2,1,0,42,,"avec qui|avec vous|mais avec qui|avec vous, mademoiselle|est-ce que vous voudriez boire quelque chose avec moi"
+Avec vous.,8,2,2,2,20,vous|avec,est-ce que vous voudriez boire quelque chose avec moi|et je voudrais manger avec vous|moi aussi. je voudrais aussi manger avec vous|est-ce que vous voudriez déjeuner avec moi|je voudrais boire quelque chose avec vous
+Acheter quelque chose?,8,2,3,4,6,quelque chose|chose|quelque|acheter,je voudrais acheter quelque chose|est-ce que je peux acheter quelque chose|parce que je voudrais acheter quelque chose|je veux acheter quelque chose|où voudriez-vous acheter quelque chose
+"Non, maintenant, je voudrais manger quelque chose.",8,2,7,9,0,je|manger|quelque chose|chose|quelque,
+Mais avec qui?,8,2,3,4,0,mais|avec qui|qui|avec,
+"Avec vous, Mademoiselle.",8,1,3,2,0,mademoiselle|avec,
+"Bonjour. Comment allez-vous, Monsieur?",8,2,4,3,0,"monsieur|comment|comment allez-vous, monsieur",
+"Bien, très bien, merci.",8,2,4,2,2,merci|très,"très bien, monsieur, merci|très bien, merci et vous"
+Qu'est-ce que vous voulez faire maintenant?,8,3,6,8,1,vous|vous voulez|voulez|maintenant|qu'est-ce que,"dites-moi, marie, qu'est-ce que vous voulez faire maintenant"
+Je ne sais pas. Et vous? Est-ce que vous voudriez boire quelque chose?,8,2,13,18,0,ne|vous|est-ce que|je|je ne,
+"Oui, je veux bien boire quelque chose.",8,2,7,12,0,je|bien|je veux|veux|quelque chose,
+Est-ce que vous voudriez boire quelque chose avec moi?,8,4,9,14,1,vous|est-ce que|moi|vous voudriez|voudriez,mais est-ce que vous voudriez boire quelque chose avec moi
+"Oui, merci, je veux bien. Mais quand?",8,2,7,6,0,je|mais|je veux|veux|quand,
+Où? À l'hôtel?,8,2,3,2,0,à l'hôtel|l'hôtel,
+"Non, pas à l'hôtel. Au restaurant Chez Michel, s'il vous plaît.",8,2,11,13,0,vous|pas|s'il vous plaît|plaît|vous plaît,
+Où est le restaurant Chez Michel?,8,3,6,8,0,michel|est|où est|où|chez,
+Je ne sais pas. Et vous?,8,2,6,7,2,ne|vous|je|je ne|et vous,"je ne sais pas. et vous? est-ce que vous voudriez boire quelque chose|moi? oh, je ne sais pas. et vous"
+"Oui, je sais.",8,2,3,2,1,je|je sais,"ah oui, je sais"
+C'est rue Saint-Jacques.,8,3,3,4,1,saint-jacques|rue|c'est|rue saint-jacques,"c'est là-bas, rue saint-jacques"
+Qu'est-ce que vous voudriez boire? Du vin ou de la bière?,8,1,11,13,0,vous|ou|vous voudriez|voudriez|qu'est-ce que,
+"Moi, je voudrais boire du vin.",8,2,6,10,0,je|je voudrais|voudrais|boire|du vin,
+Est-ce que vous voudriez boire aussi de la bière?,8,3,9,10,0,vous|est-ce que|vous voudriez|voudriez|boire,
+"Mais oui, et je voudrais manger quelque chose. Vous aussi?",8,1,10,14,0,vous|je|et vous|et|mais,
+"Oui, moi aussi. Je voudrais manger quelque chose.",8,2,8,12,0,je|moi|manger|quelque chose|chose,
+"Pas maintenant, je voudrais manger plus tard.",8,3,7,11,0,je|pas|manger|je voudrais|voudrais,
+"Bon, un peu plus tard. D'accord?",8,1,6,4,0,un peu|peu|plus|d'accord,
+"D'accord, un peu plus tard.",8,2,5,5,0,un peu|peu|plus tard|tard|plus,
+"Je voudrais acheter quelque chose, Mademoiselle.",8,3,6,6,0,je|mademoiselle|quelque|je voudrais|voudrais,
+Et je voudrais manger avec vous.,8,2,6,10,0,vous|je|et vous|et|manger,
+Moi aussi. Je voudrais aussi manger avec vous.,8,2,8,13,0,vous|je|moi|manger|je voudrais,
+"Qu'est-ce que vous voudriez boire, du vin ou de la bière?",8,1,11,13,0,vous|ou|vous voudriez|voudriez|qu'est-ce que,
+Mais oui. Et je voudrais manger quelque chose. Vous aussi?,8,1,10,12,0,vous|je|et vous|et|mais,
+"Bon, un peu plus tard, d'accord?",8,1,6,4,0,un peu|peu|plus|d'accord,
+D'accord. Un peu plus tard.,8,1,5,5,0,un peu|peu|plus tard|tard|plus,
+"Bonjour, Marie. Comment allez-vous?",9,1,4,2,0,comment|comment allez-vous,
+"Dites-moi, Marie, qu'est-ce que vous voulez faire maintenant?",9,1,8,9,0,vous|vous voulez|voulez|maintenant|qu'est-ce que,
+"Moi, je voudrais déjeuner maintenant.",9,1,5,7,0,je|je voudrais|voudrais|maintenant|déjeuner,
+Est-ce que vous voudriez déjeuner avec moi?,9,2,7,9,0,vous|est-ce que|moi|vous voudriez|voudriez,
+Où est le restaurant Chez Jacques?,9,2,6,9,0,jacques|est|où est|où|chez,
+"Oui, d'accord.",9,2,2,1,1,d'accord,"oui, mais je voudrais déjeuner au restaurant chez jacques. d'accord"
+"Bien, Michel, merci.",9,1,3,1,0,merci,
+"Moi? Oh, je ne sais pas. Et vous?",9,1,8,8,0,ne|vous|je|je ne|et vous,
+"Oui, mais je voudrais déjeuner au restaurant chez Jacques. D'accord?",9,1,10,13,0,je|mais|je voudrais|voudrais|chez,
+"C'est là-bas, boulevard Saint-Michel.",9,1,4,3,0,saint-michel|boulevard|c'est,
+Et je voudrais aussi boire du vin. D'accord?,9,1,8,9,0,je|et|je voudrais|voudrais|boire,
+Est-ce que vous savez où est la rue Saint-Jacques?,9,1,9,14,0,vous|est-ce que|saint-jacques|la rue|rue,
+Savez-vous où est la rue Saint-Jacques?,9,1,6,11,0,saint-jacques|la rue|rue|la rue saint-jacques|est,
+Dites-moi.,9,1,1,0,1,,mais dites-moi
+Est-ce que vous voudriez aussi déjeuner?,9,2,6,6,0,vous|est-ce que|vous voudriez|voudriez|aussi,
+"Non, pas moi.",9,2,3,2,0,pas|moi,
+Je voudrais acheter du vin.,9,3,5,8,0,je|je voudrais|voudrais|du vin|vin,
+Ou de la bière.,9,2,4,3,3,ou|de la bière|bière,"du vin ou de la bière|qu'est-ce que vous voudriez boire? du vin ou de la bière|qu'est-ce que vous voudriez boire, du vin ou de la bière"
+Je voudrais boire quelque chose avec vous.,9,2,7,12,0,vous|je|quelque chose|chose|quelque,
+Mais pas ici.,9,2,3,4,0,pas|mais|ici|pas ici,
+"Et pas là-bas, à l'hôtel.",9,2,5,4,0,pas|et|à l'hôtel|l'hôtel,
+"Non, pas à l'hôtel.",9,2,4,3,0,pas|à l'hôtel|l'hôtel,
+Je voudrais boire quelque chose chez vous.,9,2,7,12,0,vous|je|quelque chose|chose|quelque,
+"D'accord, mais je voudrais aussi déjeuner.",9,4,6,7,0,je|mais|je voudrais|voudrais|aussi,
+À quelle heure?,9,19,3,3,2,heure|quelle|quelle heure,je ne sais pas à quelle heure|à quelle heure est-ce que vous voudriez manger? à huit heures
+Heure.,9,3,1,0,15,,à quelle heure|quelle heure|une heure|à une heure|à une heure ou à deux heures
+Quelle.,9,2,1,0,19,,"à quelle heure|quelle heure|à quelle heure, monsieur|je ne sais pas à quelle heure|oui, mais à quelle heure? à deux heures"
+Quelle heure?,9,2,2,2,8,heure|quelle,"à quelle heure|je ne sais pas à quelle heure|quelle heure est-il|quelle heure est-il, monsieur|quelle heure est-il, s'il vous plaît"
+"À quelle heure, Monsieur?",9,1,4,2,0,monsieur|quelle,
+Une heure.,9,7,2,2,4,heure|une,à une heure|à une heure ou à deux heures|pas à une heure et pas à deux heures|il est une heure maintenant
+Une.,9,4,1,0,33,,"une heure|à une heure|à une heure ou à deux heures|mais à une heure, d'accord|pas à une heure et pas à deux heures"
+À une heure.,9,8,3,3,2,heure|une heure|une,à une heure ou à deux heures|pas à une heure et pas à deux heures
+Neuf heures.,9,7,2,1,11,neuf,"à neuf heures|non, à neuf heures|ou à neuf heures|à huit heures ou à neuf heures|pas à huit heures et pas à neuf heures"
+Neuf.,9,2,1,0,13,,"neuf heures|à neuf heures|non, à neuf heures|ou à neuf heures|à huit heures ou à neuf heures"
+À neuf heures.,9,5,3,2,9,neuf heures|neuf,"non, à neuf heures|ou à neuf heures|à huit heures ou à neuf heures|pas à huit heures et pas à neuf heures|oh, je comprends. à huit heures ou à neuf heures"
+Huit.,9,10,1,0,18,,"huit heures|à huit heures|plus tard, à huit heures|à huit heures ou à neuf heures|pas à huit heures et pas à neuf heures"
+Huit heures.,9,5,2,1,13,huit,"à huit heures|plus tard, à huit heures|à huit heures ou à neuf heures|pas à huit heures et pas à neuf heures|oh, je comprends. à huit heures ou à neuf heures"
+À huit heures?,9,7,3,2,10,huit|huit heures,"plus tard, à huit heures|à huit heures ou à neuf heures|pas à huit heures et pas à neuf heures|oh, je comprends. à huit heures ou à neuf heures|mais non, à huit heures"
+"Non, à neuf heures.",9,5,4,3,0,neuf heures|neuf|à neuf heures,
+Deux heures.,9,2,2,1,9,deux,"à deux heures|à une heure ou à deux heures|pas à une heure et pas à deux heures|oui, mais à quelle heure? à deux heures|d'accord, à deux heures"
+À deux heures.,9,4,3,2,7,deux|deux heures,"à une heure ou à deux heures|pas à une heure et pas à deux heures|oui, mais à quelle heure? à deux heures|d'accord, à deux heures|non, pas à deux heures. à trois heures"
+À une heure ou à deux heures?,9,2,7,9,0,ou|deux|heure|une heure|une,
+Je ne sais pas à quelle heure.,9,1,7,10,0,ne|je|pas|je ne|je ne sais pas,
+"À deux heures, d'accord?",9,2,4,2,0,d'accord|deux,
+D'accord. Chez moi.,9,2,3,3,0,moi|chez moi|chez,
+"Où est l'Hôtel Saint-Jacques, s'il vous plaît?",9,2,7,9,0,vous|s'il vous plaît|plaît|vous plaît|s'il,
+"C'est là-bas, rue Saint-Jacques.",9,2,4,5,0,saint-jacques|rue|c'est|rue saint-jacques|c'est rue saint-jacques,
+"Est-ce que vous voudriez boire quelque chose avec moi, Mademoiselle?",9,1,10,13,0,vous|est-ce que|mademoiselle|vous voudriez|voudriez,
+Pas Mademoiselle. Madame.,9,1,3,2,0,pas|madame,
+Mais est-ce que vous voudriez boire quelque chose avec moi?,9,1,10,16,0,vous|est-ce que|moi|mais|vous voudriez,
+"Non merci, Monsieur.",9,2,3,3,0,"non|monsieur|merci, monsieur",
+Et pas plus tard.,9,2,4,6,0,pas|et|plus tard|tard|plus,
+"Mais à une heure, d'accord?",9,2,5,3,0,mais|d'accord|une,
+"Non merci, je ne veux pas.",9,1,6,8,0,ne|non|je|pas|je ne,
+"Plus tard, à huit heures.",9,2,5,4,0,plus|huit|huit heures|à huit heures,
+Ou à neuf heures.,9,2,4,4,2,ou|neuf heures|neuf|à neuf heures,"à huit heures ou à neuf heures|oh, je comprends. à huit heures ou à neuf heures"
+Absolument pas.,9,2,2,2,0,pas|absolument,
+Absolument.,9,1,1,0,1,,absolument pas
+"Non, Monsieur, je ne veux pas boire quelque chose avec vous.",9,2,11,15,0,ne|vous|je|pas|je ne,
+Je comprends maintenant.,9,3,3,4,4,je|comprends|je comprends|maintenant,"ah, je comprends maintenant|oui, je comprends maintenant|je vous comprends maintenant|oh! je comprends maintenant"
+"Ah, je comprends maintenant.",9,1,4,5,0,je|comprends|je comprends|maintenant|je comprends maintenant,
+"Très bien, vous comprenez maintenant.",9,1,5,5,0,comprenez|vous comprenez|vous|très|maintenant,
+Oui. Vous ne voulez pas boire quelque chose avec moi.,9,2,10,14,0,ne|vous|pas|moi|vous voulez,
+Mais vous voudriez manger quelque chose avec moi.,9,2,8,13,0,vous|moi|mais|vous voudriez|voudriez,
+À huit heures ou à neuf heures?,9,2,7,8,1,ou|neuf heures|neuf|à neuf heures|huit,"oh, je comprends. à huit heures ou à neuf heures"
+Pas à une heure et pas à deux heures.,9,2,9,9,0,pas|et|deux|heure|une heure,
+Pas à huit heures et pas à neuf heures.,9,2,9,9,0,pas|et|neuf heures|neuf|à neuf heures,
+"Vous ne comprenez pas, Monsieur.",9,2,5,5,0,comprenez|ne|vous comprenez|vous|monsieur,
+Qu'est-ce que je ne comprends pas?,9,3,6,9,0,ne|je|comprends|je comprends|je ne comprends pas,
+"Vous ne comprenez pas le français, Monsieur.",9,2,7,7,0,comprenez|ne|vous comprenez|vous|monsieur,
+Vous avez.,9,2,2,1,32,vous,"vous savez, vous avez|vous avez combien de francs|vous avez combien de dollars|est-ce que vous avez seize francs|est-ce que vous avez cinq dollars"
+"Vous savez, vous avez.",9,2,4,2,0,vous|vous avez,
+Vous n'avez pas de vin.,9,1,5,4,0,vous|pas|vin|pas de vin,
+Vous ne comprenez pas.,9,2,4,5,4,comprenez|ne|vous comprenez|vous|pas,"vous ne comprenez pas l'anglais|vous ne comprenez pas le français, monsieur|non, mademoiselle, vous ne comprenez pas|qu'est-ce que vous ne comprenez pas"
+"Ici, on parle français.",9,1,4,2,0,français|parle,
+Où est le boulevard?,9,2,4,5,4,est|où est|le boulevard|boulevard|où,"où est le boulevard saint-michel|où est le boulevard saint-michel, s'il vous plait|où est le boulevard saint-michel, s'il vous plaît|est-ce que vous savez où est le boulevard"
+Est-ce que le boulevard est ici?,9,2,6,5,0,est-ce que|est|le boulevard|boulevard|ici,
+Où est Jacques?,9,1,3,4,1,jacques|est|où est|où,où est le restaurant chez jacques
+Jacques n'est pas ici.,9,1,4,4,0,pas|jacques|ici|pas ici,
+Il est là-bas.,9,2,3,3,1,est|là-bas|il est,mon mari? il est là-bas
+"Non, il n'est pas là-bas.",9,1,5,3,0,"pas|là-bas|non, pas là-bas",
+"Jacques, je voudrais manger avec vous. D'accord?",10,1,7,7,0,je|manger|je voudrais|voudrais|je voudrais manger,
+"Oui, mais à quelle heure? À deux heures?",10,1,8,5,0,mais|deux|quelle|deux heures|à deux heures,
+"Mais non, plus tard. Bien plus tard.",10,1,7,6,0,bien|mais|plus tard|tard|plus,
+"Oh, je comprends. À huit heures ou à neuf heures?",10,1,10,10,0,je|ou|neuf heures|neuf|à neuf heures,
+"Oui, à neuf heures.",10,1,4,3,0,neuf heures|neuf|à neuf heures,
+D'accord. Au revoir.,10,2,3,2,0,au revoir|au,
+"Mais non, à huit heures.",10,1,5,5,0,"mais|huit|huit heures|à huit heures|non, à huit heures",
+"D'accord, à deux heures.",10,1,4,3,0,deux|deux heures|à deux heures,
+"Non, Mademoiselle, vous ne comprenez pas.",10,1,6,6,0,comprenez|ne|vous comprenez|vous|pas,
+Non merci. Je voudrais manger quelque chose.,10,1,7,10,0,non|je|manger|quelque chose|chose,
+Avec moi?,10,2,2,2,11,moi|avec,est-ce que vous voudriez boire quelque chose avec moi|moi aussi. je voudrais aussi manger avec vous|est-ce que vous voudriez déjeuner avec moi|mais est-ce que vous voudriez boire quelque chose avec moi|oui. vous ne voulez pas boire quelque chose avec moi
+Quelle heure est-il?,10,9,3,4,2,heure|quelle|quelle heure|est-il,quelle heure est-il maintenant|quelle heure est-il s'il vous plaît
+Est-il?,10,1,1,0,4,,quelle heure est-il|quelle heure est-il maintenant|quelle heure est-il s'il vous plaît|et où est-il
+Il est.,10,1,2,1,24,est,"il est là-bas|il est neuf heures|il est deux heures|il est cinq heures|il est cinq heures, monsieur"
+Il est neuf heures.,10,2,4,4,0,est|neuf heures|neuf|il est,
+Il est deux heures.,10,3,4,4,0,est|deux|deux heures|il est,
+Il est cinq heures.,10,5,4,4,0,est|il est|cinq|cinq heures,
+Cinq.,10,1,1,0,21,,"il est cinq heures|il est cinq heures, monsieur|cinq heures|je vais manger à cinq heures|est-ce que vous allez manger à cinq heures"
+"Il est cinq heures, Monsieur.",10,1,5,4,0,monsieur|est|il est|cinq,
+"Quelle heure est-il, Monsieur?",10,1,4,4,0,monsieur|heure|quelle|quelle heure,
+Il est trois heures.,10,3,4,4,1,est|il est|trois|trois heures,"non, il est trois heures"
+Trois.,10,1,1,0,21,,"il est trois heures|non, il est trois heures|trois heures|à trois heures ou à quatre heures|non, pas à deux heures. à trois heures"
+Il est quatre heures.,10,4,4,4,2,est|il est|quatre|quatre heures,"il est quatre heures maintenant|non, il est quatre heures"
+Quatre.,10,2,1,0,21,,"il est quatre heures|est-ce qu'il est quatre heures|quatre heures|à trois heures ou à quatre heures|trois heures? non, merci. mais à quatre heures, d'accord"
+Est-ce qu'il est quatre heures?,10,1,5,3,0,est|quatre|quatre heures,
+"Non, il est trois heures.",10,1,5,5,0,est|il est|il est trois heures|trois|trois heures,
+Il est huit heures.,10,2,4,4,1,est|huit|huit heures|il est,"mais non, il est huit heures"
+Quatre heures.,10,2,2,1,8,quatre,"il est quatre heures|est-ce qu'il est quatre heures|à trois heures ou à quatre heures|non, pas à quatre heures, à cinq heures|non, pas à quatre heures. à cinq heures"
+Cinq heures.,10,3,2,1,6,cinq,"il est cinq heures|je vais manger à cinq heures|est-ce que vous allez manger à cinq heures|non, pas à quatre heures, à cinq heures|non, pas à quatre heures. à cinq heures"
+Trois heures.,10,1,2,1,5,trois,"il est trois heures|non, il est trois heures|à trois heures ou à quatre heures|non, pas à deux heures. à trois heures|aujourd'hui, je vais manger à trois heures"
+"Quelle heure est-il, s'il vous plaît?",10,2,6,8,0,vous|s'il vous plaît|plaît|vous plaît|s'il,
+"Je ne sais pas, mais je voudrais manger quelque chose.",10,1,10,14,0,ne|je|je ne|mais|je sais,
+"Non, je vais déjeuner maintenant.",10,1,5,6,0,"je|maintenant|non, maintenant|déjeuner|je vais",
+Je vais.,10,2,2,1,77,je,"je vais bien|je vais bien, merci|non, je ne vais pas bien|je ne vais pas bien|non, je ne vais pas très bien"
+Vous allez manger.,10,2,3,3,4,vous|vous allez|manger,est-ce que vous allez manger|est-ce que vous allez manger à cinq heures|vous allez manger aujourd'hui|mais vous allez manger quelque chose
+Est-ce que vous allez manger?,10,1,5,5,1,vous|est-ce que|vous allez|manger|vous allez manger,est-ce que vous allez manger à cinq heures
+"Oui, je vais manger maintenant.",10,1,5,5,0,je|manger|maintenant|je vais|je vais manger,
+Je vais. Je veux.,10,1,4,3,0,je|je veux|veux,
+Je vais manger à cinq heures.,10,1,6,6,0,je|manger|cinq|cinq heures|je vais,
+Est-ce que vous allez manger à cinq heures?,10,1,8,8,0,vous|est-ce que|vous allez|manger|cinq,
+"Non, à huit heures.",10,1,4,3,1,huit|huit heures|à huit heures,"mais non, à huit heures"
+Mais je vais boire quelque chose.,10,1,6,8,0,je|mais|quelque chose|chose|quelque,
+À trois heures ou à quatre heures?,10,1,7,6,0,ou|trois|quatre|quatre heures|trois heures,
+"Moi, je vais boire quelque chose à neuf heures.",10,1,9,11,0,je|quelque chose|chose|quelque|boire,
+Quelle heure est-il maintenant?,10,4,4,6,0,maintenant|heure|quelle|quelle heure|quelle heure est-il,
+Il est une heure maintenant.,10,2,5,6,0,est|maintenant|heure|une heure|une,
+"Merci, je vais déjeuner.",10,1,4,3,0,je|déjeuner|je vais,
+"Oui, je vais bien.",10,1,4,4,0,je|bien|je vais bien|je vais,
+"Oui, je vais bien, merci.",10,1,5,5,0,"je|merci|je vais bien, merci|oui, merci|je vais",
+"Pardon, est-ce que vous voudriez manger avec moi?",10,1,8,9,0,vous|est-ce que|moi|vous voudriez|voudriez,
+Je vais bien. Je veux bien.,10,1,6,8,0,je|bien|je vais bien|je veux|veux,
+"Je vais bien, je veux bien.",10,1,6,8,0,je|bien|je vais bien|je veux|veux,
+À quelle heure est-ce que vous voudriez manger? À huit heures?,10,1,11,11,0,vous|est-ce que|vous voudriez|voudriez|à quelle heure,
+"Non, pas à neuf heures. À deux heures, voudriez-vous?",10,1,9,3,0,pas|deux|neuf,
+"Non, pas à deux heures. À trois heures.",10,1,8,6,0,pas|deux|deux heures|à deux heures|trois,
+"Trois heures? Non, merci. Mais à quatre heures, d'accord?",10,1,9,4,0,mais|d'accord|trois|quatre,
+"Non, pas à quatre heures, à cinq heures.",10,1,8,6,0,pas|cinq|quatre|quatre heures|cinq heures,
+"Non, pas à quatre heures. À cinq heures.",10,1,8,6,0,pas|cinq|quatre|quatre heures|cinq heures,
+"Non, pas moi, pas à cinq heures.",10,1,7,3,0,pas|cinq|cinq heures,
+Quand est-ce que vous voudriez déjeuner?,10,1,6,6,0,vous|est-ce que|vous voudriez|voudriez|quand,
+"Est-ce que vous voudriez déjeuner, oui ou non?",10,1,8,7,0,vous|est-ce que|non|oui|ou,
+"Oui, mais quand?",10,1,3,2,1,mais|quand,"oui, merci, je veux bien. mais quand"
+Je vais déjeuner maintenant.,10,1,4,4,1,je|maintenant|déjeuner|je vais,"non, je vais déjeuner maintenant"
+Est-ce que vous allez déjeuner avec moi?,10,1,7,8,0,vous|est-ce que|moi|vous allez|déjeuner,
+"Oui, je vais déjeuner avec vous.",10,1,6,7,0,vous|je|déjeuner|avec|avec vous,
+"Mais quand, Mademoiselle?",10,1,3,2,0,mademoiselle|mais,
+"Plus tard, Monsieur. Plus tard.",10,1,5,3,0,plus tard|tard|plus,
+C'est cinq.,10,1,2,2,1,c'est|cinq,"c'est cinq dollars, monsieur"
+Son pain.,10,1,2,0,0,,
+Je garde ce nom.,10,1,4,2,0,je|ce,
+Je le garde.,10,1,3,1,0,je,
+Je garde la place.,10,1,4,2,0,je|je la garde,
+Je la garde.,10,1,3,1,1,je,je garde la place
+Je le veux.,10,1,3,3,1,je|je veux|veux,je le veux un peu
+Est-ce que vous le voulez?,10,1,5,5,0,vous|est-ce que|vous voulez|voulez|est-ce que vous voulez,
+Je ne veux pas manger.,10,1,5,9,1,ne|je|pas|je ne|je veux,"mais moi, je ne veux pas manger"
+Je le veux un peu.,10,1,5,6,0,je|un peu|peu|je veux|veux,
+Pou?,10,1,1,0,0,,
+Est-ce que vous boudez?,10,1,4,2,0,vous|est-ce que,
+Est-ce que vous allez déjeuner maintenant?,11,1,6,5,0,vous|est-ce que|vous allez|maintenant|déjeuner,
+"Non, je vais manger plus tard.",11,1,6,8,0,je|manger|plus tard|tard|plus,
+Je vais manger.,11,1,3,3,7,je|manger|je vais,"oui, je vais manger maintenant|je vais manger à cinq heures|non, je vais manger plus tard|je vais manger plus tard|à cinq heures, je vais manger"
+Je vais manger plus tard.,11,1,5,7,1,je|manger|plus tard|tard|plus,"non, je vais manger plus tard"
+Je vais boire du vin plus tard.,11,1,7,10,0,je|boire|plus tard|tard|plus,
+Il est quatre heures maintenant.,11,1,5,6,0,est|maintenant|il est|il est quatre heures|quatre,
+Je vais déjeuner à deux heures.,11,1,6,6,0,je|déjeuner|deux|deux heures|à deux heures,
+Quand? Maintenant?,11,1,2,1,0,maintenant,
+"Mais non, pas maintenant.",11,1,4,5,1,"pas|mais|maintenant|pas maintenant|non, maintenant","non, monsieur, pas maintenant. plus tard, s'il vous plaît. mais je voudrais boire quelque chose maintenant"
+À six heures.,11,2,3,0,4,,"à six heures ou à sept heures|pas à six heures|non, à six heures ou à sept heures|je vais dîner à six heures"
+"À six heures, Mademoiselle.",11,1,4,1,0,mademoiselle,
+Ou à sept heures.,11,1,4,2,2,ou|à sept heures,"à six heures ou à sept heures|non, à six heures ou à sept heures"
+À sept heures.,11,2,3,0,5,,"ou à sept heures|à six heures ou à sept heures|alors, à sept heures|non, à six heures ou à sept heures|demain soir à sept heures"
+À six heures ou à sept heures.,11,2,7,5,1,ou|à six heures|ou à sept heures|à sept heures|six heures ou sept heures,"non, à six heures ou à sept heures"
+Pas à six heures.,11,1,4,2,0,pas|à six heures,
+"Alors, à cette heure.",11,1,4,1,0,heure,
+Alors.,11,2,1,0,0,,
+"Alors, à huit heures.",11,1,4,3,1,huit|huit heures|à huit heures,"alors, à huit heures chez moi"
+Ce soir.,11,5,2,2,7,ce|soir,"je vais dîner ce soir|je voudrais dîner ce soir|je voudrais dîner avec vous ce soir|pas ce soir, mais demain soir|qu'est-ce que vous voulez faire ce soir"
+Dîner.,11,1,1,0,10,,"je vais dîner ce soir|je voudrais dîner ce soir|demain, je vais dîner avec vous|est-ce que vous voudriez dîner avec moi aujourd'hui|moi, je vais dîner maintenant"
+Je vais dîner ce soir.,11,1,5,6,1,je|ce|je vais|ce soir|dîner,"je vais dîner avec mon mari, ce soir"
+Je voudrais dîner ce soir.,11,1,5,7,1,je|ce|je voudrais|voudrais|ce soir,je voudrais dîner avec vous ce soir
+"Alors, à sept heures.",11,1,4,1,0,à sept heures,
+À dix heures.,11,2,3,0,2,,"alors, à dix heures|non, à dix heures"
+Demain.,11,4,1,0,14,,"et demain|demain soir|demain soir à sept heures|pas aujourd'hui, demain|aujourd'hui et aussi demain"
+Et demain?,11,2,2,2,1,et|demain,aujourd'hui et aussi demain
+"Demain, je vais dîner avec vous.",11,1,6,6,0,vous|je|avec|avec vous|je vais,
+À quatre heures.,11,1,3,2,3,quatre|quatre heures,"à trois heures ou à quatre heures|non, pas à quatre heures, à cinq heures|non, pas à quatre heures. à cinq heures"
+"Non, à six heures ou à sept heures.",11,1,8,6,0,ou|à six heures|ou à sept heures|à sept heures|à six heures ou à sept heures,
+Pas à neuf heures.,11,1,4,4,1,pas|neuf heures|neuf|à neuf heures,pas à huit heures et pas à neuf heures
+"Alors, à dix heures.",11,1,4,1,0,à dix heures,
+Soir.,11,1,1,0,14,,ce soir|je vais dîner ce soir|je voudrais dîner ce soir|demain soir|demain soir à sept heures
+Demain soir.,11,4,2,2,4,demain|soir,"demain soir à sept heures|pas ce soir, mais demain soir|alors, demain soir|pas demain soir"
+Demain soir à sept heures.,11,1,5,5,0,à sept heures|demain|soir|demain soir|à demain,
+"Non, à dix heures.",11,1,4,1,0,à dix heures,
+Aujourd'hui.,11,4,1,0,11,,"est-ce que vous voudriez dîner avec moi aujourd'hui|aujourd'hui et aussi demain|comment allez-vous aujourd'hui|je ne vais pas boire aujourd'hui|non, pas aujourd'hui"
+Écouter.,11,1,1,0,0,,
+Répéter.,11,1,1,0,1,,écoutez! je vais répéter
+Est-ce que vous voudriez dîner avec moi aujourd'hui?,11,1,8,11,0,vous|est-ce que|moi|vous voudriez|voudriez,
+"Pas aujourd'hui, demain.",11,1,3,2,0,pas|demain,
+"Moi, je vais dîner maintenant.",11,1,5,4,0,je|maintenant|je vais|dîner,
+Aujourd'hui et aussi demain.,11,1,4,5,0,et|aussi|demain|et demain|aujourd'hui,
+"Il est dix heures, Mademoiselle.",11,1,5,3,0,mademoiselle|est|il est,
+Je voudrais dîner avec vous ce soir.,11,1,7,11,0,vous|je|ce|je voudrais|voudrais,
+"Pas ce soir, mais demain soir.",11,1,6,8,0,pas|mais|ce|ce soir|demain,
+"Alors, à huit heures chez moi.",11,1,6,7,0,moi|chez moi|chez|huit|huit heures,
+Comment allez-vous aujourd'hui?,11,1,3,3,0,comment|comment allez-vous|aujourd'hui,
+Qu'est-ce que vous voulez faire ce soir?,11,1,7,10,0,vous|ce|vous voulez|voulez|qu'est-ce que,
+"Alors, demain soir?",11,1,3,3,0,demain|soir|demain soir,
+Je vais dîner à six heures.,11,1,6,4,0,je|je vais|à six heures|dîner,
+"Je voudrais du vin, s'il vous plaît.",11,1,7,9,0,vous|je|s'il vous plaît|plaît|vous plaît,
+"Répétez, s'il vous plaît.",11,2,4,5,0,vous|s'il vous plaît|plaît|vous plaît|s'il,
+"D'accord, mais écoutez.",11,1,3,1,0,mais,
+À demain.,11,1,2,1,2,demain,demain soir à sept heures|je vais à paris demain
+Pas plus tard?,12,1,3,4,3,pas|plus tard|tard|plus,"pas maintenant, plus tard|pas maintenant, je voudrais manger plus tard|et pas plus tard"
+Il est dix heures maintenant.,12,1,5,3,0,est|maintenant|il est,
+"Non, il est quatre heures.",12,1,5,5,0,est|il est|il est quatre heures|quatre|quatre heures,
+"À cinq heures, je vais manger.",12,1,6,5,0,je|manger|cinq|je vais|je vais manger,
+"Oui, avec vous.",12,1,3,3,1,vous|avec|avec vous,"oui, je vais déjeuner avec vous"
+Je vais manger avec vous.,12,1,5,7,0,vous|je|manger|avec|avec vous,
+"Oui, je voudrais aussi manger.",12,1,5,8,1,"je|manger|je voudrais|voudrais|oui, je voudrais manger","mais oui, et je voudrais manger quelque chose. vous aussi"
+Est-ce que vous allez boire du vin?,12,1,7,7,0,vous|est-ce que|vous allez|boire|du vin,
+"Non, je vais boire de la bière.",12,1,7,5,0,je|boire|de la bière|bière|je vais,
+Je ne vais pas boire aujourd'hui.,12,1,6,7,0,ne|je|pas|je ne|boire,
+Vous n'allez pas boire?,12,1,4,3,0,vous|pas|boire,
+"Non, pas aujourd'hui.",12,1,3,2,0,pas|aujourd'hui,
+"Aujourd'hui, je vais manger à trois heures.",12,1,7,6,0,je|manger|trois|trois heures|je vais,
+Ou à deux heures.,12,1,4,4,1,ou|deux|deux heures|à deux heures,à une heure ou à deux heures
+Combien?,12,2,1,0,35,,je vous dois combien|je vous dois combien aujourd'hui|vous avez combien de francs|combien de francs|vous avez combien de dollars
+Je vous dois combien?,12,10,4,5,1,vous|je|combien|je dois|je vous dois,je vous dois combien aujourd'hui
+Je dois.,12,2,2,1,8,je,"je vous dois combien|je vous dois|je vous dois combien, s'il vous plaît|je vous dois combien aujourd'hui|est-ce que je vous dois cinq francs"
+Je vous dois.,12,1,3,3,7,vous|je|je dois,"je vous dois combien|je vous dois combien, s'il vous plaît|je vous dois combien aujourd'hui|est-ce que je vous dois cinq francs|je vous dois treize francs"
+"Je vous dois combien, s'il vous plaît?",12,1,7,8,0,vous|je|s'il vous plaît|plaît|vous plaît,
+Un franc.,12,2,2,0,4,,"avez-vous un franc|voulez-vous un franc|alors, donnez-moi un franc|une bière, un franc"
+"Un franc, Monsieur.",12,1,3,1,1,monsieur,"est-ce que vous avez un franc, monsieur"
+Je vous dois combien aujourd'hui?,12,1,5,7,0,vous|je|aujourd'hui|combien|je vous dois combien,
+Huit francs.,12,1,2,1,0,huit,
+Onze francs.,12,1,2,0,1,,"non, onze francs"
+Douze francs.,12,1,2,0,2,,est-ce que je vous dois douze francs|je veux douze francs
+Deux francs.,12,1,2,1,1,deux,"et le vin, deux francs"
+Treize francs.,12,2,2,1,3,treize,"je vous dois treize francs|non, j'ai treize francs|voilà treize francs"
+Dix francs.,12,1,2,0,1,,vous me devez dix francs
+Six francs.,12,1,2,0,1,,six francs le litre
+Est-ce que je vous dois cinq francs?,12,1,7,6,0,vous|est-ce que|je|cinq|je dois,
+"Non, Madame, quatre francs.",12,1,4,1,0,quatre,
+Et sept francs?,12,1,3,1,0,et,
+Je vous dois treize francs.,12,1,5,6,0,vous|je|je dois|je vous dois|treize francs,
+"Non, pas treize.",12,1,3,2,0,pas|treize,
+Est-ce que je vous dois douze francs?,12,1,7,6,0,vous|est-ce que|je|je dois|je vous dois,
+"Non, onze francs.",12,1,3,1,0,onze francs,
+"Oui, je comprends maintenant.",12,1,4,5,0,je|comprends|je comprends|maintenant|je comprends maintenant,
+Je vous comprends.,12,1,3,4,3,vous|je|comprends|je comprends,"je vous comprends maintenant|je ne vous comprends pas|mais en français, je ne vous comprends pas"
+Je vous comprends maintenant.,12,1,4,7,0,vous|je|comprends|je comprends|maintenant,
+Quelle heure est-il s'il vous plaît?,13,1,6,10,0,vous|s'il vous plaît|plaît|vous plaît|s'il,
+Il est onze heures.,13,1,4,2,0,est|il est,
+"Mais non, il est huit heures.",13,1,6,6,0,mais|est|huit|huit heures|il est,
+"Non, douze.",13,1,2,0,0,,
+Deux ou douze?,13,1,3,2,0,ou|deux,
+Je ne vous comprends pas.,13,2,5,10,1,ne|vous|je|comprends|je comprends,"mais en français, je ne vous comprends pas"
+"Écoutez, s'il vous plaît.",13,1,4,5,0,vous|s'il vous plaît|plaît|vous plaît|s'il,
+J'écoute.,13,1,1,0,0,,
+Répétez s'il vous plaît.,13,1,4,5,0,vous|s'il vous plaît|plaît|vous plaît|s'il,
+Je répète.,13,1,2,1,0,je,
+Quand? Aujourd'hui?,13,1,2,1,0,aujourd'hui,
+Ou demain?,13,1,2,2,0,ou|demain,
+Six heures ou sept heures.,13,1,5,1,2,ou,"à six heures ou à sept heures|non, à six heures ou à sept heures"
+Pas demain soir.,13,1,3,4,1,pas|demain|soir|demain soir,"pas ce soir, mais demain soir"
+Bonsoir.,13,1,1,0,1,,"merci, madame. bonsoir"
+Je vais bien aujourd'hui.,13,1,4,5,0,je|bien|je vais bien|je vais|aujourd'hui,
+Vous avez combien de francs?,13,2,5,4,0,vous|vous avez|combien|combien de francs,
+Combien de francs?,13,1,3,1,3,combien,vous avez combien de francs|combien de francs avez-vous|combien de francs voulez-vous
+J'ai quatorze francs.,13,2,3,2,0,quatorze|j'ai,
+Quatorze.,13,1,1,0,6,,"j'ai quatorze francs|j'ai quatorze dollars|quatorze francs, s'il vous plaît|alors, c'est quatorze francs|voilà quatorze francs"
+J'ai.,13,1,1,0,49,,"j'ai quatorze francs|j'ai quatorze dollars|j'ai quinze dollars|non, j'ai treize francs|mais j'ai quinze dollars"
+Vous avez combien de dollars?,13,2,5,3,0,vous|vous avez|combien,
+J'ai quatorze dollars.,13,1,3,3,0,quatorze|j'ai|quatorze dollars,
+J'ai quinze dollars.,13,2,3,2,1,j'ai|quinze,mais j'ai quinze dollars
+Est-ce que vous avez seize francs?,13,1,6,3,0,vous|est-ce que|vous avez,
+"Non, j'ai treize francs.",13,1,4,3,0,treize francs|j'ai|treize,
+Mais j'ai quinze dollars.,13,1,4,4,0,mais|j'ai|j'ai quinze dollars|quinze,
+Vous n'avez pas seize dollars?,13,1,5,2,0,vous|pas,
+"Je vous dois combien, Madame?",13,1,5,5,0,vous|je|madame|je dois|je vous dois,
+En dollars?,13,2,2,0,1,,et en dollars
+En francs.,13,1,2,0,1,,"en francs, c'est quinze francs"
+"Quatorze francs, s'il vous plaît.",13,1,5,6,0,vous|s'il vous plaît|plaît|vous plaît|s'il,
+J'ai dix dollars.,13,1,3,1,0,j'ai,
+Est-ce que vous avez cinq dollars?,13,1,6,4,0,vous|est-ce que|vous avez|cinq,
+"En francs, c'est quinze francs.",13,1,5,3,0,c'est|en francs|quinze,
+Et en dollars?,13,1,3,2,0,et|en dollars,
+"C'est cinq dollars, Monsieur.",13,1,4,4,0,monsieur|c'est|cinq|c'est cinq,
+Je n'ai pas seize francs.,13,1,5,2,0,je|pas,
+Mais pas quinze.,13,1,3,4,0,pas|mais|pas quinze|quinze,
+"Alors, c'est quatorze francs.",13,1,4,2,0,c'est|quatorze,
+"Merci, Madame. Bonsoir.",13,1,3,1,0,bonsoir,
+Vous devez.,13,1,2,1,3,vous,vous me devez dix francs|vous me devez|vous me devez trente-et-un francs
+Je n'ai pas de francs.,13,2,5,2,1,je|pas,mais je n'ai pas de francs
+"En dollars, c'est combien?",13,2,4,3,0,c'est|combien|c'est combien,
+Et je voudrais cinq bières.,13,1,5,5,0,je|et|je voudrais|voudrais|cinq,
+Voilà.,14,2,1,0,15,,"voilà treize francs|voilà quatorze francs|d'accord, voilà trois dollars|voilà une bière|voilà seize dollars"
+Voilà treize francs.,14,1,3,3,0,treize francs|voilà|treize,
+Je veux douze francs.,14,1,4,4,0,je|je veux|veux|douze francs,
+Voilà quatorze francs.,14,1,3,2,0,quatorze|voilà,
+"Est-ce que vous avez un franc, Monsieur?",14,1,7,5,0,"vous|est-ce que|monsieur|vous avez|un franc, monsieur",
+Avez-vous un franc?,14,1,3,1,0,un franc,
+Voulez-vous un franc?,14,1,3,2,0,un franc|voulez-vous,
+Je veux seize francs.,14,1,4,3,0,je|je veux|veux,
+Pas quinze.,14,1,2,2,1,pas|quinze,mais pas quinze
+Je n'ai pas de dollars.,14,3,5,3,2,je|pas|pas de dollars,"mais je n'ai pas de dollars|non, je n'ai pas de dollars"
+J'ai beaucoup de francs.,14,1,4,1,2,j'ai,"et j'ai aussi beaucoup de francs|j'ai beaucoup de dollars, mais pas de francs"
+Mais je n'ai pas de dollars.,14,1,6,5,0,je|pas|mais|je n'ai pas de dollars|pas de dollars,
+Vous n'avez pas de dollars?,14,1,5,3,0,vous|pas|pas de dollars,
+J'ai des francs.,14,1,3,1,1,j'ai,j'ai aussi des francs
+J'ai des dollars.,14,1,3,2,1,j'ai|des dollars,"oui, j'ai des dollars"
+Mais pas de francs.,14,1,4,2,2,pas|mais,"j'ai beaucoup de dollars, mais pas de francs|mais je n'ai pas de francs"
+Donnez-moi des francs.,14,2,3,1,1,donnez-moi,"alors, donnez-moi des francs"
+Donnez-moi des dollars.,14,2,3,2,1,des dollars|donnez-moi,"non, donnez-moi des dollars"
+"D'accord, voilà trois dollars.",14,1,4,2,0,trois|voilà,
+Est-ce que vous avez des francs?,14,2,6,4,1,vous|est-ce que|vous avez|vous avez des francs,est-ce que vous avez des francs pour moi
+J'ai dix-sept francs.,14,1,3,1,0,j'ai,
+J'ai dix-neuf dollars.,14,1,3,1,0,j'ai,
+Et j'ai aussi beaucoup de francs.,14,1,6,4,0,et|aussi|j'ai|j'ai beaucoup de francs,
+Combien de francs avez-vous?,14,1,4,2,0,combien|combien de francs,
+Je n'ai pas de bière.,14,1,5,3,0,je|pas|bière,
+Je voudrais acheter de la bière.,14,1,6,7,0,je|je voudrais|voudrais|de la bière|bière,
+"Moi, j'ai de la bière.",14,1,5,3,0,de la bière|bière|j'ai,
+Voilà une bière.,14,1,3,3,0,bière|une|voilà,
+"Maintenant, donnez-moi dix-sept francs.",14,1,4,2,0,donnez-moi dix-sept francs|donnez-moi,
+Est-ce que vous avez des dollars?,14,3,6,4,0,vous|est-ce que|vous avez|des dollars,
+"Non, je n'ai pas de dollars.",14,1,6,4,0,je|pas|je n'ai pas de dollars|pas de dollars,
+Et des francs?,14,1,3,1,0,et,
+Ce n'est pas beaucoup.,14,3,4,3,2,pas|ce|pas beaucoup,"non, ce n'est pas beaucoup|ici, ce n'est pas beaucoup"
+Est-ce que vous savez où est le boulevard?,14,1,8,10,0,vous|est-ce que|est|où est|le boulevard,
+Est-ce que c'est là-bas?,14,1,4,4,0,est-ce que|c'est|c'est là-bas|là-bas,
+Ou est-ce que c'est ici?,14,1,5,6,0,est-ce que|ou|ici|c'est|c'est ici,
+Merci beaucoup.,14,1,2,1,0,merci,
+Donnez-moi quinze dollars.,14,1,3,2,0,quinze|donnez-moi,
+"Non, donnez-moi dix-sept ou dix-huit dollars.",14,1,6,2,0,ou|donnez-moi,
+"J'ai beaucoup de dollars, mais pas de francs.",14,1,8,6,0,pas|mais|j'ai|j'ai beaucoup de francs|mais pas de francs,
+Combien de francs voulez-vous?,14,1,4,3,0,combien|combien de francs|voulez-vous,
+"Oh, dix-huit ou dix-neuf?",14,1,4,1,0,ou,
+Je donne.,14,1,2,1,3,je,je vous donne|je vous donne dix dollars|je vous donne soixante-et-un francs
+Je vous donne.,14,1,3,3,2,vous|je|je donne,je vous donne dix dollars|je vous donne soixante-et-un francs
+Je vous donne dix dollars.,14,1,5,4,0,vous|je|je donne|je vous donne,
+Mais je n'ai pas de francs.,14,1,6,5,0,je|pas|mais|je n'ai pas de francs|mais pas de francs,
+Qu'est-ce que vous allez faire?,14,1,5,4,1,vous|vous allez|qu'est-ce que|faire,qu'est-ce que vous allez faire là-bas
+Vous n'avez pas de francs.,14,2,5,2,0,vous|pas,
+"Alors, je vais acheter des francs.",14,1,6,3,0,je|acheter|je vais,
+"Donnez-moi des dollars, s'il vous plaît.",14,1,6,6,0,vous|s'il vous plaît|plaît|vous plaît|s'il,
+Voilà seize dollars.,14,1,3,1,0,voilà,
+C'est beaucoup.,14,3,2,1,3,c'est,"mais chez moi, c'est beaucoup|c'est beaucoup d'argent|dix-huit dollars, c'est beaucoup d'argent"
+"Non, ce n'est pas beaucoup.",14,1,5,4,0,pas|ce|ce n'est pas beaucoup|pas beaucoup,
+"Ici, ce n'est pas beaucoup.",14,1,5,4,0,pas|ce|ce n'est pas beaucoup|pas beaucoup,
+"Mais chez moi, c'est beaucoup.",14,1,5,4,0,mais|c'est|chez|c'est beaucoup,
+Est-ce que vous avez du vin?,15,3,6,6,0,vous|est-ce que|du vin|vin|du,
+Je n'ai pas de vin.,15,1,5,4,0,je|pas|vin|pas de vin,
+Mais j'ai de la bière.,15,1,5,4,0,mais|de la bière|bière|j'ai,
+"Alors, donnez-moi de la bière.",15,1,5,4,0,"de la bière|bière|alors, de la bière|donnez-moi",
+Voilà cinq dollars.,15,1,3,2,0,cinq|voilà,
+J'ai aussi des francs.,15,1,4,3,0,aussi|j'ai|j'ai des francs,
+Donnez-moi dix-sept francs.,15,1,3,1,1,donnez-moi,"maintenant, donnez-moi dix-sept francs"
+Combien? Dix-huit?,15,1,2,0,0,,
+"Non, Madame, seize.",15,1,3,0,0,,
+Voilà quinze francs.,15,1,3,2,0,voilà|quinze,
+"C'est quatorze, Madame.",15,1,3,2,0,madame|c'est,
+"Alors, donnez-moi un franc.",15,1,4,2,0,un franc|donnez-moi,
+Pas beaucoup.,15,2,2,1,6,pas,"ce n'est pas beaucoup|j'ai beaucoup de dollars, mais pas de francs|non, ce n'est pas beaucoup|ici, ce n'est pas beaucoup|je n'en ai pas beaucoup"
+"Pour vous, Madame.",15,1,3,1,0,madame,
+Pour moi?,15,1,2,1,4,moi,est-ce que vous avez des francs pour moi|vous parlez trop vite pour moi|de l'orangina pour moi|mais pas pour moi
+Le vin est pour vous.,15,1,5,3,0,vous|est|vin,
+Mais la bière est pour Georges.,15,1,6,3,0,mais|est|bière,
+C'est combien une bière?,15,1,4,5,0,c'est|bière|une|combien|c'est combien,
+"Une bière, un franc.",15,1,4,2,0,une|un franc,
+"Et le vin, deux francs.",15,1,5,3,0,et|deux|deux francs,
+Donnez-moi trois francs.,15,1,3,2,0,trois|donnez-moi,
+Je ne peux pas.,15,2,4,5,3,ne|je|pas|je ne|je peux,"non, je ne peux pas|mais je ne peux pas|et je ne peux pas"
+Je peux.,15,4,2,1,13,je,"je ne peux pas|oui, je peux|je peux vous donner des dollars|non, je ne peux pas|oui, je peux aussi en acheter"
+Vous pouvez.,15,1,2,1,10,vous,est-ce que vous pouvez|est-ce que vous pouvez manger maintenant|vous ne pouvez pas|et vous pouvez boire de l'orangina|vous pouvez boire du vin
+Est-ce que vous pouvez?,15,1,4,3,2,vous|est-ce que|vous pouvez,est-ce que vous pouvez manger maintenant|est-ce que vous pouvez attendre
+Est-ce que vous pouvez manger maintenant?,15,1,6,6,0,vous|est-ce que|manger|maintenant|vous pouvez,
+"Oui, je peux.",15,2,3,2,1,je|je peux,"oui, je peux aussi en acheter"
+"Oui, j'en ai.",15,1,3,0,1,,"oui, j'en ai beaucoup"
+Est-ce que vous avez de la bière?,15,1,7,5,0,vous|est-ce que|de la bière|bière|vous avez,
+Je n'en ai pas.,15,7,4,2,2,je|pas,"non, je n'en ai pas|je n'en ai pas beaucoup"
+J'en ai beaucoup.,15,3,3,0,1,,"oui, j'en ai beaucoup"
+"Non, je n'en ai pas.",15,1,5,3,0,je|pas|je n'en ai pas,
+Je n'en ai pas beaucoup.,15,2,5,4,0,je|pas|pas beaucoup|je n'en ai pas,
+J'en veux.,15,2,2,1,0,veux,
+Vous en voulez.,15,1,3,3,0,vous|vous voulez|voulez,
+Des dollars?,15,1,2,0,7,,j'ai des dollars|donnez-moi des dollars|est-ce que vous avez des dollars|vous voulez des dollars|je peux vous donner des dollars
+Vous voulez des dollars?,15,1,4,4,0,vous|vous voulez|voulez|des dollars,
+Vous ne pouvez pas?,15,2,4,4,1,ne|vous|pas|vous pouvez,"non, vous ne pouvez pas"
+"Alors, donnez-moi des francs.",15,1,4,2,0,donnez-moi des francs|donnez-moi,
+Mais je ne veux pas.,15,1,5,8,1,ne|je|pas|je ne|mais,"mais moi, je ne veux pas manger"
+Vous avez des francs.,15,1,4,2,2,vous|vous avez,est-ce que vous avez des francs|est-ce que vous avez des francs pour moi
+Mais je n'en veux pas.,15,1,5,6,0,je|pas|mais|je veux|veux,
+Deux et deux font combien?,15,1,5,3,0,et|deux|combien,
+Je veux manger!,15,1,3,4,2,je|je veux|veux|manger,"mais moi, je ne veux pas manger|je ne veux pas manger"
+Qu'est-ce que vous allez acheter?,15,1,5,4,0,vous|vous allez|qu'est-ce que|acheter,
+Je vais acheter une flûte.,15,1,5,4,0,je|acheter|une|je vais,
+En France et en Italie.,15,1,5,1,0,et,
+"Vous et moi, ensemble.",15,1,4,4,0,vous|et vous|et|ensemble,
+Et qui est Jacques?,15,1,4,4,0,et|jacques|est|qui,
+Je l'ai vu assez souvent.,15,1,5,2,0,je|assez,
+"Cependant, il ne répond pas.",15,1,5,2,0,ne|pas,
+Qu'est-ce qu'il peut donner?,15,1,4,0,0,,
+Elle est devenue blanche.,15,1,4,1,0,est,
+Jacques est indépendant.,15,1,3,2,0,jacques|est,
+Je n'en ai plus.,15,1,4,2,0,je|plus,
+Est-ce que Paris est loin?,15,3,5,4,0,est-ce que|est|loin|paris est loin,
+Écoutez! Je vais répéter.,15,1,4,3,0,je|je vais|répéter,
+Comment? Vous avez tout vu?,15,1,5,2,0,vous|vous avez,
+"Non, mais j'ai tout entendu.",15,1,5,2,0,mais|j'ai,
+C'est pour vous.,16,1,3,2,0,vous|c'est,
+Qu'est-ce que c'est?,16,1,3,2,0,c'est|qu'est-ce que,
+Vous me devez dix francs.,16,1,5,4,0,vous|dix francs|vous devez|vous me devez,
+Je peux vous donner des dollars.,16,1,6,5,0,vous|je|je peux|des dollars|je peux vous donner,
+Je n'en veux pas.,16,1,4,4,1,je|pas|je veux|veux,mais je n'en veux pas
+Pas de dollars.,16,1,3,1,4,pas,"je n'ai pas de dollars|mais je n'ai pas de dollars|vous n'avez pas de dollars|non, je n'ai pas de dollars"
+"Non, je ne peux pas.",16,2,5,6,0,ne|je|pas|je ne|je ne peux pas,
+Voilà dix-sept dollars.,16,1,3,1,0,voilà,
+C'est beaucoup d'argent.,16,1,3,2,1,c'est|c'est beaucoup,"dix-huit dollars, c'est beaucoup d'argent"
+"Dix-huit dollars, c'est beaucoup d'argent.",16,1,5,3,0,c'est|c'est beaucoup|c'est beaucoup d'argent,
+C'est trop.,16,6,2,1,5,c'est,"c'est trop d'argent|c'est trop cher|non, c'est trop cher|soixante-huit, c'est trop cher|c'est trop vite"
+C'est trop d'argent.,16,2,3,2,0,c'est|c'est trop,
+Combien d'argent avez-vous?,16,2,3,1,0,combien,
+J'ai vingt dollars.,16,1,3,1,0,j'ai,
+Vous avez vingt dollars.,16,1,4,2,0,vous|vous avez,
+J'ai vingt-cinq dollars.,16,1,3,1,0,j'ai,
+Vingt-huit.,16,1,1,0,1,,vingt-huit et quatre font trente-deux
+Vous avez trop d'argent.,16,1,4,2,0,vous|vous avez,
+J'ai trente francs.,16,1,3,1,0,j'ai,
+J'ai trente-neuf francs.,16,1,3,1,0,j'ai,
+"Non, vingt-neuf.",16,1,2,0,0,,
+"Non, mais ça suffit.",16,2,4,3,0,mais|ça suffit|ça,
+Ça suffit.,16,1,2,1,9,ça,"non, mais ça suffit|ça ne suffit pas|trente-cinq, ça suffit|quarante-six. ça suffit|merci, ça suffit"
+Ça ne suffit pas.,16,1,4,4,0,ne|pas|ça suffit|ça,
+"Trente-cinq, ça suffit.",16,1,3,2,0,ça suffit|ça,
+Donnez-moi quarante francs.,16,1,3,1,0,donnez-moi,
+Quarante dollars.,16,1,2,0,0,,
+Quatorze dollars.,16,1,2,1,1,quatorze,j'ai quatorze dollars
+Donnez-moi quarante-sept francs.,16,1,3,1,0,donnez-moi,
+Quarante-six. Ça suffit.,16,1,3,2,0,ça suffit|ça,
+Je voudrais quarante-huit francs.,16,1,4,3,0,je|je voudrais|voudrais,
+"Non, trente-huit.",16,1,2,0,0,,
+Combien de dollars voulez-vous?,16,1,4,2,0,combien|voulez-vous,
+Est-ce que vous avez de l'argent?,16,3,6,3,0,vous|est-ce que|vous avez,
+Je voudrais de l'argent.,16,2,4,3,0,je|je voudrais|voudrais,
+Je n'ai pas d'argent.,16,2,4,2,0,je|pas,
+Donnez-moi de l'argent.,16,1,3,1,0,donnez-moi,
+Vous en avez.,16,1,3,2,1,vous|vous avez,vous en avez beaucoup
+Vous en avez beaucoup.,16,1,4,3,0,vous|vous avez|vous en avez,
+"D'accord, voilà vingt-cinq francs.",16,1,4,1,0,voilà,
+"Merci, ça suffit.",16,2,3,2,0,ça suffit|ça,
+Deux et trois font cinq.,16,1,5,4,0,et|deux|cinq|trois,
+Cinq et trois font huit.,16,1,5,4,0,et|huit|cinq|trois,
+Huit et cinq font treize.,16,1,5,4,0,et|huit|cinq|treize,
+Onze et quatre font quinze.,16,1,5,3,0,et|quatre|quinze,
+Treize et quatre font dix-sept.,16,1,5,3,0,et|quatre|treize,
+Seize et quatre font vingt.,16,1,5,2,0,et|quatre,
+Vingt et six font vingt-six.,16,1,5,1,0,et,
+Vingt-huit et quatre font trente-deux.,16,1,5,3,0,et|quatre|vingt-huit,
+Trente-deux et deux font trente-quatre.,16,1,5,2,0,et|deux,
+Trente-quatre et douze font quarante-six.,16,1,5,1,0,et,
+Trente-trois et dix font quarante-trois.,16,1,5,2,0,et|trente-trois,
+Vingt-cinq et onze font trente-six.,16,1,5,1,0,et,
+Arrêtez! Ça suffit!,16,1,3,2,0,ça suffit|ça,
+"Oui, j'ai de l'argent.",16,1,4,1,0,j'ai,
+"Oui, j'en ai beaucoup.",16,1,4,2,0,"oui, j'en ai|j'en ai beaucoup",
+"Oui, j'ai des dollars.",16,1,4,3,0,j'ai|j'ai des dollars|des dollars,
+"Oui, je voudrais bien.",16,1,4,5,0,je|bien|je voudrais|voudrais|je voudrais bien,
+"Oui, je peux aussi en acheter.",16,1,6,5,0,"je|aussi|acheter|je peux|oui, je peux",
+Trente-trois,17,1,1,0,1,,trente-trois et dix font quarante-trois
+Quarante-quatre,17,1,1,0,0,,
+Vingt-trois,17,2,1,0,0,,
+Treize,17,1,1,0,7,,"treize francs|je vous dois treize francs|non, pas treize|non, j'ai treize francs|voilà treize francs"
+Trente-sept,17,1,1,0,0,,
+"Moi, j'en ai",17,1,3,0,0,,
+Je peux vous donner,17,1,4,3,3,vous|je|je peux,je peux vous donner des dollars|je peux vous donner de l'argent|je peux vous en donner
+Je peux vous donner de l'argent,17,1,6,4,0,vous|je|je peux|je peux vous donner,
+Je peux vous en donner,17,1,5,4,0,vous|je|je peux|je peux vous donner,
+Est-ce que vous avez des francs pour moi?,17,1,8,7,0,vous|est-ce que|moi|vous avez|est-ce que vous avez des francs,
+"Oui, j'ai assez de francs",17,1,5,2,0,j'ai|assez,
+J'en ai assez,17,1,3,1,0,assez,
+Voilà quarante-cinq francs,17,1,3,2,0,voilà|quarante-cinq francs,
+Donnez-moi quatre francs,17,1,3,2,0,quatre|donnez-moi,
+"Maintenant, j'ai quarante-et-un francs",17,1,4,2,0,j'ai|j'ai quarante-et-un francs,
+Vingt-et-un,17,2,1,0,0,,
+Trente-et-un,17,1,1,0,1,,vous me devez trente-et-un francs
+Cinquante-et-un,17,1,1,0,0,,
+Cinquante,17,3,1,0,4,,cinquante francs|cinquante kilomètres|ça suffit pour cinquante kilomètres|cent cinquante dollars
+Soixante,17,2,1,0,2,,soixante francs|il y a soixante kilomètres
+Soixante-et-un,17,2,1,0,2,,soixante-et-un francs|je vous donne soixante-et-un francs
+Cinquante-sept,17,1,1,0,0,,
+Vous me devez...,17,1,3,2,2,vous|vous devez,vous me devez dix francs|vous me devez trente-et-un francs
+Vous me devez trente-et-un francs,17,1,5,4,0,vous|vous devez|trente-et-un|vous me devez,
+Cinquante-trois francs,17,1,2,0,1,,je vais vous donner cinquante-trois francs
+C'est trop cher,17,2,3,3,2,c'est|c'est trop|cher,"non, c'est trop cher|soixante-huit, c'est trop cher"
+Ce n'est pas trop cher,17,2,5,5,0,pas|ce|cher|ce n'est pas cher|pas trop,
+Soixante-et-un francs,17,2,2,1,1,soixante-et-un,je vous donne soixante-et-un francs
+Je vous donne soixante-et-un francs,17,1,5,6,0,vous|je|je donne|je vous donne|soixante-et-un,
+"Non, donnez-moi des dollars",17,1,4,3,0,donnez-moi des dollars|des dollars|donnez-moi,
+"En dollars, ce n'est pas cher",17,1,6,4,0,pas|ce|cher|ce n'est pas cher,
+"Si, c'est cher",17,2,3,2,0,c'est|cher,
+Je parle français,17,1,3,4,1,je|français|je parle|parle,je parle un peu le français
+Vous parlez français,17,1,3,4,2,vous|français|vous parlez|parlez,"je trouve que pour un américain, vous parlez très bien le français|quand vous parlez français"
+Vous parlez trop vite!,17,4,4,4,3,vous|vous parlez|parlez|vite,"vous parlez trop vite pour moi|et vous parlez trop vite|maintenant, vous parlez trop vite"
+Je ne parle pas vite,17,1,5,7,1,ne|je|pas|je ne|je parle,"en anglais, je ne parle pas vite"
+"Si, vous parlez très vite",17,1,5,5,0,vous|très|vous parlez|parlez|vite,
+"En anglais, je ne parle pas vite",17,1,7,8,0,ne|je|pas|je ne|je parle,
+"Mais en français, je ne vous comprends pas",17,1,8,13,0,ne|vous|je|comprends|je comprends,
+Quand vous parlez français...,17,1,4,6,0,vous|français|vous parlez|parlez|quand,
+Vous parlez trop vite pour moi,17,1,6,7,0,vous|moi|vous parlez|parlez|pour moi,
+Cher,17,1,1,0,12,,"c'est trop cher|ce n'est pas trop cher|en dollars, ce n'est pas cher|si, c'est cher|le vin est trop cher"
+Le vin est trop cher,17,1,5,3,0,est|vin|cher,
+Et vous parlez trop vite,17,1,5,7,0,vous|et vous|et|vous parlez|parlez,
+Merci et ça suffit,17,1,4,4,0,merci|et|ça suffit|ça,
+Ce n'est pas cher,18,1,4,3,3,pas|ce|cher,"ce n'est pas trop cher|en dollars, ce n'est pas cher|là-bas, ce n'est pas cher"
+Est-ce que vous avez assez d'argent?,18,1,6,4,0,vous|est-ce que|vous avez|assez,
+J'ai quarante-et-un francs,18,1,3,1,1,j'ai,"maintenant, j'ai quarante-et-un francs"
+"Là-bas, ce n'est pas cher",18,1,5,4,0,pas|ce|cher|ce n'est pas cher,
+Plus cher,18,1,2,2,1,plus|cher,"ici, c'est plus cher"
+"Ici, c'est plus cher",18,1,4,4,0,c'est|plus|cher|plus cher,
+Plus vite,18,2,2,2,1,plus|vite,parlez plus vite
+Parlez plus vite,18,1,3,4,0,parlez|plus|plus vite|vite,
+"Maintenant, vous parlez trop vite",18,1,5,5,0,vous|vous parlez|parlez|vous parlez trop vite|vite,
+Mon mari parle vite,18,1,4,5,0,mon|parle|mari|mon mari|vite,
+Mari,18,1,1,0,22,,mon mari parle vite|mon mari|mon mari voudrait boire quelque chose|mon mari peut boire quelque chose|mon mari peut boire du vin
+Ma femme,18,1,2,0,10,,ma femme est là-bas|ma femme voudrait boire quelque chose|ma femme voudrait boire de l'orangina|où est ma femme|ma femme voudrait boire de l'eau
+Mon mari,18,3,2,2,16,mon|mari,mon mari parle vite|mon mari voudrait boire quelque chose|mon mari peut boire quelque chose|mon mari peut boire du vin|mon mari peut boire de l'orangina
+Ma femme est là-bas,18,1,4,3,0,est|là-bas|ma femme,
+Ma femme voudrait boire quelque chose,18,1,6,6,0,quelque chose|chose|quelque|boire|boire quelque chose,
+Mon mari voudrait boire quelque chose,18,1,6,8,0,mon|quelque chose|chose|quelque|boire,
+Mon mari peut boire quelque chose,18,1,6,8,0,mon|quelque chose|chose|quelque|boire,
+Mon mari peut boire du vin,18,1,6,7,0,mon|boire|du vin|vin|du,
+Mon mari peut boire de l'Orangina,18,1,6,4,0,mon|boire|mari|mon mari,
+Orangina,18,1,1,0,0,,
+Je voudrais boire de l'Orangina,18,1,5,4,0,je|je voudrais|voudrais|boire,
+Ma femme voudrait boire de l'Orangina,18,1,6,2,0,boire|ma femme,
+Je voudrais boire de l'eau,18,1,5,5,0,je|je voudrais|voudrais|boire|de l'eau,
+"De l'eau, s'il vous plaît",18,1,5,5,0,vous|s'il vous plaît|plaît|vous plaît|s'il,
+Mon mari voudrait de l'eau,18,1,5,4,0,mon|mari|mon mari|de l'eau,
+De l'Orangina pour moi,18,1,4,2,0,moi|pour moi,
+Votre femme,18,1,2,0,8,,votre femme est ici|votre femme n'est pas ici|c'est votre femme|qu'est-ce que votre femme veut faire|votre femme peut boire de l'eau
+Votre femme est ici,18,1,4,3,0,est|ici|votre femme,
+Votre mari est ici,18,1,4,3,0,est|ici|mari,
+Où est mon mari?,18,1,4,6,0,mon|est|où est|où|mari,
+Où est ma femme?,18,1,4,4,0,est|où est|où|ma femme,
+Votre femme n'est pas ici,18,1,5,4,0,pas|ici|pas ici|votre femme,
+Votre mari voudrait manger quelque chose maintenant,18,1,7,6,0,manger|quelque chose|chose|quelque|maintenant,
+Ma femme voudrait boire de l'eau,18,1,6,3,0,boire|ma femme|de l'eau,
+Mon mari voudrait boire de l'Orangina,18,1,6,4,0,mon|boire|mari|mon mari,
+Pas de vin,18,1,3,2,2,pas|vin,vous n'avez pas de vin|je n'ai pas de vin
+Qui est là-bas?,18,1,3,3,0,est|là-bas|qui,
+C'est votre femme,18,1,3,2,0,c'est|votre femme,
+Qu'est-ce que votre femme veut faire?,18,1,6,3,0,qu'est-ce que|faire|votre femme,
+Ma femme voudrait manger quelque chose,18,1,6,5,0,manger|quelque chose|chose|quelque|ma femme,
+"De l'Orangina, ou de l'eau?",18,1,5,3,0,ou|de l'eau|ou de l'eau,
+Votre femme peut boire de l'eau,18,1,6,3,0,boire|votre femme|de l'eau,
+Et vous pouvez boire de l'Orangina,18,1,6,6,0,vous|et vous|et|boire|et boire,
+Où est votre femme?,18,2,4,4,0,est|où est|où|votre femme,
+Ma femme? Je ne sais pas,18,2,6,6,0,ne|je|pas|je ne|je ne sais pas,
+Est-ce que vous voudriez dîner avec moi?,18,1,7,9,1,vous|est-ce que|moi|vous voudriez|voudriez,est-ce que vous voudriez dîner avec moi aujourd'hui
+Je voudrais bien,18,1,3,4,2,je|bien|je voudrais|voudrais,"bien merci, mais je voudrais manger quelque chose et vous|oui, je voudrais bien"
+Mais je ne peux pas,18,1,5,7,0,ne|je|pas|je ne|mais,
+Je vais dîner avec mon mari,18,1,6,8,0,mon|je|avec|je vais|dîner,
+"Je vais dîner avec mon mari, ce soir",18,1,8,9,0,mon|je|ce|avec|je vais,
+"Alors, voudriez-vous boire quelque chose?",18,1,5,6,0,quelque chose|chose|quelque|boire|boire quelque chose,
+"D'accord, je veux bien",18,1,4,6,0,je|bien|je veux|veux|veux bien,
+De l'eau,18,1,2,0,8,,"je voudrais boire de l'eau|mon mari voudrait de l'eau|ma femme voudrait boire de l'eau|de l'orangina, ou de l'eau|votre femme peut boire de l'eau"
+Vous pouvez boire du vin,18,1,5,6,0,vous|boire|du vin|vin|du,
+"Non, c'est trop cher",18,1,4,4,0,c'est|c'est trop|c'est trop cher|cher,
+"Alors, de la bière?",18,1,4,2,1,de la bière|bière,"alors, donnez-moi de la bière"
+"Donnez-moi une Orangina, s'il vous plaît",18,1,6,8,0,vous|s'il vous plaît|plaît|vous plaît|s'il,
+Mais non! Pas d'Orangina,18,1,4,2,0,pas|mais,
+"Si, si, je vais boire de l'Orangina",18,1,7,3,0,je|boire|je vais,
+"Une Orangina, s'il vous plaît",18,1,5,6,1,vous|s'il vous plaît|plaît|vous plaît|s'il,"donnez-moi une orangina, s'il vous plaît"
+Vite,18,1,1,0,15,,"vous parlez trop vite|je ne parle pas vite|si, vous parlez très vite|en anglais, je ne parle pas vite|vous parlez trop vite pour moi"
+"Voilà votre Orangina, madame",18,1,4,2,0,madame|voilà,
+Et voilà mon mari,18,1,4,6,0,mon|et|voilà|mari|mon mari,
+Et votre femme?,18,2,3,2,0,et|votre femme,
+Beaucoup trop vite.,19,1,3,1,0,vite,
+Cinquante francs.,19,1,2,1,0,cinquante,
+Soixante francs.,19,1,2,1,0,soixante,
+Quarante-cinq francs.,19,1,2,0,1,,voilà quarante-cinq francs
+Cinquante-six francs.,19,1,2,0,0,,
+"Soixante-huit, c'est trop cher.",19,1,4,4,0,c'est|c'est trop|c'est trop cher|cher,
+Je vais vous donner...,19,1,4,3,1,vous|je|je vais,je vais vous donner cinquante-trois francs
+Je vais vous donner cinquante-trois francs.,19,1,6,5,0,vous|je|je vais|cinquante-trois francs|je vais vous donner,
+Où est votre mari?,19,2,4,4,0,est|où est|où|mari,
+Mon mari est là-bas.,19,1,4,5,0,mon|est|là-bas|mari|mon mari,
+Mon mari? Il est là-bas.,19,1,5,5,0,mon|est|là-bas|il est là-bas|il est,
+Elle est là-bas.,19,1,3,2,1,est|là-bas,"ma femme, elle est là-bas"
+"Ma femme, elle est là-bas.",19,1,5,3,0,est|là-bas|elle est là-bas,
+Est-ce qu'elle est là-bas?,19,1,4,2,0,est|là-bas,
+"Elle n'est pas là-bas, elle est ici.",19,1,7,4,0,pas|est|ici|pas ici,
+Qu'est-ce que votre mari voudrait boire?,19,1,6,3,0,boire|qu'est-ce que|mari,
+Qu'est-ce qu'il voudrait boire?,19,1,4,1,0,boire,
+Il voudrait boire de l'Orangina.,19,1,5,1,0,boire,
+Ou de l'eau.,19,2,3,2,1,ou|de l'eau,"de l'orangina, ou de l'eau"
+Entrez.,19,3,1,0,0,,
+Enchanté.,19,4,1,0,0,,
+"Entrez, s'il vous plaît.",19,1,4,5,0,vous|s'il vous plaît|plaît|vous plaît|s'il,
+Qu'est-ce qu'elle voudrait boire?,19,1,4,1,0,boire,
+Je suis Madame Jones.,19,1,4,4,0,je|madame|je suis|suis,
+Où habitez-vous?,19,2,2,1,1,où,"et vous, monsieur? où habitez-vous"
+Habiter.,19,1,1,0,0,,
+Vous habitez.,19,1,2,1,1,vous,est-ce que vous habitez ici
+J'habite.,19,1,1,0,0,,
+Est-ce que vous habitez ici?,19,1,5,4,0,vous|est-ce que|ici|vous habitez,
+"Oui, avec ma femme.",19,1,4,2,0,avec|ma femme,
+Nous habitons ici.,19,2,3,2,0,ici|nous habitons,
+Nous habitons.,19,2,2,0,3,,nous habitons ici|nous habitons à washington|nous habitons en amérique
+Voulez-vous?,19,1,1,0,6,,voulez-vous un franc|combien de francs voulez-vous|combien de dollars voulez-vous|combien de litres d'essence voulez-vous|combien de litres voulez-vous
+Nous voulons.,19,3,2,0,4,,nous voulons beaucoup d'enfants|nous voulons de l'essence|nous voulons rester|nous ne voulons rien acheter
+Et nous voudrions boire quelque chose.,19,1,6,8,0,et|quelque chose|chose|quelque|boire,
+Mon mari et moi.,19,1,4,6,0,mon|moi|et|mari|mon mari,
+Nous voudrions boire de l'Orangina.,19,1,5,2,0,boire|nous voudrions,
+Est-ce que vous voudriez aussi de l'Orangina?,19,1,7,5,0,vous|est-ce que|vous voudriez|voudriez|aussi,
+Ma femme et moi.,19,2,4,3,0,moi|et|ma femme,
+Nous n'habitons pas ici.,19,1,4,3,0,pas|ici|pas ici,
+Nous voudrions boire de l'eau.,19,1,5,3,0,boire|de l'eau|nous voudrions,
+Il voudrait boire de l'eau.,19,1,5,2,0,boire|de l'eau,
+Mais nous voudrions du vin.,19,1,5,5,0,mais|du vin|vin|du|nous voudrions,
+Il n'est pas ici.,19,1,4,3,0,pas|ici|pas ici,
+Nous habitons à Washington.,19,1,4,1,0,nous habitons,
+"Et vous, Monsieur? Où habitez-vous?",19,1,5,3,0,et|où|où habitez-vous,
+Avec votre femme?,19,1,3,2,0,avec|votre femme,
+C'est mon mari.,19,1,3,4,0,mon|c'est|mari|mon mari,
+"Jacques, voilà Monsieur Durand.",19,1,4,2,0,monsieur|voilà,
+"Monsieur Durand, mon mari, Jacques.",19,1,5,3,0,mon|monsieur|jacques,
+"Maintenant, nous pouvons boire quelque chose et parler.",19,1,8,8,0,et|quelque chose|chose|quelque|boire,
+Voudriez-vous boire quelque chose?,20,1,4,5,1,quelque chose|chose|quelque|boire|boire quelque chose,"alors, voudriez-vous boire quelque chose"
+Qu'est-ce que vous avez?,20,2,4,3,3,vous|qu'est-ce que|vous avez,qu'est-ce que vous avez acheté hier|qu'est-ce que vous avez acheté|qu'est-ce que vous avez mangé
+J'ai de l'Orangina.,20,1,3,1,0,j'ai,
+Je ne sais pas où il est.,20,1,7,10,0,ne|je|pas|je ne|est,
+"Où est votre femme, Monsieur?",20,1,5,4,0,monsieur|est|où est|où,
+Elle est avec votre mari.,20,1,5,3,0,est|avec|mari,
+Et où est-il?,20,1,3,3,0,et|où|est-il,
+Il est en Amérique.,20,1,4,2,0,est|il est,
+Nous habitons en Amérique.,20,2,4,1,0,nous habitons,
+Est-ce que vous avez des enfants?,20,1,6,3,0,vous|est-ce que|vous avez,
+Nous avons des enfants.,20,1,4,0,0,,
+Combien d'enfants avez-vous?,20,2,3,2,0,combien|combien d'enfants,
+Nous avons trois enfants.,20,2,4,1,0,trois,
+Deux garçons.,20,1,2,1,2,deux,nous avons deux garçons|avec mes deux garçons
+Nous avons deux garçons.,20,3,4,2,0,deux|deux garçons,
+Et une fille.,20,1,3,2,1,et|une,un garçon et une fille
+Nous avons une fille.,20,2,4,1,2,une,"nous avons une grande fille|oui, nous avons une fille"
+Pas de garçons.,20,1,3,1,0,pas,
+Nous voudrions.,20,1,2,0,8,,et nous voudrions boire quelque chose|nous voudrions boire de l'orangina|nous voudrions boire de l'eau|mais nous voudrions du vin|nous voudrions un garçon
+Nous voudrions un garçon.,20,1,4,2,0,nous voudrions|un garçon,
+Mais nous avons.,20,1,3,1,1,mais,mais nous avons quatre filles
+Mais nous avons quatre filles.,20,1,5,3,0,mais|quatre|mais nous avons,
+Combien d'enfants?,20,1,2,1,2,combien,combien d'enfants avez-vous|vous avez combien d'enfants
+Quatre enfants.,20,1,2,1,2,quatre,"j'ai quatre enfants|non, nous avons quatre enfants"
+Pas en Amérique.,20,1,3,1,0,pas,
+Nous avons cinq enfants.,20,1,4,1,0,cinq,
+Trois garçons.,20,1,2,1,0,trois,
+Et deux filles.,20,1,3,2,0,et|deux,
+Et un garçon.,20,1,3,2,1,et|un garçon,un garçon et une fille
+Le garçon est grand.,20,1,4,2,2,est|le grand garçon,est-ce que le garçon est grand|le garçon est très grand
+La fille est grande.,20,1,4,3,3,est|la grande|la grande fille,est-ce que la fille est grande|la grande fille est ici|la grande fille est ici avec nous
+Est-ce que le garçon est grand?,20,1,6,4,0,est-ce que|est|le garçon est grand|le grand garçon,
+"Oui, il est grand.",20,1,4,2,0,est|il est,
+Il n'est pas grand.,20,1,4,1,0,pas,
+Est-ce que la fille est grande?,20,1,6,5,0,est-ce que|est|la fille est grande|la grande|la grande fille,
+Elle n'est pas grande.,20,2,4,1,0,pas,
+Le garçon est très grand.,20,1,5,4,0,très|est|le garçon est grand|le grand garçon,
+J'ai quatre enfants.,20,1,3,3,0,quatre|j'ai|quatre enfants,
+"Non, nous avons quatre enfants.",20,1,5,2,0,quatre|quatre enfants,
+Ils sont grands.,20,1,3,0,1,,"oui, ils sont grands"
+Ils sont ici.,20,1,3,1,0,ici,
+Ils ne sont pas là-bas.,20,1,5,3,0,ne|pas|là-bas,
+Est-ce qu'elle est grande?,20,1,4,1,1,est,est-ce qu'elle est grande ou petite
+Les garçons sont très grands.,20,1,5,1,0,très,
+Ma femme aussi est grande.,20,1,5,3,0,est|aussi|ma femme,
+Un garçon.,21,1,2,0,5,,nous voudrions un garçon|et un garçon|un grand garçon|nous avons un grand garçon|un garçon et une fille
+Un grand garçon.,21,2,3,1,1,un garçon,nous avons un grand garçon
+Une grande fille.,21,1,3,1,1,une,nous avons une grande fille
+Nous avons une grande fille.,21,1,5,3,0,une|nous avons une fille|une grande fille,
+Nous pouvons.,21,1,2,0,4,,"maintenant, nous pouvons boire quelque chose et parler|nous pouvons attendre|nous pouvons partir|nous ne pouvons pas rester"
+Nous pouvons attendre.,21,1,3,1,0,nous pouvons,
+Est-ce que vous pouvez attendre?,21,1,5,5,0,vous|est-ce que|vous pouvez|est-ce que vous pouvez|vous pouvez attendre,
+Pouvez-vous attendre?,21,1,2,0,0,,
+Vous pouvez attendre.,21,1,3,2,1,vous|vous pouvez,est-ce que vous pouvez attendre
+Nous voulons beaucoup d'enfants.,21,1,4,1,0,nous voulons,
+Avec les enfants.,21,1,3,1,0,avec,
+Les enfants sont en Amérique.,21,1,5,0,0,,
+Ils sont en Amérique.,21,1,4,0,0,,
+Où sont-ils?,21,1,2,1,1,où,"les enfants, où sont-ils"
+Les filles sont ici.,21,1,4,1,0,ici,
+La grande fille est ici.,21,1,5,5,1,est|ici|la fille est grande|la grande|la grande fille,la grande fille est ici avec nous
+Les grands garçons sont ici.,21,1,5,1,0,ici,
+Et la petite fille?,21,1,4,2,0,et|la petite fille,
+Le petit garçon.,21,1,3,0,1,,le garçon est petit
+Le garçon est petit.,21,1,4,2,0,est|le petit garçon,
+Mon garçon est petit.,21,1,4,2,0,mon|est,
+Notre garçon est petit.,21,1,4,2,0,est|notre garçon,
+Notre garçon.,21,1,2,0,3,,"notre garçon est petit|notre garçon n'est pas grand|oui, madame, c'est notre petit garçon"
+Notre garçon n'est pas grand.,21,1,5,2,0,pas|notre garçon,
+Il est petit.,21,1,3,2,1,est|il est,il est vraiment petit
+Vraiment?,21,5,1,0,7,,"oui, vraiment|il est vraiment petit|oui, elles sont vraiment là-bas|votre famille est vraiment grande|pas vraiment"
+"Oui, vraiment.",21,1,2,1,1,vraiment,"oui, elles sont vraiment là-bas"
+Il est vraiment petit.,21,1,4,4,0,est|il est|il est petit|vraiment,
+Où est votre fille?,21,1,4,3,0,est|où est|où,
+Notre grande fille ou notre petite fille?,21,1,7,2,0,ou|notre grande fille,
+La grande.,21,1,2,0,5,,la fille est grande|est-ce que la fille est grande|la grande fille est ici|la grande fille|la grande fille est ici avec nous
+Pas la petite.,21,1,3,1,0,pas,
+Où sont les enfants?,21,1,4,1,0,où,
+"Les enfants, où sont-ils?",21,1,4,2,0,où|où sont-ils,
+Où sont les toilettes?,21,3,4,1,0,où,
+"Les toilettes, où sont-elles?",21,1,4,1,0,où,
+Elles sont là-bas.,21,2,3,1,1,là-bas,"oui, elles sont vraiment là-bas"
+"Oui, elles sont vraiment là-bas.",21,1,5,4,0,"là-bas|vraiment|oui, vraiment|elles sont là-bas",
+La petite fille.,21,1,3,0,1,,et la petite fille
+Le grand garçon.,21,1,3,0,3,,le garçon est grand|est-ce que le garçon est grand|le garçon est très grand
+La grande fille.,21,1,3,1,4,la grande,la fille est grande|est-ce que la fille est grande|la grande fille est ici|la grande fille est ici avec nous
+Notre grande fille.,21,1,3,0,1,,notre grande fille ou notre petite fille
+Votre grande fille.,21,1,3,0,0,,
+Les petites filles.,21,1,3,0,0,,
+La famille.,21,1,2,0,1,,dans la famille
+Une famille.,21,1,2,1,0,une,
+Notre famille.,21,1,2,0,2,,pour notre famille|dans notre famille
+Où est votre famille?,21,1,4,3,0,est|où est|où,
+"Votre famille, où est-elle?",21,1,4,1,0,où,
+Ma famille?,21,1,2,0,6,,ma famille est en amérique|ma famille est en france|dans ma famille|il y a cinq personnes dans ma famille|je vais en france avec ma famille
+Les petits sont en Amérique.,21,1,5,0,0,,
+La grande fille est ici avec nous.,21,1,7,7,0,est|ici|avec|la fille est grande|la grande fille est ici,
+Votre famille est grande.,21,1,4,1,1,est,votre famille est vraiment grande
+Votre famille est vraiment grande.,21,1,5,3,0,est|vraiment|votre famille est grande,
+"Oui, Madame, c'est notre petit garçon.",21,1,6,2,0,c'est|notre garçon,
+"Oui, nous avons une fille.",21,1,5,2,0,une|nous avons une fille,
+Elle est grande.,21,1,3,1,0,est,
+"Non, elle ne comprend pas le français.",21,1,7,4,0,ne|pas|le français|français,
+Nous allons là-bas.,21,1,3,1,0,là-bas,
+Pas vraiment.,21,2,2,2,2,pas|vraiment,elle n'est pas vraiment petite|ce n'est vraiment pas beau
+"Oui, nous avons beaucoup d'enfants.",21,1,5,0,0,,
+Et beaucoup de toilettes.,21,1,4,1,0,et,
+Nous avons un grand garçon.,22,1,5,2,0,un garçon|un grand garçon,
+Une petite fille.,22,1,3,1,0,une,
+Vous avez combien d'enfants?,22,1,4,4,0,vous|vous avez|combien|combien d'enfants,
+J'ai trois enfants.,22,1,3,2,0,trois|j'ai,
+"Oui, ils sont grands.",22,1,4,1,0,ils sont grands,
+Les toilettes sont là-bas.,22,1,4,1,0,là-bas,
+Ma famille est en Amérique.,22,1,5,2,0,est|ma famille,
+Ma famille est en France.,22,1,5,2,0,est|ma famille,
+Elle est avec moi.,22,1,4,4,0,moi|est|avec|avec moi,
+Combien de personnes?,22,1,3,1,2,combien,il y a combien de personnes|il y a combien de personnes dans votre famille
+Personne.,22,1,1,0,0,,
+Il y a combien de personnes?,22,1,6,3,1,combien|combien de personnes|il y a,il y a combien de personnes dans votre famille
+Il y a.,22,1,3,0,17,,"savez-vous où il y a un bon restaurant|monsieur, savez-vous où il y a un bon restaurant|il y a combien de personnes|il y a combien de personnes dans votre famille|il y a quatre personnes"
+Dans votre famille.,22,1,3,1,1,dans,il y a combien de personnes dans votre famille
+Dans.,22,2,1,0,14,,dans votre famille|il y a combien de personnes dans votre famille|dans ma famille|dans ma voiture|il y a cinq personnes dans ma famille
+Il y a combien de personnes dans votre famille?,22,1,9,6,0,combien|combien de personnes|il y a combien de personnes|il y a|dans votre famille,
+Il y a quatre personnes.,22,1,5,2,0,quatre|il y a,
+Dans ma famille.,22,1,3,2,1,ma famille|dans,il y a cinq personnes dans ma famille
+Dans ma voiture.,22,1,3,3,0,dans|voiture|ma voiture,
+Voiture.,22,2,1,0,21,,dans ma voiture|la voiture|ma voiture|une voiture|j'ai une voiture
+La voiture.,22,2,2,1,4,voiture,"il y a beaucoup d'essence dans la voiture|dans la voiture|est-ce qu'il y a de l'essence dans la voiture|oui, si la voiture est petite"
+Ma voiture.,22,1,2,1,4,voiture,dans ma voiture|ma voiture est assez grande|je vais prendre ma voiture|je crois que je vais prendre ma voiture
+Une voiture.,22,2,2,2,6,une|voiture,j'ai une voiture|est-ce que vous avez une voiture|avez-vous une voiture|nous avons une voiture|nous avons une voiture française
+J'ai une voiture.,22,2,3,4,0,une|j'ai|voiture|une voiture,
+Est-ce que vous avez une voiture?,22,1,6,6,0,vous|est-ce que|une|vous avez|voiture,
+Avez-vous une voiture?,22,1,3,3,0,une|voiture|une voiture,
+Est-ce que votre voiture est ici?,22,1,6,4,0,est-ce que|est|ici|voiture,
+Est-ce que votre famille est en France?,22,1,7,2,0,est-ce que|est,
+Il y a cinq personnes dans ma famille.,22,1,8,6,0,cinq|ma famille|il y a|dans|dans ma famille,
+Nous avons une voiture.,22,1,4,3,2,une|voiture|une voiture,"nous avons une voiture française|oui, nous avons une voiture"
+Nous avons une voiture française.,22,1,5,5,0,française|une|voiture|une voiture|nous avons une voiture,
+Est-ce qu'elle est grande ou petite?,22,1,6,3,0,ou|est|est-ce qu'elle est grande,
+Elle n'est pas vraiment petite.,22,1,5,3,0,pas|vraiment|pas vraiment,
+Assez.,22,1,1,0,8,,"je l'ai vu assez souvent|oui, j'ai assez de francs|j'en ai assez|est-ce que vous avez assez d'argent|assez grande"
+Assez grande.,22,1,2,1,1,assez,ma voiture est assez grande
+Ma voiture est assez grande.,22,1,5,5,0,est|voiture|ma voiture|assez|assez grande,
+Pour notre famille.,22,1,3,1,0,notre famille,
+Si vous voulez.,22,2,3,4,0,vous|si|vous voulez|voulez,
+"Est-ce que vous parlez français, Monsieur?",22,1,6,5,0,vous|est-ce que|monsieur|vous parlez|parlez,
+Je parle un peu le français.,22,1,6,10,0,je|le français|français|un peu|peu,
+Je peux comprendre.,22,1,3,2,0,je|je peux,
+Trois personnes.,22,1,2,1,0,trois,
+Il y a cinq personnes.,22,1,5,2,1,cinq|il y a,il y a cinq personnes dans ma famille
+Dans notre famille.,22,1,3,2,0,notre famille|dans,
+"Oui, nous avons une voiture.",22,1,5,4,0,une|voiture|une voiture|nous avons une voiture,
+Nous voulons de l'essence.,22,1,4,2,0,nous voulons|de l'essence,
+Essence.,22,2,1,0,0,,
+De l'essence.,22,2,2,0,4,,nous voulons de l'essence|donnez-moi de l'essence|est-ce qu'il y a de l'essence dans la voiture|mettez de l'essence
+Donnez-moi de l'essence.,22,1,3,2,0,de l'essence|donnez-moi,
+Kilomètre.,22,1,1,0,0,,
+Combien de kilomètres?,22,3,3,2,1,combien|kilomètres,il y a combien de kilomètres
+Cinquante kilomètres.,22,1,2,2,1,cinquante|kilomètres,ça suffit pour cinquante kilomètres
+Donnez-moi vingt-cinq litres.,22,1,3,1,1,donnez-moi,donnez-moi vingt-cinq litres d'essence
+Donnez-moi vingt-cinq litres d'essence.,22,1,4,2,0,donnez-moi vingt-cinq litres|donnez-moi,
+Il y a beaucoup d'essence.,22,3,5,1,1,il y a,il y a beaucoup d'essence dans la voiture
+Dans notre voiture.,22,1,3,2,0,dans|voiture,
+Ça suffit pour cinquante kilomètres.,22,1,5,5,0,ça suffit|cinquante|cinquante kilomètres|kilomètres|ça,
+Je voudrais aller à Paris.,22,1,5,4,0,je|je voudrais|voudrais|à paris,
+Nous voudrions aller à Paris.,22,1,5,2,0,nous voudrions|à paris,
+Il y a combien de kilomètres?,22,4,6,4,0,combien|il y a|combien de kilomètres|kilomètres,
+"Il y a combien de kilomètres, s'il vous plaît?",22,1,9,7,0,vous|s'il vous plaît|plaît|vous plaît|s'il,
+Il y a soixante kilomètres.,22,1,5,3,0,soixante|il y a|kilomètres,
+Il y a beaucoup d'essence dans la voiture.,22,1,8,6,0,il y a|dans|voiture|la voiture|il y a beaucoup d'essence,
+Dans la voiture.,22,2,3,3,2,dans|voiture|la voiture,il y a beaucoup d'essence dans la voiture|est-ce qu'il y a de l'essence dans la voiture
+Et nous allons à Paris.,22,1,5,2,0,et|à paris,
+Dans la famille.,23,2,3,2,0,la famille|dans,
+Deux grandes personnes.,23,1,3,1,0,deux,
+Et deux petites personnes.,23,1,4,2,0,et|deux,
+Deux enfants.,23,1,2,1,0,deux,
+Un garçon et une fille.,23,2,5,5,0,et|une|et une fille|et un garçon|un garçon,
+"Où sont les toilettes, s'il vous plaît?",23,2,7,6,0,vous|s'il vous plaît|plaît|vous plaît|s'il,
+"Vingt litres, s'il vous plaît.",23,1,5,5,0,vous|s'il vous plaît|plaît|vous plaît|s'il,
+Est-ce que votre voiture est américaine?,23,1,6,4,0,est-ce que|américaine|est|voiture,
+Est-ce qu'il y a de l'essence dans la voiture?,23,2,9,5,0,dans|voiture|la voiture|de l'essence|dans la voiture,
+Mettez.,23,2,1,0,7,,vous mettez|mettez dix litres|mettez quinze litres|mettez beaucoup d'essence|mettez trente litres
+Vous mettez.,23,1,2,2,0,vous|mettez,
+"On dit, ""Vous mettez.""",23,1,4,0,0,,
+Nous mettons.,23,1,2,0,0,,
+"On dit, ""Nous mettons.""",23,1,4,0,0,,
+Mettez dix litres.,23,1,3,1,0,mettez,
+Attendez.,23,11,1,0,1,,vous attendez
+Vous attendez.,23,1,2,2,0,vous|attendez,
+Nous attendons.,23,2,2,0,0,,
+Mettez quinze litres.,23,1,3,2,0,mettez|quinze,
+Quinze.,23,1,1,0,10,,"j'ai quinze dollars|mais j'ai quinze dollars|en francs, c'est quinze francs|mais pas quinze|pas quinze"
+"Où allez-vous, Mademoiselle?",23,1,3,2,0,mademoiselle|où,
+Où allez-vous?,23,1,2,1,0,où,
+Je vais à Paris.,23,1,4,3,2,je|je vais|à paris,je vais à paris demain|je vais passer quelques jours à paris
+Je vais à Paris demain.,23,1,5,6,0,je|je vais|demain|à demain|je vais à paris,
+C'est loin.,23,5,2,2,3,c'est|loin,"paris, c'est loin|est-ce que c'est loin|parce que c'est très loin"
+Loin.,23,4,1,0,12,,"est-ce que paris est loin|c'est loin|paris est loin|paris, c'est loin|ce n'est pas loin"
+Paris est loin.,23,1,3,2,1,est|loin,est-ce que paris est loin
+"Attendez, je ne sais pas.",23,1,5,6,0,ne|je|pas|je ne|je ne sais pas,
+Soixante-dix kilomètres.,23,1,2,2,1,soixante-dix|kilomètres,il y a soixante-dix kilomètres
+Soixante-dix.,23,5,1,0,3,,soixante-dix kilomètres|il y a soixante-dix kilomètres|cent soixante-dix
+Soixante-douze.,23,2,1,0,0,,
+Soixante-treize.,23,1,1,0,0,,
+Soixante-quinze.,23,3,1,0,4,,"soixante-cinq et soixante-quinze|il y a soixante-quinze kilomètres|assez pour soixante-quinze kilomètres|non, soixante-quinze"
+Soixante-et-onze.,23,1,1,0,1,,"non, soixante-et-onze"
+Soixante-quatorze kilomètres.,23,2,2,2,0,soixante-quatorze|kilomètres,
+"Non, soixante-et-onze.",23,2,2,1,0,soixante-et-onze,
+C'est trop vite.,23,2,3,3,0,c'est|c'est trop|vite,
+Soixante-quatorze.,23,1,1,0,1,,soixante-quatorze kilomètres
+Soixante-quatre.,23,2,1,0,0,,
+Soixante-cinq et soixante-quinze.,23,2,3,2,0,et|soixante-quinze,
+Mettez beaucoup d'essence.,23,2,3,1,0,mettez,
+Il y a soixante-quinze kilomètres.,23,2,5,3,0,il y a|soixante-quinze|kilomètres,
+C'est quelle route?,23,3,3,4,0,c'est|quelle|route|quelle route,
+Route.,23,2,1,0,28,,c'est quelle route|quelle route|quelle est la route|quelle est la route de paris|ce n'est pas la route de paris
+Quelle route?,23,2,2,2,6,quelle|route,c'est quelle route|quelle est la route|quelle est la route de paris|quelle est la route pour aller à paris|quelle est la bonne route
+"C'est quelle route, s'il vous plaît?",23,1,6,7,0,vous|s'il vous plaît|plaît|vous plaît|s'il,
+Quelle est la route?,23,5,4,4,4,est|quelle|route|quelle route,"quelle est la route de paris|quelle est la route pour aller à paris|quelle est la bonne route|maintenant, quelle est la route de paris"
+Quelle est la route de Paris?,23,4,6,6,1,est|quelle|route|quelle route|quelle est la route,"maintenant, quelle est la route de paris"
+"Paris, c'est loin.",23,1,3,3,0,c'est|c'est loin|loin,
+C'est tout droit.,23,5,3,3,1,c'est|droit|tout droit,"non, c'est tout droit"
+Droit.,23,3,1,0,9,,"c'est tout droit|tout droit|oui, tout droit|ce n'est pas tout droit|ou tout droit"
+Tout droit.,23,7,2,1,8,droit,"c'est tout droit|oui, tout droit|ce n'est pas tout droit|ou tout droit|à gauche ou tout droit"
+Ce n'est pas la route de Paris.,23,2,7,4,0,pas|ce|route|la route de paris,
+La route est là-bas.,23,1,4,3,0,est|là-bas|route,
+"Oui, c'est la route.",23,1,4,2,0,c'est|route,
+La route de Paris.,23,2,4,1,5,route,"quelle est la route de paris|ce n'est pas la route de paris|prenez la route de paris|c'est la route de paris|maintenant, quelle est la route de paris"
+Combien de litres d'essence voulez-vous?,23,1,5,3,0,combien|voulez-vous|combien de litres voulez-vous,
+Vous voulez combien de litres d'essence?,23,1,6,5,0,vous|vous voulez|voulez|combien|vous voulez combien de litres,
+Pas trop.,23,1,2,1,3,pas,ce n'est pas trop cher|n'allez pas trop vite|et ne parlez pas trop vite
+Mettez trente litres.,23,1,3,1,0,mettez,
+Soixante-dix-huit.,23,2,1,0,0,,
+Ce n'est pas loin.,23,2,4,3,0,pas|ce|loin,
+"Est-ce que c'est la route de Paris, s'il vous plaît?",23,2,10,8,0,vous|est-ce que|s'il vous plaît|plaît|vous plaît,
+"Oui, tout droit.",23,1,3,2,0,droit|tout droit,
+Assez pour soixante-quinze kilomètres?,23,1,4,3,0,assez|soixante-quinze|kilomètres,
+"Oui, si la voiture est petite.",23,2,6,4,0,si|est|voiture|la voiture,
+Paris n'est pas très loin.,23,2,5,5,0,pas|très|loin|pas très loin|paris n'est pas loin,
+"Tout droit, Monsieur.",23,1,3,1,0,monsieur,
+N'allez pas trop vite.,23,2,4,3,0,pas|vite|pas trop,
+Ce n'est vraiment pas beau.,23,2,5,5,0,pas|ce|vraiment|pas vraiment|beau,
+"Non, mais c'est joli.",23,1,4,3,0,mais|c'est|joli,
+Joli.,23,1,1,0,1,,"non, mais c'est joli"
+Aller à l'école.,23,1,3,0,0,,
+Nous ne sortons pas aujourd'hui.,23,1,5,3,0,ne|pas|aujourd'hui,
+Vendons tout ce qu'on voit.,23,2,5,1,0,ce,
+Ce qu'elle apprend n'est pas bien.,23,2,6,3,0,pas|bien|ce,
+"D'accord, mais ce que vous dites non plus.",23,2,8,5,0,vous|non|mais|ce|plus,
+Robert n'a pas tout à fait compris.,23,1,7,1,0,pas,
+Encore le téléphone!,23,1,3,0,0,,
+Qu'est-ce qui veut répondre?,23,1,4,1,0,qui,
+"Nouveau? Non, c'est vieux.",23,1,4,1,0,c'est,
+Il y a beaucoup de monde.,23,1,6,1,0,il y a,
+Elle les estime beaux.,23,1,4,0,0,,
+"Au juste, la journée fut chaude.",23,1,6,1,0,au,
+Achetez-moi un nouveau manteau.,23,1,4,0,0,,
+Je vais en France.,24,1,4,2,1,je|je vais,je vais en france avec ma famille
+Je vais en France avec ma famille.,24,1,7,6,0,je|avec|je vais|ma famille|je vais en france,
+Est-ce que l'essence est chère en France?,24,1,7,2,0,est-ce que|est,
+"Oui, l'essence est chère en France.",24,1,6,1,0,est,
+C'est combien?,24,1,2,2,2,c'est|combien,"en dollars, c'est combien|c'est combien une bière"
+Six francs le litre.,24,1,4,1,0,six francs,
+Vous voulez combien de litres?,24,1,5,4,1,vous|vous voulez|voulez|combien,vous voulez combien de litres d'essence
+Combien de litres voulez-vous?,24,1,4,2,1,combien|voulez-vous,combien de litres d'essence voulez-vous
+Mettez quarante litres.,24,1,3,1,0,mettez,
+Pas très loin.,24,1,3,3,1,pas|très|loin,paris n'est pas très loin
+Soixante-cinq kilomètres.,24,1,2,1,0,kilomètres,
+Quelle est la route pour aller à Paris?,24,1,8,7,0,est|quelle|route|quelle route|quelle est la route,
+Pour aller à Paris.,24,1,4,1,1,à paris,quelle est la route pour aller à paris
+Il y a soixante-dix kilomètres.,24,3,5,4,0,il y a|soixante-dix kilomètres|soixante-dix|kilomètres,
+"Non, soixante-quinze.",24,1,2,1,0,soixante-quinze,
+Mettez de l'essence.,24,1,3,2,0,de l'essence|mettez,
+"Merci, c'est assez.",24,1,3,2,0,c'est|assez,
+Prenez la route de Paris.,24,1,5,3,0,prenez|route|la route de paris,
+Vous prenez.,24,1,2,2,1,prenez|vous,si vous prenez la bonne route
+C'est à droite.,24,2,3,3,1,c'est|droite|à droite,est-ce que c'est à droite
+Droite.,24,1,1,0,7,,c'est à droite|à droite|la bonne route est à droite|prenez la route à droite|prenez à droite
+À droite.,24,5,2,1,6,droite,c'est à droite|la bonne route est à droite|prenez la route à droite|prenez à droite|à gauche ou à droite
+Ce n'est pas tout droit.,24,1,5,4,0,pas|ce|droit|tout droit,
+La bonne route.,24,1,3,2,10,route|bonne,la bonne route est à droite|quelle est la bonne route|la bonne route est à gauche|est-ce que la bonne route est à gauche|c'est la bonne route
+Bonne.,24,1,1,0,16,,la bonne route|la bonne route est à droite|quelle est la bonne route|la bonne route est à gauche|est-ce que la bonne route est à gauche
+La bonne route est à droite.,24,1,6,6,0,est|route|droite|à droite|la bonne route,
+Quelle est la bonne route?,24,1,5,7,0,est|quelle|route|quelle route|quelle est la route,
+Ou tout droit?,24,2,3,3,1,ou|droit|tout droit,à gauche ou tout droit
+À gauche ou tout droit?,24,1,5,6,0,ou|droit|tout droit|ou tout droit|gauche,
+Prenez tout droit.,24,1,3,3,0,prenez|droit|tout droit,
+La bonne route est à gauche.,24,1,6,6,1,est|route|la bonne route|bonne|gauche,est-ce que la bonne route est à gauche
+Gauche.,24,1,1,0,10,,à gauche ou tout droit|la bonne route est à gauche|à gauche|est-ce que la bonne route est à gauche|pas à gauche
+À gauche.,24,4,2,1,9,gauche,à gauche ou tout droit|la bonne route est à gauche|est-ce que la bonne route est à gauche|pas à gauche|prenez la route à gauche
+Est-ce que la bonne route est à gauche?,24,1,8,8,0,est-ce que|est|route|la bonne route|bonne,
+"Non, c'est tout droit.",24,1,4,4,0,c'est|c'est tout droit|droit|tout droit,
+Pas à gauche.,24,1,3,3,0,pas|gauche|à gauche,
+Prenez la route à gauche.,24,1,5,5,0,prenez|route|gauche|à gauche|prenez à gauche,
+C'est la bonne route.,24,1,4,4,1,c'est|route|la bonne route|bonne,est-ce que c'est la bonne route
+Un bon vin.,24,1,3,2,0,bon|vin,
+Une bonne bière.,24,1,3,3,0,bière|une|bonne,
+Bon. Bonne.,24,1,2,1,0,bonne,
+Prenez la route à droite.,24,2,5,5,0,prenez|route|droite|à droite|prenez à droite,
+Prenez à gauche.,24,3,3,3,1,prenez|gauche|à gauche,prenez la route à gauche
+Et puis tout droit.,24,3,4,5,0,et|droit|tout droit|puis|et puis,
+Puis.,24,1,1,0,3,,et puis tout droit|et puis|puis à gauche
+Et puis.,24,4,2,2,1,et|puis,et puis tout droit
+C'est la route de Paris.,24,1,5,3,0,c'est|route|la route de paris,
+Mais prenez la bonne route.,24,1,5,6,0,prenez|mais|route|la bonne route|bonne,
+Puis à gauche.,24,1,3,3,0,gauche|à gauche|puis,
+Et ne parlez pas trop vite.,24,1,6,6,0,ne|pas|et|parlez|vite,
+"Maintenant, quelle est la route de Paris?",24,1,7,7,0,est|quelle|route|quelle route|quelle est la route,
+Il y a une route là-bas.,24,1,6,4,0,là-bas|une|il y a|route,
+Mais ce n'est pas la bonne.,24,1,6,5,0,pas|mais|ce|bonne|ce n'est pas la bonne,
+Ce n'est pas la bonne.,24,1,5,3,1,pas|ce|bonne,mais ce n'est pas la bonne
+La bonne route est ici.,24,1,5,5,0,est|ici|route|la bonne route|bonne,
+Prenez à droite.,24,2,3,3,1,prenez|droite|à droite,prenez la route à droite
+Quinze kilomètres plus loin.,24,1,4,4,0,plus|quinze|loin|kilomètres,
+Paris n'est pas loin.,24,1,4,2,1,pas|loin,paris n'est pas très loin
+Si vous prenez la bonne route...,24,1,6,8,0,prenez|vous|si|route|vous prenez,
+Mais dites-moi.,24,1,2,2,0,mais|dites-moi,
+À gauche ou à droite?,24,1,5,5,0,ou|droite|à droite|gauche|à gauche,
+"Vraiment, je ne sais pas.",24,1,5,6,0,ne|je|pas|je ne|je ne sais pas,
+Et maintenant?,24,1,2,2,0,et|maintenant,
+Kilomètres,25,1,1,0,16,,combien de kilomètres|cinquante kilomètres|ça suffit pour cinquante kilomètres|il y a combien de kilomètres|il y a soixante kilomètres
+Est-ce que c'est la bonne route?,25,1,6,6,0,est-ce que|c'est|route|la bonne route|bonne,
+Est-ce que c'est à droite?,25,1,5,5,0,est-ce que|c'est|c'est à droite|droite|à droite,
+Est-ce que c'est à gauche?,25,1,5,4,0,est-ce que|c'est|gauche|à gauche,
+Prenez la bonne route,25,1,4,4,2,prenez|route|la bonne route|bonne,mais prenez la bonne route|si vous prenez la bonne route
+Est-ce que c'est loin?,25,1,4,4,0,est-ce que|c'est|c'est loin|loin,
+Il y a quatre-vingts kilomètres,25,1,5,4,0,il y a|kilomètres|quatre-vingts|quatre-vingts kilomètres,
+Quatre-vingts,25,3,1,0,4,,"il y a quatre-vingts kilomètres|quatre-vingts kilomètres|oui, j'ai quatre-vingts francs|cent quatre-vingts"
+Quatre-vingts kilomètres,25,3,2,2,1,kilomètres|quatre-vingts,il y a quatre-vingts kilomètres
+C'est une bonne route,25,1,4,4,0,c'est|une|route|bonne,
+Est-ce que je peux?,25,1,4,3,1,est-ce que|je|je peux,est-ce que je peux acheter quelque chose
+Est-ce que je peux acheter quelque chose?,25,1,7,9,0,est-ce que|je|quelque chose|chose|quelque,
+À Paris,25,1,2,0,12,,je voudrais aller à paris|nous voudrions aller à paris|et nous allons à paris|je vais à paris|je vais à paris demain
+"Non, vous ne pouvez pas",25,1,5,5,0,ne|vous|pas|vous pouvez|vous ne pouvez pas,
+Pourquoi?,25,5,1,0,0,,
+Parce que,25,4,2,0,8,,pourquoi? parce que|parce que les magasins sont fermés|parce que je voudrais acheter quelque chose|parce que je vais à marseille|parce que je vais passer quelques jours
+Pourquoi? Parce que,25,1,3,1,0,parce que,
+Les magasins,25,1,2,0,8,,les magasins sont fermés|les grands magasins sont fermés|parce que les magasins sont fermés|est-ce que les magasins sont fermés|les grands magasins sont ouverts maintenant
+Un magasin,25,1,2,0,3,,un grand magasin|dans un grand magasin|dans un bon magasin
+Le magasin,25,1,2,0,1,,le grand magasin
+Un grand magasin,25,1,3,1,1,un magasin,dans un grand magasin
+Le grand magasin,25,1,3,1,0,le magasin,
+Les magasins sont fermés,25,2,4,1,5,les magasins,les grands magasins sont fermés|parce que les magasins sont fermés|est-ce que les magasins sont fermés|et les magasins sont fermés|quatre-vingt-cinq kilomètres et les magasins sont fermés
+Fermé,25,2,1,0,0,,
+Les grands magasins sont fermés,25,1,5,2,0,les magasins|les magasins sont fermés,
+Parce que les magasins sont fermés,25,2,6,3,0,parce que|les magasins|les magasins sont fermés,
+Est-ce que les magasins sont fermés?,25,1,6,3,0,est-ce que|les magasins|les magasins sont fermés,
+"Non, ils sont ouverts",25,1,4,1,0,ouverts,
+Ouverts,25,1,1,0,6,,"non, ils sont ouverts|les grands magasins sont ouverts maintenant|est-ce que les magasins sont ouverts|oui, ils sont ouverts maintenant|parce qu'ils sont ouverts ce soir"
+Ouvert,25,1,1,0,0,,
+Ils sont fermés maintenant,25,1,4,2,0,maintenant|ils sont fermés,
+Les grands magasins sont ouverts maintenant,25,1,6,3,0,maintenant|les magasins|ouverts,
+Est-ce que les magasins sont ouverts?,25,2,6,3,0,est-ce que|les magasins|ouverts,
+"Non, ils sont fermés",25,1,4,1,0,ils sont fermés,
+Parce qu'il est tard,25,2,4,2,0,est|tard,
+Il n'est pas tard,25,1,4,2,0,pas|tard,
+Et les magasins sont fermés,25,1,5,3,1,et|les magasins|les magasins sont fermés,quatre-vingt-cinq kilomètres et les magasins sont fermés
+Quatre-vingt-deux,25,1,1,0,0,,
+Quatre-vingt-cinq,25,2,1,0,1,,quatre-vingt-cinq kilomètres et les magasins sont fermés
+Quatre-vingt-cinq kilomètres et les magasins sont fermés,25,1,7,6,0,et|kilomètres|les magasins|les magasins sont fermés|et les magasins sont fermés,
+Il est sept heures,25,1,4,2,0,est|il est,
+Parce que je voudrais acheter quelque chose,25,2,7,10,0,je|quelque chose|chose|quelque|je voudrais,
+Je veux acheter quelque chose,25,1,5,8,0,je|je veux|veux|quelque chose|chose,
+Où voudriez-vous acheter quelque chose?,25,1,5,6,0,quelque chose|chose|quelque|où|acheter,
+Dans un grand magasin,25,1,4,3,0,dans|un magasin|un grand magasin,
+"Oui, ils sont ouverts maintenant",25,1,5,2,0,maintenant|ouverts,
+Parce qu'ils sont ouverts ce soir,25,1,6,4,0,ce|ce soir|soir|ouverts,
+"Demain, ils sont fermés",25,1,4,1,0,ils sont fermés,
+Quelque chose pour ma femme,25,1,5,4,0,quelque chose|chose|quelque|ma femme,
+"Oui, j'ai quatre-vingts francs",25,1,4,2,0,j'ai|quatre-vingts,
+"Pour ma femme, ça suffit",25,1,5,2,0,ça suffit|ça,
+Mais pas pour moi,25,1,4,4,0,pas|moi|mais|pour moi,
+Et je ne peux pas.,26,1,5,7,0,ne|je|pas|je ne|et,
+"Oui, ils sont fermés.",26,1,4,1,0,ils sont fermés,
+Il est tard.,26,1,3,3,0,est|tard|il est,
+Mais ils sont ouverts.,26,1,4,2,0,mais|ouverts,
+"Demain, vous pouvez acheter quelque chose.",26,1,6,7,0,vous|quelque chose|chose|quelque|acheter,
+Dans un bon magasin.,26,1,4,3,0,bon|dans|un magasin,
+Prenez beaucoup d'argent.,26,1,3,1,0,prenez,
+Ne prenez pas votre voiture.,26,1,5,4,0,ne|prenez|pas|voiture,
+Prenez un taxi.,26,1,3,1,0,prenez,
+Je vais prendre ma voiture.,26,1,5,4,1,je|je vais|voiture|ma voiture,je crois que je vais prendre ma voiture
+Parce que je vais à Marseille.,26,1,6,3,0,je|je vais|parce que,
+Vous allez à Marseille?,26,1,4,2,0,vous|vous allez,
+Qu'est-ce que vous allez faire là-bas?,26,2,6,6,0,vous|vous allez|là-bas|qu'est-ce que|faire,
+Je vais voir des amis.,26,2,5,6,0,je|voir|je vais|amis|des amis,
+Amis.,26,1,1,0,9,,je vais voir des amis|des amis|quelques amis|j'ai quelques amis là-bas|mes amis
+Des amis.,26,1,2,1,2,amis,je vais voir des amis|et j'ai des amis là-bas
+Je vais voir.,26,1,3,3,6,je|voir|je vais,je vais voir des amis|je vais voir mes amis|je vais voir jacques|je vais le voir|je vais les voir
+"Non, mais pas loin.",26,1,4,3,0,pas|mais|loin,
+Quelques kilomètres.,26,1,2,1,0,kilomètres,
+Quelques amis.,26,1,2,1,2,amis,j'ai quelques amis là-bas|et voir quelques amis
+J'ai quelques amis là-bas.,26,2,4,4,0,là-bas|j'ai|amis|quelques amis,
+Et je vais travailler.,26,1,4,5,0,je|et|je vais|travailler|je vais travailler,
+Travailler.,26,1,1,0,8,,"et je vais travailler|est-ce que vous allez travailler|je vais travailler un peu|mais je vais aussi travailler|non, je vais travailler"
+Est-ce que vous allez travailler?,26,3,5,4,0,vous|est-ce que|vous allez|travailler,
+Mes amis.,26,2,2,1,2,amis,je vais voir mes amis|avec mes amis
+Je vais voir mes amis.,26,2,5,6,0,je|voir|je vais|amis|je vais voir,
+Je vais passer trois jours là-bas.,26,1,6,5,0,je|là-bas|trois|je vais|passer,
+Passer.,26,1,1,0,13,,je vais passer trois jours là-bas|je vais passer deux jours|vous allez passer combien de jours|je crois que je vais passer|je crois que je vais passer quelques jours
+Je vais passer deux jours.,26,1,5,4,0,je|deux|je vais|passer,
+Je vais travailler un peu.,26,1,5,6,0,je|un peu|peu|je vais|travailler,
+Vous allez passer combien de jours?,26,1,6,5,1,vous|vous allez|combien|passer|combien de jours,vous allez passer combien de jours à nice
+Combien de jours?,26,1,3,1,3,combien,vous allez passer combien de jours|vous allez passer combien de jours à nice|combien de jours allez-vous passer là-bas
+Quelques jours.,26,4,2,0,10,,pour quelques jours|je crois que je vais passer quelques jours|parce que je vais passer quelques jours|je vais passer quelques jours à nice|je vais passer quelques jours
+Trois jours peut-être.,26,1,3,3,0,trois|peut-être|trois peut-être,
+Peut-être.,26,3,1,0,3,,"trois jours peut-être|trois peut-être|je ne sais pas, peut-être"
+Je vais voir Jacques.,26,1,4,5,0,je|voir|jacques|je vais|je vais voir,
+Pour quelques jours.,26,1,3,1,0,quelques jours,
+"Oui, je crois.",26,3,3,2,0,je|je crois,
+Je crois.,26,1,2,1,7,je,"oui, je crois|je ne crois pas|je crois que je vais passer|je crois que je vais passer quelques jours|je crois que je vais prendre ma voiture"
+Je ne crois pas.,26,3,4,5,1,ne|je|pas|je ne|je crois,"non, je ne crois pas"
+Est-ce que vous allez voir Georges?,26,1,6,4,0,vous|est-ce que|vous allez|voir,
+Est-ce que Georges travaille à Marseille?,26,1,6,1,0,est-ce que,
+Je crois. Je ne sais pas.,26,1,6,6,0,ne|je|pas|je ne|je ne sais pas,
+S'il travaille là-bas.,26,1,3,2,0,s'il|là-bas,
+Est-ce que vous allez le voir?,26,1,6,5,0,vous|est-ce que|vous allez|voir|le voir,
+Le voir.,26,1,2,1,2,voir,est-ce que vous allez le voir|je vais le voir
+Je vais le voir.,26,1,4,5,0,je|voir|je vais|je vais voir|le voir,
+Mais je vais aussi travailler.,26,1,5,6,0,je|mais|aussi|je vais|travailler,
+Et voir quelques amis.,26,1,4,4,0,voir|et|amis|quelques amis,
+Et passez deux jours.,26,1,4,2,1,et|deux,et passez deux jours à marseille
+Et passez deux jours à Marseille.,26,1,6,3,0,et|deux|et passez deux jours,
+Trois peut-être.,26,1,2,2,1,trois|peut-être,trois jours peut-être
+Je crois que je vais passer...,26,1,6,4,1,je|je vais|passer|je crois,je crois que je vais passer quelques jours
+Je crois que je vais passer quelques jours.,26,1,8,7,0,je|je vais|passer|quelques jours|je crois,
+"À Marseille, avec Georges.",26,1,4,1,0,avec,
+"Mon ami, Georges.",26,1,3,1,0,mon,
+Donnez-moi?,26,1,1,0,23,,"donnez-moi des francs|donnez-moi des dollars|maintenant, donnez-moi dix-sept francs|donnez-moi quinze dollars|non, donnez-moi dix-sept ou dix-huit dollars"
+Donnez-moi quelques francs.,26,1,3,1,0,donnez-moi,
+Parce que je vais passer quelques jours.,26,1,7,6,0,je|je vais|parce que|passer|quelques jours,
+À Nice.,26,1,2,0,10,,je vais passer quelques jours à nice|je vais à nice|vous allez passer combien de jours à nice|quand est-ce que vous êtes allés à nice|vous êtes allé à nice
+Je vais passer quelques jours à Nice.,26,1,7,7,0,je|je vais|passer|quelques jours|à nice,
+Je crois que je vais prendre ma voiture.,26,1,8,6,0,je|je vais|voiture|ma voiture|je vais prendre ma voiture,
+Et pas un taxi.,26,1,4,2,0,pas|et,
+Parce que c'est très loin.,26,1,5,5,0,très|c'est|c'est loin|loin|parce que,
+Et je veux aller vite.,26,1,5,5,0,je|et|je veux|veux|vite,
+Est-ce que vous voulez aller là-bas?,26,1,6,6,0,vous|est-ce que|là-bas|vous voulez|voulez,
+"Non, je vais travailler.",26,1,4,4,0,je|je vais|travailler|je vais travailler,
+Je vais travailler aujourd'hui.,26,1,4,5,0,je|je vais|aujourd'hui|travailler|je vais travailler,
+"Je ne sais pas, peut-être.",26,1,5,5,0,ne|je|je ne|je sais|peut-être,
+"Non, je ne crois pas.",26,1,5,6,0,ne|je|pas|je ne|je crois,
+Je voudrais voir Nice.,26,1,4,4,0,je|voir|je voudrais|voudrais,
+Et j'ai des amis là-bas.,26,1,5,5,0,et|là-bas|j'ai|amis|des amis,
+Mais je vais travailler demain.,26,1,5,6,0,je|mais|je vais|demain|travailler,
+"Alors, au revoir.",26,1,3,2,0,au revoir|au,
+Ils sont fermés.,27,1,3,0,4,,"ils sont fermés maintenant|non, ils sont fermés|demain, ils sont fermés|oui, ils sont fermés"
+Vous croyez?,27,1,2,1,1,vous,vous ne croyez pas
+Vous ne croyez pas?,27,1,4,4,0,ne|vous|pas|vous croyez,
+Je vais à Nice.,27,1,4,3,1,je|je vais|à nice,je vais passer quelques jours à nice
+Je vais les voir.,27,1,4,4,0,je|voir|je vais|je vais voir,
+Vous allez passer combien de jours à Nice?,27,1,8,7,0,vous|vous allez|combien|passer|vous allez passer combien de jours,
+Combien de jours allez-vous passer là-bas?,27,1,6,4,0,là-bas|combien|passer|combien de jours,
+Je vais passer quelques jours.,27,1,5,4,4,je|je vais|passer|quelques jours,je crois que je vais passer quelques jours|parce que je vais passer quelques jours|je vais passer quelques jours à nice|je vais passer quelques jours à paris
+Quatre-vingt-dix.,27,1,1,0,5,,quatre-vingt-dix francs|cent quatre-vingt-dix|et j'ai quatre-vingt-dix francs|donnez-moi quatre-vingt-dix francs|quatre-vingt-dix jours
+Quatre-vingt-quinze.,27,1,1,0,1,,donnez-moi quatre-vingt-quinze francs
+Quatre-vingt-douze.,27,1,1,0,0,,
+Quatre-vingt-dix-neuf.,27,1,1,0,0,,
+Quatre-vingt-neuf.,27,1,1,0,0,,
+Quatre-vingt-dix francs.,27,2,2,1,2,quatre-vingt-dix,et j'ai quatre-vingt-dix francs|donnez-moi quatre-vingt-dix francs
+Voilà cent francs.,27,2,3,3,0,voilà|cent|cent francs,
+Cent.,27,1,1,0,12,,voilà cent francs|cent dollars|cent cinquante dollars|cent quatre-vingts|cent quatre-vingt-dix
+Cent dollars.,27,1,2,1,2,cent,cent cinquante dollars|j'ai cent dollars
+Cent cinquante dollars.,27,1,3,3,0,cinquante|cent|cent dollars,
+Cent quatre-vingts.,27,1,2,2,0,quatre-vingts|cent,
+Cent quatre-vingt-dix.,27,1,2,2,0,quatre-vingt-dix|cent,
+Cent soixante-dix.,27,1,2,2,0,soixante-dix|cent,
+Cent soixante-cinq.,27,1,2,1,0,cent,
+Cent quarante-sept.,27,1,2,1,0,cent,
+Rien.,27,5,1,0,9,,"ça ne fait rien|je ne veux rien|je n'ai rien|et je ne veux rien|moi, je ne veux rien"
+Cent francs.,27,1,2,1,3,cent,voilà cent francs|je veux cent francs|j'ai cent francs
+Qu'est-ce que vous voulez?,27,1,4,4,4,vous|vous voulez|voulez|qu'est-ce que,"qu'est-ce que vous voulez faire|qu'est-ce que vous voulez faire maintenant|dites-moi, marie, qu'est-ce que vous voulez faire maintenant|qu'est-ce que vous voulez faire ce soir"
+Je ne veux rien.,27,3,4,6,2,ne|je|je ne|je veux|veux,"et je ne veux rien|moi, je ne veux rien"
+Je n'ai rien.,27,3,3,2,0,je|rien,
+Et je ne veux rien.,27,1,5,8,0,ne|je|je ne|et|je veux,
+Je veux cent francs.,27,1,4,5,0,je|je veux|veux|cent|cent francs,
+Je veux partir.,27,3,3,3,2,je|je veux|veux,je ne veux pas partir|je veux partir avec vous
+Je ne veux pas partir.,27,2,5,8,0,ne|je|pas|je ne|je veux,
+Je vais partir demain.,27,1,4,4,0,je|je vais|demain|je vais partir,
+Nous allons partir.,27,1,3,0,3,,nous allons partir ensemble|et nous allons partir|nous allons partir demain matin
+Nous allons partir ensemble.,27,1,4,2,0,nous allons partir|ensemble,
+Ensemble.,27,4,1,0,6,,"vous et moi, ensemble|nous allons partir ensemble|nous sommes ici ensemble|oui, nous allons manger ensemble|nous sommes arrivés ensemble"
+Je veux partir avec vous.,27,1,5,7,0,vous|je|je veux|veux|avec,
+Parce que je ne veux pas.,27,1,6,8,0,ne|je|pas|je ne|je veux,
+Je veux passer quelques jours.,27,1,5,5,1,je|je veux|veux|passer|quelques jours,je veux passer quelques jours ici
+Je veux passer quelques jours ici.,27,1,6,7,0,je|ici|je veux|veux|passer,
+J'ai cent dollars.,27,1,3,3,0,j'ai|cent|cent dollars,
+Et j'ai quatre-vingt-dix francs.,27,1,4,4,0,et|j'ai|quatre-vingt-dix|quatre-vingt-dix francs,
+J'ai beaucoup d'argent.,27,1,3,1,0,j'ai,
+Je vais partir.,27,2,3,2,3,je|je vais,"je vais partir demain|je vais partir seul|puis, je vais partir"
+Mais je suis seule.,27,1,4,5,0,je|je suis|suis|mais|seule,
+Seule.,27,2,1,0,2,,mais je suis seule|est-ce que vous êtes seule
+Seul.,27,2,1,0,5,,si vous n'êtes pas seul|je vais partir seul|est-ce que vous allez partir seul|allez-vous partir seul|je suis seul
+Est-ce que vous êtes seule?,27,1,5,4,0,vous|est-ce que|vous êtes|seule,
+"Est-ce que vous êtes seule, Mademoiselle?",27,1,6,4,0,vous|est-ce que|vous êtes|mademoiselle,
+"Non, je suis avec mon mari.",27,1,6,8,0,mon|je|je suis|suis|avec,
+Si vous n'êtes pas seul...,27,1,5,4,0,vous|pas|si|seul,
+Je vais partir seul.,27,1,4,4,0,je|je vais|je vais partir|seul,
+Est-ce que vous allez partir seul?,27,1,6,4,0,vous|est-ce que|vous allez|seul,
+Allez-vous partir seul?,27,1,3,1,0,seul,
+Nous pouvons partir.,27,1,3,1,0,nous pouvons,
+"Combien d'argent avez-vous, Mademoiselle?",28,1,4,2,0,mademoiselle|combien,
+J'ai cent francs.,28,1,3,3,0,j'ai|cent|cent francs,
+Donnez-moi quatre-vingt-dix francs.,28,1,3,3,0,donnez-moi|quatre-vingt-dix|quatre-vingt-dix francs,
+Où voulez-vous aller?,28,1,3,2,0,où|voulez-vous,
+Je vais travailler.,28,1,3,3,6,je|je vais|travailler,"et je vais travailler|je vais travailler un peu|mais je vais aussi travailler|non, je vais travailler|je vais travailler aujourd'hui"
+Avec mes amis.,28,1,3,3,0,avec|amis|mes amis,
+Je vais voir Paris.,28,1,4,4,0,je|voir|je vais|je vais voir,
+Je vais passer quelques jours à Paris.,28,1,7,7,0,je|je vais|je vais à paris|à paris|passer,
+Je suis seul.,28,1,3,4,0,je|je suis|suis|seul,
+Donnez-moi quatre-vingt-quinze francs.,28,1,3,2,0,donnez-moi|quatre-vingt-quinze,
+"Maintenant, vous pouvez partir.",28,1,4,2,0,vous|vous pouvez,
+Qu'est-ce que ça veut dire?,28,3,5,2,0,qu'est-ce que|ça,
+Le mot zut.,28,1,3,3,0,mot|zut|le mot,
+Un mot.,28,1,2,1,2,mot,c'est un mot français|est-ce que c'est un mot français
+C'est un mot français.,28,1,4,4,1,français|c'est|un mot|mot,est-ce que c'est un mot français
+Est-ce que c'est un mot français?,28,1,6,6,0,est-ce que|français|c'est|un mot|c'est un mot français,
+Je crois que c'est français.,28,1,5,4,0,je|français|c'est|je crois,
+"Oui, nous sommes américains.",28,1,4,1,0,nous sommes américains,
+Mot,28,2,1,0,11,,"le mot zut|un mot|c'est un mot français|est-ce que c'est un mot français|le mot ""rester."""
+Zut,28,1,1,0,2,,le mot zut|voilà ce que zut veut dire
+Nous sommes ici.,28,3,3,1,6,ici,nous sommes ici depuis quelques jours|nous sommes ici depuis deux jours|nous sommes ici ensemble|nous sommes ici depuis trois jours|nous sommes ici depuis une semaine
+Depuis quelques jours.,28,2,3,2,1,quelques jours|depuis,nous sommes ici depuis quelques jours
+Nous sommes ici depuis quelques jours.,28,1,6,5,0,ici|quelques jours|nous sommes ici|depuis quelques jours|depuis,
+Depuis combien de temps?,28,5,4,4,2,combien|combien de temps|depuis|temps,depuis combien de temps êtes-vous ici|vous êtes ici depuis combien de temps
+Combien de temps?,28,4,3,2,3,combien|temps,depuis combien de temps|depuis combien de temps êtes-vous ici|vous êtes ici depuis combien de temps
+"Le mot ""rester.""",28,1,3,2,0,mot|le mot,
+Oh! Je comprends maintenant.,28,1,4,5,0,je|comprends|je comprends|maintenant|je comprends maintenant,
+Vous allez rester?,28,2,3,2,0,vous|vous allez,
+Parce que nous n'avons pas.,28,1,5,2,0,pas|parce que,
+Beaucoup de temps.,28,2,3,1,1,temps,nous n'avons pas beaucoup de temps
+Depuis quand?,28,1,2,2,0,quand|depuis,
+Depuis huit jours.,28,1,3,2,0,huit|depuis,
+Nous voulons rester.,28,1,3,1,0,nous voulons,
+Nous sommes ici depuis deux jours.,28,1,6,4,0,ici|deux|nous sommes ici|depuis,
+Nous n'avons pas beaucoup de temps.,28,1,6,4,0,pas|pas beaucoup|beaucoup de temps|temps,
+Nous ne pouvons pas rester.,28,1,5,3,0,ne|pas|nous pouvons,
+Je ne sais pas ce que ça veut dire.,28,1,9,8,0,ne|je|pas|je ne|ce,
+Nous voudrions rester.,28,1,3,1,1,nous voudrions,nous voudrions rester en france
+Nous voudrions rester en France.,28,1,5,2,0,nous voudrions|nous voudrions rester,
+Mais nous n'avons pas de temps.,28,1,6,3,0,pas|mais|temps,
+Depuis combien de temps êtes-vous ici?,28,1,6,6,0,ici|combien|depuis combien de temps|combien de temps|depuis,
+Est-ce que vous êtes seuls?,28,1,5,3,0,vous|est-ce que|vous êtes,
+Nous sommes ici ensemble.,28,1,4,3,0,ici|ensemble|nous sommes ici,
+Voilà ce que zut veut dire.,28,1,6,3,0,ce|voilà|zut,
+Le mot mal.,29,1,3,2,0,mot|le mot,
+Pas mal.,29,2,2,1,0,pas,
+Qu'est-ce que vous ne comprenez pas?,29,1,6,7,0,comprenez|ne|vous comprenez|vous|pas,
+Ça.,29,1,1,0,15,,"ça ne fait rien|non, mais ça suffit|ça suffit|ça ne suffit pas|trente-cinq, ça suffit"
+Depuis trois jours.,29,1,3,2,1,trois|depuis,nous sommes ici depuis trois jours
+Depuis.,29,1,1,0,16,,depuis quelques jours|nous sommes ici depuis quelques jours|depuis combien de temps|depuis quand|depuis huit jours
+Nous sommes ici depuis trois jours.,29,1,6,5,0,ici|trois|nous sommes ici|depuis trois jours|depuis,
+Vous êtes ici depuis combien de temps?,29,1,7,8,0,vous|vous êtes|ici|combien|depuis combien de temps,
+Temps.,29,1,1,0,7,,depuis combien de temps|combien de temps|beaucoup de temps|nous n'avons pas beaucoup de temps|mais nous n'avons pas de temps
+Je suis ici depuis deux jours.,29,1,6,6,0,je|je suis|suis|ici|deux,
+Nous allons rester.,29,4,3,0,0,,
+Quelques semaines.,29,2,2,0,1,,depuis quelques semaines
+Le mot semaine.,29,1,3,2,0,mot|le mot,
+Une semaine.,29,3,2,1,2,une,depuis une semaine|nous sommes ici depuis une semaine
+Depuis une semaine.,29,1,3,3,1,une|depuis|une semaine,nous sommes ici depuis une semaine
+Nous sommes ici depuis une semaine.,29,1,6,6,0,ici|une|nous sommes ici|depuis|une semaine,
+Je vais rester.,29,1,3,2,0,je|je vais,
+Quatre-vingt-dix jours.,29,1,2,1,0,quatre-vingt-dix,
+"Puis, je vais partir.",29,1,4,3,0,je|je vais|je vais partir,
+Depuis quelques semaines.,29,3,3,2,0,depuis|quelques semaines,
+Depuis hier.,29,2,2,2,1,depuis|hier,nous sommes ici depuis hier
+Hier.,29,5,1,0,16,,depuis hier|nous sommes ici depuis hier|qu'est-ce que vous avez acheté hier|j'ai acheté un chapeau hier|j'ai mangé hier
+Nous sommes ici depuis hier.,29,1,5,5,0,ici|nous sommes ici|depuis|depuis hier|hier,
+Qu'est-ce que vous avez acheté hier?,29,1,6,6,0,vous|qu'est-ce que|vous avez|qu'est-ce que vous avez|hier,
+J'ai acheté quelque chose.,29,1,4,5,1,quelque chose|chose|quelque|j'ai|j'ai acheté,j'ai acheté quelque chose à boire
+Qu'est-ce que vous avez acheté?,29,5,5,4,1,vous|qu'est-ce que|vous avez|qu'est-ce que vous avez,qu'est-ce que vous avez acheté hier
+Quelque chose à boire.,29,1,4,5,2,quelque chose|chose|quelque|boire|boire quelque chose,"moi, je vais boire quelque chose à neuf heures|j'ai acheté quelque chose à boire"
+J'ai acheté quelque chose à boire.,29,1,6,9,0,quelque chose|chose|quelque|boire|boire quelque chose,
+Du bon vin.,29,2,3,4,0,bon|du vin|vin|du,
+J'ai acheté du vin.,29,1,4,5,0,du vin|vin|du|j'ai|j'ai acheté,
+Et du lait.,29,1,3,4,1,et|du|lait|du lait,du lait et du vin
+Lait.,29,1,1,0,7,,et du lait|le lait|du lait|j'ai acheté du lait|du lait et du vin
+Le lait.,29,1,2,1,1,lait,est-ce que vous aimez le lait
+Du lait.,29,1,2,2,4,du|lait,et du lait|j'ai acheté du lait|du lait et du vin|est-ce que vous allez boire du lait
+J'ai acheté du lait.,29,2,4,5,0,du|j'ai|lait|du lait|j'ai acheté,
+J'ai acheté aussi un chapeau.,29,2,5,4,0,aussi|j'ai|un chapeau|j'ai acheté,
+Un chapeau.,29,1,2,0,5,,"j'ai acheté aussi un chapeau|j'ai acheté un chapeau hier|un beau chapeau|est-ce que vous avez acheté un chapeau|oui, un beau chapeau"
+Le chapeau.,29,1,2,0,0,,
+J'ai acheté un chapeau hier.,29,1,5,4,0,j'ai|hier|un chapeau|j'ai acheté,
+Un beau chapeau.,29,4,3,2,1,un chapeau|beau,"oui, un beau chapeau"
+Beau.,29,1,1,0,3,,"ce n'est vraiment pas beau|un beau chapeau|oui, un beau chapeau"
+Et pas cher.,29,1,3,3,0,pas|et|cher,
+Est-ce que vous avez mangé quelque chose?,29,1,7,6,0,vous|est-ce que|quelque chose|chose|quelque,
+"Oui, j'ai mangé quelque chose.",29,1,5,5,0,quelque chose|chose|quelque|j'ai|j'ai mangé,
+J'ai mangé hier.,29,2,3,3,0,j'ai|hier|j'ai mangé,
+Je mange.,29,1,2,1,0,je,
+J'ai mangé.,29,2,2,1,3,j'ai,"oui, j'ai mangé quelque chose|j'ai mangé hier|je mange. j'ai mangé"
+Je mange. J'ai mangé.,29,1,4,3,0,je|j'ai|j'ai mangé,
+Vous mangez. Vous avez mangé.,29,1,5,2,0,vous|vous avez,
+Vous allez manger aujourd'hui.,29,1,4,5,0,vous|vous allez|manger|vous allez manger|aujourd'hui,
+N'est-ce pas?,29,1,2,1,0,pas,
+Vous avez mangé hier.,29,1,4,3,0,vous|vous avez|hier,
+Vous mangez maintenant?,29,1,3,2,0,vous|maintenant,
+Du lait et du vin.,29,1,5,7,0,et|du vin|vin|du|et du lait,
+Qu'est-ce que vous allez boire?,29,1,5,4,0,vous|vous allez|boire|qu'est-ce que,
+Est-ce que vous allez boire du lait?,29,1,7,7,0,vous|est-ce que|vous allez|boire|du,
+Du lait? Non.,29,1,3,2,0,non|du,
+Je vais boire du vin.,29,1,5,6,1,je|boire|du vin|vin|du,je vais boire du vin plus tard
+Est-ce que vous aimez le vin?,29,1,6,4,1,vous|est-ce que|vin|vous aimez,est-ce que vous aimez le vin français
+Vous aimez?,29,2,2,1,6,vous,est-ce que vous aimez le vin|est-ce que vous aimez le lait|est-ce que vous aimez manger|est-ce que vous aimez le vin français|qu'est-ce que vous aimez boire
+Aimez-vous le vin?,29,1,3,1,0,vin,
+Est-ce que vous aimez le lait?,29,1,6,5,0,vous|est-ce que|lait|le lait|vous aimez,
+J'aime.,29,1,1,0,6,,"j'aime manger|j'aime ça|moi, j'aime ça|j'aime la france|oui, j'aime paris"
+J'aime manger.,29,1,2,2,0,manger|j'aime,
+Est-ce que vous aimez manger?,29,1,5,4,0,vous|est-ce que|manger|vous aimez,
+Est-ce que vous voudriez déjeuner maintenant?,29,1,6,6,0,vous|est-ce que|vous voudriez|voudriez|maintenant,
+Est-ce que vous aimez le vin français?,29,1,7,7,0,vous|est-ce que|le français|français|vin,
+Qu'est-ce que vous avez mangé?,29,1,5,4,0,vous|qu'est-ce que|vous avez|qu'est-ce que vous avez,
+Je n'ai pas mangé hier.,29,1,5,3,0,je|pas|hier,
+Je n'aime pas manger.,29,1,4,3,0,je|pas|manger,
+Mais vous allez manger quelque chose.,29,1,6,8,0,vous|vous allez|mais|manger|quelque chose,
+"Oui, nous allons manger ensemble.",29,1,5,2,0,manger|ensemble,
+Qu'est-ce que vous aimez boire?,29,1,5,4,0,vous|boire|qu'est-ce que|vous aimez,
+Qu'est-ce que vous voudrez manger?,29,1,5,3,0,vous|manger|qu'est-ce que,
+Est-ce que vous avez acheté un chapeau?,29,1,7,4,0,vous|est-ce que|vous avez|un chapeau,
+"Oui, un beau chapeau.",29,1,4,3,0,un chapeau|un beau chapeau|beau,
+Beaucoup de choses.,29,2,3,0,3,,et j'ai acheté beaucoup de choses|nous avons acheté beaucoup de choses|et nous avons acheté beaucoup de choses
+Et j'ai acheté beaucoup de choses.,29,1,6,4,0,et|j'ai|beaucoup de choses|j'ai acheté,
+J'aime ça.,29,1,2,2,1,ça|j'aime,"moi, j'aime ça"
+"Moi, j'aime ça.",29,1,3,3,0,ça|j'aime|j'aime ça,
+Le mot.,30,1,2,1,4,mot,"le mot zut|le mot ""rester.""|le mot mal|le mot semaine"
+Ce mot.,30,2,2,2,2,ce|mot,qu'est-ce que ce mot veut dire|comment dit-on ce mot en français
+Qu'est-ce que ce mot veut dire?,30,1,6,4,0,ce|qu'est-ce que|mot|ce mot,
+Comment dit-on?,30,1,2,1,1,comment,comment dit-on ce mot en français
+En anglais.,30,1,2,1,0,anglais,
+Comment dit-on ce mot en français?,30,1,6,6,0,français|comment|ce|mot|ce mot,
+Nous sommes américains.,30,1,3,0,1,,"oui, nous sommes américains"
+J'aime la France.,30,1,3,1,0,j'aime,
+Est-ce que vous aimez Paris?,30,1,5,3,0,vous|est-ce que|vous aimez,
+"Oui, j'aime Paris.",30,1,3,1,0,j'aime,
+J'aime bien Paris.,30,1,3,2,0,bien|j'aime,
+J'ai acheté.,30,1,2,1,7,j'ai,j'ai acheté quelque chose|j'ai acheté quelque chose à boire|j'ai acheté du vin|j'ai acheté du lait|j'ai acheté aussi un chapeau
+"Moi, je ne veux rien.",30,1,5,7,0,ne|je|je ne|je veux|veux,
+J'achète.,30,1,1,0,0,,
+Je n'achète rien.,30,1,3,2,0,je|rien,
+Nous n'avons rien acheté.,30,1,4,1,0,rien,
+Et nous n'allons rien acheter.,30,1,5,3,0,et|acheter|rien,
+Nous ne voulons rien acheter.,30,1,5,4,0,ne|acheter|nous voulons|rien,
+Est-ce que vous avez acheté quelque chose?,30,1,7,6,0,vous|est-ce que|quelque chose|chose|quelque,
+Avez-vous acheté quelque chose?,30,1,4,3,0,quelque chose|chose|quelque,
+Nous avons acheté beaucoup de choses.,30,1,6,1,1,beaucoup de choses,et nous avons acheté beaucoup de choses
+Nous avons mangé.,30,1,3,0,2,,et nous avons mangé dans un bon restaurant|nous avons mangé au restaurant chez pierre
+Et nous avons acheté beaucoup de choses.,30,1,7,3,0,et|beaucoup de choses|nous avons acheté beaucoup de choses,
+Est-ce que vous avez parlé français?,30,1,6,4,0,vous|est-ce que|français|vous avez,
+Nous avons parlé français.,30,2,4,1,0,français,
+Vous êtes arrivés?,30,3,3,2,4,vous|vous êtes,"est-ce que vous êtes arrivés|quand est-ce que vous êtes arrivés|quand est-ce que vous êtes arrivés à paris|et vous, quand est-ce que vous êtes arrivés à paris"
+Arrivé.,30,1,1,0,7,,êtes arrivé|je suis arrivé hier matin|je suis arrivé à neuf heures|je suis arrivé hier soir|et quand est-ce que vous êtes arrivé
+Êtes arrivé.,30,1,2,1,3,arrivé,et quand est-ce que vous êtes arrivé|vous êtes arrivé quand|quand est-ce que vous êtes arrivé en france
+Est-ce que vous êtes arrivés?,30,1,5,4,3,vous|est-ce que|vous êtes|vous êtes arrivés,"quand est-ce que vous êtes arrivés|quand est-ce que vous êtes arrivés à paris|et vous, quand est-ce que vous êtes arrivés à paris"
+Quand est-ce que vous êtes arrivés?,30,2,6,6,2,vous|est-ce que|vous êtes|quand|vous êtes arrivés,"quand est-ce que vous êtes arrivés à paris|et vous, quand est-ce que vous êtes arrivés à paris"
+Hier matin.,30,2,2,2,3,hier|matin,nous sommes arrivés hier matin|je suis arrivé hier matin|nous sommes allés à paris hier matin
+Matin.,30,1,1,0,9,,hier matin|le matin|ce matin|nous sommes arrivés hier matin|je suis arrivé hier matin
+Le matin.,30,1,2,1,0,matin,
+Ce matin.,30,2,2,2,2,ce|matin,nous sommes allés à nice ce matin|est-ce que vous êtes allé à nice ce matin
+Quand est-ce que vous êtes arrivés à Paris?,30,1,8,8,1,vous|est-ce que|vous êtes|quand|à paris,"et vous, quand est-ce que vous êtes arrivés à paris"
+Nous sommes arrivés hier.,30,2,4,1,1,hier,nous sommes arrivés hier matin
+Nous sommes arrivés hier matin.,30,1,5,4,0,hier|hier matin|matin|nous sommes arrivés hier,
+Je suis arrivée.,30,1,3,3,0,je|je suis|suis,
+Avec ma famille.,30,1,3,2,1,avec|ma famille,je vais en france avec ma famille
+Avec mes trois enfants.,30,1,4,2,0,avec|trois,
+Avec mes deux garçons.,30,1,4,3,0,deux|avec|deux garçons,
+Ma fille.,30,1,2,0,0,,
+Et mon mari.,30,1,3,4,2,mon|et|mari|mon mari,et voilà mon mari|mon mari et moi
+Nous sommes arrivés ensemble.,30,1,4,1,0,ensemble,
+Nous sommes arrivés à huit heures.,30,1,6,3,0,huit|huit heures|à huit heures,
+Je suis arrivé hier matin.,30,1,5,7,0,je|je suis|suis|hier|arrivé,
+Je suis arrivé à neuf heures.,30,1,6,7,0,je|je suis|suis|neuf heures|neuf,
+"Et vous, quand est-ce que vous êtes arrivés à Paris?",30,1,10,11,0,vous|est-ce que|vous êtes|et vous|et,
+Hier soir.,30,1,2,2,1,soir|hier,je suis arrivé hier soir
+Je suis arrivé hier soir.,30,1,5,7,0,je|je suis|suis|soir|hier,
+Est-ce que vous êtes allés?,30,1,5,4,2,vous|est-ce que|vous êtes|vous êtes allés,quand est-ce que vous êtes allés|quand est-ce que vous êtes allés à nice
+Vous êtes allés?,30,1,3,2,3,vous|vous êtes,est-ce que vous êtes allés|quand est-ce que vous êtes allés|quand est-ce que vous êtes allés à nice
+Quand est-ce que vous êtes allés?,30,1,6,6,1,vous|est-ce que|vous êtes|quand|est-ce que vous êtes allés,quand est-ce que vous êtes allés à nice
+Quand est-ce que vous êtes allés à Nice?,30,1,8,8,0,vous|est-ce que|vous êtes|quand|à nice,
+Vous êtes allé à Nice?,30,1,5,3,2,vous|vous êtes|à nice,quand est-ce que vous êtes allé à nice|est-ce que vous êtes allé à nice ce matin
+Quand est-ce que vous êtes allé à Nice?,30,1,8,6,0,vous|est-ce que|vous êtes|quand|à nice,
+Nous sommes allés à Nice.,30,1,5,1,1,à nice,nous sommes allés à nice ce matin
+Nous sommes allés à Nice ce matin.,30,2,7,5,0,ce|à nice|matin|ce matin|nous sommes allés à nice,
+Nous sommes allés à Paris hier matin.,30,1,7,5,0,à paris|hier|hier matin|matin|nous sommes allés à paris,
+Je suis allé à Nice.,30,1,5,4,0,je|je suis|suis|à nice,
+Et je suis allé à Marseille hier.,30,1,7,5,0,je|je suis|suis|et|hier,
+Est-ce que vous êtes allé à Nice ce matin?,30,1,9,8,0,vous|est-ce que|vous êtes|ce|à nice,
+Et quand est-ce que vous êtes arrivé?,30,1,7,9,0,vous|est-ce que|vous êtes|et vous|et,
+Vous êtes arrivé quand?,30,1,4,5,2,vous|vous êtes|quand|arrivé|êtes arrivé,et quand est-ce que vous êtes arrivé|quand est-ce que vous êtes arrivé en france
+Quand est-ce que vous êtes arrivé en France?,30,1,8,7,0,vous|est-ce que|vous êtes|quand|arrivé,
+Et nous allons partir.,30,1,4,2,0,et|nous allons partir,
+Nous allons partir demain matin.,30,1,5,3,0,demain|nous allons partir|matin,
+Nous sommes allés à Paris.,30,1,5,1,1,à paris,nous sommes allés à paris hier matin
+Nous sommes allés à Notre-Dame hier.,30,1,6,1,0,hier,
+Je suis allé à Notre-Dame.,30,1,5,3,0,je|je suis|suis,
+Avec mon mari.,30,1,3,4,2,mon|avec|mari|mon mari,"je vais dîner avec mon mari|non, je suis avec mon mari"
+Nous sommes allés à Notre Dame ensemble.,30,1,7,1,0,ensemble,
+Et nous avons mangé dans un bon restaurant.,30,1,8,5,0,bon|et|restaurant|dans|nous avons mangé,
+Nous avons mangé au restaurant Chez Pierre.,30,1,7,5,0,chez|au restaurant|restaurant|au|nous avons mangé,
+C'est un très bon restaurant.,30,1,5,4,0,bon|très|c'est|restaurant,
+Où est Chez Pierre?,30,1,4,4,2,est|où est|où|chez,"où est le restaurant, chez pierre|où est le restaurant chez pierre"

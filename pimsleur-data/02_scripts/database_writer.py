@@ -5,11 +5,12 @@ Replaces CSV outputs with direct database writing for production use.
 """
 
 import os
-import psycopg2
-from psycopg2.extras import execute_values
-from typing import List, Dict, Optional, Any
 from dataclasses import dataclass
+from typing import Any
+
+import psycopg2
 from dotenv import load_dotenv
+from psycopg2.extras import execute_values
 
 load_dotenv()
 
@@ -23,9 +24,9 @@ class UtteranceRecord:
     speaker: str
     text: str
     language: str = "fr"
-    utterance_type: Optional[str] = None
-    narrator_cue: Optional[str] = None
-    core_lemmas: Optional[str] = None
+    utterance_type: str | None = None
+    narrator_cue: str | None = None
+    core_lemmas: str | None = None
 
 
 @dataclass
@@ -35,9 +36,9 @@ class PhraseRecord:
     text: str
     lesson_number: int
     position_in_lesson: int
-    speaker_response: Optional[str] = None
-    context: Optional[str] = None
-    teaching_cue: Optional[str] = None
+    speaker_response: str | None = None
+    context: str | None = None
+    teaching_cue: str | None = None
 
 
 class DatabaseWriter:
@@ -64,9 +65,7 @@ class DatabaseWriter:
 
         with self.conn.cursor() as cur:
             # Check if lesson exists
-            cur.execute(
-                "SELECT id FROM lessons WHERE lesson_number = %s", (lesson_number,)
-            )
+            cur.execute("SELECT id FROM lessons WHERE lesson_number = %s", (lesson_number,))
             result = cur.fetchone()
 
             if result:
@@ -82,7 +81,9 @@ class DatabaseWriter:
             self._lesson_cache[lesson_number] = lesson_id
             return lesson_id
 
-    def write_utterances(self, utterances: List[UtteranceRecord], clear_lesson: bool = False) -> int:
+    def write_utterances(
+        self, utterances: list[UtteranceRecord], clear_lesson: bool = False
+    ) -> int:
         """Write utterances directly to database."""
         if not utterances:
             return 0
@@ -108,16 +109,14 @@ class DatabaseWriter:
         with self.conn.cursor() as cur:
             # Only clear existing utterances if explicitly requested
             if clear_lesson:
-                lesson_ids = set(
-                    self.ensure_lesson_exists(u.lesson_number) for u in utterances
-                )
+                lesson_ids = {self.ensure_lesson_exists(u.lesson_number) for u in utterances}
                 for lesson_id in lesson_ids:
                     cur.execute("DELETE FROM utterances WHERE lesson_id = %s", (lesson_id,))
 
             # Insert new utterances
             execute_values(
                 cur,
-                """INSERT INTO utterances (lesson_id, position_in_lesson, speaker, text, language, utterance_type, narrator_cue, core_lemmas) 
+                """INSERT INTO utterances (lesson_id, position_in_lesson, speaker, text, language, utterance_type, narrator_cue, core_lemmas)
                    VALUES %s""",
                 db_records,
             )
@@ -147,7 +146,7 @@ class DatabaseWriter:
             self._phrase_cache[phrase_text] = phrase_id
             return phrase_id
 
-    def write_phrases(self, phrases: List[PhraseRecord]) -> int:
+    def write_phrases(self, phrases: list[PhraseRecord]) -> int:
         """Write phrases directly to database."""
         if not phrases:
             return 0
@@ -158,7 +157,7 @@ class DatabaseWriter:
 
         return len(phrases)
 
-    def update_cognitive_load(self, lesson_number: int, metrics: Dict[str, Any]):
+    def update_cognitive_load(self, lesson_number: int, metrics: dict[str, Any]):
         """Update cognitive load metrics for a lesson."""
         lesson_id = self.ensure_lesson_exists(lesson_number)
 
@@ -168,7 +167,7 @@ class DatabaseWriter:
 
             # Insert new metrics
             cur.execute(
-                """INSERT INTO cognitive_load 
+                """INSERT INTO cognitive_load
                    (lesson_id, load_score, novelty_ratio, repetition_density, core_introductions, derived_phrases)
                    VALUES (%s, %s, %s, %s, %s, %s)""",
                 (
@@ -177,20 +176,19 @@ class DatabaseWriter:
                     metrics.get("novelty_ratio"),
                     metrics.get("repetition_density"),
                     metrics.get("new_items"),
-                    metrics.get("review_items", 0)
-                    + metrics.get("reinforcement_items", 0),
+                    metrics.get("review_items", 0) + metrics.get("reinforcement_items", 0),
                 ),
             )
 
-    def get_lesson_utterances(self, lesson_number: int) -> List[Dict[str, Any]]:
+    def get_lesson_utterances(self, lesson_number: int) -> list[dict[str, Any]]:
         """Get all utterances for a lesson from database."""
         lesson_id = self.ensure_lesson_exists(lesson_number)
 
         with self.conn.cursor() as cur:
             cur.execute(
                 """SELECT position_in_lesson, speaker, text, language
-                   FROM utterances 
-                   WHERE lesson_id = %s 
+                   FROM utterances
+                   WHERE lesson_id = %s
                    ORDER BY position_in_lesson""",
                 (lesson_id,),
             )
@@ -222,19 +220,19 @@ class DatabaseWriter:
 
 
 # Convenience functions for backward compatibility
-def write_utterances_to_db(utterances: List[UtteranceRecord]) -> int:
+def write_utterances_to_db(utterances: list[UtteranceRecord]) -> int:
     """Write utterances to database (convenience function)."""
     with DatabaseWriter() as db:
         return db.write_utterances(utterances)
 
 
-def write_phrases_to_db(phrases: List[PhraseRecord]) -> int:
+def write_phrases_to_db(phrases: list[PhraseRecord]) -> int:
     """Write phrases to database (convenience function)."""
     with DatabaseWriter() as db:
         return db.write_phrases(phrases)
 
 
-def update_lesson_metrics(lesson_number: int, metrics: Dict[str, Any]):
+def update_lesson_metrics(lesson_number: int, metrics: dict[str, Any]):
     """Update cognitive load metrics for a lesson (convenience function)."""
     with DatabaseWriter() as db:
         db.update_cognitive_load(lesson_number, metrics)
