@@ -1,0 +1,914 @@
+[Narrator]
+This is Unit Twenty-two of Pimsleur's Speak and Read Essential French One.
+
+[French Narrator]
+Pas de conversation dans cette leçon.
+
+[French Narrator]
+Pas de conversation.
+
+[Narrator]
+Starting with this lesson, you'll receive more and more instructions in French, like this-
+
+[French Narrator]
+"Maintenant, dites-moi, "Hello" en français."
+
+[French Narrator]
+Dites-moi, "Hello."
+
+[Male Speaker]
+Bonjour.
+
+[Narrator]
+This is a necessary step to understanding and speaking French without translating from English. You may find it a little difficult at first. Don't hesitate to do this lesson over several times if necessary.
+
+[French Narrator]
+Dites-moi, "Glad to meet you."
+
+[Male Speaker]
+Enchanté.
+
+[French Narrator]
+Demandez-moi.
+
+[Narrator]
+Ask me.
+
+[French Narrator]
+Demandez-moi comment je vais.
+
+[French Narrator]
+Demandez-moi comment je vais.
+
+[Male Speaker]
+Comment allez-vous?
+
+[French Narrator]
+Demandez-moi encore comment je vais.
+
+[French Narrator]
+Demandez-moi encore comment je vais.
+
+[Male Speaker]
+Comment allez-vous?
+
+[French Narrator]
+Dites en français, "A big boy."
+
+[Male Speaker]
+Un grand garçon.
+
+[Male Speaker]
+Un grand garçon.
+
+[French Narrator]
+Dites, "We have a big boy."
+
+[Male Speaker]
+Nous avons un grand garçon.
+
+[French Narrator]
+Dites, "A little girl."
+
+[Male Speaker]
+Une petite fille.
+
+[Male Speaker]
+Une petite fille.
+
+[French Narrator]
+Demandez-moi.
+
+[Narrator]
+Ask me.
+
+[French Narrator]
+Demandez-moi combien d'enfants j'ai.
+
+[French Narrator]
+Demandez-moi combien d'enfants j'ai.
+
+[Female Speaker]
+Vous avez combien d'enfants?
+
+[French Narrator]
+Demandez-moi encore.
+
+[Female Speaker]
+Combien d'enfants avez-vous?
+
+[French Narrator]
+Dites que vous avez trois enfants.
+
+[French Narrator]
+Dites que vous avez trois enfants.
+
+[Male Speaker]
+J'ai trois enfants.
+
+[French Narrator]
+Dites encore que vous avez trois enfants.
+
+[Male Speaker]
+J'ai trois enfants.
+
+[French Narrator]
+Est-ce qu'ils sont grands?
+
+[French Narrator]
+Répondez affirmativement.
+
+[French Narrator]
+Est-ce qu'ils sont grands?
+
+[Male Speaker]
+Oui, ils sont grands.
+
+[French Narrator]
+Demandez-moi, "Where is the bathroom?"
+
+[Male Speaker]
+Où sont les toilettes?
+
+[French Narrator]
+Dites que les toilettes sont là-bas.
+
+[Female Speaker]
+Les toilettes sont là-bas.
+
+[Female Speaker]
+Elles sont là-bas.
+
+[French Narrator]
+Dites en français, "Really?"
+
+[Male Speaker]
+Vraiment?
+
+[Male Speaker]
+Vraiment?
+
+[French Narrator]
+Dites que votre famille est en Amérique.
+
+[Male Speaker]
+Ma famille est en Amérique.
+
+[French Narrator]
+Dites que votre famille est en France.
+
+[Male Speaker]
+Ma famille est en France.
+
+[French Narrator]
+Dites qu'elle est avec vous.
+
+[Male Speaker]
+Elle est avec moi.
+
+[Narrator]
+"How many people?"
+
+[French Narrator]
+Écoutez et répétez.
+
+[Female Speaker]
+Combien de personnes?
+
+[Female Speaker]
+Personne.
+
+[Female Speaker]
+Personne.
+
+[French Narrator]
+Dites en français, "How many people?"
+
+[Female Speaker]
+Combien de personnes?
+
+[Narrator]
+"There are how many people?"
+
+[French Narrator]
+Écoutez et répétez.
+
+[Female Speaker]
+Il y a combien de personnes?
+
+[Female Speaker]
+Il y a.
+
+[Female Speaker]
+Il y a.
+
+[Female Speaker]
+Il y a combien de personnes?
+
+[French Narrator]
+Demandez, "How many people are there?"
+
+[Female Speaker]
+Il y a combien de personnes?
+
+[Female Speaker]
+Il y a combien de personnes?
+
+[Narrator]
+"In your family."
+
+[French Narrator]
+Écoutez et répétez.
+
+[Female Speaker]
+Dans votre famille.
+
+[Female Speaker]
+Dans.
+
+[Female Speaker]
+Dans.
+
+[Female Speaker]
+Dans votre famille.
+
+[Narrator]
+Dites, "In your family."
+
+[Female Speaker]
+Dans votre famille.
+
+[French Narrator]
+Demandez, "There are how many people?"
+
+[Female Speaker]
+Il y a combien de personnes?
+
+[Female Speaker]
+Il y a combien de personnes?
+
+[French Narrator]
+Demandez
+
+[Female Speaker]
+il y a combien de personnes dans votre famille?
+
+[Female Speaker]
+Il y a combien de personnes dans votre famille?
+
+[French Narrator]
+Dites qu'il y a quatre personnes.
+
+[Male Speaker]
+Il y a quatre personnes.
+
+[French Narrator]
+Dites « In my family ».
+
+[Male Speaker]
+Dans ma famille.
+
+[Male Speaker]
+Dans ma famille.
+
+[Narrator]
+"In my car."
+
+[French Narrator]
+Écoutez et répétez.
+
+[Male Speaker]
+Dans ma voiture.
+
+[Male Speaker]
+Voiture.
+
+[Male Speaker]
+Voiture.
+
+[French Narrator]
+Dites "car" or "automobile" en français.
+
+[Male Speaker]
+Voiture.
+
+[French Narrator]
+Est-ce que c'est le ou la voiture?
+
+[Male Speaker]
+La voiture.
+
+[Male Speaker]
+Ma voiture.
+
+[Male Speaker]
+Une voiture.
+
+[French Narrator]
+Dites-moi que vous avez une voiture. Dites-moi que vous avez une voiture.
+
+[Male Speaker]
+J'ai une voiture.
+
+[French Narrator]
+Demandez si, "if",si j'ai une voiture.
+
+[French Narrator]
+Demandez si j'ai une voiture.
+
+[Female Speaker]
+Est-ce que vous avez une voiture?
+
+[Female Speaker]
+Avez-vous une voiture?
+
+[French Narrator]
+Comment dites-vous "if" en français?
+
+[Male Speaker]
+Si.
+
+[Male Speaker]
+Si.
+
+[French Narrator]
+Demandez-moi si ma voiture est ici.
+
+[French Narrator]
+Demandez-moi si ma voiture est ici.
+
+[Female Speaker]
+Est-ce que votre voiture est ici?
+
+[Female Speaker]
+Est-ce que votre voiture est ici?
+
+[French Narrator]
+Demandez-moi si ma famille est en France.
+
+[Female Speaker]
+Est-ce que votre famille est en France?
+
+[French Narrator]
+Demandez-moi combien de personnes il y a dans ma famille.
+
+[French Narrator]
+Demandez-moi combien de personnes il y a dans ma famille.
+
+[Female Speaker]
+Il y a combien de personnes dans votre famille?
+
+[Female Speaker]
+Il y a combien de personnes dans votre famille?
+
+[French Narrator]
+Dites, "There are five people in my family."
+
+[Male Speaker]
+Il y a cinq personnes dans ma famille.
+
+[Male Speaker]
+Il y a cinq personnes dans ma famille.
+
+[French Narrator]
+Dites, "We have a car."
+
+[Male Speaker]
+Nous avons une voiture.
+
+[Male Speaker]
+Nous avons une voiture.
+
+[French Narrator]
+Dites-moi que vous avez une voiture française.
+
+[Male Speaker]
+Nous avons une voiture française.
+
+[French Narrator]
+Demandez si elle est grande ou petite.
+
+[French Narrator]
+Demandez si elle est grande ou petite.
+
+[Female Speaker]
+Est-ce qu'elle est grande ou petite?
+
+[Female Speaker]
+Est-ce qu'elle est grande ou petite?
+
+[French Narrator]
+Dites qu'elle n'est pas grande.
+
+[Male Speaker]
+Elle n'est pas grande.
+
+[French Narrator]
+Dites qu'elle n'est pas vraiment petite.
+
+[Male Speaker]
+Elle n'est pas vraiment petite.
+
+[Male Speaker]
+Elle n'est pas vraiment petite.
+
+[French Narrator]
+Dites, "Enough."
+
+[Male Speaker]
+Assez.
+
+[Male Speaker]
+Assez.
+
+[French Narrator]
+Dites, "Big enough."
+
+[Male Speaker]
+Assez grande.
+
+[Male Speaker]
+Assez grande.
+
+[French Narrator]
+Dites-moi, "My car is big enough."
+
+[Male Speaker]
+Ma voiture est assez grande.
+
+[Male Speaker]
+Ma voiture est assez grande.
+
+[French Narrator]
+Dites, "For our family."
+
+[Male Speaker]
+Pour notre famille.
+
+[Male Speaker]
+Pour notre famille.
+
+[French Narrator]
+Comment dites-vous "if" en français?
+
+[Male Speaker]
+Si.
+
+[French Narrator]
+Dites, "If you wish", en français.
+
+[Male Speaker]
+Si vous voulez.
+
+[Male Speaker]
+Si vous voulez.
+
+[French Narrator]
+Demandez-moi si je parle français.
+
+[Female Speaker]
+Est-ce que vous parlez français, Monsieur?
+
+[French Narrator]
+Répondez, "Not really."
+
+[Male Speaker]
+Pas vraiment.
+
+[Narrator]
+"I speak French a little."
+
+[French Narrator]
+Écoutez et répétez.
+
+[Male Speaker]
+Je parle un peu le français.
+
+[Male Speaker]
+Un peu.
+
+[Male Speaker]
+Je parle un peu le français.
+
+[French Narrator]
+Dites que vous parlez un peu le français.
+
+[Male Speaker]
+Je parle un peu le français.
+
+[Male Speaker]
+Je parle un peu le français.
+
+[French Narrator]
+Dites que vous pouvez comprendre.
+
+[Male Speaker]
+Je peux comprendre.
+
+[Male Speaker]
+Je peux comprendre.
+
+[French Narrator]
+Dites, "Three people."
+
+[Male Speaker]
+Trois personnes.
+
+[French Narrator]
+Dites, "There are five people."
+
+[Male Speaker]
+Il y a cinq personnes.
+
+[Male Speaker]
+Il y a cinq personnes.
+
+[Narrator]
+"In our family."
+
+[Male Speaker]
+Dans notre famille.
+
+[Male Speaker]
+Dans notre famille.
+
+[French Narrator]
+Répondez affirmativement à la question.
+
+[French Narrator]
+Répondez affirmativement à la question.
+
+[Female Speaker]
+Est-ce que vous avez une voiture?
+
+[Female Speaker]
+Est-ce que vous avez une voiture?
+
+[Male Speaker]
+Oui, nous avons une voiture.
+
+[French Narrator]
+Dites, "We want."
+
+[Male Speaker]
+Nous voulons.
+
+[Male Speaker]
+Nous voulons.
+
+[Narrator]
+"We want gas."
+
+[French Narrator]
+Écoutez et répétez.
+
+[Male Speaker]
+Nous voulons de l'essence.
+
+[Male Speaker]
+Essence.
+
+[Male Speaker]
+Essence.
+
+[Male Speaker]
+De l'essence.
+
+[French Narrator]
+Dites, "We want gas."
+
+[Male Speaker]
+Nous voulons de l'essence.
+
+[French Narrator]
+Dites, "Give me gas."
+
+[Male Speaker]
+Donnez-moi de l'essence.
+
+[Male Speaker]
+Donnez-moi de l'essence.
+
+[Narrator]
+In France, the standard measure for liquids is the liter. One liter is almost the same as one quart. The liter is just a trifle larger. Here's how to ask for ten liters of gas.
+
+[French Narrator]
+Écoutez et répétez.
+
+[Male Speaker]
+Donnez-moi dix litres d'essence.
+
+[Male Speaker]
+Litre.
+
+[Male Speaker]
+Litre.
+
+[Male Speaker]
+Dix litres, s'il vous plaît.
+
+[Male Speaker]
+Dix litres d'essence.
+
+[French Narrator]
+Dites, "Ten liters of gas."
+
+[Male Speaker]
+Dix litres d'essence.
+
+[French Narrator]
+Dites, "Twenty liters, please."
+
+[Male Speaker]
+Vingt litres, s'il vous plaît.
+
+[Male Speaker]
+Vingt litres, s'il vous plaît.
+
+[French Narrator]
+Dites, "In the car."
+
+[Male Speaker]
+Dans la voiture.
+
+[Male Speaker]
+Dans la voiture.
+
+[French Narrator]
+Dites, "In our car."
+
+[Male Speaker]
+Dans notre voiture.
+
+[French Narrator]
+Dites, "Thirty liters of gas."
+
+[Male Speaker]
+Trente litres d'essence.
+
+[Male Speaker]
+Trente litres d'essence.
+
+[French Narrator]
+Dites, "That's a lot of gas."
+
+[Female Speaker]
+C'est beaucoup d'essence.
+
+[Female Speaker]
+C'est beaucoup d'essence.
+
+[French Narrator]
+Dites, "It's too much."
+
+[Male Speaker]
+C'est trop.
+
+[Narrator]
+"It's enough."
+
+[Female Speaker]
+Ça suffit.
+
+[Female Speaker]
+Ça suffit.
+
+[French Narrator]
+Demandez, "Is it enough?"
+
+[Male Speaker]
+Est-ce que ça suffit?
+
+[Male Speaker]
+Est-ce que ça suffit?
+
+[French Narrator]
+Dites, "Forty liters? It's too much."
+
+[Male Speaker]
+Quarante litres, c'est trop.
+
+[Narrator]
+Say, "We have an American car."
+
+[Male Speaker]
+Nous avons une voiture américaine.
+
+[Male Speaker]
+Nous avons une voiture américaine.
+
+[French Narrator]
+Demandez-moi si ma voiture est française.
+
+[French Narrator]
+Demandez-moi si ma voiture est française.
+
+[Female Speaker]
+Est-ce que votre voiture est française?
+
+[Female Speaker]
+Est-ce que votre voiture est française?
+
+[French Narrator]
+Dites, "There are many cars."
+
+[Female Speaker]
+Il y a beaucoup de voitures.
+
+[French Narrator]
+Dites, "There are many American cars."
+
+[Female Speaker]
+Il y a beaucoup de voitures américaines.
+
+[Female Speaker]
+Il y a beaucoup de voitures américaines.
+
+[French Narrator]
+Dites, "There are lots of American cars in France."
+
+[Female Speaker]
+Il y a beaucoup de voitures américaines en France.
+
+[Female Speaker]
+Il y a beaucoup de voitures américaines en France.
+
+[French Narrator]
+Demandez, "Is there gas?"
+
+[Male Speaker]
+Est-ce qu'il y a de l'essence?
+
+[Male Speaker]
+Est-ce qu'il y a de l'essence?
+
+[French Narrator]
+Demandez, "Is there gas in the car?"
+
+[Male Speaker]
+Est-ce qu'il y a de l'essence dans la voiture?
+
+[Male Speaker]
+Est-ce qu'il y a de l'essence dans la voiture?
+
+[French Narrator]
+Demandez, "How many liters?"
+
+[Female Speaker]
+Combien de litres?
+
+[French Narrator]
+Répondez, "I don't know."
+
+[Female Speaker]
+Je ne sais pas.
+
+[French Narrator]
+Dites, "It's enough."
+
+[Female Speaker]
+Ça suffit.
+
+[Narrator]
+The commonest measure of distance from place to place is the kilometer. One kilometer is five-eighths of a mile. Here's the word kilometer in French.
+
+[French Narrator]
+Écoutez et répétez.
+
+[Male Speaker]
+Kilomètre.
+
+[Male Speaker]
+Kilomètre.
+
+[Male Speaker]
+Kilomètre.
+
+[French Narrator]
+Demandez, "How many kilometers?"
+
+[Female Speaker]
+Combien de kilomètres?
+
+[Female Speaker]
+Combien de kilomètres?
+
+[French Narrator]
+Répondez, "Fifty kilometers."
+
+[Male Speaker]
+Cinquante kilomètres.
+
+[Male Speaker]
+Cinquante.
+
+[French Narrator]
+Dites, "Give me twenty-five liters."
+
+[Female Speaker]
+Donnez-moi vingt-cinq litres.
+
+[Female Speaker]
+Donnez-moi vingt-cinq litres.
+
+[Narrator]
+"Give me twenty-five liters of gas."
+
+[Male Speaker]
+Donnez-moi vingt-cinq litres d'essence.
+
+[Male Speaker]
+Donnez-moi vingt-cinq litres d'essence.
+
+[French Narrator]
+Dites, "There's a lot of gas."
+
+[Male Speaker]
+Il y a beaucoup d'essence.
+
+[Narrator]
+"In our car."
+
+[Male Speaker]
+Dans notre voiture.
+
+[Male Speaker]
+Dans notre voiture.
+
+[French Narrator]
+Dites, "It's enough for fifty kilometers."
+
+[Male Speaker]
+Ça suffit pour cinquante kilomètres.
+
+[Male Speaker]
+Ça suffit pour cinquante kilomètres.
+
+[French Narrator]
+Dites que vous voudriez aller à Paris.
+
+[French Narrator]
+Dites que vous voudriez aller à Paris.
+
+[Male Speaker]
+Je voudrais aller à Paris.
+
+[Male Speaker]
+Je voudrais aller à Paris.
+
+[Male Speaker]
+Nous voudrions aller à Paris.
+
+[French Narrator]
+Demandez combien de kilomètres il y a.
+
+[French Narrator]
+Demandez combien de kilomètres il y a.
+
+[Male Speaker]
+Il y a combien de kilomètres?
+
+[Male Speaker]
+Il y a combien de kilomètres, s'il vous plaît?
+
+[French Narrator]
+Répondez, "There are sixty kilometers."
+
+[Female Speaker]
+Il y a soixante kilomètres.
+
+[Female Speaker]
+Il y a soixante kilomètres.
+
+[French Narrator]
+Dites, "Fine."
+
+[Male Speaker]
+Très bien.
+
+[French Narrator]
+Dites, "There is a lot of gas."
+
+[Female Speaker]
+Il y a beaucoup d'essence.
+
+[French Narrator]
+Dites, "There is a lot of gas in the car."
+
+[Male Speaker]
+Il y a beaucoup d'essence dans la voiture.
+
+[Male Speaker]
+Dans la voiture.
+
+[French Narrator]
+Dites, "And we are going to Paris."
+
+[Male Speaker]
+Et nous allons à Paris.
+
+[Male Speaker]
+Et nous allons à Paris.
+
+[Narrator]
+This is the end of unit twenty-two.

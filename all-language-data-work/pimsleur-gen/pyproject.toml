@@ -1,0 +1,52 @@
+[project]
+name = "pimsleur-gen"
+version = "0.1.0"
+description = "Pimsleur method reverse engineering and lesson generation"
+requires-python = ">=3.12"
+dependencies = [
+    "pydantic>=2.12.4",
+]
+
+[dependency-groups]
+dev = [
+    "pytest>=8.3",
+    "ruff>=0.8",
+    "ty>=0.0.1a7",
+]
+
+[tool.ruff]
+line-length = 100
+target-version = "py312"
+
+[tool.ruff.lint]
+select = [
+    "E",      # pycodestyle errors
+    "W",      # pycodestyle warnings
+    "F",      # pyflakes
+    "I",      # isort
+    "B",      # flake8-bugbear
+    "C4",     # flake8-comprehensions
+    "UP",     # pyupgrade
+    "ARG",    # flake8-unused-arguments
+    "SIM",    # flake8-simplify
+]
+ignore = [
+    "E501",   # line too long (handled by formatter)
+]
+
+[tool.ruff.lint.isort]
+known-first-party = ["src"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["."]
+
+[tool.ty.environment]
+python-version = "3.12"
+
+[tool.ty.src]
+include = ["src"]
+
+[tool.ty.rules]
+# Ignore import errors for src/ package (not installed, uses relative imports)
+unresolved-import = "ignore"

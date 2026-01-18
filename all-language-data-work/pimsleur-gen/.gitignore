@@ -1,0 +1,46 @@
+# Archive (old research attempts)
+archive/
+
+# Claude Code settings
+.claude/settings.local.json
+
+# Output (generated content)
+output/
+
+# Python
+__pycache__/
+*.pyc
+.env
+.venv/
+venv/
+
+# UV
+.uv/
+.python-version
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# MyPy
+.mypy_cache/
+
+# Large data directories (if they come back)
+/production languages/
+/pimsleur-gen-backup/
+
+# Workspace directories (old generated content)
+workspace/
+workspace_*/
+test_patterns.json
+test_polish_patterns.json
+*_generated.md

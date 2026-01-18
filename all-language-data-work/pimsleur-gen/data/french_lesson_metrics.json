@@ -1,0 +1,564 @@
+{
+  "metadata": {
+    "language": "french",
+    "level": 1,
+    "analysis_date": "2025-12-29",
+    "analysis_method": "manual_review",
+    "notes": "Metrics extracted via manual reading of timestamped transcripts"
+  },
+  "lessons": [
+    {
+      "unit": 1,
+      "backchaining_count": 7,
+      "backchaining_examples": ["Pardon (Don/Par/Pardon)", "Comprenez (Nez/Prenez/Com)", "Monsieur (Sieur/Mon)", "Américain"],
+      "french_instructions_count": 0,
+      "english_scaffolding": {
+        "how_do_you_say": 9,
+        "say_x": 25,
+        "listen_and_repeat": 20,
+        "try_to_say": 3,
+        "grammar_explanations": 4
+      },
+      "has_opening_conversation": true,
+      "has_roleplay": true,
+      "has_reading_section": false,
+      "vocabulary_introduced": ["pardon", "l'anglais", "comprenez", "vous comprenez", "est-ce que", "non", "monsieur", "je", "comprends", "vous", "le français", "un peu", "mademoiselle", "oui", "je ne comprends pas", "pas", "ne", "américain", "êtes"],
+      "theme": "identity_and_understanding"
+    },
+    {
+      "unit": 2,
+      "backchaining_count": 5,
+      "backchaining_examples": ["Bonjour (Jour/Bon)", "Mademoiselle (Selle/Moi/Moiselle/Mad)"],
+      "french_instructions_count": 0,
+      "english_scaffolding": {
+        "how_do_you_say": 8,
+        "say_x": 20,
+        "listen_and_repeat": 15,
+        "grammar_explanations": 3
+      },
+      "has_opening_conversation": true,
+      "has_roleplay": true,
+      "has_reading_section": false,
+      "vocabulary_introduced": ["bonjour", "madame", "très bien", "merci", "bien", "comment allez-vous", "allez", "au revoir", "je vais bien", "et vous"],
+      "theme": "greetings"
+    },
+    {
+      "unit": 3,
+      "backchaining_count": 4,
+      "backchaining_examples": ["Américaine", "Français/Française", "Suis"],
+      "french_instructions_count": 0,
+      "english_scaffolding": {
+        "how_do_you_say": 7,
+        "say_x": 18,
+        "ask_me_x": 6,
+        "grammar_explanations": 5
+      },
+      "has_opening_conversation": true,
+      "has_roleplay": true,
+      "has_reading_section": false,
+      "vocabulary_introduced": ["suis", "êtes", "américain/américaine", "français/française", "ne suis pas", "n'êtes pas", "et", "mais", "parlez", "s'il vous plaît"],
+      "theme": "identity_and_nationality",
+      "notes": "Gender system introduced (masculine/feminine)"
+    },
+    {
+      "unit": 4,
+      "backchaining_count": 3,
+      "backchaining_examples": ["Restaurant (Rant/Torrant)"],
+      "french_instructions_count": 0,
+      "english_scaffolding": {
+        "how_do_you_say": 8,
+        "say_x": 22,
+        "try_to_say": 4,
+        "grammar_explanations": 4
+      },
+      "has_opening_conversation": true,
+      "has_roleplay": true,
+      "has_reading_section": false,
+      "vocabulary_introduced": ["où est", "rue", "boulevard", "restaurant", "c'est", "ici", "là-bas", "ce n'est pas", "est", "la"],
+      "theme": "locations",
+      "notes": "Article system (le/la) introduced"
+    },
+    {
+      "unit": 5,
+      "backchaining_count": 2,
+      "backchaining_examples": ["Maintenant (Nant/Mainte)"],
+      "french_instructions_count": 0,
+      "english_scaffolding": {
+        "how_do_you_say": 8,
+        "say_x": 25,
+        "ask_me_x": 10
+      },
+      "has_opening_conversation": true,
+      "has_roleplay": true,
+      "has_reading_section": false,
+      "vocabulary_introduced": ["veux", "voulez", "voudriez", "boire", "manger", "quelque chose", "voudrais", "chez moi", "chez vous", "maintenant", "plus tard", "quand", "pas maintenant", "aussi", "moi aussi"],
+      "theme": "food_and_drink",
+      "notes": "Conditional mood introduced (voudrais)"
+    },
+    {
+      "unit": 6,
+      "backchaining_count": 0,
+      "french_instructions_count": 0,
+      "has_opening_conversation": true,
+      "has_roleplay": true,
+      "has_reading_section": false,
+      "vocabulary_introduced": ["déjeuner", "mais si", "d'accord", "pas d'accord"],
+      "theme": "food_and_drink",
+      "notes": "'Mais si' emphatic affirmative introduced"
+    },
+    {
+      "unit": 7,
+      "backchaining_count": 0,
+      "french_instructions_count": 0,
+      "has_opening_conversation": true,
+      "has_roleplay": true,
+      "has_reading_section": false,
+      "vocabulary_introduced": ["qu'est-ce que", "faire", "acheter", "avec qui", "vin", "bière", "du vin", "de la bière", "ou"],
+      "theme": "food_and_drink",
+      "notes": "Partitive articles (du/de la) introduced"
+    },
+    {
+      "unit": 8,
+      "backchaining_count": 0,
+      "french_instructions_count": 0,
+      "has_opening_conversation": true,
+      "has_roleplay": true,
+      "has_reading_section": false,
+      "vocabulary_introduced": ["deux", "deux bières", "dites-moi"],
+      "theme": "ordering",
+      "notes": "Character names introduced (Pierre, Jacqueline)"
+    },
+    {
+      "unit": 9,
+      "backchaining_count": 0,
+      "french_instructions_count": 2,
+      "french_instructions_examples": ["Dites-moi"],
+      "has_opening_conversation": true,
+      "has_roleplay": true,
+      "has_reading_section": true,
+      "vocabulary_introduced": ["savez", "avez", "ne...pas de", "on parle", "il est"],
+      "theme": "having_and_knowing",
+      "notes": "FIRST LESSON WITH READING. First French instructions appear."
+    },
+    {
+      "unit": 10,
+      "backchaining_count": 0,
+      "french_instructions_count": 2,
+      "french_instructions_examples": ["Écoutez cette conversation française", "Écouter encore"],
+      "has_opening_conversation": true,
+      "has_roleplay": true,
+      "has_reading_section": true,
+      "vocabulary_introduced": ["quelle heure est-il", "il est", "cinq heures", "trois heures", "quatre heures", "deux heures", "huit heures", "neuf heures", "je vais", "vous allez", "allez"],
+      "theme": "time",
+      "notes": "Time-telling introduced. Lesson opens with French."
+    },
+    {
+      "unit": 11,
+      "backchaining_count": 10,
+      "backchaining_examples": ["Huit/Une contrast", "Six heures", "Sept heures", "Dix heures", "Ce soir", "Dîner", "Demain soir", "Aujourd'hui"],
+      "french_instructions_count": 15,
+      "french_instructions_examples": ["Écoutez cette conversation française", "Écoutez encore", "Écoutez et répétez"],
+      "has_opening_conversation": true,
+      "has_roleplay": true,
+      "has_reading_section": true,
+      "vocabulary_introduced": ["à quelle heure", "voudriez", "déjeuner", "dîner", "ce soir", "demain", "demain soir", "aujourd'hui", "vite", "sept", "huit", "neuf", "dix", "mal", "assez", "trop"],
+      "theme": "time_and_scheduling",
+      "notes": "Backchaining SPIKES for number vocabulary"
+    },
+    {
+      "unit": 12,
+      "backchaining_count": 8,
+      "backchaining_examples": ["Franc", "Douze", "Onze", "Treize"],
+      "french_instructions_count": 12,
+      "has_opening_conversation": true,
+      "has_roleplay": true,
+      "has_reading_section": true,
+      "vocabulary_introduced": ["franc", "je vous dois", "vous me devez", "combien", "onze", "douze", "treize"],
+      "theme": "money",
+      "notes": "Telephone context. Gender agreement explained explicitly."
+    },
+    {
+      "unit": 13,
+      "backchaining_count": 7,
+      "backchaining_examples": ["Quatorze", "Quinze", "Seize"],
+      "french_instructions_count": 10,
+      "has_opening_conversation": true,
+      "has_roleplay": true,
+      "has_reading_section": true,
+      "vocabulary_introduced": ["quatorze", "quinze", "seize", "j'ai", "en", "beaucoup", "pas de", "peut", "peux"],
+      "theme": "money",
+      "notes": "Pronoun 'en' introduced. Question word order explained."
+    },
+    {
+      "unit": 14,
+      "backchaining_count": 6,
+      "backchaining_examples": ["Dix-sept", "Dix-huit", "Dix-neuf"],
+      "french_instructions_count": 8,
+      "has_opening_conversation": true,
+      "has_roleplay": true,
+      "has_reading_section": true,
+      "vocabulary_introduced": ["journal", "voilà", "dix-sept", "dix-huit", "dix-neuf", "donnez-moi", "cher"],
+      "theme": "shopping"
+    },
+    {
+      "unit": 15,
+      "backchaining_count": 5,
+      "french_instructions_count": 12,
+      "has_opening_conversation": true,
+      "has_roleplay": true,
+      "has_reading_section": true,
+      "vocabulary_introduced": ["pour", "je peux", "vous pouvez", "je ne peux pas", "je veux", "j'en ai", "font"],
+      "theme": "ability_and_wanting",
+      "notes": "Arithmetic drills introduced (2+2, etc.). Pouvoir/vouloir focus."
+    },
+    {
+      "unit": 16,
+      "backchaining_count": 10,
+      "backchaining_examples": ["Vingt", "Vingt-quatre", "Vingt-cinq", "Trente", "Quarante"],
+      "french_instructions_count": 12,
+      "has_opening_conversation": true,
+      "has_roleplay": true,
+      "has_reading_section": true,
+      "vocabulary_introduced": ["ça va", "argent", "beaucoup d'argent", "trop", "ça suffit", "vingt", "trente", "quarante"],
+      "theme": "money"
+    },
+    {
+      "unit": 17,
+      "backchaining_count": 10,
+      "backchaining_examples": ["Cinquante", "Soixante", "Soixante-et-un"],
+      "french_instructions_count": 10,
+      "has_opening_conversation": true,
+      "has_roleplay": true,
+      "has_reading_section": true,
+      "vocabulary_introduced": ["assez", "cinquante", "soixante", "comprendre", "parler", "parlez trop vite", "si"],
+      "theme": "communication",
+      "notes": "'Si' vs 'oui' distinction introduced. REVIEW LESSON - spikes in comprehension vocabulary."
+    },
+    {
+      "unit": 18,
+      "backchaining_count": 8,
+      "backchaining_examples": ["Mari", "Femme", "Eau", "Orangina"],
+      "french_instructions_count": 12,
+      "has_opening_conversation": true,
+      "has_roleplay": true,
+      "has_reading_section": true,
+      "vocabulary_introduced": ["chapeau", "magnifique", "mari", "femme", "mon", "ma", "votre", "eau", "grand", "grande", "garçon", "fille"],
+      "theme": "family",
+      "notes": "Family vocabulary. Possessive adjectives. Adjective agreement (grand/grande)."
+    },
+    {
+      "unit": 19,
+      "backchaining_count": 6,
+      "french_instructions_count": 12,
+      "has_opening_conversation": true,
+      "has_roleplay": true,
+      "has_reading_section": true,
+      "vocabulary_introduced": ["garçon (waiter)", "bonsoir", "entrez", "enchanté", "habitez", "habiter", "j'habite", "nous habitons", "marié", "nous", "on"],
+      "theme": "introductions",
+      "notes": "'Habiter' and 'nous' conjugation introduced. N'est-ce pas explained."
+    },
+    {
+      "unit": 20,
+      "backchaining_count": 8,
+      "backchaining_examples": ["Enfant/Enfants", "Garçon/Garçons", "Fille/Filles"],
+      "french_instructions_count": 15,
+      "has_opening_conversation": true,
+      "has_roleplay": true,
+      "has_reading_section": true,
+      "vocabulary_introduced": ["enfants", "garçons", "filles", "très grand", "trois enfants", "nous avons", "combien d'enfants", "intéressant", "tiens tiens"],
+      "theme": "family",
+      "notes": "Plural forms emphasized. Extended family-based role-play."
+    },
+    {
+      "unit": 21,
+      "backchaining_count": 5,
+      "backchaining_examples": ["Attendre", "Petite", "Petit", "Notre", "Les toilettes"],
+      "french_instructions_count": 13,
+      "has_opening_conversation": true,
+      "has_roleplay": true,
+      "has_reading_section": true,
+      "vocabulary_introduced": ["attendre", "entrez", "enchanté", "ils", "les toilettes", "la famille", "à gauche", "plus loin"],
+      "theme": "visiting",
+      "notes": "Last lesson before L22 transition"
+    },
+    {
+      "unit": 22,
+      "backchaining_count": 4,
+      "french_instructions_count": 80,
+      "french_instructions_examples": ["Dites-moi", "Demandez-moi", "Dites en français", "Demandez", "Répondez affirmativement"],
+      "has_opening_conversation": false,
+      "has_roleplay": false,
+      "has_reading_section": false,
+      "vocabulary_introduced": ["il y a", "combien de personnes", "personne", "dans votre famille", "voiture", "si (if)", "essence", "litre", "kilomètre"],
+      "theme": "travel",
+      "notes": "MAJOR TRANSITION. Narrator explicitly announces: 'No conversation in this lesson. Starting with this lesson, you'll receive more and more instructions in French.' French instructions jump from ~13 to 80+."
+    },
+    {
+      "unit": 23,
+      "backchaining_count": 7,
+      "backchaining_examples": ["Mettez", "Vous mettez/Nous mettons", "Loin", "Soixante-dix"],
+      "french_instructions_count": 45,
+      "has_opening_conversation": false,
+      "has_roleplay": false,
+      "has_reading_section": true,
+      "vocabulary_introduced": ["comment dit-on", "mettez", "mettre", "attendez", "loin", "soixante-dix", "soixante-douze", "route", "tout droit", "à gauche", "à droite", "et puis"],
+      "theme": "directions",
+      "notes": "Numbers 70+ (base-20 system explained: 70 = 60+10)"
+    },
+    {
+      "unit": 24,
+      "backchaining_count": 3,
+      "french_instructions_count": 45,
+      "has_opening_conversation": false,
+      "has_roleplay": false,
+      "has_reading_section": true,
+      "vocabulary_introduced": ["essence chère", "bonne route", "plus loin"],
+      "theme": "directions"
+    },
+    {
+      "unit": 25,
+      "backchaining_count": 4,
+      "backchaining_examples": ["Quatre-vingts (explained as 'four twenties')"],
+      "french_instructions_count": 40,
+      "has_opening_conversation": true,
+      "has_roleplay": true,
+      "has_reading_section": true,
+      "vocabulary_introduced": ["quatre-vingts", "pourquoi", "parce que", "magasin", "grand magasin", "fermé", "ouvert", "tard"],
+      "theme": "shopping",
+      "notes": "Pourquoi/parce que introduced. Conversation returns."
+    },
+    {
+      "unit": 26,
+      "backchaining_count": 4,
+      "backchaining_examples": ["Prendre", "Voir", "Amis"],
+      "french_instructions_count": 40,
+      "has_opening_conversation": false,
+      "has_roleplay": true,
+      "has_reading_section": false,
+      "vocabulary_introduced": ["prendre", "voir", "amis", "mes amis", "quelques", "travailler", "passer", "jours", "peut-être", "je crois"],
+      "theme": "future_plans"
+    },
+    {
+      "unit": 27,
+      "backchaining_count": 4,
+      "french_instructions_count": 50,
+      "has_opening_conversation": false,
+      "has_roleplay": true,
+      "has_reading_section": true,
+      "vocabulary_introduced": ["croyez", "quatre-vingt-dix", "quatre-vingt-quinze", "cent", "rien", "seul", "seule", "ensemble", "partir"],
+      "theme": "future_plans",
+      "notes": "Numbers 80-100 completed"
+    },
+    {
+      "unit": 28,
+      "backchaining_count": 5,
+      "backchaining_examples": ["Peut-être", "Zut", "Veut dire", "Depuis"],
+      "french_instructions_count": 40,
+      "has_opening_conversation": true,
+      "has_roleplay": true,
+      "has_reading_section": true,
+      "vocabulary_introduced": ["tu", "ça va", "ça ne va pas", "quand", "depuis", "semaines", "temps", "rester", "nous sommes", "zut", "veut dire", "mot"],
+      "theme": "duration_and_register",
+      "notes": "TU/VOUS DISTINCTION INTRODUCED. Same conversation played twice: once with tu, once with vous. Explicit explanation of register."
+    },
+    {
+      "unit": 29,
+      "backchaining_count": 5,
+      "backchaining_examples": ["Depuis", "Hier", "Acheté", "Beau", "Lait"],
+      "french_instructions_count": 40,
+      "has_opening_conversation": true,
+      "has_roleplay": true,
+      "has_reading_section": true,
+      "vocabulary_introduced": ["mal", "pas mal", "hier", "hier matin", "hier soir", "une semaine", "quelques semaines", "acheté", "du lait", "du bon vin", "mangé", "un beau chapeau", "aimer"],
+      "theme": "past_events",
+      "notes": "PAST TENSE INTRODUCED (j'ai acheté, j'ai mangé). Temporal expressions (hier)."
+    },
+    {
+      "unit": 30,
+      "backchaining_count": 5,
+      "backchaining_examples": ["Achète", "Arrivé", "Êtes arrivé", "Matin"],
+      "french_instructions_count": 50,
+      "has_opening_conversation": true,
+      "has_roleplay": true,
+      "has_reading_section": false,
+      "vocabulary_introduced": ["ce mot", "veut dire", "sommes américains", "depuis combien de temps", "j'aime la France", "arrivé", "êtes arrivés", "ce matin", "allé", "sommes allés", "parlé", "Notre-Dame", "un bon restaurant"],
+      "theme": "past_events",
+      "notes": "COMPLEX PAST TENSE (être + past participle for movement verbs). Final comprehensive conversation. Course ends with 80% correctness benchmark mentioned."
+    }
+  ],
+  "vocabulary_themes": {
+    "identity_and_understanding": {"lessons": [1, 3], "words": ["pardon", "comprenez", "comprends", "américain", "français"]},
+    "greetings": {"lessons": [2], "words": ["bonjour", "au revoir", "comment allez-vous", "merci"]},
+    "locations": {"lessons": [4], "words": ["où est", "rue", "boulevard", "ici", "là-bas"]},
+    "food_and_drink": {"lessons": [5, 6, 7], "words": ["manger", "boire", "vin", "bière", "déjeuner"]},
+    "ordering": {"lessons": [8], "words": ["deux bières", "dites-moi"]},
+    "time": {"lessons": [10, 11], "words": ["quelle heure", "heures", "aujourd'hui", "demain", "ce soir"]},
+    "money": {"lessons": [12, 13, 14, 16], "words": ["franc", "combien", "cher", "argent", "onze-dix-neuf"]},
+    "ability_and_wanting": {"lessons": [15], "words": ["pouvoir", "vouloir", "je peux", "je veux"]},
+    "communication": {"lessons": [17], "words": ["comprendre", "parler", "vite", "si"]},
+    "family": {"lessons": [18, 20], "words": ["mari", "femme", "enfants", "garçon", "fille"]},
+    "introductions": {"lessons": [19], "words": ["enchanté", "habiter", "marié"]},
+    "travel": {"lessons": [22, 23, 24], "words": ["voiture", "essence", "route", "directions"]},
+    "shopping": {"lessons": [25], "words": ["magasin", "fermé", "ouvert"]},
+    "future_plans": {"lessons": [26, 27], "words": ["prendre", "voir", "amis", "partir"]},
+    "past_events": {"lessons": [29, 30], "words": ["hier", "acheté", "mangé", "arrivé", "allé"]}
+  },
+  "spaced_repetition": {
+    "methodology": "Tracked 8 core phrases from L1 across all 30 lessons",
+    "tracked_phrases": [
+      {
+        "phrase": "pardon",
+        "pattern": "front_loaded",
+        "peak_lessons": [1, 2, 3],
+        "total_lessons_appearing": 8,
+        "notes": "Heavy L1-3, then rare revisits at L17, L21, L29"
+      },
+      {
+        "phrase": "comprenez/comprends",
+        "pattern": "sustained_with_spike",
+        "peak_lessons": [1, 2, 3, 17],
+        "total_lessons_appearing": 18,
+        "notes": "Spike at L17 (review lesson). Maintained throughout."
+      },
+      {
+        "phrase": "l'anglais",
+        "pattern": "front_loaded_fade",
+        "peak_lessons": [1, 2, 3],
+        "total_lessons_appearing": 6,
+        "notes": "Intensive early, nearly gone after L5"
+      },
+      {
+        "phrase": "le français",
+        "pattern": "bimodal",
+        "peak_lessons": [1, 2, 3, 27, 28, 29, 30],
+        "total_lessons_appearing": 12,
+        "notes": "Peak early, then returns in reading sections L27-30"
+      },
+      {
+        "phrase": "je ne comprends pas",
+        "pattern": "front_loaded_with_gap",
+        "peak_lessons": [1, 2, 3],
+        "gap_lessons": "11-23",
+        "total_lessons_appearing": 8,
+        "notes": "Completely absent L11-23, then returns L24, L29. Intentional?"
+      },
+      {
+        "phrase": "un peu",
+        "pattern": "classic_spaced",
+        "peak_lessons": [1, 2, 3, 4, 5],
+        "revisit_lessons": [17, 21, 30],
+        "total_lessons_appearing": 10,
+        "notes": "Classic spaced repetition: heavy → gap → revisit"
+      },
+      {
+        "phrase": "américain/américaine",
+        "pattern": "periodic_reinforcement",
+        "peak_lessons": [1, 3, 14, 20, 28, 30],
+        "total_lessons_appearing": 12,
+        "notes": "Reintroduced mid-course (L14) and end (L28, L30)"
+      },
+      {
+        "phrase": "monsieur/madame/mademoiselle",
+        "pattern": "always_present",
+        "total_lessons_appearing": 30,
+        "notes": "Most consistent phrase. Politeness markers never fade."
+      }
+    ],
+    "key_findings": [
+      "Politeness markers (monsieur/madame) are reinforced in EVERY lesson",
+      "L17 functions as a review lesson with spikes in comprehension vocabulary",
+      "'Je ne comprends pas' has suspicious 13-lesson gap (L11-23) - possibly intentional",
+      "'Un peu' shows textbook spaced repetition: intensive → gap → revisit",
+      "Identity vocabulary (américain, français) returns at course end for consolidation"
+    ]
+  },
+  "grammar_progression": {
+    "verb_persons": {
+      "je": {"first_lesson": 1, "verbs": ["comprends"]},
+      "vous": {"first_lesson": 1, "verbs": ["comprenez"]},
+      "il_elle": {"first_lesson": 10, "verbs": ["est (time)"]},
+      "nous": {"first_lesson": 19, "verbs": ["habitons", "voulons", "avons"]},
+      "tu": {"first_lesson": 28, "notes": "Same conversation played twice: tu then vous"},
+      "ils_elles": {"first_lesson": 21, "verbs": ["sont"]}
+    },
+    "tense_progression": [
+      {"tense": "present_indicative", "lesson": 1, "examples": ["je comprends", "vous comprenez"]},
+      {"tense": "conditional", "lesson": 5, "examples": ["voudrais", "voudriez"], "notes": "Polite register"},
+      {"tense": "immediate_future", "lesson": 10, "examples": ["je vais manger", "vous allez"], "notes": "aller + infinitive"},
+      {"tense": "passe_compose_avoir", "lesson": 29, "examples": ["j'ai acheté", "j'ai mangé"]},
+      {"tense": "passe_compose_etre", "lesson": 30, "examples": ["nous sommes arrivés", "nous sommes allés"], "notes": "Movement verbs"}
+    ],
+    "articles": [
+      {"type": "definite", "lesson": 1, "forms": ["le", "la", "l'"]},
+      {"type": "definite_plural", "lesson": 20, "forms": ["les"]},
+      {"type": "indefinite", "lesson": 4, "forms": ["un", "une"]},
+      {"type": "partitive", "lesson": 7, "forms": ["du", "de la", "de l'"]},
+      {"type": "possessive", "lesson": 18, "forms": ["mon", "ma", "votre"]},
+      {"type": "possessive_plural", "lesson": 21, "forms": ["notre", "nos"]}
+    ],
+    "negation": [
+      {"pattern": "ne_pas", "lesson": 1, "example": "je ne comprends pas"},
+      {"pattern": "ne_pas_de", "lesson": 9, "example": "n'avez pas de"},
+      {"pattern": "ne_rien", "lesson": 28, "example": "je n'ai rien"}
+    ],
+    "questions": [
+      {"pattern": "est_ce_que", "lesson": 1, "example": "Est-ce que vous comprenez?"},
+      {"pattern": "inversion", "lesson": 17, "example": "Savez-vous?"}
+    ],
+    "numbers": [
+      {"range": "1-5", "lessons": [8, 10]},
+      {"range": "6-10", "lessons": [11]},
+      {"range": "11-13", "lessons": [12]},
+      {"range": "14-16", "lessons": [13]},
+      {"range": "17-19", "lessons": [14]},
+      {"range": "20-69", "lessons": [16, 17]},
+      {"range": "70-79", "lessons": [23], "notes": "Base-20: soixante-dix = 60+10"},
+      {"range": "80-99", "lessons": [25, 27], "notes": "Base-20: quatre-vingts = 4×20"},
+      {"range": "100", "lessons": [27]}
+    ],
+    "key_structures": [
+      {"structure": "gender_agreement", "lesson": 3, "example": "américain/américaine"},
+      {"structure": "adjective_agreement", "lesson": 18, "example": "grand/grande"},
+      {"structure": "pronoun_en", "lesson": 13, "example": "j'en ai"},
+      {"structure": "tu_vous_distinction", "lesson": 28, "notes": "Explicit lesson with same conversation in both registers"}
+    ]
+  },
+  "summary": {
+    "total_lessons": 30,
+    "total_vocabulary_items": 285,
+    "phases": [
+      {
+        "name": "Foundation",
+        "lessons": "1-8",
+        "theme_focus": ["identity", "greetings", "food_and_drink"],
+        "characteristics": ["Heavy backchaining (7→0)", "Zero French instructions", "No reading", "100% English narration"]
+      },
+      {
+        "name": "Multimodal Build",
+        "lessons": "9-21",
+        "theme_focus": ["time", "money", "family"],
+        "characteristics": ["Reading introduced (L9)", "French instructions creep in (2→15)", "Backchaining returns for numbers (L11-17)", "Arithmetic drills (L15+)"]
+      },
+      {
+        "name": "Instruction Flip",
+        "lessons": "22-27",
+        "theme_focus": ["travel", "directions", "shopping"],
+        "characteristics": ["L22 explicit announcement", "French instructions jump to 80+", "No opening conversation (L22-24)", "Numbers 70-100 completed"]
+      },
+      {
+        "name": "Register & Tense",
+        "lessons": "28-30",
+        "theme_focus": ["duration", "past_events"],
+        "characteristics": ["Tu/vous distinction (L28)", "Past tense introduced (L29)", "Complex past with être (L30)", "Final assessment"]
+      }
+    ],
+    "key_transitions": [
+      {"lesson": 9, "change": "Reading introduced, first French instructions"},
+      {"lesson": 11, "change": "Backchaining spikes for number vocabulary"},
+      {"lesson": 17, "change": "Review lesson - comprehension vocabulary spike"},
+      {"lesson": 22, "change": "Instruction language flips to French (explicitly announced)"},
+      {"lesson": 28, "change": "Tu/vous register distinction introduced"},
+      {"lesson": 29, "change": "Past tense introduced"}
+    ]
+  }
+}

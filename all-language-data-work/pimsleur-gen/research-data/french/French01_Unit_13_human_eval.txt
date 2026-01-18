@@ -1,0 +1,935 @@
+[Narrator]
+This is Unit Thirteen of Pimsleur Speak and Read Essential French One. 
+
+[French Narrator]
+Écoutez cette conversation téléphonique. 
+
+[French Narrator]
+Écoutez cette conversation téléphonique. 
+
+[Male Speaker]
+Allô, je voudrais parler avec Marie, s'il vous plaît. 
+
+[Male Speaker]
+Ah, c'est vous, Marie. Bonjour, ici Jacques. 
+
+[Female Speaker]
+Bonjour, Jacques. Est-ce que vous allez bien? 
+
+[Male Speaker]
+Oui, merci. Dites, Marie, qu'est-ce que vous allez faire ce soir? 
+
+[Female Speaker]
+Ce soir? Oh, je ne sais pas. 
+
+[Male Speaker]
+Est-ce que vous voudriez manger avec moi à six heures? 
+
+[Female Speaker]
+Non, Jacques, je vais manger avec Antoinette ce soir. Mais voudriez-vous boire quelque chose chez moi plus tard? 
+
+[Male Speaker]
+Oui, je veux bien. À quelle heure? 
+
+[Female Speaker]
+À neuf heures ou plus tard, à dix heures? 
+
+[Male Speaker]
+D'accord. À dix heures chez vous. Au revoir, Marie. 
+
+[Female Speaker]
+À ce soir, Jacques. 
+
+[French Narrator]
+Écoutez encore. 
+
+[French Narrator]
+Écoutez encore. 
+
+[Male Speaker]
+Allô, je voudrais parler avec Marie, s'il vous plaît. 
+
+[Male Speaker]
+Ah, c'est vous, Marie. Bonjour. Ici Jacques. 
+
+[Female Speaker]
+Bonjour, Jacques. Est-ce que vous allez bien? 
+
+[Male Speaker]
+Oui, merci. Dites, Marie, qu'est-ce que vous allez faire ce soir? 
+
+[Female Speaker]
+Ce soir? Oh, je ne sais pas. 
+
+[Male Speaker]
+Est-ce que vous voudriez manger avec moi à six heures? 
+
+[Female Speaker]
+Non, Jacques, je vais manger avec Antoinette ce soir. Mais voudriez-vous boire quelque chose chez moi plus tard? 
+
+[Male Speaker]
+Oui, je veux bien. À quelle heure? 
+
+[Female Speaker]
+À neuf heures ou plus tard, à dix heures? 
+
+[Male Speaker]
+D'accord. À dix heures chez vous. Au revoir, Marie. 
+
+[Female Speaker]
+À ce soir, Jacques. 
+
+[Narrator]
+Ask me what time it is. 
+
+[Male Speaker]
+Quelle heure est-il? 
+
+[Male Speaker]
+Quelle heure est-il s'il vous plaît? 
+
+[Narrator]
+Tell me it's eleven o'clock. 
+
+[Female Speaker]
+Il est onze heures. 
+
+[Female Speaker]
+Onze. 
+
+[Female Speaker]
+Il est onze heures. 
+
+[Narrator]
+Say, "But no, it's eight o'clock."
+
+[Male Speaker]
+Mais non, il est huit heures. 
+
+[Male Speaker]
+Huit. 
+
+[Male Speaker]
+Mais non, il est huit heures. 
+
+[Narrator]
+Ask how much you owe me. 
+
+[Female Speaker]
+Je vous dois combien? 
+
+[Female Speaker]
+Doit. 
+
+[Female Speaker]
+Vous dois. 
+
+[Female Speaker]
+Je vous dois combien? 
+
+[Narrator]
+Say, "Thirteen francs."
+
+[Male Speaker]
+Treize francs. 
+
+[Male Speaker]
+Treize. 
+
+[Narrator]
+Say, "No, twelve."
+
+[Female Speaker]
+Non, douze. 
+
+[Female Speaker]
+Douze. 
+
+[Narrator]
+Ask, "Two or twelve?"
+
+[Male Speaker]
+Deux ou douze? 
+
+[Male Speaker]
+Deux ou douze? 
+
+[Narrator]
+Say, "I don't understand you."
+
+[Male Speaker]
+Je ne vous comprends pas. 
+
+[Male Speaker]
+Comprends pas. 
+
+[Male Speaker]
+Vous comprends pas. 
+
+[Male Speaker]
+Je ne vous comprends pas. 
+
+[Narrator]
+Say, "Listen please."
+
+[Female Speaker]
+Écoutez, s'il vous plaît. 
+
+[Female Speaker]
+Écoutez. 
+
+[Narrator]
+Now take a guess at how to say, "I'm listening."
+
+[Male Speaker]
+J'écoute. 
+
+[Male Speaker]
+Écoute. 
+
+[Male Speaker]
+J'écoute. 
+
+[Narrator]
+Now say, "Repeat please."
+
+[Male Speaker]
+Répétez s'il vous plaît. 
+
+[Male Speaker]
+Répétez. 
+
+[Narrator]
+Try to say, "I'm repeating."
+
+[Female Speaker]
+Je répète. 
+
+[Female Speaker]
+Je répète. 
+
+[Narrator]
+Ask, "When, today?"
+
+[Male Speaker]
+Quand? Aujourd'hui? 
+
+[Male Speaker]
+Aujourd'hui? 
+
+[Narrator]
+Ask, "Or tomorrow?"
+
+[Male Speaker]
+Ou demain? 
+
+[Male Speaker]
+Demain? 
+
+[Male Speaker]
+Ou demain? 
+
+[Narrator]
+Say, "This evening."
+
+[Female Speaker]
+Ce soir. 
+
+[Female Speaker]
+Ce soir. 
+
+[Narrator]
+Say, "Tomorrow evening."
+
+[Male Speaker]
+Demain soir. 
+
+[Male Speaker]
+Demain soir. 
+
+[Narrator]
+Ask, "At what time?"
+
+[Female Speaker]
+À quelle heure? 
+
+[Female Speaker]
+À quelle heure? 
+
+[Narrator]
+Say, "Six o'clock or seven o'clock."
+
+[Male Speaker]
+Six heures ou sept heures. 
+
+[Male Speaker]
+Six heures ou sept heures. 
+
+[Narrator]
+Ask, "Today?"
+
+[Female Speaker]
+Aujourd'hui? 
+
+[Narrator]
+Say, "Not tomorrow evening."
+
+[Female Speaker]
+Pas demain soir. 
+
+[Narrator]
+How do you say "hello" in French?
+
+[Male Speaker]
+Bonjour.
+
+[Narrator]
+What does this mean literally? It means "good day." Now, guess how you would say "good evening."
+
+[Male Speaker]
+Bonsoir. 
+
+[Male Speaker]
+Bonsoir. 
+
+[Narrator]
+How would you tell someone you're feeling okay today? 
+
+[Male Speaker]
+Je vais bien aujourd'hui. 
+
+[Male Speaker]
+Je vais bien aujourd'hui. 
+
+[Narrator]
+Here is how to ask, "How many francs do you have?" 
+
+[French Narrator]
+Écoutez et répétez. 
+
+[Female Speaker]
+Vous avez combien de francs? 
+
+[Female Speaker]
+Vous avez. 
+
+[Female Speaker]
+Vous avez.
+
+[Narrator]
+How do you say, "You have," in French? 
+
+[Female Speaker]
+Vous avez. 
+
+[Narrator]
+Continue repeating. 
+
+[French Narrator]
+Continuez à répéter. 
+
+[French Narrator]
+Continuez à répéter. 
+
+[Female Speaker]
+Combien de francs? 
+
+[Female Speaker]
+Combien de francs? 
+
+[Female Speaker]
+Combien de francs? 
+
+[Narrator]
+Say, "You have how many francs?" 
+
+[Female Speaker]
+Vous avez combien de francs? 
+
+[Female Speaker]
+Vous avez combien de francs? 
+
+[Narrator]
+"I have fourteen francs."
+
+[French Narrator]
+Écoutez et répétez. 
+
+[Male Speaker]
+J'ai quatorze francs. 
+
+[Male Speaker]
+Quatorze. 
+
+[Male Speaker]
+Quatorze. 
+
+[Male Speaker]
+J'ai. 
+
+[Male Speaker]
+J'ai. 
+
+[Male Speaker]
+J'ai quatorze francs. 
+
+[Narrator]
+What's the number "fourteen" in French? 
+
+[Male Speaker]
+Quatorze. 
+
+[Narrator]
+And how do you say "I have"? 
+
+[Male Speaker]
+J'ai. 
+
+[Male Speaker]
+J'ai. 
+
+[Narrator]
+Ask me how many francs I have. 
+
+[Female Speaker]
+Vous avez combien de francs? 
+
+[Female Speaker]
+Vous avez combien de francs? 
+
+[Narrator]
+How many dollars do you have? 
+
+[French Narrator]
+Écoutez et répétez. 
+
+[Female Speaker]
+Vous avez combien de dollars? 
+
+[Female Speaker]
+Dollars. 
+
+[Female Speaker]
+Dollars. 
+
+[Female Speaker]
+Combien de dollars? 
+
+[Female Speaker]
+Combien de dollars? 
+
+[Female Speaker]
+Combien de dollars? 
+
+[Narrator]
+Ask me how many dollars I have. 
+
+[Female Speaker]
+Vous avez combien de dollars? 
+
+[Narrator]
+Notice particularly that you're saying "combien de dollars" but that the "de" almost gets lost. Listen again and repeat. 
+
+[Female Speaker]
+Vous avez combien de dollars? 
+
+[Female Speaker]
+Vous avez combien de dollars? 
+
+[Narrator]
+Answer, "I have fourteen dollars."
+
+[Male Speaker]
+J'ai quatorze dollars. 
+
+[Male Speaker]
+J'ai quatorze dollars. 
+
+[Narrator]
+"I have fifteen dollars."
+
+[French Narrator]
+Écoutez et répétez. 
+
+[Male Speaker]
+J'ai quinze dollars. 
+
+[Male Speaker]
+Quinze. 
+
+[Male Speaker]
+Quinze. 
+
+[Narrator]
+Ask me how many francs I have. 
+
+[Female Speaker]
+Vous avez combien de francs? 
+
+[Narrator]
+Say, "Fifteen."
+
+[Male Speaker]
+Quinze. 
+
+[Narrator]
+Say, "And fourteen dollars." 
+
+[Male Speaker]
+Et quatorze dollars. 
+
+[Narrator]
+"Have you got sixteen francs?"
+
+[French Narrator]
+Écoutez et répétez. 
+
+[Female Speaker]
+Est-ce que vous avez seize francs? 
+
+[Female Speaker]
+Seize. 
+
+[Female Speaker]
+Seize. 
+
+[Narrator]
+Ask me if I have sixteen francs. 
+
+[Female Speaker]
+Est-ce que vous avez seize francs? 
+
+[Female Speaker]
+Est-ce que vous avez seize francs? 
+
+[Narrator]
+Say, "No, I have thirteen francs." 
+
+[Male Speaker]
+Non, j'ai treize francs. 
+
+[Male Speaker]
+Treize. 
+
+[Narrator]
+Say, "But I have fifteen dollars." 
+
+[Male Speaker]
+Mais j'ai quinze dollars. 
+
+[Male Speaker]
+Mais j'ai quinze dollars. 
+
+[Narrator]
+Ask, "You haven't got sixteen dollars?" 
+
+[Female Speaker]
+Vous n'avez pas seize dollars? 
+
+[Female Speaker]
+Vous n'avez pas seize dollars? 
+
+[Narrator]
+Ask the saleswoman how much you owe. 
+
+[Male Speaker]
+Je vous dois combien, Madame? 
+
+[Male Speaker]
+Je vous dois combien, Madame? 
+
+[Narrator]
+She says, "Fifteen franc, sir." 
+
+[Female Speaker]
+Quinze francs, Monsieur.
+
+[Narrator]
+And in dollars? 
+
+[French Narrator]
+Écoutez et répétez. 
+
+[Male Speaker]
+Et en dollars? 
+
+[Male Speaker]
+En. 
+
+[Male Speaker]
+En. 
+
+[Male Speaker]
+En dollars. 
+
+[Male Speaker]
+En dollars. 
+
+[Narrator]
+Say, "In dollars." 
+
+[Female Speaker]
+En dollars. 
+
+[Narrator]
+Now say, "In francs." 
+
+[Female Speaker]
+En francs. 
+
+[Narrator]
+Say, "Fourteen francs, please."
+
+[Female Speaker]
+Quatorze francs, s'il vous plaît. 
+
+[Narrator]
+Say, "I have ten dollars."
+
+[Male Speaker]
+J'ai dix dollars. 
+
+[Narrator]
+Ask, "Have you got five dollars?"
+
+[Female Speaker]
+Est-ce que vous avez cinq dollars? 
+
+[Female Speaker]
+Cinq dollars. 
+
+[Female Speaker]
+Cinq dollars. 
+
+[Narrator]
+Ask how much you owe. 
+
+[Male Speaker]
+Je vous dois combien? 
+
+[Narrator]
+Say, "In francs, it's fifteen francs."
+
+[Female Speaker]
+En francs, c'est quinze francs. 
+
+[Female Speaker]
+En francs, c'est quinze francs. 
+
+[Narrator]
+Ask, "And in dollars?" 
+
+[Male Speaker]
+Et en dollars? 
+
+[Narrator]
+Say,"It's five dollars sir."
+
+[Female Speaker]
+C'est cinq dollars, Monsieur. 
+
+[Female Speaker]
+C'est cinq dollars, Monsieur. 
+
+[Narrator]
+Say, "I don't have sixteen francs."
+
+[Male Speaker]
+Je n'ai pas seize francs. 
+
+[Male Speaker]
+Je n'ai pas seize francs. 
+
+[Narrator]
+Say, "I have fourteen francs."
+
+[Male Speaker]
+J'ai quatorze francs. 
+
+[Male Speaker]
+J'ai quatorze francs. 
+
+[Narrator]
+Say, "But not fifteen."
+
+[Male Speaker]
+Mais pas quinze. 
+
+[Male Speaker]
+Mais pas quinze. 
+
+[Narrator]
+Say, "Well then, it's fourteen francs."
+
+[Female Speaker]
+Alors, c'est quatorze francs. 
+
+[Female Speaker]
+Alors. 
+
+[Female Speaker]
+Alors. 
+
+[Female Speaker]
+Alors, c'est quatorze francs, Monsieur. 
+
+[Narrator]
+Say, "Thank you, ma'am. Good evening."
+
+[Male Speaker]
+Merci, Madame. Bonsoir. 
+
+[Narrator]
+Now it's time for a discussion with the saleswoman again. 
+
+[French Narrator]
+Vous allez parler avec la vendeuse. 
+
+[Male Speaker]
+La vendeuse. 
+
+[Narrator]
+The saleswoman. 
+
+[French Narrator]
+Vous allez parler avec la vendeuse. 
+
+[Narrator]
+Ask her how much you owe her. 
+
+[Male Speaker]
+Je vous dois combien? 
+
+[Male Speaker]
+Je vous dois combien? 
+
+[Narrator]
+How does she tell you "eleven francs"? 
+
+[Female Speaker]
+Onze francs. 
+
+[Female Speaker]
+Vous me devez onze francs. 
+
+[Female Speaker]
+Me devez. 
+
+[Female Speaker]
+Vous me devez onze francs. 
+
+[Narrator]
+How do you say "I owe" in French? 
+
+[Male Speaker]
+Je dois. 
+
+[Narrator]
+And how do you say "You owe"? 
+
+[Female Speaker]
+Vous devez. 
+
+[Female Speaker]
+Vous devez. 
+
+[Narrator]
+Now she's going to add a franc or two at a time to the price. Every time she says a number, you add it on and say the total. 
+
+[Female Speaker]
+Vous me devez onze francs et un franc. 
+
+[Male Speaker]
+Douze francs. 
+
+[Male Speaker]
+Je vous dois douze francs? 
+
+[Female Speaker]
+Oui, douze francs et deux francs. 
+
+[Male Speaker]
+Douze et deux, je vous dois quatorze francs. 
+
+[Female Speaker]
+Oui, et un franc, s'il vous plaît. 
+
+[Male Speaker]
+Alors, quatorze et un franc. 
+
+[Male Speaker]
+Je vous dois quinze francs alors. 
+
+[Female Speaker]
+Oui, quinze francs et un. 
+
+[Male Speaker]
+Maintenant, je vous dois seize francs, Madame. 
+
+[Female Speaker]
+D'accord, vous me devez seize francs. 
+
+[Female Speaker]
+Est-ce que vous avez seize francs? 
+
+[Narrator]
+Tell her you don't have any francs. 
+
+[Male Speaker]
+Je n'ai pas deux francs.
+
+[Male Speaker]
+Pas de francs. 
+
+[Male Speaker]
+Je n'ai pas de francs. 
+
+[Narrator]
+Ask, "And in dollars?"
+
+[Male Speaker]
+Et en dollars? 
+
+[Male Speaker]
+Et en dollars? 
+
+[Female Speaker]
+D'accord. Vous avez combien de dollars? 
+
+[Narrator]
+Tell her you have fifteen dollars. 
+
+[Male Speaker]
+J'ai quinze dollars. 
+
+[Narrator]
+Ask, "How many dollars do you want?"
+
+[Male Speaker]
+Vous voulez combien de dollars? 
+
+[Male Speaker]
+Vous voulez combien de dollars? 
+
+[Narrator]
+How does she say, "You owe me ten dollars"? 
+
+[Female Speaker]
+Vous me devez dix dollars. 
+
+[Female Speaker]
+Vous me devez dix dollars. 
+
+[Narrator]
+Repeat the answer you hear. 
+
+[Male Speaker]
+Voilà. 
+
+[Male Speaker]
+Voilà dix dollars, Mademoiselle. 
+
+[Narrator]
+Now, imagine you're in a French café. You're going to talk to the man behind the counter. 
+
+[French Narrator]
+Maintenant, imaginez que vous êtes dans un café en France. Vous allez parler avec le barman. 
+
+[Narrator]
+Ask me to repeat what I just said. 
+
+[Female Speaker]
+Comment? Je ne vous comprends pas, Monsieur. Répétez s'il vous plaît. 
+
+[French Narrator]
+Imaginez maintenant que vous êtes dans un café en France. Vous allez parler avec le barman. Écoutez. 
+
+[Male Speaker]
+Bonsoir. Qu'est-ce que vous voudriez boire? 
+
+[Narrator]
+Say you would like a beer. 
+
+[Female Speaker]
+Je voudrais une bière, s'il vous plaît. 
+
+[Female Speaker]
+Une bière. 
+
+[Male Speaker]
+Est-ce que vous voudriez une ou deux? 
+
+[Male Speaker]
+Une ou deux? 
+
+[Female Speaker]
+Une. Une bière, s'il vous plaît. 
+
+[Male Speaker]
+Très bien. Voilà une bière. 
+
+[Narrator]
+Ask him how much it is. 
+
+[Female Speaker]
+C'est combien? 
+
+[Female Speaker]
+Je vous dois combien? 
+
+[Female Speaker]
+C'est combien, s'il vous plaît? 
+
+[Male Speaker]
+C'est douze francs. 
+
+[Narrator]
+Tell him you haven't any francs. 
+
+[Female Speaker]
+Je n'ai pas de francs. 
+
+[Female Speaker]
+Pas de francs. 
+
+[Female Speaker]
+Je n'ai pas de francs. 
+
+[Narrator]
+Ask him how much it is in dollars. 
+
+[Female Speaker]
+En dollars, c'est combien? 
+
+[Female Speaker]
+C'est combien en dollars? 
+
+[Male Speaker]
+En dollars? Je ne sais pas, moi. 
+
+[Narrator]
+Tell him that you know. 
+
+[Female Speaker]
+Moi, je sais. 
+
+[Narrator]
+Tell him you have fifteen dollars. 
+
+[Female Speaker]
+J'ai quinze dollars. 
+
+[Female Speaker]
+J'ai quinze dollars. 
+
+[Narrator]
+And tell him you'd like five beers. 
+
+[Female Speaker]
+Et je voudrais cinq bières. 
+
+[Male Speaker]
+D'accord. Voilà cinq bières. Voilà. 
+
+[Narrator]
+This is the end of today's lesson. When you continue with the next unit tomorrow, please begin with track number two.
