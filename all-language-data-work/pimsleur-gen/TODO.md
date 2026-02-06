@@ -82,23 +82,21 @@ The Pimsleur method has been reverse engineered for Level 1 across 7 languages:
 
 ### High Priority
 
-1. **Cross-level understanding** ✅ STARTED → `CROSS_LEVEL_ANALYSIS.md`
-   - Current model only describes Level 1 (the bootstrapping protocol)
-   - Levels 2-5 operate in a different mode (scaffolding → immersion)
+1. **Cross-level understanding** ✅ DONE → `CROSS_LEVEL_ANALYSIS.md`
+   - Three-stage system: Bootstrap → Scaffold → Immersion
    - Four-phase structure and L22 flip do NOT repeat in higher levels
    - Backchaining essentially disappears after Level 1
 
-2. **Cross-level vocabulary tracking**
-   - Extract vocabulary lists from all 5 level transcripts
-   - Track overlap between consecutive levels
-   - Identify "permanent" vocabulary that persists across all levels
-   - Quantify total unique words per level
+2. **Cross-level vocabulary tracking** ✅ DONE → `scripts/extract_vocabulary.py`
+   - 370 words persist across ALL 5 levels (permanent core)
+   - ~54-65% carryover between consecutive levels
+   - Cumulative growth: 1,080 → 1,880 → 2,515 → 3,842 → 5,375
 
-3. **Grammar staircase formalization**
-   - Map grammar structures to specific levels across all 5
-   - When introduced vs when "mastered" (used without English prompting)
-   - Map to CEFR expectations
-   - Determine what's universal vs language-specific
+3. **Grammar staircase formalization** ✅ DONE → `GRAMMAR_STAIRCASE.md`
+   - Complete matrix of grammar structures across all 5 levels
+   - CEFR mapping for each structure
+   - 7 "handle constructions" identified as curriculum drivers
+   - Cross-referenced with Speak and Duolingo data
 
 ### Medium Priority
 

@@ -267,20 +267,32 @@ The current cross-language verification (7 languages) only covers Level 1. But L
 
 ## Recommendations for Next Steps
 
-### Priority 1: Cross-Level Vocabulary Tracking
+### Priority 1: Cross-Level Vocabulary Tracking -- DONE
 
-Extract vocabulary lists from all 5 level transcripts and track:
-- Total unique words per level
-- Overlap between consecutive levels (how much L1 vocab appears in L2?)
-- Introduction rate curves
-- Which words from L1 are truly "permanent" (appear in all levels)
+See `scripts/extract_vocabulary.py` for the extraction tool. Key findings:
 
-### Priority 2: Grammar Staircase Formalization
+| Level | Unique Words | New Words | Cumulative Total |
+|-------|-------------|-----------|-----------------|
+| L1 | ~1,080 | 1,080 | 1,080 |
+| L2 | ~1,385 | 800 | 1,880 |
+| L3 | ~1,600 | 635 | 2,515 |
+| L4 | ~2,374 | 1,327 | 3,842 |
+| L5 | ~3,177 | 1,533 | 5,375 |
 
-Create a formal matrix mapping grammar structures to levels:
-- When is each structure introduced?
-- When is it considered "mastered" (used without English prompting)?
-- How does this map to CEFR expectations?
+- **370 words persist across ALL 5 levels** (the permanent core vocabulary)
+- **~54-65% carryover** between consecutive levels
+- Vocabulary roughly doubles from L1→L5
+- Level 4 and 5 show the biggest jumps (immersion mode = more words per lesson)
+- Note: Counts include some noise from English words in STT transcripts
+
+### Priority 2: Grammar Staircase Formalization -- DONE
+
+See `GRAMMAR_STAIRCASE.md` for the complete matrix. Key findings:
+
+- Verb tenses follow a strict staircase: present → polite conditional → futur proche → passé composé → imparfait → futur simple → subjunctive → conditionnel passé
+- Subjunctive is the "climax" structure -- introduced at L3, becomes the major drilling focus of L4 (28+ instances of "il faut que"), expanded at L5
+- 7 "handle constructions" drive the entire curriculum (je voudrais +, est-ce que +, je vais +, il faut +, il faut que +, si + imparfait →, j'aurais +)
+- Pronoun system expands steadily: subject → stressed → object → adverbial → relative → possessive → double
 
 ### Priority 3: Simplified Drill Structure for Levels 2-5
 
