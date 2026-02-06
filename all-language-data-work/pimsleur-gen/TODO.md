@@ -1,6 +1,6 @@
 # Pimsleur Reverse Engineering - Status
 
-**Last updated:** December 31, 2025
+**Last updated:** February 6, 2026
 
 ---
 
@@ -40,9 +40,22 @@ We have a **testable Pimsleur model** that predicts course structure. Verified a
 
 ---
 
-## Reverse Engineering: COMPLETE ✅
+## Critical Gap Identified: Level 1 Only ⚠️
 
-The Pimsleur method has been fully reverse engineered across 7 languages:
+All analysis below covers **Level 1 only** (30 of 150 total lessons). The model, tests, and algorithms describe the *bootstrapping protocol* for beginners. Levels 2-5 operate differently:
+
+- Four-phase structure (Foundation/Multimodal/Flip/Register) is **Level 1 only** -- does NOT repeat
+- L22 instruction flip is **Level 1 only** -- Level 2+ uses French instructions from Unit 1
+- Heavy backchaining is **Level 1 only** -- essentially disappears by Level 2
+- The system is actually a three-stage progression: Bootstrap (L1 early) → Scaffold (L1 late + L2) → Immersion (L3-5)
+
+See `CROSS_LEVEL_ANALYSIS.md` for full findings.
+
+---
+
+## Reverse Engineering: Level 1 COMPLETE ✅ | Levels 2-5: GAPS IDENTIFIED
+
+The Pimsleur method has been reverse engineered for Level 1 across 7 languages:
 
 ### Core Algorithms (Formalized with Tests)
 
@@ -67,21 +80,47 @@ The Pimsleur method has been fully reverse engineered across 7 languages:
 
 ## What's Needed for GENERATION (Next Phase)
 
+### High Priority
+
+1. **Cross-level understanding** ✅ STARTED → `CROSS_LEVEL_ANALYSIS.md`
+   - Current model only describes Level 1 (the bootstrapping protocol)
+   - Levels 2-5 operate in a different mode (scaffolding → immersion)
+   - Four-phase structure and L22 flip do NOT repeat in higher levels
+   - Backchaining essentially disappears after Level 1
+
+2. **Cross-level vocabulary tracking**
+   - Extract vocabulary lists from all 5 level transcripts
+   - Track overlap between consecutive levels
+   - Identify "permanent" vocabulary that persists across all levels
+   - Quantify total unique words per level
+
+3. **Grammar staircase formalization**
+   - Map grammar structures to specific levels across all 5
+   - When introduced vs when "mastered" (used without English prompting)
+   - Map to CEFR expectations
+   - Determine what's universal vs language-specific
+
 ### Medium Priority
 
-1. **Vocabulary selection principles**
-   - We have 271 French words. Why these words?
+4. **Vocabulary selection principles**
+   - We have 271 French words for Level 1. Why these words?
    - Compare to frequency lists
    - Identify selection criteria
 
-2. **Build generator prototype**
-   - Input: vocabulary list, grammar points
+5. **Simplified drill structure for Levels 2-5**
+   - The 8-phase drill model is Level 1 specific
+   - Document the simpler structure used in later levels
+   - More roleplay, longer conversations, less breakdown
+
+6. **Build generator prototype**
+   - Input: vocabulary list, grammar points, target level
    - Output: lesson structure with scaffolding schedule
+   - Must handle different modes: bootstrap (L1) vs scaffold (L2) vs immersion (L3-5)
    - Use spaced_repetition.py and drill_patterns.py
 
 ### Low Priority
 
-3. **Effectiveness testing**
+7. **Effectiveness testing**
    - Do generated lessons actually teach?
    - User testing required
 
@@ -109,8 +148,9 @@ cat data/french_lesson_metrics.json | python -m json.tool | head -100
 
 ```
 pimsleur-gen/
-├── PIMSLEUR_MODEL.md          # Key doc: 11 testable predictions
-├── RESEARCH_FINDINGS.md       # Detailed French evidence
+├── PIMSLEUR_MODEL.md          # Key doc: 11 testable predictions (Level 1 only)
+├── CROSS_LEVEL_ANALYSIS.md    # NEW: What changes from Level 1 to Level 5
+├── RESEARCH_FINDINGS.md       # Detailed French Level 1 evidence
 ├── TODO.md                    # This file
 ├── data/
 │   └── french_lesson_metrics.json  # Ground truth metrics

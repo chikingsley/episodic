@@ -4,13 +4,18 @@
 
 Understand how Pimsleur structures their language lessons so we can generate custom lessons with personalized topics.
 
-**The simple question**: What happens in a Pimsleur lesson, minute by minute, and how does that change from Lesson 1 to Lesson 30?
+**The simple question**: What happens in a Pimsleur lesson, minute by minute, and how does that change from Lesson 1 to Lesson 150?
 
-## Current Status (Dec 2025)
+## Current Status (Feb 2026)
 
-**Model validated across ALL 7 languages.** We have 11 testable predictions verified with 135 passing tests.
+**Level 1 model validated across ALL 7 languages.** 11 testable predictions verified with 167 passing tests.
 
-**Key document:** `PIMSLEUR_MODEL.md` - Contains testable predictions with verification status.
+**Critical finding:** All analysis covers Level 1 only (30 of 150 total lessons). Levels 2-5 operate in a fundamentally different mode. The four-phase structure, L22 instruction flip, and heavy backchaining are Level 1-specific bootstrapping patterns that do NOT repeat in later levels. The real system is a three-stage progression: Bootstrap → Scaffold → Immersion.
+
+**Key documents:**
+- `PIMSLEUR_MODEL.md` - Testable predictions (Level 1 only)
+- `CROSS_LEVEL_ANALYSIS.md` - What changes from Level 1 to Level 5
+- `VALIDATION_SCORECARD.md` - Test results and confidence levels
 
 ### The Pimsleur Model (Verified Across 7 Languages)
 
@@ -35,8 +40,10 @@ Understand how Pimsleur structures their language lessons so we can generate cus
 
 ```text
 pimsleur-gen/
-├── PIMSLEUR_MODEL.md              # KEY DOC: Testable predictions (11 predictions)
-├── RESEARCH_FINDINGS.md           # Detailed French evidence
+├── PIMSLEUR_MODEL.md              # Testable predictions (Level 1 only, 11 predictions)
+├── CROSS_LEVEL_ANALYSIS.md        # What changes from Level 1 to Level 5
+├── RESEARCH_FINDINGS.md           # Detailed French Level 1 evidence
+├── VALIDATION_SCORECARD.md        # Test results and confidence levels
 ├── TODO.md                        # Current roadmap
 ├── data/
 │   └── french_lesson_metrics.json # Ground truth metrics (30 lessons)
@@ -62,7 +69,7 @@ pimsleur-gen/
 ## Commands
 
 ```bash
-# Run all 135 tests
+# Run all 167 tests
 uv run pytest
 
 # Run linting
@@ -97,6 +104,8 @@ class Lesson:
 ## What's Next
 
 See `TODO.md` for detailed roadmap. Main gaps:
-1. **Vocabulary selection principles** - Why these 271 words?
-2. **Drill pattern formalization** - Exact sequence structure
-3. **Generator prototype** - Apply model to generate lessons
+1. **Cross-level vocabulary tracking** - Extract and compare word lists across all 5 levels
+2. **Grammar staircase formalization** - Map structures to levels, determine what's universal vs language-specific
+3. **Simplified drill model for Levels 2-5** - The 8-phase model is Level 1 only
+4. **Generator prototype** - Must handle bootstrap/scaffold/immersion modes
+5. **Vocabulary selection principles** - Why these 271 words in Level 1?
