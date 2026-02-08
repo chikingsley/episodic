@@ -8,13 +8,16 @@ Understand how Pimsleur structures their language lessons so we can generate cus
 
 ## Current Status (Feb 2026)
 
-**Level 1 model validated across ALL 7 languages.** 11 testable predictions verified with 167 passing tests.
+**Level 1 model validated across ALL 7 languages.** 11 testable predictions verified with 220 passing tests.
 
 **Critical finding:** All analysis covers Level 1 only (30 of 150 total lessons). Levels 2-5 operate in a fundamentally different mode. The four-phase structure, L22 instruction flip, and heavy backchaining are Level 1-specific bootstrapping patterns that do NOT repeat in later levels. The real system is a three-stage progression: Bootstrap → Scaffold → Immersion.
 
 **Key documents:**
 - `PIMSLEUR_MODEL.md` - Testable predictions (Level 1 only)
 - `CROSS_LEVEL_ANALYSIS.md` - What changes from Level 1 to Level 5
+- `GRAMMAR_STAIRCASE.md` - Grammar progression all 5 levels with CEFR mapping
+- `VOCABULARY_SELECTION.md` - 10 vocabulary selection principles + cross-method comparison
+- `DRILL_STRUCTURE_L2_L5.md` - How the 8-phase drill model simplifies across levels
 - `VALIDATION_SCORECARD.md` - Test results and confidence levels
 
 ### The Pimsleur Model (Verified Across 7 Languages)
@@ -42,6 +45,9 @@ Understand how Pimsleur structures their language lessons so we can generate cus
 pimsleur-gen/
 ├── PIMSLEUR_MODEL.md              # Testable predictions (Level 1 only, 11 predictions)
 ├── CROSS_LEVEL_ANALYSIS.md        # What changes from Level 1 to Level 5
+├── GRAMMAR_STAIRCASE.md           # Grammar progression all 5 levels
+├── VOCABULARY_SELECTION.md        # 10 vocabulary selection principles
+├── DRILL_STRUCTURE_L2_L5.md       # Drill model simplification L2-L5
 ├── RESEARCH_FINDINGS.md           # Detailed French Level 1 evidence
 ├── VALIDATION_SCORECARD.md        # Test results and confidence levels
 ├── TODO.md                        # Current roadmap
@@ -50,10 +56,13 @@ pimsleur-gen/
 ├── src/
 │   ├── models.py                  # Pydantic models (Lesson, Utterance)
 │   ├── parser.py                  # Parse transcripts into models
-│   └── spaced_repetition.py       # Formalized SRS algorithm (NEW)
-├── tests/                         # 135 tests
+│   ├── spaced_repetition.py       # Formalized SRS algorithm
+│   ├── drill_patterns.py          # 8-phase drill structure (Level 1)
+│   └── generator.py              # Course generator prototype
+├── tests/                         # 220 tests
 │   ├── test_cross_language.py     # 50 tests for 7-language verification
 │   ├── test_spaced_repetition.py  # 30 tests for SRS algorithm
+│   ├── test_generator.py          # 53 tests for course generator
 │   └── ...
 ├── research-data/                 # 7 languages (210 lessons)
 │   ├── french/                    # 30 timestamped transcripts
@@ -69,7 +78,7 @@ pimsleur-gen/
 ## Commands
 
 ```bash
-# Run all 167 tests
+# Run all 220 tests
 uv run pytest
 
 # Run linting
@@ -103,9 +112,14 @@ class Lesson:
 
 ## What's Next
 
-See `TODO.md` for detailed roadmap. Main gaps:
-1. **Cross-level vocabulary tracking** - Extract and compare word lists across all 5 levels
-2. **Grammar staircase formalization** - Map structures to levels, determine what's universal vs language-specific
-3. **Simplified drill model for Levels 2-5** - The 8-phase model is Level 1 only
-4. **Generator prototype** - Must handle bootstrap/scaffold/immersion modes
-5. **Vocabulary selection principles** - Why these 271 words in Level 1?
+See `TODO.md` for detailed roadmap. Completed:
+1. ✅ Cross-level understanding → `CROSS_LEVEL_ANALYSIS.md`
+2. ✅ Cross-level vocabulary tracking → `scripts/extract_vocabulary.py`
+3. ✅ Grammar staircase → `GRAMMAR_STAIRCASE.md`
+4. ✅ Vocabulary selection principles → `VOCABULARY_SELECTION.md`
+5. ✅ Simplified drill model for L2-5 → `DRILL_STRUCTURE_L2_L5.md`
+
+6. ✅ Generator prototype → `src/generator.py` (53 tests)
+
+Remaining:
+7. **Effectiveness testing** - Do generated lessons actually teach? (requires human learners)
