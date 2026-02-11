@@ -1,6 +1,6 @@
 # Pimsleur Reverse Engineering - Status
 
-**Last updated:** December 31, 2025
+**Last updated:** February 8, 2026
 
 ---
 
@@ -17,7 +17,7 @@ We have a **testable Pimsleur model** that predicts course structure. Verified a
 | Component | Status | File |
 |-----------|--------|------|
 | 11 testable predictions | ✅ Verified (7 languages) | `PIMSLEUR_MODEL.md` |
-| 167 passing tests | ✅ Complete | `tests/` |
+| 220 passing tests | ✅ Complete | `tests/` |
 | Cross-language verification | ✅ Complete (50 tests) | `tests/test_cross_language.py` |
 | Spaced repetition algorithm | ✅ Formalized (30 tests) | `src/spaced_repetition.py` |
 | Drill patterns | ✅ Formalized (32 tests) | `src/drill_patterns.py` |
@@ -40,9 +40,22 @@ We have a **testable Pimsleur model** that predicts course structure. Verified a
 
 ---
 
-## Reverse Engineering: COMPLETE ✅
+## Critical Gap Identified: Level 1 Only ⚠️
 
-The Pimsleur method has been fully reverse engineered across 7 languages:
+All analysis below covers **Level 1 only** (30 of 150 total lessons). The model, tests, and algorithms describe the *bootstrapping protocol* for beginners. Levels 2-5 operate differently:
+
+- Four-phase structure (Foundation/Multimodal/Flip/Register) is **Level 1 only** -- does NOT repeat
+- L22 instruction flip is **Level 1 only** -- Level 2+ uses French instructions from Unit 1
+- Heavy backchaining is **Level 1 only** -- essentially disappears by Level 2
+- The system is actually a three-stage progression: Bootstrap (L1 early) → Scaffold (L1 late + L2) → Immersion (L3-5)
+
+See `CROSS_LEVEL_ANALYSIS.md` for full findings.
+
+---
+
+## Reverse Engineering: Level 1 COMPLETE ✅ | Levels 2-5: GAPS IDENTIFIED
+
+The Pimsleur method has been reverse engineered for Level 1 across 7 languages:
 
 ### Core Algorithms (Formalized with Tests)
 
@@ -67,30 +80,60 @@ The Pimsleur method has been fully reverse engineered across 7 languages:
 
 ## What's Needed for GENERATION (Next Phase)
 
-### Medium Priority
+### High Priority
 
-1. **Vocabulary selection principles**
-   - We have 271 French words. Why these words?
-   - Compare to frequency lists
-   - Identify selection criteria
+1. **Cross-level understanding** ✅ DONE → `CROSS_LEVEL_ANALYSIS.md`
+   - Three-stage system: Bootstrap → Scaffold → Immersion
+   - Four-phase structure and L22 flip do NOT repeat in higher levels
+   - Backchaining essentially disappears after Level 1
 
-2. **Build generator prototype**
-   - Input: vocabulary list, grammar points
-   - Output: lesson structure with scaffolding schedule
-   - Use spaced_repetition.py and drill_patterns.py
+2. **Cross-level vocabulary tracking** ✅ DONE → `scripts/extract_vocabulary.py`
+   - 370 words persist across ALL 5 levels (permanent core)
+   - ~54-65% carryover between consecutive levels
+   - Cumulative growth: 1,080 → 1,880 → 2,515 → 3,842 → 5,375
 
-### Low Priority
+3. **Grammar staircase formalization** ✅ DONE → `GRAMMAR_STAIRCASE.md`
+   - Complete matrix of grammar structures across all 5 levels
+   - CEFR mapping for each structure
+   - 7 "handle constructions" identified as curriculum drivers
+   - Cross-referenced with Speak and Duolingo data
 
-3. **Effectiveness testing**
+4. **Vocabulary selection principles** ✅ DONE → `VOCABULARY_SELECTION.md`
+   - 10 selection principles identified (meta-communication first, formal register, function over frequency, handle-construction-driven, conversation-embeddable, progressive context, numbers as infrastructure, grammar through vocabulary, cognitive load management, cultural appropriateness)
+   - 285 items categorized by theme across 30 lessons
+   - Cross-method comparison: Pimsleur vs Speak vs Duolingo vocabulary priorities
+   - Actionable framework for vocabulary selection in new languages
+
+5. **Simplified drill structure for Levels 2-5** ✅ DONE → `DRILL_STRUCTURE_L2_L5.md`
+   - L1: 8-phase model (full breakdown/backchain/reconstruct)
+   - L2: 4-phase scaffold (conversation → highlight → drill-cycle → scenario)
+   - L3: 3-phase immersion (conversation → drill-cycle → scenarios)
+   - L4: 2-phase advanced (conversation → drill-scenario merged)
+   - L5: 1-phase near-native (immersive practice, drill=conversation)
+   - Constants identified: opening conversation, prompt-pause-confirm, SRS, scenarios, 30min
+
+6. **Build generator prototype** ✅ DONE → `src/generator.py` (53 tests)
+   - `CourseGenerator` class: vocabulary list + target level → full course plan
+   - Three teaching modes: Bootstrap (L1) → Scaffold (L2) → Immersion (L3-5)
+   - Five drill modes: 8-phase → 4-phase → 3-phase → 2-phase → 1-phase
+   - SRS integration via `spaced_repetition.py` for review scheduling
+   - Vocabulary assignment by theme following progressive context expansion
+   - English instruction %, backchaining count, reading section curves per level
+   - Sample French L1 vocabulary (~54 items) for demonstration
+
+### Remaining
+
+7. **Effectiveness testing**
    - Do generated lessons actually teach?
    - User testing required
+   - **Low priority** — requires actual human learners
 
 ---
 
 ## Quick Reference
 
 ```bash
-# Run all 167 tests
+# Run all 220 tests
 uv run pytest
 
 # Run linting
@@ -109,8 +152,12 @@ cat data/french_lesson_metrics.json | python -m json.tool | head -100
 
 ```
 pimsleur-gen/
-├── PIMSLEUR_MODEL.md          # Key doc: 11 testable predictions
-├── RESEARCH_FINDINGS.md       # Detailed French evidence
+├── PIMSLEUR_MODEL.md          # Key doc: 11 testable predictions (Level 1 only)
+├── CROSS_LEVEL_ANALYSIS.md    # What changes from Level 1 to Level 5
+├── GRAMMAR_STAIRCASE.md       # Grammar progression across all 5 levels
+├── VOCABULARY_SELECTION.md    # 10 vocabulary selection principles
+├── DRILL_STRUCTURE_L2_L5.md   # How drill model simplifies L2-L5
+├── RESEARCH_FINDINGS.md       # Detailed French Level 1 evidence
 ├── TODO.md                    # This file
 ├── data/
 │   └── french_lesson_metrics.json  # Ground truth metrics
@@ -118,11 +165,13 @@ pimsleur-gen/
 │   ├── models.py              # Pydantic models (Lesson, Utterance)
 │   ├── parser.py              # Transcript parser
 │   ├── spaced_repetition.py   # Formalized SRS algorithm (30 tests)
-│   └── drill_patterns.py      # 8-phase drill structure (32 tests)
+│   ├── drill_patterns.py      # 8-phase drill structure (32 tests)
+│   └── generator.py           # Course generator prototype (53 tests)
 ├── tests/
 │   ├── test_cross_language.py     # 50 tests for 7-language verification
 │   ├── test_spaced_repetition.py  # 30 tests for SRS algorithm
 │   ├── test_drill_patterns.py     # 32 tests for drill patterns
+│   ├── test_generator.py          # 53 tests for course generator
 │   ├── test_real_data.py          # French transcript tests
 │   ├── test_parser.py             # Parser tests
 │   └── test_models.py             # Model tests
