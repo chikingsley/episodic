@@ -1,0 +1,20 @@
+services:
+  pronunciation-lab:
+    build: .
+    container_name: pronunciation-lab
+    restart: unless-stopped
+    ports:
+      - "7870:7870"
+    volumes:
+      - hf-cache:/cache/huggingface
+    deploy:
+      resources:
+        reservations:
+          devices:
+            - driver: nvidia
+              count: 1
+              capabilities: [gpu]
+
+volumes:
+  hf-cache:
+    driver: local
