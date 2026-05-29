@@ -21,6 +21,18 @@ poetry.lock
 # IDE
 .vscode/
 .cursor/
+.claude/settings.local.json
+
+# Secrets / env
+.env
+.env.local
+.env.*.local
+.dev.vars
+*.key
+*.pem
 
 # Test/scratch
 z-test/
+
+# Embedded git repo (separate project: github.com/chikingsley/interrogation-unfold)
+planning/planning-v4/game-analyses/interrogation-analysis/interrogation-unfold/
