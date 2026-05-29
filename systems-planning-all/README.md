@@ -26,6 +26,8 @@ This folder contains the complete implementation-ready framework for Dark Mallar
 - `11_social_dynamics_story_integration_v1.md` - Relationship system in story
 - `12_spaced_repetition_story_emergence_v1.md` - Review through narrative
 - `13_cross_system_integration_examples_v1.md` - All systems working together
+- `14_product_note_language_is_the_game_v1.md` - Product direction for the speech-performance MVP
+- `15_core_form_v1.md` - Genre/form lock for rehearsal plus stateful dialogue encounters
 
 ## Major Changes in This Version
 
