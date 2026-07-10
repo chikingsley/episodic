@@ -1,4 +1,4 @@
-import { useMemo, useState } from 'react'
+import { useEffect, useMemo, useRef, useState } from 'react'
 import './App.css'
 import {
   INITIAL_STATE,
@@ -19,7 +19,17 @@ type LogEntry = {
   translation: string
 }
 
-function Portrait({ mood }: { mood: Mood }) {
+const LOCAL_ASSET_ROOT = '/interrogation-local'
+
+const RECOVERED_ANIMATIONS: Record<Mood, { name: string; frames: number; fps: number }> = {
+  neutral: { name: 'diana_idle', frames: 12, fps: 3 },
+  guarded: { name: 'diana_defense', frames: 15, fps: 4 },
+  irritated: { name: 'diana_disgust', frames: 11, fps: 5 },
+  surprised: { name: 'diana_weird', frames: 12, fps: 5 },
+  softened: { name: 'diana_smile', frames: 10, fps: 5 },
+}
+
+function FallbackPortrait({ mood }: { mood: Mood }) {
   const mouth = {
     neutral: 'M 144 164 Q 160 167 176 164',
     guarded: 'M 145 166 Q 160 161 175 166',
@@ -71,6 +81,32 @@ function Portrait({ mood }: { mood: Mood }) {
   )
 }
 
+function RecoveredPortrait({ mood }: { mood: Mood }) {
+  const animation = RECOVERED_ANIMATIONS[mood]
+  const [frame, setFrame] = useState(0)
+  const [available, setAvailable] = useState(true)
+
+  useEffect(() => {
+    setFrame(0)
+    const timer = window.setInterval(
+      () => setFrame((value) => (value + 1) % animation.frames),
+      1000 / animation.fps,
+    )
+    return () => window.clearInterval(timer)
+  }, [animation])
+
+  if (!available) return <FallbackPortrait mood={mood} />
+
+  return (
+    <img
+      className="recovered-portrait"
+      src={`${LOCAL_ASSET_ROOT}/diana/${animation.name}/${String(frame).padStart(3, '0')}.png`}
+      alt={`Recovered Interrogation character animation: ${animation.name}`}
+      onError={() => setAvailable(false)}
+    />
+  )
+}
+
 function Meter({ label, value, max = 10 }: { label: string; value: number; max?: number }) {
   const bounded = Math.max(0, Math.min(max, value))
   return (
@@ -89,18 +125,49 @@ function App() {
   const [selectedMove, setSelectedMove] = useState<Move | null>(null)
   const [debugOpen, setDebugOpen] = useState(false)
   const [delivering, setDelivering] = useState(false)
+  const [soundOn, setSoundOn] = useState(true)
+  const roomNoiseRef = useRef<HTMLAudioElement>(null)
+  const scoreRef = useRef<HTMLAudioElement>(null)
 
   const node = SCENE.nodes[nodeId]
   const outcome = useMemo(() => determineOutcome(sceneState), [sceneState])
 
+  const playSound = (name: string, volume = 0.7) => {
+    if (!soundOn) return
+    const audio = new Audio(`${LOCAL_ASSET_ROOT}/audio/${name}.ogg`)
+    audio.volume = volume
+    void audio.play()
+  }
+
+  const playNpcVoice = (id: string) => {
+    if (!soundOn) return
+    const audio = new Audio(`/audio/generated/npc/${id}.wav`)
+    audio.volume = 0.92
+    void audio.play()
+  }
+
+  useEffect(() => {
+    const roomNoise = roomNoiseRef.current
+    const score = scoreRef.current
+    if (roomNoise) roomNoise.volume = soundOn ? 0.32 : 0
+    if (score) score.volume = soundOn ? 0.11 : 0
+  }, [soundOn])
+
   const startCall = () => {
     setLog([{ speaker: 'concierge', line: node.npcLine, translation: node.npcTranslation }])
     setPhase('call')
+    playSound('bring-them-in', 0.7)
+    if (soundOn) {
+      void roomNoiseRef.current?.play()
+      void scoreRef.current?.play()
+    }
+    window.setTimeout(() => playNpcVoice(node.id), 650)
   }
 
   const deliverMove = () => {
     if (!selectedMove || delivering) return
     setDelivering(true)
+    playSound('ask-question', 0.55)
 
     window.setTimeout(() => {
       const nextState = applyEffects(sceneState, selectedMove.effects)
@@ -125,6 +192,7 @@ function App() {
         ...nextLog,
         { speaker: 'concierge', line: nextNode.npcLine, translation: nextNode.npcTranslation },
       ])
+      window.setTimeout(() => playNpcVoice(nextNode.id), 350)
     }, 850)
   }
 
@@ -134,6 +202,8 @@ function App() {
     setSceneState(INITIAL_STATE)
     setLog([])
     setSelectedMove(null)
+    roomNoiseRef.current?.pause()
+    scoreRef.current?.pause()
   }
 
   return (
@@ -144,9 +214,14 @@ function App() {
           <p className="eyebrow">FIELD LANGUAGE UNIT / PARIS</p>
           <h1>The Concierge Call</h1>
         </div>
-        <button className="debug-button" onClick={() => setDebugOpen((value) => !value)}>
-          {debugOpen ? 'Hide' : 'Show'} scene machine
-        </button>
+        <div className="header-actions">
+          <button className="debug-button" onClick={() => setSoundOn((value) => !value)}>
+            Sound {soundOn ? 'on' : 'off'}
+          </button>
+          <button className="debug-button" onClick={() => setDebugOpen((value) => !value)}>
+            {debugOpen ? 'Hide' : 'Show'} scene machine
+          </button>
+        </div>
       </header>
 
       {phase === 'briefing' && (
@@ -158,6 +233,10 @@ function App() {
               Daniel Reed, an American renter, was last seen in the lobby at 21:40.
               The concierge says she could not understand him. The tape says otherwise.
             </p>
+            <div className="recovery-note">
+              <span>RECOVERED BUILD LAYER</span>
+              <p>Actual Defold room, character frames, and FMOD sound cues are loaded from the local Interrogation payload. They remain ignored and private.</p>
+            </div>
             <div className="evidence-strip">
               <div className="evidence-photo"><span>DR</span><small>Daniel Reed<br />Missing, 36 hrs</small></div>
               <div className="evidence-card active"><b>01</b><span>Lobby tape</span><small>00:18 / disputed</small></div>
@@ -210,9 +289,13 @@ function App() {
 
           <article className="scene panel">
             <div className={`portrait-stage mood-${node.mood}`}>
+              <img className="room-background" src={`${LOCAL_ASSET_ROOT}/level/background/000.png`} alt="Recovered Interrogation room" />
+              <img className="room-chair" src={`${LOCAL_ASSET_ROOT}/level/chair/000.png`} alt="" />
+              <img className="room-lamp" src={`${LOCAL_ASSET_ROOT}/level/lamp/000.png`} alt="" />
               <div className="signal"><i /><i /><i /><i /><i /></div>
-              <Portrait mood={node.mood} />
-              <div className="caller-id"><span>Mme. Vautrin</span><small>Concierge / 11e arrondissement</small></div>
+              <RecoveredPortrait mood={node.mood} />
+              <img className="room-table" src={`${LOCAL_ASSET_ROOT}/level/table/000.png`} alt="" />
+              <div className="caller-id"><span>Mme. Vautrin</span><small>Concierge / visual stand-in: recovered Diana</small></div>
             </div>
 
             <div className="dialogue-box">
@@ -228,7 +311,11 @@ function App() {
                   <button
                     key={move.id}
                     className={selectedMove?.id === move.id ? 'move-card selected' : 'move-card'}
-                    onClick={() => setSelectedMove(move)}
+                    onClick={() => {
+                      setSelectedMove(move)
+                      playSound('button-press', 0.45)
+                    }}
+                    onMouseEnter={() => playSound('subject-hover', 0.22)}
                   >
                     <span>{move.intent}</span>
                     <b lang="fr">{move.line}</b>
@@ -281,11 +368,15 @@ function App() {
             <dt>Visible questions</dt><dd>{phase === 'call' ? node.moves.length : 0}</dd>
             <dt>Stats</dt><dd>trust / clarity / pressure</dd>
             <dt>Flags</dt><dd>{sceneState.flags.join(', ') || '—'}</dd>
-            <dt>Animation</dt><dd>{phase === 'call' ? node.mood : 'neutral'}</dd>
+            <dt>Animation</dt><dd>{phase === 'call' ? RECOVERED_ANIMATIONS[node.mood].name : 'diana_idle'}</dd>
+            <dt>Visual source</dt><dd>Defold 1.2.171 .texturec + .texturesetc</dd>
+            <dt>Audio source</dt><dd>FMOD FSB5 / original level banks</dd>
           </dl>
           <p>Every speech move has explicit effects and one destination. The authoring validator rejects unknown nodes, effectless choices, and unused teaching targets.</p>
         </aside>
       )}
+      <audio ref={roomNoiseRef} src={`${LOCAL_ASSET_ROOT}/audio/roomnoise.ogg`} loop preload="auto" />
+      <audio ref={scoreRef} src={`${LOCAL_ASSET_ROOT}/audio/tutorial-score.ogg`} loop preload="auto" />
     </main>
   )
 }

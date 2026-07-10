@@ -28,6 +28,25 @@ rhythm, and native accent still require human judgment.
 The pretrained weights are CC BY-NC. Keep the output in ignored local prototype
 storage.
 
+## Full Scene Bake
+
+All six NPC nodes now have deterministic local WAV files under
+`public/audio/generated/npc/`. They were generated in one GPU session with the
+same `female, middle-aged, moderate pitch` voice design and checked with
+Qwen3-ASR-0.6B.
+
+| Node | Duration | ASR gate |
+| --- | ---: | --- |
+| `opening` | 3.64 s | exact words |
+| `language_check` | 3.84 s | exact words |
+| `identify_tenant` | 3.48 s | exact audible words; written gender is inaudible |
+| `denial` | 4.96 s | exact words |
+| `admission` | 4.76 s | exact words |
+| `tape_recognition` | 4.60 s | exact words after the first short take was rejected |
+
+This proves intelligibility, not acting quality. A native reviewer still owns
+accent, rhythm, register, and character approval.
+
 ## Voxtral Hosted Check
 
 Mistral documents French support, short reference-audio conditioning, streaming,

@@ -15,6 +15,9 @@ dist-ssr
 # Generated TTS auditions; regenerate locally and keep model licensing separate.
 public/audio/generated/
 
+# Recovered copyrighted Interrogation game assets; private local prototype only.
+public/interrogation-local/
+
 # Editor directories and files
 .vscode/*
 !.vscode/extensions.json

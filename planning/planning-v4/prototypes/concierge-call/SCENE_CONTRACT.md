@@ -70,6 +70,8 @@ scene failed regardless of prose quality.
 ## Current Prototype Limits
 
 - Choice buttons stand in for bounded speech recognition.
-- The portrait is an original code-native SVG placeholder.
-- The OmniVoice audition is local and non-commercial.
+- The recovered Interrogation room, character animations, and FMOD audio are
+  private local stand-ins and remain ignored by Git.
+- The SVG portrait is now only the missing-asset fallback.
+- Six baked OmniVoice lines are local and non-commercial.
 - The French is a production draft pending native review.

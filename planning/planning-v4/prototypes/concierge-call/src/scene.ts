@@ -62,8 +62,8 @@ export const SCENE: SceneDefinition = {
       id: 'opening',
       beat: 'Contact',
       objective: 'Keep her on the line.',
-      npcLine: "Allô ? Qui est à l'appareil ?",
-      npcTranslation: 'Hello? Who is calling?',
+      npcLine: "Bonjour, madame. Qui est à l'appareil, s'il vous plaît ?",
+      npcTranslation: 'Hello, ma’am. Who is calling, please?',
       mood: 'guarded',
       moves: [
         {
@@ -241,8 +241,8 @@ export const SCENE: SceneDefinition = {
       id: 'tape_recognition',
       beat: 'Recognition',
       objective: 'Get one fact she cannot take back.',
-      npcLine: "Attendez... cette voix. Ce n'est pas Daniel.",
-      npcTranslation: 'Wait… that voice. That is not Daniel.',
+      npcLine: "Attendez une seconde. Cette voix... ce n'est pas Daniel.",
+      npcTranslation: 'Wait a second. That voice… that is not Daniel.',
       mood: 'softened',
       moves: [
         {
