@@ -85,6 +85,7 @@ function RecoveredPortrait({ mood }: { mood: Mood }) {
   const animation = RECOVERED_ANIMATIONS[mood]
   const [frame, setFrame] = useState(0)
   const [available, setAvailable] = useState(true)
+  const safeFrame = frame % animation.frames
 
   useEffect(() => {
     setFrame(0)
@@ -100,7 +101,7 @@ function RecoveredPortrait({ mood }: { mood: Mood }) {
   return (
     <img
       className="recovered-portrait"
-      src={`${LOCAL_ASSET_ROOT}/diana/${animation.name}/${String(frame).padStart(3, '0')}.png`}
+      src={`${LOCAL_ASSET_ROOT}/diana/${animation.name}/${String(safeFrame).padStart(3, '0')}.png`}
       alt={`Recovered Interrogation character animation: ${animation.name}`}
       onError={() => setAvailable(false)}
     />
