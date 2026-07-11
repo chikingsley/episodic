@@ -17,6 +17,9 @@ This folder is not one clean linear spec. It is where references, analysis, narr
 - `technical/`
   Technical notes and implementation thinking that are still in-flight.
 - `prototypes/`
+  - `benchmarks/interrogation-tutorial/` — faithful private reconstruction of
+    the original academy tutorial
+  - `pilots/concierge-call/` — preserved language-mystery concept pilot
   Actual mockups and code experiments.
 
 ## Important Distinction

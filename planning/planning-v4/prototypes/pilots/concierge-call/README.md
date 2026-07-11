@@ -1,6 +1,9 @@
-# The Concierge Call
+# The Concierge Call — Concept Pilot
 
-A Vite/React vertical slice for Dark Mallard's first conversation-puzzle scene.
+A preserved Vite/React concept slice for Dark Mallard's first
+conversation-puzzle scene. This is not the fidelity benchmark for the original
+game. That work now lives in
+[`benchmarks/interrogation-tutorial`](../../benchmarks/interrogation-tutorial/README.md).
 
 ```bash
 npm install
