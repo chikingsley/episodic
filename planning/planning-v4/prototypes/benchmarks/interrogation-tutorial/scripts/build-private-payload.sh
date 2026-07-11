@@ -47,6 +47,7 @@ run_cli export-tutorial "$output/tutorial.json"
 recover generated/extracted/episodes/characters/actor/actor actor
 recover generated/extracted/episodes/characters/tutor/tutor tutor
 recover generated/extracted/level/level level
+recover generated/extracted/level/casefile/casefile casefile-ui
 recover generated/extracted/episodes/casefiles/episode0/en/pages casefile
 recover generated/extracted/level/torture/flashes torture-flashes
 recover generated/extracted/level/torture/file_cabinet torture-cabinet
@@ -76,6 +77,7 @@ extract_audio "$temporary/all-levels.fsb" 4 casefile_close
 extract_audio "$temporary/all-levels.fsb" 33 bring_them_in
 extract_audio "$temporary/all-levels.fsb" 28 cue_ask_question
 extract_audio "$temporary/all-levels.fsb" 38 ask
+extract_audio "$temporary/all-levels.fsb" 43 button_press
 extract_audio "$temporary/all-levels.fsb" 7 tape_stop
 extract_audio "$temporary/all-levels.fsb" 23 tape_start
 extract_audio "$temporary/all-levels.fsb" 12 torture_male_1

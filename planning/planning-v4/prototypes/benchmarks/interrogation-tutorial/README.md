@@ -27,6 +27,10 @@ The React layer interprets local exported data rather than embedding the game's
 dialogue in source code. Conditions, first-use effects, repeating effects,
 flags, empathy, fear, and the final page switch are evaluated at runtime.
 
+See [`PARITY_NOTES.md`](PARITY_NOTES.md) for the source-supported layout,
+animation/layer contract, artist delivery shape, and the intended TTS/lip-sync
+extension.
+
 ## What One Scene Costs
 
 The generated local payload currently contains:
@@ -35,9 +39,9 @@ The generated local payload currently contains:
 | --- | ---: |
 | tutorial orchestration | 10 gates / 27 instructor lines |
 | conversation graph | 15 questions / 30 conditional answers |
-| presentation atlases | 120 named animations / 297 PNG frames |
+| presentation atlases | 145 named animations / 322 PNG frames |
 | case-file art | 2 full pages |
-| original audio | 1 score, 1 ambience bed, 12 interaction/reaction cues |
+| original audio | 1 score, 1 ambience bed, 13 interaction/reaction cues |
 | generated dialogue | none — the original tutorial is unvoiced |
 
 That payload is 39 MB on this machine. It lives under ignored

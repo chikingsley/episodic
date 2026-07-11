@@ -6,18 +6,16 @@ import type { Answer, Question, TutorialData } from './types'
 
 const LOCAL = '/interrogation-local'
 
-const gatePrompts: Record<string, string> = {
-  casefile_open: 'Open the case file on the table, inspect both pages, then close it.',
-  subject_brought_in: 'Bring Douglas Byrd into the interview room.',
-  completed_intro: 'Ask the accusation question and listen to his answer.',
-  empathy_4: 'Build empathy to at least 4. Start soft and revisit questions as his state changes.',
-  fear_4: 'Build fear to at least 4. New answers unlock as the meters change.',
-  recorder_off: 'Stop the recorder.',
-  two_tortures: 'Use exactly two enhanced-interrogation actions.',
-  recorder_on: 'Start the recorder again.',
-  tutorial_won: 'Get the accusation response, then press the terrified subject hard enough to sign.',
-  complete: 'Academy drill complete.',
-}
+const gameHtml = (text: string) =>
+  text
+    .replaceAll('&', '&amp;')
+    .replaceAll('<', '&lt;')
+    .replaceAll('>', '&gt;')
+    .replace(/&lt;(\/?(?:b|i))&gt;/g, '<$1>')
+    .replace(/&lt;color=#([0-9a-fA-F]{6})&gt;/g, '<span style="color:#$1">')
+    .replace(/&lt;\/color&gt;/g, '</span>')
+    .replace(/&lt;\/?nobr&gt;/g, '')
+    .replace(/&lt;img=[^&]+\/&gt;/g, '')
 
 function useAudioSystem(started: boolean) {
   const [muted, setMuted] = useState(false)
@@ -73,18 +71,35 @@ function useAudioSystem(started: boolean) {
 
 function CaseFile({ onClose }: { onClose: () => void }) {
   const [page, setPage] = useState<'brief_episode0' | 'suspect_actor'>('brief_episode0')
+  const [opened, setOpened] = useState(false)
+
+  useEffect(() => {
+    const frame = window.requestAnimationFrame(() => setOpened(true))
+    return () => window.cancelAnimationFrame(frame)
+  }, [])
+
+  const close = () => {
+    setOpened(false)
+    window.setTimeout(onClose, 320)
+  }
+
   return (
-    <div className="casefile-modal" role="dialog" aria-label="Case file">
-      <div className="casefile-tabs">
-        <button className={page === 'brief_episode0' ? 'active' : ''} onClick={() => setPage('brief_episode0')}>
-          Case brief
-        </button>
-        <button className={page === 'suspect_actor' ? 'active' : ''} onClick={() => setPage('suspect_actor')}>
-          Subject
-        </button>
-        <button className="casefile-close" onClick={onClose}>Close file</button>
+    <div className={`casefile-modal ${opened ? 'opened' : ''}`} role="dialog" aria-label="Case file">
+      <div className="casefile-book">
+        <img className="casefile-spread" src={`${LOCAL}/casefile-ui/casefile16/000.png`} alt="Open case-file folder" />
+        <img
+          key={page}
+          className="casefile-page"
+          src={`${LOCAL}/casefile/${page}/000.png`}
+          alt={page === 'brief_episode0' ? 'Case brief' : 'Subject dossier'}
+        />
+        <button className="casefile-close" aria-label="Close case file" onClick={close}>×</button>
+        <button
+          className={`casefile-arrow ${page === 'brief_episode0' ? 'next' : 'previous'}`}
+          aria-label={page === 'brief_episode0' ? 'Next page' : 'Previous page'}
+          onClick={() => setPage(page === 'brief_episode0' ? 'suspect_actor' : 'brief_episode0')}
+        >{page === 'brief_episode0' ? '›' : '‹'}</button>
       </div>
-      <img src={`${LOCAL}/casefile/${page}/000.png`} alt={page === 'brief_episode0' ? 'Case brief' : 'Subject dossier'} />
     </div>
   )
 }
@@ -105,29 +120,51 @@ function Tutor({
   const step = data.script[stepIndex]
   const lineKey = step.lines[Math.min(lineIndex, step.lines.length - 1)]
   const text = data.tutor_lines[lineKey]
+  let requestedAnimation = 'tutor_idle'
+  if (step.id === 'off_record' && lineIndex >= 1) requestedAnimation = 'tutor_secret'
+  if (ready && ['meters', 'fear', 'wrap'].includes(step.id)) requestedAnimation = 'tutor_explain'
+  const [animation, setAnimation] = useState(requestedAnimation)
+
+  useEffect(() => setAnimation(requestedAnimation), [lineKey, ready, requestedAnimation])
+
+  const animationComplete = useCallback(() => {
+    setAnimation((current) => (current === 'tutor_idle' ? 'tutor_idle_blink' : 'tutor_idle'))
+  }, [])
+
   return (
-    <aside className="tutor-panel">
-      <AnimatedSprite root={`${LOCAL}/tutor`} animation={ready ? 'tutor_idle' : 'tutor_explain'} className="tutor" alt="Academy instructor" />
-      <div className="tutor-copy">
-        <div className="eyebrow">Academy instructor · {stepIndex + 1}/{data.script.length}</div>
-        <p>{cleanGameText(text)}</p>
-        {!ready ? (
-          <button className="continue" onClick={onContinue}>Continue</button>
-        ) : (
-          <div className="gate-prompt">{gatePrompts[step.gate]}</div>
-        )}
-      </div>
-    </aside>
+    <>
+      <AnimatedSprite
+        root={`${LOCAL}/tutor`}
+        animation={animation}
+        className="tutor tutor-world"
+        alt="Academy instructor"
+        loop={false}
+        onComplete={animationComplete}
+      />
+      <button
+        className={`tutor-bubble ${ready ? 'ready' : 'continue'}`}
+        disabled={ready}
+        onClick={onContinue}
+      >
+        <span dangerouslySetInnerHTML={{ __html: gameHtml(text) }} />
+        {!ready && <i aria-hidden="true">▼</i>}
+      </button>
+    </>
   )
 }
 
 function Meter({ label, value, kind }: { label: string; value: number; kind: 'empathy' | 'fear' }) {
   const normalized = Math.max(0, Math.min(7, value))
+  const amplitude = 3 + normalized * 2.2
+  const points = Array.from({ length: 17 }, (_, index) => {
+    const x = index * 10
+    const y = index % 2 === 0 ? 20 : 20 + (index % 4 === 1 ? -amplitude : amplitude)
+    return `${x},${y}`
+  }).join(' ')
   return (
     <div className={`meter ${kind}`} aria-label={`${label}: ${value}`}>
       <span>{label}</span>
-      <div className="meter-track"><i style={{ height: `${(normalized / 7) * 100}%` }} /></div>
-      <b>{value}</b>
+      <svg viewBox="0 0 160 40" aria-hidden="true"><polyline points={points} /></svg>
     </div>
   )
 }
@@ -187,6 +224,7 @@ function App() {
 
   const continueTutor = () => {
     if (!step) return
+    audio.play('button_press')
     if (lineIndex < step.lines.length - 1) setLineIndex((current) => current + 1)
     else setReady(true)
   }
@@ -270,24 +308,17 @@ function App() {
 
   return (
     <main className="game-shell">
-      <header className="topbar">
-        <div><span className="brand">INTERROGATION</span><small>Academy reconstruction benchmark</small></div>
-        <div className="top-actions">
-          <span className="health">Actor health {state.health}/7</span>
-          <button onClick={() => audio.setMuted(!audio.muted)}>{audio.muted ? 'Sound off' : 'Sound on'}</button>
-        </div>
-      </header>
-
       <section className="game-stage">
         <div className="room">
           <img className="room-background" src={`${LOCAL}/level/background/000.png`} alt="Interrogation room" />
           <img className="chair" src={`${LOCAL}/level/chair/000.png`} alt="" />
+          <Tutor data={data} stepIndex={stepIndex} lineIndex={lineIndex} ready={ready} onContinue={continueTutor} />
           {subjectPresent && <AnimatedSprite root={`${LOCAL}/actor`} animation={animation} className="actor" alt={subject.name} />}
           <img className="lamp" src={`${LOCAL}/level/lamp/000.png`} alt="" />
           <img className="table" src={`${LOCAL}/level/table/000.png`} alt="" />
           {flash && <AnimatedSprite root={`${LOCAL}/torture-flashes`} animation={flash} className="torture-flash" alt="Impact" />}
 
-          {subjectPresent && (
+          {subjectPresent && stepIndex >= 3 && (
             <div className="meters">
               <Meter label="Open" value={state.empathy} kind="empathy" />
               <Meter label="Fear" value={state.fear} kind="fear" />
@@ -313,7 +344,7 @@ function App() {
               setCasefileOpen(true)
               audio.play('casefile_open')
             }}
-          >CASE FILE</button>
+          ><img src={`${LOCAL}/casefile-ui/casefile3/000.png`} alt="Case file" /></button>
 
           <button
             className={`recorder ${ready && ['recorder_off', 'recorder_on'].includes(activeStep.gate) ? 'highlight' : ''}`}
@@ -334,43 +365,48 @@ function App() {
             <span>{recorderOn ? 'REC' : 'OFF RECORD'}</span>
           </button>
 
-          {ready && activeStep.gate === 'subject_brought_in' && !subjectPresent && (
-            <button className="bring-in" onClick={() => {
-              setSubjectPresent(true)
-              audio.play('bring_them_in')
-              window.setTimeout(advanceStep, 650)
-            }}>Bring in subject</button>
-          )}
-        </div>
-
-        <aside className="question-panel">
-          <div className="subject-card">
-            <img src={`${LOCAL}/avatars/panel_avatar_tutored_actor/000.png`} alt="" />
-            <div><strong>{subject.name}</strong><span>Training subject</span></div>
-          </div>
-          <div className="question-heading">Questioning</div>
-          <div className="questions">
-            {visibleQuestions.map((question) => (
-              <button key={question.id} onClick={() => handleQuestion(question)}>
-                <span>{question.id === 14 || question.id === 13 || question.id === 12 ? 'ACCUSATION' : `Q${question.id}`}</span>
-                {cleanGameText(question.text.text)}
-              </button>
-            ))}
-            {!visibleQuestions.length && <p className="waiting">Follow the instructor’s highlighted action.</p>}
-          </div>
-
-          {ready && activeStep.gate === 'two_tortures' && (
-            <div className="torture-tools">
-              <h3>Enhanced interrogation · {tortureCount}/2</h3>
-              {['grab', 'wall', 'cut'].map((name) => (
-                <button key={name} disabled={tortureCount >= 2} onClick={() => useTorture(name)}>{name}</button>
+          <aside className="question-panel">
+            {ready && activeStep.gate === 'subject_brought_in' && !subjectPresent && (
+              <button className="bring-in" onClick={() => {
+                setSubjectPresent(true)
+                audio.play('bring_them_in')
+                window.setTimeout(advanceStep, 650)
+              }}>Bring them in</button>
+            )}
+            <div className="questions">
+              {visibleQuestions.map((question) => (
+                <button
+                  className={question.id >= 12 && question.id <= 14 ? 'accusation' : ''}
+                  key={question.id}
+                  onClick={() => handleQuestion(question)}
+                >{cleanGameText(question.text.text)}</button>
               ))}
             </div>
+
+            {ready && activeStep.gate === 'two_tortures' && (
+              <div className="torture-tools">
+                <h3>Enhanced interrogation · {tortureCount}/2</h3>
+                {['grab', 'wall', 'cut'].map((name) => (
+                  <button key={name} disabled={tortureCount >= 2} onClick={() => useTorture(name)}>{name}</button>
+                ))}
+              </div>
+            )}
+          </aside>
+
+          {subjectPresent && (
+            <div className="subject-card" title={subject.name}>
+              <img src={`${LOCAL}/avatars/panel_avatar_tutored_actor/000.png`} alt={subject.name} />
+            </div>
           )}
-        </aside>
+
+          <button className="pause-control" type="button">PAUSE</button>
+          <button className="sound-control" onClick={() => audio.setMuted(!audio.muted)}>
+            {audio.muted ? 'SOUND OFF' : 'SOUND ON'}
+          </button>
+          <span className="health">ACTOR {state.health}/7</span>
+        </div>
       </section>
 
-      <Tutor data={data} stepIndex={stepIndex} lineIndex={lineIndex} ready={ready} onContinue={continueTutor} />
       {casefileOpen && <CaseFile onClose={() => {
         setCasefileOpen(false)
         audio.play('casefile_close')

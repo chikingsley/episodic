@@ -1,4 +1,4 @@
-import { useEffect, useMemo, useState } from 'react'
+import { useEffect, useMemo, useRef, useState } from 'react'
 import type { AtlasManifest } from './types'
 
 const manifests = new Map<string, Promise<AtlasManifest>>()
@@ -21,14 +21,23 @@ export function AnimatedSprite({
   animation,
   className = '',
   alt,
+  loop = true,
+  onComplete,
 }: {
   root: string
   animation: string
   className?: string
   alt: string
+  loop?: boolean
+  onComplete?: () => void
 }) {
   const [manifest, setManifest] = useState<AtlasManifest>()
   const [frame, setFrame] = useState(0)
+  const completeCallback = useRef(onComplete)
+
+  useEffect(() => {
+    completeCallback.current = onComplete
+  }, [onComplete])
 
   useEffect(() => {
     let live = true
@@ -44,11 +53,20 @@ export function AnimatedSprite({
   useEffect(() => {
     setFrame(0)
     if (!clip || clip.frames.length < 2) return
+    let completed = false
     const timer = window.setInterval(() => {
-      setFrame((current) => (current + 1) % clip.frames.length)
+      setFrame((current) => {
+        if (current < clip.frames.length - 1) return current + 1
+        if (loop) return 0
+        if (!completed) {
+          completed = true
+          window.queueMicrotask(() => completeCallback.current?.())
+        }
+        return current
+      })
     }, speed)
     return () => window.clearInterval(timer)
-  }, [animation, clip, speed])
+  }, [animation, clip, loop, speed])
 
   const source = useMemo(() => {
     if (!clip) return ''
